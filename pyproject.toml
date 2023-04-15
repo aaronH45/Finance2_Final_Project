@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "finance2-final-project"
+version = "0.1.0"
+description = ""
+authors = ["aaronh45 <aaron.huberman00@gmail.com>"]
+readme = "README.md"
+packages = [{include = "finance2_final_project"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.2"
+pandas = "^2.0.0"
+matplotlib = "^3.7.1"
+requests = "^2.28.2"
+edgar = "^5.4.3"
+sec-api = "^1.0.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
