@@ -1479,21 +1479,6 @@ socks = ["PySocks (>=1.5.6,!=1.5.7)"]
 use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 
 [[package]]
-name = "sec-api"
-version = "1.0.15"
-description = "SEC EDGAR Filings API"
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "sec-api-1.0.15.tar.gz", hash = "sha256:8ebdf03fa0476a6de502de29cd6cca72a9250e057a558d984cb58b0cc77016ac"},
-    {file = "sec_api-1.0.15-py3-none-any.whl", hash = "sha256:d9b36091745bb133cafb6e607097ca04c08ce086a8e71e8ee4027326a295e58d"},
-]
-
-[package.dependencies]
-requests = "*"
-
-[[package]]
 name = "six"
 version = "1.16.0"
 description = "Python 2 and 3 compatibility utilities"
@@ -1627,4 +1612,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "2718eceab9dbc383905a2afb69c2ca88f5b8d59d606f646b94ad7936c3f53c75"
+content-hash = "4e85268f1b40077fa5559146d93312f41831822691d2b7162d41536eca5cc74b"
