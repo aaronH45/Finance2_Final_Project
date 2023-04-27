@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000056873",
+    "sec_company_name": "KROGER CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210223",
+    "sec_filing_date": "20210301",
+    "sec_changed_date": "20210301",
+    "sec_accepted_date": "20210301164726",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/56873/000110465921030063/0001104659-21-030063-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/56873/000110465921030063/0001104659-21-030063.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\KR_0000056873_8K_20210223_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "22624 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2554,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?               ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "KR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\KR_0000056873_8K_20210223_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:36.737470"
+}

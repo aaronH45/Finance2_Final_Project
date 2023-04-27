@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000915913",
+    "sec_company_name": "ALBEMARLE CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210203",
+    "sec_filing_date": "20210208",
+    "sec_changed_date": "20210208",
+    "sec_accepted_date": "20210208161539",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/915913/000091591321000012/0000915913-21-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/915913/000091591321000012/0000915913-21-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\ALB_0000915913_EX991_20210203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11644 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7478,
+    "endpoints": [
+        "Document",
+        "Some of the information presented in this press release, including, without limitation, statements regarding the terms of the public offering, the intended use of proceeds from the offering and the satisfaction of customary closing conditions with respect to the offering, and information related to product development, production capacity, committed volumes, market trends, pricing, expected growth, earnings and demand for our products, input costs, surcharges, tax rates, stock repurchases, dividends, cash flow generation, costs and cost synergies, capital projects, economic trends, outlook and all other information relating to matters that are not historical facts may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results could differ materially from the views expressed. Factors that could cause actual results to differ materially from the outlook expressed or implied in any forward-looking statement include, without limitation: changes in economic and business conditions; changes in financial and operating performance of our major customers and industries and markets served by us; the timing of orders received from customers; the gain or loss of significant customers; competition from other manufacturers; changes in the demand for our products or the end-user markets in which our products are sold; limitations or prohibitions on the manufacture and sale of our products; availability of raw materials; increases in the cost of raw materials and energy, and our ability to pass through such increases to our customers; changes in our markets in general; fluctuations in foreign currencies; changes in laws and government regulation impacting our operations or our products; the occurrence of regulatory actions, proceedings, claims or litigation; the occurrence of cyber-security breaches, terrorist attacks, industrial accidents, natural disasters or climate change; the inability to maintain current levels of product or premises liability insurance or the denial of such coverage; political unrest affecting the global economy, including adverse effects from terrorism or hostilities; political instability affecting our manufacturing operations or joint ventures; changes in accounting standards; the inability to achieve results from our global manufacturing cost reduction initiatives as well as our ongoing continuous improvement and rationalization programs; changes in the jurisdictional mix of our earnings and changes in tax laws and rates; changes in monetary policies, inflation or interest rates that may impact our ability to raise capital or increase our cost of funds, impact the performance of our pension fund investments and increase our pension expense and funding obligations; volatility and uncertainties in the debt and equity markets; technology or intellectual property infringement, including cyber-security breaches, and other innovation risks; decisions we may make in the future; the ability to successfully execute, operate and integrate acquisitions and divestitures; uncertainties as to the duration and impact of the coronavirus (COVID-19) pandemic; and the other factors detailed from time to time in the reports we file with the SEC, including those described under “Risk Factors” in our Annual Report on Form 10-K and our Quarterly Reports on Form 10-Q. These forward-looking statements speak only as of the date of this press release. We assume no obligation to provide any revisions to any forward-looking statements should circumstances change, except as otherwise required by securities and other applicable laws."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ALB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\ALB_0000915913_EX991_20210203_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:09:07.774264"
+}

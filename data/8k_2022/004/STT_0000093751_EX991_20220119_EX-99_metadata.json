@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220119",
+    "sec_filing_date": "20220119",
+    "sec_changed_date": "20220119",
+    "sec_accepted_date": "20220119072701",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375122000013/0000093751-22-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375122000013/0000093751-22-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\STT_0000093751_EX991_20220119_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "372214 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34728,
+    "endpoints": [
+        "Document",
+        "Other important factors that could cause actual results to differ materially from those indicated by any forward-looking statements are set forth in our 2020 Annual Report on Form 10-K and our subsequent SEC filings. We encourage investors to read these filings, particularly the sections on risk factors, for additional information with respect to any forward-looking statements and prior to making any investment decision. The forward-looking statements contained in this News Release (and the conference call referenced herein) should not by relied on as representing our expectations or beliefs as of any time subsequent to the time this News Release is first issued, and we do not undertake efforts to revise those forward-looking statements to reflect events after that time."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\STT_0000093751_EX991_20220119_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:56.120977"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000313616",
+    "sec_company_name": "DANAHER CORP /DE/ (Filer)",
+    "document_type": "EX991PRE",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210113",
+    "sec_filing_date": "20210113",
+    "sec_changed_date": "20210113",
+    "sec_accepted_date": "20210113072348",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/313616/000031361621000004/0000313616-21-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/313616/000031361621000004/0000313616-21-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\DHR_0000313616_EX991PRE_20210113_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16436 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13339,
+    "endpoints": [
+        "jpmpresoslidesfinalv2   ",
+        "Molecular Diagnostics: Where We Play & How We Win 10 HOW WE WIN • Largest global installed base: ~30,000 instruments • Broadest test menu: >35 OUS, >20 in the US • Workflow + speed + accuracy Unique & leading position in critical point-of-care environments Cepheid GeneXpert® Systems & test cartridge BEST-IN-CLASS MOLECULAR DX • Unique position at critical, point-of-care settings • Simplified workflow: “sample in, result out” • Scalable, random-access systems 2016 (At Acq.) 2019 2020E ANNUAL REVENUE & TOTAL INSTALLED BASE ~$0.6B ~$1B ~$2B >10K ~30K >20K"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DHR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\DHR_0000313616_EX991PRE_20210113_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:53:57.668926"
+}

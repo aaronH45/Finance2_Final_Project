@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001113169",
+    "sec_company_name": "PRICE T ROWE GROUP INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20161230",
+    "sec_filing_date": "20170104",
+    "sec_changed_date": "20170104",
+    "sec_accepted_date": "20170104153806",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316917000002/0001113169-17-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316917000002/0001113169-17-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TROW_0001113169_EX991_20161230_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5785 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4199,
+    "endpoints": [
+        "exhibit99  ",
+        " sophisticated investment planning and guidance tools. T. Rowe Price’s disciplined, risk-aware investment approach focuses on diversification, style consistency, and fundamental research. The strategies, products and services mentioned are offered via subsidiaries of T. Rowe Price Group, Inc. This does not constitute a distribution, an offer, an invitation, a recommendation, or a solicitation to sell or buy any securities in any jurisdiction. T. ROWE PRICE, INVEST WITH CONFIDENCE, and the Bighorn Sheep design are, collectively and/or apart, trademarks or registered trademarks of T. Rowe Price Group, Inc. in the United States, European Union, and other countries. ### CONTACT T. ROWE PRICE, PUBLIC RELATIONS Brian Lewbart 410-345-2242 brian_lewbart@troweprice.com Briana Wessell 410-577-8025 briana_wessell@troweprice.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TROW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TROW_0001113169_EX991_20161230_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:30.610010"
+}

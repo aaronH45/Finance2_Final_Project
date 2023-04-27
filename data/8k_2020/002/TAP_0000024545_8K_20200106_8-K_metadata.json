@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000024545",
+    "sec_company_name": "MOLSON COORS BEVERAGE CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200106",
+    "sec_filing_date": "20200106",
+    "sec_changed_date": "20200106",
+    "sec_accepted_date": "20200106145007",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/24545/000115752320000017/0001157523-20-000017-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/24545/000115752320000017/0001157523-20-000017.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\TAP_0000024545_8K_20200106_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "33534 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4429,
+    "endpoints": [
+        "false000002454500000245452020-01-062020-01-060000024545country:CA2020-01-062020-01-060000024545us-gaap:CommonClassBMember2020-01-062020-01-060000024545tap:SeniorNotesDue2024Member2020-01-062020-01-060000024545us-gaap:CommonClassAMember2020-01-062020-01-06 ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\TAP_0000024545_8K_20200106_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:39:30.356048"
+}

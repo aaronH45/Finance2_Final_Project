@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000034088",
+    "sec_company_name": "EXXON MOBIL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220131",
+    "sec_filing_date": "20220131",
+    "sec_changed_date": "20220131",
+    "sec_accepted_date": "20220131161920",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/34088/000003408822000002/0000034088-22-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/34088/000003408822000002/0000034088-22-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\XOM_0000034088_EX991_20220131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22639 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7061,
+    "endpoints": [
+        "Document",
+        "Outlooks, projections, estimates, goals, targets, descriptions of business plans and objectives, market expectations and other statements of future events or conditions in this release are forward-looking statements. Actual future results, including future earnings and cash flows; cost savings; business performance; market position; and shareholder returns could differ materially due to a number of factors. These include changes in oil or gas demand, supply, prices or other market conditions affecting the oil, gas, petroleum and petrochemical industries; the ability to execute operational objectives and realize the benefits of organizational changes on a timely and successful basis; timely completion and startup of new projects; the outcome of research efforts and future technology developments; changes in laws or regulations, including treaties and laws regarding the environment; development of government policies and markets including with respect to lower-emission products; actions of competitors; war and other political or security disturbances; the outcome of commercial negotiations; the pace of recovery from the COVID-19 pandemic, and responsive actions taken by governments and consumers; general economic conditions, including the occurrence and duration of economic recessions; and other factors discussed in Item 1A. Risk Factors in our most recent Form 10-K and under the heading “Factors Affecting Future Results” available through the Investors page of our website at www.exxonmobil.com. For additional information on cash operating costs see “Frequently Used Terms” also available through our website."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "XOM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\XOM_0000034088_EX991_20220131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:04.159075"
+}

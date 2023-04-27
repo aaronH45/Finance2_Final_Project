@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000773840",
+    "sec_company_name": "HONEYWELL INTERNATIONAL INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210129",
+    "sec_filing_date": "20210129",
+    "sec_changed_date": "20210129",
+    "sec_accepted_date": "20210129070233",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/773840/000077384021000005/0000773840-21-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/773840/000077384021000005/0000773840-21-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HON_0000773840_EX99_20210129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "498988 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25067,
+    "endpoints": [
+        "Document",
+        "Should the proposed reorganization plan contemplated in the Plan Support Agreement signed by Centerbridge, Oaktree, Honeywell, Garrett and certain other parties thereto (the “Reorganization Plan”) be confirmed by the bankruptcy court, we will revise our definition of free cash flow to include cash payments from Garrett to Honeywell. We believe this revised definition will be useful to investors and management because, under the IRA and TMA, cash reimbursements from Garret were classified as cash flow from operations, which offset cash payments made by the Company for asbestos and tax related matters. Should the Reorganization Plan be confirmed, the IRA and TMA will terminate, and instead of reimbursements classified as cash flow from operations, Honeywell will receive the cash payment stream contemplated under the Reorganization Plan. However, because the underlying reason for a cash payment stream from Garrett will not have changed, we believe that continuing to include cash payments from Garrett in free cash flow is useful to investors and management for comparability to prior periods."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HON",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HON_0000773840_EX99_20210129_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:01.693717"
+}

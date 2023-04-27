@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001578845",
+    "sec_company_name": "Allergan plc (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160222",
+    "sec_filing_date": "20160222",
+    "sec_changed_date": "20160222",
+    "sec_accepted_date": "20160222074515",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1578845/000114420416083522/0001144204-16-083522-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1578845/000114420416083522/0001144204-16-083522.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\AGN_0001578845_8K_20160222_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23602 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5945,
+    "endpoints": [
+        "UNITED STATES  ",
+        " 99.1   Press Release of Allergan plc entitled “Allergan Reports Exceptional Fourth Quarter 2015 Continuing Operations Performance with 74% Increase in Net Revenue to $4.2 Billion 33% Growth in Non-GAAP EPS to $3.41” dated February 22, 2016."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AGN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\AGN_0001578845_8K_20160222_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:53:50.435512"
+}

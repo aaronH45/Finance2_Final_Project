@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001050915",
+    "sec_company_name": "QUANTA SERVICES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150219",
+    "sec_filing_date": "20150219",
+    "sec_changed_date": "20150219",
+    "sec_accepted_date": "20150219061036",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1050915/000119312515053350/0001193125-15-053350-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1050915/000119312515053350/0001193125-15-053350.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PWR_0001050915_EX991_20150219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "157291 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28450,
+    "endpoints": [
+        "EX-99.1   ",
+        " (f) To eliminate non-cash stock-based compensation expense. The amount for the twelve months ended December 31, 2013 includes approximately $4.3 million related to the accelerated vesting of equity-based awards associated with the retirement of Quanta’s former chairman effective May 23, 2013."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PWR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PWR_0001050915_EX991_20150219_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:16:09.204395"
+}

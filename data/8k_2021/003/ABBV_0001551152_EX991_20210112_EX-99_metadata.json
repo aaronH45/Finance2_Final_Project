@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001551152",
+    "sec_company_name": "AbbVie Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210112",
+    "sec_filing_date": "20210112",
+    "sec_changed_date": "20210112",
+    "sec_accepted_date": "20210112163055",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1551152/000110465921003462/0001104659-21-003462-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1551152/000110465921003462/0001104659-21-003462.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\ABBV_0001551152_EX991_20210112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "40880 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17762,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "  AbbVie’s Partnered Assets Skyrizi developed in cooperation with Boehringer Ingelheim Imbruvica jointly developed and commercialized with Janssen Biotech Venclexta developed by AbbVie and Roche, commercialized by AbbVie and Genentech, a member of the Roche Group Epcoritamab, GEN1044 and GEN3009 jointly developed with Genmab Elagolix developed in cooperation with Neurocrine Biosciences ALPN-101 developed by Alpine through Phase 2 and AbbVie holds option for additional development and commercialization ABBV-CX-2029 developed in cooperation with CytomX Therapeutics ABBV-8E12 developed in cooperation with C2N Diagnostics AL002/AL003 developed by Alector through Phase 2 and AbbVie holds option for additional development and commercialization ABBV-157 developed in cooperation with Inventiva ABBV-151 developed in cooperation with Argenx ABBV-621 (Eftoza) developed in cooperation with Apogenix ABBV-647 developed in cooperation with Pfizer CCW702 / CLBR001 / SWI019 developed by Calibr in a first-in-patient trial and AbbVie holds option to license the program JAB-3068 / JAB-3312 developed in cooperation with Jacobio HPN-217 developed by Harpoon through Phase 1/2 and AbbVie holds option for additional development and commercialization TNB-383B developed by TeneoOne through Phase 1 and AbbVie holds exclusive right to acquire TeneoOne TTX-030 developed by Trishula Therapeutics through Phase 1b and AbbVie has option to lead global development and commercialization ABBV-IMAB-TJC4 (CD47) developed in cooperation with I-Mab ABBV-0805 developed in cooperation with BioArctic"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ABBV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\ABBV_0001551152_EX991_20210112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:08:35.539387"
+}

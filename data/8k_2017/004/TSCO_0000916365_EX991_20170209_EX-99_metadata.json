@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000916365",
+    "sec_company_name": "TRACTOR SUPPLY CO /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170209",
+    "sec_filing_date": "20170209",
+    "sec_changed_date": "20170209",
+    "sec_accepted_date": "20170209091718",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636517000022/0000916365-17-000022-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636517000022/0000916365-17-000022.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TSCO_0000916365_EX991_20170209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8700 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1875,
+    "endpoints": [
+        "Exhibit   ",
+        "Tractor Supply Company also owns and operates Petsense, a small-box pet specialty supply retailer focused on meeting the needs of pet owners, primarily in small and mid-size communities, and offering a variety of pet products and services. At December 31, 2016, the Company operated 143 Petsense stores in 26 states. For more information on Petsense, visit www.petsense.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TSCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TSCO_0000916365_EX991_20170209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:13:18.243168"
+}

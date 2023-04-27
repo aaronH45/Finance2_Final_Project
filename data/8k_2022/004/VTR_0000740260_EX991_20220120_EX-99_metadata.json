@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000740260",
+    "sec_company_name": "Ventas, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220120",
+    "sec_filing_date": "20220120",
+    "sec_changed_date": "20220120",
+    "sec_accepted_date": "20220120172449",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/740260/000110465922006035/0001104659-22-006035-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/740260/000110465922006035/0001104659-22-006035.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\VTR_0000740260_EX991_20220120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22283 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17203,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        " 9 Recent case increase follows US wide trend; operators reporting generally mild cases in both residents and staff 1. Reflects case data for all SHOP total owned assets, incl. HFS ; VTR COVID case data as of 01/14/2022; 2. Case data as of 0 1/1 42022; Reflects John’s Hopkins COVID database used for confirmed data; 3. U.S. vaccination data sourced from public health we bsi tes; 4. CDC.gov. 5. 10 operators (91% of our SHOP communities) have begun reporting COVID - 19 booster doses and/or flu shot uptake. VTR U.S. & Canada SHOP New Resident Cases (7 - day average) 1 Nearly all VTR SHOP communities open for move - ins Recently elevated case rates in VTR’s SHOP Communities, although severity remains mild ▪ Nearly all residents are fully vaccinated and leading operators like Atria and Sunrise have adopted employee vaccine mandates resulting in almost all employees being vaccinated ▪ 72% of our communities either never had a confirmed COVID - 19 case or have not experienced a confirmed resident case during the 7 days ending 1/14 – vaccine effectiveness helping to limit cases to mild or minimal symptoms if instances do occur ▪ Operators have expanded overall resident offerings & activities while maintaining effective safety protocols , including masks, temperature checks, health surveys for employees and visitors and vaccine booster clinics ▪ Quebec communities remain open to move - ins via admissions approval process with local authorities SHOP Clinical Update (as of 1/14) Booster clinics ongoing and streamlined with annual flu shots Over 65% of eligible residents have received their booster VTR communities have given out over 35,000 booster doses to residents and staff Around 50% of residents and staff received a flu shot in communities tracking uptake 0 20 40 60 80 100 120 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21 Jul-21 Aug-21 Sep-21 Oct-21 Nov-21 Dec-21 Jan-22 New Resident Cases 0 2 4 6 8 10 12 0 100 200 300 400 500 600 700 Jan21 Feb21 Mar21 Apr21 May21 Jun21 Jul21 Aug21 Sep21 Oct21 Nov21 Dec21 Jan22 Deaths Per Day (0,000s) Cases Per Day (0,000s) Cases Deaths The U.S. has seen a wave of cases over the last several weeks due to the Omicron Variant ▪ The Omicron variant accounted for 95% of U.S. COVID - 19 cases diagnosed during the week ending on Jan. 1, according to the CDC ▪ Anthony Fauci, the Biden administration’s chief medical adviser, said preliminary data suggests that the Omicron variant of t he coronavirus may be less severe than the previously dominant delta variant, especially for those who have received their vaccines and boosters ▪ More than 88% of U.S. seniors 65+ and 93% of Canadian seniors 70+ are fully vaccinated ; m ajority of recent cases are under the age of 50 General U.S. Population Confirmed Cases & Deaths (7 - day average) 2,3,4,5"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VTR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\VTR_0000740260_EX991_20220120_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:10.167981"
+}

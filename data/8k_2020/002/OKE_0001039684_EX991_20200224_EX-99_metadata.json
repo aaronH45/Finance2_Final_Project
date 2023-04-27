@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200224",
+    "sec_filing_date": "20200224",
+    "sec_changed_date": "20200224",
+    "sec_accepted_date": "20200224165831",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968420000010/0001039684-20-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968420000010/0001039684-20-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\OKE_0001039684_EX991_20200224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "73974 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 45124,
+    "endpoints": [
+        "okeq42019earningsrelease   ",
+        " ONEOK Announces 11% Increase in 2019 Net Income; Announces 2020 Financial Guidance and 2021 Outlook Feb. 24, 2020 Page 20 ONEOK, Inc. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES 2020 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of net income to adjusted EBITDA and distributable cash flow Net income $ 1,355 - $ 1,605 Interest expense, net of capitalized interest 670 - 640 Depreciation and amortization 600 - 580 Income taxes 420 - 520 Noncash compensation expense 50 - 30 Equity AFUDC and other non-cash items 5 - (25 ) Adjusted EBITDA $ 3,100 - $ 3,350 Interest expense, net of capitalized interest (670) - (640 ) Maintenance capital (220) - (200 ) Equity in net earnings from investments (130) - (180 ) Distributions received from unconsolidated affiliates 170 - 190 Other (5) - (15 ) Distributable cash flow $ 2,245 - $ 2,505 2020 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of segment adjusted EBITDA to adjusted EBITDA Segment Adjusted EBITDA: Natural Gas Liquids $ 1,945 - $ 2,075 Natural Gas Gathering and Processing 790 - 860 Natural Gas Pipelines 365 - 405 Other — - 10 Adjusted EBITDA $ 3,100 - $ 3,350"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\OKE_0001039684_EX991_20200224_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:42:09.697360"
+}

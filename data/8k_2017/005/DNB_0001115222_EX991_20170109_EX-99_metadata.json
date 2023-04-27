@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001115222",
+    "sec_company_name": "DUN & BRADSTREET CORP/NW (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170109",
+    "sec_filing_date": "20170110",
+    "sec_changed_date": "20170110",
+    "sec_accepted_date": "20170110163455",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1115222/000119312517006875/0001193125-17-006875-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1115222/000119312517006875/0001193125-17-006875.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DNB_0001115222_EX991_20170109_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7722 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4065,
+    "endpoints": [
+        "EX-99.1   ",
+        "Dun & Bradstreet (NYSE: DNB) grows the most valuable relationships in business. By uncovering truth and meaning from data, we connect our customers with the prospects, suppliers, clients and partners that matter most, and have since 1841. Nearly ninety percent of the Fortune 500, and companies of every size around the world, rely on our data, insights and analytics. For more about Dun & Bradstreet, visit DNB.com. Twitter: @DnBUS"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DNB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DNB_0001115222_EX991_20170109_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:07.827706"
+}

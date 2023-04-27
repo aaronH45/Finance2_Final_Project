@@ -1,0 +1,103 @@
+Document
+
+Exhibit 99.1
+
+Investor Relations Contact:
+
+Suresh Bhaskaran 
+
+Xilinx, Inc.
+
+(408) 879-4784 
+
+ir@xilinx.com
+
+XILINX REPORTS THIRD QUARTER FISCAL YEAR 2021 RESULTS
+
+[DATA_TABLE_REMOVED]
+
+SAN JOSE, Calif., January 27, 2021 -- Xilinx, Inc. (Nasdaq: XLNX), the leader in adaptive computing, today announced revenues of $803 million for the third quarter of fiscal year 2021.
+
+GAAP net income for the quarter was $171 million, or $0.69 per diluted share. Non-GAAP net income was $194 million, or $0.78 per diluted share.
+
+Additional third quarter of fiscal year 2021 comparisons are provided in the charts below.
+
+Q3 Fiscal 2021 Financial Highlights
+
+(In millions, except EPS)
+
+[DATA_TABLE_REMOVED]
+
+“Third quarter revenues exceeded the high end of our guidance, delivering both sequential and annual growth, demonstrating strengthening business conditions and solid execution,” said Victor Peng, Xilinx president and CEO. “Our Wired and Wireless Group performed better than expected as 5G deployments ramped more meaningfully in North America. We achieved a record quarter in Automotive, Broadcast and Consumer end markets, driven by the ongoing economic recovery, as demand for automobiles strengthened and live media events returned. In addition, as expected, our first 7nm Versal ACAP has gone into production with a leading wireless OEM. We are excited to see the Versal product portfolio begin to contribute to Xilinx’s long-term growth.”
+
+“Our investments continue to deliver strong returns, with our Advanced Products growing 8% sequentially and representing 72% of total revenue,” said Brice Hill, Xilinx CFO. “We continue to drive our transformation to a platform company as demonstrated by our Zynq platform product revenue growing 24% sequentially, making up 27% of total revenue during the quarter. Our efficient financial model generated significant free cash flow of $354 million, or 44% of Q3 revenue.”
+
+[DATA_TABLE_REMOVED]
+
+Products are classified as follows:
+
+Advanced Products: Alveo and related products, UltraScale+, UltraScale and 7-series products.
+
+Core Products: Virtex-6, Spartan-6, Virtex‐5, CoolRunner‐II, Virtex-4, Virtex-II, Spartan-3, Spartan-2, XC9500 products, configuration solutions, software & support/services.
+
+Key Statistics:  
+
+(Dollars in Millions)
+
+[DATA_TABLE_REMOVED]
+
+(1)Free Cash Flow = Operating Cash Flow - Capital Expenditures (including software)
+
+Product and Financial Highlights - Fiscal Third Quarter 2021
+
+•Advanced Products represented 72% of total revenue, an 8% increase quarter over quarter and a 15% increase year over year. Zynq platform revenue grew 24% sequentially and 29% year over year, representing 27% of the total revenue. The sequential strength was driven by improvement in the Automotive and Broadcast end markets and the ramp of 5G in the Wireless end market.
+
+•Xilinx shipped its first production 7nm Versal ACAP parts to a leading wireless OEM, enabling the advanced signal processing performance and adaptability needed to deliver the next-generation 5G technologies like beamforming. Xilinx continues to make progress on broadening the Versal portfolio with additional Versal products in late-stage development.
+
+•Xilinx introduced Zynq RFSoC DFE, which combines hardened digital front-end (DFE) blocks and adaptable logic to build high-performance, low-power, and cost-effective 5G NR radio solutions for a broad array of use cases, ranging across low, mid and high-band spectrum.
+
+•Xilinx announced a collaboration with Texas Instruments to develop scalable and adaptable DFE solutions to increase energy efficiency of lower antenna count radios. 
+
+•Xilinx and Samsung announced the availability of the Samsung SmartSSD Computational Storage Drive (CSD). Powered by Xilinx’s FPGAs, the SmartSSD CSD provides the performance, customization, and scalability required by data-intensive applications.
+
+•Xilinx announced the acquisition of Falcon Computing Solutions, Inc., a leading provider of high-level synthesis compiler optimization technology for hardware acceleration of software applications.
+
+Commentary on AMD Transaction
+
+As announced on October 27, 2020, Advanced Micro Devices, Inc. (AMD) intends to acquire Xilinx in an all-stock transaction valued at $35 billion. The combination enhances AMD’s leadership position in high performance computing, significantly expanding the breadth of AMD’s product portfolio and customer set across diverse growth markets where Xilinx is an established leader. Due to the pending acquisition, Xilinx will not hold an earnings conference call or provide forward-looking guidance. Also, pursuant to the terms of the Merger Agreement between the Company and AMD, Xilinx will suspend declaration and distribution of its quarterly dividend as well as its open market stock repurchase program.
+
+Non-GAAP Financial Information
+
+Fiscal third quarter 2021 results include financial measures which are not determined in accordance with the United States generally accepted accounting principles (GAAP), as indicated. Non-GAAP measures should not be considered as a substitute for, or superior to, financial measures determined in accordance with GAAP. The presentation of non-GAAP financial measures has been reconciled, in each case, to the most directly comparable GAAP measure, as indicated in the accompanying tables. Xilinx’s (the Company) calculation of such non-GAAP measures may not be comparable to similarly-titled measures used by other companies.
+
+Management uses the non-GAAP financial measures disclosed herein, other than free cash flow, to evaluate the Company's financial results from continuing operations (excluding the impact of acquisitions) and compare to operating performance in past periods. Similarly, Management believes presentation of these non-GAAP measures is useful to investors because it enables investors and analysts to evaluate operating expenses of the Company's core business, excluding the impact of non-core business expenses, such as acquisition-related amortization and non-recurring items, as described below:
+
+M&A related expenses: These expenses mainly consist of legal, advisory and consulting fees associated with acquisition activities, and also include fees and retention compensation related to the Company’s acquisition by AMD. The Company believes these costs do not reflect its current operating performance.
+
+Amortization of acquisition-related intangibles: Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology acquired in connection with 
+
+business combinations. The non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Income taxes: The Company excludes the income tax effects of non-GAAP adjustments reflected in operating expenses and other income, as detailed above. It also excludes other significant tax effects of post-acquisition tax integration transactions. The Company believes excluding post-acquisition tax integration items will facilitate a comparable evaluation of its current performance to its past performance. 
+
+In addition, free cash flow, which is cash flow from operations adjusted to exclude additions to software, property, plant, and equipment, is used by management when assessing the Company’s sources of liquidity, capital resources, and quality of earnings. The Company believes that this non-GAAP financial measure is helpful in understanding the Company’s capital requirements and provides an additional means to evaluate the cash flow trends of the Company’s business.
+
+Forward-Looking Statements
+
+This release contains forward-looking statements, which can often be identified by the use of forward-looking words such as “expect,” “believe,” “may,” “will,” “could,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” or other similar expressions. Statements that refer to or are based on uncertain events or assumptions also identify forward-looking statements. Such forward-looking statements include, but are not limited to, statements related to our proposed acquisition by AMD, the semiconductor market, the growth and acceptance of our products, expected revenue growth, the demand and growth in the markets we serve, and opportunity for expansion into new markets. Undue reliance should not be placed on such forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties, including, among others, the impact of the ongoing COVID-19 pandemic and related mitigation measures (which, in addition to presenting its own risks and uncertainties, may also heighten the other risks and uncertainties faced by our business and decrease our visibility into all aspects of our business); closing of the proposed transaction with AMD on anticipated timing (including the risk that the conditions to the transaction are not satisfied on a timely basis or at all or the failure of the transaction to close for any other reason) and terms (including obtaining the anticipated tax treatment, regulatory approvals, required consents or authorizations); unanticipated difficulties or expenditures relating to the transaction; the response of business partners and retention as a result of the announcement and pendency of the transaction; the diversion of management time on transaction-related matters; customer acceptance of our new products; changing global economic conditions; our dependence on certain customers; trade and export restrictions; the condition and performance of our customers and the end markets in which they participate; our ability to forecast end customer demand; a high dependence on turns business; more customer volume discounts than expected; greater product mix changes than anticipated; fluctuations in manufacturing yields; our ability to deliver product in a timely manner; our ability to successfully manage production at multiple foundries; our reliance on third parties (including distributors); variability in wafer pricing; costs and liabilities associated with current and future litigation (including litigation relating to the proposed transaction with AMD); our ability to generate cost and operating expense savings in an efficient and timely manner; our ability to realize the goals contemplated by our acquisitions and strategic investments; the impact of current and future legislative and regulatory changes; the impact of new accounting pronouncements and tax laws, including the U.S. Tax Cuts and Jobs Act, and interpretations thereof; and other risk factors described in our most recent Forms 10-Q and 10-K and subsequent filings with the U.S. Securities and Exchange Commission.
+
+About Xilinx
+
+Xilinx, Inc. develops highly flexible and adaptive computing platforms that enable rapid innovation across a variety of technologies - from the cloud, to the edge, to the endpoint. Xilinx is the inventor of the FPGA and Adaptive SoCs (including our Adaptive Compute Acceleration Platform, or ACAP), designed to deliver the most dynamic computing technology in the industry. We collaborate with our customers to create scalable, differentiated and intelligent solutions that enable the adaptable, intelligent and connected world of the future. For more information, visit xilinx.com.
+
+Xilinx, the Xilinx logo, Alveo, Artix, Kintex, Spartan, Versal, Vitis, Virtex, Vivado, Zynq, and other designated brands included herein are trademarks of Xilinx in the United States and/or other countries. All other trademarks are the property of their respective owners.
+
+XLNX-F
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

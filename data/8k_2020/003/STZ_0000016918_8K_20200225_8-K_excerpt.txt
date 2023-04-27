@@ -1,0 +1,97 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false0000016918  0000016918   2020-02-25 2020-02-25    0000016918  us-gaap:CommonClassBMember    2020-02-25 2020-02-25    0000016918  us-gaap:CommonClassAMember    2020-02-25 2020-02-25  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) February 25, 2020
+
+CONSTELLATION BRANDS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+207 High Point Drive, Building 100, Victor, NY 14564 
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code  (585) 678-7100 
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+Item 7.01Regulation FD Disclosure.
+
+Canopy Growth Corporation ("Canopy") recently disclosed its results for its third quarter fiscal 2020. Constellation Brands, Inc. (“Constellation” or the “Company”) recognizes equity in earnings (losses) from its equity method investment in Canopy on a two-month lag, details of which appear below.
+
+Constellation is in a strong cash position and is projected to produce approximately $2.3 billion in operating cash flow in fiscal 2020, with equity in earnings (losses) from its equity method investment in Canopy considered non-cash. From fiscal 2020 through 2022, Constellation remains committed to returning approximately $4.5 billion in cash to shareholders in the form of share repurchases and dividends. As a reminder, the Company’s original warrants with Canopy have an exercise price of C$12.98 per warrant share and will expire May 1, 2020. In addition, the Company's Tranche A warrants expire November 1, 2023. Constellation will evaluate exercise of each of these warrants immediately prior to expiration and does not plan to make additional cash contributions to Canopy beyond any possible exercise of the warrants. Constellation believes that Canopy is adequately capitalized with approximately C$2.3 billion cash and marketable securities on hand as of December 31, 2019.
+
+Constellation will recognize its share of Canopy’s results of operations and related activities, including the impact from the June 2019 Warrant Modification, for the period (i) October 1, 2019, through December 31, 2019, in its consolidated financial statements for the three months ended February 29, 2020, and (ii) January 1, 2019, through December 31, 2019, in its consolidated financial statements for the year ended February 29, 2020. Based on the information Canopy provides to Constellation in connection with the Amended Investor Rights Agreement and information Canopy has publicly disclosed, Constellation has analyzed its share of Canopy’s results of operations for the period October 1, 2019, through December 31, 2019, and for the period January 1, 2019, through December 31, 2019, that Constellation expects to recognize for its fourth fiscal quarter and year ended February 29, 2020. Constellation’s equity in earnings (losses) and related activities of Canopy will be recognized for the three months and year ended February 29, 2020, as appearing in the table below. Equity in earnings (losses) and related activities from the Canopy equity method investment is determined by adjusting Canopy’s reported International Financial Reporting Standards (“IFRS”) results to U.S. GAAP, and then recording the effect of basis differences which include, among other items, the amortization of the fair value adjustments associated with the definite-lived intangible assets over their estimated useful lives and the flow through of inventory step-up. After applying Constellation’s ownership percentage in the applicable period this amount is then converted from Canadian dollars to U.S. dollars using the weighted average exchange rate for the applicable period.
+
+The following table presents the impact on Constellation’s net income (loss) of the equity in earnings (losses), including the impact from the June 2019 Warrant Modification, and related activities of Canopy’s results for the three and twelve months ended December 31, 2019, on a reported basis (GAAP), and the impact on Constellation’s net income (loss) of the equity in earnings (losses) on a comparable basis (Non-GAAP) recognized in the three and twelve month periods ended February 29, 2020:
+
+[DATA_TABLE_REMOVED]
+
+(1) In June 2019, the Canopy shareholders approved the modification of the terms of certain warrants and certain other rights (the “June 2019 Warrant Modification”).
+
+(2) The amounts shown represent 35.8%, or Constellation’s share, of Canopy’s results of operations from January 1, 2019, through March 31, 2019, 35.6% of Canopy’s results of operations from April 1, 2019, through June 30, 2019, 35.4% of Canopy’s results of operations from July 1, 2019, through September 30, 2019, and 35.3% of Canopy’s results of operations from October 1, 2019, through December 31, 2019, reported in U.S. dollars. Constellation’s share of Canopy’s results of operations is determined based on Constellation’s ownership interest as of March 31, 2019, June 30, 2019, September 30, 2019, and December 31, 2019.
+
+(3) The effective tax rate applied to Constellation’s equity in earnings (losses) of Canopy is generally based on the tax rates of the legal entities that hold Constellation’s investment in Canopy.
+
+(4) The effective tax rate applied to each comparable adjustment amount is generally based upon the jurisdiction in which the comparable adjustment was recognized.
+
+The information in the table above is “furnished” and not “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, and is not otherwise subject to the liabilities of that section. Such information may be incorporated by reference in another filing under the Securities Exchange Act of 1934 or the Securities Act of 1933 only if and to the extent such subsequent filing specifically references the information incorporated by reference herein.
+
+The table above contains non-GAAP financial measures; these are referred to as “comparable” measures. For purposes of Regulation G, a non-GAAP financial measure is a numerical measure of a registrant’s historical or future financial performance, financial position or cash flows that excludes 
+
+amounts, or is subject to adjustments that have the effect of excluding amounts, that are included in the most directly comparable measure calculated and presented in accordance with GAAP in the statement of income, balance sheet or statement of cash flows (or equivalent statements) of the issuer; or includes amounts, or is subject to adjustments that have the effect of including amounts, that are excluded from the most directly comparable measure so calculated and presented. In this regard, GAAP refers to generally accepted accounting principles in the United States. Pursuant to the requirements of Regulation G, the Company has provided reconciliations within the table of the non-GAAP financial measures to the most directly comparable GAAP financial measures.
+
+Comparable measures, including those presenting the impact of the Company’s equity method investment in Canopy, are provided because management uses this information to monitor the Company’s investment in Canopy. In addition, the Company believes this information provides investors valuable insight on underlying business trends and results in order to evaluate year-over-year financial performance. As such, the following items, including any related income tax effect, are excluded from comparable basis results, when appropriate: impact from the June 2019 Warrant Modification; unrealized net (gain) loss from the mark to fair value of securities measured at fair value and related activities; flow through of inventory step-up associated with acquisitions; share-based compensation expense related to acquisition milestones; acquisition costs; (income) loss on dilution due to Canopy’s issuance of additional stock; and other (gains) losses, net. In addition, comparable measures for Canopy equity earnings (losses), including any related income tax effect, are also excluded from certain comparable basis results.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements. All statements other than statements of historical fact are forward-looking statements. The word “expect,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These statements may relate to business strategy, future operations, prospects, plans and objectives of management, as well as information concerning expected actions of third parties. All forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those set forth in, or implied by, such forward-looking statements.
+
+The forward-looking statements are based on management's current expectations and should not be construed in any manner as a guarantee that such results will in fact occur or will occur on the timetable contemplated hereby. All forward-looking statements speak only as of the date of this Current Report on Form 8-K and Constellation does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+In addition to risks and uncertainties associated with ordinary business operations, the forward-looking statements contained in this Current Report on Form 8-K are subject to other risks and uncertainties, including that operating cash flow may vary from management’s current projections; the exact duration of the share repurchase implementation and the amount, timing and source of funds; the amount and timing of future dividends are subject to the determination and discretion of Constellation’s board of directors; the amount and timing of future investments, if any, in Canopy; the accuracy of all other projections and estimates; and other factors and uncertainties disclosed from time-to-time in Constellation Brands, Inc.’s filings with the Securities and Exchange Commission, including its Annual Report on Form 10-K for the fiscal year ended February 28, 2019, and its Quarterly Report on Form 10-Q for the fiscal quarter ended May 31, 2019, which could cause actual future performance to differ from current expectations.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

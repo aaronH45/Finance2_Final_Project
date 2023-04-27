@@ -1,0 +1,87 @@
+xml version="1.0" encoding="utf-8"?              
+
+   0000029989 false        0000029989   2020-02-19 2020-02-19     0000029989  omc:CommonStockParValue0.15PerShareMember    2020-02-19 2020-02-19     0000029989  omc:Sec0.800SeniorNotesDue2027Member    2020-02-19 2020-02-19     0000029989  omc:Sec1.400SeniorNotesDue2031Member    2020-02-19 2020-02-19    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT
+
+ PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+ SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report (Date of earliest event reported): February 19, 2020 
+
+OMNICOM GROUP INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (212) 415-3600 
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+  ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)   
+
+  ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)   
+
+  ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+  ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))   
+
+Securities registered pursuant to Section 12(b) of the Act: [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+Item 1.01 Entry into a Material Definitive Agreement. 
+
+On February 21, 2020, Omnicom Group Inc. (the “Company”) closed its public offering of $600 million aggregate principal amount of 2.450% Senior Notes due 2030 (the “Notes”), pursuant to the Underwriting Agreement, dated February 19, 2020 (the “Underwriting Agreement”), with Citigroup Global Markets Inc., J.P. Morgan Securities LLC and Wells Fargo Securities, LLC, as representatives of the several underwriters. The Notes have been registered under the Securities Act of 1933, as amended, pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-236502) (the “Registration Statement”), which became effective upon filing with the Securities and Exchange Commission on February 19, 2020. 
+
+The net proceeds received by the Company, after deducting the underwriting discounts and estimated offering expenses payable by the Company, were approximately $592.6 million. The Company intends to use such net proceeds, together with cash on hand, to redeem $600 million aggregate principal amount of the Company’s outstanding 4.45% Senior Notes due 2020 co-issued with Omnicom Capital Inc., which mature on August 15, 2020, and of which $600 million aggregate principal amount was outstanding as of December 31, 2019.  
+
+The Notes were issued pursuant to an Indenture, dated as of February 21, 2020 (the “Base Indenture”), between the Company and Deutsche Bank Trust Company Americas, as trustee (the “Trustee”), as amended by the First Supplemental Indenture, dated as of February 21, 2020, between the Issuer and the Trustee (the “First Supplemental Indenture”). The Notes will bear interest from February 21, 2020, at a rate equal to 2.450% per year, payable semi-annually in arrears on April 30 and October 30 of each year, commencing on October 30, 2020. The Notes will mature on April 30, 2030. 
+
+Subject to certain exceptions, the Base Indenture, together with the First Supplemental Indenture (collectively, the “Indenture”), contains covenants limiting (i) the Company’s and its subsidiaries’ ability to create certain liens; and (ii) the Company’s ability to consolidate or merge with, or convey, transfer or lease substantially all its assets to, another person. The Indenture does not contain any provision that would limit the Company’s ability to incur indebtedness or that would afford holders of the Notes protection in the event of a sudden and significant decline in the credit quality or rating of the Company or a takeover, recapitalization or highly leveraged or similar transactions involving the Company. 
+
+The Notes are the unsecured and unsubordinated obligations of the Company and rank equal in right of payment with all existing and any future unsecured senior and unsubordinated indebtedness of the Company. The Indenture contains customary event of default provisions. 
+
+Prior to January 30, 2030 (the date that is three months prior to the maturity date of the Notes), the Notes will be redeemable, as a whole or in part, at the Company’s option, at any time or from time to time at a redemption price equal to 100% of the principal amount of the Notes to be redeemed plus a make-whole premium, together with accrued and unpaid interest thereon to, but excluding, the redemption date. On or after such date, the Notes will be redeemable, as a whole or in part, at the Company’s option, at any time or from time to time at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, together with accrued and unpaid interest thereon, if any, to, but excluding, the redemption date. 
+
+Upon the occurrence of a “change of control triggering event,” as defined in the Indenture, unless the Company has exercised its option to redeem the Notes, the Company will be required to make an offer to repurchase the Notes at a purchase price equal to 101% of their principal amount, plus accrued and unpaid interest, if any, to the date of repurchase. 
+
+The foregoing description of the terms of the Notes, the Base Indenture and First Supplemental Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the Notes, the Base Indenture and the First Supplemental Indenture. The Base Indenture and the First Supplemental Indenture are attached hereto as Exhibit 4.1 and Exhibit 4.2, respectively, and are incorporated herein by reference.  
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. 
+
+The information contained in Item 1.01 is incorporated herein by reference. 
+
+Item 8.01. Other Events. 
+
+In connection with the offering of the Notes, the Company is filing herewith the Underwriting Agreement and certain other items listed below as exhibits to this Current Report on Form 8-K, which are incorporated by reference into the Registration Statement. The Underwriting Agreement includes the terms and conditions of the offer and sale of the Notes, indemnification and contribution obligations and other terms and conditions customary in agreements of this type. The foregoing disclosure is qualified in its entirety by reference to the Underwriting Agreement, which is attached hereto as Exhibit 1.1 and is incorporated herein by reference. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits. [DATA_TABLE_REMOVED] 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED] 
+
+Date: February 21, 2020

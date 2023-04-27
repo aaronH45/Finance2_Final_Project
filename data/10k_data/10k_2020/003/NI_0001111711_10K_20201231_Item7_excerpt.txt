@@ -1,0 +1,635 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+NISOURCE INC.
+
+[DATA_TABLE_REMOVED]
+
+EXECUTIVE SUMMARY
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations (Management’s Discussion) analyzes our financial condition, results of operations and cash flows and those of our subsidiaries. It also includes management’s analysis of past financial results and certain potential factors that may affect future results, potential future risks and approaches that may be used to manage those risks. See "Note regarding forward-looking statements" at the beginning of this report for a list of factors that may cause results to differ materially.
+
+Management’s Discussion is designed to provide an understanding of our operations and financial performance and should be read in conjunction with our Consolidated Financial Statements and related Notes to Consolidated Financial Statements in this annual report.
+
+We are an energy holding company under the Public Utility Holding Company Act of 2005 whose subsidiaries are fully regulated natural gas and electric utility companies serving customers in six states. We generate substantially all of our operating income through these rate-regulated businesses, which are summarized for financial reporting purposes into two primary reportable segments: Gas Distribution Operations and Electric Operations. 
+
+Refer to the “Business” section under Item 1 of this annual report and Note 24, "Segments of Business," in the Notes to Consolidated Financial Statements for further discussion of our regulated utility business segments.
+
+Our goal is to develop strategies that benefit all stakeholders as we (i) address changing customer conservation patterns, (ii) develop more contemporary pricing structures, and (iii) embark on long-term infrastructure investment and safety programs. These strategies focus on improving reliability and safety, enhancing customer service, lowering customer bills and reducing emissions while generating sustainable returns. Additionally, we continue to pursue regulatory and legislative initiatives that will allow residential customers not currently on our system to obtain gas service in a cost effective manner. Refer also to the Electric Supply section of our Electric Operations Segment discussion for additional information on our long term electric generation strategy. 
+
+Columbia of Massachusetts Asset Sale: On February 26, 2020, NiSource and Columbia of Massachusetts entered into an Asset Purchase Agreement with Eversource (the "Asset Purchase Agreement"). Upon the terms and subject to the conditions set forth in the Asset Purchase Agreement, we sold the Massachusetts Business to Eversource for net proceeds of approximately $1,113 million in cash, subject to adjustment for the final working capital amount. The sale was approved by the Massachusetts DPU on October 7, 2020, and closed on October 9, 2020. As a result of the sale, we have transitioned to executing a TSA with Eversource. See Note 1, "Nature of Operations and Summary of Significant Accounting Policies," in the Notes to Consolidated Financial Statements for additional information.
+
+Your Energy, Your Future: Our plan to replace 80% of our coal generation capacity by the end of 2023 and all of our coal generation by the end of 2028 with primarily renewable resources is well underway. In October 2020, we executed three BTAs for 900 MW solar nameplate capacity and 135 MW of storage capacity. In December 2020, the formation of the Rosewater Wind Generation joint venture, one of our previously executed BTAs, was completed, and has begun operation. We executed in December 2020 a PPA for an additional 280 MW of solar nameplate capacity. These projects were selected following a comprehensive review of bids submitted through the RFP process that NIPSCO underwent in late 2019. The projects complement previously executed BTAs and PPAs with a combined nameplate capacity of 400 MW and 1,300 MW, respectively. For additional information, see Note 4 "Variable Interest Entities" and "Results and Discussion of Segment Operation - Electric Operations," in this Management's Discussion.
+
+28
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+NiSource Next: We have launched a comprehensive, multi-year program designed to deliver long-term safety, sustainable capability enhancements and cost optimization improvements. This program will advance the high priority we place on safety and risk mitigation, further enable our safety management system ("SMS"), and enhance the customer experience. NiSource Next is designed to (i) leverage our current scale, (ii) utilize technology, (iii) define clear roles and accountability with our leaders and employees, and (iv) standardize our processes to focus on operational rigor, quality management and continuous improvement. An initial step in this program was the voluntary separation program announced in August 2020, with an expected total severance expense of approximately $38.0 million. The majority of these separation costs will be expensed in 2020 and approximately $21.2 million has been paid as of December 31, 2020. The NiSource Next initiative, along with the sale of the Massachusetts Business, is projected to achieve a reduction in ongoing operation and maintenance costs by approximately 8% in 2021 compared to 2020. For additional information, see Note 20-E, "Other Matters," in the Notes to Consolidated Financial Statements. 
+
+COVID-19: The safety of our employees and customers, while providing essential services during the COVID-19 pandemic, continues to be a key area of focus. Since March 2020, we have taken a proactive, coordinated approach intended to prevent, mitigate and respond to the pandemic, by utilizing our Incident Command System (ICS). The ICS includes members of our executive leadership team, a medical review professional, and members of functional teams from across our company. The ICS monitors state-by-state conditions and determines steps to conduct our operations safely for employees and customers. 
+
+We have implemented procedures designed to protect our employees who work in the field and who continue to work in operational and corporate facilities, including social distancing, wearing face coverings, temperature checks and more frequent cleaning of equipment and facilities. We have also implemented work-from-home policies and practices. We have minimized non-essential work that requires an employee to enter a customer premise and limited company vehicle occupancy to one person, where possible. We continue to employ physical and cybersecurity measures to ensure that our operational and support systems remain functional. Our actions to date have mitigated the spread of COVID-19 amongst our employees and principal field contractors. We will continue to follow CDC guidance and implement safety measures intended to ensure employee and customer safety during this pandemic. We are following all federal, state and local guidelines related to the COVID-19 vaccinations and will encourage employees to receive the vaccine when it is available to them.
+
+Since the beginning of the pandemic, we have been helping our customers navigate this challenging time. We suspended disconnections soon after this outbreak began. As of December 2020, suspension of disconnections has been lifted in some, but not all, of our jurisdictions. We plan to continue our payment assistance programs across all of our operating territory to help customers deal with the impact of the pandemic. Additionally, we continue to have dialogue with the state regulatory commissions for each of our operating companies regarding the pandemic. Regulatory deferrals for certain costs have been allowed by all of our state regulatory commissions. Costs approved for deferral vary by state. For information on the state specific suspension of disconnections and COVID-19 regulatory filings, see Note 9, "Regulatory Matters," in the Notes to Consolidated Financial Statements. The CARES Act was enacted on March 27, 2020 and provides monetary-relief and financial aid to individuals, business, nonprofits, states and municipalities. The Coronavirus Relief Act was enacted on December 27, 2020 and extended or supplemented many of the programs from the CARES act. We are continuing to promote multiple resources available to customers including benefits from the CARES Act, such as additional funding for both the Low-Income Home Energy Assistance Program and the Community Services Block Grant to help support income-qualified customers. We are sharing energy efficiency tips to help customers save energy at home and promoting our budget plan program, which allows customers to pay about the same amount each month.
+
+We have experienced lower revenue, higher expenses for personal protective equipment and supplies, and higher bad debt expense as a consequence of the pandemic, which has negatively impacted our results of operations through December 31, 2020. Refer to "Results and Discussion of Segment Operation" in this Management's Discussion for additional segment specific information. We did experience lower cash flows from operations for the year ended December 31, 2020 in comparison to the same period in 2019 due, in part, to slower collections of customer accounts receivable; however, we believe we have sufficient liquidity as a result of the issuance of $1.0 billion notes in April 2020, the remaining cash proceeds received from the sale of the Massachusetts Business in October 2020, the available capacity under our short-term revolving credit facility and accounts receivable securitization facilities, and our anticipated ability to access capital markets. Additionally, in the second quarter of 2020 we reduced our planned 2020 capital investments by $145 million. We did not make any other material changes to our capital construction programs or our renewable generation projects. While we have not experienced any significant issues in our supply chain, we are actively managing the materials, supplies, and contract services for our generation, transmission, distribution, and customer services functions.
+
+Refer to Part I. Item 1A. "Risk Factors" for additional information related to the ongoing impact of the pandemic. 
+
+29
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Greater Lawrence Incident: For the year ended December 31, 2020, we have incurred $17 million of third-party claims and other incident-related costs associated with the Greater Lawrence Incident. For additional information, see Note 20-C, "Legal Proceedings" and Note 20-E "Other Matters," in the Notes to Consolidated Financial Statements.
+
+We invested approximately $258 million of capital spend for specific pipeline replacement work that was completed in 2019. We maintain property insurance for gas pipelines and other applicable property. In 2019, Columbia of Massachusetts filed a proof of loss with its property insurer for this pipeline replacement work. In January 2020, we filed a lawsuit against the property insurer, seeking payment of our property claim. We are currently unable to predict the timing or amount of any insurance recovery under the property policy. See Note 1, "Nature of Operations and Summary of Significant Accounting Policies," in the Notes to Consolidated Financial Statements for additional information. 
+
+Refer to Note 20-C. "Legal Proceedings" and Note 20-E "Other Matters," in the Notes to Consolidated Financial Statements, "Summary of Consolidated Financial Results," "Results and Discussion of Segment Operation - Gas Distribution Operations," and "Liquidity and Capital Resources" in this Management's Discussion for additional information related to the Greater Lawrence Incident.
+
+Summary of Consolidated Financial Results
+
+A summary of our consolidated financial results for the years ended December 31, 2020, 2019 and 2018, are presented below:
+
+[DATA_TABLE_REMOVED]
+
+The majority of the costs of energy in both segments are tracked costs that are passed through directly to the customer, resulting in an equal and offsetting amount reflected in operating revenues. 
+
+On a consolidated basis, we reported a net loss available to common shareholders of $72.7 million or $0.19 per basic share for the twelve months ended December 31, 2020 compared to income to common shareholders of $328.0 million or $0.88 per basic share for the same period in 2019. Additionally, we reported operating income of $550.8 million for the twelve months ended December 31, 2020 compared to $890.7 million for the same period in 2019. The decrease in both net income available to common shareholders and operating income during 2020 was primarily due to lower operating revenue related to the sale of the Massachusetts Business, as well as higher operating expenses due to insurance recoveries recorded in 2019, net of third-party claims and other costs, related to the Greater Lawrence Incident. Additionally, the decrease to net income available to common shareholders was also impacted by the loss on early extinguishment of debt in 2020 as well as partially offset by a change from income tax expense in 2019 to an income tax benefit in 2020. 
+
+Other Deductions, Net
+
+Other deductions, net reduced income by $582.1 million in 2020 compared to a reduction in income of $384.1 million in 2019. This change is primarily due to the loss on early extinguishment of debt in 2020.
+
+30
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Income Taxes
+
+The decrease in income tax expense from 2019 to 2020 is primarily attributable to lower pre-tax income, resulting from the items discussed above in "Operating Income" and "Other Deductions, Net," state jurisdictional mix of pre-tax loss in 2020 tax effected at statutory tax rates and increased amortization of excess deferred federal income taxes in 2020 compared to 2019. These items are offset by increased deferred tax expense recognized on the sale of the Columbia of Massachusetts' regulatory liability, established due to TCJA in 2017, that would have otherwise been recognized over the amortization period, non-cash impairment of goodwill related to Columbia of Massachusetts in 2019 (see Note 7, "Goodwill and Other Intangible Assets" for additional information) and one-time adjustments to deferred tax balances.
+
+Refer to Note 11, "Income Taxes," in the Notes to Consolidated Financial Statements for additional information on income taxes and the change in the effective tax rate.
+
+RESULTS AND DISCUSSION OF OPERATIONS
+
+Presentation of Segment Information
+
+Our operations are divided into two primary reportable segments: Gas Distribution Operations and Electric Operations. The remainder of our operations, which are not significant enough on a stand-alone basis to warrant treatment as an operating segment, are presented as "Corporate and Other" within the Notes to the Consolidated Financial Statements and primarily are comprised of interest expense on holding company debt, and unallocated corporate costs and activities.
+
+31
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Gas Distribution Operations 
+
+Financial and operational data for the Gas Distribution Operations segment for the years ended December 31, 2020, 2019 and 2018, are presented below:
+
+[DATA_TABLE_REMOVED]
+
+32
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Gas Distribution Operations (continued)
+
+Cost of energy for the Gas Distribution Operations segment is principally comprised of the cost of natural gas used while providing transportation and distribution services to customers. These are tracked costs that are passed through directly to the customer resulting in an equal and offsetting amount reflected in operating revenue. In addition, comparability of operation and maintenance expenses, depreciation and amortization, and other taxes may be impacted by regulatory, depreciation and tax trackers that allow for the recovery in rates of certain costs. Therefore, increases in these tracked operating expenses are offset by increases in operating revenues and have essentially no impact on net income.
+
+2020 vs. 2019 Operating Income
+
+For 2020, Gas Distribution Operations reported operating income of $199.1 million, a decrease of $476.3 million from the comparable 2019 period.
+
+Operating revenues for 2020 were $3,140.1 million, a decrease of $382.7 million from the same period in 2019. The change in operating revenues was primarily driven by:
+
+•Lower cost of energy billed to customers, which is offset in operating expense, of $273.4 million.
+
+•Lower revenues due to the sale of the Massachusetts Business of $102.2 million.
+
+•Lower revenues from the effects of warmer weather in 2020 of $47.9 million.
+
+•Lower regulatory, depreciation, and tax trackers, which are offset in operating expense, of $20.7 million.
+
+•The effects of decreased commercial and industrial usage and decreased late and disconnection fees, both primarily related to the COVID-19 pandemic, of $11.3 million.
+
+Partially offset by:
+
+•New rates from base rate proceedings, infrastructure replacement programs and Columbia of Ohio's CEP of $57.1 million.
+
+•The effects of increased residential usage primarily related to the pandemic of $5.0 million.
+
+Operating expenses were $93.6 million higher in 2020 compared to 2019. This change was primarily driven by:
+
+•Loss on sale of the Massachusetts Business of $412.4 million.
+
+•Insurance recoveries recorded in 2019, net of third party claims and other costs, related to the Greater Lawrence Incident of $243.2 million.
+
+•Severance and outside services expense related to NiSource Next initiative of $32.4 million.
+
+•Increased expenses primarily due to the impact of the pandemic related to materials and supplies, outside services, and uncollectible expenses of $23.8 million, offset by $12.0 million of deferral of uncollectible and other expenses, net of benefits, related to the pandemic.
+
+•Higher depreciation and amortization and property tax expense primarily due to higher capital expenditures placed in service of $24.3 million
+
+Partially offset by:
+
+•Lower cost of energy billed to customers, which is offset in operating revenue, of $273.4.
+
+•Non-cash impairment of the Columbia of Massachusetts franchise rights of $209.7 million in 2019.
+
+•Lower operation and maintenance and depreciation and amortization expenses due to the Massachusetts Business sale of $98.7 million.
+
+•Lower employee and administrative expense of $28.9 million.
+
+•Lower regulatory, depreciation, and tax trackers, which are offset in operating revenues, of $20.7 million.
+
+2019 vs. 2018 Operating Income
+
+For 2019, Gas Distribution Operations reported operating income of $675.4 million, an increase of $929.5 million from the comparable 2018 period. 
+
+Operating revenues for 2019 were $3,522.8 million, an increase of $103.3 million from the same period in 2018. The change in operating revenues was primarily driven by:
+
+•New rates from base rate proceedings and infrastructure replacement programs of $243.2 million.
+
+•Higher regulatory, depreciation and tax trackers, which are offset in operating expense, of $36.2 million.
+
+33
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Gas Distribution Operations (continued)
+
+•Higher revenues of $14.5 million resulting from an update in the weather-related normal heating degree day methodology, partially offset by a $7.1 million revenue decrease from the effects of warmer weather in 2019.
+
+•The effects of commercial and residential customer growth of $12.8 million.
+
+Partially offset by:
+
+•Lower cost of energy billed to customers, which is offset in operating expenses of $191.7 million.
+
+Operating expenses were $826.2 million lower in 2019 compared to 2018. This change was primarily driven by:
+
+•Decreased expenses related to third-party claims and other costs for the Greater Lawrence Incident of $1,090.7 million, net of insurance recoveries recorded.
+
+•Lower cost of energy billed to customers, which is offset in operating revenues of $191.7 million. 
+
+Partially offset by:
+
+•Non-cash impairment of the Columbia of Massachusetts franchise rights of $209.7 million.
+
+•Increased depreciation of $103.8 million due to the regulatory outcome of NIPSCO's gas rate case, an increase in amortization of depreciation previously deferred as a regulator asset resulting from Columbia of Ohio's CEP, and higher capital expenditures placed in service.
+
+•Higher employee and administrative expenses of $50.2 million driven by resources shifting from the temporary assistance on the Greater Lawrence Incident restoration to normal operations (offset in the decreased Greater Lawrence Incident costs discussed above) and an increase in headcount. 
+
+•Increased regulatory, depreciation and tax trackers, which are offset in operating revenues, of $36.2 million.
+
+•Higher property taxes of $22.2 million primarily due to increased amortization of property taxes previously deferred as a regulatory asset resulting from Columbia of Ohio's CEP, as well as higher capital expenditures placed in service.
+
+•Higher outside services of $17.4 million primarily due to increased line location and safety-related work.
+
+Weather
+
+In general, we calculate the weather-related revenue variance based on changing customer demand driven by weather variance from normal heating degree days, net of weather normalization mechanisms. Our composite heating degree days reported do not directly correlate to the weather-related dollar impact on the results of Gas Distribution Operations. Heating degree days experienced during different times of the year or in different operating locations may have more or less impact on volume and dollars depending on when and where they occur. When the detailed results are combined for reporting, there may be weather-related dollar impacts on operations when there is not an apparent or significant change in our aggregated composite heating degree day comparison.
+
+The definition of “normal” weather was updated during the first quarter of 2019 to reflect more current weather pattern data and to more closely align with the regulators' jurisdictional definitions of “normal” weather. Impacts of the change in methodology will be reflected prospectively and disclosed to the extent it results in notable year-over-year variances in operating revenues.
+
+Weather in the Gas Distribution Operations service territories for 2020 was about 7% warmer than normal and about 5% warmer than 2019, leading to decreased operating revenues of $47.9 million for the year ended December 31, 2020 compared to 2019. The majority of these amounts were driven by NIPSCO and Columbia of Pennsylvania. 
+
+Weather in the Gas Distribution Operations service territories for 2019 was about 1% warmer than normal and about 3% warmer than 2018; however, due to the aforementioned change in methodology, the change in operating revenues attributed to weather resulted in an increase of $7.4 million for the year ended December 31, 2019 compared to 2018. The variance is detailed further below:
+
+•An update in the weather-related normal heating degree day methodology resulting in a favorable variance attributed to weather of $14.5 million, as discussed above.
+
+Offset by:
+
+•The effects of warmer weather in 2019 of $7.1 million.
+
+34
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Gas Distribution Operations (continued)
+
+Throughput
+
+Total volumes sold and transported for the year ended December 31, 2020 were 981.7 MMDth, compared to 1,040.2 MMDth for 2019. This decrease is primarily attributable to warmer weather experienced in 2020 compared to 2019, the sale of the Massachusetts Business and decreased usage by commercial and industrial customers primarily due to the pandemic.
+
+Total volumes sold and transported for the year ended December 31, 2019 were 1,040.2 MMDth, compared to 1,053.6 MMDth for 2018. This decrease is primarily attributable to warmer weather experienced in 2019 compared to 2018.
+
+Commodity Price Impact
+
+All of our Gas Distribution Operations companies have state-approved recovery mechanisms that provide a means for full recovery of prudently incurred gas costs. Gas costs are treated as pass-through costs and have no impact on the operating income recorded in the period. The gas costs included in revenues are matched with the gas cost expense recorded in the period and the difference is recorded on the Consolidated Balance Sheets as under-recovered or over-recovered gas cost to be included in future customer billings.
+
+Certain Gas Distribution Operations companies continue to offer choice opportunities, where customers can choose to purchase gas from a third-party supplier, through regulatory initiatives in their respective jurisdictions. These programs serve to further reduce our exposure to gas prices. 
+
+Greater Lawrence Incident
+
+Refer to Note 20-C. "Legal Proceedings," and Note 20-E. "Other Matters," in the Notes to Consolidated Financial Statements, "Summary of Consolidated Financial Results" and "Liquidity and Capital Resources" in this Management's Discussion, and Part I. Item 1A. "Risk Factors" for additional information related to the Greater Lawrence Incident.
+
+Columbia of Massachusetts Asset Sale
+
+On February 26, 2020, we entered into the Asset Purchase Agreement with Eversource providing for the sale of the Massachusetts Business to Eversource, subject to the terms and conditions set forth in the agreement. This sale was completed on October 9, 2020. For additional information, see Note 1, “Nature of Operations and Summary of Significant Accounting Policies,” in the Notes to Consolidated Financial Statements.
+
+35
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Electric Operations
+
+Financial and operational data for the Electric Operations segment for the years ended December 31, 2020, 2019 and 2018, are presented below:
+
+[DATA_TABLE_REMOVED]
+
+36
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Electric Operations (continued)
+
+Cost of energy for the Electric Operations segment is principally comprised of the cost of coal, related handling costs, natural gas purchased for internal generation of electricity at NIPSCO, and the cost of power purchased from third-party generators of electricity. The majority of these are tracked costs that are passed through directly to the customer resulting in an equal and offsetting amount reflected in operating revenue. In addition, comparability of operation and maintenance expenses and depreciation and amortization may be impacted by regulatory and depreciation trackers that allow for the recovery in rates of certain costs. Therefore, increases in these tracked operating expenses are offset by increases in operating revenues and have essentially no impact on net income.
+
+2020 vs. 2019 Operating Income
+
+For 2020, Electric Operations reported operating income of $348.8 million, a decrease of $58.0 million from the comparable 2019 period.
+
+Operating revenues for 2020 were $1,536.6 million, an decrease of $162.6 million from the same period in 2019. The change in operating revenues was primarily driven by:
+
+•Lower cost of energy billed to customers, which is offset in operating expense, of $152.1 million.
+
+•Lower regulatory and depreciation trackers, which are offset in operating expense, of $25.2 million.
+
+•The effects of decreased commercial and industrial usage and decreased late and disconnection fees, both primarily related to the COVID-19 pandemic, of $24.9 million. 
+
+Partially offset by:
+
+•Higher revenue from recent base rate proceedings of $22.5 million.
+
+•The effects of increased residential usage primarily related to the pandemic of $13.5 million.
+
+•The effects of customer growth of $4.0 million.
+
+Operating expenses were $104.6 million lower in 2020 than 2019. This change was primarily driven by:
+
+•Lower cost of energy billed to customers, which is offset in operating revenue, of $152.1 million.
+
+•Lower regulatory and depreciation trackers, which are offset in operating revenues, of $25.2 million.
+
+•Lower outside services costs of $16.0 million primarily related to lower generation-related maintenance.
+
+•Lower employee and administrative costs of $8.1 million.
+
+Partially offset by:
+
+•Increased depreciation of $61.6 million primarily due to additional plant placed in service.
+
+•Severance and outside services expenses related to the NiSource Next initiative of $13.0 million.
+
+•Increased expenses primarily due to the impact of pandemic-related materials and supplies, outside services, uncollectible and sequestration expenses of $10.7 million, offset by a $5.3 million deferral of uncollectible and other expenses, related to the pandemic.
+
+•Increased materials and supplies costs of $4.7 million
+
+•Higher insurance expense of $2.7 million primarily driven by increased premiums.
+
+•Increased environmental costs of $1.3 million.
+
+2019 vs. 2018 Operating Income
+
+For 2019, Electric Operations reported operating income of $406.8 million, an increase of $20.7 million from the comparable 2018 period.
+
+Operating revenues for 2019 were $1,699.2 million, a decrease of $9.0 million from the same period in 2018. The change in operating revenues was primarily driven by:
+
+•Lower cost of energy billed to customers, which is offset in operating expense, of $34.8 million.
+
+•Lower revenues from the effects of cooler weather of $15.1 million.
+
+37
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Electric Operations (continued)
+
+•Decreased residential, commercial and industrial usage of $10.8 million.
+
+Partially offset by:
+
+•New rates from the recent rate case proceeding, incremental capital spend on infrastructure replacement programs, and electric transmission projects of $24.8 million.
+
+•Decreased fuel handling costs of $11.0 million.
+
+•Higher regulatory and depreciation trackers, which are offset in operating expense, of $8.4 million.
+
+•Increased commercial and residential customer growth of $3.9 million.
+
+Operating expenses were $29.7 million lower in 2019 than 2018. This change was primarily driven by:
+
+•Lower cost of energy billed to customers, which is offset in operating revenue, of $34.8 million.
+
+•Decreased materials and supplies costs of $7.8 million, primarily related to the retirement of Bailly Generating Station Units 7 and 8 on May 31, 2018.
+
+•Decreased employee and administrative costs of $5.0 million.
+
+Partially offset by:
+
+•Higher regulatory and depreciation trackers, which are offset in operating revenues, of $8.4 million.
+
+•Increased depreciation of $8.7 million due to higher capital expenditures placed in service.
+
+Weather
+
+In general, we calculate the weather-related revenue variance based on changing customer demand driven by weather variance from normal heating or cooling degree days. Our composite heating or cooling degree days reported do not directly correlate to the weather-related dollar impact on the results of Electric Operations. Heating or cooling degree days experienced during different times of the year may have more or less impact on volume and dollars depending on when they occur. When the detailed results are combined for reporting, there may be weather-related dollar impacts on operations when there is not an apparent or significant change in our aggregated composite heating or cooling degree day comparison.
+
+The definition of “normal” weather was updated during the first quarter of 2019 to reflect more current weather pattern data and to more closely align with the regulators' jurisdictional definitions of “normal” weather. Impacts of the change in methodology will be reflected prospectively and disclosed to the extent it results in notable year-over-year variances in operating revenues.
+
+Weather in the Electric Operations’ territories for 2020 was 12% warmer than normal and 6% cooler than the same period in 2019, which had an immaterial impact on operating revenues for the year ended December 31, 2020 compared to 2019.
+
+Weather in the Electric Operations’ territories for 2019 was 20% warmer than normal and 18% cooler than the same period in 2018, decreasing operating revenues $15.1 million for the year ended December 31, 2019 compared to 2018.
+
+Sales
+
+Electric Operations sales were 14,703.9 GWh for 2020, a decrease of 1,017.4 GWh, or 6.5% compared to 2019. This decrease was primarily attributable to decreased usage by industrial and commercial customers due to the pandemic and higher self-generation by industrial customers, partially offset by increased usage by residential customers primarily due to the pandemic.
+
+Electric Operations sales were 15,721.3 GWh for 2019, a decrease of 726.7 GWh, or 4.4% compared to 2018. This decrease was primarily attributable to higher internal generation from large industrial customers in 2019 and the effects of cooler weather on residential and commercial customers.
+
+Commodity Price Impact
+
+NIPSCO has a state-approved recovery mechanism that provides a means for full recovery of prudently incurred fuel costs. Fuel costs are treated as pass-through costs and have no impact on the operating revenues recorded in the period. The fuel costs included in revenues are matched with the fuel cost expense recorded in the period and the difference is recorded on the Consolidated Balance Sheets as under-recovered or over-recovered fuel cost to be included in future customer billings.
+
+38
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Electric Operations (continued)
+
+NIPSCO's performance remains closely linked to the performance of the steel industry. NIPSCO’s MWh sales to steel-related industries accounted for approximately 45.9% and 51.5% of the total industrial MWh sales for the years ended December 31, 2020 and 2019, respectively.
+
+Electric Supply
+
+NIPSCO 2018 Integrated Resource Plan. NIPSCO concluded in its October 2018 Integrated Resource Plan submission that NIPSCO’s current fleet of coal generation facilities will be retired earlier than previous Integrated Resource Plan’s had indicated. The Integrated Resource Plan evaluated demand-side and supply-side resource alternatives to reliably and cost effectively meet NIPSCO customers' future energy requirements over the ensuing 20 years. The preferred option within the Integrated Resource Plan retires the R.M. Schahfer Generating Station by mid-2023 and the Michigan City Generating Station by the end of 2028. These stations represent 2,080 MW of generating capacity, equal to 72% of NIPSCO’s remaining capacity and 100% of NIPSCO's remaining coal-fired generating capacity. In the second quarter of 2020, the MISO approved NIPSCO's plan to retire the R.M. Schahfer Generating Station in 2023. The planned replacement by the end of 2023 of approximately 1,400 MW of retiring coal-fired generation station could provide incremental capital investment opportunities of approximately $1.8 to $2.0 billion, primarily in 2022 and 2023. Refer to Note 6, "Property, Plant and Equipment" and Note 20-E, "Other Matters," in the Notes to Consolidated Financial Statements for further information. In February 2021, NIPSCO decided to submit modified Attachment Y Notices to MISO requesting accelerated retirement of two of the four coal fired units at R.M. Schahfer Generating Station. The two units are now expected to be retired by the end of 2021, with the remaining two units still scheduled to be retired in 2023. At retirement, the net book value of the retired units will be reclassified from "Non-Utility and Other property", to current and long-term “Regulatory Assets.”
+
+The current replacement plan includes renewable sources of energy, including wind, solar, and battery storage to be obtained through a combination of NIPSCO ownership and PPAs. NIPSCO has executed several PPAs to purchase 100% of the output from renewable generation facilities at a fixed price per MWh. Each facility supplying the energy will have an associated nameplate capacity, and payments under the PPAs will not begin until the associated generation facility is constructed by the owner/seller. NIPSCO has also executed several BTAs with developers to construct renewable generation facilities. The following table summarizes the executed PPAs and BTAs that have not yet been placed into service:
+
+[DATA_TABLE_REMOVED]
+
+(1) Ownership of the facility was transferred to a joint venture whose members include NIPSCO and an unrelated tax equity partner.
+
+(2) Ownership of the facilities will be transferred to joint ventures whose members include NIPSCO and an unrelated tax equity partner.
+
+ We expect to secure additional agreements with counterparties and initiate regulatory compliance filings into 2021. 
+
+39
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Liquidity and Capital Resources
+
+We continually evaluate the availability of adequate financing to fund our ongoing business operations, working capital and core safety and infrastructure investment programs. Our financing is sourced through cash flow from operations and the issuance of debt and/or equity. External debt financing is provided primarily through the issuance of long-term debt, accounts receivable securitization programs and our $1.5 billion commercial paper program, which is backstopped by our committed revolving credit facility with a total availability from third-party lenders of $1.85 billion. The commercial paper program and credit facility provide cost-effective, short-term financing until it can be replaced with a balance of long-term debt and equity financing that achieves our desired capital structure. We have also utilized an at-the-market (ATM) equity sales program that allowed us to issue and sell shares of our common stock up to an aggregate offering price of $434.4 million. The program expired on December 31, 2020, but we expect to issue additional equity under ATM offerings from time to time.
+
+We believe these sources provide adequate capital to fund our operating activities and capital expenditures in 2021 and beyond. 
+
+Greater Lawrence Incident. As discussed in the "Executive Summary", Part I, Item 1A “Risk Factors,” and in Note 20, “Other Commitments and Contingencies” in the Notes to Consolidated Financial Statements, due to the inherent uncertainty of litigation, there can be no assurance that the outcome or resolution of any particular claim related to the Greater Lawrence Incident will not continue to have an adverse impact on our cash flows. Through income generated from operating activities, amounts available under the short-term revolving credit facility, and our ability to access capital markets, we believe we have adequate capital available to settle remaining anticipated claims associated with the Greater Lawrence Incident. Previous costs in excess of insurance recoveries were primarily funded through short-term borrowings. The sale of the Massachusetts Business was completed on October 9, 2020. On October 14, 2020, we used a portion of the proceeds from the Massachusetts Business sale to pay down these short-term borrowings.
+
+Operating Activities
+
+Net cash from operating activities for the year ended December 31, 2020 was $1,104.0 million, a decrease of $479.3 million from 2019. This decrease was primarily driven by a year over year increase in net payments related to the Greater Lawrence Incident. During 2020, we paid approximately $227 million compared to net receipts of $289 million, representing insurance recoveries offset by payments, during 2019. Refer to Note 20, "Other Commitments and Contingencies" in the Notes to Consolidated Financial Statements for further information related to the Greater Lawrence Incident. 
+
+Investing Activities
+
+Our cash used for investing activities varies year over year primarily as a result of changes in the level of annual capital expenditures. See below for further details of our capital expenditures and related regulatory programs. In 2020, our typical investing cash outflows were offset by $1,115.9 million of proceeds from the sale of assets, driven by the sale of the Massachusetts Business. Refer to Note 1 "Nature of Operations and Summary of Significant Accounting Policies" for more information.
+
+40
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Capital Expenditures. The table below reflects capital expenditures and certain other investing activities by segment for 2020, 2019 and 2018. 
+
+[DATA_TABLE_REMOVED]
+
+(1) Corporate and Other capital expenditures were zero in 2018 as specific IT assets were leased in 2018. Certain IT and other maintenance related assets were purchased in 2019 and 2020. 
+
+(2)Amounts differ from those presented on the Statements of Consolidated Cash Flows primarily due to the capitalized portion of the Corporate Incentive Plan payout, inclusion of capital expenditures included in current liabilities and AFUDC Equity. 
+
+(3) The 2018 capital expenditures for Gas Distribution Operations reflects reclassifying the Greater Lawrence Incident pipeline replacement from system growth and tracker to maintenance.
+
+For 2020, capital expenditures and certain other investing activities were $1,720.8 million, which was $147.0 million lower than the 2019 capital program. This decrease in spending is primarily due to the sale of the Massachusetts Business and impact of COVID 19.
+
+For 2019, capital expenditures and certain other investing activities were $1,867.8 million, which was $53.2 million higher than the 2018 capital program. This increased spending is primarily due to growth, safety and system modernization projects.
+
+For 2021, we project to invest approximately $1.9 to $2.1 billion in our capital program. This projected level of spend is an increase from our 2020 spend levels and supports continued investment in safety and reliability through modernizing gas and electric systems while meeting customer growth demands.
+
+41
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Regulatory Capital Improvement Programs. In 2020, we continued to move forward on core infrastructure and environmental investment programs supported by complementary regulatory and customer initiatives across all seven states of our operating area. The following table describes the most recent vintage of our regulatory programs to recover infrastructure replacement and other federally-mandated compliance investments currently in rates and those pending commission approval:
+
+[DATA_TABLE_REMOVED]
+
+(1)Programs do not include any costs already included in base rates.
+
+(2)Due to a cap on the revenues permitted to flow through the DSIC, Columbia Gas of Pennsylvania is only able to request recovery of a portion of the capital investment for this period. 
+
+(3)On December 17, 2020, the Kentucky PSC issued an Order suspending the rates through May 30, 2021. An Order for approval can be received from the Commission prior to this date. 
+
+(4)Incremental capital and revenue are net of amounts included in the step 2 rates. See Part 1, Item 1. "Business" for additional information.
+
+(5)Incremental revenue is inclusive of tracker eligible operations and maintenance expense.
+
+(6)No eligible capital investments were made during the investment period.
+
+Refer to Note 9, “Regulatory Matters” and Note 20-E, "Other Matters," in the Notes to Consolidated Financial Statements for a further discussion of regulatory developments during 2020.
+
+Financing Activities
+
+Short-term Debt. Refer to Note 16, “Short-Term Borrowings,” in the Notes to Consolidated Financial Statements for information on short-term debt.
+
+Long-term Debt. Refer to Note 15, “Long-Term Debt,” in the Notes to Consolidated Financial Statements for information on long-term debt.
+
+Net Available Liquidity. As of December 31, 2020, an aggregate of $1,721.6 million of net liquidity was available, including cash and credit available under the revolving credit facility and accounts receivable securitization programs.
+
+42
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Sources of Liquidity
+
+The following table displays our liquidity position as of December 31, 2020 and 2019:
+
+[DATA_TABLE_REMOVED]
+
+(1)Represents the lesser of the seasonal limit or maximum borrowings supportable by the underlying receivables.
+
+Debt Covenants. We are subject to a financial covenant under our revolving credit facility, which requires us to maintain a debt to capitalization ratio that does not exceed 70%. As of December 31, 2020, the ratio was 62.5%.
+
+Sale of Trade Accounts Receivables. Refer to Note 19, “Transfers of Financial Assets,” in the Notes to Consolidated Financial Statements for information on the sale of trade accounts receivable.
+
+Credit Ratings. The credit rating agencies periodically review our ratings, taking into account factors such as our capital structure and earnings profile. The following table includes our and certain of our subsidiaries' credit ratings and ratings outlook as of December 31, 2020. In February 2020, S&P changed our and certain of our subsidiaries' outlook from Negative to Stable. There were no other changes to the below credit ratings or outlooks since December 31, 2019.
+
+A credit rating is not a recommendation to buy, sell or hold securities, and may be subject to revision or withdrawal at any time by the assigning rating organization.
+
+[DATA_TABLE_REMOVED]
+
+Certain of our subsidiaries have agreements that contain “ratings triggers” that require increased collateral if our credit ratings or the credit ratings of certain of our subsidiaries are below investment grade. These agreements are primarily for insurance purposes and for the physical purchase or sale of power. As of December 31, 2020, the collateral requirement that would be required in the event of a downgrade below the ratings trigger levels would amount to approximately $53.9 million. In addition to agreements with ratings triggers, there are other agreements that contain “adequate assurance” or “material adverse change” provisions that could necessitate additional credit support such as letters of credit and cash collateral to transact business. 
+
+Equity. Our authorized capital stock consists of 620,000,000 shares, $0.01 par value, of which 600,000,000 are common stock and 20,000,000 are preferred stock. As of December 31, 2020, 391,760,051 shares of common stock and 440,000 shares of preferred stock were outstanding. For more information regarding our common and preferred stock, see Note 13, "Equity," in the Notes to Consolidated Financial Statements.
+
+43
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Contractual Obligations 
+
+We have certain contractual obligations requiring payments at specified periods. The obligations include long-term debt, lease obligations, energy commodity contracts and obligations for various services including pipeline capacity and outsourcing of IT services. The total contractual obligations in existence at December 31, 2020 and their maturities were:
+
+[DATA_TABLE_REMOVED]
+
+(1) Long-term debt balance excludes unamortized issuance costs and discounts of $86.9 million. 
+
+(2) Finance lease payments shown above are inclusive of interest totaling $69.7 million. 
+
+(3) Operating lease payments shown above are inclusive of interest totaling $7.8 million. Operating lease balances do not include obligations for possible fleet vehicle lease renewals beyond the initial lease term. While we have the ability to renew these leases beyond the initial term, we are not reasonably certain (as that term is defined in ASC 842) to do so as they are renewed month-to-month after the first year. If we were to continue the fleet vehicle leases outstanding at December 31, 2020, payments would be $30.0 million in 2021, $27.7 million in 2022, $24.9 million in 2023, $22.0 million in 2024, $19.0 million in 2025 and $21.5 million thereafter. 
+
+(4)In February 2021, the demand rate increased for our pipeline service obligations, resulting in a total increase of $638.6 million in addition to our future pipeline service obligations shown above.
+
+(5)On February 9, 2021, a rail transportation contract for the transportation of coal was fully executed between NIPSCO and a counterparty, replacing the prior agreement. The minimum coal tonnage shipment commitment for 2021 was eliminated under the new agreement, reducing our contractual obligation for 2021 by $12.1 million.
+
+(6)Other liabilities shown above are inclusive of the Rosewater Developer payment due in 2023.
+
+Our calculated estimated interest payments for long-term debt is based on the stated coupon and payment dates. For 2021, we project that we will be required to make interest payments of approximately $339.4 million, which includes $336.3 million of interest payments related to our long-term debt outstanding as of December 31, 2020. At December 31, 2020, we had $503.0 million in short-term borrowings outstanding.
+
+Our expected payments included within “Other liabilities” in the table of contractual commitments above contains employer contributions to pension and other postretirement benefits plans expected to be made in 2021. Plan contributions beyond 2021 are dependent upon a number of factors, including actual returns on plan assets, which cannot be reliably estimated at this time. In 2021, we expect to make contributions of approximately $2.9 million to our pension plans and approximately $21.8 million to our postretirement medical and life plans. Refer to Note 12, “Pension and Other Postretirement Benefits,” in the Notes to Consolidated Financial Statements for more information.
+
+We cannot reasonably estimate the settlement amounts or timing of cash flows related to long-term obligations classified as “Total Other Liabilities” on the Consolidated Balance Sheets, other than those described above.
+
+We also have obligations associated with income, property, gross receipts, franchise, sales and use, and various other taxes and expect to make tax payments of approximately $253.4 million in 2021, which are not included in the table above. In addition, we have uncertain income tax positions that are not included in the table above as we are unable to predict when the matters will be resolved. Refer to Note 14, "Income Taxes," in the Notes to Consolidated Financial Statements for more information.
+
+44
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+NIPSCO has executed several PPAs to purchase 100% of the output from renewable generation facilities at a fixed price per MWh. Each facility supplying the energy will have an associated nameplate capacity, and payments under the PPAs will not begin until the associated generation facility is constructed by the owner/seller. NIPSCO has also executed several BTAs with developers to construct renewable generation facilities. NIPSCO's purchase requirement under the BTAs is dependent on satisfactory approval of the BTA by the IURC, successful execution of an agreement with a tax equity partner and timely completion of construction. NIPSCO and the tax equity partner are obligated to make cash contributions to the partnership at the date construction is substantially complete. Once the tax equity partner has earned their negotiated rate of return and we have reached the agreed upon contractual date, NIPSCO has the option to purchase at fair market value from the tax equity partner the remaining interest in the aforementioned joint venture. See Note 20-A, “Contractual Obligations,” and Note 20-E. “Other Matters - NIPSCO 2018 Integrated Resource Plan,” in the Notes to Consolidated Financial Statements for additional information.
+
+Off-Balance Sheet Arrangements
+
+We, along with certain of our subsidiaries, enter into various agreements providing financial or performance assurance to third parties on behalf of certain subsidiaries. Such agreements include guarantees and stand-by letters of credit.
+
+Refer to Note 20, “Other Commitments and Contingencies,” in the Notes to Consolidated Financial Statements for additional information about such arrangements.
+
+Market Risk Disclosures
+
+Risk is an inherent part of our businesses. The extent to which we properly and effectively identify, assess, monitor and manage each of the various types of risk involved in our businesses is critical to our profitability. We seek to identify, assess, monitor and manage, in accordance with defined policies and procedures, the following principal market risks that are involved in our businesses: commodity price risk, interest rate risk and credit risk. We manage risk through a multi-faceted process with oversight by the Risk Management Committee that requires constant communication, judgment and knowledge of specialized products and markets. Our senior management takes an active role in the risk management process and has developed policies and procedures that require specific administrative and business functions to assist in the identification, assessment and control of various risks. These may include, but are not limited to market, operational, financial, compliance and strategic risk types. In recognition of the increasingly varied and complex nature of the energy business, our risk management process, policies and procedures continue to evolve and are subject to ongoing review and modification.
+
+Commodity Price Risk
+
+We are exposed to commodity price risk as a result of our subsidiaries’ operations involving natural gas and power. To manage this market risk, our subsidiaries use derivatives, including commodity futures contracts, swaps, forwards and options. We do not participate in speculative energy trading activity.
+
+Commodity price risk resulting from derivative activities at our rate-regulated subsidiaries is limited, since regulations allow recovery of prudently incurred purchased power, fuel and gas costs through the rate-making process, including gains or losses on these derivative instruments. If states should explore additional regulatory reform, these subsidiaries may begin providing services without the benefit of the traditional rate-making process and may be more exposed to commodity price risk. 
+
+Our subsidiaries are required to make cash margin deposits with their brokers to cover actual and potential losses in the value of outstanding exchange traded derivative contracts. The amount of these deposits, some of which is reflected in our restricted cash balance, may fluctuate significantly during periods of high volatility in the energy commodity markets.
+
+Refer to Note 10, "Risk Management Activities," in the Notes to the Consolidated Financial Statements for further information on our commodity price risk assets and liabilities as of December 31, 2020 and 2019.
+
+Interest Rate Risk
+
+We are exposed to interest rate risk as a result of changes in interest rates on borrowings under our revolving credit agreement, commercial paper program, accounts receivable programs and now-settled term loan, which have interest rates that are indexed to short-term market interest rates. Based upon average borrowings and debt obligations subject to fluctuations in short-term market interest rates, an increase (or decrease) in short-term interest rates of 100 basis points (1%) would have increased (or decreased) interest expense by $12.3 million and $19.0 million for 2020 and 2019, respectively. We are also exposed to interest rate risk as a result of changes in benchmark rates that can influence the interest rates of future debt issuances. 
+
+45
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Refer to Note 10, "Risk Management Activities," in the Notes to Consolidated Financial Statements for further information on our interest rate risk assets and liabilities as of December 31, 2020 and 2019. 
+
+Credit Risk
+
+Due to the nature of the industry, credit risk is embedded in many of our business activities. Our extension of credit is governed by a Corporate Credit Risk Policy. In addition, Risk Management Committee guidelines are in place which document management approval levels for credit limits, evaluation of creditworthiness, and credit risk mitigation efforts. Exposures to credit risks are monitored by the risk management function, which is independent of commercial operations. Credit risk arises due to the possibility that a customer, supplier or counterparty will not be able or willing to fulfill its obligations on a transaction on or before the settlement date. For derivative-related contracts, credit risk arises when counterparties are obligated to deliver or purchase defined commodity units of gas or power to us at a future date per execution of contractual terms and conditions. Exposure to credit risk is measured in terms of both current obligations and the market value of forward positions net of any posted collateral such as cash and letters of credit.
+
+We closely monitor the financial status of our banking credit providers. We evaluate the financial status of our banking partners through the use of market-based metrics such as credit default swap pricing levels, and also through traditional credit ratings provided by major credit rating agencies.
+
+Certain individual state regulatory commissions instituted regulatory moratoriums in connection with the COVID-19 pandemic that impacted our ability to pursue our credit risk mitigation practices for customer accounts receivable. Following the issuances of these moratoriums, certain of our regulated operations have been authorized to recognize a regulatory asset for bad debt costs above levels currently in rates. We have reinstated our common credit mitigation practices where moratoriums have expired. See the COVID-19 pandemic discussion in Part I. Item 1A, "Risk Factors" for risks that have been identified related to the pandemic and refer to Note 9, "Regulatory Matters" in the Notes to Consolidated Financial Statements for state specific regulatory moratoriums. 
+
+Other Information
+
+Critical Accounting Policies
+
+We apply certain accounting policies based on the accounting requirements discussed below that have had, and may continue to have, significant impacts on our operations and Consolidated Financial Statements.
+
+Basis of Accounting for Rate-Regulated Subsidiaries. ASC Topic 980, Regulated Operations, provides that rate-regulated subsidiaries account for and report assets and liabilities consistent with the economic effect of the way in which regulators establish rates, if the rates established are designed to recover the costs of providing the regulated service and if the competitive environment makes it probable that such rates can be charged and collected. Certain expenses and credits subject to utility regulation or rate determination normally reflected in income are deferred on the Consolidated Balance Sheets and are recognized in income as the related amounts are included in service rates and recovered from or refunded to customers. The total amounts of regulatory assets and liabilities reflected on the Consolidated Balance Sheets were $1,930.5 million and $2,065.5 million at December 31, 2020, and $2,239.6 million and $2,512.2 million at December 31, 2019, respectively. For additional information, refer to Note 9, “Regulatory Matters,” in the Notes to Consolidated Financial Statements.
+
+In the event that regulation significantly changes the opportunity for us to recover our costs in the future, all or a portion of our regulated operations may no longer meet the criteria for the application of ASC Topic 980, Regulated Operations. In such event, a write-down of all or a portion of our existing regulatory assets and liabilities could result. If transition cost recovery is approved by the appropriate regulatory bodies that would meet the requirements under GAAP for continued accounting as regulatory assets and liabilities during such recovery period, the regulatory assets and liabilities would be reported at the recoverable amounts. If we were unable to continue to apply the provisions of ASC Topic 980, Regulated Operations, we would be required to apply the provisions of ASC Topic 980-20, Discontinuation of Rate-Regulated Accounting. In management’s opinion, our regulated subsidiaries will be subject to ASC Topic 980, Regulated Operations for the foreseeable future.
+
+Certain of the regulatory assets reflected on our Consolidated Balance Sheets require specific regulatory action in order to be included in future service rates. Although recovery of these amounts is not guaranteed, we believe that these costs meet the requirements for deferral as regulatory assets. If we determine that the amounts included as regulatory assets are no longer recoverable, a charge to income would immediately be required to the extent of the unrecoverable amounts.
+
+46
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+The passage of the TCJA into law in December 2017 necessitated the remeasurement of our deferred income tax balances to reflect the change in the statutory federal tax rate from 35% to 21%. For our regulated entities, substantially all of the impact of this remeasurement was recorded to a regulatory liability and is being passed backed to customers, as established during the rate making process. For additional information, refer to Note 9, "Regulatory Matters," and Note 11, "Income Taxes," in the Notes to Consolidated Financial Statements.
+
+Pension and Postretirement Benefits. We have defined benefit plans for both pension and other postretirement benefits. The calculation of the net obligations and annual expense related to the plans requires a significant degree of judgment regarding the discount rates to be used in bringing the liabilities to present value, expected long-term rates of return on plan assets, health care trend rates, and mortality rates, among other assumptions. Due to the size of the plans and the long-term nature of the associated liabilities, changes in the assumptions used in the actuarial estimates could have material impacts on the measurement of the net obligations and annual expense recognition. Differences between actuarial assumptions and actual plan results are deferred into AOCI or a regulatory balance sheet account, depending on the jurisdiction of our entity. These deferred gains or losses are then amortized into the income statement when the accumulated differences exceed 10% of the greater of the projected benefit obligation or the fair value of plan assets (known in GAAP as the “corridor” method) or when settlement accounting is triggered.
+
+The discount rates, expected long-term rates of return on plan assets, health care cost trend rates and mortality rates are critical assumptions. Methods used to develop these assumptions are described below. While a third party actuarial firm assists with the development of many of these assumptions, we are ultimately responsible for selecting the final assumptions.
+
+The discount rate is utilized principally in calculating the actuarial present value of pension and other postretirement benefit obligations and net periodic pension and other postretirement benefit plan costs. Our discount rates for both pension and other postretirement benefits are determined using spot rates along an AA-rated above median yield curve with cash flows matching the expected duration of benefit payments to be made to plan participants.
+
+The expected long-term rate of return on plan assets is a component utilized in calculating annual pension and other postretirement benefit plan costs. We estimate the expected return on plan assets by evaluating expected bond returns, equity risk premiums, target asset allocations, the effects of active plan management, the impact of periodic plan asset rebalancing and historical performance. We also consider the guidance from our investment advisors in making a final determination of our expected rate of return on assets. For measurement of 2021 net periodic benefit cost, we selected an expected pre-tax long-term rate of return of 5.20% and 5.50% for our pension and other postretirement benefit plan assets, respectively. 
+
+We estimate the assumed health care cost trend rate, which is used in determining our other postretirement benefit net expense, based upon our actual health care cost experience, the effects of recently enacted legislation, third-party actuarial surveys and general economic conditions. 
+
+We utilize a full yield curve approach to estimate the service and interest components of net periodic benefit cost for pension and other postretirement benefits by applying the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows. For further discussion of our pension and other postretirement benefits, see Note 12, “Pension and Other Postretirement Benefits,” in the Notes to Consolidated Financial Statements. 
+
+Typically, we use the Society of Actuaries’ most recently published mortality data in developing a best estimate of mortality as part of the calculation of the pension and other postretirement benefit obligations. Due to the ongoing COVID-19 pandemic, we adjusted our mortality assumption through 2023 to reflect anticipated slow recovery.
+
+47
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+The following tables illustrate the effects of changes in these actuarial assumptions while holding all other assumptions constant:
+
+[DATA_TABLE_REMOVED]
+
+(1)Before labor capitalization and regulatory deferrals. 
+
+Goodwill and Other Intangible Assets. We have six goodwill reporting units, comprised of the six state operating companies within the Gas Distribution Operations reportable segment. Our goodwill assets at December 31, 2020 were $1,486 million, most of which resulted from the acquisition of Columbia on November 1, 2000. 
+
+As required by GAAP, we test for impairment of goodwill on an annual basis and on an interim basis when events or circumstances indicate that a potential impairment may exist. Our annual goodwill test takes place in the second quarter of each year and was performed on May 1, 2020. 
+
+A quantitative ("step 1") test was completed on May 1, 2020 for all reporting units. Columbia of Massachusetts was not considered to be a reporting unit for the May 1, 2020 fair value measurement as the goodwill balance had been reduced to zero as of December 31, 2019. Consistent with our historical impairment testing of goodwill, fair value of the reporting units was determined based on a weighting of income and market approaches. These approaches require significant judgments including appropriate long-term growth rates and discount rates for the income approach and appropriate multiples of earnings for peer companies and control premiums for the market approach. The discount rates were derived using peer company data compiled with the assistance of a third party valuation services firm. The discount rates used are subject to change based on changes in tax rates at both the state and federal level, debt and equity ratios at each reporting unit and general economic conditions. The long-term growth rate was derived by evaluating historic growth rates, new business and investment opportunities beyond the near term horizon. The long-term growth rate is subject to change depending on inflationary impacts to the U.S. economy and the individual business environments in which each reporting unit operates. The Step 1 analysis performed indicated that the fair value of each of the reporting units exceeds their carrying value. As a result, no impairment charges were recorded.
+
+We recorded impairment charges related to goodwill and other intangible assets in 2019. See Note 7, "Goodwill and Other Intangible Assets," in the Notes to Consolidated Financial Statements for information regarding our 2019 analyses and assumptions.
+
+Revenue Recognition. Revenue is recorded as products and services are delivered. Utility revenues are billed to customers monthly on a cycle basis. Revenues are recorded on the accrual basis and include estimates for electricity and gas delivered but not billed. 
+
+We adopted the provisions of ASC 606 beginning on January 1, 2018 using a modified retrospective method, which was applied to all contracts. No material adjustments were made to January 1, 2018 opening balances and no material changes in the amount or timing of future revenue recognition occurred as a result of the adoption of ASC 606. Refer to Note 3 "Revenue Recognition," in the Notes to Consolidated Financial Statements for additional information regarding our significant judgments and estimates related to revenue recognition.
+
+48
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+NISOURCE INC.
+
+Variable Interest Entities. A VIE is an entity in which the controlling interest is determined through means other than a majority voting interest. The primary beneficiary of a VIE is the business enterprise which has the power to direct the activities of the VIE that most significantly impact the VIE’s economic performance. Also, the primary beneficiary either absorbs a significant amount of the VIE’s losses or has the right to receive benefits that could be significant to the VIE. We consider these qualitative elements in determining whether we are the primary beneficiary of a VIE, and we consolidate those VIEs for which we are determined to be the primary beneficiary. As the managing member of a partnership, we would control decisions that are significant to the ongoing operations and economic results. Therefore, we have concluded that we are the primary beneficiary of Rosewater and have consolidated Rosewater even though we own less than 100% of the total equity membership interest. 
+
+We have determined that the use of HLBV accounting is reasonable and appropriate to attribute income and loss to the noncontrolling interest held by the tax equity partner. HLBV accounting was selected as the allocation of Rosewater's economic results to members differ from the members' relative ownership percentages. Using the HLBV method, our earnings are calculated based on how the partnership would distribute its cash if it were to hypothetically sell all of its assets for their carrying amounts and liquidate at each reporting period. Under HLBV, we calculate the liquidation value allocable to each partner at the beginning and end of each period based on the contractual liquidation waterfall and adjust our income for the period to reflect the change our associated book value. Refer to Note 4, "Variable Interest Entities" in the Notes to Consolidated Financial Statements.
+
+Recently Issued Accounting Pronouncements
+
+Refer to Note 2, "Recent Accounting Pronouncements," in the Notes to Consolidated Financial Statements.
+
+Quantitative and Qualitative Disclosures about Market Risk are reported in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Market Risk Disclosures.”
+
+49
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

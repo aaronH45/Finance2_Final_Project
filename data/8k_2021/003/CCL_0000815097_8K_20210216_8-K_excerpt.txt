@@ -1,0 +1,133 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000815097 false        0000815097   2021-02-16 2021-02-16     0000815097  ccl:CarnivalPLCMember    2021-02-16 2021-02-16     0000815097  ccl:CommonStock0.01ParValueMember    2021-02-16 2021-02-16     0000815097  ccl:OrdinarySharesEachRepresentedByAmericanDepositarySharesMember ccl:CarnivalPLCMember    2021-02-16 2021-02-16     0000815097  ccl:Sec1.625SeniorNotesDue2021Member    2021-02-16 2021-02-16     0000815097  ccl:Sec1.875SeniorNotesDue2022Member ccl:CarnivalPLCMember    2021-02-16 2021-02-16     0000815097  ccl:Sec1.000SeniorNotesDue2029Member ccl:CarnivalPLCMember    2021-02-16 2021-02-16    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+PURSUANT TO SECTION 13 OR 15(d)  
+
+OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+Date of Report (date of earliest event reported) February 16, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+ CIK 0001125259 
+
+ Amendment Flag False 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)   
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)   
+
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))   
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+ Indicate by check mark whether the registrants are emerging growth companies as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2) of this chapter). 
+
+Emerging growth company ☐  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01Entry into a Material Definitive Agreement. 
+
+Indenture 
+
+On February 16, 2021, Carnival Corporation (the “Corporation”) closed its previously announced private offering (the “Notes Offering”) of $3.5 billion aggregate principal amount of 5.75% Senior Unsecured Notes due 2027 (the “Senior Unsecured Notes”). The Senior Unsecured Notes were issued pursuant to an indenture, dated as of February 16, 2021 (the “Indenture”), among the Corporation, Carnival plc, the subsidiary guarantors party thereto, and U.S. Bank National Association, as trustee. 
+
+The Senior Unsecured Notes mature on March 1, 2027, unless earlier redeemed or repurchased. No sinking fund is provided for the Senior Unsecured Notes. Cash interest on the Senior Unsecured Notes will accrue from February 16, 2021 and is payable semi-annually in arrears on March 1 and September 1 of each year, beginning on September 1, 2021 at a rate of 5.75% per year. 
+
+The Senior Unsecured Notes are fully and unconditionally guaranteed on an unsecured basis, jointly and severally, by Carnival plc and certain of the Corporation’s and Carnival plc’s subsidiaries. In the future, each of the Corporation’s and Carnival plc’s subsidiaries (other than immaterial subsidiaries) that guarantees certain other indebtedness of the Corporation, Carnival plc or any other guarantor, including, in each case, indebtedness in an aggregate principal amount in excess of $300 million, will be required to guarantee the Senior Unsecured Notes. 
+
+On or after December 1, 2026, the Corporation may redeem the Senior Unsecured Notes at its option, in whole at any time or in part from time to time, upon giving not less than 10 nor more than 60 days’ notice, at 100% of the principal amount of the Senior Unsecured Notes redeemed, plus accrued and unpaid interest. Prior to December 1, 2026, the Corporation may redeem the Senior Unsecured Notes at its option, in whole at any time or in part from time to time, upon giving not less than 10 nor more than 60 days’ notice, at a redemption price equal to 100% of the principal amount of the Senior Unsecured Notes redeemed, plus a “make-whole” premium and accrued and unpaid interest. The Corporation may also redeem the Senior Unsecured Notes, in whole but not in part, at any time, upon giving not less than 10 nor more than 60 days’ prior written notice to the holders of the Senior Unsecured Notes, at a redemption price equal to 100% of the principal amount thereof, together with accrued and unpaid interest, if any, to, but not including, the redemption date, if the Corporation or any guarantor would have to pay any additional amounts on the Senior Unsecured Notes due to a change in tax laws, regulations or rulings or a change in the official application, administration or interpretation of such laws, regulations or rulings, which in each case is announced and becomes effective after February 10, 2021. 
+
+The Indenture contains covenants that limit the ability of the Corporation, Carnival plc and their restricted subsidiaries to, among other things: (i) incur additional indebtedness or issue certain preferred shares; (ii) make dividend payments on or make other distributions in respect of their capital stock or make other restricted payments; (iii) make certain investments; (iv) sell certain assets; (v) create liens on assets; (vi) consolidate, merge, sell or otherwise dispose of all or substantially all of their assets; and (vii) enter into certain transactions with their affiliates. These covenants are subject to a number of important limitations and exceptions. Additionally, upon the occurrence of specified change of control triggering events, the Corporation shall offer to repurchase the Senior Unsecured Notes at 101% of the principal amount, plus accrued and unpaid interest, if any, to, but not including, the purchase date. 
+
+The Indenture sets forth certain events of default after which the Senior Unsecured Notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency events of default involving the Corporation, Carnival plc, any of our or Carnival plc’s significant subsidiaries or any group of our or Carnival plc’s subsidiaries that, taken together, would constitute a significant subsidiary after which the Senior Unsecured Notes become automatically due and payable.  
+
+ 2  
+
+The Senior Unsecured Notes were offered only to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”), and outside the United States, only to non-U.S. investors in reliance on Regulation S under the Securities Act. The Senior Unsecured Notes were not, and will not be, registered under the Securities Act or any state securities laws and may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirements of the Securities Act and applicable state laws. 
+
+The description of the Indenture and the Senior Unsecured Notes above is qualified in its entirety by reference to the text of the Indenture and the form of Senior Unsecured Note attached thereto, which will be filed with the next periodic report of the Corporation and Carnival plc. 
+
+ Item 2.03Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. 
+
+The information required by Item 2.03 relating to the Senior Unsecured Notes and the Indenture is contained in Item 1.01 of this Current Report on Form 8-K and is incorporated herein by reference. 
+
+ Item 8.01Other Events. 
+
+On February 16, 2021, Carnival Corporation and Carnival plc issued a press release announcing the closing of the Notes Offering. A copy of the press release announcing the closing of the Notes Offering is furnished as Exhibit 99.1 hereto and incorporated by reference herein. 
+
+Cautionary Note Concerning Factors That May Affect Future Results 
+
+Carnival Corporation and Carnival plc and their respective subsidiaries are referred to collectively in this Current Report on Form 8-K, including the Exhibits hereto (collectively, this “document”), as “our,” “us” and “we.” Some of the statements, estimates or projections contained in this document are “forward-looking statements” that involve risks, uncertainties and assumptions with respect to us, including some statements concerning the financing transactions described herein, future results, operations, outlooks, plans, goals, reputation, cash flows, liquidity and other events which have not yet occurred. These statements are intended to qualify for the safe harbors from liability provided by Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical facts are statements that could be deemed forward-looking. These statements are based on current expectations, estimates, forecasts and projections about our business and the industry in which we operate and the beliefs and assumptions of our management. We have tried, whenever possible, to identify these statements by using words like “will,” “may,” “could,” “should,” “would,” “believe,” “depends,” “expect,” “goal,” “anticipate,” “forecast,” “project,” “future,” “intend,” “plan,” “estimate,” “target,” “indicate,” “outlook” and similar expressions of future intent or the negative of such terms. 
+
+Forward-looking statements include those statements that relate to our outlook and financial position including, but not limited to, statements regarding: 
+
+  [DATA_TABLE_REMOVED] 
+
+ 3  
+
+Because forward-looking statements involve risks and uncertainties, there are many factors that could cause our actual results, performance or achievements to differ materially from those expressed or implied by our forward-looking statements. This note contains important cautionary statements of the known factors that we consider could materially affect the accuracy of our forward-looking statements and adversely affect our business, results of operations and financial position. Additionally, many of these risks and uncertainties are currently amplified by and will continue to be amplified by, or in the future may be amplified by, the COVID-19 outbreak. It is not possible to predict or identify all such risks. There may be additional risks that we consider immaterial or which are unknown. 
+
+These factors include, but are not limited to, the following: 
+
+ ·COVID-19 has had, and is expected to continue to have, a significant impact on our financial condition and operations, which impacts our ability to obtain acceptable financing to fund resulting reductions in cash from operations. The current, and uncertain future, impact of the COVID-19 outbreak, including its effect on the ability or desire of people to travel (including on cruises), is expected to continue to impact our results, operations, outlooks, plans, goals, reputation, litigation, cash flows, liquidity, and stock price; 
+
+ ·As a result of the COVID-19 outbreak, we may be out of compliance with one or more maintenance covenants in certain of our debt facilities, for which we currently have amendments for the period through November 30, 2021 with the next testing date of February 28, 2022; 
+
+ ·World events impacting the ability or desire of people to travel have and may continue to lead to a decline in demand for cruises; 
+
+ ·Incidents concerning our ships, guests or the cruise vacation industry as well as adverse weather conditions and other natural disasters have in the past and may, in the future, impact the satisfaction of our guests and crew and lead to reputational damage; 
+
+ ·Changes in and non-compliance with laws and regulations under which we operate, such as those relating to health, environment, safety and security, data privacy and protection, anti-corruption, economic sanctions, trade protection and tax have in the past and may, in the future, lead to litigation, enforcement actions, fines, penalties, and reputational damage; 
+
+ ·Breaches in data security and lapses in data privacy as well as disruptions and other damages to our principal offices, information technology operations and system networks, including the recent ransomware incidents, and failure to keep pace with developments in technology may adversely impact our business operations, the satisfaction of our guests and crew and may lead to reputational damage; 
+
+ ·Ability to recruit, develop and retain qualified shipboard personnel who live away from home for extended periods of time may adversely impact our business operations, guest services and satisfaction; 
+
+ ·Increases in fuel prices, changes in the types of fuel consumed and availability of fuel supply may adversely impact our scheduled itineraries and costs; 
+
+ ·Fluctuations in foreign currency exchange rates may adversely impact our financial results; 
+
+ ·Overcapacity and competition in the cruise and land-based vacation industry may lead to a decline in our cruise sales, pricing and destination options; and 
+
+ ·Inability to implement our shipbuilding programs and ship repairs, maintenance and refurbishments may adversely impact our business operations and the satisfaction of our guests. 
+
+The ordering of the risk factors set forth above is not intended to reflect our indication of priority or likelihood. 
+
+Forward-looking statements should not be relied upon as a prediction of actual results. Subject to any continuing obligations under applicable law or any relevant stock exchange rules, we expressly disclaim any obligation to disseminate, after the date of this document, any updates or revisions to any such forward-looking statements to reflect any change in expectations or events, conditions or circumstances on which any such statements are based. 
+
+ 4  
+
+ Item 9.01Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+  [DATA_TABLE_REMOVED] 
+
+ 5  
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, each of the registrants has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+ 6

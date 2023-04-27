@@ -1,0 +1,71 @@
+RIG_FSR_EX99_1   
+
+  ReportFebruary11, 2016  
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED] 
+
+ Updated: February 9, 2017  
+
+ Revisions Noted in Bold  
+
+ Footnotes  
+
+   (1)    Dates shown are the original service date and the date of the most recent upgrade, if any. 
+
+   (2)    Estimated Contract Start and Estimated Expiration Dates are calculated as follows: (1) for events estimated to occur between the 1st and 15th of a month, the previous month is reported (i.e. a contract which is estimated to commence on March 4, 2017 will be reported as commencing in February 2017) and (2) for events estimated to occur between the 16th and the end of a month, the actual month is reported (i.e. a contract which is estimated to commence on March 24, 2017 will be reported as commencing in March 2017). Expiration dates represent the company's current estimate of the earliest date the contract for each rig is likely to expire. Some rigs have two or more contracts in continuation, so the last line shows the estimated earliest availability. Many contracts permit the customer to extend the contract.  
+
+   (3)    Represents the full operating dayrate, although the average dayrate over the term of the contract will be lower and could be substantially lower. Does not reflect incentive programs which are typically based on the rig's operating performance against a performance curve. Please refer to the “Customer Contract Duration, Timing and Dayrates and Risks Associated with Operations” section of the Disclaimers & Definitions for a description of dayrates. This column may not reflect the rate currently being received under the contract as a result of an applicable standby rate or other rate, which typically is less than the contract dayrate. 
+
+   (4)    The out of service time represents those days where a rig is scheduled to be out of service and not be available to earn an operating dayrate. Please refer to the “Out of Service Days (Shipyards, Mobilizations, Demobilizations, Contract Preparation)” section of the Disclaimers & Definitions for a full description.  
+
+   (5)    Estimated Average Contract Dayrate is defined as the average contracted full operating dayrate to be earned per revenue earning day. See note (3) for definition of full operating dayrate. 
+
+   (6)    Reflects the current contracted dayrate which could reflect prior cost escalations, or de-escalations, and could change in the future due to further cost escalations, or de-escalations. 
+
+   (7)    Reflects the current contracted dayrate which, along with costs, includes a foreign currency component. Changes in the value of the U.S. Dollar relative to certain foreign currencies will result in an adjustment to the dayrate according to the terms of the contract. The dayrate adjustment generally offsets the foreign currency exchange-related change in costs. 
+
+   (8)    Current contract provides for a bonus incentive opportunity not reflected in the current contract dayrate. 
+
+   (9)    The two drillships on order from Sembcorp Marine's subsidiary, Jurong Shipyard, are expected to be delivered in the first quarter and third quarter of 2020. 
+
+   (10)    Fixed price options may be exercised at the customer’s discretion. During periods when dayrates on new contracts are increasing relative to existing contracts, the likelihood of customers’ exercising fixed price options increases. During periods when dayrates on new contracts are decreasing relative to existing contracts, the likelihood of customers’ exercising fixed price options declines. 
+
+   (11)    The contract is expected to start in the quarter indicated. Factors that could influence the contract start date include shipyard delivery, customer acceptance, and mobilization to operating location, among others. 
+
+   (12)    The five newbuild high-specification jackups contracted to Keppel FELS Limited's shipyard in Singapore are expected to be delivered from the shipyard in two and three month intervals beginning in the first quarter of 2020. 
+
+   (13)    The rig is owned by a joint venture in which the company owns less than a 100 percent interest. Dayrate reflects 100 percent of the contract rate. 
+
+   (14)    Mobilization, customer commissioning and acceptance testing commenced in March 2014. Revenue of approximately $52 million earned from March 2014 to July 2014 will be recognized over the remaining contract. 
+
+   (15)    The dayrate for the last year of the contract will be set three months prior to the third anniversary of the contract commencement date, subject to a floor dayrate of $305,000 and a ceiling dayrate of $365,000, pursuant to the terms of the contract. 
+
+   (16)    Dayrate will be increased when the rig is performing high-pressure high-temperature wells, or wells in the Barents Sea. 
+
+ DISCLAIMERS AND DEFINITIONS  
+
+ The information contained in this Fleet Status Report (the “Information”) is as of the date of the report only and is subject to change without notice to the recipient. Transocean Ltd. assumes no duty to update any portion of the Information.  
+
+ DISCLAIMER. NEITHER TRANSOCEAN LTD. NOR ITS AFFILIATES MAKE ANY EXPRESS OR IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE) REGARDING THE INFORMATION CONTAINED IN THIS REPORT, WHICH INFORMATION IS PROVIDED “AS IS.” Neither Transocean Ltd. nor its affiliates will be liable to any recipient or anyone else for any inaccuracy, error or omission, regardless of cause, in the information set forth in this report or for any damages (whether direct or indirect, consequential, punitive or exemplary) resulting therefrom.   
+
+ No Unauthorized Publication or Use. All information provided by Transocean in this report is given for the exclusive use of the recipient and may not be published, redistributed or retransmitted without the prior written consent of Transocean.   
+
+ Customer Contract Duration, Timing and Dayrates and Risks Associated with Operations. The duration and timing (including both starting and ending dates) of the customer contracts are estimates only, and customer contracts are subject to cancellation, suspension and delays for a variety of reasons, including some beyond the control of Transocean. Also, the dayrates set forth in the report are estimates based upon the full contractual operating dayrate. However, the actual average dayrate earned over the course of any given contract will be lower and could be substantially lower. The actual average dayrate will depend upon a number of factors (rig downtime, suspension of operations, etc.) including some beyond the control of Transocean. Our customer contracts and operations are generally subject to a number of risks and uncertainties, and we urge you to review the description and explanation of such risks and uncertainties in our filings with the Securities and Exchange Commission (SEC), which are available free of charge on the SEC’s website at www.sec.gov. The dayrates do not include revenue for mobilizations, demobilizations, upgrades, shipyards or recharges.  
+
+ Out of Service Days (Shipyards, Mobilizations, Demobilizations, Contract Preparation). Changes in the time Transocean anticipates that a rig is scheduled to be out of service and not be available to earn an operating dayrate are noted for all rig classifications since the previously issued Fleet Status Report. The changes to estimated out of service time included in this Fleet Status may not be firm and could change significantly based on a variety of factors. Any significant changes to our estimates of out of service time will be reflected in subsequent Fleet Status Reports, as applicable.  
+
+ Contract Preparation refers to periods during which the rig is undergoing modifications or upgrades as a result of contract requirements. Shipyards refers to periods during which the rig is out of service as a result of other scheduled shipyards, surveys, repairs, regulatory inspections or other scheduled service or work on the rig.  
+
+ In some instances such as certain mobilizations, demobilizations, upgrades and shipyards, we are paid compensation by our customers that is generally recognized over the life of the primary contract term of the drilling project, although such compensation is not typically significant in relation to the revenues generated by the dayrates we charge our customers. When mobilization or demobilization occurs during a contract period, we recognize revenues as earned. In instances where mobilization or demobilization time occurs before or between the start of a contract period, the stated estimated contract start date represents the expected commencement date for the primary contract term of the drilling project and the point at which we expect to begin recognizing revenues.   
+
+ Forward-Looking Statement. The statements made in the Fleet Update that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements made in the Fleet Update include, but are not limited to, statements involving the estimated duration of customer contracts, contract dayrate amounts, future contract commencement dates and locations and planned shipyard projects and other out of service time. Such statements are subject to numerous risks, uncertainties and assumptions, including but not limited to, uncertainties relating to the level of activity in offshore oil and gas exploration and development, exploration success by producers, oil and gas prices, competition and market conditions in the contract drilling industry, shipyard delays, actions and approvals of third parties, possible cancellation or suspension of drilling contracts as a result of mechanical difficulties or performance, Transocean’s ability to enter into and the terms of future contracts, the availability of qualified personnel, labor relations and the outcome of negotiations with unions representing workers, operating hazards, factors affecting the duration of contracts including well-in-progress provisions, the actual amount of downtime, factors resulting in reduced applicable dayrates, hurricanes and other weather conditions, 
+
+terrorism, political and other uncertainties inherent in non-U.S. operations (including the risk of war, civil disturbance, seizure or damage of equipment and exchange and currency fluctuations), the impact of governmental laws and regulations, the adequacy of sources of liquidity, the effect of litigation and contingencies and other factors described above and discussed in Transocean’s most recently filed Form 10-K, in Transocean’s Forms 10-Q for subsequent periods and in Transocean’s other filings with the SEC, which are available free of charge on the SEC’s website at www.sec.gov. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated. You should not place undue reliance on forward-looking statements. Each forward-looking statement speaks only as of the date of the particular statement, and we undertake no obligation to publicly update or revise any forward looking statements, except as required by law.  
+
+ Fleet Classifications. Transocean uses classifications for its drillships, semisubmersibles, and jackup rigs. The classifications reflect the company’s strategic focus on the ownership and operations of premium, high-specification units and are approximately as follows: “Ultra-Deepwater” are the latest generation of drillships and semisubmersible rigs and are capable of drilling in water depths equal to or greater than 7,500 feet; “Deepwater” rigs are drillships and semisubmersible rigs capable of drilling in water depths equal to or greater than 4,500 feet and less than 7,500 feet; “Harsh Environment” are premium rigs equipped for year-round operations in harsh environments; “Midwater Floaters” are semisubmersible rigs capable of drilling in water depths of greater than 300 feet and up to 4,499 feet; and "High-Specification Jackups" are high‑performance, independent cantilever jackup rigs that are capable of drilling in water depths of up to 400 feet.  
+
+ Stacking. An "Idle" rig is between contracts, readily available for operations, and operating costs are typically at or near normal levels. A "Stacked" rig, on the other hand, is manned by a reduced crew or unmanned and typically has reduced operating costs and is (i) preparing for an extended period of inactivity, (ii) expected to continue to be inactive for an extended period, or (iii) completing a period of extended inactivity. However, stacked rigs will continue to incur operating costs at or above normal operating costs for approximately 30 days following initiation of stacking.

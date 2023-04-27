@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000766704",
+    "sec_company_name": "WELLTOWER INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210208",
+    "sec_filing_date": "20210209",
+    "sec_changed_date": "20210209",
+    "sec_accepted_date": "20210209161752",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/766704/000076670421000015/0000766704-21-000015-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/766704/000076670421000015/0000766704-21-000015.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\HCN_0000766704_8K_20210208_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "41617 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4131,
+    "endpoints": [
+        "xml version='1.0' ? well-20210208",
+        "Page 2 of 2"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "HCN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\HCN_0000766704_8K_20210208_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:11:30.438688"
+}

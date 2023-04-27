@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000085961",
+    "sec_company_name": "RYDER SYSTEM INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180216",
+    "sec_filing_date": "20180216",
+    "sec_changed_date": "20180216",
+    "sec_accepted_date": "20180216092410",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/85961/000008596118000034/0000085961-18-000034-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/85961/000008596118000034/0000085961-18-000034.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\R_0000085961_EX991_20180216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1022828 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34813,
+    "endpoints": [
+        "Exhibit   ",
+        "** Non-GAAP financial measure. We refer to the net amount of cash generated from operating activities and investing activities (excluding changes in restricted cash and acquisitions) from continuing operations as “free cash flow”. We calculate free cash flow as the sum of net cash provided by operating activities and net cash provided by the sale of revenue earning equipment and operating property and equipment, collections on direct finance leases and other cash inflows from investing activities, less purchases of property and revenue earning equipment."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "R",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\R_0000085961_EX991_20180216_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:00.540451"
+}

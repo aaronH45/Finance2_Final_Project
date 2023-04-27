@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000051434",
+    "sec_company_name": "INTERNATIONAL PAPER CO /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180201",
+    "sec_filing_date": "20180201",
+    "sec_changed_date": "20180201",
+    "sec_accepted_date": "20180201073942",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/51434/000005143418000004/0000051434-18-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/51434/000005143418000004/0000051434-18-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\IP_0000051434_EX991_20180201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "715006 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 30085,
+    "endpoints": [
+        "Exhibit   ",
+        "Free cash flow is a non-GAAP measure and the most directly comparable GAAP measure is cash provided by operations. Management believes that free cash flow is useful to investors as a liquidity measure because it measures the amount of cash generated that is available, after reinvesting in the business, to maintain a strong balance sheet, pay dividends, repurchase stock, service debt and make investments for future growth. It should not be inferred that the entire free cash flow amount is available for discretionary expenditures. By adjusting for certain items that are not indicative of the Company’s ongoing performance, free cash flow also enables investors to perform meaningful comparisons between past and present periods."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\IP_0000051434_EX991_20180201_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:24:49.701288"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001174922",
+    "sec_company_name": "WYNN RESORTS LTD (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220125",
+    "sec_filing_date": "20220125",
+    "sec_changed_date": "20220125",
+    "sec_accepted_date": "20220125083043",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1174922/000117492222000016/0001174922-22-000016-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1174922/000117492222000016/0001174922-22-000016.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\WYNN_0001174922_8K_20220125_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "40939 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2537,
+    "endpoints": [
+        "xml version='1.0' ? wynn-20220125",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "WYNN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\WYNN_0001174922_8K_20220125_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:26.526438"
+}

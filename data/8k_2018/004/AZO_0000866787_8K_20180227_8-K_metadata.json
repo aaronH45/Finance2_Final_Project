@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000866787",
+    "sec_company_name": "AUTOZONE INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180227",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180227",
+    "sec_accepted_date": "20180227065815",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/866787/000117184318001464/0001171843-18-001464-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/866787/000117184318001464/0001171843-18-001464.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\AZO_0000866787_8K_20180227_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "8608 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2332,
+    "endpoints": [
+        "UNITED STATES",
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AZO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\AZO_0000866787_8K_20180227_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:14.463092"
+}

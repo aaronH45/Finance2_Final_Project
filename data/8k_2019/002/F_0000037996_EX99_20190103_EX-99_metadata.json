@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190103",
+    "sec_filing_date": "20190103",
+    "sec_changed_date": "20190103",
+    "sec_accepted_date": "20190103143757",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000110465919000449/0001104659-19-000449-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000110465919000449/0001104659-19-000449.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_EX99_20190103_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7547 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5521,
+    "endpoints": [
+        "Exhibit 99 ",
+        "FORD MOTOR COMPANY DECEMBER 2018 Erich Merkle 313.806.4562 emerkle2@ford. com C O N T A C T December 2018 November 2018 December 2017 Dealer Stock (on ground) Units at Month-End Days' Supply Units at Month-End Days' Supply Units at Month-End Days' Supply Cars SUVs Trucks Total 80,577 196,650 241,099 518,326 58 62 57 59 87,985 192,903 245,151 526,039 61 68 68 67 111,408 154,121 253,500 519,029 60 48 59 56 December 2018 November 2018 December 2017 Gross Stock (incl. in-transit) Units at Month-End Days' Supply Units at Month-End Days' Supply Units at Month-End Days' Supply Cars SUVs Trucks Total 101,666 244,652 311,333 657,651 73 77 73 74 108,232 244,335 315,667 668,234 75 87 88 85 141,943 192,721 295,771 630,435 76 60 69 68 December 2018 December CYTD Fleet Segment Percent of Total Sales YOY Change Percent of Total Sales YOY Change Rental Commercial Government 7.6% 10.7% 5.7% (4.3) points 0.6 points 0.5 points 10.5% 12.7% 6.0% (0.6) points 1.0 points (0.1) points Total Fleet 24.0% (3.2) points 29.3% 0.3 points D E C E M B E R 2 0 1 8 I N V E N T O R Y / F L E E T R E S U L T S"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_EX99_20190103_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:42:52.631174"
+}

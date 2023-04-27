@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896878",
+    "sec_company_name": "INTUIT INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150206",
+    "sec_filing_date": "20150206",
+    "sec_changed_date": "20150206",
+    "sec_accepted_date": "20150206132452",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896878/000119312515036977/0001193125-15-036977-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896878/000119312515036977/0001193125-15-036977.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\INTU_0000896878_EX9901_20150206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8287 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4640,
+    "endpoints": [
+        "EX-99.01   ",
+        "This press release contains forward-looking statements, including statements regarding the expected results of our efforts to address the reported fraudulent activities and prevent fraud in the future. We cannot be certain that we will be able to do so quickly or completely. Detecting and eliminating fraudulent activity is inherently difficult, and those who perpetrate these fraudulent activities are continuously changing their methods to avoid detection. Accordingly, our efforts may not be successful and actual results may differ materially from our goals and expectations. We do not undertake any duty to update any forward-looking statement or other information in this press release."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\INTU_0000896878_EX9901_20150206_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:58.813508"
+}

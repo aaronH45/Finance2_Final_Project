@@ -1,0 +1,443 @@
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report: January 20, 2015 
+
+(Date of earliest event reported) 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+ [DATA_TABLE_REMOVED]  
+
+  ARMONK, NEW YORK       10504   
+
+  (Address of principal executive offices)       (Zip Code)     
+
+914-499-1900 
+
+(Registrant’s telephone number) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Item 2.02. Results of Operations and Financial Condition. 
+
+The registrant’s press release dated January 20, 2015, regarding its financial results for the periods ended December 31, 2014, including consolidated financial statements for the periods ended December 31, 2014, is Attachment I of this Form 8-K. Attachment II are the slides for IBM’s Chief Financial Officer Martin Schroeter’s fourth quarter earnings presentation on January 20, 2015, as well as certain reconciliation and other information (“Non-GAAP Supplemental Materials”) for information in Attachment I (press release), Attachment II (slides) and in Mr. Schroeter’s presentation. All of the information in Attachment I and II is hereby filed. 
+
+IBM’s web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted. 
+
+2 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. 
+
+  Date: January 20, 2015           
+
+      By:   /s/ Stanley J. Sutula III   
+
+          Stanley J. Sutula III   
+
+          Vice President and Controller    
+
+3 
+
+ATTACHMENT I 
+
+IBM REPORTS 2014 FOURTH-QUARTER AND FULL-YEAR RESULTS 
+
+Fourth-Quarter 2014: 
+
+· Diluted EPS from continuing operations: 
+
+· GAAP: $5.54, down 4 percent; 
+
+· Operating (non-GAAP): $5.81, down 6 percent; 
+
+· Pre-tax income from continuing operations: 
+
+· GAAP: $7.1 billion, flat year-to-year; 
+
+· Operating (non-GAAP): $7.4 billion, down 2 percent; 
+
+· Net income from continuing operations: 
+
+· GAAP: $5.5 billion, down 11 percent; 
+
+· Operating (non-GAAP): $5.8 billion, down 13 percent; 
+
+· Gross profit margin from continuing operations: 
+
+· GAAP: 53.3 percent, up 100 basis points; 
+
+· Operating (non-GAAP): 53.9 percent, up 60 basis points; 
+
+· Revenue from continuing operations: $24.1 billion: 
+
+· Down 12 percent; down 2 percent adjusting for divested businesses and currency. 
+
+Full-Year 2014: 
+
+· Diluted EPS from continuing operations: 
+
+· GAAP: $15.59, up 2 percent; 
+
+· Operating (non-GAAP): $16.53, down 1 percent; 
+
+· Pre-tax income from continuing operations: 
+
+· GAAP: $20.0 billion, down 1 percent; 
+
+· Operating (non-GAAP): $21.1 billion, down 4 percent; 
+
+· Net income from continuing operations: 
+
+· GAAP: $15.8 billion, down 7 percent; 
+
+· Operating (non-GAAP): $16.7 billion, down 9 percent; 
+
+· Gross profit margin from continuing operations: 
+
+· GAAP: 50.0 percent, up 50 basis points; 
+
+· Operating (non-GAAP): 50.6 percent, up 10 basis points; 
+
+· Revenue from continuing operations: $92.8 billion: 
+
+· Down 6 percent; down 1 percent adjusting for divested businesses and currency; 
+
+· Strategic imperatives grew 16 percent to $25 billion, and now represent 27 percent of total IBM revenue:  
+
+· Total Cloud revenue of $7 billion, up 60 percent; 
+
+· Cloud delivered as a service revenues of $3 billion, up approximately 75 percent; 
+
+· Year-end annual run rate of $3.5 billion for cloud delivered as a service; 
+
+· Business analytics revenue up 7 percent to nearly $17 billion; 
+
+· Mobile revenue more than tripled; 
+
+· Security revenue up 19 percent. 
+
+ARMONK, N.Y., January 20, 2015 . . . IBM (NYSE: IBM) today announced fourth-quarter 2014 diluted earnings from continuing operations of $5.54 per share, compared with diluted earnings of $5.76 per share in the fourth-quarter of 2013, a decrease of 4 percent. Operating (non-GAAP) diluted earnings from continuing operations were $5.81 per share compared with operating diluted earnings of $6.16 per share in the fourth-quarter of 2013, a decrease of 6 percent. 
+
+Fourth-quarter net income from continuing operations was $5.5 billion compared with $6.2 billion in the fourth-quarter of 2013, a decrease of 11 percent. Operating (non-GAAP) net income from continuing operations was $5.8 billion, as compared with $6.6 billion in the fourth-quarter of 2013, a decrease of 13 percent. 
+
+For the fourth-quarter of 2014, IBM reported consolidated net income of $5.5 billion or $5.51 of diluted earnings per share, including operating net losses in discontinued operations related to the microelectronics manufacturing business. 
+
+Total revenues from continuing operations for the fourth-quarter of 2014 of $24.1 billion were down 12 percent (down 2 percent, adjusting for the impact of the divested customer care outsourcing and System x businesses and for currency) from the fourth-quarter of 2013 and were down 1 percent for the full year 2014, adjusting for the impact of the divested businesses and for currency. 
+
+“We are making significant progress in our transformation, continuing to shift IBM’s business to higher value, and investing and positioning ourselves for the longer term,” said Ginni Rometty, IBM chairman, president and chief executive officer. 
+
+“In 2014, we repositioned our hardware portfolio for higher value, maintained a services backlog of $128 billion and achieved strong revenue growth across cloud, analytics, mobile, social and security. Together these strategic imperatives grew 16 percent in 2014 and now represent $25 billion and 27 percent of our revenue.” 
+
+Fourth-Quarter GAAP — Operating (non-GAAP) Reconciliation 
+
+Fourth-quarter operating (non-GAAP) diluted earnings from continuing operations exclude $0.27 per share of charges; $0.19 per share for the amortization of purchased intangible assets and other acquisition-related charges; and $0.08 per share for retirement-related charges driven by changes to plan assets and liabilities primarily related to market performance. 
+
+Full-Year 2015 Expectations 
+
+The company will provide 2015 earnings expectations during today’s quarterly earnings conference call. 
+
+Geographic Regions 
+
+The Americas’ fourth-quarter revenues were $11.1 billion, a decrease of 9 percent (down 4 percent, adjusting for divested businesses and currency) from the 2013 period. Revenues from Europe/Middle East/Africa were down 13 percent to $8.0 billion (down 1 percent, adjusting for divested businesses and currency). Asia-Pacific revenues decreased 17 percent (down 2 percent, adjusting for divested businesses and currency) to $4.9 billion. 
+
+Growth Markets and Major Markets 
+
+Revenues from the company’s growth markets were down 16 percent (down 2 percent, adjusting for divested businesses and currency). Revenues in the BRIC countries — Brazil, Russia, India and China — were down 21 percent (down 8 percent, adjusting for divested businesses and currency). China revenues were down 1 percent, adjusting for divested businesses and currency. Revenues from the company’s major markets were down 11 percent (down 2 percent, adjusting for divested businesses and currency). 
+
+Services 
+
+Global Services segment revenues decreased 8 percent (flat adjusting for the impact of the divested customer care outsourcing and System x businesses and for currency) to $13.5 billion. Global Technology Services segment revenues decreased 8 percent (up 2 percent adjusting for the impact of the divested customer care outsourcing and System x businesses and for currency) to $9.2 billion. Global Business Services segment revenues were down 8 percent (down 3 percent, adjusting for currency) to $4.3 billion. 
+
+Pre-tax income from Global Technology Services decreased 26 percent and pre-tax margin decreased to 15.6 percent. Global Business Services pre-tax income decreased 22 percent and pre-tax margin decreased to 16.4 percent. Pre-tax income and margin include the impact of the fourth-quarter workforce rebalancing charge. 
+
+The estimated services backlog at December 31, 2014 was $128 billion, flat year to year adjusting for the divested customer care outsourcing and System x businesses and currency. 
+
+Software 
+
+Revenues from the Software segment were $7.6 billion, down 7 percent (down 3 percent, adjusting for currency) compared with the fourth-quarter of 2013. Software pre-tax income decreased 11 percent and pre-tax margin decreased to 44.7 percent. Pre-tax income and margin include the impact of the fourth-quarter workforce rebalancing charge. 
+
+Revenues from IBM’s key middleware products, which include WebSphere, Information Management, Tivoli, Workforce Solutions and Rational products, were $5.4 billion, down 6 percent (down 3 percent, adjusting for currency) versus the fourth-quarter of 2013. Operating systems revenues of $557 million were down 19 percent (down 16 percent, adjusting for currency) compared with the prior-year quarter. 
+
+Financing 
+
+Global Financing segment revenues were flat (up 5 percent, adjusting for currency) in the fourth-quarter to $532 million. Pre-tax income for the segment decreased 11 percent to $526 million. 
+
+Hardware 
+
+Revenues from continuing operations for the Systems and Technology segment totaled $2.4 billion for the quarter, down 39 percent (down 12 percent, adjusting for the impact of the divested System x business and currency) from the fourth-quarter of 2013. Systems and Technology pre-tax income increased 12 percent and pre-tax margin increased to 15.5 percent. Pre-tax income and margin include the impact of the fourth-quarter workforce rebalancing charge. 
+
+Revenues from Power Systems were down 13 percent (down 11 percent, adjusting for currency) compared with the 2013 period. Revenues from System z mainframe server products decreased 26 percent (down 23 percent, adjusting for currency). Revenues from System Storage decreased 8 percent (down 5 percent, adjusting for currency). 
+
+Gross Profit 
+
+The company’s total gross profit margin from continuing operations was 53.3 percent in the 2014 fourth-quarter period compared with 52.4 percent in the 2013 fourth-quarter period. Total operating (non-GAAP) gross profit margin from continuing operations was 53.9 percent in the 2014 fourth-quarter compared with 53.3 percent in the 2013 fourth-quarter period. 
+
+Expense 
+
+Total reported expense and other income from continuing operations declined 20 percent to $5.8 billion compared with the prior year period. The reported reduction was driven by the gain of $1.4 billion ($1.1 billion pre-tax income benefit, net of related transaction and performance-based costs) from the divestiture of the System x business and the elimination of the expense for the System x business from the company’s run rate. Without these items, expense and other income would have been up approximately 2 percent. S,G&A expense of $6.0 billion was up 1 percent from the prior-year period and includes the workforce rebalancing charge of approximately $580 million. R,D&E expense of $1.3 billion decreased 9 percent compared with the year-ago period, reflecting the divestiture of the System x business and currency impact. Intellectual property and custom development income decreased to $199 million compared with $201 million a year ago. Other (income) and expense was income of $1.5 billion, including the gain from the divested System x business, compared with prior-year income of $116 million. Interest expense increased to $117 million compared with $113 million in the prior-year period. 
+
+Total operating (non-GAAP) expense and other income from continuing operations decreased 20 percent to $5.6 billion compared with the prior-year period, including 
+
+the gain from the divestiture of the System x business. Operating (non-GAAP) S,G&A expense increased 1 percent to $5.8 billion compared with the prior-year period and includes the workforce rebalancing charge. Operating (non-GAAP) R,D&E expense of $1.3 billion was down 7 percent compared with the year-ago period, reflecting the divestiture of the System x business and currency impact. 
+
+Pre-Tax Income 
+
+Pre-tax income from continuing operations was flat year over year at $7.1 billion; pre-tax margin of 29.4 percent was up 3.5 points compared with the prior-year period. Operating (non-GAAP) pre-tax income from continuing operations decreased 2 percent to $7.4 billion and pre-tax margin was 30.7 percent, up 3.0 points, compared to the year-ago period. 
+
+*** 
+
+IBM’s tax rate from continuing operations was 22.3 percent, up 9.8 points year over year; operating (non-GAAP) tax rate was 21.8 percent, up 9.6 points compared to the year-ago period. The change in the fourth-quarter tax rate is driven by prior year discrete tax items, including benefits from tax audit settlements. 
+
+Net income margin from continuing operations increased 0.2 points to 22.9 percent. Total operating (non-GAAP) net income margin from continuing operations decreased 0.3 points to 24.0 percent. 
+
+The weighted-average number of diluted common shares outstanding in the fourth-quarter 2014 was 995 million, a decrease of 8 percent compared with the same period of 2013. As of December 31, 2014, there were 991 million basic common shares outstanding. 
+
+Debt, including Global Financing, totaled $40.8 billion, compared with $39.7 billion at year-end 2013, and down $4.9 billion from the third quarter of 2014. From a management segment view, Global Financing debt totaled $29.1 billion versus $27.5 billion at year-end 2013, resulting in a debt-to-equity ratio of 7.2 to 1. Core (non-global financing) debt totaled $11.7 billion, a decrease of $0.5 billion since year-end 2013, resulting in a debt-to-capitalization ratio of 59 percent, which includes impacts from retirement plan remeasurement that take into account changes in discount rates and recently released U.S. mortality tables, the announced Microelectronics business divestiture and foreign exchange translation. 
+
+IBM ended the fourth-quarter 2014 with $8.5 billion of cash on hand and generated free cash flow of $6.6 billion, excluding Global Financing receivables, down approximately $1.8 billion year over year. In the fourth quarter of 2014, the company returned $1.2 billion to shareholders through $1.1 billion in dividends and $0.1 billion of gross share repurchases. 
+
+At the end of December 2014, IBM had approximately $6.3 billion remaining from the current share repurchase authorization. 
+
+Full-Year 2014 Results 
+
+Net income from continuing operations for the twelve months ended December 31, 2014 was $15.8 billion compared with $16.9 billion in the year-ago period, a decrease of 7 percent. Diluted earnings per share from continuing operations were $15.59, up 2 percent compared to the 2013 period. 
+
+The consolidated diluted earnings per share were $11.90 as compared to $14.94 per share in 2013, down 20 percent. Revenues from continuing operations for the twelve-month period totaled $92.8 billion, a decrease of 6 percent (down 1 percent, adjusting for divested businesses and currency) compared with $98.4 billion for the twelve months of 2013. 
+
+Full year results include a non-recurring pre-tax charge of $4.7 billion, or $3.4 billion, net of tax. The charge includes an impairment to reflect fair value less estimated costs to sell the Microelectronics manufacturing business assets, which the company has classified as held for sale at December 31, 2014. The charge also includes other estimated costs related to the transaction, including cash consideration expected to be transferred to GLOBALFOUNDRIES of approximately $1.5 billion. 
+
+Operating (non-GAAP) net income from continuing operations for the twelve months ended December 31, 2014 was $16.7 billion compared with $18.4 billion in the year-ago period, a decrease of 9 percent. Operating (non-GAAP) diluted earnings per share from continuing operations were $16.53 compared with $16.64 per diluted share for the 2013 period, a decrease of less than 1 percent. 
+
+Forward-Looking and Cautionary Statements 
+
+Except for the historical information and discussions contained herein, statements contained in this release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance. These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, including the following: a downturn in economic environment and client spending budgets; the company’s failure to meet growth and productivity objectives; a failure of the company’s innovation initiatives; risks from investing in growth opportunities; failure of the company’s intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; cybersecurity and data privacy considerations; fluctuations in financial results, impact of local legal, economic, political and health conditions; adverse effects from environmental matters, tax matters and the company’s pension plans; ineffective internal controls; the company’s use of accounting estimates; the company’s ability to attract and retain key personnel and its reliance on critical skills; impacts of relationships with critical suppliers and business with government clients; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; reliance on third party distribution channels; the company’s ability to successfully manage acquisitions, alliances and dispositions; risks from legal proceedings; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company’s Form 10-Qs, Form 10-K and in the company’s other filings with the U.S. Securities and Exchange Commission (SEC) or in materials incorporated therein by reference. Any forward-looking statement in this release speaks only as of the date on which it is made. The company assumes no obligation to update or revise any forward-looking statements. 
+
+Presentation of Information in this Press Release 
+
+In an effort to provide investors with additional information regarding the company’s results as determined by generally accepted accounting principles (GAAP), the company has also disclosed in this press release the following non-GAAP information which management believes provides useful information to investors: 
+
+IBM results and expectations — 
+
+· presenting operating (non-GAAP) earnings per share from continuing operations amounts and related income statement items; 
+
+· presenting non-global financing debt-to-capitalization ratio; 
+
+· adjusting for free cash flow; 
+
+· adjusting for currency (i.e., at constant currency); 
+
+· adjusting for the divestiture of the System x and the customer care outsourcing businesses. 
+
+The rationale for management’s use of non-GAAP measures is included as part of the supplemental materials presented within the fourth-quarter earnings materials. These materials are available on the IBM investor relations Web site at www.ibm.com/investor and are being included in Attachment II (“Non-GAAP Supplemental Materials”) to the Form 8-K that includes this press release and is being submitted today to the SEC. 
+
+Conference Call and Webcast 
+
+IBM’s regular quarterly earnings conference call is scheduled to begin at 4:30 p.m. EST, today. The Webcast may be accessed via a link at http://www.ibm.com/investor/events/earnings/4q14.html. Presentation charts will be available shortly before the Webcast. 
+
+Financial Results Below (certain amounts may not add due to use of rounded numbers; percentages presented are calculated from the underlying whole-dollar amounts.) 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+COMPARATIVE FINANCIAL RESULTS 
+
+(Unaudited; Dollars in millions except per share amounts) 
+
+  [DATA_TABLE_REMOVED] 
+
+* Reclassified to reflect discontinued operations presentation. 
+
+ NM = Not Meaningful 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+
+(Unaudited) 
+
+  [DATA_TABLE_REMOVED] 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+CASH FLOW ANALYSIS 
+
+(Unaudited) 
+
+  [DATA_TABLE_REMOVED] 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+SEGMENT DATA 
+
+(Unaudited) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+* Reclassified to reflect discontinued operations presentation. 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+SEGMENT DATA 
+
+(Unaudited) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+* Reclassified to reflect discontinued operations presentation. 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+U.S. GAAP TO OPERATING RESULTS RECONCILIATION 
+
+(Unaudited; Dollars in millions except per share amounts) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+* Includes amortization of acquired intangible assets and other acquisition-related charges. 
+
+** Includes retirement-related items driven by changes to plan assets and liabilities primarily related to market performance. 
+
+*** Tax impact on operating (non-GAAP) pre-tax income from continuing operations is calculated under the same accounting principles applied to the GAAP pre-tax income which employs an annual effective tax rate method to the results. 
+
+**** Reclassified to reflect discontinued operations presentation. 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+U.S. GAAP TO OPERATING RESULTS RECONCILIATION 
+
+(Unaudited; Dollars in millions except per share amounts) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+* Includes amortization of acquired intangible assets and other acquisition-related charges. 
+
+** Includes retirement-related items driven by changes to plan assets and liabilities primarily related to market performance. 
+
+*** Tax impact on operating (non-GAAP) pre-tax income from continuing operations is calculated under the same accounting principles applied to the GAAP pre-tax income which employs an annual effective tax rate method to the results. 
+
+**** Reclassified to reflect discontinued operations presentation. 
+
+  [DATA_TABLE_REMOVED] 
+
+ATTACHMENT II 
+
+  ss    4Q 2014 Earnings Presentation January 20, 2015      
+
+     2 Forward Looking Statements and Non-GAAP Information Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company's current assumptions regarding future business and financial performance. Those statements by their nature address matters that are uncertain to different degrees. Those statements involve a number of factors that could cause actual results to differ materially. Additional information concerning these factors is contained in the Company's filings with the SEC. Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations. Any forward-looking statement made during this presentation speaks only as of the date on which it is made. The company assumes no obligation to update or revise any forward-looking statements. These charts and the associated remarks and comments are integrally related, and are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), the company also discusses, in its earnings press release and earnings presentation materials, certain non-GAAP information including "operating earnings" and other "operating" financial measures. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information are included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are posted on the Company’s investor relations web site at http://www.ibm.com/investor/events/earnings/4q14.html The Non-GAAP Supplemental Materials are also included as Attachment II to the Company’s Form 8-K dated January 20, 2015.      
+
+     3 2014 Summary 4Q14 FY14 $ Yr/Yr $ Yr/Yr Revenue $24.1 (12%) $92.8 (6%) @CC excl. divestures* (2%) (1%) Operating (Non-GAAP) EPS $5.81 (6%) $16.53 (1%) * Yr/Yr excludes divested Customer Care BPO and System x businesses for full year Continued strength in strategic imperatives FY strategic imperatives revenue $25B, +16% yr/yr, represents 27% of IBM Solid double-digit growth each quarter Cloud $7B, +60% yr/yr, $3.5B annual as-a-service run rate Expanded gross and pre-tax margins, driven by shift to higher value Improving position for long term Shifting investments and resources Establishing key initiatives and partnerships Divested businesses that no longer fit strategic profile      
+
+     4 Key Financial Metrics P&L Ratios (Operating) 4Q14 B/(W) Yr/Yr GP Margin 53.9% 0.6 pts PTI Margin 30.7% 3.0 pts Tax Rate 21.8% (9.6 pts) NI Margin 24.0 % (0.3 pts) P&L Highlights 4Q14 B/(W) Yr/Yr Revenue $24.1 (12%) @CC excl. divestitures* (2%) PTI – Operating $7.4 (2%) NI – Operating $5.8 (13%) EPS – Operating $5.81 (6%) Cash Highlights 4Q14 FY14 Free Cash Flow (excl. GF Receivables) $6.6 $12.4 Share Repurchase (Gross) 0.1 13.7 Dividends 1.1 4.3 Cash Balance @ Dec. 31 8.5 * Divested Customer Care BPO and System x businesses $ in Billions, except EPS      
+
+  s   Revenue by Geography 4Q14 Rptd @CC* Americas $11.1 (9%) (4%) Europe/ME/A 8.0 (13%) (1%) Asia Pacific 4.9 (17%) (2%) IBM $24.1 (12%) (2%) Major Markets (11%) (2%) Growth Markets (16%) (2%) BRIC Countries (21%) (8%) $ in Billions AP ex. Japan U.S. -4%* EMEA Canada/ LA Japan +2%* @CC 5 * Yr/Yr @CC normalized for divested Customer Care BPO and System x businesses B/(W) Yr/Yr      
+
+     6 Revenue and Gross Profit Margin by Segment 4Q14 Rptd @CC 4Q14 B/(W) Yr/Yr Pts Global Technology Services* $9.2 (8%) 2% 38.5% (0.3 pts) Global Business Services 4.3 (8%) (3%) 32.0% 1.4 pts Software 7.6 (7%) (3%) 90.0% (0.6 pts) Systems & Technology* 2.4 (39%) (12%) 49.6% 7.3 pts Global Financing 0.5 Flat 5% 48.7% 5.3 pts Total Revenue & Op. GP Margin* $24.1 (12%) (2%) 53.9% 0.6 pts $ in Billions Operating Gross Profit Margin Revenue * Yr/Yr Revenue @CC normalized for divested Customer Care BPO and System x businesses B/(W) Yr/Yr      
+
+     7 Expense Summary 4Q14 B/(W) Yr/Yr Currency Acq.* Base SG&A – Operating** $5.8 (1%) 5 pts (1 pts) (4 pts) RD&E – Operating 1.3 7% 2 pts (2 pts) 6 pts IP and Development Income (0.2) (1%) Other (Income)/Expense** (1.5) nm Interest Expense 0.1 (4%) Operating Expense & Other Income excl. divested System x business $5.6 20% (2%) 4 pts 5 pts (1 pts) (1 pts) 17 pts (6 pts) $ in Billions B/(W) Yr/Yr Drivers * Includes acquisitions made in the last twelve months, net of non-operating acquisition-related charges ** SG&A includes Workforce Rebalancing charge of $0.6B; Other (Income)/Expense includes System x divestiture gain of ($1.4B), or ($1.1B) PTI benefit net of related transaction and performance based cost and expense      
+
+     Services Global Technology Services (GTS) Segments Global Business Services (GBS) B/(W) Yr/Yr B/(W) Yr/Yr 4Q14 $9.2 38.5% 15.6% Rptd (8%) (0.3 pts) (3.9 pts) @CC* 2% $ in Billions Revenue (External) Gross Margin (External) PTI Margin** $ in Billions 4Q14 Rptd @CC Revenue (External) Gross Margin (External) PTI Margin** $4.3 32.0% 16.4% (8%) 1.4 pts (2.7 pts) (3%) ** GTS reflects Workforce Rebalancing charge of $0.3B ** GBS reflects Workforce Rebalancing charge of $0.1B 4Q14 Revenue (% of Total Services) Yr/Yr GTS 4Q14 Revenue Rptd (10%) (2%) (9%) @CC 1% 4% 1% GTS Outsourcing* Integrated Technology Services Maintenance* GBS 4Q14 Revenue Maint. 12% ITS 18% GTS Outsourcing 38% GBS Outsourcing Consulting & Systems Integration (7%) (9%) (2%) (3%) GBS C&SI 25% GBS 4Q14 $128B Outsourcing 7% Backlog* (10%) Flat * Yr/Yr @CC excludes divested Customer Care BPO and System x businesses www.ibm.com/investor8      
+
+     9 Software Segment B/(W) Yr/Yr 4Q14 Rptd @CC Revenue (External) $7.6 (7%) (3%) Gross Margin (External) 90.0% (0.6 pts) PTI Margin* 44.7% (2.3 pts) 4Q14 Revenue Yr/Yr Rptd @CC WebSphere (6%) (4%) Information Management (9%) (6%) Tivoli (2%) 1% Workforce Solutions (12%) (8%) Rational 4% 10% Key Branded Middleware (6%) (3%) Total Middleware (6%) (2%) Total Software (7%) (3%) 4Q14 Revenue (% of Total Software) Key Branded Middleware 72% Operating Systems 7% Other Middleware 15% Other 6% $ in Billions * Reflects Workforce Rebalancing charge of $0.1B      
+
+     10 Systems & Technology Segment B/(W) Yr/Yr 4Q14 Rptd @CC* Revenue (External) $2.4 (39%) (12%) Gross Margin (External) 49.6% 7.3 pts PTI Margin 15.5% 7.0 pts $ in Billions 4Q14 Revenue (% of Total Sys & Tech) Servers 60% Storage 36% 4Q14 Revenue Yr/Yr Rptd @CC System z (26%) (23%) Power Systems (13%) (11%) Storage (8%) (5%) Other 3% 3% Total Systems & Technology* (39%) (12%) Other * Yr/Yr @CC excludes System x divested business      
+
+     11 Cash Flow Analysis 4Q14 B/(W) Yr/Yr FY14 B/(W) Yr/Yr Net Cash from Operations $6.1 ($0.5) $16.9 ($0.6) Less: Global Financing Receivables (1.5) 1.4 0.7 2.0 Net Cash from Operations (excluding GF Receivables) 7.6 (1.9) 16.2 (2.6) Net Capital Expenditures (1.0) 0.1 (3.8) 0.0 Free Cash Flow (excluding GF Receivables) 6.6 (1.8) 12.4 (2.6) Acquisitions 0.0 0.5 (0.7) 2.4 Divestitures 1.9 1.8 2.4 2.1 Dividends (1.1) (0.1) (4.3) (0.2) Share Repurchases (Gross) (0.1) 5.7 (13.7) 0.2 Non-GF Debt (5.9) (7.5) (1.3) (4.5) Other (includes GF A/R & GF Debt) (2.4) (0.5) 2.6 0.2 Change in Cash & Marketable Securities ($1.1) ($1.9) ($2.6) ($2.5) $ in Billions      
+
+     12 Dec. 13 Dec. 14 Cash & Marketable Securities $11.1 $8.5 Non-GF Assets* 76.5 71.7 Global Financing Assets 38.7 37.3 Total Assets 126.2 117.5 Other Liabilities 63.6 64.7 Non-GF Debt* 12.2 11.7 Global Financing Debt 27.5 29.1 Total Debt 39.7 40.8 Total Liabilities 103.3 105.5 Equity 22.9 12.0 Non-GF Debt / Capital 39% 59% Global Financing Leverage 7.2 7.2 Balance Sheet Summary $ in Billions * Includes eliminations of inter-company activity      
+
+     2014 Portfolio Summary Strategic Imperatives Divested Recurring Core Franchises Divested content represents Customer Care BPO, System x and Discontinued Operations High Value Transactional * Consistent with basis presented at May 2014 Investor Briefing, 2014 performance modeled on “Gross View” (inclusive of overlap with Strategic Imperatives), Recurring Core Franchises revenue growth modeled net of Strategic Imperatives www.ibm.com/investor13 Signposts 2014 Performance* Double-digit Revenue growth Maintain high mix of Software Revenue up 16% yr/yr Cloud +60% Mobile > 200% Analytics +7% Security +19% Software mix > overall IBM Stable Revenue Margin Expansion Revenue down ~3% yr/yr PTI Margin down modestly Impacted by currency and mainframe cycle Maintain Margins Optimize Business Model GP Margin remains attractive at > 40% Reposition Systems to higher value, incl. Power 8/OpenPOWER      
+
+     Summary Strategy addresses shift to high value areas of enterprise IT • Leverage broad portfolio to deliver solutions to clients Longer Term Trajectory • • • • Continued strong growth in strategic imperatives Margin expansion driven by shift to higher value Capital allocation supports investments and shareholder returns Ability to generate low single digit revenue growth, high single digit Operating EPS growth and Free Cash Flow realization in 90’s 2015 Expectation reflects some dynamics inconsistent with longer term trajectory • Expect Operating EPS $15.75 - $16.50; Free Cash Flow flat yr/yr • Exit 2015 as a higher value, higher margin business www.ibm.com/investor14      
+
+  s   15      
+
+     Supplemental Materials Some columns and rows in these materials, including the supplemental exhibits, may not add due to rounding Currency – Year/Year Comparison Supplemental Segment Information – Global Services Supplemental Segment Information – Systems & Technology, Software Global Financing Portfolio Key Financial Metrics – FY 2014 Revenue by Geography – FY 2014 Revenue and Gross Profit Margin by Segment – FY 2014 Expense Summary – FY 2014 Cash Flow (FAS 95) Retirement-Related Charges Non-GAAP Supplemental Materials Operating (Non-GAAP) Earnings Per Share and Related Income Statement Items, Constant Currency Cash Flow, Debt-to-Capital Ratio, Customer Care Outsourcing and System x Business Divestiture Reconciliation of Operating Earnings Per Share GAAP to Operating (Non-GAAP) Bridge – 4Q 2014 GAAP to Operating (Non-GAAP) Bridge – 4Q 2013 GAAP to Operating (Non-GAAP) Bridge – FY 2014 GAAP to Operating (Non-GAAP) Bridge – FY 2013 GAAP to Operating (Non-GAAP) Bridge – 4Q 2014 and 4Q 2013 GAAP to Operating (Non-GAAP) Bridge – FY 2014 and FY 2013 Reconciliation of B/(W) Yr/Yr Expense Drivers – 4Q14 Reconciliation of B/(W) Yr/Yr Expense Drivers – FY14 Reconciliation of Free Cash Flow (excluding GF Receivables) – 3 months ended 9/30/14 Reconciliation of Debt-to-Capital Ratio Reconciliation of Revenue Growth Reconciliation of Revenue Growth Reconciliation of Revenue Growth Historical Information – Continuing Operations • • • Systems and Technology Segment – FY 2012–1H 2014 IBM Operating Results (Non-GAAP) – FY 2012–1H 2014 IBM Continuing Operations – FY 2012–1H 2014 www.ibm.com/investor16 Supplemental Materials      
+
+     17 Currency – Year/Year Comparison 3Q14 Yr/Yr 4Q14 Yr/Yr 1/16 Spot 1Q15 2Q15 3Q15 4Q15 FY15 Euro 0.76 0% 0.80 (9%) 0.87 (19%) (19%) (15%) (9%) (15%) Pound 0.60 7% 0.63 (2%) 0.66 (10%) (11%) (10%) (5%) (9%) Yen 104 (5%) 115 (14%) 118 (14%) (15%) (13%) (3%) (11%) IBM Revenue Impact (0.4 pts) (4.4 pts) (6-7 pts) (7 pts) (6 pts) (3 pts) (5-6 pts) Prior View (3 pts) (2-3 pts) (3 pts) (US$B) Yr/Yr $24.1 (12%) (1.2) (4.4 pts) (8%) Yr/Yr @ 1/16 Spot Quarterly Averages per US $ Revenue As Reported Currency Impact Revenue @CC Supplemental Materials (Oct 2014)      
+
+     18 Supplemental Segment Information – 4Q 2014 $ in Billions Backlog 4Q14 Yr/Yr @CC Total Backlog* $128 (10%) Flat Change in Backlog due to Currency Quarter-to-Quarter ($5) Year-to-Year ($10) Outsourcing Backlog -adj. for Customer Care BPO $81 (11%) (3%) 1% Signings 4Q14 Yr/Yr @CC Outsourcing - GTS O/S, GBS O/S (AMS) $11.2 21% 31% Transactional - ITS, Consulting & AMS SI (incl. US Federal) 7.2 (13%) (7%) Total Signings $18.4 5% 13% Note: Actual backlog calculated using December 31 currency spot rates Revenue Growth Yr/Yr @CC GTS Outsourcing* (10%) 1% Integrated Tech Services (2%) 4% Maintenance* (9%) 1% Total GTS* (8%) 2% GBS Outsourcing (7%) (2%) GBS C&SI (9%) (3%) Total GBS (8%) (3%) Total Outsourcing* (9%) Flat Total Transactional (6%) Flat Maintenance* (9%) 1% Global Services Revenue Global Services Backlog / Signings Supplemental Materials * Yr/Yr @CC excludes divested Customer Care BPO and System x businesses      
+
+     19 Supplemental Segment Information – 4Q 2014 Revenue Growth Yr/Yr @CC GP% System z (26%) (23%) Power Systems (13%) (11%) Storage (8%) (5%) Other 3% 3% Total Sys & Tech* (39%) (12%) Supplemental Materials Systems & Technology Software Revenue Growth Yr/Yr @CC WebSphere Family (6%) (4%) Information Management (9%) (6%) Tivoli (2%) 1% Social Workforce Sols. (12%) (8%) Rational 4% 10% Key Branded Middleware (6%) (3%) Other Middleware (2%) 2% Total Middleware (6%) (2%) Operating Systems (19%) (16%) Other Software/Services (8%) (5%) Total Software (7%) (3%) * Yr/Yr @CC excludes System x divested business      
+
+     20 20 20 Global Financing Portfolio 4Q14 – $30.4B Net External Receivables 4Q14 3Q14 4Q13 Identified Loss Rate 1.6% 1.5% 0.8% Anticipated Loss Rate 0.3% 0.3% 0.4% Reserve Coverage 1.9% 1.8% 1.2% Client Days Delinquent Outstanding 4.1 4.0 3.3 Commercial A/R > 30 days $26M $28M $43M Non-Investment Grade 41% Investment Grade 59% Supplemental Materials 21% 38% 19% 13% 7% 2% 0% 10% 20% 30% 40% AAA to A- BBB+ to BBB- BB+ to BB BB- to B+ B to B- CCC+ to D      
+
+     21 Key Financial Metrics – FY 2014 Supplemental Materials P&L Ratios (Operating) FY14 B/(W) Yr/Yr GP Margin 50.6% 0.1 pts PTI Margin 22.8% 0.3 pts Tax Rate 21.0% (4.0 pts) NI Margin 18.0% (0.7 pts) P&L Highlights FY14 B/(W) Yr/Yr Revenue $92.8 (6%) @CC excl. divestitures* (1%) PTI – Operating $21.1 (4%) NI – Operating $16.7 (9%) EPS – Operating $16.53 (1%) Cash Highlights FY14 Free Cash Flow (excl. GF Receivables) $12.4 Share Repurchase (Gross) 13.7 Dividends 4.3 Cash Balance @ Dec. 31 8.5 * Divested Customer Care BPO and System x businesses $ in Billions, except EPS      
+
+     22 Revenue by Geography – FY 2014 Supplemental Materials FYQ14 Rptd @CC* Americas $41.4 (4%) (1%) Europe/ME/A 30.7 (3%) (1%) Asia Pacific 20.2 (12%) (4%) IBM $92.8 (6%) (1%) Major Markets (4%) (1%) Growth Markets (10%) (3%) BRIC Countries (11%) (5%) $ in Billions AP ex. Japan U.S. -2%* EMEA Canada/ LA Japan +3%* @CC * Yr/Yr @CC normalized for divested Customer Care BPO and System x businesses for full year B/(W) Yr/Yr      
+
+  e   23 Revenue and Gross Profit Margin by Segment – FY 2014 Supplemental Materials FY14 Rptd @CC FY14 B/(W) Yr/Yr Pts Global Technology Services* $37.1 (4%) 2% 38.3% 0.2 pts Global Business Services 17.8 (3%) (1%) 30.8% 0.0 pts Software 25.4 (2%) (1%) 88.6% (0.2 pts) Systems & Technology* 10.0 (23%) (17%) 39.5% (1.3 pts) Global Financing 2.0 1% 3% 49.4% 3.7 pts Total Revenue & Op. GP Margin* $92.8 (6%) (1%) 50.6% 0.1 pts $ in Billions Operating Gross Profit Margin Revenue * Yr/Yr Revenue @CC excludes divested Customer Care BPO and System x businesses for full year B/(W) Yr/Yr      
+
+     24 Expense Summary – FY 2014 FY14 B/(W) Yr/Yr Currency Acq.* Base SG&A – Operating $22.5 1% 2 pts (1 pts) 0 pts RD&E – Operating 5.5 3% 1 pts (2 pts) 4 pts IP and Development Income (0.7) (10%) Other (Income)/Expense (1.9) nm Interest Expense 0.5 (20%) Operating Expense & Other Income $25.9 6% 1 pts (2 pts) 7 pts $ in Billions B/(W) Yr/Yr Drivers * Includes acquisitions made in the last twelve months, net of non-operating acquisition-related charges Supplemental Materials      
+
+  e   25 Cash Flow (FAS 95) 4Q14 4Q13 FY14 FY13 Net Income from Operations $5.5 $6.2 $12.0 $16.5 Depreciation / Amortization of Intangibles 1.0 1.2 4.5 4.7 Stock-based Compensation 0.1 0.2 0.5 0.6 Working Capital / Other 0.9 1.9 (4.3) (3.0) Global Financing A/R (1.5) (2.9) 0.7 (1.3) Loss on Microelectronics Business Disposal 0.0 0.0 3.4 0.0 Net Cash provided by Operating Activities 6.1 6.5 16.9 17.5 Capital Expenditures, net of payments & proceeds (1.0) (1.1) (3.8) (3.8) Divestitures, net of cash transferred 1.9 0.1 2.4 0.3 Acquisitions, net of cash acquired 0.0 (0.5) (0.7) (3.1) Marketable Securities / Other Investments, net (2.1) (1.4) (0.9) (0.8) Net Cash used in Investing Activities (1.2) (2.9) (3.0) (7.3) Debt, net of payments & proceeds (4.6) 3.6 1.8 7.0 Dividends (1.1) (1.0) (4.3) (4.1) Common Stock Repurchases (Gross) (0.1) (5.8) (13.7) (13.9) Common Stock Transactions - Other 0.2 0.2 0.7 1.1 Net Cash used in Financing Activities (5.7) (3.0) (15.5) (9.9) Effect of Exchange Rate changes on Cash (0.2) 0.0 (0.7) 0.0 Net Change in Cash & Cash Equivalents ($1.1) $0.6 ($2.2) $0.3 $ in Billions Supplemental Materials      
+
+     26 ($0.4) ($1.6) ($1.6) ($1.8) ($1.9) ($0.9) Pre-Tax Retirement-Related (Cost) / Income ($B) Funded Status* Expected ROA Actual ROA Discount Rate US WW WW WW WW YE 2013 109% 102% 7.2% 7.1% 3.9% YE 2014 102% 97% 6.7% 12.2% 3.1% ($1.4) ($1.6) ($0.9) ($1.0) ($1.5) ($1.7) ($1.1) Retirement-Related Cash Drivers ($B) $0.1 $0.4 $0.5 Non-Operating Projection based on Dec ‘14 assumptions Actual ($1.9) ($1.8) ($1.9) ($1.6) ($1.9) ($1.9) ($1.8) ($1.8) ($1.9) ($1.6) Operating * Tax-qualified plans ($0.5) ($1.1) Retirement-Related Charges Supplemental Materials 2009 2010 2011 2012 2013 2014 2015 2009 2010 2011 2012 2013 2014 2015 2009 2010 2011 2012 2013 2014 2015 2009 2010 2011 2012 2013 2014 2015      
+
+  s   27 27 Non-GAAP Supplemental Materials In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company also discusses, in its earnings press release and earnings presentation materials, the following Non-GAAP information which management believes provides useful information to investors. Operating (Non-GAAP) Earnings Per Share and Related Income Statement Items Management presents certain financial measures from continuing operations excluding the effects of certain acquisition-related charges, non-operating retirement-related costs and any related tax impacts. Management uses the term "operating" to describe this view of the company's financial results and other financial information. For acquisitions, these measures exclude the amortization of purchased intangible assets and acquisition-related charges such as in-process research and development, transaction costs, applicable restructuring and related expenses, and tax charges related to acquisition integration. For retirement-related costs, the company has characterized certain items as operating and others as non-operating. The company includes service cost, amortization of prior service cost and the cost of defined contribution plans in its operating results. Non-operating retirement-related costs include interest cost, expected return on plan assets, amortized actuarial gains/losses, the impacts of any plan curtailments/settlements, multi-employer plan costs, pension insolvency costs, and other costs. Non-operating costs primarily relate to changes in pension plan assets and liabilities which are tied to market performance, and management considers these costs to be outside the operational performance of the business. Management’s calculation of these operating measures, as presented, may differ from similarly titled measures reported by other companies. Overall, management believes that providing investors with an operating view as described above provides increased transparency and clarity into both the operational results of the business and the performance of the company’s pension plans, improves visibility to management decisions and their impacts on operational performance, enables better comparison to peer companies, and allows the company to provide a long term strategic view of the business going forward. For its earnings per share guidance, the company is utilizing an operating view to establish its objectives and track its progress. The company’s segment financial results and performance reflect operating earnings, consistent with the company’s management and measurement system. Constant Currency Management refers to growth rates at constant currency or adjusting for currency so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of the company's business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior year period’s currency conversion rate. This approach is used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates. Supplemental Materials      
+
+     Non-GAAP Supplemental Materials Cash Flow Management uses a free cash flow measure to evaluate the company’s operating results, plan share repurchase levels, evaluate strategic investments and assess the company’s ability and need to incur and service debt. The entire free cash flow amount is not necessarily available for discretionary expenditures. The company defines free cash flow as net cash from operating activities less the change in Global Financing receivables and net capital expenditures, including the investment in software. A key objective of the Global Financing business is to generate strong returns on equity, and increasing receivables is the basis for growth. Accordingly, management considers Global Financing receivables as a profit-generating investment, not as working capital that should be minimized for efficiency. Therefore, management includes presentations of both free cash flow and cash flow from operations that exclude the effect of Global Financing receivables. Debt-to-Capital Ratio Management presents its debt-to-capital ratio excluding the Global Financing business. A financing business is managed on a leveraged basis. The company funds its Global Financing segment using a debt-to-equity ratio target of approximately 7 to 1. Given this significant leverage, the company presents a debt-to-capital ratio which excludes the Global Financing segment debt and equity because the company believes this is more representative of the company’s core business operations. Customer Care Outsourcing and System x Business Divestiture On September 10, 2013, the company announced that it had signed a definitive agreement with SYNNEX for the sale of IBM’s worldwide customer care process outsourcing services business and on January 23, 2014, the company announced that it had signed a definitive agreement with Lenovo for the sale of IBM’s x86 server business. Management presents certain financial results excluding the effects of the customer care process outsourcing services business and/or the x86 server business divestitures. Management believes that presenting financial information without either or both of these items is more representative of operational performance and provides additional insight into, and clarifies the basis for, historical and/or future performance, which may be more useful to investors. www.ibm.com/investor28 Supplemental Materials      
+
+     29 Non-GAAP Supplemental Materials Reconciliation of Operating Earnings Per Share IBM Operating EPS (Non-GAAP) Acquisition-Related Charges * Amortization of Purchased Intangibles Other Acquisition-Related Charges Non-Operating Retirement-Related Items IBM GAAP EPS Adjustments 2015 Expectations $14.35 - $15.10 $15.75 - $16.50 $0.74 $0.72 $0.02 $0.66 The above serves to reconcile the Non-GAAP financial information contained in Full Year 2015 Expectations discussion in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials * Includes acquisitions through December 31, 2014 29      
+
+     30 30 Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – 4Q 2014 $ in Millions, except EPS GAAP Acquisition-related Adjustments* Retirement-related Adjustments** Operating (Non-GAAP) Gross Profit $12,862 $101 $33 $12,996 SG&A 6,034 (94) (95) 5,845 RD&E 1,320 - 21 1,341 Other Income & Expense (1,506) (1) - (1,506) Total Operating Expense & Other Income 5,767 (95) (74) 5,598 Pre-Tax Income from Continuing Operations 7,094 196 107 7,398 Tax *** 1,580 10 24 1,613 Net Income from Continuing Operations 5,515 186 84 5,785 Diluted Earnings Per Share from Continuing Operations $5.54 $0.19 $0.08 $5.81 * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the “2014 Summary”, “Key Financial Metrics ” and “Expense Summary” discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials      
+
+     31 31 Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – 4Q 2013 $ in Millions, except EPS GAAP Acquisition-related Adjustments* Retirement-related Adjustments** Operating (Non-GAAP) Gross Profit $14,337 $105 $154 $14,596 SG&A 5,987 (101) (90) 5,796 RD&E 1,452 - (14) 1,438 Other Income & Expense (116) (8) - (124) Total Operating Expense & Other Income 7,235 (109) (104) 7,023 Pre-Tax Income from Continuing Operations 7,102 213 258 7,574 Tax *** 885 (55) 94 925 Net Income from Continuing Operations 6,216 268 164 6,649 Diluted Earnings Per Share from Continuing Operations $5.76 $0.25 $0.15 $6.16 * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges. ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance. ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the “2014 Summary”, “Key Financial Metrics” and “Expense Summary” discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials      
+
+     32 32 Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – FY 2014 $ in Millions, except EPS GAAP Acquisition-related Adjustments* Retirement-related Adjustments** Operating (Non-GAAP) Gross Profit $46,407 $416 $173 $46,996 SG&A 23,180 (385) (257) 22,537 RD&E 5,437 - 77 5,514 Other Income & Expense (1,938) (1) - (1,939) Total Operating Expense & Other Income 26,421 (386) (180) 25,855 Pre-Tax Income from Continuing Operations 19,986 803 353 21,142 Tax *** 4,234 133 73 4,440 Net Income from Continuing Operations 15,751 670 280 16,702 Diluted Earnings Per Share from Continuing Operations $15.59 $0.66 $0.28 $16.53 * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the “2014 Summary”, “Key Financial Metrics – FY 2014” and Full-Year 2014 Results discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials      
+
+     33 33 Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – FY 2013 $ in Millions, except EPS GAAP Acquisition-related Adjustments* Retirement-related Adjustments** Operating (Non-GAAP) Gross Profit $48,684 $394 $629 $49,706 SG&A 23,451 (394) (376) 22,680 RD&E 5,743 - (57) 5,686 Other Income & Expense (333) (16) - (349) Total Operating Expense & Other Income 28,440 (410) (433) 27,597 Pre-Tax Income from Continuing Operations 20,244 804 1,062 22,110 Tax *** 3,363 57 333 3,753 Net Income from Continuing Operations 16,881 747 729 18,356 Diluted Earnings Per Share from Continuing Operations $15.30 $0.68 $0.66 $16.64 * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges. ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance. ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the “2014 Summary”, “Key Financial Metrics – FY 2014” and Full-Year 2014 Results discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials      
+
+     Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – 4Q 2014 and 4Q 2013 Acquisition-related Adjustments* 0.4 pts 0.8 pts (0.5 pts) 0.8 pts Retirement-related Adjustments ** Operating (Non-GAAP) 53.9% 30.7% 21.8% 24.0% 4Q 2014 GAAP 53.3% 29.4% 22.3% 22.9% Gross Profit Margin from Continuing Operations PTI Margin from Continuing Operations Tax Rate *** Net Income Margin from Continuing Operations 0.1 pts 0.4 pts 0.0 pts 0.3 pts 4Q 2013 Gross Profit Margin from Continuing Operations PTI Margin from Continuing Operations Tax Rate *** Net Income Margin from Continuing Operations 52.4% 25.9% 12.5% 22.7% 0.4 pts 0.8 pts (1.1 pts) 1.0 pts 0.6 pts 0.9 pts 0.8 pts 0.6 pts 53.3% 27.7% 12.2% 24.3% * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the ”Key Financial Metrics” and “Revenue and Gross Profit Margin by Segment” discussion in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. www.ibm.com/investor38 Supplemental Materials      
+
+     Non-GAAP Supplemental Materials GAAP to Operating (Non-GAAP) Bridge – FY 2014 and FY 2013 Acquisition-related Adjustments* 0.4 pts 0.9 pts (0.2 pts) 0.7 pts Retirement-related Adjustments ** Operating (Non-GAAP) 50.6% 22.8% 21.0% 18.0% FY 2014 GAAP 50.0% 21.5% 21.2% 17.0% Gross Profit Margin from Continuing Operations PTI Margin from Continuing Operations Tax Rate *** Net Income Margin from Continuing Operations 0.2 pts 0.4 pts 0.0 pts 0.3 pts FY 2013 Gross Profit Margin from Continuing Operations PTI Margin from Continuing Operations Tax Rate *** Net Income Margin from Continuing Operations 49.5% 20.6% 16.6% 17.2% 0.4 pts 0.8 pts (0.4 pts) 0.8 pts 0.6 pts 1.1 pts 0.7 pts 0.7 pts 50.5% 22.5% 17.0% 18.7% * Includes amortization of purchased Intangibles, in process R&D, severance cost for acquired employees, vacant space for acquired companies, deal costs and acquisition integration tax charges ** Includes retirement related interest cost, expected return on plan assets, recognized actuarial losses or gains, amortization of transition assets, other settlements, curtailments, multi-employer plans and insolvency insurance ***The tax impact on the Operating (Non-GAAP) Pre-Tax Income from continuing operations is calculated under the same accounting principles applied to the As Reported Pre-Tax Income under ASC 740, which employs an annual effective tax rate method to the results. The above serves to reconcile the Non-GAAP financial information contained in the”Key Financial Metrics - FY 2014” and “Revenue and Gross Profit Margin by Segment – FY 2014 ” discussion in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. www.ibm.com/investor39 Supplemental Materials      
+
+     36 36 GAAP Non-GAAP Adjustments Operating (Non-GAAP) SG&A Currency 5 pts 0 pts 5 pts Acquisitions (1 pts) 0 pts (1 pts) Base (4 pts) 0 pts (4 pts) RD&E Currency 2 pts 0 pts 2 pts Acquisitions (2 pts) 0 pts (2 pts) Base 8 pts (2 pts) 6 pts Operating Expense & Other Income Currency 5 pts 0 pts 4 pts Acquisitions (1 pts) 0 pts (1 pts) Base 17 pts 0 pts 17 pts Non-GAAP Supplemental Materials The above serves to reconcile the Non-GAAP financial information contained in the “Expense Summary” discussion in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials Reconciliation of B/(W) Yr/Yr Expense Drivers – 4Q 2014      
+
+     37 37 GAAP Non-GAAP Adjustments Operating (Non-GAAP) SG&A Currency 2 pts 0 pts 2 pts Acquisitions (2 pts) 0 pts (1 pts) Base 1 pts (1 pts) 0 pts RD&E Currency 1 pts 0 pts 1 pts Acquisitions (2 pts) 0 pts (2 pts) Base 7 pts (2 pts) 4 pts Operating Expense & Other Income Currency 1 pts 0 pts 1 pts Acquisitions (2 pts) 0 pts (2 pts) Base 8 pts (1 pts) 7 pts Non-GAAP Supplemental Materials The above serves to reconcile the Non-GAAP financial information contained in the “Expense Summary – FY 2014” discussion in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials Reconciliation of B/(W) Yr/Yr Expense Drivers – FY 2014      
+
+     38 Non-GAAP Supplemental Materials 3 months ended 9/30/14 Net Cash from Operations $3.9 Less: Global Financing Receivables 0.7 Net Cash from Operations (excluding GF Receivables) 3.3 Net Capital Expenditures (1.0) Free Cash Flow (excluding GF Receivables) $2.2 $ in Billions Reconciliation of Free Cash Flow (excluding GF Receivables) The above serves to reconcile the Non-GAAP financial information contained in the “Cash Flow Analysis” discussion in the company’s earnings presentation. See Slide 28 of this presentation for additional information on the use of these Non-GAAP financial measures. Supplemental Materials 38      
+
+     39 39 Reconciliation of Debt-to-Capital Ratio Dec. 2014 Dec. 2013 Non-Global Financing Debt / Capital IBM Consolidated Debt / Capital 59% 77% 39% 63% The above serves to reconcile the Non-GAAP financial information contained in the “Balance Sheet Summary” discussion in the company’s earnings presentation. See Slide 28 of this presentation for additional information on the use of these Non-GAAP financial measures. Non-GAAP Supplemental Materials Supplemental Materials      
+
+     Non-GAAP Supplemental Materials Reconciliation of Revenue Growth 4Q14 Yr/Yr FY14 Yr/Yr As Reported excl. Divested Businesses (7%) (6%) (4%) (8%) (9%) (2%) (10%) (7%) (7%) (12%) At Constant Currency excl. Divested Businesses (2%) (4%) - (1%) (2%) (1%) 2% (2%) (2%) (8%) As Reported excl. Divested Businesses (3%) (2%) (2%) 0% (9%) At Constant Currency excl. Divested Businesses (1%) (1%) - (1%) (4%) As Reported As Reported IBM Americas U.S. Europe/ME/A Asia Pacific China Japan Major Markets Growth Markets BRIC Countries (12%) (9%) (7%) (13%) (17%) (20%) (14%) (11%) (16%) (21%) (6%) (4%) (4%) (3%) (12%) (8%) (4%) (10%) (11%) (5%) (2%) (7%) (8%) 3% (1%) (3%) (5%) “2014 Summary”, “Revenue by Geography” The above serves to reconcile the Non-GAAP financial information contained in the and “Revenue by Geography – FY 14” discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. www.ibm.com/investor40 Supplemental Materials      
+
+     Non-GAAP Supplemental Materials Reconciliation of Revenue Growth 4Q14 Yr/Yr FY14 Yr/Yr As Reported excl. Divested Businesses (6%) (4%) (5%) (5%) (6%) (15%) At Constant Currency excl. Divested Businesses Flat 2% 1% 1% Flat (12%) As Reported excl. Divested Businesses At Constant Currency excl. Divested Businesses As Reported (8%) (8%) (10%) (9%) (9%) (39%) As Reported Global Services Global Technology Services GTS Outsourcing Maintenance Total Outsourcing Systems & Technology (4%) (1%) 2% (23%) (18%) (17%) FY14 Yr/Yr At Constant Currency 4% As Reported 3% WebSphere The above serves to reconcile the Non-GAAP financial information contained in the “Revenue and Gross Profit Margin by Segment”, “Services Segment” , “Systems & Technology Segment” “Software Segment” , “Revenue and Gross Profit Margin by Segment-FY 2014” and “Supplemental Segment Information -4Q” discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. www.ibm.com/investor41 Supplemental Materials      
+
+     Non-GAAP Supplemental Materials Reconciliation of Revenue Growth 3Q14 Yr/Yr At Constant Currency excl. Divested Businesses (4%) As Reported excl. Divested Businesses (5%) As Reported Growth Markets (6%) The above serves to reconcile the Non-GAAP financial information contained in the “Revenue by Geography” discussions in the company’s earnings presentation. See Slide 27 of this presentation for additional information on the use of these Non-GAAP financial measures. www.ibm.com/investor42 Supplemental Materials      
+
+     Systems and Technology Segment Continuing Operations – FY 2012-1H 2014 $ in Millions FY12 1Q13 2Q13 3Q13 4Q13 FY13 1Q14 2Q14 1H14 External Revenue Internal Revenue Total Revenue Pre-Tax Income / (Loss) PTI Income Margin $16,034 676 16,710 1,866 11.2% $2,799 120 2,919 (202) (6.9%) $3,378 135 3,513 78 2.2% $2,864 168 3,032 (8) (0.3%) $3,947 170 4,117 346 8.4% $12,988 593 13,581 213 1.6% $2,143 168 2,311 (457) (19.8%) $3,014 190 3,204 202 6.3% $5,157 358 5,515 (255) (4.6%) GP% (External) 43.4% 37.8% 42.4% 39.9% 42.2% 40.8% 34.0% 39.7% 37.4% www.ibm.com/investor43 Supplemental Materials      
+
+     IBM Operating Results (Non-GAAP) – FY 2012-1H Operating “Continuing Operations” (Non-GAAP) 2014 $ in Millions, except EPS Gross Profit SG&A RD&E Other Income & Expense FY12 51,001 22,820 5,837 (857) 1Q13 10,993 5,368 1,497 (68) 2Q13 12,431 6,457 1,409 (92) 3Q13 11,686 5,060 1,342 (64) 4Q13 14,596 5,796 1,438 (124) FY13 49,706 22,680 5,686 (349) 1Q14 10,783 6,087 1,419 (128) 2Q14 12,195 5,468 1,381 (202) 1H14 22,978 11,555 2,800 (330) Total Operating Expense & Other Income 27,184 6,707 7,624 6,243 7,023 27,597 7,276 6,591 13,868 Pre-Tax Income 23,817 4,286 4,807 5,443 7,574 22,110 3,507 5,603 9,110 Provision of Income Tax Net Income (Operating “Continued Operations”) Operating Earnings per share from Continuing Operations (Fully Diluted) 5,795 18,022 781 3,505 1,089 3,718 958 4,485 925 6,649 3,753 18,356 717 2,790 1,147 4,456 1,865 7,246 $15.60 $3.12 $3.35 $4.08 $6.16 $16.64 $2.68 $4.43 $7.08 Operating “Continuing Operations” (Non-GAAP) excludes acquisitions-related adjustments and retirement-related adjustments as previously reported in the Company’s Forms 10-K and 10-Qs filed with SEC. www.ibm.com/investor44 Supplemental Materials      
+
+     IBM Continuing Operations – FY 2012-1H 2014 Continuing Operations (GAAP) $ in Millions, except EPS Revenue Gross Profit SG&A RD&E Other Income & Expense Total Operating Expense & Other Income FY12 $102,874 50,361 23,463 5,816 (843) 27,821 1Q13 $23,101 10,734 5,564 1,513 (62) 6,926 2Q13 $24,544 12,184 6,640 1,422 (92) 7,821 3Q13 $23,338 11,429 5,260 1,356 (63) 6,458 4Q13 $27,385 14,337 5,987 1,452 (116) 7,235 FY13 $98,367 48,684 23,451 5,743 (333) 28,440 1Q14 $22,236 10,627 6,272 1,402 (127) 7,444 2Q14 $24,047 12,044 5,593 1,361 (202) 6,696 1H14 $46,283 22,671 11,865 2,763 (330) 14,140 Pre-Tax Income 22,540 3,808 4,363 4,972 7,102 20,244 3,183 5,348 8,531 Provision of Income Tax Income from Continuing Operations Earnings per share from Continuing Operations (Fully Diluted) 5,541 16, 999 647 3,161 998 3,365 832 4,139 885 6,216 3,363 16,881 653 2,530 1,096 4,251 1,749 6,782 $14.71 $2.81 $3.03 $3.77 $5.76 $15.30 $2.43 $4.23 $6.62 www.ibm.com/investor45 Supplemental Materials      
+
+     - ---- - = • - - ---- -_ ..-_ - - --- _,...-.,-- · 46 www.ibm.com/investor = ="=: =

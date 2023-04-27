@@ -1,0 +1,44 @@
+Item 7A: Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk Management
+
+We maintain a mix of fixed-rate and variable-rate debt and we are exposed to the market risk of adverse changes in interest rates. In order to manage the cost and volatility relating to the interest cost of our outstanding debt, we enter into various interest rate risk management derivative transactions in accordance with our policy.
+
+We monitor our exposure to the risk of adverse changes in interest rates through the use of techniques that include market valuation and sensitivity analyses. We do not engage in any speculative or leveraged derivative transactions.
+
+Our interest rate derivative financial instruments, which primarily include cross-currency swaps and interest rate swaps, represent an integral part of our interest rate risk management program.
+
+The effect of our interest rate derivative financial instruments to our consolidated interest expense was a decrease of $2 million in 2021, a decrease of $9 million in 2020, and a decrease of $49 million in 2019. Interest rate derivative financial instruments may have a significant effect on consolidated interest expense in the future.
+
+The table below summarizes by contractual year of maturity the principal amount of our debt, notional amount of our interest rate instruments, effective rates, and fair values subject to interest rate risk maintained by us as of December 31, 2021. We estimate interest rates on variable rate debt and swaps using the relevant average implied forward rates through the year of maturity based on the yield curve in effect on December 31, 2021, plus the applicable borrowing margin.
+
+[DATA_TABLE_REMOVED]
+
+Comcast 2021 Annual Report on Form 10-K60
+(a)Includes the effects of our fixed-to-fixed cross-currency swaps, which are discussed further below under the heading “Foreign Exchange Risk Management.” 
+
+(b)Notional amounts are used to calculate the interest to be paid or received and do not represent our exposure to credit loss. The estimated fair value approximates the amount of payments to be made or proceeds to be received to settle the outstanding contracts, excluding accrued interest.
+
+Additionally, we have a $5.2 billion variable rate term loan presented separately as a collateralized obligation that will mature in March 2024. We entered into a series of variable-to-fixed interest rate swaps on $5.2 billion of this term loan with an average pay rate of 1.1% and an average receive rate of 0.9% estimated using December 31, 2021 implied forward rates through the year of maturity. As of December 31, 2021 and 2020, the estimated fair value of the term loan was $5.2 billion for each period, and the estimated fair value of the related interest rate swaps was a net liability of $29 million and a net liability of $155 million, respectively.
+
+See Notes 1, 6 and 8 for additional information.
+
+Foreign Exchange Risk Management
+
+We have significant operations in a number of countries outside the United States through Sky and NBCUniversal, and certain of our operations are conducted in foreign currencies. The value of these currencies fluctuates relative to the U.S. dollar. These changes could adversely affect the U.S. dollar equivalent value of our non-U.S. dollar operations, which could negatively affect our business, financial condition and results of operations in a given period or in specific territories.
+
+As part of our overall strategy to manage the level of exposure to the risk of foreign exchange rate fluctuations, we enter into derivative financial instruments related to a significant portion of our foreign currency exposure for transactions denominated in currencies other than the functional currency of the transacting entity. We enter into foreign currency forward contracts that change in value as currency exchange rates fluctuate to protect the functional currency equivalent value of non-functional currency denominated assets, liabilities, commitments, and forecasted non-functional currency revenue and expenses. In accordance with our policy, we hedge forecasted foreign currency transactions for periods generally not to exceed 30 months. As of December 31, 2021 and 2020, we had foreign exchange contracts on transactions other than debt with a total notional value of $8.0 billion and $8.1 billion, respectively. As of December 31, 2021 and 2020, the aggregate estimated fair value of these foreign exchange contracts was not material.
+
+We use cross-currency swaps as cash flow hedges for certain foreign currency denominated debt obligations with obligations denominated in a currency other than the functional currency of the issuer. Cross-currency swaps effectively convert foreign currency denominated debt to debt denominated in the functional currency, which hedge currency exchange risks associated with foreign currency denominated cash flows such as interest and principal debt repayments. As of December 31, 2021 and 2020, we had cross-currency swaps designated as cash flow hedges on $1.6 billion and $1.7 billion of our foreign currency denominated debt, respectively. As of December 31, 2021 and 2020, the aggregate estimated fair value of cross-currency swaps designated as cash flow hedges was a net liability of $53 million and a net liability of $45 million, respectively.
+
+We are also exposed to foreign exchange risk on the consolidation of our foreign operations. We have foreign currency denominated debt and cross-currency swaps designated as hedges of our net investments in certain of these subsidiaries. Transaction gains and losses resulting from currency movements on debt and changes in the fair value of cross-currency swaps designated as net investment hedges are recorded within the currency translation adjustments component of accumulated other comprehensive income (loss). As of December 31, 2021 and 2020, the amount of our net investment in foreign subsidiaries hedged using foreign currency denominated debt was $8.2 billion and $10.3 billion, respectively, and the amount of our net investment in foreign subsidiaries hedged using cross-currency swaps was $3.6 billion and $4.0 billion, respectively. As of December 31, 2021 and 2020, the aggregate estimated fair value of these cross-currency swaps was a net liability of $104 million and $376 million, respectively. The amount of pre-tax gains (losses) related to net investment hedges recognized in the cumulative translation adjustments component of other comprehensive income (loss) were gains of $760 million in 2021, losses of $686 million in 2020 and gains of $343 million in 2019. 
+
+We have analyzed our foreign currency exposure related to our foreign operations as of December 31, 2021, including our hedging contracts, to identify assets and liabilities denominated in a currency other than their functional currency. For those assets and liabilities, we then evaluated the effect of a hypothetical 10% shift in currency exchange rates, inclusive of the effects of derivatives. The results of our analysis indicate that such a shift in exchange rates would not have a material impact on our 2021 net income attributable to Comcast Corporation.
+
+61Comcast 2021 Annual Report on Form 10-K
+Counterparty Credit Risk Management
+
+We manage the credit risks associated with our derivative financial instruments through diversification and the evaluation and monitoring of the creditworthiness of counterparties. Although we may be exposed to losses in the event of nonperformance by counterparties, we do not expect such losses, if any, to be significant. We have agreements with certain counterparties that include collateral provisions. These provisions require a party with an aggregate unrealized loss position in excess of certain thresholds to post cash collateral for the amount in excess of the threshold. The threshold levels in our collateral agreements are based on our and the counterparty’s credit ratings. As of December 31, 2021 and 2020, we were not required to post collateral under the terms of these agreements, nor did we hold any collateral under the terms of these agreements.
+
+Comcast 2021 Annual Report on Form 10-K62
+Item 8: Comcast Corporation Financial Statements and Supplementary Data

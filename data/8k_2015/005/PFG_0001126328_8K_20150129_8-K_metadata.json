@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001126328",
+    "sec_company_name": "PRINCIPAL FINANCIAL GROUP INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150129",
+    "sec_filing_date": "20150129",
+    "sec_changed_date": "20150129",
+    "sec_accepted_date": "20150129162456",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1126328/000112632815000009/0001126328-15-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1126328/000112632815000009/0001126328-15-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\PFG_0001126328_8K_20150129_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "17925 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2006,
+    "endpoints": [
+        "PFG 8-K re 4Q 2014 Earnings Release   ",
+        "Date: January 29, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PFG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\PFG_0001126328_8K_20150129_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:45.779305"
+}

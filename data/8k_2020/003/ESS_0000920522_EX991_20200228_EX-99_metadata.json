@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920522",
+    "sec_company_name": "ESSEX PROPERTY TRUST, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200228",
+    "sec_filing_date": "20200228",
+    "sec_changed_date": "20200228",
+    "sec_accepted_date": "20200228163041",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920522/000114036120004401/0001140361-20-004401-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920522/000114036120004401/0001140361-20-004401.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ESS_0000920522_EX991_20200228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "119976 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 48745,
+    "endpoints": [
+        "Exhibit 99.1",
+        " UNENCUMBERED NOI TO ADJUSTED TOTAL NOIThis ratio is presented on page S-6 in the section titled 'Selected Credit Ratios'. Unencumbered NOI means the sum of NOI for those real estate assets which are not subject to an encumbrance securing debt. The ratio of Unencumbered NOI to Adjusted Total NOI for the three months ended December 31, 2019, annualized, is calculated by dividing Unencumbered NOI, annualized for the three months ended December 31, 2019 and as further adjusted for pro forma NOI for properties acquired or sold during the recent quarter, by Adjusted Total NOI as annualized. The calculation and reconciliation of NOI is set forth in 'Net Operating Income ('NOI') and Same-Property NOI Reconciliations' above. This ratio is presented by the Company because it provides rating agencies and investors an additional means of comparing the Company's ability to service debt obligations to that of other companies. The calculation of this ratio is presented in the table below (Dollars in thousands): This table is based on the amounts for the most recent quarter, multiplied by four.Includes intercompany eliminations pertaining to self-insurance and other expenses. 45 RECONCILIATIONS OF NON-GAAP FINANCIAL MEASURES AND OTHER TERMS NOIAdjustments:NOI from real estate assets sold $ 1,085,600- Other, net (2) (7,123) Adjusted Total NOI 1,078,477 Less: Encumbered NOI (125,684) Unencumbered NOI $ 952,793 Encumbered NOI $ 125,684 Unencumbered NOI 952,793 Adjusted Total NOI $ 1,078,477 Unencumbered NOI to Adjusted Total NOI 88% AnnualizedQ4'19 (1)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ESS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ESS_0000920522_EX991_20200228_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:51.063094"
+}

@@ -1,0 +1,75 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000743988 false        0000743988   2022-02-09 2022-02-09    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (date of earliest event reported): February 9, 2022 
+
+XILINX, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (408) 559-7778 
+
+(Former name or former address, if changed since last report: N/A) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ¨Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 8.01 Other Events 
+
+On January 10, 2022, Xilinx, Inc. (“Xilinx”) refiled its Premerger Notification and Report Form (the “Notification”) with the Federal Trade Commission (the “FTC”) and the Department of Justice under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”) with respect to the merger (the “Merger”) of Thrones Merger Sub, Inc. (“Merger Sub”), a wholly owned subsidiary of Advanced Micro Devices, Inc. (“AMD”), with and into Xilinx, with Xilinx surviving the Merger as a wholly owned subsidiary of AMD, pursuant to, and subject to the terms and conditions set forth in, that certain Agreement and Plan of Merger (the “Merger Agreement”), dated as of October 26, 2020, by and among AMD, Merger Sub and Xilinx. The Notification was made prior to the one-year expiration of a previous HSR Act notification. 
+
+On February 9, 2022, the applicable waiting period under the HSR Act expired at 11:59 p.m. Eastern Time with respect to the Merger. 
+
+AMD and Xilinx have now received all regulatory approvals required to consummate the Merger. AMD and Xilinx currently anticipate that the closing of the Merger will occur on or about February 14, 2022, subject to the satisfaction (or, to the extent permitted by applicable law, waiver) of the conditions set forth in the Merger Agreement that by their nature are to be satisfied at the closing of the Merger. 
+
+A copy of the press release relating to the above issued by AMD and Xilinx on February 10, 2022 is attached hereto as Exhibit 99.1 and is incorporated by reference herein. 
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+This communication contains “forward-looking statements” within the meaning of the federal securities laws, including Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are based on Xilinx’s current expectations, estimates and projections about the expected date of closing of the proposed transaction and the potential benefits thereof, its business and industry, management’s beliefs and certain assumptions made by Xilinx and AMD, all of which are subject to change. In this context, forward-looking statements often address expected future business and financial performance and financial condition, and often contain words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “could,” “seek,” “see,” “will,” “may,” “would,” “might,” “potentially,” “estimate,” “continue,” “expect,” “target,” similar expressions or the negatives of these words or other comparable terminology that convey uncertainty of future events or outcomes. All forward-looking statements by their nature address matters that involve risks and uncertainties, many of which are beyond our control, and are not guarantees of future results, such as statements about the consummation of the proposed transaction and the anticipated benefits thereof. These and other forward-looking statements, including the failure to consummate the proposed transaction or to make or take any filing or other action required to consummate the transaction on a timely matter or at all, are not guarantees of future results and are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from those expressed in any forward-looking statements. Accordingly, there are or will be important factors that could cause actual results to differ materially from those indicated in such statements and, therefore, you should not place undue reliance on any such statements and caution must be exercised in relying on forward-looking statements. Important risk factors that may cause such a difference include, but are not limited to: (i) the completion of the proposed transaction on anticipated terms and timing, including anticipated tax treatment, unforeseen liabilities, future capital expenditures, revenues, expenses, earnings, synergies, economic performance, indebtedness, financial condition, losses, future prospects, business and management strategies for the management, expansion and growth of Xilinx’s and AMD’s businesses and other conditions to the completion of the transaction; (ii) failure to realize the anticipated benefits of the proposed transaction, including as a result of delay in completing the transaction or integrating the businesses of Xilinx and AMD; (iii) the impact of the COVID-19 pandemic on Xilinx’s business and general economic conditions; (iv) Xilinx’s ability to implement its business strategy; (v) pricing trends, including Xilinx’s and AMD’s ability to achieve economies of scale; (vi) potential litigation relating to the proposed transaction that could be instituted against Xilinx, AMD or their respective directors; (vii) the risk that disruptions from the proposed transaction will harm Xilinx’s or AMD’s business, including current plans and operations; (viii) the ability of Xilinx or AMD to retain and hire key personnel; (ix) potential adverse reactions or changes to business relationships resulting from the announcement or completion of the proposed transaction; (x) uncertainty as to the long-term value of AMD common stock; (xi) legislative, regulatory and economic developments affecting Xilinx’s and AMD’s businesses; (xii) general economic and market developments and conditions; (xiii) the evolving legal, regulatory and tax regimes under which Xilinx and AMD operate; (xiv) potential business uncertainty, including changes to existing business relationships, during the pendency of the merger that could affect Xilinx’s and/or AMD’s financial performance; (xv) restrictions during the pendency of the proposed transaction that may impact Xilinx’s or AMD’s ability to pursue certain business opportunities or strategic transactions; (xvi) unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities, as well as Xilinx’s and AMD’s response to any of the aforementioned factors; (xvii) geopolitical conditions, including trade and national security policies and export controls and executive orders relating thereto; and (xviii) Xilinx’s ability to provide a safe working environment for members during the COVID-19 pandemic. These risks, as well as other risks associated with the proposed transaction, are more fully discussed in Xilinx’s Annual Report on Form 10-K for the fiscal year ended April 3, 2021 and subsequent Quarterly Reports on Form 10-Q filed with the U.S. Securities and Exchange Commission. While the list of factors presented here is considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on Xilinx’s or AMD’s consolidated financial condition, results of operations, or liquidity. Neither Xilinx nor AMD assumes any obligation to publicly provide revisions or updates to any forward-looking statements, whether as a result of new information, future developments or otherwise, should circumstances change, except as otherwise required by securities and other applicable laws. 
+
+Item 9.01 Financial Statements and Exhibits 
+
+(d) Exhibits [DATA_TABLE_REMOVED] 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

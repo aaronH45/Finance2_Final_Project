@@ -1,0 +1,158 @@
+Item 1. BUSINESS
+
+Overview. Teradata Corporation ("we," "us," "Teradata," or the "Company") is a leading hybrid cloud analytics software provider focused on helping companies leverage all of their data across an enterprise to uncover real-time intelligence, at scale. In doing so, we enable them to find answers to their toughest challenges.
+
+Teradata has broadened its market opportunity by evolving from an enterprise database company to an enterprise analytics platform provider helping our customers integrate and simplify their analytics ecosystem, access and manage data, and use analytics to extract answers and derive business value from data. Our target market includes companies that we believe are the world's most demanding, large-scale users of data, have mission-critical, complex, and large-scale environments and require an integrated analytical solution that can accommodate massive scale and speed across secure, hybrid-cloud architectures. These companies face significant challenges, including siloed data and conflicting and duplicative solutions, that can result in considerable expense to maintain and to manage the complexity. They typically have invested heavily in technology, people, and infrastructure to support 
+
+4
+analytics technology that is typically extremely complex and often does not allow their employees access to the data they need to be efficient at their jobs. In addition, these organizations are also generally experiencing a dramatic increase in data due to the digital transformation. Our view is that these factors are driving the need for these companies to integrate and simplify their analytical ecosystems while using data to find answers to their toughest business challenges. We are also focused on strategic "up-and-coming" companies that see analytics as a differentiating factor in their business models. As a result, we believe that the market for our solutions and services is large and growing.
+
+Our solution, Teradata Vantage™, is our data warehouse and analytics platform that allows companies to leverage all of their data across an enterprise, whether on premises, in public or private clouds, or in a hybrid environment. It connects multiple sources of data for ecosystem simplification and delivers massive scale and integration. Vantage is an extremely scalable, secure, highly concurrent and resilient analytics platform that addresses the challenges faced by our target market of the largest companies by offering full integration of their datasets, tools, analytics languages, functions, and engines in one platform, enabling them to reduce complexity, risk, and costs. Vantage incorporates leading commercial and open source technologies including our market-leading integrated data warehouse engine and analytic engines. Vantage is available in public and private clouds, as well as on-premises, providing our customers with flexibility and choice to de-risk their investments. Teradata has also made it easier for customers to work with the Company and purchase Teradata's solutions via subscription-based transactions.
+
+Our solutions are comprised of software, hardware, and related business consulting and support services. We work with our customers to enable them to optimize the value of their data and analytics to get answers to their toughest business challenges and drive business outcomes, which can include, among other things:
+
+•Improving customer experience and profitability,
+
+•Improving operational efficiency,
+
+•Driving financial transformation with accurate and timely data,
+
+•Creating a single integrated view of customers across digital and physical channels, and
+
+•Creating more efficient utilization of assets through machine learning of sensor data. 
+
+Our business consulting services include a broad range of offerings, including consulting to help organizations establish an analytic vision, identify and operationalize analytical opportunities, enable an analytical ecosystem architecture, and ensure their analytical infrastructure delivers value. We also offer support and maintenance services for our offerings.
+
+Teradata operates from numerous locations within the United States with the primary locations being San Diego, California, and Atlanta, Georgia. In addition, we have sales, services, research and development, and administrative offices located in 41 countries.
+
+For the calendar year ended December 31, 2019, we had total revenues of $1,899 million, of which approximately 56% was derived from the Americas region (North America and Latin America) and 44% from the international regions (Europe, Middle East, Africa, Asia Pacific and Japan). For financial information about our segments and geographic information, see "Note 14-Segment, Other Supplemental Information and Concentrations" in the Notes to Consolidated Financial Statements elsewhere in this Annual Report.
+
+History. Teradata started in a garage in Brentwood, California, and was incorporated in 1979 as a Delaware corporation, driven by the need for robust computing power to harness the value of aggregated data. In 1984, Teradata established a massively parallel relational database management system that enabled companies to easily scale their data management needs using standard microprocessors, revolutionizing data analysis for customers. In 1991, Teradata was acquired and operated as a division of another company until it was spun off as an independent, publicly-traded company called Teradata Corporation (NYSE: TDC) on September 30, 2007.
+
+Industry and Market Opportunity. Our view is that analytics is and will continue to be a management priority for leading companies. We also believe that companies have seen and are facing an ongoing, significant increase of data, and that the complexity, cost, and risk associated with managing large numbers of data silos has driven the need for companies to simplify and reduce such complexity. This is particularly true for our target market of very large companies, and we believe that these companies require tightly integrated solutions that can accommodate massive scale and speed.
+
+5
+We believe Teradata’s strategy positions us to address this large market opportunity within the multi-billion dollar and growing data management and analytics markets. We believe our hybrid cloud analytics software solution will lead to reduced risk and costs for these companies while enabling answers to many of their most difficult business challenges and driving business outcomes for them. We also believe these companies need help designing and implementing the right analytical ecosystem for their needs. We have tailored Teradata's offerings to meet the analytical needs of these large companies, to help them navigate the various alternatives for deployment across secure, hybrid-cloud architectures and provide flexibility and choice, which allows them to de-risk their investments.
+
+Our Strategy. Teradata’s strategy is based on our mission of transforming how businesses work and people live through the power of data. Our strategy is to provide a differentiated set of data analytics offerings with our Vantage analytical platform to our target market. We believe that our unique portfolio of offerings helps our customers simplify their analytic ecosystems to reduce risk and costs and drive better answers for increased business value. Our Vantage platform allows companies to leverage all of their data, whether on premises, in public or private clouds, or in a hybrid environment, to help them rise above the complexity, cost, and inadequacy of today’s analytic landscape.
+
+Our strategic objectives are to:
+
+•Drive consumption of Vantage through new use cases and capabilities,
+
+•Accelerate our transition to the cloud, 
+
+•Expand our go-to-market reach through focused vertical investments, deepening customer success programs and strengthening our partner relationships, and
+
+•Deliver operational excellence through improved efficiency and execution across the organization.
+
+A foundational element of our strategy is Teradata’s hybrid cloud focus that brings together our offerings across cloud and on-premises deployments with flexible pricing and licensing models to de-risk customer purchase decisions.
+
+Through Vantage, our customers can:
+
+•"Analyze Anything" - enables analytic users throughout the organization to use their preferred analytic tools and engines across data sources, at scale.
+
+•"Deploy Anywhere" - provides analytic processing in the cloud and on-premises, providing flexibility to change as business needs evolve.
+
+•"Buy Any Way" - allows companies choice in how they want to consume our solutions through a variety of purchase options at different price points.
+
+•"Move Anytime" - includes software license portability when purchased via subscription that provides the flexibility to run analytics and move the software as needed across deployment options, such as moving from on-premises to cloud, between clouds, or from cloud to on-premises.
+
+In support of our strategy, we continue to optimize our go-to-market and sales approach to improve effectiveness in demand creation and address new and expanded market opportunities. We plan to continue investing in partnerships to increase the number of solutions available on Teradata software, maximize customer value, and increase our market coverage. Our consulting expertise helps customers design and build optimized analytical ecosystems, which leads to reduced complexity, risk, and cost.
+
+Customers. As described above, Teradata is focused on both business users and technology buyers at the world’s most demanding, large-scale users of data, as well as strategic "up-and-coming" companies that see analytics as a differentiating factor in their business models. Our primary focus is on increasing the consumption of Teradata's software within our target market, and in particular helping our existing customers exploit new uses of data and analytics.
+
+Our solutions address a broad set of industries, including communications, financial services, government, healthcare, insurance, manufacturing, media and entertainment, oil and gas, retail, travel and transportation, and utilities. We believe that these industries provide a good fit for our analytic solutions and services because they tend to have the greatest analytic potential with large and growing data volumes, as well as expanding sources of data, complex data management requirements, or large and varied groups of users.
+
+6
+The extent to which any given customer contributes to our revenues has historically varied significantly from year to year and quarter to quarter. We have been highly successful in converting customers from perpetual to subscription-based purchasing options, which results in more ratable revenue recognition and we believe will increase the predictability of our revenue in the future. Due to the size and complexity of our sales transactions, the sales cycle is often long (typically more than a year).
+
+Seasonality. Historically, our deal volume is seasonal, in line with customer spending patterns, with lower volume typically in the first quarter and higher volume generally in the fourth quarter of each calendar year. Such seasonality causes our working capital cash flow requirements to vary from quarter to quarter depending on the variability in the volume, timing, and mix of solution sales. As we are transitioning the business to subscription-based transactions, the business is becoming less seasonal as subscription renewals are more evenly distributed through the year, versus maintenance renewals which were typically all in the first quarter. This is impacting timing of cash collection and billings. However, typical of the enterprise software market, Teradata will continue to have significant seasonality that skews to the fourth quarter. Historically, cash provided by operating activities is higher in the first half of the year due to collections of the higher receivable balances at December 31 driven by the higher volumes in the fourth quarter and receipts from annual renewals of our maintenance support agreements. In addition, deal volume in the third month of each quarter has historically been significantly higher than in the first and second months. These factors, among others as more fully described in Item 1A, Risk Factors, elsewhere in this Annual Report, make forecasting more difficult and may adversely affect our ability to accurately predict financial results.
+
+Backlog. Our backlog was approximately $2.7 billion at December 31, 2019, an increase from $2.5 billion on December 31, 2018. Approximately $1.4 billion of the backlog at December 31, 2019 is expected to be recognized as revenue in 2020. Backlog consists of firm contracts for work that has not yet been performed or goods that have not been delivered. Backlog includes $533 million at December 31, 2019 and $595 million at December 31, 2018 for backlog that had been invoiced, and therefore, was included in deferred revenue. Although we believe that the contract value included in backlog is firm, some contracts may provide that the Company is contractually obligated to perform but gives the customer the right to cancel for convenience by giving notice to Teradata. Customers typically do not cancel before the end of the contractual term and, historically, Teradata has not seen significant churn in its customer base. 
+
+Sales, Marketing and Partners
+
+Sales and Marketing. We primarily sell and market our solutions and services through a direct sales force and have recently re-aligned our sales teams to best address the needs of our target market globally. We have greater than 80% of our employees in customer-facing and/or revenue-driving roles (including sales, marketing, consulting, customer service, and product engineering).
+
+We support our sales force with marketing and training programs that are designed to:
+
+•Grow awareness, highlighting our technology leadership, differentiation, and analytics expertise; 
+
+•Create demand for and adoption of our Vantage analytical platform;
+
+•Educate and enable the sales force with the skills and knowledge to deliver our value proposition; and 
+
+•Provide a robust set of tools for use by our sales teams.
+
+Teradata focuses our brand messaging on the Company’s strength as a hybrid cloud analytics software provider. To support the Company’s growth objectives, we employ a broad range of marketing strategies, including programs to inform, educate and generate demand with customers and prospects, as well as keep our leading technology position at the forefront of the media, industry analysts, academics, and other influencers. These strategies include targeted account-based marketing, our global website, digital marketing, webinars, physical and virtual conferences and events, public and media relations, social media, and an extensive customer reference program.
+
+Strategic Partnerships. We seek to leverage our sales and marketing reach by partnering with leading global and regional systems integrators, independent software vendors, open-source software distributors, consultants, and universities that we believe complement our differentiated offerings. Strategic partnerships are a key factor in our ability to leverage the value and expand the scope of our analytic offerings in the marketplace.
+
+•Alliance Partners: Our partner program is focused on working collaboratively with independent software vendors in several areas, including tools, data and application integration solutions, data mining, analytics, business intelligence, and specific analytic and industry solutions. Our goal is to provide choices to our 
+
+7
+customers with partner offerings that are optimized and certified to work with Vantage to deliver end-to-end analytic and data solutions and to fit within the customer’s analytic environment.
+
+Teradata has established partnerships with the top three global public cloud providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, so the Company can provide companies around the globe access to Teradata’s as-a-service capabilities in the public cloud.
+
+•Systems Integrators: We also work with a range of systems integrators and consultants who engage in the design, implementation, and integration of analytic solutions and analytic applications for our joint customers. Our strategic partnerships with select global consulting and systems integration firms provide broad industry and technology expertise in the design of business solutions that leverage Teradata technology to enable enterprise analytics.
+
+In 2019, we announced a strategic partnership with Deutsche Telekom. The partnership will support the digital transformation goals of small and medium-sized businesses in Germany, giving them access to data analytics to provide the insights required for growth and innovation. This new partnership offers us market expansion opportunities with more businesses needing analytics solutions.
+
+Competition. We compete in a large and growing data management and analytics market that is attractive to both current and new competitors. Participants in our general market include large traditional competitors such as IBM, Oracle, SAP, Amazon and Microsoft as well as new analytic services companies, cloud vendors, and open-source providers. We believe our focus on ecosystem simplification and on delivering answers and business outcomes enables us to successfully compete in our target market. We believe that our Vantage platform is highly differentiated, delivers massive scale and integration, and is uniquely positioned to provide significant business value to our customers. Coupled with our ability to deploy across cloud and on-premises, as well as offering flexibility and choice in purchasing and licensing provides our customers with the ability to de-risk their buying decisions. Our consulting capabilities deliver value to our customers, enabling the customers to be successful in their markets, while also identifying incremental use cases that increase customers' consumption of Teradata's software. We believe that our technology, purchasing flexibility, global sales and marketing reach, as well as our consulting, will collectively enable us to continue to compete successfully. For more information on competition, see Item 1A, Risk Factors, elsewhere in this Annual Report.
+
+Key factors used to evaluate competitors in these markets include: data and analytics experience; business outcome delivery; hybrid cloud offerings and experience; customer references; technology leadership; product quality; performance, scalability, availability, and manageability; support and consulting services capabilities; management of technologies in a complex analytical ecosystem; industry knowledge; and total cost of ownership. We believe we have a competitive advantage in providing complete, integrated, and optimized analytic data platforms and analytic services that address customers’ business, technical, and architecture requirements. Our differentiation is especially strong in our target market of the world’s leading companies and their mission-critical, complex, large-scale environments and requirements.
+
+Research and Development ("R&D"). We remain focused on designing and developing data and analytic technologies that anticipate our customers' evolving needs and deliver the answers that advance their businesses. As we seek improvements in our offerings and services, we consider our customers' current and future needs. We believe our extensive R&D workforce is one of our core strengths. Our R&D team is located in multiple locations around the world to take advantage of global engineering talent. We anticipate that we will continue to have significant R&D expenditures, which may include complementary strategic acquisitions, to help support the flow of innovative, high-quality cloud-based offerings with a superior user experience, as well as services, which are vital to our leading competitive position. For information regarding the accounting and costs included in R&D activities, see "Note 1-Description of Business, Basis of Presentation and Significant Accounting Policies" in the Notes to Consolidated Financial Statements elsewhere in this Annual Report.
+
+Intellectual Property and Technology. The Company owns 638 patents in the United States and 11 patents in foreign countries. The foreign patents are generally counterparts of the Company’s United States patents. Many of the patents that we own are licensed to others, and we are licensed to use certain patents owned by others. While our portfolio of patents and patent applications in aggregate is of significant value to our Company, we do not believe that any individual patent is by itself of material importance to our business.
+
+8
+In addition, the Company owns copyrights and trade secrets in our vast code base which makes up all of the Teradata software offerings, including analytic data platforms and analytic applications. Teradata’s software offerings reflect the investment of hundreds of person-years of development work.
+
+The source code versions of our offerings are protected as trade secrets and, in all major markets, as unpublished copyright works. We take great efforts to protect our rights in all software offerings and related intellectual property; however, there can be no assurance that these measures will be successful. The Company owns the Teradata® word and logo trademarks, which are registered in the United States and in many foreign countries, as well as other trade names, service marks, and trademarks.
+
+Sources of Materials. Our hardware components are assembled and configured by Flex Ltd. ("Flex"). Our platform line is designed to leverage the components from manufacturers that we believe are industry leaders. Our data storage devices and memory components utilize industry-standard technologies but are selected and configured to work optimally with our software and hardware platform. Flex also procures a wide variety of components used in the assembly process on our behalf. Although many of these components are available from multiple sources, Teradata utilizes preferred supplier relationships to better ensure more consistent quality, cost and delivery. Typically, these preferred suppliers maintain alternative processes and/or facilities to ensure business continuity of supply. Given our strategy to outsource product assembly activities to Flex and to source certain components from single suppliers, a disruption in production at Flex or at a supplier, or a global shortage of components, could impact the timing or profitability of customer shipments. In addition, a significant change in the forecasts to any of these preferred suppliers could result in purchase obligations for components that may be in excess of demand.
+
+Employees. As of December 31, 2019, we had 8,535 employees globally. We believe that our future success will depend, in part, on our ability to continue to attract, hire and retain skilled and experienced personnel. 
+
+Properties and Facilities. Our corporate headquarters are located in San Diego, California. As of December 31, 2019, we operated 101 facilities in 41 countries throughout the world. We own our San Diego complex, while all other facilities are leased.
+
+Information About Our Executive Officers. The following table and biographies sets forth information as of February 28, 2020 regarding the individuals who are serving as our executive officers. 
+
+[DATA_TABLE_REMOVED]
+
+Victor Lund. Victor Lund is the Company’s Interim President and Chief Executive Officer and has served in this role since November 2019. Mr. Lund served as Executive Chairman of the Company’s Board of Directors from January 2019 until February 2020. He previously served as the President and Chief Executive Officer of Teradata from May 2016 until January 2019. Mr. Lund has been a member of the Company’s Board of Directors since 2007 and served as chair of its Audit Committee from 2007 until May 2016. Previously, Mr. Lund was the non-executive chairman of the board of DemandTec, Inc., a publicly-held, on-demand applications company, from December 2006 until February 2012, and was a member of its board from 2005 to 2012. Prior to that, Mr. Lund was non-executive chairman of the board of Mariner Health Care, Inc., a long-term health care services company, from 2002 to 2004, and he was vice chairman of Albertson’s, Inc. from 1999 to 2002. Prior to that, he served as chairman of the board of American Stores Company from 1995 until 1999 and as its chief executive officer from 1992 until 1999. During his 22-year career with American Stores, Mr. Lund held executive positions of increasing responsibility leading to chairman and chief executive officer, including chief financial officer and executive vice president. He also serves as a director of Service Corporation International and has served on a number of publicly-traded company boards, including Del Monte Foods Company and Delta Airlines.
+
+9
+Scott Brown. Scott Brown is the Company’s Chief Revenue Officer and has served in this role since joining Teradata in June 2019. Prior to joining Teradata, Mr. Brown spent 22 years at Cisco Systems, a global leader in IT, networking, and cybersecurity solutions. From 2016 to 2018, he was Senior Vice President, Global Virtual Sales and Customer Success, following positions of successively increasing responsibility in direct sales, channel partnerships, technology solutions and architecture, and sales enablement, including Senior Vice President, Global Customer Success from 2015 to 2016, and Vice President, Asia Pacific and Japan Enterprise Segment from 2014 to 2016. Prior to joining Cisco Systems in 1996, he held sales leadership roles at System Software Associates, a global provider of software for industrial businesses, Effective Management Systems and PepsiCo.
+
+Mark Culhane. Mark Culhane is the Company’s Chief Financial Officer and has served in this role since joining Teradata in November 2017. He served as the Chief Financial Officer for Lithium Technologies, a software applications company, from 2012 to 2016, and as Executive Vice President and Chief Financial Officer at DemandTec, a provider of a cloud-based collaborative optimization network for retailers and consumer products companies that was acquired by IBM in 2012, from 2001 to 2012. He currently serves on the board of directors of a private cloud-based software company, UserZoom, Inc. From June 2010 until its acquisition in April 2018, he served on the board of directors of Callidus Software, Inc., a cloud software company and global leader in sales performance management software, where he was the chair of its audit committee. From 2016 until November 2017, Mr. Culhane ran Culhane Advisory Services which provided management consulting services to venture- and private-equity-backed cloud software companies. 
+
+Kathleen Cullen-Cote. Kathleen Cullen-Cote is the Company’s Chief Human Resources Officer and has served in this role since joining Teradata in July 2019. Prior to joining Teradata, Ms. Cullen-Cote served in human resource leadership roles at PTC Inc., a global computer software and services company, from 2002 to June 2019, including Executive Vice President and Chief Human Resources Officer from April 2019 to July 2019; Corporate Vice President, Human Resources from 2012 until March 2019; Senior Vice President, Human Resources, from December 2010 to 2012; and Vice President, Human Resources, from October 2009 until December 2010. Prior to that, Ms. Cullen-Cote served in human resource leadership roles at Imark Communications, Johnson and Johnson, Raytheon, and Barry Controls. 
+
+Martyn Etherington. Martyn Etherington is the Company’s Chief Marketing Officer and has served in this role since joining Teradata in March 2018. Prior to joining Teradata, from 2015 to 2017, he served as the Chief Marketing Officer, IoT Cloud, at Cisco Jasper, a global market leader for Internet of Things connectivity management. From 2012 to 2015, he served as Executive Vice President, Chief Marketing Officer, and Chief of Staff for Mitel Networks Corporation, a telecommunications company. Mr. Etherington served as Chief Marketing Officer and Vice President, Business Operations at Tektronix/Danaher from 2002 to 2012 with responsibility for companywide strategy development and deployment, global marketing and business operations. 
+
+Dan Harrington. Dan Harrington is the Company’s Chief Services Officer and has served in this role since 2012. Previously, from 2007 to 2012, Mr. Harrington served as Executive Vice President, Technology and Support Services of Teradata. Prior to joining Teradata, he served as Vice President, Customer Services, Teradata Division of NCR Corporation, from 2005 until 2007. From 1999 to 2004, he was Vice President, Northern Europe, Teradata Division at NCR with responsibility for European sales. Prior to that, Mr. Harrington held a number of positions of increasing responsibility in the areas of sales, marketing and product management at NCR since joining the company in 1985.
+
+Laura Nyquist. Laura Nyquist is the Company’s General Counsel and has served in this role since 2007. From November 2018 until July 2019, she served as the Company’s Chief Human Resources Officer. From 2007 until November 2018, Ms. Nyquist served as the Company’s Secretary, and from May to October 2016 and July to November 2018, she also was responsible for the Company’s human resources organization on an interim basis. Prior to joining Teradata, Ms. Nyquist held a number of senior management roles at NCR Corporation after joining that company in 1986, including Deputy General Counsel and Chief Counsel of NCR’s financial and retail solutions businesses from 2006 to 2007, Chief Counsel, Financial Solutions Division from 2004 to 2006, and Vice President, Corporate Affairs, and Secretary to the NCR Board of Directors from 1999 to 2004.
+
+There are no family relationships between any of the executive officers or directors of Teradata.
+
+There are no contractual obligations regarding the election of our executive officers or directors.
+
+10
+Information. Teradata makes available through its website, free of charge, its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and all amendments to such reports, as soon as reasonably practicable after these reports are electronically filed or furnished to the U.S. Securities and Exchange Commission ("SEC") pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the "Exchange Act"). These reports and other information are available, free of charge, at www.sec.gov. Teradata will furnish, without charge to a security holder upon written request, the Notice of Meeting and Proxy Statement for the 2020 Annual Meeting of Stockholders. Teradata will furnish the Code of Conduct and any other exhibit at cost (the Code of Conduct is also available through Teradata’s website at http://www.teradata.com/code-of-conduct/). Document requests are available by calling or writing to:
+
+Teradata - Shareholder Relations
+
+17095 Via Del Campo
+
+San Diego, CA 92127
+
+Phone: 858-485-2088
+
+ Website: www.teradata.com
+
+Item 1A. RISK FACTORS

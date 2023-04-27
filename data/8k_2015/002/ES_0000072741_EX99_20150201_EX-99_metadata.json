@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072741",
+    "sec_company_name": "NORTHEAST UTILITIES (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150201",
+    "sec_filing_date": "20150203",
+    "sec_changed_date": "20150203",
+    "sec_accepted_date": "20150203171305",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72741/000007274115000005/0000072741-15-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72741/000007274115000005/0000072741-15-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\ES_0000072741_EX99_20150201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6869 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4715,
+    "endpoints": [
+        "Converted by EDGARwiz   ",
+        "This news release includes statements concerning Eversource Energy’s expectations, beliefs, plans, objectives, goals, strategies, assumptions of future events, future financial performance or growth and other statements that are not historical facts. These statements are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, readers can identify these forward-looking statements through the use of words or phrases such as “estimate, “expect,” “anticipate,” “intend,” “plan,” “project,” “believe,” “forecast,” “should,” “could,” and other similar expressions. Forward-looking statements involve risks and uncertainties that may cause actual results or outcomes to differ materially from those included in the forward-looking statements. Factors that may cause actual results to differ materially from those included in the forward-looking statements include, but are not limited to, cyber breaches, acts of war or terrorism, or grid disturbances; the possibility that expected merger synergies will not be realized or will not be realized within the expected time period; actions or inaction of local, state and federal regulatory and taxing bodies; changes in business and economic conditions, including their impact on interest rates, bad debt expense and demand for Eversource Energy’s products and services; fluctuations in weather patterns; changes in laws, regulations or regulatory policy; changes in levels or timing of capital expenditures; disruptions in the capital markets or other events that make Eversource Energy’s access to necessary capital more difficult or costly; developments in legal or public policy doctrines; technological developments; changes in accounting standards and financial reporting regulations; actions of rating agencies; and other presently unknown or unforeseen factors. Other risk factors are detailed from time to time in Eversource Energy’s reports filed with the Securities and Exchange Commission. Any forward-looking statement speaks only as of the date on which such statement is made, and Eversource Energy undertakes no obligation to update the information contained in any forward-looking statements to reflect developments or circumstances occurring after the statement is made or to reflect the occurrence of unanticipated events.###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ES",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\ES_0000072741_EX99_20150201_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:21:00.187459"
+}

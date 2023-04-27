@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001510295",
+    "sec_company_name": "Marathon Petroleum Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210107",
+    "sec_filing_date": "20210113",
+    "sec_changed_date": "20210113",
+    "sec_accepted_date": "20210113065420",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029521000009/0001510295-21-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029521000009/0001510295-21-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MPC_0001510295_EX991_20210107_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8707 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5113,
+    "endpoints": [
+        "Document",
+        "that convey the uncertainty of future events or outcomes. Such forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and other factors, some of which are beyond the company's control and are difficult to predict. We have based our forward-looking statements on our current expectations, estimates and projections about our industry and our company. We caution that these statements are not guarantees of future performance and you should not rely unduly on them, as they involve risks, uncertainties and assumptions that we cannot predict and many of which are beyond our control. Accordingly, our actual results may differ materially from the future performance that we have expressed or forecast in our forward-looking statements. In accordance with 'safe harbor' provisions of the Private Securities Litigation Reform Act of 1995, we have included in MPC's Form 10-K for the year ended Dec. 31, 2019, Forms 10-Q and other SEC filings, cautionary language identifying important factors, though not necessarily all such factors, that could cause future outcomes to differ materially from those set forth in the forward-looking statements. Copies of MPC's Form 10-K, Forms 10-Q and other SEC filings are available on the SEC’s website, MPC's website at https://www.marathonpetroleum.com/Investors/ or by contacting MPC's Investor Relations office."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MPC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MPC_0001510295_EX991_20210107_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:59:53.148493"
+}

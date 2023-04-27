@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000711404",
+    "sec_company_name": "COOPER COMPANIES, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220207",
+    "sec_filing_date": "20220207",
+    "sec_changed_date": "20220207",
+    "sec_accepted_date": "20220207172003",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/711404/000119312522029799/0001193125-22-029799-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/711404/000119312522029799/0001193125-22-029799.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\COO_0000711404_8K_20220207_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "38578 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 13164,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K   ",
+        "Dated: February 7, 2022"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "COO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\COO_0000711404_8K_20220207_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:51.443700"
+}

@@ -1,0 +1,51 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Impact of Changes in Interest Rates, Equity Prices and Energy Commodity Prices
+
+The Registrants are exposed to various market risks. These risks arise from transactions entered into in the normal course of business and are inherent in the Registrants’ consolidated financial statements. Most of the revenues and income from the Registrants’ business activities are affected by market risks. Categories of market risk include exposure to commodity prices through non-trading activities, interest rates and equity prices. A description of each market risk is set forth below:
+
+•Interest rate risk primarily results from exposures to changes in the level of borrowings and changes in interest rates.
+
+•Equity price risk results from exposures to changes in prices of individual equity securities (CenterPoint Energy).
+
+•Commodity price risk results from exposures to price volatilities of commodities, such as natural gas, NGLs and other energy commodities (CenterPoint Energy).
+
+Management has established comprehensive risk management policies to monitor and manage these market risks. 
+
+Interest Rate Risk 
+
+ As of December 31, 2020, the Registrants had outstanding long-term debt and lease obligations and CenterPoint Energy had obligations under its ZENS that subject them to the risk of loss associated with movements in market interest rates. 
+
+CenterPoint Energy’s floating rate obligations aggregated $2.4 billion and $3.9 billion as of December 31, 2020 and 2019, respectively. If the floating interest rates were to increase by 10% from December 31, 2020 rates, CenterPoint Energy’s combined interest expense would increase by approximately $1 million annually.
+
+Houston Electric did not have any floating rate obligations as of either December 31, 2020 or 2019.
+
+CERC’s floating rate obligations aggregated $347 million and $376 million as of December 31, 2020 and 2019, respectively. If the floating interest rates were to increase by 10% from December 31, 2020 rates, CERC’s combined interest expense would increase by approximately $1 million annually.
+
+As of December 31, 2020 and 2019, CenterPoint Energy had outstanding fixed-rate debt (excluding indexed debt securities) aggregating $11.1 billion and $11.2 billion, respectively, in principal amount and having a fair value of $12.9 billion and $12.2 billion, respectively. Because these instruments are fixed-rate, they do not expose CenterPoint Energy to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $288 million if interest rates were to decline by 10% from their levels as of December 31, 2020. 
+
+86
+
+As of December 31, 2020 and 2019, Houston Electric had outstanding fixed-rate debt aggregating $5.1 billion and $5.0 billion, respectively, in principal amount and having a fair value of approximately $6.0 billion and $5.5 billion, respectively. Because these instruments are fixed-rate, they do not expose Houston Electric to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $161 million if interest rates were to decline by 10% from their levels as of December 31, 2020. 
+
+As of December 31, 2020 and 2019, CERC had outstanding fixed-rate debt aggregating $2.1 billion and $2.2 billion, respectively, in principal amount and having a fair value of $2.5 billion and $2.5 billion, respectively. Because these instruments are fixed-rate, they do not expose CERC to the risk of loss in earnings due to changes in market interest rates. However, the fair value of these instruments would increase by approximately $69 million if interest rates were to decline by 10% from their levels at December 31, 2020. 
+
+In general, such an increase in fair value would impact earnings and cash flows only if the Registrants were to reacquire all or a portion of these instruments in the open market prior to their maturity.
+
+As discussed in Note 12 to the consolidated financial statements, the ZENS obligation is bifurcated into a debt component and a derivative component. The debt component of $15 million at December 31, 2020 was a fixed-rate obligation and, therefore, did not expose CenterPoint Energy to the risk of loss in earnings due to changes in market interest rates. However, the fair value of the debt component would increase by approximately $2 million if interest rates were to decline by 10% from levels at December 31, 2020. Changes in the fair value of the derivative component, a $953 million recorded liability at December 31, 2020, are recorded in CenterPoint Energy’s Statements of Consolidated Income and, therefore, it is exposed to changes in the fair value of the derivative component as a result of changes in the underlying risk-free interest rate. If the risk-free interest rate were to increase by 10% from December 31, 2020 levels, the fair value of the derivative component liability would decrease by less than $1 million, which would be recorded as an unrealized gain in CenterPoint Energy’s Statements of Consolidated Income.
+
+As of December 31, 2020, the Enable Series A Preferred Units annual distribution rate was 10%. On February 18, 2021, five years after the issue date, the Enable Series A Preferred Units annual distribution rate changed to a percentage of the Stated Series A Liquidation Preference per Series A Preferred unit equal to the sum of (a) Three-Month LIBOR, as calculated on each applicable date of determination, and (b) 8.50%. 
+
+Equity Market Value Risk (CenterPoint Energy)
+
+CenterPoint Energy is exposed to equity market value risk through its ownership of 10.2 million shares of AT&T Common and 0.9 million shares of Charter Common, which CenterPoint Energy holds to facilitate its ability to meet its obligations under the ZENS. See Note 12 to the consolidated financial statements for a discussion of CenterPoint Energy’s ZENS obligation. Changes in the fair value of the ZENS-Related Securities held by CenterPoint Energy are expected to substantially offset changes in the fair value of the derivative component of the ZENS. A decrease of 10% from the December 31, 2020 aggregate market value of these shares would result in a net loss of less than $1 million, which would be recorded as a loss on debt securities in CenterPoint Energy’s Statements of Consolidated Income.
+
+Commodity Price Risk From Non-Trading Activities (CenterPoint Energy)
+
+CenterPoint Energy’s regulated operations in Indiana have limited exposure to commodity price risk for transactions involving purchases and sales of natural gas, coal and purchased power for the benefit of retail customers due to current state regulations, which, subject to compliance with those regulations, allow for recovery of the cost of such purchases through natural gas and fuel cost adjustment mechanisms. CenterPoint Energy’s utility natural gas operations in Indiana have regulatory authority to lock in pricing for up to 50% of annual natural gas purchases using arrangements with an original term of up to 10 years. This authority has been utilized to secure fixed price natural gas using both physical purchases and financial derivatives. As of December 31, 2020, the recorded fair value of non-trading energy derivative liabilities was $10 million for CenterPoint Energy’s utility natural gas operations in Indiana, which is offset by a regulatory asset.
+
+Although CenterPoint Energy’s regulated operations are exposed to limited commodity price risk, natural gas and coal prices have other effects on working capital requirements, interest costs, and some level of price-sensitivity in volumes sold or delivered. Constructive regulatory orders, such as those authorizing lost margin recovery, other innovative rate designs and recovery of unaccounted for natural gas and other natural gas-related expenses, also mitigate the effect natural gas costs may have on CenterPoint Energy’s financial condition. In 2008, the PUCO approved an exit of the merchant function in CenterPoint Energy’s Ohio natural gas service territory, allowing Ohio customers to purchase substantially all natural gas directly from retail marketers rather than from CenterPoint Energy.
+
+87
+
+Item 8. Financial Statements and Supplementary Data

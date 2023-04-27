@@ -1,0 +1,101 @@
+xml version="1.0" ? all-20210126
+
+0000899051falseCommon Stock, par value $.01 per shareALLNYSECommon Stock, par value $.01 per shareALLCHX00008990512021-01-262021-01-260000899051all:SubordinatedDebenturesDue2053At5.10PercentMember2021-01-262021-01-260000899051us-gaap:SeriesGPreferredStockMember2021-01-262021-01-260000899051us-gaap:SeriesHPreferredStockMember2021-01-262021-01-260000899051all:SeriesIPreferredStockMember2021-01-262021-01-260000899051us-gaap:CommonStockMemberexch:XNYS2021-01-262021-01-260000899051us-gaap:CommonStockMemberexch:XCHI2021-01-262021-01-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15 (d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported): January 26, 2021
+
+THE ALLSTATE CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+ 2775 Sanders Road, Northbrook, Illinois 60062 
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code (847) 402-5000 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ____
+
+Section 1 – Registrant’s Business and Operations 
+
+Item 1.01. Entry into a Material Definitive Agreement. 
+
+On January 26, 2021, Allstate Insurance Company (“ALIC Seller”), an indirect wholly owned subsidiary of The Allstate Corporation (the “Registrant”), and Allstate Financial Insurance Holdings Corporation (“AAC Seller” and, together with ALIC Seller, each a “Seller” and, together, the “Sellers”), a direct wholly owned subsidiary of the Registrant, entered into a definitive Stock Purchase Agreement (the “Purchase Agreement”) with Antelope US Holdings Company, a corporation incorporated under the laws of the State of Delaware (the “Buyer”), an affiliate of an investment fund associated with The Blackstone Group Inc. Pursuant to the terms of the Purchase Agreement, the Buyer has agreed to acquire all of the shares of the capital stock of Allstate Life Insurance Company, a wholly owned subsidiary of ALIC Seller (“ALIC”), and, subject to certain conditions or the occurrence of certain events, Allstate Assurance Company, a wholly owned subsidiary of AAC Seller (“AAC”) (together with the other transactions contemplated by the Purchase Agreement, the “Transaction”). The Buyer will acquire all of ALIC’s subsidiaries except for Allstate Life Insurance Company of New York (“ALNY”), the treatment of which is described below, and certain other subsidiaries to be transferred to ALIC Seller or another affiliate of the Registrant prior to the closing of the Transaction, as contemplated by the Purchase Agreement. The Transaction, together with any potential sale of ALNY, as described below, will result in the Registrant’s and its affiliates’ divestiture of substantially all of its life and annuities business, with ALIC holding approximately 80% (or approximately $23 billion) of the Registrant’s life and annuity reserves and contractholder funds. The total consideration to be paid by the Buyer to the Sellers is expected to be approximately $2.8 billion in cash, subject to adjustment as specified in the Purchase Agreement, which may include downward adjustment for an up to $400 million pre-closing extraordinary dividend from ALIC, if any, to ALIC Seller. The Purchase Agreement also provides for potential contingent consideration payable to ALIC Seller of $25 million each year from 2025 through and including 2034, for up to $250 million in the aggregate, based on the monthly average of the daily 10-year treasury rate for the trailing three year period to each such year.
+
+As currently contemplated by the Purchase Agreement, the Registrant will retain ownership of ALNY while pursuing alternatives to sell or otherwise transfer risk to a third party, in each case as contemplated and permitted by the Purchase Agreement. Prior to the closing of the Transaction, it is contemplated that the Registrant and its affiliates will consummate certain pre-sale restructuring and reinsurance transactions (the “Pre-Sale Transactions”) to, among other things, transfer certain out-of-scope assets and businesses, through reinsurance or otherwise, from ALIC and its subsidiaries to ALIC Seller or other affiliates of the Registrant.
+
+The Transaction is expected to close in the second half of 2021, subject to the satisfaction or waiver of various closing conditions, including, among other things, (i) the receipt of certain governmental authorities’ approvals, including insurance regulatory approvals, without imposition of a Burdensome Condition (as defined in the Purchase Agreement), (ii) the expiration or termination of the applicable waiting period (or extension thereof) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (iii) the absence of any law, injunction or order restraining the Transaction, (iv) the consummation of the Pre-Sale Transactions, and (v) with respect to the Buyer’s obligation to consummate the Transaction, the consummation of either the sale or transfer of ALNY to an affiliate of the Registrant or a third party and the termination or novation of an existing reinsurance agreement between ALIC and ALNY. The parties’ obligation to consummate the Transaction is further subject to certain additional customary conditions, including the accuracy of the other party’s representations and warranties contained in the Purchase Agreement (subject to certain materiality qualifiers), the other party’s compliance with its covenants and agreements contained in the Purchase Agreement in all material respects, the delivery of certain executed documents and closing deliverables at closing as contemplated by the Purchase Agreement and, with respect to the Buyer’s obligation to consummate the Transaction, the absence of any Material Adverse Effect (as defined in the Purchase Agreement). Subject to the limitations set forth in the Purchase Agreement and, in the case of regulatory approvals, without the imposition of a Burdensome Condition, the parties are required to use reasonable best efforts to take, or cause to be taken, all actions, and to do, or cause to be done, and to assist and cooperate with the other parties in doing, all things necessary, proper or advisable to consummate and make effective, in the most expeditious manner practicable, the Transaction.
+
+The Purchase Agreement contains customary representations and warranties as well as covenants by each of the parties. The representations and warranties in the Purchase Agreement are the product of negotiation among the parties to the Purchase Agreement and are for the sole benefit of such parties. Any inaccuracies in such representations and warranties are subject to waiver by such parties in accordance with the Purchase Agreement without notice or liability to any other person. In some instances, the representations and warranties in the Purchase Agreement may represent an allocation among the parties of risk associated with particular matters, and the assertions embodied in those representations and warranties are qualified by information disclosed by one party to the other in connection with the execution of the Purchase Agreement. Consequently, persons other than the parties to the Purchase Agreement may not rely upon the representations and warranties in the Purchase Agreement as characterizations of actual facts or circumstances as of the date of the Purchase Agreement or as of any other date.
+
+2
+
+Under the Purchase Agreement, the Sellers will indemnify the Buyer for Indemnifiable Losses (as defined in the Purchase Agreement) arising out of breaches of representations and warranties (subject in some cases to thresholds, deductibles and caps), breaches of covenants, the Pre-Sale Transactions, the sale or transfer of ALNY, as applicable, ALIC’s ownership of ALNY prior to the consummation of any sale or transfer of ALNY, as applicable, and certain pre-closing liabilities that the Sellers have agreed to retain. The Buyer will indemnify the Sellers for Indemnifiable Losses arising out of breaches of representations and warranties (subject in some cases to thresholds, deductibles and caps), and breaches of pre-closing covenants and certain other matters.
+
+The Purchase Agreement contains customary termination rights, including the parties’ right to terminate by mutual consent, in the event of a final and non-appealable law or order that prohibits the consummation of the Transaction, or in the event that the Transaction is not consummated by November 26, 2021 (as it may be extended, the “Outside Date”), subject to one three-month extension at the election of either party if all closing conditions (other than the receipt of a required governmental consent) have been met or are capable of being satisfied as of such time. Each party also has a termination right in the event of the other party’s material breach of its obligations under the Purchase Agreement that are not capable of being cured before the Outside Date or are not cured within 20 days of receipt of notice of such breach. 
+
+The above description of the Transaction and the Purchase Agreement has been included to provide investors with summary information regarding its terms. It is not intended to provide any other factual information about the Registrant or its subsidiaries and affiliates. The Purchase Agreement has been filed herewith as Exhibit 2.1 and is incorporated herein by reference, and the description set forth above is qualified in its entirety by the full terms and conditions of the Purchase Agreement.
+
+Section 7 – Regulation FD
+
+Item 7.01. Regulation FD Disclosure.
+
+On January 26, 2021, the Registrant issued a press release announcing entry into the Purchase Agreement and the Transaction. A copy of such press release is furnished as Exhibit 99.1 to this Form 8-K.
+
+On January 27, 2021, the Registrant will host a conference call at 7:30 a.m. CT to discuss the Transaction. The conference call webcast, along with a presentation with additional information on the Transaction, will be accessible on the Registrant’s Investor Relations website at www.allstateinvestors.com. A copy of the investor presentation is furnished as Exhibit 99.2 to this Form 8-K and incorporated herein by reference.
+
+ The press release and investor presentation are furnished and not filed, pursuant to Instruction B.2 of Form 8-K.
+
+3
+
+Section 9 – Financial Statements and Exhibits
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[DATA_TABLE_REMOVED]
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]
+
+5

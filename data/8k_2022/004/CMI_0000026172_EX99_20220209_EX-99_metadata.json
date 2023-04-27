@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000026172",
+    "sec_company_name": "CUMMINS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220209",
+    "sec_filing_date": "20220209",
+    "sec_changed_date": "20220209",
+    "sec_accepted_date": "20220209085155",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/26172/000002617222000010/0000026172-22-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/26172/000002617222000010/0000026172-22-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\CMI_0000026172_EX99_20220209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14564 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9160,
+    "endpoints": [
+        "Document",
+        "services; lower than expected acceptance of new or existing products or services; product liability claims; our sales mix of products; failure to complete, adverse results from or failure to realize the expected benefits of the separation of our filtration business; our plan to reposition our portfolio of product offerings through exploration of strategic acquisitions and divestitures and related uncertainties of entering such transactions; challenging markets for talent and ability to attract, develop and retain key personnel; climate change and global warming; exposure to potential security breaches or other disruptions to our information technology environment and data security; political, economic and other risks from operations in numerous countries including political, economic and social uncertainty and the evolving globalization of our business; competitor activity; increasing competition, including increased global competition among our customers in emerging markets; labor relations or work stoppages; foreign currency exchange rate changes; the performance of our pension plan assets and volatility of discount rates; the price and availability of energy; continued availability of financing, financial instruments and financial resources in the amounts, at the times and on the terms required to support our future business; and other risks detailed from time to time in our SEC filings, including particularly in the Risk Factors section of our 2021 Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Shareholders, potential investors and other readers are urged to consider these factors carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are made only as of the date of this press release and we undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. More detailed information about factors that may affect our performance may be found in our filings with the SEC, which are available at http://www.sec.gov or at http://www.cummins.com in the Investor Relations section of our website."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\CMI_0000026172_EX99_20220209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:38.148984"
+}

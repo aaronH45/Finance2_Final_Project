@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000066740",
+    "sec_company_name": "3M CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220214",
+    "sec_filing_date": "20220214",
+    "sec_changed_date": "20220214",
+    "sec_accepted_date": "20220214080539",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/66740/000006674022000020/0000066740-22-000020-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/66740/000006674022000020/0000066740-22-000020.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\MMM_0000066740_EX991_20220214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "40835 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9611,
+    "endpoints": [
+        "Document",
+        "(a)Free cash flow and free cash flow conversion are not defined under U.S. generally accepted accounting principles (GAAP). Therefore, they should not be considered a substitute for income or cash flow data prepared in accordance with U.S. GAAP and may not be comparable to similarly titled measures used by other companies. The Company defines free cash flow as net cash provided by operating activities less purchases of property, plant and equipment. It should not be inferred that the entire free cash flow amount is available for discretionary expenditures. The Company defines free cash flow conversion as free cash flow divided by net income attributable to 3M. The Company believes free cash flow and free cash flow conversion are meaningful to investors as they function as useful measures of performance and the Company uses these measures as an indication of the strength of the company and its ability to generate cash."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MMM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\MMM_0000066740_EX991_20220214_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:23:13.704419"
+}

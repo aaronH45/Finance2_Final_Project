@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000029905",
+    "sec_company_name": "DOVER Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170126",
+    "sec_filing_date": "20170126",
+    "sec_changed_date": "20170126",
+    "sec_accepted_date": "20170126065942",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990517000005/0000029905-17-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990517000005/0000029905-17-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DOV_0000029905_EX991_20170126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "851930 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14979,
+    "endpoints": [
+        "Exhibit   ",
+        "In an effort to provide investors with additional information regarding our results as determined by GAAP, Management also discloses non-GAAP information that Management believes provides useful information to investors. Adjusted earnings from continuing operations, adjusted diluted earnings per common share, net debt, net capitalization, net debt to net capitalization ratio, free cash flow, organic revenue growth are not financial measures under GAAP and should not be considered as a substitute for earnings from continuing operations, diluted earnings per common share, debt or equity, cash flows from operating activities, or revenue as determined in accordance with GAAP, and they may not be comparable to similarly titled measures reported by other companies. Adjusted earnings from continuing operations represents earnings from continuing operations adjusted for gains or losses from discrete and other tax items, gain on disposition of businesses, and a product recall charge. Adjusted diluted earnings per common share represents adjusted earnings from continuing operations divided by average diluted shares. Management believes this information is useful to investors to better understand the company’s ongoing profitability and facilitates easier comparisons of the company’s profitability to prior and future periods and to its peers. Net debt represents total debt minus cash and cash equivalents. Net capitalization represents net debt plus stockholders' equity. Management believes the net debt to net capitalization ratio is useful to assess our overall financial leverage and capacity. Free cash flow represents net cash provided by operating activities minus capital expenditures. Management believes that free cash flow is an important measure of operating performance because it provides management and investors a measurement of cash generated from operations that is available for mandatory payment obligations and investment opportunities, such as funding acquisitions, paying dividends, repaying debt and repurchasing our common stock. Management believes that reporting organic revenue growth, which excludes the impact of foreign currency exchange rates and the impact of acquisitions and dispositions, provides a useful comparison of our revenue performance and trends between periods."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DOV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DOV_0000029905_EX991_20170126_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:38.164534"
+}

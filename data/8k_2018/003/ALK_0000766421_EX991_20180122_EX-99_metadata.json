@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000766421",
+    "sec_company_name": "ALASKA AIR GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180122",
+    "sec_filing_date": "20180122",
+    "sec_changed_date": "20180122",
+    "sec_accepted_date": "20180122124824",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/766421/000076642118000008/0000766421-18-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/766421/000076642118000008/0000766421-18-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\ALK_0000766421_EX991_20180122_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4959 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3480,
+    "endpoints": [
+        "a12218aagboardappointsne  ",
+        "Most recently, as president and chief executive officer of Boeing Commercial Airplanes, Conner was responsible for delivering on a record backlog and overseeing the growth of its airplane programs and services. He holds a bachelor’s degree from Central Washington University and a master’s from the University of Puget Sound. Conner also serves on the board of directors of the Boys and Girls Clubs of Bellevue and Adient, a global supplier of seats to the automotive and aerospace industry. Alaska Air Group has been recognized for its diversity, with women holding 40 percent of the seats on its Board of Directors. Directors serve one-year terms and the company's bylaws require annual elections of all board members. Alaska Airlines, together with Virgin America and its regional partners, flies 40 million guests a year to more than 115 destinations with an average of 1,200 daily flights across the United States and to Mexico, Canada and Costa Rica. With Alaska and Alaska Global Partners, guests can earn and redeem miles on flights to more than 900 destinations worldwide. Alaska Airlines ranked “Highest in Customer Satisfaction Among Traditional Carriers in North America” in the J.D. Power North America Satisfaction Study for 10 consecutive years from 2008 to 2017. Learn more about Alaska’s award-winning service at newsroom.alaskaair.com and blog.alaskaair.com. Alaska Airlines, Virgin America and Horizon Air are subsidiaries of Alaska Air Group (NYSE: ALK). # # #"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ALK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\ALK_0000766421_EX991_20180122_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:28:42.177714"
+}

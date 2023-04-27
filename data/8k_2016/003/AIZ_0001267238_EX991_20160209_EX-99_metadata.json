@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001267238",
+    "sec_company_name": "ASSURANT INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160209",
+    "sec_filing_date": "20160209",
+    "sec_changed_date": "20160209",
+    "sec_accepted_date": "20160209162243",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1267238/000119312516455355/0001193125-16-455355-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1267238/000119312516455355/0001193125-16-455355.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\AIZ_0001267238_EX991_20160209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "156472 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28922,
+    "endpoints": [
+        "EX-99.1   ",
+        "-14-"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AIZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\AIZ_0001267238_EX991_20160209_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:49:04.313788"
+}

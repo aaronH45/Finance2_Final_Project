@@ -1,0 +1,103 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false0001110803  0001110803   2020-01-02 2020-01-02  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K 
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 2, 2020 
+
+Illumina, Inc. 
+
+(Exact name of registrant as specified in its charter)
+
+001-35406 
+
+(Commission File Number)
+
+Delaware 33-0804655
+
+(State or other jurisdiction of incorporation) (I.R.S. Employer Identification No.)
+
+5200 Illumina Way, San Diego, CA 92122 
+
+(Address of principal executive offices) (Zip code)
+
+(858) 202-4500 
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13a of the Exchange Act. ☐ 
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+The disclosure under Item 1.02 is incorporated by reference.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+As previously disclosed, on November 1, 2018, Illumina, Inc. (the “Company”) entered into an Agreement and Plan of Merger (as amended, the “Merger Agreement”) with Pacific Biosciences of California, Inc. (“PacBio”) and FC Ops Corp., a wholly owned subsidiary of the Company (“Merger Subsidiary”). On September 25, 2019, the Company, PacBio and Merger Subsidiary entered into Amendment No. 1 to the Merger Agreement to, among other things, extend the End Time (as defined in the Merger Agreement) to December 31, 2019, subject to the Company’s unilateral right to extend the End Time to March 31, 2020. On December 18, 2019, as previously announced, the Company elected to extend the End Time.
+
+On January 2, 2020, the Company, PacBio and Merger Subsidiary entered into an agreement to terminate the Merger Agreement (the “Termination Agreement”). Pursuant to the Termination Agreement, (1) the Merger Agreement was terminated; (2) no later than January 6, 2020, the Company will make a cash payment to PacBio of $98 million (which amount constitutes the Reverse Termination Fee (as defined in the Merger Agreement)); and (3) the Company will make, which it would have been obligated to make under the Merger Agreement, cash payments to PacBio of $6 million on or before each of January 2, 2020, and March 2, 2020, and a cash payment to PacBio of $22 million on or before February 3, 2020 (the payments contemplated by this clause (3), the “Continuation Advances”).
+
+However, pursuant to the Termination Agreement, in the event that, on or prior to September 30, 2020, PacBio enters into a definitive agreement providing for, or consummates, a Change of Control Transaction (as defined in the Termination Agreement), then PacBio will repay the Reverse Termination Fee (without interest) to the Company in connection with the consummation of such Change of Control Transaction. If such Change of Control Transaction is not consummated by the two-year anniversary of the execution of the definitive agreement for such Change of Control Transaction, then PacBio will not be required to repay the Reverse Termination Fee.
+
+In addition, up to the full amount of the Continuation Advances actually paid to PacBio is repayable without interest to the Company if, within two years of March 31, 2020, PacBio enters into a Change of Control Transaction or raises at least $100 million in equity or debt financing in a single transaction (with the amount repayable dependent on the amount raised by PacBio).
+
+The Company and PacBio mutually agreed to terminate the Merger Agreement as a result of the lengthy regulatory approval process both in the United States and United Kingdom, and uncertainties regarding the ultimate outcome of the regulatory process.
+
+The foregoing summary of the Termination Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Termination Agreement, which is attached as Exhibit 10.1 and incorporated by reference herein.
+
+Item 7.01. Regulation FD Disclosure.
+
+On January 2, 2020, the Company and PacBio issued a joint press release announcing entry into the Termination Agreement (the “Press Release”). A copy of the Press Release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+
+In accordance with General Instruction B.2 of Form 8-K, the information set forth in this Item 7.01, including Exhibit 99.1, is furnished pursuant to Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities under that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits. 
+
+(d) Exhibits.
+
+10.1 Agreement by and among Illumina, Inc., Pacific Biosciences of California, Inc., and FC Ops Corp., dated January 2, 2020.
+
+99.1 Press Release, dated January 2, 2020.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]
+
+Exhibit Index
+
+[DATA_TABLE_REMOVED]

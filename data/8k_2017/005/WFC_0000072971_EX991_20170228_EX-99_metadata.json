@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170228",
+    "sec_filing_date": "20170301",
+    "sec_changed_date": "20170301",
+    "sec_accepted_date": "20170301092111",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297117000276/0000072971-17-000276-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297117000276/0000072971-17-000276.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\WFC_0000072971_EX991_20170228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7088 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5270,
+    "endpoints": [
+        "wfcex99103012017  ",
+        "Page 2 of 2 Chairman Stephen Sanger said, “These compensation actions for the Operating Committee, though not related to any findings of improper behavior, are part of the Board’s ongoing efforts to promote accountability and ensure Wells Fargo puts customer interests first. As we seek to regain trust, the Board is taking decisive actions. We will continue to work to make right what went wrong and remain focused on providing the accountability and oversight that our customers, employees, and investors expect and deserve.” Tim Sloan said, “I fully support the Board’s actions and believe they are critical to Wells Fargo’s commitment to our customers. It is my personal mission to foster a culture of accountability at all levels of the company and to ensure we are second to none in customer service and advice, ethics, and integrity. Today’s action is another step in that direction.” The Board’s independent investigation is ongoing. As previously announced, the investigation is expected to be completed before the company’s April 2017 annual meeting of stockholders and its findings and any additional actions will be made public by that time. About Wells Fargo Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, insurance, investments, mortgage, and consumer and commercial finance through more than 8,600 locations, 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 42 countries and territories to support customers who conduct business in the global economy. With approximately 269,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 27 on Fortune’s 2016 rankings of America’s largest corporations. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Cautionary Statement About Forward-Looking Statements This news release contains forward-looking statements about our future financial performance and business. Because forward-looking statements are based on our current expectations and assumptions regarding the future, they are subject to inherent risks and uncertainties. Do not unduly rely on forward-looking statements as actual results could differ materially from expectations. Forward-looking statements speak only as of the date made, and we do not undertake to update them to reflect changes or events that occur after that date. For information about factors that could cause actual results to differ materially from our expectations, refer to our reports filed with the Securities and Exchange Commission, including the discussion under “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2015 and our Quarterly Report on Form 10-Q for the quarter ended September 30, 2016, as filed with the Securities and Exchange Commission and available on its website at www.sec.gov."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\WFC_0000072971_EX991_20170228_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:56.090399"
+}

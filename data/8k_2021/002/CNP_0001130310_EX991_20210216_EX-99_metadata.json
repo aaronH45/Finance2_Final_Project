@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001130310",
+    "sec_company_name": "CENTERPOINT ENERGY INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210216",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217170811",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1130310/000119312521046637/0001193125-21-046637-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1130310/000119312521046637/0001193125-21-046637.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\CNP_0001130310_EX991_20210216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "30078 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18529,
+    "endpoints": [
+        "EX-99.1   ",
+        "CenterPoint Energy, Energy Transfer, Enable and their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the unitholders of Enable in connection with the proposed merger. Information about (i) the directors and executive officers of CenterPoint Energy is set forth in CenterPoint Energy’s Definitive Proxy Statement on Schedule 14A which was filed with the SEC on March 13, 2020 and CenterPoint Energy’s Annual Report on Form 10-K which was filed with the Commission on February 27, 2020, respectively, (ii) the directors and executive officers of Energy Transfer is set forth in Energy Transfer’s Annual Report on Form 10-K which was filed with the SEC on February 21, 2020 and (iii) the directors and executive officers of Enable is set forth in Enable’s Annual Report on Form 10-K which was filed with the SEC on February 19, 2020, in each case, as may be updated from time to time by Current Reports on Form 8-K, statements of changes in beneficial ownership and other filings with the SEC. Other information regarding certain participants in the consent solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the consent solicitation statement/prospectus and other relevant materials to be filed with the SEC when they become available. Free copies of these documents can be obtained using the contact information above."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CNP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\CNP_0001130310_EX991_20210216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:02:05.723042"
+}

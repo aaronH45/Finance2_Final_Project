@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000922224",
+    "sec_company_name": "PPL Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200226",
+    "sec_filing_date": "20200226",
+    "sec_changed_date": "20200226",
+    "sec_accepted_date": "20200226090647",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/922224/000092222420000010/0000922224-20-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/922224/000092222420000010/0000922224-20-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PPL_0000922224_EX991_20200226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14237 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5771,
+    "endpoints": [
+        "Exhibit  ",
+        "Note to Editors: Visit our media website at www.pplnewsroom.com for additional news and background about PPL Corporation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PPL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PPL_0000922224_EX991_20200226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:26.990079"
+}

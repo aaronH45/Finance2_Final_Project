@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001121788",
+    "sec_company_name": "GARMIN LTD (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200219",
+    "sec_filing_date": "20200219",
+    "sec_changed_date": "20200219",
+    "sec_accepted_date": "20200219070040",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1121788/000156459020005132/0001564590-20-005132-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1121788/000156459020005132/0001564590-20-005132.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\GRMN_0001121788_EX991_20200219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1338432 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 15585,
+    "endpoints": [
+        "grmn-ex991_66.htm     ",
+        "The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.07 per share for the 52-weeks ended December 28, 2019."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GRMN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\GRMN_0001121788_EX991_20200219_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:38.916196"
+}

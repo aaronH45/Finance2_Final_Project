@@ -1,0 +1,79 @@
+Exhibit   
+
+1Q17/FY17 Earnings Release Page 1 of 4
+
+FOR IMMEDIATE RELEASE
+
+[DATA_TABLE_REMOVED]
+
+F5 Networks Announces Results for First Quarter of Fiscal 2017
+
+SEATTLE, WA - January 25, 2017 - For the first quarter of fiscal 2017, F5 Networks, Inc. (NASDAQ: FFIV) announced revenue of $516.0 million, up 5.4 percent from $489.5 million in the first quarter of fiscal 2016.
+
+GAAP net income was $94.2 million ($1.44 per diluted share), compared to $89.7 million ($1.28 per diluted share) in the first quarter a year ago. Excluding the impact of stock-based compensation and amortization of purchased intangible assets, non-GAAP net income was $130.3 million ($1.98 per diluted share), compared to $120.6 million ($1.73 per diluted share) in the first quarter of last year.
+
+A reconciliation of GAAP net income to non-GAAP net income is included on the attached Consolidated Income Statements.
+
+“As we anticipated, the launch of BIG-IP iSeries, which we successfully completed in November, was a significant contributor to product revenue which grew 2 percent year-over-year,” said John McAdam, F5 president and chief executive officer. “iSeries bookings during the quarter represented approximately 18 percent of appliance bookings and we believe that percentage will increase during the current quarter with general availability of the complete family for the entire quarter.
+
+“In addition to strong initial demand for the iSeries, software sales, including software modules that run on our purpose-built hardware and Virtual Editions designed to run on any standard hypervisor, continued to grow as a percentage of product revenue. We expect this trend to continue in the current quarter, driven by the release of our 40-Gigabit VEs, with throughput four times faster than previous versions, and by increasing uptake of iSeries appliances, designed to support more modules than their predecessors.
+
+“For the second quarter in a row, security sales also accounted for an increasing percentage of product sales reflecting strong demand for Access Policy Manager and our firewall products and benefiting from increased sales of SSL Orchestrator. During the quarter, both SSL Orchestrator and DDoS Hybrid defender shipped as software modules on BIG-IP. Beginning this quarter, each will ship as a standalone product on our new Herculon security platform.
+
+“Product sales were robust in the Americas, APAC and Japan in Q1, while sales in EMEA remained relatively soft, and were down year over year. As we emphasized during our Analyst/Investor Meeting in November, the array of new products we have brought to market recently and those we are introducing this quarter are closely aligned with major industry trends and the needs of large organizations worldwide. We believe the migration of applications to public and private clouds, the build-out of hybrid cloud infrastructures, the explosion of SSL-encrypted traffic, and the need to provide security for applications, including the burgeoning array of IoT applications, all represent major market opportunities in the current quarter and beyond.”
+
+1Q17/FY17 Earnings Release Page 2 of 4
+
+For the second quarter of fiscal 2017, ending March 31st, the company has set a revenue goal of $518 million to $528 million with a GAAP earnings target of $1.41 to $1.44 per diluted share and a non-GAAP earnings target of $1.95 to $1.98 per diluted share.
+
+A reconciliation of the company’s expected GAAP and non-GAAP earnings is provided in the following table:
+
+[DATA_TABLE_REMOVED]
+
+About F5 Networks
+
+F5 (NASDAQ: FFIV) makes apps go faster, smarter, and safer for the world’s largest businesses, service providers, governments, and consumer brands. F5 delivers cloud and security solutions that enable organizations to embrace the application infrastructure they choose without sacrificing speed and control. For more information, go to f5.com. You can also follow @f5networks on Twitter or visit us on LinkedIn and Facebook for more information about F5, its partners, and technologies.
+
+1Q17/FY17 Earnings Release Page 3 of 4
+
+Forward Looking Statements
+
+This press release contains forward-looking statements including, among other things, statements regarding the continuing strength and momentum of F5's business, future financial performance, sequential growth, projected revenues including target revenue and earnings ranges, income, earnings per share, share amount and share price assumptions, demand for application delivery networking, application delivery services, security, virtualization and diameter products, expectations regarding future services and products, expectations regarding future customers, markets and the benefits of products, and other statements that are not historical facts and which are forward-looking statements. These forward-looking statements are subject to the safe harbor provisions created by the Private Securities Litigation Reform Act of 1995. Actual results could differ materially from those projected in the forward-looking statements as a result of certain risk factors. Such forward-looking statements involve risks and uncertainties, as well as assumptions and other factors that, if they do not fully materialize or prove correct, could cause the actual results, performance or achievements of the company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, but are not limited to: customer acceptance of our new traffic management, security, application delivery, optimization, diameter and virtualization offerings; the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive factors, including but not limited to pricing pressures, industry consolidation, entry of new competitors into F5’s markets, and new product and marketing initiatives by our competitors; increased sales discounts; uncertain global economic conditions which may result in reduced customer demand for our products and services and changes in customer payment patterns; global economic conditions and uncertainties in the geopolitical environment; overall information technology spending; litigation involving patents, intellectual property, shareholder and other matters, and governmental investigations; natural catastrophic events; a pandemic or epidemic; F5's ability to sustain, develop and effectively utilize distribution relationships; F5's ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel; F5's ability to expand in international markets; the unpredictability of F5's sales cycle; F5’s share repurchase program; future prices of F5's common stock; and other risks and uncertainties described more fully in our documents filed with or furnished to the Securities and Exchange Commission, including our most recent reports on Form 10-K and Form 10-Q and current reports on Form 8-K that we may file from time to time, which could cause actual results to vary from expectations. The financial information contained in this release should be read in conjunction with the consolidated financial statements and notes thereto included in F5’s most recent reports on Forms 10-Q and 10-K as each may be amended from time to time. All forward-looking statements in this press release are based on information available as of the date hereof and qualified in their entirety by this cautionary statement. F5 assumes no obligation to revise or update these forward-looking statements.
+
+1Q17/FY17 Earnings Release Page 4 of 4
+
+GAAP to non-GAAP Reconciliation
+
+F5’s management evaluates and makes operating decisions using various operating measures. These measures are generally based on the revenues of its products, services operations and certain costs of those operations, such as cost of revenues, research and development, sales and marketing and general and administrative expenses. One such measure is net income excluding stock-based compensation, amortization of purchased intangible assets and acquisition-related charges, net of taxes, which is a non-GAAP financial measure under Section 101 of Regulation G under the Securities Exchange Act of 1934, as amended. This measure consists of GAAP net income excluding, as applicable, stock-based compensation, amortization of purchased intangible assets and acquisition-related charges. This measure of non-GAAP net income is adjusted by the amount of additional taxes or tax benefit that the company would accrue if it used non-GAAP results instead of GAAP results to calculate the company’s tax liability. Stock-based compensation is a non-cash expense that F5 has accounted for since July 1, 2005 in accordance with the fair value recognition provisions of Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 718 Compensation—Stock Compensation (“FASB ASC Topic 718”). Amortization of intangible assets is a non-cash expense. Investors should note that the use of intangible assets contribute to revenues earned during the periods presented and will contribute to revenues in future periods. Acquisition-related expenses consist of professional services fees incurred in connection with acquisitions. In addition, expense related to a jury verdict and other associated costs of that patent litigation have been excluded from GAAP net income for the purpose of measuring non-GAAP earnings and earnings per share in fiscal 2016.
+
+Management believes that non-GAAP net income per share provides useful supplemental information to management and investors regarding the performance of the company’s core business operations and facilitates comparisons to the company’s historical operating results. Although F5’s management finds this non-GAAP measure to be useful in evaluating the performance of the core business, management’s reliance on this measure is limited because items excluded from such measures could have a material effect on F5’s earnings and earnings per share calculated in accordance with GAAP. Therefore, F5’s management will use its non-GAAP earnings and earnings per share measures, in conjunction with GAAP earnings and earnings per share measures, to address these limitations when evaluating the performance of the company’s core business. Investors should consider these non-GAAP measures in addition to, and not as a substitute for, financial performance measures in accordance with GAAP. 
+
+F5 believes that presenting its non-GAAP measure of earnings and earnings per share provides investors with an additional tool for evaluating the performance of the company’s core business and which management uses in its own evaluation of the company’s performance. Investors are encouraged to look at GAAP results as the best measure of financial performance. However, while the GAAP results are more complete, the company provides investors this supplemental measure since, with reconciliation to GAAP, it may provide additional insight into the company’s operational performance and financial results. 
+
+For reconciliation of this non-GAAP financial measure to the most directly comparable GAAP financial measure, please see the section in our Consolidated Income Statements entitled “Non-GAAP Financial Measures.” 
+
+# # # #
+
+F5 Networks, Inc.
+
+Consolidated Balance Sheets
+
+(unaudited, in thousands)
+
+[DATA_TABLE_REMOVED]
+
+F5 Networks, Inc.
+
+Consolidated Income Statements
+
+(unaudited, in thousands, except per share amounts)
+
+[DATA_TABLE_REMOVED]
+
+F5 Networks, Inc.
+
+Consolidated Statements of Cash Flows
+
+(unaudited, in thousands)
+
+[DATA_TABLE_REMOVED]

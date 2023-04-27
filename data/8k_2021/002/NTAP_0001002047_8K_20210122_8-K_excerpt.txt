@@ -1,0 +1,105 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+   false 0001002047        0001002047   2021-01-22 2021-01-22      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 OR 15(d) 
+
+of The Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): January 22, 2021 
+
+NetApp, Inc. 
+
+(Exact name of Registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+1395 Crossman Avenue 
+
+Sunnyvale, CA 94089 
+
+(Address of principal executive offices) (Zip Code) 
+
+(408) 822-6000 
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement.  
+
+On January 22, 2021, NetApp, Inc., a Delaware corporation (the “Company”), entered into an Amended and Restated Credit Agreement (the “Credit Agreement”), with the lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent. The Credit Agreement amends and restates the Company’s existing Credit Agreement, dated as of December 12, 2016, as amended. The Credit Agreement provides for a $1 billion revolving unsecured credit facility, with a sublimit of $50 million available for the issuance of letters of credit on the Company’s or its subsidiaries’ behalf. The facility matures on January 22, 2026, with an option for the Company to extend the maturity date for two additional 1-year periods, subject to certain conditions. The proceeds of the loans may be used by the Company for general corporate purposes and as liquidity support for its existing commercial paper program. As of January 22, 2021, no borrowings or letters of credit were outstanding under this facility.  
+
+Revolving loans accrue interest at a base rate or, at the Company’s option, an adjusted LIBO rate (based on one, two (if available), three or six-month interest periods) plus, in each case, a spread based on the ratings of the Company’s senior, unsecured, long-term indebtedness by Moody’s Investors Service, Inc. and Standard & Poor’s Rating Services. The spread ranges from 0% to 0.30% for base rate loans and 0.795% to 1.30% for LIBO rate loans. The base rate means the highest of JPMorgan Chase Bank, N.A.’s prime rate, the federal funds rate plus a margin equal to 0.50% and the adjusted LIBO rate for a 1-month interest period plus a margin equal to 1.00%. Revolving loans may be borrowed in U.S. dollars or other agreed currencies. Interest on the revolving loans is payable quarterly in arrears with respect to borrowings based on the base rate and at the end of an interest period in the case of borrowings based on the adjusted LIBO rate (or at each three month interval if the interest period is longer than three months). The Company may borrow, prepay without premium or penalty, and reborrow revolving loans, subject to certain conditions. The principal amount of outstanding revolving loans, together with accrued and unpaid interest, is due on the maturity date. The Company is also obligated to pay other customary fees for a credit facility of this size and type.  
+
+The Company’s obligations under the Credit Agreement will be guaranteed by its domestic subsidiaries meeting certain materiality thresholds. As of the closing date, there were no guarantors.  
+
+The Credit Agreement requires the Company not to exceed a maximum leverage ratio and to maintain a minimum interest coverage ratio. Additionally, the Credit Agreement contains customary affirmative and negative covenants, including covenants limiting the ability of the Company and its subsidiaries to, among other things, incur indebtedness at the subsidiary level, grant liens, sell all or substantially all of its assets, effect certain mergers, liquidate or dissolve, and enter into transactions with affiliates, in each case subject to customary exceptions for a credit facility of this size and type.  
+
+The events of default under the Credit Agreement include payment defaults, material misrepresentations, breaches of covenants, cross defaults with certain other material indebtedness, bankruptcy and insolvency events, judgments, certain ERISA events and change of control defaults. The occurrence of an event of default could result in the acceleration of the Company’s obligations under the Credit Agreement, an increase in the rate of interest, and an obligation of any or all of the Company’s subsidiary guarantors to pay the full amount of the Company’s obligations under the Credit Agreement.  
+
+The facility provides for an expansion option that will allow the Company to, subject to certain requirements, request an increase in the facility of up to an additional $300 million, for a potential total commitment of $1.3 billion.  
+
+From time to time, certain of the lenders under the Credit Agreement and certain of their respective affiliates have engaged in, and may in the future engage in, investment banking and other commercial dealings in the ordinary course of business with the Company or the Company’s affiliates. They have received, or may in the future receive, customary fees and commissions for these transactions.  
+
+The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Credit Agreement, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.  
+
+ Item 2.03.  
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information related to the Credit Agreement set forth in Item 1.01 above is incorporated herein by reference.  
+
+ Item 9.01.  
+
+Financial Statements and Exhibits.  
+
+ (d)  
+
+Exhibits  
+
+  [DATA_TABLE_REMOVED]  
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

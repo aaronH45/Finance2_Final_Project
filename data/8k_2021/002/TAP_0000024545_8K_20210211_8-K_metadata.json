@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000024545",
+    "sec_company_name": "MOLSON COORS BEVERAGE CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211070521",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/24545/000115752321000168/0001157523-21-000168-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/24545/000115752321000168/0001157523-21-000168.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\TAP_0000024545_8K_20210211_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "30223 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3411,
+    "endpoints": [
+        "false000002454500000245452021-02-112021-02-110000024545country:CA2021-02-112021-02-110000024545us-gaap:CommonClassBMember2021-02-112021-02-110000024545tap:SeniorNotesDue2024Member2021-02-112021-02-110000024545us-gaap:CommonClassAMember2021-02-112021-02-11 ",
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\TAP_0000024545_8K_20210211_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:01:15.701932"
+}

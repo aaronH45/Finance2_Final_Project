@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000858470",
+    "sec_company_name": "Coterra Energy Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220301",
+    "sec_changed_date": "20220301",
+    "sec_accepted_date": "20220301164505",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847022000009/0000858470-22-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847022000009/0000858470-22-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\COG_0000858470_EX991_20211231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "63337 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20711,
+    "endpoints": [
+        "Document",
+        "In accordance with the Financial Accounting and Reporting for Oil and Gas Producing Activities Pursuant to the Federal Securities Laws and the Energy Policy and Conservation Act of 1975. Reg. § 210.4-10"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "COG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\COG_0000858470_EX991_20211231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:50:24.563863"
+}

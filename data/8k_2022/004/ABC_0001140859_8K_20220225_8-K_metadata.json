@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001140859",
+    "sec_company_name": "AMERISOURCEBERGEN CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220225",
+    "sec_filing_date": "20220225",
+    "sec_changed_date": "20220225",
+    "sec_accepted_date": "20220225160419",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1140859/000114085922000009/0001140859-22-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1140859/000114085922000009/0001140859-22-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\ABC_0001140859_8K_20220225_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "45334 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 6996,
+    "endpoints": [
+        "xml version='1.0' ? abc-20220225",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ABC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\ABC_0001140859_8K_20220225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:31:54.406987"
+}

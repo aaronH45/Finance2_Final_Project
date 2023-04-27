@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912242",
+    "sec_company_name": "MACERICH CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170206",
+    "sec_filing_date": "20170206",
+    "sec_changed_date": "20170206",
+    "sec_accepted_date": "20170206164057",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912242/000119312517031869/0001193125-17-031869-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912242/000119312517031869/0001193125-17-031869.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\MAC_0000912242_EX991_20170206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "152619 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13112,
+    "endpoints": [
+        "EX-99.1   ",
+        " (e) The Company presents same center NOI because the Company believes it is useful for investors to evaluate the operating performance of comparable centers. Same center NOI is calculated using total Adjusted EBITDA and subtracting out Adjusted EBITDA from non-comparable centers and eliminating the management companies and the Company's general and administrative expenses and costs related to unsolicited takeover offer. Same center NOI excludes the impact of straight-line and above/below market adjustments to minimum rents."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MAC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\MAC_0000912242_EX991_20170206_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:13:28.996206"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000040704",
+    "sec_company_name": "GENERAL MILLS INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210107",
+    "sec_filing_date": "20210107",
+    "sec_changed_date": "20210107",
+    "sec_accepted_date": "20210107161332",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/40704/000156459021000567/0001564590-21-000567-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/40704/000156459021000567/0001564590-21-000567.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\GIS_0000040704_8K_20210107_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "39170 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2805,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?          gis-8k_20210107.htm    ",
+        "Title: Chief Financial Officer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "GIS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\GIS_0000040704_8K_20210107_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:01:19.387462"
+}

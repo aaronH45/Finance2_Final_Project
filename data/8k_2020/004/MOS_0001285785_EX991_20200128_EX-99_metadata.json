@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001285785",
+    "sec_company_name": "MOSAIC CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200128",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128160541",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1285785/000124378620000002/0001243786-20-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1285785/000124378620000002/0001243786-20-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\MOS_0001285785_EX991_20200128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10604 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3928,
+    "endpoints": [
+        "Exhibit  ",
+        "This release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements about the anticipated benefits or strategic plans and other statements about anticipated future financial, production and operating performance. Such statements are based upon the current beliefs and expectations of The Mosaic Company’s management and are subject to significant risks and uncertainties. These risks and uncertainties include, but are not limited to: difficulties with realization of the benefits of our strategic plans; actual costs of various items differing from management’s current estimates, price and demand volatility for our Potash and Phosphate products, other changes in market conditions, changes in weather conditions; changes in farmers’ planting patterns; accidents and disruptions, including potential mine fires, floods, explosions, seismic events, sinkholes or releases of hazardous or volatile chemicals; changes in foreign currency and exchange rates; international trade risks and other risks associated with Mosaic's international operations, changes in government policy, changes in environmental and other governmental regulation, as well as other risks and uncertainties reported from time to time in The Mosaic Company’s reports filed with the Securities and Exchange Commission. Actual results may differ from those set forth in the forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MOS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\MOS_0001285785_EX991_20200128_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:46:38.222458"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001618921",
+    "sec_company_name": "Walgreens Boots Alliance, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170126",
+    "sec_filing_date": "20170130",
+    "sec_changed_date": "20170130",
+    "sec_accepted_date": "20170130110655",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1618921/000119312517022888/0001193125-17-022888-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1618921/000119312517022888/0001193125-17-022888.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\WBA_0001618921_EX991_20170126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "17383 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9320,
+    "endpoints": [
+        "EX-99.1   ",
+        "Rite Aid and its directors, executive officers and employees may be deemed, under SEC rules, to be participants in the solicitation of proxies from Rite Aid’s stockholders with respect to the proposed acquisition. Information regarding the interests of such individuals in the proposed acquisition of Rite Aid by Walgreens Boots Alliance will be included in the proxy statement relating to such acquisition when it is filed with the SEC. You may obtain information about Rite Aid’s executive officers and directors in Rite Aid’s definitive proxy statement for its 2016 annual meeting of stockholders, which was filed with the SEC on May 13, 2016. These documents may be obtained free of charge from the SEC’s website at www.sec.gov and Rite Aid’s website at www.riteaid.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WBA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\WBA_0001618921_EX991_20170126_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:06.973235"
+}

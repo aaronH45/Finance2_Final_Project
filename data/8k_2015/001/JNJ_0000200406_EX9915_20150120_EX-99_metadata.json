@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000200406",
+    "sec_company_name": "JOHNSON & JOHNSON (Filer)",
+    "document_type": "EX9915",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150120",
+    "sec_filing_date": "20150120",
+    "sec_changed_date": "20150120",
+    "sec_accepted_date": "20150120081523",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040615000002/0000200406-15-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040615000002/0000200406-15-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\JNJ_0000200406_EX9915_20150120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "29482 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14155,
+    "endpoints": [
+        "2014 Q4 8K Exhibit 9915   ",
+        "This press release contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 regarding, among other things, future operating and financial performance. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of Johnson & Johnson. Risks and uncertainties include, but are not limited to, economic factors, such as interest rate and currency exchange rate fluctuations; competition, including technological advances, new products and patents attained by competitors; uncertainty of commercial success for new and existing products; impact of business combinations and divestitures; challenges inherent in new product development, including obtaining regulatory approvals; challenges to patents; the impact of patent expirations; significant adverse litigation or government action, including related to product liability claims; changes to laws and regulations, including domestic and foreign health care reforms; changes in behavior and spending patterns or financial distress of purchasers of health care products and services; trends toward health care cost containment; increased scrutiny of the health care industry by government agencies; financial instability of international economies and sovereign risk; manufacturing difficulties or delays, internally or within the supply chain; and product efficacy or safety concerns resulting in product recalls or regulatory action. A further list and description of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended December 29, 2013, including Exhibit 99 thereto, and the company’s subsequent filings with the Securities and Exchange Commission. Copies of these filings are available online at www.sec.gov, www.investor.jnj.com or on request from Johnson & Johnson. Any forward-looking statement made in this release speaks only as of the date of this release. Johnson & Johnson does not undertake to update any forward-looking statements as a result of new information or future events or developments."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JNJ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\JNJ_0000200406_EX9915_20150120_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:04.465246"
+}

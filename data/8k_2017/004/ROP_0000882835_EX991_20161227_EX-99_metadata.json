@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000882835",
+    "sec_company_name": "ROPER TECHNOLOGIES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20161227",
+    "sec_filing_date": "20170109",
+    "sec_changed_date": "20170109",
+    "sec_accepted_date": "20170109172927",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/882835/000095010317000263/0000950103-17-000263-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/882835/000095010317000263/0000950103-17-000263.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\ROP_0000882835_EX991_20161227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5322 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2005,
+    "endpoints": [
+        "Contact Information:",
+        "Deltek is the leading global provider of enterprise software and information solutions for government contractors, professional services firms and other project-based businesses. For decades, Deltek has delivered actionable insight that empowers its customers to unlock their business potential. 22,000 organizations and millions of users in over 80 countries around the world rely on Deltek to research and identify opportunities, win new business, recruit and develop talent, optimize resources, streamline operations and deliver more profitable projects. Deltek – Know more. Do more.® www.deltek.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ROP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\ROP_0000882835_EX991_20161227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:12:46.614081"
+}

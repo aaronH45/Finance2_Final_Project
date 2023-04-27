@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000766421",
+    "sec_company_name": "ALASKA AIR GROUP, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200213",
+    "sec_filing_date": "20200213",
+    "sec_changed_date": "20200213",
+    "sec_accepted_date": "20200213085711",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/766421/000076642120000016/0000766421-20-000016-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/766421/000076642120000016/0000766421-20-000016.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALK_0000766421_8K_20200213_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "39163 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3351,
+    "endpoints": [
+        "xml version='1.0' ? alk-20200213",
+        "Vice President Finance and Controller"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ALK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALK_0000766421_8K_20200213_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:44:21.114692"
+}

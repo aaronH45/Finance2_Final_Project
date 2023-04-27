@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000063754",
+    "sec_company_name": "MCCORMICK & CO INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150220",
+    "sec_filing_date": "20150220",
+    "sec_changed_date": "20150220",
+    "sec_accepted_date": "20150220104613",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/63754/000006375415000020/0000063754-15-000020-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/63754/000006375415000020/0000063754-15-000020.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\MKC_0000063754_8K_20150220_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "20800 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2640,
+    "endpoints": [
+        "8-K-February202015DrogheriaAlimentari   ",
+        "99.1 Copy of the press release labeled “McCormick Enters Agreement to Acquire Drogheria & Alimentari, a Leader in Spices and Seasonings in Italy”"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MKC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\MKC_0000063754_8K_20150220_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:17:23.271437"
+}

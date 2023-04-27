@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000927628",
+    "sec_company_name": "CAPITAL ONE FINANCIAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180215",
+    "sec_filing_date": "20180215",
+    "sec_changed_date": "20180214",
+    "sec_accepted_date": "20180214180222",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927628/000092762818000069/0000927628-18-000069-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927628/000092762818000069/0000927628-18-000069.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\COF_0000927628_EX991_20180215_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "34739 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1416,
+    "endpoints": [
+        "Exhibit   ",
+        "(4)  Period-end loans held for investment and average loans held for investment include billed finance charges and fees, net of the estimated uncollectible amount. We recognize billed finance charges and fee income on open-ended loans in accordance with the contractual provisions of the credit arrangements and estimate the uncollectible amount on a quarterly basis. The estimated uncollectible amount of billed finance charges and fees is reflected as a reduction in revenue and is not included in our net charge-offs."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "COF",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\COF_0000927628_EX991_20180215_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:08.403071"
+}

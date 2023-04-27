@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000858470",
+    "sec_company_name": "CABOT OIL & GAS CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200220",
+    "sec_filing_date": "20200221",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220174927",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847020000007/0000858470-20-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/858470/000085847020000007/0000858470-20-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\COG_0000858470_8K_20200220_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "49843 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 10170,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "5"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "COG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\COG_0000858470_8K_20200220_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:42:58.546850"
+}

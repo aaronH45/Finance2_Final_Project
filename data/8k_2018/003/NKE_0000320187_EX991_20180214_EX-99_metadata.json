@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000320187",
+    "sec_company_name": "NIKE INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180214",
+    "sec_filing_date": "20180221",
+    "sec_changed_date": "20180221",
+    "sec_accepted_date": "20180221161756",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/320187/000032018718000017/0000320187-18-000017-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/320187/000032018718000017/0000320187-18-000017.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NKE_0000320187_EX991_20180214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8964 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2132,
+    "endpoints": [
+        "Exhibit   ",
+        "NIKE, Inc., based near Beaverton, Ore., is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities. Wholly owned NIKE, Inc. subsidiaries include Converse Inc., which designs, markets and distributes athletic lifestyle footwear, apparel and accessories; and Hurley International LLC, which designs, markets and distributes surf and youth lifestyle footwear, apparel and accessories. For more information, Nike’s earnings releases and other financial information are available at http://investors.nike.com. Individuals can also visit http://news.nike.com/ and follow @Nike."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NKE_0000320187_EX991_20180214_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:28:28.226377"
+}

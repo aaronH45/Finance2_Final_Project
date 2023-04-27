@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000927653",
+    "sec_company_name": "MCKESSON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170125",
+    "sec_filing_date": "20170125",
+    "sec_changed_date": "20170125",
+    "sec_accepted_date": "20170125161802",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312517018036/0001193125-17-018036-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312517018036/0001193125-17-018036.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\MCK_0000927653_EX991_20170125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "525802 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 23969,
+    "endpoints": [
+        "EX-99.1   ",
+        "The Company internally uses non-GAAP financial measures in connection with its own financial planning and reporting processes. Specifically, Adjusted Earnings serves as one of the measures management utilizes when allocating resources, deploying capital and assessing business performance and employee incentive compensation. The Company conducts its business worldwide in local currencies, including Euro, British pound and Canadian dollar. As a result, the comparability of our results reported in U.S. dollars can be affected by changes in foreign currency exchange rates. We present constant currency information to provide a framework for assessing how our business performed excluding the estimated effect of foreign currency exchange rate fluctuations. Nonetheless, non-GAAP financial results and related measures disclosed by the Company should not be considered a substitute for, nor superior to, financial results and measures as determined or calculated in accordance with GAAP."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MCK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\MCK_0000927653_EX991_20170125_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:51.991210"
+}

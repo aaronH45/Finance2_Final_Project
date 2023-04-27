@@ -1,0 +1,87 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false0000078814   0000078814   2020-02-10 2020-02-10  
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+Current Report  
+
+Pursuant to Section 13 or 15(d) of the Securities 
+
+Exchange Act of 1934
+
+February 10, 2020
+
+Date of Report (Date of earliest event reported) 
+
+Pitney Bowes Inc. 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED]
+
+Not Applicable 
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Securities Act. ☐
+
+ITEM 7.01. REGULATION FD DISCLOSURE
+
+On February 7, 2020, on behalf of Pitney Bowes Inc. (the “Company”), JPMorgan Chase Bank, N.A., acting as lead arranger, obtained and allocated lender commitments for $200 million of additional term loans (the “Add-On Loans”) under a secured term loan B facility (the “Term Loan B Facility”) scheduled to mature on January 7, 2025. This is in addition to $650 million of lender commitments for term loans under the Term Loan B Facility (the “Original Loans”) that were obtained and allocated on December 18, 2019, as previously reported in the Company’s Current Report on Form 8-K filed on December 20, 2019. Loans under the Term Loan B Facility, including the Add-On Loans, were priced at an interest rate of LIBOR plus 5.50% and the Add-On Loans are to be issued at a price of 98.5% (as compared to the 97% issue price of the Original Loans). The Company anticipates borrowing under the Term Loan B Facility, pursuant to the terms of an amendment to be entered into under the Company’s existing Credit Agreement, dated as of November 1, 2019. The proceeds of the Term Loan B Facility combined with available cash will be used to finance the settlement of the Tender Offers as defined and described in Item 8.01 below.
+
+ITEM 8.01. OTHER EVENTS
+
+On February 10, 2020, the Company issued a press release announcing the commencement of (1) cash tender offers (each, a “Tender Offer” and together, the “Tender Offers”) of up to $950,000,000 aggregate principal amount of its outstanding (i) 3.375% Notes due 2021 (the “3.375% Notes”) and (ii) 3.875% Notes due 2022 (the “3.875% Notes”), 4.700% Notes due 2023 (the “4.700 Notes”) and 4.625% Notes due 2024 (the “4.625% Notes” and, together with the 3.375% Notes, 3.875% Notes and 4.700% Notes, the “Notes”), and (2) the solicitation of consents to proposed amendments with respect to its 3.375% Notes only (the “Consent Solicitation”). A copy of the press release announcing the Tender Offers and the Consent Solicitation is attached as Exhibit 99.1 to this Current Report on Form 8-K and is hereby incorporated by reference herein. 
+
+This Current Report on Form 8-K, including the press release incorporated by reference, is neither an offer to sell nor a solicitation of offers to buy any Notes. The Tender Offers are being made only pursuant to the offer to purchase and consent solicitation statement of the Company, dated February 10, 2020. The Tender Offers are not being made to holders of Notes in any jurisdiction in which the making or acceptance thereof would not be in compliance with the securities, blue sky or other laws of such jurisdiction.
+
+ITEM 9.01 FINANCIAL STATEMENTS AND EXHIBITS
+
+(d) Exhibits
+
+EXHIBIT INDEX
+
+Exhibit No. Exhibit Description 
+
+99.1 Press release of Pitney Bowes Inc., dated February 10, 2020.
+
+104 The cover page of Pitney Bowes Inc.'s Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101).
+
+This document includes a number of “forward-looking statements”. Any forward-looking statements contained in this document may change based on various factors. These forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties and actual results could differ materially. Words such as “estimate,” “target,” “project,” “plan,” “believe,” “expect,” “anticipate,” “intend” and similar expressions may identify such forward-looking statements.
+
+Although we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ materially from those projected or assumed in any of our forward-looking statements. Our future financial condition and results of operations, as well as any forward-looking statements, are subject to change and to inherent risks and uncertainties, such as those disclosed or incorporated by reference in our filings with the U.S. Securities and Exchange Commission. Factors which could cause future financial performance to differ materially from the expectations as expressed in any forward-looking statement made by or on our behalf included or incorporated by reference in this document include, without limitation: declining physical mail volumes; expenses and potential impact on client relationships resulting from the October 2019 malware attack that temporarily affected our operations; a breach of security, including a future cyber-attack or other comparable event; the continued availability and security of key information technology systems and the cost to comply with information security requirements and privacy laws; changes in, or loss of, our contractual relationships with the U.S. Postal Service (USPS) or posts in other major markets; changes in postal regulations; competitive factors, including pricing pressures, technological developments and the introduction of new products and services by competitors; the United Kingdom’s exit from the European Union (Brexit); our success in developing and marketing new products and services and obtaining regulatory approvals, if required; changes in banking regulations or the loss of our Industrial Bank charter; changes in labor conditions and transportation costs; macroeconomic factors, including global and regional business conditions that adversely impact customer demand, foreign currency exchange rates and interest rates; changes in global political conditions and international trade policies, including the imposition or expansion of trade tariffs; third-party suppliers’ ability to provide products and services required by our clients; our success at managing the relationships with outsource providers, including the costs of outsourcing functions and operations; capital market disruptions or credit rating downgrades that adversely impact our ability to access capital markets at reasonable costs; our success at managing customer credit risk; integrating newly acquired businesses, including operations and product and service offerings; our ability to continue to grow volumes to gain additional economies of scale; the loss of some of our larger clients in our Commerce Services group; intellectual property infringement claims; significant changes in pension, health care and retiree medical costs; income tax adjustments or other regulatory levies from tax audits and changes in tax laws, rulings or regulations; the use of the postal system for transmitting harmful biological agents, illegal substances or other terrorist attacks; and acts of nature.
+
+We undertake no obligation to publicly update or revise any forward-looking statements in this document, whether as a result of new information, future events or otherwise, except as required by law. Forward-looking statements in this document speak only as of the date hereof, and forward-looking statements in documents attached or incorporated by reference speak only as of the date of those documents. Accordingly, you should not place undue reliance on the forward-looking statements contained in, attached or incorporated by reference to this document, including in Item 1A. under the caption “Risk Factors” in our 2018 Annual Report on Form 10-K, as updated from time to time in subsequently filed Quarterly Reports on Form 10-Q, and other public filings.
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

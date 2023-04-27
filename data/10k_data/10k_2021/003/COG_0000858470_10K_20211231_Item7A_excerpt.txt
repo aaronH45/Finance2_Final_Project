@@ -1,0 +1,63 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of business, we are subject to a variety of risks, including market risks associated with changes in commodity prices and interest rate movements on outstanding debt. The following quantitative and qualitative information is provided about financial instruments to which we were party to as of December 31, 2021 and from which we may incur future gains or losses from changes in commodity prices or interest rates.
+
+Commodity Price Risk 
+
+Our most significant market risk exposure is pricing applicable to our oil, natural gas and NGL production. Realized prices are mainly driven by the worldwide price for oil and spot market prices for North American natural gas and NGL production. These prices have been volatile and unpredictable. To mitigate the volatility in commodity prices, we may enter into derivative instruments to hedge a portion of our production.
+
+Derivative Instruments and Risk Management Activities
+
+Our risk management strategy is designed to reduce the risk of commodity price volatility for our production in the oil and natural gas markets through the use of financial commodity derivatives. A committee that consists of members of senior management oversees our risk management activities. Our financial commodity derivatives generally cover a portion of our production and, while protecting us in the event of price declines, limit the benefit to us in the event of price increases. Further, if any of our counterparties defaulted, this protection might be limited as we might not receive the full benefit of our financial commodity derivatives. Please read the discussion below as well as Note 5 of the Notes to the Consolidated Financial Statements, “Derivative Instruments,” for a more detailed discussion of our derivatives.
+
+Periodically, we enter into financial commodity derivatives, including collar, swap, roll differential swap and basis swap agreements, to protect against exposure to commodity price declines related to our oil and natural gas production. Our credit agreement restricts our ability to enter into financial commodity derivatives other than to hedge or mitigate risks to which we have actual or projected exposure or as permitted under our risk management policies and not subjecting us to material speculative risks. All of our financial derivatives are used for risk management purposes and are not held for trading purposes. Under the collar agreements, if the index price rises above the ceiling price, we pay the counterparty. If the index price falls below the floor price, the counterparty pays us. Under the swap agreements, we receive a fixed price on a notional quantity of natural gas in exchange for paying a variable price based on a market-based index.
+
+62
+As of December 31, 2021, we had the following outstanding financial commodity derivatives:
+
+[DATA_TABLE_REMOVED]________________________________________________________
+
+(1)The index price the Company pays under these basis swaps is WTI Midland as quoted by Argus Americas Crude.
+
+[DATA_TABLE_REMOVED]
+
+________________________________________________________
+
+(1)The index price for these collars is El Paso Natural Gas Company, Permian Basin Index (“Perm EP”) as quoted in Platt’s Inside FERC.
+
+(2)The index price for these collars is Panhandle Eastern Pipe Line, Tex/OK Mid-Continent Index (“PEPL”) as quoted in Platt’s Inside FERC.
+
+(3)The index price for these collars is Waha West Texas Natural Gas Index (“Waha”) as quoted in Platt’s Inside FERC.
+
+The estimated fair value amounts set forth in the table above represent our total unrealized derivative position at December 31, 2021 and exclude the impact of non-performance risk. Non-performance risk is considered in the fair value of our derivative instruments that are recorded in our Consolidated Financial Statements and is primarily evaluated by reviewing 
+
+63
+credit default swap spreads for the various financial institutions with which we have derivative contracts, while our non-performance risk is evaluated using a market credit spread provided by several of our banks.
+
+In early 2022, we entered into the following outstanding financial commodity derivatives:[DATA_TABLE_REMOVED]
+
+A significant portion of our expected oil and natural gas production for 2022 and beyond is currently unhedged and directly exposed to the volatility in commodity prices, whether favorable or unfavorable. 
+
+During 2021, oil collars with floor prices ranging from $29.00 to $40.00 per Bbl and ceiling prices ranging from $34.15 to $51.10 per Bbl covered 3.7 Mmbbls, or 45 percent, of oil production at a weighted-average price of $44.37 per Bbl. Oil basis swaps covered 3.2 Mmbbls, or 40 percent, of oil production at a weighted-average price of $(0.08) per Bbl. Oil roll differential swaps covered 1.6 Mmbbls, or 20 percent, of oil production at a weighted-average price of $(0.10) per Bbl. 
+
+During 2021, natural gas collars with floor prices ranging from $1.50 to $2.85 per Mmbtu and ceiling prices ranging from $1.75 to $3.94 per Mmbtu covered 193.2 Bcf, or 21 percent of natural gas production at a weighted-average price of $2.85 per Mmbtu. Natural gas swaps covered 56.3 Bcf, or six percent, of natural gas production at a weighted-average price of $3.16 per Mmbtu. 
+
+We are exposed to market risk on financial commodity derivative instruments to the extent of changes in market prices of oil and natural gas. However, the market risk exposure on these derivative contracts is generally offset by the gain or loss recognized upon the ultimate sale of the commodity. Although notional contract amounts are used to express the volume of oil and natural gas agreements, the amounts that can be subject to credit risk in the event of non-performance by third parties are substantially smaller. Our counterparties are primarily commercial banks and financial service institutions that management believes present minimal credit risk and our derivative contracts are with multiple counterparties to minimize our exposure to any individual counterparty. We perform both quantitative and qualitative assessments of these counterparties based on their credit ratings and credit default swap rates where applicable. We have not incurred any losses related to non-performance risk of our counterparties and we do not anticipate any material impact on our financial results due to non-performance by third parties. However, we cannot be certain that we will not experience such losses in the future. 
+
+Interest Rate Risk 
+
+At December 31, 2021, we had total debt of $3.1 billion (with a principal amount of $2.9 billion). All of our outstanding debt is based on fixed interest rates and, as a result, we do not have significant exposure to movements in market interest rates with respect to such debt. Our revolving credit facility provides for variable interest rate borrowings; however, we did not have any borrowings outstanding as of December 31, 2021 and, therefore, no related exposure to interest rate risk.
+
+Fair Value of Other Financial Instruments
+
+The estimated fair value of other financial instruments is the amount at which the instrument could be exchanged currently between willing parties. The carrying amounts reported in the Consolidated Balance Sheet for cash and cash equivalents and restricted cash approximate fair value due to the short-term maturities of these instruments. 
+
+The fair value of the New Coterra Notes and Existing Cimarex Notes is based on quoted market prices. We use available market data and valuation methodologies to estimate the fair value of our private placement senior notes. The fair value of the private placement senior notes is the estimated amount we would have to pay a third party to assume the debt, including a credit spread for the difference between the issue rate and the period end market rate. The credit spread is our default or repayment risk. The credit spread (premium or discount) is determined by comparing our senior notes and revolving credit facility to new issuances (secured and unsecured) and secondary trades of similar size and credit statistics for both public and private debt. The fair value of the private placement senior notes is based on interest rates currently available to us.
+
+64
+The carrying amount and fair value of debt is as follows: 
+
+[DATA_TABLE_REMOVED]
+
+65
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

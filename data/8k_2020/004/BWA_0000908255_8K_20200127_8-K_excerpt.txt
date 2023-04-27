@@ -1,0 +1,103 @@
+xml version="1.0" encoding="utf-8"?              
+
+   0000908255 false false false false        0000908255   2020-01-26 2020-01-27     0000908255  us-gaap:CommonStockMember    2020-01-26 2020-01-27     0000908255  BWA:SeniorNotesdue2022Member    2020-01-26 2020-01-27    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549
+
+_____________________
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+_______________________ 
+
+ Date of Report   
+
+ (Date of earliest   
+
+ event reported):  January 27, 2020   
+
+ BorgWarner Inc. 
+
+ (Exact name of registrant as specified in its charter) 
+
+    [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] 
+
+ (248) 754-9200 
+
+ (Registrant’s telephone number, including area code) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+[X] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 2.02 Results of Operations and Financial Condition. 
+
+On January 28, 2020, BorgWarner Inc., a Delaware corporation (the “Company”), issued a press release announcing certain unaudited preliminary financial results for the fourth quarter and full year ended December 31, 2019 and guidance for the full year ending December 31, 2020 (excluding any potential impact of the Transaction). A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. 
+
+The information contained in this Item 2.02 of this Current Report on Form 8-K, including Exhibit 99.1, is being furnished and shall not be deemed to be “filed” for the purpose of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), nor shall it be deemed incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended (the “Securities Act”), regardless of any general incorporation language in any such filings. 
+
+Item 8.01 Other Events. 
+
+The Company entered into a Transaction Agreement, dated January 28, 2020 (the “Agreement”), by and between the Company and Delphi Technologies PLC, a public limited company formed under the laws of the Bailiwick of Jersey (“Delphi Technologies”), pursuant to which the Company, or one of its subsidiaries, will acquire Delphi Technologies in an all-stock transaction. Subject to the terms and conditions of the Agreement, at the effective time of the Transaction under the Agreement, the Company, or one of its subsidiaries, will acquire all of the outstanding ordinary shares of Delphi Technologies, $0.01 par value per share (each, a “Delphi Share” and, collectively, the “Delphi Shares”), from the shareholders of Delphi Technologies (the “Delphi Shareholders”) for newly issued shares of common stock of the Company pursuant to a scheme of arrangement (the “Scheme of Arrangement”) under Part 18A of the Companies (Jersey) Law 1991, as amended from time to time (the “Transaction”). Pursuant to the terms of the Agreement and the Scheme of Arrangement, the Company will issue, for each Delphi Share, 0.4534 shares of common stock of the Company, par value $0.01 per share (each, a “Company Share”) (or cash in lieu of any fractional Company Share). Following the implementation of the Transaction, Delphi Technologies will become a wholly-owned subsidiary of the Company. The Transaction is expected to close in the second half of 2020. The Company will file the information required to be reported on a Current Report on Form 8-K with respect to the Agreement in a separate Current Report on Form 8-K. 
+
+On January 28, 2020, the Company and Delphi Technologies issued a joint press release announcing the execution of the Agreement. A copy of the joint press release is attached hereto as Exhibit 99.2. 
+
+On January 27, 2020, the board of directors of the Company approved a share repurchase program (the “Share Repurchase Program”) under which the Company is authorized to expend up to a total of $1 billion to repurchase Company Shares after the date of the board approval. The authority under the Share Repurchase Program incorporates and supersedes all remaining prior authority to repurchase shares. Repurchases under the Share Repurchase Program may be made from time-to-time in the public or private markets, through block trades, Rule 10b5-1 trading plans or other available means and may include the use of derivative contracts and structured and accelerated share repurchase agreements, all in accordance with applicable securities and other laws. There is no minimum number of shares required to be repurchased under the Share Repurchase Program, and the Share Repurchase Program may be suspended or discontinued at any time. The Company cannot predict when or if it will repurchase any shares as such repurchases will depend on a number of factors, including constraints specified in any Rule 10b5-1 trading plans, price, general business and market conditions, and alternative investment opportunities. Information regarding share repurchases will be available in the Company’s periodic reports on Form 10-Q and Form 10-K filed with the Securities and Exchange Commission. 
+
+No Offer or Solicitation 
+
+This communication is being made in respect of the proposed Transaction. This communication is not intended to and does not constitute an offer to sell or the solicitation of an offer to subscribe for or buy or an invitation to purchase or subscribe for any securities or the solicitation of any vote or approval in any jurisdiction pursuant to the proposed Transaction or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. In particular, this communication is not an offer of securities for sale into the United States. No offer of securities shall be made in the United States absent registration under the Securities Act or pursuant to an exemption from, or in a transaction not subject to, such registration requirements. Any securities issued in the Transaction are anticipated to be issued in reliance upon available exemptions from such registration requirements pursuant to Section 3(a)(10) of the Securities Act. In connection with the proposed Transaction, Delphi Technologies will file certain proxy materials, which shall constitute the scheme document and the proxy statement relating to the Transaction (the “proxy statement”). The proxy statement will contain the full terms and conditions of the Transaction, including details with respect to the Delphi Technologies shareholder vote in respect of the Transaction. Any decision in respect of, or other response to, the Transaction should be made only on the basis of the information contained in the proxy statement. 
+
+Participants in the Solicitation 
+
+Delphi Technologies, the Company and certain of their respective directors, executive officers and employees may be deemed “participants” in the solicitation of proxies from the Delphi Shareholders in respect of the proposed Transaction. Information regarding the foregoing persons, including a description of their direct or indirect interests, by security holdings or otherwise, will be set forth in the proxy statement and any other relevant documents to be filed with the Securities and Exchange Commission (the “SEC”). You can find information about Delphi Technologies’ directors and executive officers in its Annual Report on Form 10-K for the fiscal year ended December 31, 2018, its definitive proxy statement filed with the SEC on Schedule 14A on March 15, 2019, and certain of Delphi Technologies’ Current Reports on Form 8-K filed with the SEC on January 7, 2019 and July 30, 2019. You can find information about the Company’s directors and executive officers in its Annual Report on Form 10-K for the fiscal year ended December 31, 2018 and its definitive proxy statement filed with the SEC on Schedule 14A on March 15, 2019. 
+
+Additional Information and Where to Find It 
+
+This communication may be deemed solicitation material in respect of the Transaction. In connection with the Transaction, Delphi Technologies will file with the SEC and furnish the proxy statement and other relevant documents to the Delphi Shareholders. This communication does not constitute a solicitation of any vote or approval. Before making any voting decision, the Delphi Shareholders are urged to read the proxy statement and any other relevant documents filed or to be filed with the SEC in connection with the proposed Transaction or incorporated by reference in the proxy statement (if any) carefully and in their entirety when they become available because they will contain important information about the proposed Transaction and the parties to the proposed Transaction. 
+
+Investors will be able to obtain free of charge the proxy statement and other documents filed with the SEC at the SEC’s website at http://www.sec.gov. In addition, the proxy statement and Delphi Technologies’ and the Company’s respective annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to section 13(a) or 15(d) of the Exchange Act are available free of charge through Delphi Technologies’ and the Company’s websites at www.delphi.com and www.borgwarner.com, respectively, as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. 
+
+Forward-Looking Statements 
+
+This communication may contain forward-looking statements as contemplated by the 1995 Private Securities Litigation Reform Act that reflect, when made, Delphi Technologies’ or the Company’s respective current views with respect to future events, including the proposed Transaction, and financial performance or that are based on their respective management’s current outlook, expectations, estimates and projections, including with respect to the combined group following the proposed Transaction, if completed. Such forward-looking statements are subject to many risks, uncertainties and factors relating to Delphi Technologies’ or the Company’s respective operations and business environment, which may cause the actual results of Delphi Technologies or the Company to be materially different from any future results. All statements that address future operating, financial or business performance or Delphi Technologies’ or the Company’s respective strategies or expectations are forward-looking statements. In some cases, you can identify these statements by forward-looking words such as “may,” “might,” “will,” “should,” “could,” “designed,” “effect,” “evaluates,” “forecasts,” “goal,” “guidance,” “initiative,” “intends,” “pursue,” “seek,” “target,” “when,” “will,” “expects,” “plans,” “intends,” “anticipates,” “believes,” “estimates,” “predicts,” “projects,” “potential,” “outlook” or “continue,” the negatives thereof and other comparable terminology. Factors that could cause actual results to differ materially from these forward-looking statements include, but are not limited to, the possibility that the proposed Transaction will not be pursued; failure to obtain necessary regulatory approvals or required financing or to satisfy any of the other conditions to the proposed Transaction; adverse effects on the market price of Delphi Technologies’ ordinary shares or the Company Shares and on Delphi Technologies’ or the Company’s operating results because of a failure to complete the proposed Transaction; failure to realize the expected benefits of the proposed Transaction; failure to promptly and effectively integrate Delphi Technologies’ businesses; negative effects relating to the announcement of the proposed Transaction or any further announcements relating to the proposed Transaction or the consummation of the proposed Transaction on the market price of Delphi Technologies’ ordinary shares or the Company Shares; significant transaction costs and/or unknown or inestimable liabilities; potential litigation associated with the proposed Transaction; general economic and business conditions that affect the combined company following the consummation of the proposed Transaction; changes in global, political, economic, business, competitive, market and regulatory forces; changes in tax laws, regulations, rates and policies; future business acquisitions or disposals; competitive developments; and the timing and occurrence (or non-occurrence) of other events or circumstances that may be beyond Delphi Technologies’ or the Company’s control. 
+
+For additional information about these and other factors, see the information under the caption “Risk Factors” in Delphi Technologies’ most recent Annual Report on Form 10-K filed with the SEC and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” filed on February 21, 2019, and the information under the caption “Risk Factors” in the Company’s most recent Annual Report on Form 10-K filed with the SEC and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” on February 19, 2019. 
+
+Delphi Technologies’ and the Company’s forward-looking statements speak only as of the date of this communication or as of the date they are made. Delphi Technologies and the Company each disclaim any intent or obligation to update or revise any “forward looking statement” made in this communication to reflect changed assumptions, the occurrence of unanticipated events or changes to future operating results over time, except as may be required by law. All subsequent written and oral forward-looking statements attributable to Delphi Technologies, the Company or their respective directors, executive officers or any person acting on behalf of any of them are expressly qualified in their entirety by this paragraph. 
+
+General 
+
+The release, publication or distribution of this communication in or into certain jurisdictions may be restricted by the laws of those jurisdictions. Accordingly, copies of this communication and all other documents relating to the proposed Transaction are not being, and must not be, released, published, mailed or otherwise forwarded, distributed or sent in, into or from any such jurisdictions. Persons receiving such documents (including, without limitation, nominees, trustees and custodians) should observe these restrictions. Failure to do so may constitute a violation of the securities laws of any such jurisdiction. To the fullest extent permitted by applicable law, the companies involved in the proposed Transaction disclaim any responsibility or liability for the violations of any such restrictions by any person. 
+
+Any response in relation to the proposed Transaction should be made only on the basis of the information contained in the proxy statement and other relevant documents. The Delphi Shareholders are advised to read carefully the formal documentation in relation to the proposed Transaction once the proxy statement and other relevant documents have been dispatched. [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX [DATA_TABLE_REMOVED] 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED]

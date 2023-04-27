@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001274494",
+    "sec_company_name": "FIRST SOLAR, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150224",
+    "sec_filing_date": "20150224",
+    "sec_changed_date": "20150224",
+    "sec_accepted_date": "20150224161222",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1274494/000127449415000004/0001274494-15-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1274494/000127449415000004/0001274494-15-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\FSLR_0001274494_8K_20150224_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "22883 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2526,
+    "endpoints": [
+        "8-K Financial Results Q4 2014   ",
+        "5"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "FSLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\FSLR_0001274494_8K_20150224_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:23:07.575621"
+}

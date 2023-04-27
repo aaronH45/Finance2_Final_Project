@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000016918",
+    "sec_company_name": "CONSTELLATION BRANDS, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180129",
+    "sec_filing_date": "20180130",
+    "sec_changed_date": "20180129",
+    "sec_accepted_date": "20180129184814",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/16918/000001691818000014/0000016918-18-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/16918/000001691818000014/0000016918-18-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\STZ_0000016918_EX991_20180129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9466 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3573,
+    "endpoints": [
+        "Exhibit   ",
+        "This news release contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Statements which are not historical facts and relate to future plans, events or performance are forward-looking statements that are based upon management’s current expectations and are subject to risks and uncertainties. Detailed information regarding risk factors with respect to the company and the offering are included in the company’s filings with the SEC, including the prospectus and prospectus supplement for the offering."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\STZ_0000016918_EX991_20180129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:29:35.972929"
+}

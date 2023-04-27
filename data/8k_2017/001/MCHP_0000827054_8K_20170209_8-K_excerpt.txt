@@ -1,0 +1,125 @@
+Form 8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+PURSUANT TO SECTION 13 OR 15(d)  
+
+OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+Date of Report (Date of earliest event reported)  
+
+February 9, 2017  
+
+MICROCHIP TECHNOLOGY INCORPORATED  
+
+(Exact Name Of Registrant As Specified In Its Charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+2355 West Chandler Boulevard, Chandler, Arizona 85224-6199  
+
+(Address of Principal Executive Offices, Including Zip Code)  
+
+(480) 792-7200  
+
+(Registrant’s Telephone Number, Including Area Code)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+ Item 1.01. Entry into a Material Definitive Agreement.  
+
+Purchase Agreement  
+
+On February 9, 2017, Microchip Technology Incorporated (the “Company”) entered into a purchase agreement (the “Purchase Agreement”) with J.P. Morgan Securities LLC, Wells Fargo Securities, LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated, as representatives of the several initial purchasers named therein (collectively, the “Initial Purchasers”), to issue and sell $1.8 billion aggregate principal amount of the Company’s 1.625% Convertible Senior Subordinated Notes due 2027 (the “ 2027 Notes”) and $500 million aggregate principal amount of the Company’s Convertible Junior Subordinated Notes due 2037 (the “2037 Notes”, and together with the 2027 Notes, the “Notes”), for a total aggregate principal amount of $2.3 billion, in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”). The Notes will be issued and sold to the Initial Purchasers pursuant to an exemption from the registration requirements of the Securities Act afforded by Section 4(a)(2) of the Securities Act. In addition, the Company granted the Initial Purchasers a 30-day option to purchase up to an additional $270 million aggregate principal amount of the 2027 Notes and an additional $75 million aggregate principal amount of the 2037 Notes on the same terms and conditions to cover over-allotments, if any.  
+
+The Purchase Agreement includes customary representations, warranties and covenants by the Company and customary closing conditions. Under the terms of the Purchase Agreement, the Company has agreed to indemnify the Initial Purchasers against certain liabilities, including liabilities under the Securities Act.  
+
+Indentures  
+
+On February 15, 2017, the Company entered into an Indenture relating to the issuance of the 2027 Notes and an Indenture relating to the issuance of the 2037 Notes (collectively, the “Indentures”), each such Indenture by and between the Company and Wells Fargo Bank, National Association, as trustee (the “Trustee”). The 2027 Notes will bear interest at a rate of 1.625% per year, payable semi-annually on February 15 and August 15 of each year, beginning on August 15, 2017. The 2037 Notes will bear interest at a rate of 2.250% per year, payable semi-annually on February 15 and August 15 of each year, beginning on August 15, 2017. In addition, so long as the Company is not in default in the payment of interest on the 2037 Notes, the Company may defer payment of regular interest on the 2037 Notes (not including any additional interest the Company elects to pay as the sole remedy relating to any failure to comply with its reporting obligations pursuant to the Indenture relating to the issuance of the 2037 Notes, or payable by the Company if the 2037 Notes are not freely tradable as and when required by such Indenture) for a period not exceeding 10 consecutive semi-annual interest payment periods, during which time interest will continue to accrue on a compounded basis. The 2027 Notes will mature on February 15, 2027 unless earlier repurchased by the Company or converted pursuant to their terms, and the 2037 Notes will mature on February 15, 2037 unless earlier repurchased by the Company or converted pursuant to their terms.  
+
+The initial base conversion rate of the 2027 Notes is 9.8936 shares of the Company’s common stock, par value $0.001 per share (the “Common Stock”) per $1,000 principal amount of 2027 Notes (which is equivalent to an initial base conversion price of approximately $101.08 per share), and the initial base conversion rate of the 2037 Notes is 10.0703 shares of Common Stock per $1,000 principal amount of 2037 Notes (which is equivalent to an initial base conversion price of approximately $99.30 per share). If, during the relevant observation period for determining amounts due upon conversion, the daily volume weighted average price of the Common Stock exceeds the base conversion price on any given trading day, the conversion rate for such trading day will be determined by a formula resulting in the conversion rate for such day being increased. In no event will the conversion rate per $1,000 principal amount of (x) 2027 Notes or (y) 2037 Notes exceed 14.0984 shares of Common Stock (the “Maximum Conversion Rate”), subject to adjustment as provided in the relevant Indenture. The base conversion rate of a series will be subject to adjustment upon the occurrence of certain specified events but will not be adjusted for accrued and unpaid interest. In addition, upon the occurrence of a make-whole fundamental change (as defined in the Indentures), the Company will, in certain circumstances, increase the base conversion rate of a series by a number of additional shares for a holder that elects to convert its Notes of such series in connection with such make-whole fundamental change, subject to the Maximum Conversion Rate.  
+
+Prior to the close of business on the business day immediately preceding (x) November 15, 2026, in the case of the 2027 Notes and (y) November 15, 2036, in the case of the 2037 Notes, each series of Notes will be convertible only under the following circumstances: (1) during any fiscal quarter commencing after the fiscal quarter ending on June 30, 2017 (and only during such fiscal quarter), if the last reported sale price of the Common Stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on the last trading day of the immediately preceding fiscal quarter is greater than or equal to 130% of the base conversion price on each applicable trading day; (2) during the five business day period after any 10 consecutive trading day period (the “measurement period”) in which the trading price per $1,000 principal amount of Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price of the Common Stock and the conversion rate on each such trading day; or (3) upon the occurrence of specified corporate events. On or after November 15, 2026, in the case of the 2027 Notes, or November 15, 2036, in the case of the 2037 Notes, until the close of business on the second scheduled trading day immediately preceding the relevant maturity date, holders of the Notes may convert all or a portion of their Notes, at any time. Upon conversion, the Notes will be settled in cash, shares of the Common Stock or any combination thereof, at the Company’s option.  
+
+The Company may not redeem Notes of either series prior to the relevant maturity date and no sinking fund is provided for the Notes. Upon the occurrence of a fundamental change (as defined in the Indentures), holders may require the Company to purchase all or a portion of their Notes for cash at a price equal to 100% of the principal amount of the Notes to be purchased plus any accrued and unpaid interest to, including, in the case of the 2037 Notes, any deferred or compounded interest on such Notes, but excluding, the fundamental change purchase date.  
+
+The 2027 Notes are the Company’s general unsecured obligations that rank senior in right of payment to all of its indebtedness that is expressly subordinated in right of payment to the 2027 Notes (including the 2037 Notes and its outstanding 2.125% Junior Subordinated Convertible Debentures due 2037 (the “Existing Debentures”)). The 2037 Notes are the Company’s general unsecured subordinated obligations that rank junior to all of its indebtedness that is expressly senior in right of payment to the 2037 Notes (including the 2027 Notes and its outstanding 1.625% Convertible Senior Subordinated Notes due 2025). Each series of Notes will also be effectively junior in right of payment to any of its secured indebtedness to the extent of the value of the assets securing such indebtedness, and will be structurally subordinated to any debt or other liabilities (including trade payables) of the Company’s subsidiaries. The following events are considered “events of default” with respect to a series of Notes, which may result in the acceleration of the maturity of Notes of such series:  
+
+(1) the Company defaults in any payment of interest on any Note of such series when due and payable and the default continues for a period of 30 days, whether or not prohibited by the subordination provisions of the relevant Indenture (provided that a valid extension of the interest payment period for the 2037 Notes by the Company during an extension period pursuant to the Indenture governing the 2037 Notes shall not constitute a default in the payment of interest for this purpose);  
+
+(2) the Company defaults in the payment of principal of any Note of such series when due and payable at the stated maturity, upon any required repurchase, upon declaration of acceleration or otherwise, whether or not prohibited by the subordination provisions of the relevant Indenture;  
+
+(3) failure by the Company to comply with its obligation to convert the Notes of such series in accordance with the relevant Indenture upon exercise of a holder’s conversion right and such failure continues for three business days;  
+
+(4) failure by the Company to give a fundamental change notice, notice of a make-whole fundamental change, or notice of a specified corporate transaction, in each case when due with respect to such series of Notes;  
+
+(5) failure by the Company to comply with its obligations under the relevant Indenture with respect to certain consolidations, mergers and sales of assets of the Company;  
+
+(6) failure by the Company to comply with any of its other agreements contained in the Notes of such series or relevant Indenture for 60 days after written notice from the trustee or the holders of at least 25% in principal amount of the Notes of such series then outstanding has been received;  
+
+(7) default by the Company or any of its significant subsidiaries (as defined in the relevant Indenture) with respect to any mortgage, agreement or other instrument under which there may be outstanding, or by which  
+
+ there may be secured or evidenced, any indebtedness for money borrowed in excess of $50.0 million (or its foreign currency equivalent) in the aggregate of the Company and/or any such subsidiary, whether such indebtedness now exists or shall hereafter be created (i) resulting in such indebtedness becoming or being declared due and payable or (ii) constituting a failure to pay the principal of any such indebtedness when due and payable at its stated maturity, upon required repurchase, upon declaration of acceleration or otherwise, and in the cases of clauses (i) and (ii), such acceleration shall not have been rescinded or annulled or such failure to pay or default shall not have been cured or waived, or such indebtedness is not paid or discharged, as the case may be, within 30 days after written notice to the Company by the trustee or to the Company and the trustee by holders of at least 25% in aggregate principal amount of Notes then outstanding in accordance with the relevant Indenture; or  
+
+(8) certain events of bankruptcy, insolvency, or reorganization of the Company or any of its significant subsidiaries (as defined in the relevant Indenture).  
+
+If such an event of default, other than an event of default described in clause (8) above with respect to the Company, occurs and is continuing, the Trustee by notice to the Company, or the holders of at least 25% in principal amount of the outstanding Notes of such series, as applicable, by notice to the Company and the Trustee, may, and the Trustee at the request of such holders shall, declare 100% of the principal of and accrued and unpaid interest, if any, on all the Notes of such series to be due and payable. In case of certain events of bankruptcy, insolvency or reorganization involving the Company, 100% of the principal of and accrued and unpaid interest on the Notes of such series will automatically become due and payable. Upon such acceleration, such principal and accrued and unpaid interest on the Notes of such series, if any, will be due and payable immediately.  
+
+The summary of the foregoing transactions is qualified in its entirety by reference to the text of the Indenture relating to the issuance of the 2027 Notes, the Form of Global 1.625% Convertible Senior Subordinated Note due 2027, the Indenture relating to the issuance of the 2037 Notes and the Form of Global 2.250% Convertible Junior Subordinated Notes due 2037, which are filed as Exhibits 4.1, 4.2, 4.3 and 4.4, respectively, hereto and are incorporated herein by reference.  
+
+ Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information set forth in Item 1.01 above is incorporated by reference into this Item 2.03.  
+
+ Item 3.02. Unregistered Sales of Equity Securities.  
+
+The information set forth in Item 1.01 above and Item 8.01 below under the heading “Note Exchanges” is incorporated by reference into this Item 3.02.  
+
+ Item 8.01. Other Events.  
+
+Press Release  
+
+On February 10, 2017, the Company issued a press release announcing that the offering of the Notes had priced. A copy of this press release is filed herewith as Exhibit 99.1 and is incorporated herein by reference.  
+
+Note Exchanges  
+
+On February 9, 2017, the Company entered into separate privately negotiated agreements with certain holders of its Existing Debentures to exchange in private placement transactions pursuant to the exemption from the registration requirements of the Securities Act afforded by Section 4(a)(2) of the Securities Act (the “Exchange Transactions”) (x) approximately $431.3 million aggregate principal amount of Existing Debentures for approximately $431.3 million in cash in respect of the principal amount exchanged, excluding any accrued and unpaid interest thereon and a cash premium paid to holders of the Existing Debentures, and (y) an aggregate of 11,997,923 shares of Common Stock. Each holder of Existing Debentures participating in the Exchange Transaction represented to the Company that it was either an institutional “accredited investor” within the meaning of Rule 501(a)(1), (2), (3) or (7) of Regulation D promulgated under the Securities Act or a “qualified institutional buyer” within the meaning of Rule 144A promulgated under the Securities Act.  
+
+The Company anticipates that the closings of the Exchange Transactions will occur on or about February 15, 2017.  
+
+Following the closings of the Exchange Transactions, the Company anticipates approximately $143.7 million aggregate principal amount of the Existing Debentures will remain outstanding.  
+
+This Current Report on Form 8-K does not constitute an offer to sell, or a solicitation of an offer to buy, any security and shall not constitute an offer, solicitation or sale in any jurisdiction in which such offering would be unlawful.  
+
+ Item 9.01. Financial Statements and Exhibits.  
+
+(d) Exhibits.  
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  [DATA_TABLE_REMOVED]

@@ -1,0 +1,63 @@
+xml version="1.0" ? syk-20220222
+
+false000031076400003107642022-02-222022-02-220000310764us-gaap:CommonStockMember2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes1.125Due2023Member2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes0.250Due2024Member2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes2.125Due2027Member2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes0.750Due2029Member2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes2.625Due2030Member2022-02-222022-02-220000310764syk:SeniorUnsecuredNotes1.000Due2031Member2022-02-222022-02-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 22, 2022 
+
+STRYKER CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ Emerging Growth Company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 1.01ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT
+
+On February 22, 2022 (the “Closing Date”), Stryker Corporation (the “Company”) entered into a Term Loan Agreement with various lenders and Wells Fargo Bank, National Association, as administrative agent (the “Term Loan Agreement”). The Term Loan Agreement provides for the following terms: (1) an aggregate principal amount of commitments of $1.5 billion, (2) a maturity date of February 22, 2025 and (3) a leverage ratio financial covenant that provides for a maximum permitted leverage ratio of 3.75:1 at the end of any fiscal quarter, with an acquisition holiday no more than twice during the term of the Term Loan Agreement that permits the Company to elect to increase the maximum permitted leverage ratio by 1.0 to 4.75:1 for a period of four consecutive fiscal quarters, with the maximum permitted leverage ratio then stepping down by 0.25:1 for each of the next four quarters until it reaches 3.75:1, in connection with the consummation of certain material acquisitions. The representations and warranties, covenants and events of default contained in the Term Loan Agreement are substantially similar to those contained in the Company’s existing credit facility. Loans under the Term Loan Agreement bear interest, at the Company’s option, at either a Base Rate or Adjusted Term SOFR, each as defined in the Term Loan Agreement, plus, solely in the case of loans based on Adjusted Term SOFR, an applicable margin ranging from 62.5 to 82.5 basis points. The applicable margin is dependent on the Company’s credit ratings. On the Closing Date, the Company borrowed the full $1.5 billion available under the Term Loan Agreement.
+
+The foregoing description of the Term Loan Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of such document, which is filed as Exhibit 10.1 hereto and incorporated herein by reference. 
+
+ITEM 2.03CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN OFF-BALANCE SHEET ARRANGEMENT OF A REGISTRANT
+
+The information set forth in Item 1.01 above is hereby incorporated by reference into this Item 2.03.
+
+ITEM 9.01FINANCIAL STATEMENTS AND EXHIBITS
+
+[DATA_TABLE_REMOVED]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

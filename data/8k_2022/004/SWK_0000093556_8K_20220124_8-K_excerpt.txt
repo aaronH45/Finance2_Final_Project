@@ -1,0 +1,91 @@
+xml version="1.0" encoding="utf-8" ?   8-K   
+
+   false 0000093556        0000093556   2022-01-24 2022-01-24     0000093556  swk:CommonStock2.50ParValuePerShareMember    2022-01-24 2022-01-24     0000093556  us-gaap:CapitalUnitsMember    2022-01-24 2022-01-24      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of Earliest Event Reported): January 26, 2022 (January 24, 2022) 
+
+ Stanley Black & Decker, Inc.  
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number including area code: (860) 225-5111 
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 2.02  
+
+Results of Operations and Financial Condition.  
+
+The information included in Item 4.02 below is incorporated herein by reference.  
+
+ Item 4.02  
+
+Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review.  
+
+(a) In connection with comments received from the Securities and Exchange Commission (the “SEC”) related to Stanley Black & Decker, Inc.’s (the “Company”) Annual Report on Form 10-K for the fiscal year ended January 2, 2021, management re-evaluated its accounting for the Equity Units that were issued in May 2017 and November 2019. Prior to the quarterly period ending October 2, 2021, the Company applied the treasury stock method in determining the amount of shares underlying the forward stock purchase contracts to include in the denominator of its diluted earnings per share calculation. In addition, the Company had concluded at the time of issuance that the forward stock purchase contracts and the convertible preferred stock should be accounted for as two units of account. Upon further evaluation, and as disclosed in the Company’s Quarterly Report on Form 10-Q for the quarterly and year-to-date periods ended October 2, 2021 (the “Q3 2021 Form 10-Q”) and the Company’s Current Report on Form 8-K, each filed on November 12, 2021, the Company determined that the shares underlying the forward stock purchase contracts should be reflected in the denominator of diluted earnings per share utilizing the if-converted method on a prospective basis. The Company also determined that due to the economic linkage between the forward stock purchase contracts and the convertible preferred stock, the instruments should be accounted for as one unit of account.  
+
+On January 24, 2022, the Audit Committee of the board of directors of the Company, in consultation with management of the Company, concluded that the previously issued (i) consolidated financial statements as of and for the three-year period ended January 2, 2021 included in the Company’s Annual Report on Form 10-K, filed with the SEC on February 18, 2021, (ii) unaudited interim financial statements included in the Company’s Quarterly Report on Form 10-Q for the period ended April 3, 2021, filed with the SEC on April 28, 2021, (iii) unaudited interim financial statements included in the Company’s Quarterly Report on Form 10-Q for the period ended July 3, 2021, filed with the SEC on July 27, 2021 and, (iv) unaudited interim financial statements included in the Q3 2021 Form 10-Q (collectively, the “Affected Periods”) should be restated with respect to the Equity Units to correct the error related to the unit of account and the error related to the diluted earnings per share amounts utilizing the if-converted method. Considering such restatement, the financial statements for the Affected Periods should no longer be relied upon.  
+
+The foregoing changes will not change the Company’s historical net earnings and does not affect compliance with the financial covenants contained in the Company’s outstanding debt instruments or compliance with any other agreement of the Company or its subsidiaries.  
+
+The Company plans to restate the financial statements as of and for the three-year period ended January 2, 2021 in an amendment to the 2020 Form 10-K and the unaudited interim financial statements as of April 3, 2021, July 3, 2021, and October 2, 2021 in an amendment to the Q3 2021 Form 10-Q, both to be filed with the SEC.  
+
+As previously disclosed and after giving effect to this change, the Company’s diluted GAAP earnings per share, as disclosed in its press release announcing its third quarter 2021 results issued on October 28, 2021, would have been $2.51 and $8.17 for the third quarter and year-to-date periods, respectively. Excluding acquisition-related and other charges of $0.20 per diluted share and $0.61 per diluted share, non-GAAP diluted earnings per share would have been $2.71 and $8.78 for the third quarter and year-to-date periods, respectively. As a result, diluted GAAP earnings per share for the third quarter 2021 quarter-to-date and year-to-date periods is reduced by $0.05 and $0.19, respectively, and non-GAAP diluted earnings per share for the third quarter 2021 quarter-to-date and year-to-date periods is reduced by $0.06 and $0.20, respectively.  
+
+After giving effect to this change, the Company’s diluted GAAP earnings per share would have been $7.46, $6.11 and $3.85 for the fiscal years ended January 2, 2021, December 28, 2019 and December 29, 2018, respectively. Excluding acquisition-related and other charges of $1.22 per diluted share, $1.98 per diluted share and $4.03 per diluted share, non-GAAP diluted earnings per share would have been $8.68, $8.09 and $7.88 for the fiscal years ended January 2, 2021, December 28, 2019 and December 29, 2018, respectively. As a result, diluted GAAP earnings per share for the fiscal years ended January 2, 2021, December 28, 2019 and December 29, 2018 is reduced by $0.31, $0.24 and $0.14, respectively, and non-GAAP diluted earnings per share for the fiscal years ended January 2, 2021, December 28, 2019 and December 29, 2018 is reduced by $0.36, $0.31 and $0.27, respectively.  
+
+In addition, the Company’s management has concluded that there were material weaknesses in internal control over financial reporting relating to each of the errors described above during the Affected Periods. The Company’s remediation plan with respect to such material weaknesses will be described in the amendments to the 2020 Form 10-K and the Q3 2021 Form 10-Q.  
+
+The Audit Committee discussed the matters disclosed in this Current Report on Form 8-K with the Company’s independent registered public accounting firm, Ernst & Young LLP.   
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+ [DATA_TABLE_REMOVED] 
+
+Dated: January 26, 2022

@@ -1,0 +1,101 @@
+xml version="1.0" encoding="utf-8" ?   8-K   
+
+   WESTERN DIGITAL CORP false 0000106040        0000106040   2022-01-06 2022-01-06      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, DC 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): January 6, 2022 
+
+ Western Digital Corporation  
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+(408) 717-6000 
+
+(Registrant’s Telephone Number, Including Area Code) 
+
+Not applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+   ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+   ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+   ☐  
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+   ☐  
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement  
+
+On January 7, 2022, Western Digital Corporation, a Delaware corporation (“Western Digital”), entered into a restatement agreement (“Restatement Agreement”) among Western Digital, JPMorgan Chase Bank, N.A., as administrative agent (the “Agent”), and the lenders party thereto.  
+
+The Restatement Agreement amends and restates the Loan Agreement, dated as of April 29, 2016, as amended by Amendment No. 1, dated as of August 17, 2016, Amendment No. 2, dated as of September 22, 2016, Amendment No. 3, dated as of March 14, 2017, Amendment No. 4, dated as of March 23, 2017, Amendment No. 5, dated as of November 8, 2017, Amendment No. 6, dated as of November 29, 2017, Amendment No. 7, dated as of February 27, 2018, Amendment No. 8, dated as of May 15, 2018, Amendment No. 9, dated as of April 29, 2019 and Amendment No. 10, dated as of July 2, 2020 (as further amended, supplemented, amended and restated or otherwise modified from time to time including by the Restatement Agreement, the “Loan Agreement”) among Western Digital, the lenders party thereto from time to time and the Agent to provide for, among other things, (i) the prepayment of all outstanding term A-1 loans using the gross cash proceeds of new unsecured term A-2 loans due 2027 in a principal amount of $3,000,000,000 (the “Term A-2 Loans”) and cash on hand, (ii) a replacement of the existing $2.25 billion revolving credit facility maturing in 2023 with a new unsecured 5-year $2.25 billion revolving credit facility maturing in 2027 (the “2027 Revolving Facility”) and (iii) additional covenant flexibility and other modifications. The obligations under the Loan Agreement will be the senior unsecured obligations of Western Digital and will not benefit from any collateral or subsidiary guarantees.  
+
+The Term A-2 Loans bear interest, at Western Digital’s option, at a per annum rate equal to either (x) the Adjusted Term SOFR Rate (as defined in the Loan Agreement) plus an applicable margin varying from 1.125% to 2.000% or (y) a base rate plus an applicable margin varying from 0.125% to 1.000%, in each case depending on the corporate family ratings of Western Digital from at least two of Standard & Poor’s Ratings Services (“S&P”), Moody’s Investors Service, Inc. (“Moody’s”) and Fitch, Inc. (“Fitch”), with an initial interest rate of Adjusted Term SOFR plus 1.375%. The Term A-2 Loans will amortize in equal quarterly installments of (i) 0.625% per quarter during the first through the fourth full fiscal quarters following the date of the Restatement Agreement (the “Restatement Effective Date”) and (ii) 1.25% per quarter for the fifth through the nineteenth full fiscal quarters following the Restatement Effective Date, with the remaining balance payable on the date that is five years after the Restatement Effective Date.  
+
+Loans under the 2027 Revolving Facility bear interest at a per annum rate, at Western Digital’s option, equal to either (x) the Adjusted Term SOFR Rate (as defined in the Loan Agreement) plus an applicable margin varying from 1.125% to 2.000% or (y) a base rate plus an applicable margin varying from 0.125% to 1.000%, in each case depending on the corporate family ratings of Western Digital from at least two of S&P, Moody’s and Fitch, with an initial rate of Adjusted Term SOFR plus 1.375%. Western Digital will also pay an unused commitment fee on the 2027 Revolving Facility ranging from 0.120% to 0.350% based on the corporate family ratings of Western Digital from at least two of S&P, Moody’s and Fitch, with an initial unused commitment fee of 0.200%.  
+
+The Term A-2 Loans and the 2027 Revolving Facility will be subject to a financial maintenance covenant requiring Western Digital to maintain a maximum total leverage ratio (with step-ups in connection with certain qualified acquisitions).  
+
+The foregoing description is only a summary of certain provisions of the Restatement Agreement and is qualified in its entirety by the terms of the Restatement Agreement, a copy of which will be filed as an exhibit to the applicable quarterly report on Form 10-Q filed by Western Digital.  
+
+ Item 2.03  
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant  
+
+The information set forth under Item 1.01 above regarding the Restatement Agreement is incorporated herein by reference.  
+
+ Item 7.01  
+
+Regulation FD Disclosure  
+
+Reference is made to (i) the Indenture for the 1.50% Convertible Senior Notes due 2024 (the “2024 Notes”), dated as of February 13, 2018, by and among Western Digital, U.S. Bank National Association (“U.S. Bank”), as trustee, and the guarantors named therein (the “2024 Indenture”) and (ii) the Indenture for the 4.750% Senior Notes due 2026 (the “2026 Notes,” and together with the 2024 Notes, the “Notes”), dated as of February 13, 2018, by and among Western Digital, U.S. Bank, as trustee, and the guarantors named therein (the “2026 Indenture,” and, together with the 2024 Indenture, the “Indentures”).   
+
+On January 6, 2022, Western Digital delivered officer certificates to U.S. Bank, in its capacity as trustee under the Indentures, to effectuate the release of the guarantors from their guarantee of Western Digital’s obligations with respect to the Notes (the “Guarantee Release”). The Guarantee Release was effective immediately without the taking of any further action by Western Digital. After giving effect to the Guarantee Release, the obligations with respect to the Notes are the senior unsecured obligations of Western Digital and do not benefit from any subsidiary guarantees.  
+
+In accordance with General Instruction B.2 of Form 8-K, the information in this Item 7.01 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.   
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

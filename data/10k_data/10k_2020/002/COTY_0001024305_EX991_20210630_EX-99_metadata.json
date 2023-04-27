@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001024305",
+    "sec_company_name": "COTY INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20210630",
+    "sec_filing_date": "20210924",
+    "sec_changed_date": "20210924",
+    "sec_accepted_date": "20210924161945",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1024305/000102430521000074/0001024305-21-000074-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1024305/000102430521000074/0001024305-21-000074.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\002\COTY_0001024305_EX991_20210630_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "496291 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 53949,
+    "endpoints": [
+        "Document",
+        "The Company, through its subsidiaries, has entered into long-term loans with a limited number of members of the Company’s Senior Management. As of June 30, 2021, the balance of such loans outstanding was $4,825 and was included in Other non-current assets in the Company's Consolidated Balance Sheet."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "COTY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\002\COTY_0001024305_EX991_20210630_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:05:52.893580"
+}

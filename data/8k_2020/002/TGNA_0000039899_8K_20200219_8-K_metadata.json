@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000039899",
+    "sec_company_name": "TEGNA INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200219",
+    "sec_filing_date": "20200219",
+    "sec_changed_date": "20200219",
+    "sec_accepted_date": "20200219165340",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/39899/000119312520042043/0001193125-20-042043-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/39899/000119312520042043/0001193125-20-042043.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\TGNA_0000039899_8K_20200219_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "33551 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 6434,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K    ",
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TGNA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\TGNA_0000039899_8K_20200219_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:41:55.606622"
+}

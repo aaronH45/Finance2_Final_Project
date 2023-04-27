@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001043277",
+    "sec_company_name": "C. H. ROBINSON WORLDWIDE, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200128",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128161726",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1043277/000104327720000004/0001043277-20-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1043277/000104327720000004/0001043277-20-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\CHRW_0001043277_8K_20200128_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "45969 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3033,
+    "endpoints": [
+        "xml version='1.0' ? chrw-20200128",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "CHRW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\CHRW_0001043277_8K_20200128_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:47:24.351735"
+}

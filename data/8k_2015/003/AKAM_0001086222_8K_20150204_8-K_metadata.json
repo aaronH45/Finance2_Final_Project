@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001086222",
+    "sec_company_name": "AKAMAI TECHNOLOGIES INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150204",
+    "sec_filing_date": "20150206",
+    "sec_changed_date": "20150206",
+    "sec_accepted_date": "20150206164935",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1086222/000108622215000025/0001086222-15-000025-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1086222/000108622215000025/0001086222-15-000025.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\AKAM_0001086222_8K_20150204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "36120 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 8155,
+    "endpoints": [
+        "From 8K 2015 Management Comp   ",
+        "Exhibit 99.1Form of Performance-Based RSU Grant Agreement Under Akamai Technologies, Inc. 2013 Stock Incentive Plan"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AKAM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\AKAM_0001086222_8K_20150204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:24:37.640588"
+}

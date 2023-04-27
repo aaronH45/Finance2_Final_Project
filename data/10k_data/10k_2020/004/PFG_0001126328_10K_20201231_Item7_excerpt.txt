@@ -1,0 +1,920 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following analysis discusses our financial condition as of December 31, 2020, compared with December 31, 2019, our consolidated results of operations for the years ended December 31, 2020 and 2019 and, where appropriate, factors that may affect our future financial performance. The discussion should be read in conjunction with our audited consolidated financial statements and the related notes to the financial statements and the other financial information included elsewhere in this Form 10-K.
+
+For information and analysis relating to our financial condition and consolidated results of operations as of and for the year ended December 31, 2018, as well as for the year ended December 31, 2019 compared with the year ended December 31, 2018, see Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2019.
+
+Forward-Looking Information
+
+Our narrative analysis below contains forward-looking statements intended to enhance the reader’s ability to assess our future financial performance. Forward-looking statements include, but are not limited to, statements that represent our beliefs concerning future operations, strategies, financial results or other developments, and contain words and phrases such as “anticipate,” “believe,” “plan,” “estimate,” “expect,” “intend” and similar expressions. Forward-looking statements are made based upon management’s current expectations and beliefs concerning future developments and their potential effects on us. Such forward-looking statements are not guarantees of future performance.
+
+Actual results may differ materially from those included in the forward-looking statements as a result of risks and uncertainties. Those risks and uncertainties include, but are not limited to, the risk factors listed in Item 1A. “Risk Factors.”
+
+Overview
+
+We provide financial products and services through the following reportable segments:
+
+●Retirement and Income Solutions;
+
+●Principal Global Investors;
+
+●Principal International and
+
+●U.S. Insurance Solutions.
+
+We also have a Corporate segment, which consists of the assets and activities that have not been allocated to any other segment. See Item 1. “Business” for a description of our reportable segments.
+
+Economic Factors and Trends
+
+Despite a decline in the equity markets in early 2020, a return to positive market performance led to increases in account values in our Retirement and Income Solutions segment and AUM managed by our Principal Global Investors segment. Since account values and AUM are the base by which these businesses generate revenues, market performance volatility may impact our revenues in future quarters.
+
+In our Principal International segment, local currency AUM is a key indicator of earnings growth. While local currency AUM increased for the segment, the financial results were negatively impacted by foreign currency fluctuations and the unfavorable relative market performance on our required regulatory investments in our Latin America business.
+
+In our U.S. Insurance Solutions segment, premium and fee growth is a key indicator of earnings growth. Rising unemployment as a result of the COVID-19 pandemic may continue to impact new sales in our businesses and reduce in-group growth in our Specialty Benefits insurance business in the short-term.
+
+See Part I, Item 1A, “Risk Factors,” for information on risks associated with the COVID-19 pandemic and the resulting financial market impacts.
+
+Profitability
+
+Our profitability depends in large part upon our:
+
+●amount of AUM;
+
+43 
+●ability to manage the difference between the investment income we earn and the interest we credit to policyholders;
+
+●ability to generate fee revenues by providing trust and custody,administrative and investment management services;
+
+●ability to price our insurance products at a level that enables us to earn a margin over the cost of providing benefits and the related expenses;
+
+●ability to manage our investment portfolio to maximize investment returns and minimize risks such as interest rate changes or defaults or impairments of invested assets;
+
+●ability to effectively hedge fluctuations in foreign currency to U.S. dollar exchange rates on certain transactions and
+
+●ability to manage our operating expenses.
+
+Critical Accounting Policies and Estimates
+
+The increasing complexity of the business environment and applicable authoritative accounting guidance requires us to closely monitor our accounting policies. Our significant accounting policies are described in Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 1, Nature of Operations and Significant Accounting Policies.” We have identified critical accounting policies that are complex and require significant judgment and estimates about matters that are inherently uncertain. A summary of our critical accounting policies is intended to enhance the reader’s ability to assess our financial condition and results of operations and the potential volatility due to changes in estimates and changes in guidance. The identification, selection and disclosure of critical accounting estimates and policies have been discussed with the Audit Committee of the Board of Directors.
+
+Valuation and Allowance for Credit Loss of Fixed Income Investments
+
+Fixed Maturities. Fixed maturities include bonds, asset-backed securities (“ABS”), redeemable preferred stock and certain non-redeemable preferred securities. We classify our fixed maturities as either AFS or trading and, accordingly, carry them at fair value in the consolidated statements of financial position. Volatility in net income can result from changes in fair value of fixed maturities classified as trading. Volatility in other comprehensive income can result from changes in fair value of fixed maturities classified as AFS.
+
+We measure the fair value of our financial assets and liabilities based on assumptions used by market participants in pricing the asset or liability, which may include inherent risk, restrictions on the sale or use of an asset, or nonperformance risk, including our own credit risk. For additional details concerning the methodologies, assumptions and inputs utilized see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” under the caption, “Determination of Fair Value.”
+
+The fair values of our public fixed maturities are primarily based on market prices from third party pricing vendors. We have regular interactions with these vendors to ensure we understand their pricing methodologies and to confirm they are utilizing observable market information. In addition, 8% of our invested asset portfolio as of December 31, 2020, was invested in privately placed fixed maturities with no readily available market quotes to determine the fair market value. The majority of these assets are valued using a matrix pricing valuation approach that utilizes observable market inputs. In the matrix approach, securities are grouped into pricing categories that vary by sector, rating and average life. Each pricing category is assigned a risk spread based on observable public market data. The expected cash flows of the security are then discounted back at the current Treasury curve plus the appropriate risk spread. Although the matrix valuation approach provides a fair valuation of each pricing category, the valuation of an individual security within each pricing category may be impacted by company specific factors. This excludes privately placed securities subject to Rule 144A of the Securities Act of 1933 that are primarily based on market prices from third party pricing vendors, similar to public fixed maturities.
+
+If we are unable to price a fixed maturity security using prices from third party pricing vendors or other sources specific to the asset class, we may obtain a broker quote or utilize an internal pricing model specific to the asset utilizing relevant market information, to the extent available and where at least one significant unobservable input is utilized. These are reflected in Level 3 in the fair value hierarchy and can include fixed maturities across all asset classes. As of December 31, 2020, less than 1% of our total fixed maturities were Level 3 securities valued using internal pricing models. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” for further discussion.
+
+The $3,213.7 million increase in net unrealized gains from U.S. investment operations for the year ended December 31, 2020, can be attributed to an approximate 97 basis point decrease in interest rates, partially offset by widening of credit spreads. For additional information about interest rate risk see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk.”
+
+44 
+We have a process in place to identify fixed maturity securities that could potentially require an allowance for credit loss. This process involves monitoring market events that could impact issuers’ credit ratings, business climate, management changes, litigation and government actions and other similar factors. This process also involves monitoring late payments, pricing levels, downgrades by rating agencies, key financial ratios, financial statements, revenue forecasts and cash flow projections as indicators of credit issues.
+
+Each reporting period, all securities in an unrealized loss position are reviewed to determine whether a decline in value is due to credit. Relevant facts and circumstances considered include: (1) the extent the fair value is below cost; (2) the reasons for the decline in value; (3) the financial position and access to capital of the issuer, including the current and future impact of any specific events and (4) for structured securities, the adequacy of the expected cash flows. To the extent we determine an unrealized loss is due to credit, an allowance for credit loss is recognized through a reduction to net income. See item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Allowance for Credit Loss” for further discussion.
+
+A number of significant risks and uncertainties are inherent in the process of monitoring credit losses and determining the allowance for credit loss. These risks and uncertainties include: (1) the risk that our assessment of an issuer's ability to meet all of its contractual obligations will change based on changes in the credit characteristics of that issuer; (2) the risk that the economic outlook will be worse than expected or have more of an impact on the issuer than anticipated; (3) the risk that our investment professionals are making decisions based on fraudulent or misstated information in the financial statements provided by issuers and (4) the risk that new information obtained by us or changes in other facts and circumstances lead us to change our intent to not sell the security prior to recovery of its amortized cost. Any of these situations could result in a charge to net income in a future period. As of December 31, 2020, we had $7,308.5 million in AFS fixed maturities with gross unrealized losses totaling $206.2 million. Included in the gross unrealized losses are losses attributable to both movements in market interest rates as well as movement in credit spreads.
+
+Prior to the implementation of authoritative guidance in 2020, fixed maturities classified as AFS were subject to impairment reviews. To the extent we determined a security was deemed to be other than temporarily impaired, an impairment loss was recognized. See item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Other-Than-Temporary Impairments” for further discussion.
+
+Mortgage Loans. Mortgage loans consist primarily of commercial mortgage loans on real estate. Commercial mortgage loans on real estate are generally reported at cost adjusted for amortization of premiums and accrual of discounts, computed using the interest method and net of valuation allowances. We establish a valuation allowance for the risk of credit losses inherent in our mortgage loans, which is maintained at a level believed adequate by management to absorb estimated expected credit losses. The valuation allowance is based on amortized cost excluding accrued interest receivable and includes reserves for pools of financing receivables with similar risk characteristics. Amounts on loans deemed to be uncollectible are charged off and removed from the valuation allowance. The change in the valuation allowance provision is included in net realized capital gains (losses) on our consolidated statements of operations.
+
+Prior to the implementation of authoritative guidance in 2020, the valuation allowance for mortgage loans was based on either individual or collective evaluation. For more detailed information concerning mortgage loan valuation allowances, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Financing Receivables Valuation Allowance.”
+
+45 
+Derivatives
+
+We use derivatives primarily to hedge or reduce exposure to market risks. The fair values of exchange-traded derivatives are determined through quoted market prices. Exchange-traded derivatives include futures that are settled daily, which reduces their fair value in the consolidated statements of financial position. The fair values of privately negotiated contracts, which are usually referred to as over-the-counter (“OTC”) derivatives, that are cleared through centralized clearinghouses are determined through market prices published by the clearinghouses. Variation margin associated with OTC cleared derivatives is settled daily, which reduces their fair value in the consolidated statements of financial position. The fair values of non-cleared OTC derivatives are determined using either pricing valuation models that utilize market observable inputs or broker quotes. On an absolute fair value basis as of December 31, 2020, 99% of our OTC derivative assets and liabilities were valued using pricing valuation models using market observable data and the remaining 1% using broker quotes. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” for further discussion. The fair values of our derivative instruments can be impacted by changes in interest rates, foreign exchange rates, credit spreads, equity indices and volatility, as well as other contributing factors. For additional information see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk.”
+
+We also issue certain annuity, universal life and other contracts that include embedded derivatives that have been bifurcated from the host contract. They are valued using a combination of historical data and actuarial judgment. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” for further discussion. We include our assumption for own nonperformance risk in the valuation of these embedded derivatives. As our credit spreads widen or tighten, the fair value of the embedded derivative liabilities decrease or increase, leading to an increase or decrease in net income. If the current market credit spreads reflecting our own creditworthiness move to zero (tighten), the reduction to net income would be approximately $220.0 million, net of DAC and income taxes, based on December 31, 2020, reported amounts. In addition, the policyholder behavior assumptions used in the valuation of embedded derivatives include risk margins, which increase the fair value of the embedded derivative liabilities.
+
+The accounting for derivatives is complex and interpretations of the applicable accounting standards continue to evolve. Judgment is applied in determining the availability and application of hedge accounting designations and the appropriate accounting treatment. Judgment and estimates are used to determine the fair value of some of our derivatives. Volatility in net income can result from changes in fair value of derivatives that do not qualify or are not designated for hedge accounting and changes in fair value of embedded derivatives.
+
+Deferred Acquisition Costs and Other Actuarial Balances
+
+Incremental direct costs of contract acquisition as well as certain costs directly related to acquisition activities (underwriting, policy issuance and processing, medical and inspection and sales force contract selling) for the successful acquisition of new and renewal insurance policies and investment contract business are capitalized to the extent recoverable. Maintenance costs and acquisition costs that are not deferrable are charged to net income as incurred.
+
+Amortization Based on Estimated Gross Profits. DAC for universal life-type insurance contracts and certain investment contracts are generally amortized over the expected lifetime of the contracts in relation to estimated gross profits (“EGPs”). In addition to DAC, the following actuarial balances are also amortized in relation to EGPs.
+
+●Sales inducement asset — Sales inducements are amounts that are credited to the contractholder’s account balance as an inducement to purchase the contract. Like DAC, the cost of the sales inducement is capitalized and amortized over the expected life of the contract, in proportion to EGPs.
+
+●Unearned revenue liability — An unearned revenue liability is established when we collect fees or other policyholder assessments that represent compensation for services to be provided in future periods. These revenues are deferred and then amortized over the expected life of the contract, in proportion to EGPs.
+
+●Reinsurance asset or liability — For universal-life type products that are reinsured, a reinsurance asset or liability is established to spread the expected net reinsurance costs or profits in proportion to the EGPs on the underlying business.
+
+We also have additional benefit reserves that are established for annuity or universal life-type contracts that provide benefit features that are expected to produce gains in early years followed by losses in later years. The liabilities are accrued in relation to estimated contract assessments, and they are based on assumptions and methodologies similar to those used in the calculation of EGPs. For more information, see “Insurance Reserves ."
+
+46 
+Key assumptions used in the calculation of EGPs include mortality, lapses, equity returns, general account investment yields and expenses as well as the change in our liability for certain guarantees and the difference between actual and expected reinsurance premiums and recoveries, depending on the nature of the contract. Our general account investment yield assumption reflects our long-term projections of interest rates and net realized capital gains (losses). We develop an estimate of EGPs at issue and each valuation date. As actual experience and market conditions emerge, the gross profits may vary from those expected either in magnitude or timing, in which case a true-up of actuarial balances occurs as a charge or credit to current net income. In addition, we are required to revise our assumptions regarding future experience if actual experience or other evidence suggests that earlier estimates should be revised; we refer to this as unlocking. Both actions, reflecting actual experience and market conditions and changing future estimates, can change both the current amount and the future amortization pattern of the DAC asset and related actuarial balances.
+
+For individual variable universal life insurance, individual variable annuities and group annuities that have separate account U.S. equity investment options, we utilize a mean reversion methodology (reversion to the mean assumption), a common industry practice, to determine the future domestic equity market growth rate assumption used for the calculation of EGPs. If actual annualized U.S. equity market performance varies from our 8% long-term assumption, we assume different performance levels in the short-term such that the weighted average return is equal to the long-term assumption over the mean reversion period. However, our mean reversion process generally limits assumed returns to a range of 4-12% during the mean reversion period. For additional details concerning methods of DAC amortization see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 1, Nature of Operations and Significant Accounting Policies” under the caption, “Deferred Acquisition Costs.”
+
+Internal Replacements. We review policies for modifications that result in the exchange of an existing contract for a new contract. If the new contract is determined to be an internal replacement that is substantially changed from the replaced contract, any unamortized DAC and related actuarial balances are written off and acquisition costs related to the new contract are capitalized as appropriate. If the new contract is substantially unchanged from the replaced contract, we continue to amortize the existing DAC and related actuarial balances.
+
+Recoverability. DAC and sales inducement assets are subject to recoverability testing at the time of policy issue and loss recognition testing on an annual basis, or when an event occurs that may warrant loss recognition. If loss recognition or impairment is necessary, the asset balances are written off to the extent it is determined that future policy premiums and investment income or gross profits are not adequate to cover the balances.
+
+Actuarial Assumption Updates. We periodically review and update actuarial assumptions that are inputs to the models for DAC and other actuarial balances and make model refinements as necessary. For more information see “Transactions Affecting Comparability of Results of Operations — Other — Actuarial Assumption Updates .''
+
+Sensitivities. As of December 31, 2020, the net balance of DAC and related actuarial balances, excluding balances affected by changes in other comprehensive income (“OCI”), was a $16.0 million liability. We perform sensitivity analyses to assess the impact that certain assumptions have on these balances. The following table shows the estimated immediate impact of various assumption changes on our DAC and related actuarial balances.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Reflects the net increase (decrease) impact on net income of changes to the DAC asset, sales inducement asset, unearned revenue liability, reinsurance asset or liability, additional benefit reserves and related taxes. Includes the impact on net income of changes in DAC and related actuarial balances for our equity method subsidiaries. The DAC and related actuarial balances of the equity method subsidiaries are not included in the total DAC and related actuarial balances listed above as they are not fully consolidated.
+
+Goodwill and Other Intangible Assets
+
+Goodwill and other intangible assets include the cost of acquired subsidiaries in excess of the fair value of the net tangible assets recorded in connection with acquisitions. Goodwill and intangible assets with indefinite lives are not amortized; however, are reviewed for impairment at least annually or more frequently if events or circumstances change that would more-likely-than-not reduce the fair value of a reporting unit below its carrying value using a discounted cash flow approach. Intangibles that do not have indefinite lives are amortized over their estimated useful lives. We formally conduct our annual goodwill and other intangible asset impairment testing during the third quarter. Goodwill is tested at the reporting unit level, which is the same level as or one level below the operating segment.
+
+47 
+The operating segments and associated reporting units at which we perform our testing are as follows:
+
+●Retirement and Income Solutions: Retirement and Income Solutions — Fee and Retirement and Income Solutions — Spread
+
+●Principal Global Investors: Equity Investments, Fixed Income Investments, Real Estate and Other Alternative Investments, Mutual Funds Complex
+
+●Principal International: Latin America and Asia
+
+●U.S. Insurance Solutions: Specialty Benefits insurance and Individual Life insurance
+
+●Corporate: Corporate subsidiaries
+
+Goodwill. U.S. GAAP permits entities to first assess qualitative factors to determine whether it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the quantitative impairment test of the two-step goodwill impairment test. An entity also has an unconditional option to bypass the qualitative assessment in any period and proceed directly to performing the quantitative impairment test. We perform qualitative assessments for certain reporting units and we elect to proceed directly to a two-step quantitative test for certain reporting units in our evaluation of the carrying value of goodwill.
+
+In the qualitative assessment, all relevant events and circumstances that could affect the significant inputs used to determine the fair value of the reporting unit are assessed. Each assessment uses a five-step approach: determine the starting point, identify the most relevant drivers of fair value, identify events and circumstances, weight the identified factors and conclude. For reporting units that performed a qualitative test, the estimated fair values of all such reporting units were in excess of their carrying values and, therefore, goodwill was not impaired.
+
+For reporting units that performed a quantitative test, we concluded the estimated fair values of all such reporting units were in excess of their carrying values and, therefore, goodwill was not impaired.
+
+Other Intangible Assets. U.S. GAAP permits entities to first assess qualitative factors to determine whether it is more-likely-than-not that the fair value of an intangible asset with an indefinite life is less than its carrying amount to determine whether it is necessary to perform a quantitative assessment. We primarily utilize the qualitative approach for testing of intangible assets with indefinite lives. In doing so, we follow the same qualitative process as for goodwill and weigh the evidence of the events and circumstances and their potential impacts on fair value when determining if it is not more-likely-than-not that the indefinite lived intangible is impaired. Intangible assets with finite lives are amortized as related benefits emerge and are reviewed periodically for indicators of impairment in value. If facts and circumstances suggest possible impairment, the sum of the estimated undiscounted future cash flows expected to result from the use of the asset is compared to the current carrying value of the asset. If the undiscounted future cash flows are less than the carrying value, an impairment loss is recognized for the excess of the carrying amount of assets over their fair value. For those assets amortized as related benefits emerge, the most significant assumptions involved in the estimation of future benefits include surrender/lapse rates and margins. We did not recognize an impairment in our 2020 consolidated statement of operations.
+
+Sensitivities. In connection with our annual impairment testing process, we performed a sensitivity analysis for goodwill impairment with respect to each of our reporting units and determined that a hypothetical 10% decline in the fair value would not result in an impairment of goodwill for any reporting unit. We cannot predict certain future events that might adversely affect the reported value of goodwill and other intangible assets that totaled $1,711.0 million and $1,723.0 million, respectively, as of December 31, 2020. Such events include, but are not limited to, strategic decisions made in response to economic and competitive conditions, the impact of the economic environment on our customer base, interest rate movements, declines in the equity markets, the legal environment in which the businesses operate or a material negative change in our relationships with significant customers. For further information see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 1, Nature of Operations and Significant Accounting Policies,” and “Note 2, Goodwill and Other Intangible Assets.”
+
+Insurance Reserves
+
+Reserves are liabilities representing estimates of the amounts that will come due, at some point in the future, to or on behalf of our policyholders. U.S. GAAP, allowing for some degree of managerial judgment, provides guidance for establishing reserves.
+
+48 
+Future policy benefits and claims include reserves for individual traditional and group life insurance, disability, medical and long-term care insurance and individual and group annuities that provide periodic income payments. These reserves are computed using assumptions of mortality, morbidity, lapse, investment performance and expense. These assumptions are based on our experience, industry results, emerging trends and future expectations. For long-duration insurance contracts, once these assumptions are made for a given policy or group of policies, they will not be changed over the life of the policy. However, significant changes in experience or assumptions may require us to provide for expected future losses on a product by establishing premium deficiency reserves. Premium deficiency reserves may also be established for short-duration contracts to provide for expected future losses. Our reserve levels are reviewed throughout the year using internal analysis including, among other things, experience studies, claim development analysis and annual loss recognition analysis. To the extent experience indicates potential loss recognition, we recognize losses on certain lines of business. The ultimate accuracy of the assumptions on these long-tailed insurance products cannot be determined until the obligation of the entire block of business on which the assumptions were made is extinguished. Short-term variances of actual results from the assumptions used in the computation of the reserves are reflected in current period net income and can impact quarter-to-quarter net income.
+
+Future policy benefits and claims also include reserves for incurred but unreported disability, medical, dental, vision, critical illness, accident and life insurance claims. We recognize claims costs in the period the service was provided to our policyholders. However, claims costs incurred in a particular period are not known with certainty until after we receive, process and pay the claims. We determine the amount of this liability using actuarial methods based on historical claim payment patterns as well as emerging cost trends, where applicable, to determine our estimate of claim liabilities. We also look back to assess how our prior periods’ estimates developed. To the extent appropriate, changes in such development are recorded as a change to current period claim expense. Historically, the amount of the claim reserve adjustment made in subsequent reporting periods for prior period estimates have been within a reasonable range given our normal claim fluctuations.
+
+Future policy benefits and claims also include benefit reserves that are established for annuity or universal life-type contracts that provide benefit features that are expected to produce gains in early years followed by losses in later years. The liabilities are accrued in relation to estimated contract assessments.
+
+We periodically review and update actuarial assumptions that are used to compute reserves. For more information see ''Transactions Affecting Comparability of Results of Operations — Other — Actuarial Assumption Updates.''
+
+Benefit Plans
+
+The reported expense and liability associated with pension and OPEB plans requires the use of assumptions. Numerous assumptions are made regarding the discount rate, expected long-term rate of return on plan assets, turnover, expected compensation increases, health care claim costs, health care cost trends, retirement rates and mortality. The discount rate and the expected return on plan assets have the most significant impact on the level of expense.
+
+The assumed discount rate is determined by projecting future benefit payments inherent in the Projected Benefit Obligation and discounting those cash flows using a spot yield curve for high quality corporate bonds. Our assumed discount rates were 2.50% for our pension plans and 2.10% for our OPEB plans as of December 31, 2020. Typically, a 0.25% decrease in the discount rate would increase the pension benefits Projected Benefit Obligation and the Net Periodic Pension Cost (“NPPC”) by approximately $158.8 million and $2.6 million, respectively. Typically, a 0.25% decrease in the discount rate would increase the OPEB accumulated postretirement benefit obligation by approximately $2.5 million and would have a nominal impact on the Net Periodic Benefit Cost (“NPBC”). Typically, a 0.25% increase in the discount rate would result in decreases in benefit obligations and expenses at a level generally commensurate with those noted above.
+
+The assumed long-term rate of return on plan assets is set at the long-term rate expected to be earned based on the long-term investment policy of the plans and the various classes of the invested funds. Historical and future expected returns of multiple asset classes were analyzed to develop a risk-free real rate of return and risk premiums for each asset class. The overall long-term rate for each asset class was developed by combining a long-term inflation component, the real risk-free rate of return and the associated risk premium. A weighted average rate was developed based on long-term returns for each asset class, the plan's target asset allocation policy and the tax structure of the trusts. For the 2020 NPPC and 2020 NPBC, a 5.60% and 4.94% weighted average long-term rate of return was used, respectively. For the 2021 NPPC and 2021 NPBC, a 5.55% and 4.25% weighted average long-term rate of return assumption, respectively, will be used. Typically, a 0.25% decrease in the assumed long-term rate of return would increase the NPPC by approximately $8.2 million and the NPBC by approximately $0.3 million. Typically, a 0.25% increase in this rate would result in a decrease to expense at the same levels. The assumed return on plan assets is based on the fair market value of plan assets as of December 31, 2020.
+
+49 
+The compensation increase assumption is generally set at a rate consistent with current and expected long-term compensation and salary policy, including inflation.
+
+For pension costs, actuarial gains and losses are amortized using a straight-line amortization method over the average remaining service period of plan participants, which is approximately 11 years. For OPEB costs, actuarial gains and losses are amortized using a straight-line amortization method over the average future lifetime of the remaining covered group of retirees, which is approximately 18 years. The qualified pension plan does not utilize the allowable corridor, while the nonqualified pension plan and OPEB plans utilize the 10% corridor. Prior service costs are amortized on a weighted average basis over approximately 7 years for pension costs and 7 years for OPEB costs. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 11, Employee and Agent Benefits” for further discussion.
+
+Income Taxes
+
+We provide for income taxes based on our estimate of the liability for taxes due. Our tax accounting represents management’s best estimate of various events and transactions, such as completion of tax audits or establishment of, or changes to, a valuation allowance associated with certain deferred tax assets, which could affect our estimates and effective income tax rate in a particular quarter or annual period. Deferred tax liabilities and assets are determined based on the difference between the financial statement and tax bases of assets and liabilities using enacted tax rates expected to be in effect during the years in which the basis differences reverse. We are required to evaluate the recoverability of our deferred tax assets each quarter and establish a valuation allowance, if necessary, to reduce our deferred tax assets to an amount that is more-likely-than-not to be realizable. In determining the need for a valuation allowance, we consider many factors, including future reversals of existing taxable temporary differences, future taxable income exclusive of reversing temporary differences and carryforwards, taxable income in prior carryback years and implementation of any feasible and prudent tax planning strategies management would employ to realize the tax benefit.
+
+U.S. federal and state deferred income taxes have not been provided on approximately $997.4 million of accumulated but undistributed earnings from operations of foreign subsidiaries as of December 31, 2020. We do not record U.S. federal and state deferred income taxes on foreign earnings not expected to be distributed to the U.S. We apply an exception to the general rule, which under U.S. GAAP otherwise requires the recording of U.S. deferred income taxes on the anticipated repatriation of foreign earnings as recognized for financial reporting purposes. The exception permits us to not record a U.S. deferred income tax liability on foreign earnings we expect to be indefinitely reinvested in our foreign operations. The related deferred income taxes will be recorded in the period it becomes apparent we can no longer positively assert some or all the undistributed earnings will remain invested into the foreseeable future.
+
+Inherent in the provision for income taxes are estimates and our expectations regarding the deductibility of certain items, the timing of income and expense recognition, future performance and the current or future realization of operating losses, capital losses and certain tax credits. We regularly evaluate the capital needs of our domestic and foreign operations considering all available information, including operating and capital plans, regulatory capital requirements, parent company financing and cash flow needs, as well as tax laws applicable to our domestic and foreign subsidiaries. In the event these estimates differ from our prior estimates due to the receipt of new information, we may be required to significantly change the provision for income taxes recorded in the consolidated financial statements. Any such change could significantly affect the amounts reported in the consolidated financial statements in the year these estimates change. A significant decline in value of financial assets could lead to establishment of a valuation allowance on deferred tax assets having an adverse effect on current and future results. In management’s judgment, total deferred income tax assets are more-likely-than-not to be realized.
+
+In addition, the amount of income taxes paid is subject to audits in the U.S. as well as various state and foreign jurisdictions. Tax benefits are recognized for book purposes when the more-likely-than-not threshold is met with regard to the validity of an uncertain tax position. Once this threshold is met, for each uncertain tax position we recognize in earnings the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement with the Internal Revenue Service or other income taxing authorities for audits ongoing or not yet commenced.
+
+We had $54.6 million of current income tax receivables associated with outstanding audit issues reported as other assets in our consolidated statements of financial position as of December 31, 2020. We believe there are adequate defenses against, or sufficient provisions for, the contested issues, but final resolution of contested issues could take several years while legal remedies are pursued. Consequently, we do not anticipate the ultimate resolution of audits ongoing or not yet commenced to have a material impact on our net income.
+
+50 
+See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 10, Income Taxes” for further discussion.
+
+Transactions Affecting Comparability of Results of Operations
+
+Acquisitions
+
+Wells Fargo IRT Business. On July 1, 2019, we closed on our agreement with Wells Fargo Bank, N.A. to acquire its IRT business, which includes defined contribution, defined benefit, nonqualified executive benefit plans, ESOPs, institutional trust and custody and institutional asset advisory businesses. The results of this acquisition are reflected in the Retirement and Income Solutions segment. The purchase price consisted of (i) $1.2 billion cash paid at closing and (ii) an additional earn-out payment of up to $150.0 million, estimated at $0.0 million as of December 31, 2020, based upon the retention of fee revenue of the Acquired Business through December 31, 2020. The transaction was funded with available cash and debt financing. For additional information regarding the debt issuance, see Item 8. "Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt."
+
+Other
+
+Actuarial Assumption Updates. We periodically review and update actuarial assumptions that are inputs to the models for DAC and other actuarial balances and make model refinements as necessary. Assumption updates and model refinements were made resulting in an unlocking of DAC and other actuarial balances that decreased consolidated net income by $118.2 million and $36.5 million for the years ended December 31, 2020 and 2019, respectively.
+
+The following table presents the increase (decrease) to pre-tax operating earnings for each segment.[DATA_TABLE_REMOVED]
+
+​
+
+The Individual Life insurance business actuarial assumption updates and model refinements affected several line items within our income statement. The following table presents the increase (decrease) to the Individual Life insurance income statement line items.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Other Factors Affecting Comparability
+
+Fluctuations in Foreign Currency to U.S. Dollar Exchange Rates
+
+Fluctuations in foreign currency to U.S. dollar exchange rates for locations in which we have operations can affect reported financial results. In years when foreign currencies weaken against the U.S. dollar, translating foreign currencies into U.S. dollars results in fewer U.S. dollars to be reported. When foreign currencies strengthen, translating foreign currencies into U.S. dollars results in more U.S. dollars to be reported.
+
+Foreign currency exchange rate fluctuations create variances in our financial statement line items. The most significant impact occurs within our Principal International segment where pre-tax operating earnings were negatively impacted $56.2 million for the year ended December 31, 2020, as a result of fluctuations in foreign currency to U.S. dollar exchange rates. This impact was calculated by comparing (a) the difference between current year results and prior year results to (b) the difference between current year results and prior year results translated using current year exchange rates for both periods. We use this approach to calculate the impact of exchange rates on all revenue and expense line items. For a discussion of our approaches to managing foreign currency exchange rate risk, see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk — Foreign Currency Risk.”
+
+51 
+Effects of Inflation
+
+The impact of inflation has not had a material effect on our annual consolidated results of operations over the past three years. However, we may be materially affected by inflation in the future.
+
+Variable Investment Income
+
+Variable investment income includes certain types of investment returns such as prepayment fees and income (loss) from certain elements of our other alternative asset classes, including results of value-add real estate sales activity. Due to its unpredictable nature, variable investment income may or may not be material to our financial results for a given reporting period and may create variances when comparing different reporting periods. For additional information, see “Investment Results.”
+
+Recent Accounting Changes
+
+For recent accounting changes, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 1, Nature of Operations and Significant Accounting Policies” under the caption, “Recent Accounting Pronouncements.”
+
+Results of Operations
+
+The following table presents summary consolidated financial information for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Net Income Attributable to Principal Financial Group, Inc.
+
+Net income attributable to Principal Financial Group, Inc. increased slightly due to a $299.1 million increase in after-tax realized capital gains (losses), which was largely offset by $82.3 million from higher non-COVID-19 claims in our U.S. Insurance Solutions segment, an $81.7 million more unfavorable impact of actuarial assumption updates and model refinements in 2020 compared to 2019, $51.8 million of higher losses related to the Acquired Business and $38.3 million of lower earnings in our equity method investments in Brazil. For additional information related to the realized capital gains (losses), see “Investments — Investment Results — Net Realized Capital Gains (Losses).”
+
+Total Revenues
+
+Premiums decreased $1,641.7 million for the Retirement and Income Solutions segment primarily due to lower sales of single premium group and individual annuities with life contingencies. The single premium group annuity product, which is typically used to fund defined benefit plan terminations, can generate large premiums from very few customers and therefore premiums tend to vary from period to period.
+
+52 
+Fees and other revenues increased $120.4 million for the Retirement and Income Solutions segment primarily due to the Acquired Business.
+
+Net investment income in our Latin America business decreased primarily due to $62.5 million of foreign currency headwinds, $39.8 million lower income from our equity method investments in Brazil and $30.5 million unfavorable relative market performance on our required regulatory investments. Net investment income in our U.S. operations increased primarily due to $249.1 million related to higher average invested assets, partially offset by a $231.2 million decrease related to lower rates on fixed maturities and cash and cash equivalents. For additional information, see “Investments — Investment Results – Net Investment Income.”
+
+Net realized capital gains (losses) can be volatile due to credit losses from invested assets, mark-to-market adjustments of certain invested assets and our decision to sell invested assets. Net realized capital gains increased primarily due to $209.6 million in gains from derivatives and related hedge activities, $125.1 million increase related to noncredit gains from available-for-sale fixed maturities portfolio rebalancing in 2020, $78.0 million in gains from the sale of real estate investments in 2020 and a $74.0 million impairment of an equity method investment in 2019. These increases were partially offset by a $46.6 million decrease from sponsored investments funds and $35.0 million of lower mark-to-market gains on trading fixed maturities. For additional information, see “Investments — Investment Results — Net Realized Capital Gains (Losses).”
+
+Total Expenses
+
+Benefits, claims and settlement expenses decreased $1,628.4 million for the Retirement and Income Solutions segment primarily due to a lower increase in reserves, stemming from lower sales of single premium group and individual annuities with life contingencies.
+
+Operating expenses increased $169.1 million for the Retirement and Income Solutions segment primarily related to the Acquired Business.
+
+Income Taxes
+
+The effective income tax rates were 16% and 15% for the years ended December 31, 2020 and 2019, respectively. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 10, Income Taxes” under the caption, “Effective Income Tax Rate” for further discussion.
+
+Results of Operations by Segment
+
+For results of operations by segment see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 16, Segment Information.”
+
+Retirement and Income Solutions Segment
+
+Retirement and Income Solutions Trends
+
+Several key factors impact revenue and earnings growth in the Retirement and Income Solutions segment. These factors include: the ability of our distribution channels to generate new sales and retain existing business; pricing decisions that take account of competitive conditions, persistency, investment returns, mortality trends, and operating expense levels; investment management performance; equity market returns and interest rate changes. Profitability ultimately depends on our ability to price products and invest assets at a level that enables us to earn a margin over the cost of providing benefits and the expense of acquiring and administering those products.
+
+Net revenue is a key metric used to understand Retirement and Income Solutions earnings growth. Net revenue is defined as operating revenues less benefits, claims and settlement expenses less dividends to policyholders. Net revenue from Retirement and Income Solutions – Fee is largely fee based and is impacted by changes in the equity markets and interest rates. Net revenue from Retirement and Income Solutions – Spread is primarily driven by the difference between investment income earned on the underlying general account assets and the interest rate credited to the contracts.
+
+53 
+The following table presents the Retirement and Income Solutions segment net revenue for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+(1) Includes net revenue of the Acquired Business since the July 1, 2019, acquisition date.
+
+​
+
+Retirement and Income Solutions Segment Summary Financial Data
+
+The following table presents certain summary financial data relating to the Retirement and Income Solutions segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Pre-Tax Operating Earnings
+
+Pre-tax operating earnings decreased in our Fee business primarily due to a $71.0 million pre-tax loss related to the Acquired Business and a $14.0 million increase in DAC amortization expense stemming from model updates which were unfavorable in 2020 compared to favorable in 2019. These decreases in pre-tax operating earnings were partially offset by a $72.3 million impact associated with actuarial assumption updates and model refinements, which were favorable in 2020 compared to unfavorable in 2019. Pre-tax operating earnings increased in our Spread business primarily due to a $46.6 million impact related to favorable reserve gains, a $34.0 million increase due to growth in the block of business and a $32.1 million impact associated with actuarial assumption updates and model refinements, which were more favorable in 2020 compared to 2019. These increases were slightly offset by an $11.6 million impact stemming from lower sales of individual annuities with life contingencies.
+
+Net Revenue
+
+Net revenue increased in our Fee business primarily due to a $135.1 million increase related to the Acquired Business and a $91.2 million impact associated with actuarial assumption updates and model refinements, which were favorable in 2020 compared to unfavorable in 2019. Net revenue increased in our Spread business primarily due to a $46.6 million impact related to favorable reserve gains and a $34.0 million increase due to growth in the block of business. The increases were partially offset by a $39.1 million impact stemming from lower sales of individual annuities with life contingencies.
+
+54 
+Operating Expenses
+
+Operating expenses increased in our Fee business primarily due to a $206.1 million increase related to the Acquired Business and an $18.9 million impact associated with actuarial assumption updates and model refinements, which were unfavorable in 2020 compared to favorable in 2019. Operating expenses decreased in our Spread business primarily due to a $27.5 million decrease in non-deferrable commission expense resulting from lower sales of individual annuities with life contingencies and a $20.6 million impact associated with actuarial assumption updates and model refinements, which were more favorable in 2020 compared to 2019.
+
+Principal Global Investors Segment
+
+Principal Global Investors Trends
+
+Our overall AUM increased $43.5 billion in 2020 driven by positive market returns. We continue to expand our global presence and believe we are well positioned to capture changing market conditions and client needs.
+
+The following table provides a summary of AUM managed by Principal Global Investors by the business area that sourced or generated the AUM. Principal Global Investors sourced represents institutional and fund platform AUM sourced by Principal Global Investors’ distribution teams. General account represents general account assets of domestic insurance companies and other balance sheet assets. Other affiliated sources represents AUM sourced by other PFG businesses (e.g., separate account assets).
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Principal Global Investors Segment Summary Financial Data
+
+AUM is the base by which we generate management fee revenues. Market performance and net cash flow are the two main drivers of AUM growth. Market performance reflects equity, fixed income, real estate and other alternative investment performance. Net cash flow reflects client deposits and withdrawals. The fee levels on these client deposits and withdrawals are increasingly becoming the more important factor to revenue growth and will vary widely based on business and/or product mix.
+
+The following table presents the AUM rollforward for assets managed by Principal Global Investors for the periods indicated:
+
+​[DATA_TABLE_REMOVED]
+
+(1)During 2020 we announced the closure of the credit fund managed by the Finisterre emerging market debt team and we made the decision to close our large cap strategy managed by Columbus Circle Investors.
+
+55 
+The following table presents certain summary financial data relating to the Principal Global Investors segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Pre-Tax Operating Earnings 
+
+Pre-tax operating earnings increased primarily due to $59.3 million higher management fee revenue as a result of increased average AUM. This was partially offset by a $14.5 million increase in professional fees expense primarily related to a one-time favorable legal settlement in 2019 and a $9.5 million decrease in transaction and borrower fees revenue related to lower activity in 2020 associated with the COVID-19 environment.
+
+Principal International Segment
+
+Principal International Trends
+
+Our Principal International businesses focus on locations with growing middle classes, favorable demographics and increasing long-term savings, ideally with voluntary or mandatory pension markets. With variations depending upon the specific location, we have targeted these markets for sales of retirement and related products and services, including mutual funds, asset management, income annuities and life insurance accumulation products to businesses and individuals.
+
+We have pursued our international strategy through a combination of acquisitions, start-up operations and joint ventures, which require infusions of capital consistent with our strategy of long-term growth and profitability.
+
+Principal International Segment Summary Financial Data
+
+AUM is generally a key indicator of earnings growth for the segment, as AUM is the base by which we can generate local currency profits. The Cuprum business in Chile differs in that the majority of fees are collected with each deposit by the mandatory retirement customers, based on a capped salary level, as opposed to asset levels. Net customer cash flow and market performance are the two main drivers of local currency AUM growth. Net customer cash flow reflects our ability to attract and retain client deposits. Market performance reflects the investment returns on our underlying AUM. Our financial results are also impacted by fluctuations of the foreign currency to U.S. dollar exchange rates for the locations in which we have business. AUM of our foreign subsidiaries is translated into U.S. dollar equivalents at the end of the reporting period using the spot foreign exchange rates. Revenue and expenses for our foreign subsidiaries are translated into U.S. dollar equivalents at the average foreign exchange rates for the reporting period.
+
+56 
+The following table presents the Principal International segment AUM rollforward for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+(1)Includes Chile hardship withdrawals of $2.7 billion for the year ended December 31, 2020, that have no impact on future fee revenues.
+
+Net revenue is a key metric used to understand the earnings growth for the Principal International segment. The following table presents the net revenue of the Principal International segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+The following table presents certain summary financial data relating to the Principal International segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+​
+
+Pre-Tax Operating Earnings
+
+Pre-tax operating earnings decreased in Latin America primarily due to $60.4 million lower pre-tax operating earnings from our equity method investments in Brazil, $55.8 million foreign currency headwinds and $30.0 million unfavorable relative market performance on our required regulatory investments.
+
+57 
+Net Revenue
+
+Net revenue decreased in Latin America primarily due to $84.4 million foreign currency headwinds, $60.4 million lower pre-tax operating earnings from our equity method investments in Brazil and $30.7 million unfavorable relative market performance on our required regulatory investments.
+
+U.S. Insurance Solutions Segment
+
+U.S. Insurance Solutions Segment Summary Financial Data
+
+Premium and fees are a key metric for growth in the U.S. Insurance Solutions segment. We receive premiums on our specialty benefits insurance products as well as our traditional life insurance products. Fees are generated from our specialty benefits fee-for-service products as well as our universal life, variable universal life and indexed universal life insurance products. We use several reinsurance programs to help manage the mortality and morbidity risk. Premium and fees are reported net of reinsurance premiums.
+
+The following table presents the U.S. Insurance Solutions segment premium and fees for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+The following table presents certain summary financial data relating to the U.S. Insurance Solutions segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+(1)For further details related to the impact associated with actuarial assumption updates and model refinements on results for 2020 and 2019, see “Transactions Affecting Comparability of Results of Operations — Other — Actuarial Assumption Updates.”
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Pre-Tax Operating Earnings
+
+Pre-tax operating earnings in our Specialty Benefits insurance business decreased $58.2 million from higher non-COVID-19 claims, $20.5 million due to favorable actuarial assumption update and model refinements in 2019 and $7.3 million from lower variable investment income. These decreases were partially offset by $15.9 million in favorable COVID-19 related impacts and $10.3 million from growth in the business. Pre-tax operating earnings in our Individual Life insurance business decreased $181.3 million due to the impact from more unfavorable actuarial assumption updates and model refinements in 2020 compared to 2019, $46.0 million in higher non-COVID-19 claims and $25.6 million in COVID-19 claims. These decreases were partially offset by $28.5 million from expense management and $16.8 million in higher net investment income, partially from higher variable investment income.
+
+58 
+Operating Revenues
+
+Premium and fees in our Specialty Benefits insurance business increased $73.4 million from growth in the business, offset by $35.8 million in dental premium credits associated with COVID-19. Premium and fees in our Individual Life insurance business decreased $77.8 million due to less favorable actuarial assumption updates and model refinements in 2020 compared to 2019 and $12.9 million related to surrenders from a small block of indexed universal life policies, largely related to COVID-19. These decreases were offset by $73.2 million from growth in the business.
+
+Net investment income increased $79.7 million from growth in invested assets mostly offset by $68.9 million from lower yields.
+
+Total Expenses
+
+Benefits claims and settlement expenses in our Specialty Benefits insurance business increased $58.2 million from higher non-COVID-19 claims and $44.4 million associated with growth in the business. This increase was partially offset by $51.7 million due to COVID-19, resulting in lower claims activity, largely as a result of temporary dental and vision office closures and restrictions. Benefits, claims and settlement expenses in our Individual Life insurance business increased $107.0 million due to more unfavorable actuarial assumption updates and model refinements in 2020 compared to 2019, $53.1 million from growth in the business, $46.0 million of higher non-COVID-19 claims and $25.6 million in COVID-19 claims.
+
+Operating expenses in our Specialty Benefits insurance business increased $23.7 million due to growth and $22.9 million due to favorable actuarial assumption updates and model refinements in 2019. Operating expenses in our Individual Life insurance business decreased $28.5 million from expense management, largely offset by a $23.7 million increase due to growth in the business.
+
+Corporate Segment
+
+Corporate Segment Summary Financial Data
+
+The following table presents certain summary financial data relating to the Corporate segment for the years indicated:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Pre-Tax Operating Losses
+
+Pre-tax operating losses decreased primarily due to expense decreases, including a $24.5 million decrease in strategic initiatives funded by the Corporate segment and a $20.9 million decrease in pension and OPEB expenses.
+
+59 
+Liquidity and Capital Resources
+
+Liquidity and capital resources represent the overall strength of a company and its ability to generate strong cash flows, borrow funds at a competitive rate and raise new capital to meet operating and growth needs. We are in a strong capital and liquidity position as we face the uncertain, volatile and potentially material adverse economic disruptions to our business brought on by the COVID-19 pandemic. We are monitoring our liquidity closely and feel confident in our ability to meet all long-term obligations to customers, policyholders and debt holders. Our sources of strength include our laddered long-term debt maturities with the next maturity not until 2022, access to revolving credit facility and contingent funding arrangements, a strong risk-based capital position and our available cash and liquid assets. The combination of these financial levers will enable us to manage through this period of economic volatility. Our legal entity structure has an impact on our ability to meet cash flow needs as an organization. Following is a simplified organizational structure.
+
+Liquidity
+
+Our liquidity requirements have been and will continue to be met by funds from consolidated operations as well as the issuance of commercial paper, common stock, debt or other capital securities and borrowings from credit facilities. We believe the cash flows from these sources are sufficient to satisfy the current liquidity requirements of our operations, including reasonably foreseeable contingencies.
+
+We maintain a level of cash and securities which, combined with expected cash inflows from investments and operations, we believe to be adequate to meet anticipated short-term and long-term payment obligations. We will continue our prudent capital management practice of regularly exploring options available to us to maximize capital flexibility, including accessing the capital markets and careful attention to and management of expenses.
+
+We perform rigorous liquidity stress testing to ensure our asset portfolio includes sufficient high quality liquid assets that could be utilized to bolster our liquidity position under increasingly stressed market conditions. These assets could be utilized as collateral for secured borrowing transactions with various third parties or by selling the securities in the open market if needed.
+
+We also manage liquidity risk by limiting the sales of liabilities with features such as puts or other options that can be exercised at inopportune times. For example, as of December 31, 2020, approximately $10.8 billion, or 99%, of our institutional guaranteed investment contracts and funding agreements cannot be redeemed by contractholders prior to maturity. Our individual annuity liabilities also contain surrender charges and other provisions limiting early surrenders.
+
+The following table summarizes the withdrawal characteristics of our domestic general account investment contracts as of December 31, 2020.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+60 
+Universal life insurance and certain traditional life insurance policies are also subject to discretionary withdrawals by policyholders. However, life insurance policies tend to be less susceptible to withdrawal than our investment contracts because policyholders may be subject to a new underwriting process in order to obtain a new life insurance policy. In addition, our life insurance liabilities include surrender charges to discourage early surrenders.
+
+We had the following short-term credit facilities with various financial institutions as of December 31, 2020:
+
+​[DATA_TABLE_REMOVED]
+
+(1)The credit facility was extended during the fourth quarter of 2018 and is supported by eighteen banks.
+
+(2)The unsecured lines of credit can be used for repurchase agreements or other borrowings. Each line has a maturity of less than one year.
+
+(3)The amount outstanding is reported in short-term debt on the consolidated statements of financial position.
+
+The revolving credit facilities are committed and available for general corporate purposes. These credit facilities also provide 100% back-stop support for our commercial paper program, of which we had no outstanding balances as of December 31, 2020 and December 31, 2019. Most of the banks supporting the credit facilities have other relationships with us. Due to the financial strength and the strong relationships we have with these providers, we are comfortable we have very low risk the financial institutions would be unable or unwilling to fund these facilities.
+
+The Holding Companies: Principal Financial Group, Inc. and Principal Financial Services, Inc. The principal sources of funds available to our parent holding company, PFG, are dividends from subsidiaries as well as its ability to borrow funds at competitive rates and raise capital to meet operating and growth needs. These funds are used by PFG to meet its obligations, which include the payment of dividends on common stock, debt service and the repurchase of stock. The declaration and payment of common stock dividends is subject to the discretion of our Board of Directors and will depend on our overall financial condition, results of operations, capital levels, cash requirements, future prospects, receipt of dividends from Principal Life (as described below), risk management considerations and other factors deemed relevant by the Board. No significant restrictions limit the payment of dividends by PFG, except those generally applicable to corporations incorporated in Delaware.
+
+Dividends from Principal Life, our primary subsidiary, are limited by Iowa law. Under Iowa law, Principal Life may pay dividends only from the earned surplus arising from its business and must receive the prior approval of the Commissioner of Insurance of the State of Iowa (the “Commissioner”) to pay stockholder dividends or make any other distribution if such distribution would exceed certain statutory limitations. Iowa law gives the Commissioner discretion to disapprove requests for distributions in excess of these limitations. Extraordinary dividends include those made, together with dividends and other distributions, within the preceding twelve months that exceed the greater of (i) 10% of statutory policyholder surplus as of the previous year-end or (ii) the statutory net gain from operations from the previous calendar year, not to exceed earned surplus. Based on statutory results for the year ended December 31, 2020, the ordinary stockholder dividend limitation for Principal Life is approximately $932.5 million in 2021.
+
+Total stockholder dividends paid by Principal Life to its parent in 2020 were $650.0 million, all of which was extraordinary and approved by the Commissioner. As of December 31, 2020, we had $2,879.5 million of cash and liquid assets held in our holding companies and other subsidiaries, which is available for corporate purposes. This includes assets in excess of targeted statutory capital ratios and immediate working capital needs. Corporate balances held in foreign holding companies meet the indefinite reinvestment exception (see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 10, Income Taxes”). 
+
+In 2019, total stockholder dividends paid by Principal Life to its parent were $1,145.0 million, $975.0 million of which was extraordinary and approved by the Commissioner.
+
+61 
+Operations. Our primary consolidated cash flow sources are premiums from insurance products, pension and annuity deposits, asset management fee revenues, administrative services fee revenues, income from investments and proceeds from the sales or maturity of investments. Cash outflows consist primarily of payment of benefits to policyholders and beneficiaries, income and other taxes, current operating expenses, payment of dividends to policyholders, payments in connection with investments acquired, payments made to acquire subsidiaries, payments relating to policy and contract surrenders, withdrawals, policy loans, interest payments and repayment of short-term debt and long-term debt. Our investment strategies are generally intended to provide adequate funds to pay benefits without forced sales of investments. For a discussion of our investment objectives and strategies, see “Investments.”
+
+Cash Flows. All cash flow activity, as reported in our consolidated statements of cash flows, provides relevant information regarding our sources and uses of cash. The following discussion of our operating, investing and financing portions of the cash flows excludes cash flows attributable to the separate accounts.
+
+Net cash provided by operating activities was $3,738.6 million and $5,493.2 million for the years ended December 31, 2020 and 2019, respectively. Our insurance business typically generates positive cash flows from operating activities, as premiums collected from our insurance products and income received from our investments exceed acquisition costs, benefits paid, redemptions and operating expenses. These positive cash flows are then invested to support the obligations of our insurance and investment products and required capital supporting these products. Our cash flows from operating activities are affected by the timing of premiums, fees and investment income received and benefits and expenses paid. The decrease in cash provided by operating activities was due to lower sales in the pension risk transfer and individual fixed annuities business in 2020 as compared to 2019. Cash provided by operating activities also decreased as a result of fluctuations in receivables and payables associated with the timing of settlements.
+
+Net cash used in investing activities was $5,025.8 million and $7,688.5 million for the years ended December 31, 2020 and 2019, respectively. The decrease in cash used in investing activities was primarily due to cash paid for the Acquired Business in 2019. Additionally, cash used in investing activities decreased as a result of portfolio mix variances, including fewer net purchases of fixed maturities available-for-sale and equity securities with intent to hold in 2020.
+
+Net cash provided by financing activities was $1,621.1 million and $1,733.7 million for the years ended December 31, 2020 and 2019, respectively. The decrease in cash provided by financing activities was primarily the result of a smaller increase in net banking operation deposits in 2020 as compared to 2019. The increased proceeds from issuance of long-term debt in 2020 was largely offset by increased principal repayments on long-term debt and repayment of short-term borrowings in 2020 as compared to net proceeds from issuance of short-term borrowings in 2019.
+
+Shelf Registration. On April 29, 2020, our shelf registration statement was filed with the SEC and became effective. The shelf registration replaced the shelf registration that had been in effect since May 2017. Under our current shelf registration, we have the ability to issue, in unlimited amounts, unsecured senior debt securities or subordinated debt securities, junior subordinated debt, preferred stock, common stock, warrants, depositary shares, purchase contracts and purchase units of PFG. Our wholly owned subsidiary, PFS, may guarantee, fully and unconditionally or otherwise, our obligations with respect to any non-convertible securities, other than common stock, described in the shelf registration. For information on senior notes issued from our shelf registration, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt.”
+
+Short-Term Debt. For short-term debt information, see “Liquidity” and Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt.”
+
+Long-Term Debt. On June 12, 2020, we issued $500.0 million of senior notes at a discount. On August 3, 2020, we issued an additional $100.0 million of senior notes at a premium. The proceeds from these notes were used for general corporate purposes. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt” for further information.
+
+Contingent Funding Agreements for Senior Debt Issuance. On March 8, 2018, we entered into two contingent funding agreements that give us the right at any time over a ten-year or thirty-year period to issue up to $400.0 million or $350.0 million, respectively, of senior notes. For more information on the contingent funding agreements, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt” under the caption "Contingent Funding Agreements for Senior Debt Issuance.”
+
+Stockholders’ Equity. Proceeds from the issuance of our common stock were $42.8 million and $37.7 million in 2020 and 2019, respectively.
+
+62 
+The following table summarizes our return of capital to common stockholders.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+For additional stockholders’ equity information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 13, Stockholders’ Equity.”
+
+Capitalization
+
+The following table summarizes our capital structure:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Contractual Obligations
+
+The following table presents payments due by period for long-term contractual obligations as of December 31, 2020.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Contractual obligations exclude short-term liabilities, other policyholder funds, taxes and short-term debt as these are not long-term and/or not contractual in nature. Contractual obligations also exclude obligations under our pension and OPEB plans as we do not anticipate contributions will be needed to satisfy the minimum funding requirements of ERISA for our qualified pension plan, nor do we anticipate contributions to the OPEB plans due to the funded status of the trust. In addition, separate account liabilities are excluded. Separate account liabilities represent the fair market value of the assets of the funds that are separately administered by us. Generally, the separate account contract owner, rather than us, bears the investment risk of these funds. The separate account liabilities are legally segregated and are not subject to claims that arise out of any other business of ours. Net deposits, net investment income and realized and unrealized capital gains and losses on the separate accounts are not reflected in the consolidated statements of operations. The separate account obligations will be fully funded by cash flows from the separate account assets.
+
+(2)Contractholder funds include GICs, funding agreements, individual fixed annuities, universal life insurance and other investment contracts. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 8, Insurance Liabilities” for additional information.
+
+Amounts included in the contractholder funds line item reflect estimated cash payments to be made to policyholders. The sum of the cash outflows shown for all years in the table exceeds the corresponding liability amount included in our consolidated statements of financial position as of December 31, 2020. The liability amount in our consolidated statements of financial position reflects either the account value (in the case of individual fixed annuities, universal life insurance and GICs) or the par value plus accrued interest and other adjustments (in the case of funding agreements and other investment contracts).
+
+63 
+(3)Amounts included in the future policy benefits and claims line item reflect estimated cash payments to be made to policyholders. The sum of the cash outflows shown for all years in the table exceeds the corresponding liability amount included in our consolidated statements of financial position as of December 31, 2020. The liability amount in our consolidated statements of financial position reflects estimated cash payments to policyholders, reductions for expected future premiums, assumptions with regard to the timing of cash payments and discounting for interest.
+
+(4)For long-term debt information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 9, Debt.”
+
+(5)Amounts included in the certificates of deposit line item reflect estimated cash payments to be made, including expected interest payments. Certificates of deposit are reported with other liabilities on our consolidated statements of financial position.
+
+(6)Amounts included in the other long-term liabilities line item are contractual, non-cancelable and long-term in nature. The total payments primarily relate to savings deposits as well as premium associated with purchased option contracts where payments are made over the life of the contract. This line item excludes accruals, short-term items and items not contractual in nature.
+
+(7)Amounts included in the finance leases line item represent future minimum lease payments due under finance leases for buildings and hardware storage equipment. For finance lease information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 12, Contingencies, Guarantees, Indemnifications and Leases” under the caption, “Leases.”
+
+(8)Amounts included in the operating leases line item represent payments due under various operating leases for office space, data processing equipment and office furniture and equipment. For operating lease information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 12, Contingencies, Guarantees, Indemnifications and Leases” under the caption, “Leases.”
+
+(9)Purchase obligations include material contracts where we have a non-cancelable commitment to purchase goods and services in addition to commitments to originate loans and purchase investments.
+
+Pension and OPEB Plan Funding
+
+We have defined benefit pension plans covering substantially all of our U.S. employees and certain agents. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 11, Employee and Agent Benefits” for a complete discussion of these plans and their effect on the consolidated financial statements.
+
+We report the net funded status of our pension and OPEB plans in the consolidated statements of financial position. The net funded status represents the difference between the fair value of plan assets and the projected benefit obligation for pension and OPEB plans. The measurement of the net funded status can vary based upon the fluctuations in the fair value of the plan assets and the actuarial assumptions used for the plans as discussed below. The net underfunded status of the pension and OPEB obligation was $164.1 million pre-tax and $134.7 million pre-tax as of December 31, 2020 and 2019, respectively. Nonqualified pension plan assets are not included as part of the funding status mentioned above. The nonqualified pension plan assets are held in Rabbi trusts for the benefit of all nonqualified plan participants. The assets held in a Rabbi trust are available to satisfy the claims of general creditors only in the event of bankruptcy. Therefore, these assets are fully consolidated in our consolidated statements of financial position and are not reflected in our funded status as they do not qualify as plan assets under U.S. GAAP. The market value of assets held in these trusts was $394.8 million and $377.8 million as of December 31, 2020 and 2019, respectively.
+
+Our funding policy for the qualified pension plan is to fund the plan annually in an amount at least equal to the minimum annual contributions required under ERISA and, generally, not greater than the maximum amount that can be deducted for U.S. federal income tax purposes. We do not anticipate contributions will be needed in 2021 to satisfy the minimum funding requirements of ERISA for our qualified pension plan. We are unable to estimate the amount that may be contributed, but it is possible that we may fund the plans in 2021 up to $100.0 million. This includes funding for both our qualified and nonqualified pension plans. We do not anticipate contributing to our OPEB plans in 2021.
+
+Effective January 1, 2021, $655.5 million of assets in excess of the expected liability to cover the postretirement medical benefits for retirees were re-designated for non-retiree benefits. The elections were made pursuant to plan provisions which provide for assets in excess of 125% of expected liabilities to fund other benefits covered under the plans.
+
+Contractual Commitments
+
+We have made commitments to fund certain limited partnerships and other funds in which we are not the general partner or investment manager. As of December 31, 2020, the amount of unfunded commitments was $656.9 million. We are only required to fund additional equity under these commitments when called upon to do so by the partnership or fund; therefore, these commitments are not liabilities on our consolidated statements of financial position.
+
+64 
+Off-Balance Sheet Arrangements
+
+Variable Interest Entities. We have relationships with various types of special purpose entities and other entities where we have a variable interest as described in Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 3, Variable Interest Entities.” We have made commitments to fund certain limited partnerships, as previously discussed in “Contractual Commitments”, some of which are classified as unconsolidated variable interest entities.
+
+Guarantees and Indemnifications. As of December 31, 2020, no significant changes to guarantees and indemnifications have occurred since December 31, 2019. For guarantee and indemnification information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 12, Contingencies, Guarantees, Indemnifications and Leases” under the caption, “Guarantees and Indemnifications.”
+
+Financial Strength and Credit Ratings
+
+Our ratings are influenced by the relative ratings of our peers/competitors as well as many other factors including our operating and financial performance, capital levels, asset quality, liquidity, asset/liability management, overall portfolio mix, financial leverage (i.e., debt), risk exposures, operating leverage and other factors.
+
+A.M. Best, Fitch, and Moody’s have published their U.S. life insurance industry outlooks for 2021, which remain ‘negative’, citing economic uncertainty, investment performance and persistently low interest rates. S&P Global’s 2021 industry outlook remains ‘stable’.
+
+In November 2020, Moody’s affirmed the ‘A1’ financial strength ratings of Principal Life and Principal National Life Insurance Company (“PNLIC”). Moody’s also affirmed PFG’s senior unsecured debt at ‘Baa1’, which is guaranteed by PFS. The outlook for PFG, Principal Life and its affiliates has been changed to ‘positive’ from ‘stable’. The outlook revision is due to good profitability and relatively strong financial flexibility.
+
+In May 2020, Fitch affirmed the ‘AA-’ financial strength ratings of Principal Life and PNLIC. Fitch also affirmed PFG’s senior unsecured debt at ‘A-’. The outlook on all ratings was revised from ‘stable’ to ‘negative’. The outlook revision is due to the disruption to economic activity and the financial markets from the COVID-19 pandemic.
+
+In April 2020, S&P affirmed the financial strength rating of Principal Life and PNLIC at ‘A+’. S&P also affirmed the issuer credit ratings of PFG and PFS at ‘A-‘. The outlook on all ratings changed from ‘stable’ to ‘negative’. The ratings outlook reflects weaker earnings potential and capital adequacy as a result of the global recession.
+
+In February 2020, A.M. Best affirmed the financial strength ratings of Principal Life and PNLIC at ‘A+’. The outlook remains ‘stable’ for all financial strength ratings. The affirmation reflects the strength of our consolidated statement of financial positions as well as our strong operating performance, favorable business profile and very strong enterprise risk management. Concurrently, A.M. Best upgraded the Long-Term Issuer credit ratings. The ratings upgrade reflects the continued strengthening and evolution of our enterprise risk management capabilities. The outlook for the Long-Term Issuer credit rating was revised to ‘stable’ from ‘positive’.
+
+The following table summarizes our significant financial strength and debt ratings from the major independent rating organizations. A rating is not a recommendation to buy, sell or hold securities. Such a rating may be subject to revision or withdrawal at any time by the assigning rating agency. Each rating should be evaluated independently of any other rating.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Impacts of Income Taxes
+
+For income tax information, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 10, Income Taxes.”
+
+65 
+Fair Value Measurement
+
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (an exit price). The fair value hierarchy prioritizes the inputs to valuation techniques used to measure fair value into three levels. The fair value hierarchy gives the highest priority (Level 1) to unadjusted quoted prices in active markets for identical assets or liabilities and gives the lowest priority (Level 3) to unobservable inputs. The level in the fair value hierarchy within which the fair value measurement in its entirety falls is determined based on the lowest level input that is significant to the fair value measurement in its entirety considering factors specific to the asset or liability. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” for further details, including a reconciliation of changes in Level 3 fair value measurements.
+
+As of December 31, 2020, 41% of our net assets (liabilities) were Level 1, 56% were Level 2 and 3% were Level 3. Excluding separate account assets as of December 31, 2020, 3% of our net assets (liabilities) were Level 1, 97% were Level 2 and 0% were Level 3.
+
+As of December 31, 2019, 41% of our net assets (liabilities) were Level 1, 55% were Level 2 and 4% were Level 3. Excluding separate account assets as of December 31, 2019, 3% of our net assets (liabilities) were Level 1, 97% were Level 2 and 0% were Level 3. 
+
+Changes in Level 3 Fair Value Measurements
+
+Net assets (liabilities) measured at fair value on a recurring basis using significant unobservable inputs (Level 3) as of December 31, 2020, were $8,812.6 million as compared to $9,191.0 million as of December 31, 2019. The decrease was primarily related to net sales in our separate account assets, net transfers of certain structured fixed maturities out of Level 3 into Level 2 and investment and universal life contract embedded derivative losses largely due to market impacts. These decreases were partially offset by gains in our separate account assets.
+
+Investments
+
+We had total consolidated assets as of December 31, 2020, of $296,627.7 million, of which $106,306.9 million were invested assets. The rest of our total consolidated assets are comprised primarily of separate account assets for which we do not bear investment risk; therefore, the discussion and financial information below does not include such assets.
+
+Overall Composition of Invested Assets
+
+Invested assets as of December 31, 2020, were predominantly high quality and broadly diversified across asset class, individual credit, industry and geographic location. Asset allocation is determined based on cash flow and the risk/return requirements of our products. As shown in the following table, the major categories of invested assets are fixed maturities and commercial mortgage loans.[DATA_TABLE_REMOVED]
+
+​
+
+66 
+Investment Results
+
+Net Investment Income
+
+The following table presents the yield and investment income, excluding net realized capital gains and losses, for our invested assets for the years indicated. We calculate annualized yields using a simple average of asset classes at the beginning and end of the reporting period. The yields for available-for-sale fixed maturities are calculated using amortized cost. All other yields are calculated using carrying amounts.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Net investment income from fixed maturities increased primarily due to higher average invested assets and prepayments, partially offset by lower yields in our U.S. operations.
+
+Net investment income from equity securities decreased primarily due to unfavorable relative market performance on our required regulatory investments in our Latin America business.
+
+Net investment income from cash and cash equivalents decreased primarily due to decreases in federal fund rates tied to our short-term investments.
+
+Net investment income from other investments decreased primarily due to foreign currency headwinds and lower income from our equity method investments in Brazil.
+
+Net Realized Capital Gains (Losses)
+
+The following table presents the contributors to net realized capital gains and losses for the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Upon adoption of authoritative guidance effective January 1, 2020, credit losses include credit sales, adjustments to the credit loss valuation allowance, write-offs and recoveries on available-for-sale securities. Prior to 2020, credit losses included credit sales, net other-than-temporary impairment losses and recoveries on available-for-sale securities.
+
+(2)Includes fixed maturities, trading net gains (losses) of $5.5 million and $10.4 million for the years ended December 31, 2020 and 2019, respectively, which are a component of the GMWB embedded derivative hedging program net realized capital gains (losses) reflected in this line.
+
+67 
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+
+Fixed maturities, available-for-sale and trading – noncredit increased due to noncredit gains related to portfolio rebalancing in 2020, partially offset by lower mark-to-market gains on trading fixed maturities.
+
+Net realized losses on derivatives and related hedge activities increased primarily due to lower losses on the GMWB embedded derivatives, including changes in the spread reflecting our own creditworthiness, and related hedging instruments and increased gains on interest rate swaps not designated as hedging instruments due to changes in interest rates. Additionally, our Principal International segment had net realized capital gains on currency derivatives in 2020 compared to net realized capital losses in 2019 due to changes in exchange rates.
+
+Other gains increased primarily due to gains on the sale of real estate investments in 2020 and an impairment of an equity method investment in 2019. These increases were partially offset by decreased gains from sponsored invested funds.
+
+U.S. Investment Operations
+
+Of our invested assets, $97,831.1 million were held by our U.S. operations as of December 31, 2020. Our U.S. invested assets are managed primarily by our Principal Global Investors segment. Our Investment Committee, appointed by our Board of Directors, is responsible for establishing investment policies and monitoring risk limits and tolerances. Our primary investment objective is to maximize after-tax returns consistent with acceptable risk parameters. We seek to protect customers’ benefits by optimizing the risk/return relationship on an ongoing basis, through asset/liability matching, reducing credit risk, avoiding high levels of investments that may be redeemed by the issuer, maintaining sufficiently liquid investments and avoiding undue asset concentrations through diversification. We are exposed to two primary sources of investment risk:
+
+●credit risk, relating to the uncertainty associated with the continued ability of an obligor to make timely payments of principal and interest and
+
+●interest rate risk, relating to the market price and/or cash flow variability associated with changes in market yield curves.
+
+Our ability to manage credit risk is essential to our business and our profitability. We devote considerable resources to the credit analysis of each new investment. We manage credit risk through industry, issuer and asset class diversification.
+
+A dedicated committee, comprised of senior investment professional staff members, approves the credit rating for the fixed maturities we purchase. We have teams of security analysts, organized by industry and asset class, that analyze and monitor these investments. Investments held in the portfolio are monitored on a continuous basis with a formal review annually or more frequently if material events affect the issuer. The analysis includes both fundamental and technical factors. The fundamental analysis encompasses both quantitative and qualitative analysis of the issuer. The qualitative analysis includes an assessment of both accounting and management aggressiveness of the issuer. In addition, technical indicators such as stock price volatility and credit default swap levels are monitored. We regularly review our investments to determine whether we should re-rate them, employing the following criteria:
+
+●material changes in the issuer’s revenues, margins, capital structure or collateral values;
+
+●significant management or organizational changes;
+
+●significant changes regarding the issuer’s industry;
+
+●debt service coverage or cash flow ratios that fall below industry-specific thresholds;
+
+●violation of financial covenants and
+
+●other business factors that relate to the issuer.
+
+We purchase credit default swaps to hedge certain credit exposures in our investment portfolio. We economically hedged credit exposure in our portfolio by purchasing credit default swaps with a notional amount of $125.0 million and $75.0 million as of December 31, 2020 and December 31, 2019, respectively. We sell credit default swaps to offer credit protection to investors when entering into synthetic replicating transactions. When selling credit protection, if there is an event of default by the referenced name, we are obligated to pay the counterparty the referenced amount of the contract and receive in return the referenced security. For further information on credit derivatives sold, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 5, Derivative Financial Instruments” under the caption, “Credit Derivatives Sold.”
+
+68 
+Our use of derivatives exposes us to counterparty risk, or the risk that the counterparty fails to perform the terms of the derivative contract. We actively manage this risk by:
+
+●obtaining approval of all new counterparties by the Investment Committee;
+
+●establishing exposure limits that take into account non-derivative exposure we have with the counterparty as well as derivative exposure;
+
+●performing similar credit analysis prior to approval on each derivatives counterparty that we do when lending money on a long-term basis;
+
+●diversifying our risk across numerous approved counterparties;
+
+●implementing credit support annex (collateral) agreements (“CSAs”) for over-the-counter derivative transactions or similar agreements with a majority of our counterparties to further limit counterparty exposures, which provide for netting of exposures;
+
+●limiting exposure to A credit or better for over-the-counter derivative counterparties without CSAs;
+
+●conducting stress-test analysis to determine the maximum exposure created during the life of a prospective transaction;
+
+●daily monitoring of counterparty credit ratings, exposures and associated collateral levels and
+
+●trading mandatorily cleared contracts through centralized clearinghouses.
+
+We manage our exposure on a net basis, whereby we net positive and negative exposures for each counterparty with agreements in place. For further information on derivative exposure, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Balance Sheet Offsetting.”
+
+A dedicated risk management team is responsible for centralized monitoring of the commercial mortgage loan portfolio. We apply a variety of strategies to minimize credit risk in our commercial mortgage loan portfolio. When considering new commercial mortgage loans, we review the cash flow fundamentals of the property, make a physical assessment of the underlying commercial real estate, conduct a comprehensive market analysis and compare against industry lending practices. We use a proprietary risk rating model to evaluate all new and substantially all existing loans within the portfolio. The proprietary risk model is designed to stress projected cash flows under simulated economic and market downturns. Our lending guidelines are typically 75% or less loan-to-value ratio and a debt service coverage ratio of at least 1.2 times. We analyze investments outside of these guidelines based on cash flow quality, tenancy and other factors. The following table presents loan-to-value and debt service coverage ratios for our brick and mortar commercial mortgage loans:
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+We also seek to manage call or prepayment risk arising from changes in interest rates. We assess and price for call or prepayment risks in all of our investments and monitor these risks in accordance with asset/liability management policies.
+
+The amortized cost and weighted average yield, calculated using amortized cost, of non-structured fixed maturity securities that will be callable at the option of the issuer, excluding securities with a make-whole provision, were $9,372.5 million and 4.0%, respectively, as of December 31, 2020, and $3,135.5 million and 3.7%, respectively, as of December 31, 2019. In addition, the amortized cost and weighted average yield of RMBS, residential collateralized mortgage obligations, and asset-backed securities - home equity with material prepayment risk were $6,122.7 million and 3.0%, respectively, as of December 31, 2020, and $7,318.7 million and 3.1%, respectively, as of December 31, 2019.
+
+Our investment decisions and objectives are a function of the underlying risks and product profiles of each primary business operation. In addition, we diversify our product portfolio offerings to include products that contain features that will protect us against fluctuations in interest rates. Those features include adjustable crediting rates, policy surrender charges and market value adjustments on liquidations. For further information on our management of interest rate risk, see Item 7A. “Quantitative and Qualitative Disclosures About Market Risk – Interest Rate Risk.”
+
+69 
+Overall Composition of U.S. Invested Assets
+
+As shown in the following table, the major categories of U.S. invested assets are fixed maturities and commercial mortgage loans. The following discussion analyzes the composition of U.S. invested assets, but excludes invested assets of the separate accounts.[DATA_TABLE_REMOVED]
+
+​
+
+Fixed Maturities
+
+Fixed maturities include bonds, ABS, redeemable preferred stock and certain non-redeemable preferred securities. Included in the privately placed category as of December 31, 2020 and December 31, 2019, were $18.6 billion and $17.7 billion, respectively, of securities subject to certain holding periods and resale restrictions pursuant to Rule 144A of the Securities Act of 1933.
+
+Fixed maturities were diversified by category of issuer, as shown in the following table for the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+We believe it is desirable to hold residential mortgage-backed pass-through securities due to their credit quality and liquidity as well as portfolio diversification characteristics. Our portfolio is comprised of Government National Mortgage Association, Federal National Mortgage Association and Federal Home Loan Mortgage Corporation pass-through securities. In addition, our residential collateralized mortgage obligation portfolio offers structural features that allow cash flows to be matched to our liabilities.
+
+We purchase CMBS to diversify the overall credit risks of the fixed maturities portfolio and to provide attractive returns. The primary risks in holding CMBS are structural and credit risks. Structural risks include the security’s priority in the issuer’s capital structure, the adequacy of and ability to realize proceeds from the collateral and the potential for prepayments. Credit risks involve collateral and issuer/servicer risk where collateral and servicer performance may deteriorate. CMBS are predominantly comprised of large pool securitizations that are diverse by property type, borrower and geographic dispersion. The risks to any CMBS deal are determined by the credit quality of the underlying loans and how those loans perform over time. Another key risk is the vintage of the underlying loans and the state of the markets during a particular vintage. 
+
+70 
+Similar to CMBS, we purchase ABS for diversification and to provide attractive returns. The primary risks in holding ABS are also structural and credit risks, which are similar to those noted above for CMBS. Our ABS portfolio is diversified by type of asset, issuer, and vintage. We actively monitor holdings of ABS to recognize adverse changes in the risk profile of each security. Prepayments in the ABS portfolio are, in general, insensitive to changes in interest rates or are insulated from such changes by call protection features. In the event we are subject to prepayment risk, we monitor the factors that impact the level of prepayment and prepayment speed for those ABS. In addition, we hold a diverse class of securities, which limits our exposure to any one security.
+
+The international exposure held in our U.S. operation’s fixed maturities portfolio was 16% of total fixed maturities as of December 31, 2020 and 18% as of December 31, 2019. It is comprised of corporate and foreign government fixed maturities. The following table presents the carrying amount of our international exposure for our U.S. operation’s fixed maturities portfolio for the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Includes exposure from two countries and various supranational organizations as of both December 31, 2020, and December 31, 2019.
+
+International fixed maturities exposure is determined by the country of risk of the obligor entity for the year ended December 31, 2020. Prior to December 31, 2020, international fixed maturities exposure was determined by the country of domicile of the parent entity. All international fixed maturities held by our U.S. operations are either denominated in U.S. dollars or have been swapped into U.S. dollar equivalents. Our international investments are analyzed internally by country and industry credit investment professionals. We control concentrations using issuer and country level exposure benchmarks, which are based on the credit quality of the issuer and the country. Our investment policy limits total international fixed maturities investments and we are within those internal limits. Exposure to Canada is not included in our international exposure. As of December 31, 2020 and December 31, 2019, our investments in Canada totaled $2,037.9 million and $2,111.9 million, respectively.
+
+Fixed Maturities Credit Concentrations. One aspect of managing credit risk is through industry, issuer and asset class diversification. Our credit concentrations are managed to established limits. The following table presents our top ten exposures as of December 31, 2020.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+71 
+Fixed Maturities Valuation and Credit Quality. Valuation techniques for the fixed maturities portfolio vary by security type and the availability of market data. The use of different pricing techniques and their assumptions could produce different financial results. See Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 14, Fair Value Measurements” for further details regarding our pricing methodology. Once prices are determined, they are reviewed by pricing analysts for reasonableness based on asset class and observable market data. Investment analysts who are familiar with specific securities review prices for reasonableness through direct interaction with external sources, review of recent trade activity or use of internal models. All fixed maturities placed on the “watch list” are periodically analyzed by investment analysts. These analysts periodically meet with the Chief Investment Officer and the Portfolio Managers to determine reasonableness of the analysts’ prices. The valuation of bonds for which a credit loss exists and there is no quoted price is typically based on relative value analysis and the present value of the future cash flows expected to be received. Although we believe these values reasonably reflect the fair value of those securities, the key assumptions about risk premiums, performance of underlying collateral (if any) and other market factors involve qualitative and unobservable inputs. 
+
+The Securities Valuation Office (“SVO”) of the NAIC monitors the bond investments of insurers for regulatory capital and reporting purposes and, when required, assigns securities to one of six categories referred to as NAIC designations. Although NAIC designations are not produced to aid the investment decision making process, NAIC designations may serve as a reasonable proxy for Nationally Recognized Statistical Rating Organizations’ (“NRSRO”) credit ratings for certain bonds. For most corporate bonds, NAIC designations 1 and 2 include bonds generally considered investment grade by such rating organizations. Bonds are considered investment grade when rated ‘‘Baa3’’ or higher by Moody’s, or ‘‘BBB-’’ or higher by S&P. NAIC designations 3 through 6 include bonds generally referred to as below investment grade. Bonds are considered below investment grade when rated ‘‘Ba1’’ or lower by Moody’s, or ‘‘BB+’’ or lower by S&P. 
+
+However, for loan-backed and structured securities, as defined by the NAIC, the NAIC designation is not always a reasonable indication of an NRSRO rating as described below. For CMBS and non-agency RMBS, Blackrock Solutions undertakes the modeling of those NAIC designations. This may result in a final designation being higher or lower than the NRSRO credit rating. 
+
+The following table presents our total fixed maturities by NAIC designation as of the years indicated as well as the percentage, based on fair value, that each designation comprises.
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+Fixed maturities included 59 securities with an amortized cost of $804.6 million, gross gains of $18.1 million, gross losses of $2.9 million and a carrying amount of $819.8 million as of December 31, 2020, that were still pending a review and assignment of a designation by the SVO. Due to the timing of when fixed maturities are purchased, legal documents are filed and the review by the SVO is completed, we will always have securities in our portfolio that are unrated over a reporting period. In these instances, an equivalent designation is assigned based on our fixed income analyst’s assessment.
+
+Commercial Mortgage-Backed Securities. As of December 31, 2020, based on amortized cost, 88% of our CMBS portfolio had an NAIC designation of 1.
+
+72 
+The following table presents our exposure by credit quality based on NAIC designations for our CMBS portfolio as of the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)The CMBS portfolio included agency CMBS with a $285.3 million amortized cost and a $297.3 million carrying amount as of December 31, 2020, and a $302.1 million amortized cost and a $303.1 million carrying amount as of December 31, 2019.
+
+​
+
+Fixed Maturities Watch List. We monitor any decline in the credit quality of fixed maturities through the designation of “problem securities,” “potential problem securities” and “restructured securities”. We define problem securities in our fixed maturity portfolio as securities: (i) with principal and/or interest payments in default or where default is perceived to be imminent in the near term, or (ii) issued by a company that went into bankruptcy subsequent to the acquisition of such securities. We define potential problem securities in our fixed maturity portfolio as securities included on an internal “watch list” for which management has concerns as to the ability of the issuer to comply with the present debt payment terms and which may result in the security becoming a problem or being restructured. The decision whether to classify a performing fixed maturity security as a potential problem involves significant subjective judgments by our management as to the likely future industry conditions and developments with respect to the issuer. We define restructured securities in our fixed maturity portfolio as securities where a concession has been granted to the borrower related to the borrower’s financial difficulties that would not have otherwise been considered. We determine that restructures should occur in those instances where greater economic value will be realized under the new terms than through liquidation or other disposition and may involve a change in contractual cash flows. If the present value of the restructured cash flows is less than the current cost of the asset being restructured, a realized capital loss is recorded in net income and a new cost basis is established.
+
+The following table presents the total carrying amount of our fixed maturities portfolio, as well as its problem, potential problem and restructured fixed maturities for the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Upon adoption of authoritative guidance effective January 1, 2020, the problem fixed maturities carrying amount is net of the credit loss valuation allowance. Prior to 2020, the problem fixed maturities carrying amount was net of other-than-temporary impairment losses.
+
+Fixed Maturities Credit Losses. Each reporting period, a group of individuals including the Chief Investment Officer, our Portfolio Managers, the assigned analysts and representatives from Investment Accounting review all securities to determine whether a credit loss exists. The analysis focuses on each issuer’s ability to service its debts in a timely fashion. Formal documentation of the analysis and our decision is prepared and approved by management. For additional details regarding our process to identify and evaluate securities with credit losses, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption “Allowance for Credit Loss.”
+
+We would not consider a security with unrealized losses to have a decline in value due to credit when it is not our intent to sell the security, it is not more likely than not that we would be required to sell the security before recovery of the amortized cost, which may be maturity, and we expect to recover the amortized cost basis. However, we do sell securities under certain circumstances, such as when we have evidence of a change in the issuer’s creditworthiness, when we anticipate poor relative future performance of securities, when a change in regulatory requirements modifies what constitutes a permissible investment or the maximum level of investments held or when there is an increase in capital requirements or a change in risk weights of debt securities. Sales generate both gains and losses.
+
+73 
+A number of significant risks and uncertainties are inherent in the process of monitoring credit losses and determining the allowance for credit loss. These risks and uncertainties include: (1) the risk that our assessment of an issuer’s ability to meet all of its contractual obligations will change based on changes in the credit characteristics of that issuer, (2) the risk that the economic outlook will be worse than expected or have more of an impact on the issuer than anticipated, (3) the risk that our investment professionals are making decisions based on fraudulent or misstated information in the financial statements provided by issuers and (4) the risk that new information obtained by us or changes in other facts and circumstances lead us to change our intent to not sell the security prior to recovery of its amortized cost. Any of these situations could result in a charge to net income in a future period.
+
+The net realized loss relating to the change in the allowance for credit loss and credit related sales of fixed maturities was $61.9 million for the year ended December 31, 2020. The net realized loss relating to other-than-temporary credit impairments and credit related sales of fixed maturities was $43.5 million for the year ended December 31, 2019.
+
+Fixed Maturities Available-for-Sale
+
+The following tables present our fixed maturities available-for-sale by industry category, as of the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)This exposure is all related to sub-prime mortgage loans.
+
+​
+
+74 
+[DATA_TABLE_REMOVED]
+
+(1)Prior to the adoption of authoritative guidance effective January 1, 2020, the gross unrealized losses included other-than-temporary-impairment losses reported in AOCI.
+
+(2)This exposure is all related to sub-prime mortgage loans.
+
+Of the $177.2 million in gross unrealized losses as of December 31, 2020, $0.4 million in losses were attributed to securities scheduled to mature in one year or less, $6.5 million attributed to securities scheduled to mature between one to five years, $27.2 million attributed to securities scheduled to mature between five to ten years, $52.8 million attributed to securities scheduled to mature after ten years and $90.3 million related to mortgage-backed and other ABS that are not classified by maturity year. As of December 31, 2020, we were in a $7,406.6 million net unrealized gain position as compared to a $4,192.9 million net unrealized gain position as of December 31, 2019. The $3,213.7 million increase in net unrealized gains for the year ended December 31, 2020, can be attributed to an approximate 97 basis points decrease in interest rates, partially offset by widening of spreads.
+
+Fixed Maturities Available-For-Sale Unrealized Losses. We believe our long-term fixed maturities portfolio is well diversified among industry types and between publicly traded and privately placed securities. Each year, we direct the majority of our net cash inflows into investment grade fixed maturities. Our current policy is to limit the percentage of fixed maturities invested in below investment grade assets to 15%. 
+
+We invest in privately placed fixed maturities to enhance the overall value of the portfolio, increase diversification and obtain higher yields than are possible with comparable quality public market securities. Generally, private placements provide broader access to management information, strengthened negotiated protective covenants, call protection features and, where applicable, a higher level of collateral. They are, however, generally not freely tradable because of restrictions imposed by U.S. federal and state securities laws and illiquid trading markets.
+
+75 
+The following table presents our fixed maturities available-for-sale by investment grade and below investment grade as of the years indicated.
+
+​[DATA_TABLE_REMOVED]
+
+(1)Prior to the adoption of authoritative guidance effective January 1, 2020, the gross unrealized losses included other-than-temporary-impairment losses reported in AOCI.
+
+​
+
+The following tables present the carrying amount and the gross unrealized losses on our fixed maturities available-for-sale for which an allowance for credit loss has not been recorded by grade and aging category as of December 31, 2020.
+
+​[DATA_TABLE_REMOVED]
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+76 
+[DATA_TABLE_REMOVED]
+
+​
+
+The following tables present the carrying amount and the gross unrealized losses, including other-than-temporary impairment losses reported in AOCI, on investment grade fixed maturities available-for-sale by grade and aging category as of December 31, 2019.
+
+​[DATA_TABLE_REMOVED]
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+77 
+[DATA_TABLE_REMOVED]
+
+​
+
+Mortgage Loans
+
+Mortgage loans consist of commercial mortgage loans on real estate and residential mortgage loans. For further details about residential mortgage loans, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Financing Receivables.”
+
+Commercial Mortgage Loans. We generally report commercial mortgage loans on real estate at cost adjusted for amortization of premiums and accrual of discounts, computed using the interest method and net of valuation allowances.
+
+Commercial mortgage loans play an important role in our investment strategy by:
+
+●providing strong risk-adjusted relative value in comparison to other investment alternatives;
+
+●enhancing total returns and
+
+●providing strategic portfolio diversification.
+
+As a result, we have focused on constructing a high quality portfolio of mortgages. Our portfolio is generally comprised of mortgages originated with conservative loan-to-value ratios, high debt service coverages and general purpose property types with a strong credit tenancy.
+
+Our commercial mortgage loan portfolio consists primarily of non-recourse, fixed rate mortgages on fully or near fully leased properties. The mortgage portfolio is comprised primarily of office properties, apartments, well anchored retail properties and general-purpose industrial properties.
+
+Our commercial mortgage loan portfolio is diversified by geography and specific collateral property type. Commercial mortgage lending in the state of California accounted for 22% and 21% of our commercial mortgage loan portfolio before valuation allowance as of December 31, 2020 and December 31, 2019, respectively. We are, therefore, exposed to potential losses resulting from the risk of catastrophes, such as earthquakes, that may affect the region. Like other lenders, we generally do not require earthquake insurance for properties on which we make commercial mortgage loans. With respect to California properties, however, we obtain an engineering report specific to each property. The report assesses the building’s design specifications, whether it has been upgraded to meet seismic building codes and the maximum loss that is likely to result from a variety of different seismic events. We also obtain a report that assesses, by building and geographic fault lines, the amount of loss our commercial mortgage loan portfolio might suffer under a variety of seismic events.
+
+The typical borrower in our commercial loan portfolio is a single purpose entity or single asset entity. As of December 31, 2020 and December 31, 2019, the total number of commercial mortgage loans outstanding was 753 and 767, of which 44% and 46% were for loans with principal balances less than $10.0 million, respectively. The average loan size of our commercial mortgage portfolio was $19.9 million and $19.2 million as of December 31, 2020 and December 31, 2019, respectively.
+
+Commercial Mortgage Loan Credit Monitoring. For further details on monitoring and management of our commercial mortgage loan portfolio, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Financing Receivables Credit Monitoring.”
+
+78 
+We categorize loans that are 60 days or more delinquent, loans in process of foreclosure and loans with borrowers or credit tenants in bankruptcy that are delinquent as “problem” loans. We categorize loans that are delinquent less than 60 days where the default is expected to be cured and loans with borrowers or credit tenants in bankruptcy that are current as “potential problem” loans. The decision whether to classify a loan delinquent less than 60 days as a potential problem involves significant subjective judgments by management as to the likely future economic conditions and developments with respect to the borrower. We categorize loans for which the original note rate has been reduced below market and loans for which the principal has been reduced as “restructured” loans. We also consider loans that are refinanced more than one year beyond the original maturity or call date at below market rates as restructured.
+
+We did not have problem, potential problem and restructured commercial mortgage loans as of December 31, 2020 and December 31, 2019.
+
+Commercial Mortgage Loan Valuation Allowance. We establish the commercial mortgage loan valuation allowance at levels considered adequate to absorb estimated expected credit losses within the portfolio. For further details on the commercial mortgage loan valuation allowance, see Item 8. “Financial Statements and Supplementary Data, Notes to Consolidated Financial Statements, Note 4, Investments” under the caption, “Financing Receivables Valuation Allowance.” 
+
+Real Estate
+
+Real estate consists primarily of commercial equity real estate. As of December 31, 2020 and December 31, 2019, the carrying amount of our equity real estate investment was $1,796.1 million and $1,713.5 million, respectively. Our commercial equity real estate is held in the form of wholly owned real estate, real estate acquired upon foreclosure of commercial mortgage loans and majority owned interests in real estate joint ventures.
+
+Equity real estate is categorized as either “real estate held for investment” or “real estate held for sale.” Real estate held for investment totaled $1,794.9 million and $1,544.5 million as of December 31, 2020 and December 31, 2019, respectively. The carrying value of real estate held for investment is generally adjusted for impairments whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. Such impairment adjustments are recorded as net realized capital losses in our consolidated results of operations. Impairment adjustments recorded for the year ended December 31, 2020, were $0.5 million. Impairment adjustments recorded for the year ended December 31, 2019, were $0.6 million.
+
+The carrying amount of real estate held for sale was $1.2 million and $169.0 million as of December 31, 2020 and December 31, 2019, respectively. Once we identify a real estate property to be sold and it is probable that it will be sold, we classify the property as held for sale. We establish a valuation allowance subject to periodic revisions, if necessary, to adjust the carrying value of the property to reflect the lower of its current carrying value or the fair value, less associated selling costs. The valuation allowance did not change for the year ended December 31, 2020 or for the year ended December 31, 2019.
+
+We use research, both internal and external, to recommend appropriate product and geographic allocations and changes to the equity real estate portfolio. We monitor product, geographic and industry diversification separately and together to determine the most appropriate mix.
+
+Equity real estate is distributed across geographic regions of the country. As of December 31, 2020, our largest equity real estate portfolio concentration was in the Pacific (47%) region of the United States. By property type, our largest concentrations were in Apartments (32%), Industrial (30%), and Office (28%) as of December 31, 2020.
+
+Other Investments
+
+Our other investments totaled $3,214.7 million as of December 31, 2020, compared to $2,841.7 million as of December 31, 2019. Other investments include interests in unconsolidated entities, which include real estate properties owned jointly with venture partners and operated by the partners; sponsored investment funds; the cash surrender value of company owned life insurance; derivative assets and other investments.
+
+79 
+International Investment Operations
+
+Of our invested assets, $8,475.8 million were held by our Principal International segment as of December 31, 2020. The assets are primarily managed by the local Principal International affiliate. Due to the regulatory constraints in each location, each company maintains its own investment policies. As shown in the following table, the major category of international invested assets is fixed maturities. The following table excludes invested assets of the separate accounts.[DATA_TABLE_REMOVED]
+
+​
+
+Regulations in certain locations require investment in the funds we manage. These required regulatory investments are classified as equity securities within our consolidated statements of financial position, with all mark-to-market changes reflected in net investment income. Our investment is primarily dictated by client activity and all investment performance is retained by us.
+
+​
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

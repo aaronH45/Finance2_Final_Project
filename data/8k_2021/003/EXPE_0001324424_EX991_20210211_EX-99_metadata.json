@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001324424",
+    "sec_company_name": "Expedia Group, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211160344",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442421000013/0001324424-21-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442421000013/0001324424-21-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\EXPE_0001324424_EX991_20210211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "859605 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34945,
+    "endpoints": [
+        "Document",
+        "ir@expediagroup.com press@expediagroup.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EXPE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\EXPE_0001324424_EX991_20210211_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:07:09.401275"
+}

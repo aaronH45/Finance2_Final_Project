@@ -1,0 +1,99 @@
+Exhibit   
+
+Exhibit 99.1
+
+Investor Relations Contact: 
+
+Lori Owen
+
+Xilinx, Inc.
+
+(408) 879-6911
+
+ir@xilinx.com
+
+XILINX ANNOUNCES THIRD QUARTER 2017 RESULTS; 
+
+FIFTH CONSECUTIVE QUARTER OF REVENUE GROWTH; EPS: $0.52
+
+SAN JOSE, CA, January 25, 2017-- Xilinx, Inc. (Nasdaq: XLNX) today announced third quarter fiscal 2017 sales of $586 million, up 1% sequentially, and up 3% from the third quarter of the prior fiscal year. Third quarter net income was $142 million, or $0.52 per diluted share. 
+
+The Xilinx Board of Directors declared a quarterly cash dividend of $0.33 per outstanding share of common stock payable on February 23, 2017 to all stockholders of record at the close of business on February 8, 2017. 
+
+Additional third quarter comparisons are represented in the charts below:
+
+GAAP Results 
+
+(In millions, except EPS)
+
+[DATA_TABLE_REMOVED]
+
+“Xilinx delivered growth for the fifth consecutive quarter. Sales from our 16nm Ultrascale+, 20nm Ultrascale, and 28nm Zynq products contributed to significant market expansion. The growth from these products was driven by a broad base of markets such as data center, automotive, test & measurement, wired and wireless communications and space,” said Moshe Gavrielov, Xilinx President and Chief Executive Officer. “Our FY17 strategic increase in R&D investment continues to pay off with the recent expansion announcement of our 16nm portfolio integrating High Bandwidth Memory and Cache Coherent Interconnect technology into Ultrascale+ FPGAs. In addition, our 16nm execution continues unabated. We are currently shipping 12 unique products to nearly 300 customers and remain over a year ahead of the competition.” 
+
+Net Revenues by Geography: 
+
+[DATA_TABLE_REMOVED]
+
+ Net Revenues by End Market: 
+
+[DATA_TABLE_REMOVED]
+
+Net Revenues by Product: 
+
+[DATA_TABLE_REMOVED]
+
+Products are classified as follows:
+
+Advanced products: UltraScale+, Ultrascale and 7-series products. 
+
+Core products: Virtex-6, Spartan-6, Virtex-5, CoolRunner-II, Virtex-4, Virtex-II, Virtex-E, Spartan-3, Spartan-II, XC9500, products, configuration solutions, Software & Support/Services.
+
+Key Statistics:
+
+(Dollars in millions)
+
+[DATA_TABLE_REMOVED]
+
+*Return on equity calculation: Annualized net income/average stockholders’ equity
+
+Product and Financial Highlights - December Quarter
+
+•Xilinx introduced the Reconfigurable Acceleration Stack, with a goal to enable mainstream adoption of FPGAs in the data center. Target applications include machine learning, video transcoding and big data analytics. Designed for cloud scale applications, the stack provides the fastest path to realize up to 40x better compute efficiency with Xilinx FPGAs compared to x86 server CPUs and up to six times the compute efficiency over competitive FPGAs. 
+
+•Xilinx unveiled details for new 16nm Virtex UltraScale+ FPGAs with HBM and CCIX technology. Containing the highest memory bandwidth available, these HBM-enabled FPGAs offer 20X higher memory bandwidth relative to a DDR4 DIMM and 4X less power per bit versus competing memory technologies. This product family is architected to support compute acceleration in the data center, high data rate Ethernet connectivity, 8K Video, and radar systems. 
+
+•Xilinx, announced that Amazon Web Services (AWS) is deploying Xilinx 16nm UltraScale+ FPGAs in the new Amazon Elastic Cloud Compute (Amazon EC2) F1 instance type, accelerating genomics, financial analytics, video processing, big data, security, and machine learning inference workloads. In addition to Amazon EC2 F1 instances, AWS also announced an FPGA Developer Amazon Machine Image which is pre-built with the development tools and scripts including Xilinx's Vivado Design Suite and Vivado license. 
+
+Business Outlook - March Quarter Fiscal 2017 
+
+•Sales are expected to be in the range of $590M-$620M.
+
+•Gross margin is expected to be approximately 68-70%. 
+
+•Operating expenses are expected to be approximately $244 million including $1 million of amortization of acquisition-related intangibles. 
+
+•Other income and expenses are expected to be a net expense of approximately $4 million.
+
+•March quarter tax rate is expected to be approximately 14%.
+
+Conference Call
+
+A conference call will be held today at 2:00 p.m. Pacific Time to discuss the December quarter financial results and management's outlook for the March quarter. The webcast and subsequent replay will be available in the investor relations section of the Company's web site at www.investor.xilinx.com. A telephonic replay of the call may be accessed later in the day by calling (855) 859-2056 and referencing confirmation code 34530294. The telephonic replay will be available for two weeks following the live call. 
+
+This release contains forward-looking statements and projections. Forward-looking statements and projections can often be identified by the use of forward-looking words such as “expect,” “believe,” “may,” “will,” “could,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” or other similar expressions. Statements that refer to or are based on projections, uncertain events or assumptions also identify forward-looking statements. Such forward looking statements include, but are not limited to, statements related to the semiconductor market, the growth and acceptance of our products, expected revenue growth, the demand and growth in the markets we serve, opportunity for expansion into new markets, and our plans to repurchase shares of Xilinx stock and our expectations regarding our business outlook for the March quarter of fiscal 2017. Undue reliance should not be placed on such forward-looking statements and projections, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including market conditions which could impact the ability of the Company to execute the repurchase authorization in a timely manner; customer acceptance of our new products, current global economic conditions, the health of our customers and the end markets in which they participate, our ability to forecast end customer demand, a high dependence on turns business, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, changing competitive dynamics due to industry consolidation, our ability to deliver product in a timely manner, variability in wafer pricing, costs and liabilities associated with current and future litigation, and other risk factors listed in our most recent Forms 10-Q and 10-K. 
+
+About Xilinx 
+
+Xilinx is the leading provider of All Programmable FPGAs, SoCs, MPSoCs, and 3D ICs. Xilinx uniquely enables applications that are both software defined and hardware optimized - powering industry advancements in Cloud Computing, Embedded Vision, Industrial IoT, and 5G Wireless. For more information, visit www.xilinx.com.
+
+#1703F
+
+Xilinx, the Xilinx logo, Artix, ISE, Kintex, Spartan, Virtex, Zynq, Vivado, and other designated brands included herein are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+
+XLNX-F
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

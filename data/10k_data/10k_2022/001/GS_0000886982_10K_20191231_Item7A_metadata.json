@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000886982",
+    "sec_company_name": "GOLDMAN SACHS GROUP INC (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200221",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220210956",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/886982/000119312520043853/0001193125-20-043853-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/886982/000119312520043853/0001193125-20-043853.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\001\GS_0000886982_10K_20191231_Item7A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15301261 chars",
+    "document_group": "10-K",
+    "section_name": "Item7A",
+    "section_n_characters": 347,
+    "endpoints": [
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk  ",
+        "Item 8. Financial Statements and Supplementary Data"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "GS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\001\GS_0000886982_10K_20191231_Item7A_excerpt.txt",
+    "time_elapsed": 6.8,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:00:49.030625"
+}

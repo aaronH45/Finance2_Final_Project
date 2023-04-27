@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000019617",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150224",
+    "sec_filing_date": "20150225",
+    "sec_changed_date": "20150224",
+    "sec_accepted_date": "20150224190755",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961715000276/0000019617-15-000276-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961715000276/0000019617-15-000276.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\JPM_0000019617_EX991_20150224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "303764 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 202590,
+    "endpoints": [
+        "jpmc2015idexhibit991  ",
+        "A P P E N D I X Notes on slide 44 – Our penetration with Chase Private Client households continues to improve and we lead our peers in mortgage consideration among affluent consumers 1. Of those households that originated a mortgage through consumer channels in the period; Consumer Bank represents households with a DDA product 2. Source: Chase Mortgage Banking Brand Tracker; Q4 2014 3. Affluent defined as consumers with $150K+ income or $500K+ assets 4. Company/bank level consideration; survey question = “How likely are you to consider using each of these companies and banks the next time you are in the market for a mortgage or home equity loan and line of credit?”; % of survey respondents that selected one of the top 2 boxes (“Only one” or “one of 2 or 3 I would consider”) on a 5 point scale 78"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JPM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\JPM_0000019617_EX991_20150224_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:23.990331"
+}

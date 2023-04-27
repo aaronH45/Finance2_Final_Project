@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160224",
+    "sec_filing_date": "20160224",
+    "sec_changed_date": "20160224",
+    "sec_accepted_date": "20160224083058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375116000538/0000093751-16-000538-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375116000538/0000093751-16-000538.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\STT_0000093751_8K_20160224_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "30020 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3215,
+    "endpoints": [
+        "8-K   ",
+        "Slides for the webcast presentation by Joseph L. Hooley, Michael F. Rogers, Michael W. Bell and other senior members of State Street's executive leadership team to investors and analysts on February 24, 2016 (such Exhibit 99.1 is furnished and not filed)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\STT_0000093751_8K_20160224_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:58:54.829580"
+}

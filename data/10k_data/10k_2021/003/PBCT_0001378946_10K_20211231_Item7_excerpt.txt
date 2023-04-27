@@ -1,0 +1,887 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Forward-Looking Statements
+
+Periodic and other filings made by People’s United with the SEC pursuant to the Exchange Act may, from time to time, contain information and statements that are forward-looking in nature. Such filings include the Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and may include other forms such as proxy statements. Other written or oral statements made by People’s United or its representatives from time to time may also contain 
+
+forward-looking statements.
+
+In general, forward-looking statements usually use words such as “expect,” “anticipate,” “believe,” “should,” and similar expressions, and include all statements about People’s United’s operating results or financial position for future periods. Forward-looking statements represent management’s beliefs, based upon information available at the time the statements are made, with regard to the matters addressed; they are not guarantees of future performance.
+
+All forward-looking statements are subject to risks and uncertainties that could cause People’s United’s actual results or financial condition to differ materially from those expressed in or implied by such statements. Factors of particular importance to People’s United include, but are not limited to: (1) changes in general, international, national or regional economic conditions; (2) changes in interest rates; (3) changes in loan default and charge-off rates; (4) changes in deposit levels; (5) changes in levels of income and expense in non-interest income and expense related activities; (6) changes in accounting and regulatory guidance applicable to banks; (7) price levels and conditions in the public securities markets generally; (8) competition and its effect on pricing, spending, third-party relationships and revenues; (9) the pending merger with M&T; (10) changes in regulation resulting from or relating to financial reform legislation; and (11) the COVID-19 pandemic and its effect on the economic and business environment in which we operate.
+
+All forward-looking statements can be affected by inaccurate assumptions or by known or unknown risks and uncertainties. Consequently, no forward-looking statement can be guaranteed. People’s United does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+General
+
+The following discussion and analysis presents the more significant factors that affected People's United's financial condition as of December 31, 2021 and 2020, and the results of operations for each of the years then ended. For a discussion and analysis of the more significant factors that affected periods prior to 2020, refer to Item 7 - “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2020 filed with the SEC on March 1, 2021.
+
+People’s United is a bank holding company and a financial holding company, and the Bank is a national banking association. The principal business of People’s United is to provide, through the Bank and its subsidiaries, commercial banking, retail banking and wealth management services to individual, corporate and municipal customers. The Bank, which is headquartered in Bridgeport, Connecticut, had $64.5 billion in total assets as of December 31, 2021. Its deposit accounts are insured up to applicable limits by the FDIC under the DIF. The Bank is subject to regulation, examination, supervision and reporting requirements by the OCC, as its primary regulator, and by the FDIC as the deposit insurer. In addition, the CFPB has responsibility for supervising the Bank’s compliance with designated consumer financial laws.
+
+People’s United’s results of operations are largely dependent upon revenues generated through net interest income and fee-based revenues and, to a much lesser extent, other forms of non-interest income such as gains on asset sales. Sources for these revenues are diversified across People’s United’s three primary operating segments that represent its core businesses: Commercial Banking; Retail Banking; and Wealth Management. People’s United’s results of operations are also significantly affected by the provision for credit losses and the level of non-interest expense. In addition, People’s United’s results of operations may also be affected by general and local economic conditions, changes in market interest rates, government policies and actions of regulatory authorities.
+
+Recent Developments
+
+On February 18, 2022, People’s United and M&T jointly announced that the two companies have agreed to extend their merger agreement from February 21, 2022 to June 1, 2022 in order to provide additional time to obtain regulatory approval from the FRB. The merger received approval from both the New York State Department of Financial Services and the Connecticut Department of Banking in October 2021. Approval by the FRB is the only outstanding regulatory approval required to complete the merger.
+
+22
+
+Critical Accounting Policies and Estimates
+
+In preparing the consolidated financial statements, management is required to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. Actual results could differ from management’s current estimates as a result of changing conditions and future events.
+
+People’s United’s significant accounting policies are summarized in Note 1 to the Consolidated Financial Statements. Critical accounting policies represent those that are highly dependent on subjective or complex judgments, estimates and assumptions, and where changes in those estimates or assumptions could have a significant impact on the financial statements. Critical accounting estimates that involve a high degree of estimation uncertainty and which are susceptible to significant 
+
+near-term change, include the ACL and the recoverability of goodwill and other intangible assets. These accounting estimates, which are discussed further below, are reviewed with the Audit Committee of the Board of Directors.
+
+Allowance for Credit Losses
+
+The ACL is established through provisions for credit losses on loans charged to income. Losses on loans are charged to the ACL when all or a portion of a loan is deemed to be uncollectible. Recoveries of loans previously charged off are credited to the ACL when realized. On January 1, 2020, the Company adopted new accounting guidance, which requires entities to estimate and recognize an allowance for lifetime expected credit losses for loans and other financial assets measured at amortized cost (the “CECL standard”). Previously, an ACL on loans was recognized based on probable incurred losses. 
+
+See Note 1 to the Consolidated Financial Statements for a further discussion of the Company’s accounting policies and methodologies for establishing the ACL and the liability for off-balance-sheet credit exposures beginning in 2020.
+
+The ACL represents a critical accounting estimate for the following reasons:
+
+•The ACL requires management to project future borrower performance, including cash flows, delinquencies, charge-offs, and collateral values, based on a reasonable and supportable forecast period utilizing
+
+forward-looking economic scenarios in order to estimate probability of default and loss given default;
+
+•The ACL is influenced by factors outside of management’s control such as industry and business trends, geopolitical events and the effects of laws and regulations as well as economic conditions including, but not limited to, housing prices, interest rates, GDP, inflation and unemployment; and
+
+•Judgment is required to determine whether the models used to generate the ACL produce results that appropriately reflect a current estimate of lifetime expected credit losses.
+
+Current economic conditions and forecasts can change and future events are inherently difficult to predict. As a result, the anticipated amount of estimated credit losses on loans, and therefore the appropriateness of the ACL, could change significantly. In establishing its estimate of expected credit losses, the Company typically employs three separate,
+
+externally-sourced forward-looking economic scenarios. Those scenarios, which range from more benign to more severe, represent a ‘most likely outcome’ (the “Baseline” scenario) and two less likely scenarios referred to as the “Upside” scenario and the “Downside” scenario. The Company recognizes an approach using three scenarios may be insufficient in certain economic environments which may result in the inclusion of additional scenarios. For instance, as a result of a deterioration in U.S. economic conditions caused by the emergence, in March 2020, of the COVID-19 pandemic, and the corresponding increase in economic uncertainty, a fourth forward-looking economic scenario (the “Severe Downside” scenario) has also been considered for purposes of estimating expected credit losses since that time. Each scenario is based on the economic outlook and available information at each reporting date.
+
+It is difficult to estimate how potential changes in any one underlying economic assumption (i.e. factor or input) might affect an individual economic scenario or the overall allowance because a wide variety of assumptions are considered in estimating the allowance and changes in such assumptions may not occur at the same rate or be consistent across all product types. Additionally, changes in assumptions may be directionally inconsistent, such that improvement in one or more assumptions may offset deterioration in others.
+
+While it is challenging to evaluate the allowance impact for a change in a particular factor or input, the following table illustrates the range of potential variability observed with respect to the Company’s model-derived quantitative component of the ACL under the Company’s three primary economic scenarios, each over the two-year reasonable and supportable forecast period, along with two of the key macroeconomic assumptions underlying each scenario:
+
+23
+
+[DATA_TABLE_REMOVED]
+
+The sensitivity to management’s economic scenario weighting may be quantified by comparing the results of weighting each economic scenario at 100%. For example, at December 31, 2021, compared to a 100% Baseline scenario, a 100% Downside scenario would result in an increase of $72 million in the quantitative component of the ACL, while a 100% Upside scenario would result in a decrease of $25 million in the quantitative component of the ACL. Such sensitivity calculations do not necessarily reflect the nature and extent of future changes in the related ACL for a number of reasons including: 
+
+(i) management’s weighting of multiple forecasted economic scenarios in estimating expected credit losses; (ii) management’s predictions of future economic trends and relationships among the scenarios which may differ from actual events; and 
+
+(iii) management's application of subjective measures to modeled results when appropriate. As such, this analysis relates only to the modeled credit loss estimate and not to the overall period-end ACL, which includes qualitative adjustments.
+
+Because several quantitative and qualitative factors are considered in determining the ACL, this analysis does not necessarily reflect the nature and extent of future changes in the ACL or what the ACL would be under such economic circumstances. Rather, the analysis is intended to provide insight into the impact of adverse changes in the macroeconomic environment and the corresponding impact to modeled loss estimates. Such a hypothetical determination does not incorporate the impact of management judgment or other qualitative factors that could be applied in the actual estimation of the ACL nor does it imply any expectation as to a future deterioration in loss rates.
+
+As a result, management’s estimate of the ACL contains inherent uncertainty as it involves considerable judgment and is influenced by factors outside their control. Further, given the unprecedented economic uncertainty resulting from the COVID-19 pandemic, the Company’s future loss estimates may vary considerably as a result of: (i) changes in the economy compared to management’s December 31, 2021 assumptions; (ii) the magnitude and duration of the pandemic; and (iii) the impact and extent of the United States’ monetary and fiscal response. For these reasons, subsequent evaluations of the then existing loan portfolio, in light of the factors then prevailing, may result in significant changes in the ACL and provision for credit losses.
+
+Goodwill and Other Acquisition-Related Intangible Assets
+
+Goodwill and indefinite-lived intangible assets are required to be reviewed for impairment at least annually, with impairment losses charged to expense when they occur. Acquisition-related intangible assets, other than goodwill and indefinite-lived intangible assets, are amortized to expense over their estimated useful lives in a manner consistent with that in which the related benefits are expected to be realized, and are periodically reviewed by management to assess recoverability. Impairment losses on other acquisition-related intangibles are recognized as a charge to expense if carrying amounts exceed fair values.
+
+Goodwill is evaluated for impairment at the reporting unit level. For the purpose of the goodwill impairment evaluation, management has identified reporting units based upon the Company’s three operating segments: Commercial Banking; Retail Banking; and Wealth Management. The specific assets and liabilities assigned to the reporting units is based on whether such assets and liabilities will be employed in or relate to the operations of a particular reporting unit. Newly acquired goodwill is allocated to reporting units based on the degree to which a reporting unit is expected to benefit from the related acquisition. 
+
+The impairment evaluation is performed as of an annual measurement date or more frequently if a triggering event indicates that impairment may have occurred.
+
+Entities have the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of a reporting unit is less than its carrying amount. 
+
+If, after assessing the totality of such events or circumstances, an entity determines it is not more likely than not that the fair value of a reporting unit is less than its carrying amount, then the entity is not required to perform the quantitative impairment test as described below. 
+
+The quantitative test is used to identify potential impairment, and involves comparing each reporting unit’s estimated fair value to its carrying amount, including goodwill. If the estimated fair value of a reporting unit exceeds its carrying amount, goodwill is not deemed to be impaired. Should the carrying amount of the reporting unit exceed its estimated fair value, an impairment loss shall be recognized in an amount equal to that excess, not to exceed the carrying amount of goodwill.
+
+24
+
+The Company estimates the fair value of its reporting units by applying a weighting of values determined using (i) the discounted cash flow method of the income approach and (ii) the guideline public company method of the market approach. The income approach is based on significant assumptions and judgments, including internal forecasts and growth rates, as well as discount rates and terminal values that reflect management’s assessment of market participant views of the risks associated with the projected cash flows of the reporting units. The market approach is based on a comparison of certain financial metrics, including trading multiples and control premiums, derived from the market prices of stocks of companies that are actively traded and engaged in the same or similar businesses as the Company and the respective reporting unit. The derived multiples are then applied to the reporting unit’s financial metrics to produce an indication of value. Differences in the identification of reporting units or in the selection of valuation techniques and related assumptions could result in materially different evaluations of goodwill impairment.
+
+People’s United performed a quantitative assessment of goodwill impairment as of October 1, 2020 (its annual measurement date). In doing so, the income-based discounted cash flow approach was more heavily weighted (75%) than the market-based approach (25%) due to significant volatility in the market since the COVID-19 pandemic was declared a National Emergency on March 13, 2020. As noted above, the income approach to estimating fair value requires significant assumptions and judgments, including projections of future operating results and cash flows of each reporting unit that are based on an internal budget and strategic plan, expected long-term growth rates, discount rates, terminal multiples and the effects of external factors and market conditions. Changes in these estimates and assumptions could materially affect the estimated fair value of each reporting unit that could result in an impairment charge to reduce the carrying value of goodwill, which could be material to the Company’s financial position and results of operations.
+
+The following discusses the key assumptions utilized in the discounted cash flow valuation methodology that require significant management judgment:
+
+•Future Operating Results & Cash Flows — Projections of future cash flows utilized in arriving at the fair value estimate are derived from historical experience and assumptions regarding future growth and profitability of each reporting unit. Cash flows for a period of five years subsequent to the measurement date are utilized in the determination of the fair value of each reporting unit. Projections for the first three years are consistent with the Company’s operating budget and strategic plan. Projections beyond three years are based on long-term growth rates developed upon consideration of past and current performance as well as the economic and regulatory environments. Beyond five years, a terminal value is determined using a perpetuity growth rate based on inflation and real GDP growth rates.
+
+•Discount Rates — Cash flows determined based on the process described above are discounted to their present value. The discount rate (cost of equity) applied is comprised of a risk-free interest rate, an equity risk premium, a size premium, a factor covering the systemic market risk (equity beta) and, where applicable, a 
+
+company-specific risk premium. The values for the factors applied are determined primarily using external sources of information. The equity betas are determined based on a group of public companies similar to the reporting unit. The discount rates applied to the reporting units in connection with the 2020 quantitative impairment assessment ranged from 11.0% to 13.5%. Differences in the discount rates between reporting units are primarily due to distinct risks and uncertainties regarding the cash flows of the different reporting units.
+
+Based on the quantitative assessment performed as of October 1, 2020, People’s United recognized a non-cash goodwill impairment charge totaling $353.0 million (representing 12% of total goodwill) associated with the Retail Banking reporting unit, while the fair values of the Commercial Banking and Wealth Management reporting units continued to exceed the respective carrying values by 4% and 103%, respectively. The projected cash flows of the Retail Banking reporting unit declined from prior period valuations due to record-low mortgage rates and the Federal Reserve’s updated guidance in the third quarter of 2020 regarding inflation targeting and expectations for interest rates to remain low for an extended period of time. The lower yielding and longer duration nature of the Company’s residential mortgage portfolio and a decline in home equity portfolio balances in recent years adversely impacted the Retail Banking reporting unit.
+
+The Commercial Banking reporting unit’s allocated goodwill totaled approximately $2.0 billion as of October 1, 2020. Because the estimated fair value of the reporting unit was not substantially in excess of its carrying amount as of that date, a sensitivity analysis of both the projected future cash flows and the discount rate was performed. The results of that sensitivity analysis indicated (i) that a 10% reduction in the discrete cash flows projected for the five years subsequent to the measurement date would not result in the reporting unit’s estimated fair value being less than its carrying value and (ii) that an increase in the discount rate of 50 basis points would not result in the reporting unit’s estimated fair value being less than its carrying value.
+
+25
+
+After considering the effects of the aforementioned impairment charge and the Company’s market capitalization as of October 1, 2020, the implied control premium was determined to be approximately 55-60%. This implied control premium was largely a function of the Company’s stock price on the measurement date ($10.17) and in the weeks leading up to that date. Notably, through September 30, 2020, the Company’s stock price had only closed at or below $10.17 seven times with six of those occurrences between September 10, 2020 and September 29, 2020, a period during which several key market indices experienced volatility.
+
+Subsequent to the measurement date, an improved outlook with regard to interest rates and a reduction in the level of economic uncertainty due, in part, to widespread distribution of the COVID-19 vaccine resulted in a significant (approximately 50%) appreciation in People’s United’s stock price and an approximate $2.0 billion increase in its market capitalization. At the same time, the Company’s expectations with respect to future earnings and cash flows also improved.
+
+For purposes of its October 1, 2021 goodwill impairment assessment the Company elected to perform a qualitative assessment for all three reporting units. This assessment considered several developments since the date of its 2020 annual impairment assessment, including: (i) a significant increase in the Company’s stock price; (ii) the financial performance of the reporting units relative to both the Company’s 2021 operating budget and the 2021 projections included in the discounted cash flow analysis prepared in connection with the 2020 annual impairment assessment; and (iii) the implicit value of the Company as supported by the M&T purchase price.
+
+Due to the high degree of subjectivity involved in estimating the fair value of the Company’s reporting units, a decline in People’s United’s expected future cash flows or projected growth rates due to further deterioration in the economic environment, or continued market capitalization of the Company below book value, could result in an additional non-cash goodwill impairment charge that is material to People’s United’s results from operations but would have no effect on the Company’s cash balances, liquidity or tangible equity. In addition, because goodwill and other acquisition-related intangible assets are not included in the calculation of regulatory capital, the Company’s well-capitalized regulatory capital ratios would not be affected by such a potential non-cash charge.
+
+Non-GAAP Financial Measures and Reconciliation to GAAP
+
+In addition to evaluating People’s United’s results of operations in accordance with GAAP, management routinely supplements its evaluation with an analysis of certain non-GAAP financial measures, such as the efficiency and tangible common equity ratios, tangible book value per common share and operating earnings metrics. Management believes these 
+
+non-GAAP financial measures provide information useful to investors in understanding People’s United’s underlying operating performance and trends, and facilitates comparisons with the performance of other financial institutions. Further, the efficiency ratio and operating earnings metrics are used by management in its assessment of financial performance, including non-interest expense control, while the tangible common equity ratio and tangible book value per common share are used to analyze the relative strength of People’s United’s capital position.
+
+The efficiency ratio, which represents an approximate measure of the cost required by People’s United to generate a dollar of revenue, is the ratio of (i) total non-interest expense (excluding operating lease expense, goodwill impairment charges, amortization of other acquisition-related intangible assets, losses on real estate assets and non-recurring expenses) (the numerator) to (ii) net interest income on a fully taxable equivalent (“FTE”) basis plus total non-interest income (including the FTE adjustment on bank-owned life insurance (“BOLI”) income, the netting of operating lease expense and excluding gains and losses on sales of assets other than residential mortgage loans and acquired loans, and non-recurring income) (the denominator). People’s United generally considers an item of income or expense to be non-recurring if it is not similar to an item of income or expense of a type incurred within the last two years and is not similar to an item of income or expense of a type reasonably expected to be incurred within the following two years.
+
+Operating earnings exclude from net income available to common shareholders those items that management considers to be of such a non-recurring or infrequent nature that, by excluding such items (net of income taxes), People’s United’s results can be measured and assessed on a more consistent basis from period to period. Items excluded from operating earnings, which include, but are not limited to: (i) non-recurring gains/losses; (ii) merger-related expenses, including acquisition integration and other costs; (iii) write-downs of banking house assets and related lease termination costs; (iv) severance-related costs; and (v) charges related to executive-level management separation costs, are generally also excluded when calculating the efficiency ratio. Operating earnings per common share (“EPS”) is derived by determining the per common share impact of the respective adjustments to arrive at operating earnings and adding (subtracting) such amounts to (from) diluted EPS, as reported. Operating return on average assets is calculated by dividing operating earnings (annualized) by average total assets. Operating return on average tangible common equity is calculated by dividing operating earnings (annualized) by average tangible common equity. The operating common dividend payout ratio is calculated by dividing common dividends paid by operating earnings for the respective period.
+
+26
+
+Pre-provision net revenue is a useful financial measure as it enables an assessment of the Company’s ability to generate earnings to cover credit losses through a credit cycle as well as providing an additional basis for comparing the Company’s results of operation between periods by isolating the impact of the provision for credit losses, which can vary significantly between periods.
+
+The tangible common equity ratio is the ratio of (i) tangible common equity (total stockholders’ equity less preferred stock, goodwill and other acquisition-related intangible assets) (the numerator) to (ii) tangible assets (total assets less goodwill and other acquisition-related intangible assets) (the denominator). Tangible book value per common share is calculated by dividing tangible common equity by common shares (total common shares issued, less common shares classified as treasury shares and unallocated Employee Stock Ownership Plan (“ESOP”) common shares).
+
+In light of diversity in presentation among financial institutions, the methodologies used by People’s United for determining the non-GAAP financial measures discussed above may differ from those used by other financial institutions.
+
+The following table summarizes People’s United’s operating non-interest expense and efficiency ratio, as derived from amounts reported in the Consolidated Statements of Income:[DATA_TABLE_REMOVED]
+
+(1)Items classified as “other” and deducted from non-interest expense for purposes of calculating the efficiency ratio include certain franchise taxes and real estate owned expenses.
+
+(2)Items classified as “other” and deducted from total revenues for purposes of calculating the efficiency ratio include, as applicable, asset write-offs and gains/losses associated with the sale of branch locations.
+
+27
+
+The following table summarizes People’s United’s operating earnings, operating EPS and operating return on average assets:[DATA_TABLE_REMOVED]
+
+(1)Security losses incurred as a tax planning strategy in response to tax reform-related benefits are considered non-operating.
+
+(2)The goodwill impairment charge in 2020 is non-tax-deductible. Includes $9.2 million of benefits recognized in connection with tax reform in 2018.
+
+The following table summarizes People’s United’s pre-provision net revenue, as derived from amounts reported in the Consolidated Statements of Income:
+
+[DATA_TABLE_REMOVED]
+
+28
+
+The following tables summarize People’s United’s operating return on average tangible common equity and operating common dividend payout ratio:[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The following tables summarize People’s United’s tangible common equity ratio and tangible book value per common share derived from amounts reported in the Consolidated Statements of Condition:[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+29
+
+Economic Environment
+
+People’s United’s results are subject to fluctuations based on economic conditions that can affect, among other things, interest rates, deposit flows, credit demand and the ability of borrowers to service their debt. The U.S. economy expanded 5.7% in 2021, after contracting 3.4% in 2020 as a result of the impact of the COVID-19 pandemic, including steps taken by government authorities to control the spread of the virus and changes in consumer consumption. Growth during 2021 was facilitated by improving public health conditions and a broad-based return to pre-pandemic levels of activity in most areas. Growth exceeded 6.0% on an annualized basis in every quarter except the third when it slowed to 2.3%. Fourth quarter growth was the strongest of the year at 6.9% largely on account of inventory investment. Non-farm payrolls increased by 7 million in 2021, and the national unemployment rate decreased to 3.9% in December 2021 from 6.7% in December 2020. The labor force expanded by 1.6 million people in 2021 compared to a decrease of 4.0 million people in 2020 as the labor force participation rate increased from 61.5% in December 2020 to 61.9% in December 2021. Despite this increase, the total labor force as of December 2021 was 2.3 million less than at its pre-pandemic peak.
+
+Monetary policy throughout 2021 supported economic growth. The Federal Open Market Committee (the “FOMC”) of the Federal Reserve maintained the target policy rate for federal funds at 0.00% - 0.25%, and the effective federal funds rate remained at or below 0.10% for the entire year. In addition, the FOMC provided liquidity to the financial markets through a program of bond buying that led to an expansion of the Federal Reserve’s balance sheet from $7.4 trillion at year-end 2020 to $8.8 trillion at year-end 2021. Rates in the bond market varied moderately throughout the year as investors responded to changing growth prospects and public health conditions. The 10-year Treasury note yield started the year at 0.93%, the low point for the year, rose to a high of 1.74% in March and finished the year at 1.52%. Yields on the 2-year Treasury note varied between 0.11% and 0.30% before rising to 0.73% at the end of 2021 in response to inflationary pressures and the expectation of an interest rate hike by the FOMC in the first quarter of 2022. The slope of the yield curve as measured by the difference between the 10-year and the 2-year Treasury yields was little changed from 0.82% at January 4, 2021 to 0.79% at 
+
+December 31, 2021. The headline consumer price index in December 2021 was 7.0% above the prior year level, compared to 1.7% at December 2020. The core Personal Consumption price index for December 2021 was also 4.9% above the prior year level compared to 1.5% at December 2020.
+
+The 2021 interest rate environment, on balance, was not supportive of the net interest margin and led to a 34 basis point reduction in the margin. Loan losses remained low, and improvements in economic and business conditions allowed for a reduction in the provision for credit losses. Loan activity in 2021 was tempered by continued economic disruption resulting from the COVID-19 pandemic, while deposit growth, primarily in non-interest bearing deposits, reflected consumers' continued uncertainty with respect to the economy. The Company expects the economic expansion that resumed in 2021, after the pandemic-induced recession of early 2020, to continue throughout 2022, which should support a return to more normalized loan growth. Deposit growth will depend on changes in real personal income and the consumer’s propensity to save.
+
+Economic growth within People’s United’s primary market area is expected to mirror the national experience as its skilled labor force should enable it to be competitive in high-growth potential sectors of the economy, including health care, technology, education, and advanced manufacturing, while the sectors dependent on renewed social contact such as travel and leisure will depend on the national success at suppressing the COVID-19 pandemic to enable people to travel and socialize without fear of adverse health consequences. The effects of the COVID-19 pandemic continue to vary significantly by region, and the full extent of the effects of the pandemic on the U.S. and global economies, labor markets and financial markets are still being determined.
+
+Financial Overview
+
+People’s United completed its acquisitions of VAR effective January 2, 2019, BSB Bancorp effective April 1, 2019 and United Financial effective November 1, 2019. The assets acquired and liabilities assumed in these transactions were recorded at their estimated fair values as of the respective closing dates. People’s United’s results of operations include the results of these acquired companies beginning with the respective effective dates and financial data for prior periods has not been restated and therefore, are not directly comparable to subsequent periods. See Note 2 to the Consolidated Financial Statements for a further discussion on these acquisitions.
+
+30
+
+Comparison of Financial Condition at December 31, 2021 and 2020. Total assets at December 31, 2021 were $64.6 billion, a $1.6 billion increase from December 31, 2020, primarily reflecting increases of $6.5 billion in short-term investments and $1.6 billion in total securities, partially offset by decreases of $6.0 billion in total loans and $327 million in other assets. The increase in short-term investments reflects an increase in interest bearing deposits at the FRB-NY. The increase in total securities primarily reflects net purchases of government sponsored enterprise (“GSE”) mortgage-backed and collateralized mortgage obligation (“CMO”) securities, partially offset by a $165 million increase in the unrealized loss on debt securities available-for-sale. The decrease in total loans from December 31, 2020 to December 31, 2021 reflects decreases of $4.1 billion in commercial loans and $1.9 billion in retail loans. Included in commercial loans at December 31, 2021 and 2020 are Paycheck Protection Program (“PPP”) loans totaling $432 million and $2.3 billion, respectively. The decrease in other assets primarily reflects the change in fair value of derivative financial instruments, partially offset by an increase in affordable housing investments.
+
+Non-performing assets totaled $293.6 million at December 31, 2021, a $48.0 million decrease from December 31, 2020, primarily reflecting decreases of $32.3 million in non-accrual commercial and industrial loans, $26.0 million in non-accrual equipment financing loans and $20.5 million in non-accrual residential mortgage loans, partially offset by a $44.4 million increase in non-accrual commercial real estate loans. The ACL on loans was $343.6 million at December 31, 2021 compared to $425.1 million at December 31, 2020 (see Note 6 to the Consolidated Financial Statements). At December 31, 2021, the ACL as a percentage of total loans was 0.91% and as a percentage of non-accrual loans was 119.1%, compared to 0.97% and 129.1%, respectively, at December 31, 2020.
+
+At December 31, 2021, total liabilities were $56.7 billion, a $1.3 billion increase from December 31, 2020, primarily reflecting a $1.6 billion increase in total deposits, partially offset by a $190 million decrease in total borrowings.
+
+People’s United’s total stockholders’ equity was $7.9 billion at December 31, 2021, a $299 million increase from December 31, 2020. As a percentage of total assets, stockholders’ equity was 12.0% and 12.1% at December 31, 2021 and 2020, respectively. Tangible common equity as a percentage of tangible assets was 7.8% and 7.5% at December 31, 2021 and 2020, respectively.
+
+People’s United’s (consolidated) Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 8.5%, 12.2%, 12.7% and 13.9%, respectively, at December 31, 2021, compared to 8.3%, 10.5%, 11.0% and 12.4%, respectively, at December 31, 2020. The Bank’s Tier 1 Leverage capital ratio and its CET 1, Tier 1 and Total risk-based capital ratios were 8.6%, 12.9%, 12.9% and 14.0%, respectively, at December 31, 2021, compared to 8.7%, 11.5%, 11.5% and 12.8%, respectively, at December 31, 2020.
+
+Comparison of Results of Operations for the Years Ended December 31, 2021 and 2020. People’s United reported net income of $604.9 million, or $1.39 per diluted common share, for the year ended December 31, 2021, compared to $219.6 million, or $0.49 per diluted common share, for the 2020 period. Included in the 2021 results are non-operating expenses totaling $47.8 million ($37.8 million after-tax), or $(0.09) per common share. Results for 2020 include: (i) a goodwill impairment charge (non-tax-deductible) totaling $353.0 million, or $(0.83) per common share; (ii) non-operating expenses totaling $45.9 million ($36.5 million after-tax) or $(0.09) per common share; and (iii) a $75.9 million net gain recognized on the sale of PUIA ($60.4 million after-tax), or $0.14 per common share. On an operating basis, earnings were $628.6 million in 2021, or $1.48 per share, compared to $534.6 million, or $1.27 per share, in 2020. The results for 2021 reflect a negative provision for credit losses on loans driven by better credit metrics and an improved economic outlook, continued deposit growth and meaningful cost control.
+
+People’s United’s return on average assets was 0.94% for 2021 compared to 0.36% for the 2020 period. Return on average tangible common equity was 12.8% for 2021 compared to 4.8% for the 2020 period. On an operating basis, return on average assets was 0.98% for 2021 (0.88% for 2020) and return on average tangible common equity was 7.5% (12.4% for 2020). FTE net interest income totaled $1.5 billion in 2021, a $75.9 million decrease from the year-ago period, and the net interest margin decreased 35 basis points from 2020 to 2.65%. The decrease in the net interest margin reflects lower yields on the securities and loan portfolios, partially offset by lower rates on deposits and borrowings.
+
+Average total earning assets increased $4.2 billion compared to 2020, reflecting increases of $5.9 billion in average 
+
+short-term investments and $2.1 billion in average securities, partially offset by a decrease of $3.8 billion in average total loans. Average total funding liabilities increased $3.6 billion compared to 2020, reflecting a $5.0 billion increase in average total deposits, partially offset by a $1.4 billion decrease in average total borrowings.
+
+31
+
+Compared to 2020, total non-interest income decreased $99.1 million (included in 2020 is a $75.9 million net gain recognized on the sale of PUIA). The $380.3 million decrease in total non-interest expense in 2021 compared to 2020 primarily resulted from a $353.0 million goodwill impairment charge taken in the fourth quarter of 2020. The efficiency ratio was 56.2% for 2021 compared to 54.2% for the year-ago period. The provision for credit losses on loans totaled $(48.2) million in 2021 compared to $156.1 million in the year-ago period. The negative provision in 2021 primarily reflects notable improvements in the economic outlook (e.g. GDP and unemployment) largely attributable to continued COVID-19 vaccine distribution, an easing of social distancing restrictions and further government stimulus. The provision in 2020 reflects the initial application of the CECL standard and the economic uncertainties brought about by COVID-19, specifically as it related to assumptions regarding GDP and unemployment. Net loan charge-offs as a percentage of average total loans were 0.08% in 2021 compared to 0.06% in 2020.
+
+Segment Results
+
+People’s United’s operations are divided into three primary operating segments that represent its core businesses: Commercial Banking; Retail Banking; and Wealth Management. In addition, the Treasury area manages People’s United’s securities portfolio, short-term investments, brokered deposits, wholesale borrowings and the funding center.
+
+The Company’s operating segments have been aggregated into two reportable segments: Commercial Banking and Retail Banking. These reportable segments have been identified and organized based on the nature of the underlying products and services applicable to each segment, the type of customers to whom those products and services are offered and the distribution channel through which those products and services are made available. With respect to the Company’s traditional wealth management activities, this presentation results in the allocation of the Company’s insurance business (prior to its sale in November 2020) and certain trust activities to the Commercial Banking segment, and the allocation of the Company’s brokerage business and certain other trust activities to the Retail Banking segment.
+
+Segment Performance Summary[DATA_TABLE_REMOVED]
+
+(1)Retail Banking includes a $353.0 million non-cash goodwill impairment charge in 2020. See Note 8 to the Consolidated Financial Statements for a further discussion.
+
+People’s United uses an internal profitability reporting system to generate information by operating segment, which is based on a series of management estimates and allocations regarding funds transfer pricing (“FTP”), the provision for credit losses on loans, non-interest expense and income taxes. These estimates and allocations, some of which are subjective in nature, are subject to periodic review and refinement. Any changes in estimates and allocations that may affect the reported results of any segment will not affect the consolidated financial position or results of operations of People’s United as a whole.
+
+FTP, which is used in the calculation of each operating segment’s net interest income, measures the value of funds used in and provided by an operating segment. The difference between the interest income on earning assets and the interest expense on funding liabilities, and the corresponding FTP charge for interest income or credit for interest expense, results in net spread income (see Treasury). For fixed-term assets and liabilities, the FTP rate is assigned at the time the asset or liability is originated by reference to the Company’s FTP yield curve, which is updated daily. For non-maturity-term assets and liabilities, the FTP rate is determined based upon the underlying characteristics, or behavior, of each particular product and results in the use of a historical rolling average FTP rate determined over a period that is most representative of the average life of the particular asset or liability. While the Company’s FTP methodology serves to remove interest rate risk (“IRR”) from the operating segments and better facilitate pricing decisions, thereby allowing management to more effectively assess the 
+
+longer-term profitability of an operating segment, it may, in sustained periods of low and/or high interest rates, result in a measure of operating segment net interest income that is not reflective of current interest rates.
+
+32
+
+A five-year rolling average net charge-off rate is used as the basis for the provision for credit losses on loans for the respective operating segment in order to present a level of portfolio credit cost that is representative of the Company’s historical experience, without presenting the potential volatility from year-to-year changes in credit conditions. While this method of allocation allows management to assess the longer-term profitability of an operating segment more effectively, it may result in a measure of an operating segment’s provision for credit losses on loans that does not reflect actual losses for the periods presented. The provision for credit losses for Treasury reflects the application of the CECL standard (see Note 4 to the Consolidated Financial Statements for a further discussion).
+
+People’s United allocates a majority of non-interest expenses to each operating segment using a full-absorption costing process (i.e. all expenses are fully-allocated to the segments). Direct and indirect costs are analyzed and pooled by process and assigned to the appropriate operating segment and corporate overhead costs are allocated to the operating segments. Income tax expense is allocated to each operating segment using a constant rate, based on an estimate of the consolidated effective income tax rate for the year. Average total assets and average total liabilities are presented for each reportable segment due to management’s reliance, in part, on such average balances for purposes of assessing segment performance.
+
+For a more detailed description of the estimates and allocations used to measure segment performance, see Note 25 to the Consolidated Financial Statements.
+
+Commercial Banking consists principally of commercial real estate lending, middle market and business banking, the equipment financing operations of PCLC, PUEFC and LEAF, and mortgage warehouse and asset-based lending. This segment also provides treasury management services, capital market capabilities and commercial deposit products. Commercial insurance services were previously provided through PUIA, which the Bank sold in November 2020 (see Note 2 to the Consolidated Financial Statements for a further discussion).
+
+[DATA_TABLE_REMOVED]
+
+Commercial Banking’s net income increased $9.6 million in 2021 compared to 2020, reflecting an increase in net interest income and a decrease in non-interest expense, partially offset by a decrease in non-interest income. The $46.2 million increase in net interest income primarily reflects the benefits from increases in FTP net spread income and a decrease in interest expense, partially offset by a decline in average commercial loan and lease balances and the adverse effect of a decline in loan yields. Non-interest income decreased $44.9 million in 2021 compared to 2020, primarily reflecting decreases in insurance revenue, net gains on sales of loans and customer interest rate swap income, partially offset by increases in both cash management fees and commercial banking lending fees. The $26.5 million decrease in non-interest expense in 2021 compared to 2020 reflects lower levels of both direct and allocated expenses.
+
+ Compared to 2020, average total assets decreased $2.3 billion, primarily reflecting declines in commercial loan and lease balances and other assets. Average total liabilities increased $2.9 billion in 2021 compared to 2020, primarily reflecting organic deposit growth, partially offset by a decline in other liabilities.
+
+33
+
+Retail Banking includes, as its principal business lines, consumer lending (including residential mortgage and home equity lending) and consumer deposit products. This segment also includes brokerage, financial advisory services, investment management services and life insurance through PSI, investment advisory services and financial management and planning services through PUA and non-institutional trust services.
+
+[DATA_TABLE_REMOVED]
+
+Retail Banking’s net income in 2021 compared to a net loss in the year-ago period reflects increases in net interest income and non-interest income, and a decrease in non-interest expense. The $42.7 million increase in net interest income primarily reflects a decrease in interest expense and the benefit from an increase in FTP net spread income, partially offset by the adverse effect of declines in average residential mortgage loan balances and loan yields. Non-interest income increased $13.5 million in 2021 compared to 2020, primarily reflecting increases in bank service charges and investment management fees. The $357.6 million decrease in non-interest expense in 2021 compared to 2020 primarily reflects a $353.0 million 
+
+non-cash goodwill impairment charge in 2020 (see Note 8 to the Consolidated Financial Statements), as well as a lower level of direct expenses, partially offset by a higher level of allocated expenses.
+
+Compared to 2020, average total assets decreased $2.5 billion, primarily reflecting a decline in retail loans. Average total liabilities increased $1.9 billion, primarily reflecting organic deposit growth.
+
+34
+
+Treasury encompasses the securities portfolio, short-term investments, brokered deposits, wholesale borrowings and the funding center, which includes the impact of derivative financial instruments used for risk management purposes.
+
+The income or loss for the funding center represents the IRR component of People’s United’s net interest income as calculated by its FTP model in deriving each operating segment’s net interest income. Under this process, the funding center buys funds from liability-generating business lines, such as retail deposits, and sells funds to asset-generating business lines, such as commercial lending. The price at which funds are bought and sold on any given day is set by People’s United’s Treasury group and is based on the wholesale cost to People’s United of assets and liabilities with similar maturities. 
+
+Liability-generating businesses sell newly-originated liabilities to the funding center and recognize a funding credit, while asset-generating businesses buy funding for newly-originated assets from the funding center and recognize a funding charge. Once funding for an asset is purchased from or a liability is sold to the funding center, the price that is set by the Treasury group will remain with that asset or liability until it matures or reprices, which effectively transfers responsibility for managing IRR to the Treasury group.
+
+[DATA_TABLE_REMOVED]
+
+The increase in Treasury’s net loss in 2021 compared to the year-ago period primarily reflects a decrease in net interest income. The $199.3 million decrease in net interest income primarily reflects the adverse effect of a decrease in FTP net spread income, primarily resulting from the reduction in interest rates initiated by the FOMC (see Net Interest Income), partially offset by the benefits from a decrease in interest expense and an increase in average securities balances. Non-interest income includes BOLI death benefits received totaling $7.4 million in 2021 and $2.1 million in 2020. The $1.3 million decrease in non-interest expense in 2021 compared to 2020 reflects a lower level of allocated expenses, partially offset by a higher level of direct expenses.
+
+Compared to 2020, average total assets increased $8.0 billion, primarily reflecting increases in short-term investments and securities. Average total liabilities decreased $1.6 billion in 2021 compared to 2020, primarily reflecting decreases in borrowings and deposits.
+
+35
+
+Other includes the residual financial impact from the allocation of revenues and expenses (including the provision for credit losses on loans) and certain revenues and expenses not attributable to a particular segment; assets and liabilities not attributable to a particular segment; reversal of the FTE adjustment since net interest income for each segment is presented on an FTE basis; and the FTP impact from excess capital. The provision for credit losses on loans in 2021 reflects notable
+
+improvements in the economic outlook (e.g. GDP and unemployment) largely attributable to continued COVID-19 vaccine
+
+distribution, an easing of social distancing restrictions and further government stimulus, while the provision in 2020 reflects the initial application of the CECL standard and the impact of COVID-19. Non-interest income includes (i) a $3.9 million net gain resulting from the sale-leaseback of two buildings in 2021 and (ii) a $75.9 million net gain recognized on the sale of PUIA in 2020. Non-interest expense includes non-operating expenses totaling $47.8 million and $49.1 million in 2021 and 2020, respectively.
+
+[DATA_TABLE_REMOVED]
+
+Net Interest Income
+
+Net interest income and net interest margin are affected by many factors, including changes in average balances; interest rate fluctuations and the slope of the yield curve; sales of loans and securities; residential mortgage loan and mortgage-backed security prepayment rates; product pricing; competitive forces; the relative mix, repricing characteristics and maturity of interest-earning assets and interest-bearing liabilities; non-interest-bearing sources of funds; hedging activities; and asset quality.
+
+Net Interest Margin Net Interest Income - FTE
+
+Years ended December 31 (percent) Years ended December 31 (dollars in millions)
+
+36
+
+In March 2020, the FOMC lowered the target range for the federal funds rate by a total of 150 basis points, bringing the current target range to between 0.00% and 0.25%. In 2019, the FOMC lowered the target range three times by a total of 
+
+75 basis points. For the fourth quarter of 2021, the average effective federal funds rate was 0.08%.
+
+The net interest margin was 2.65% in 2021 compared to 2.99% in 2020 and 3.14% in 2019. The decline in the net interest margin over the past two years generally reflects lower yields on the loan and securities portfolios, partially offset by lower rates on deposits and borrowings.
+
+2021 Compared to 2020
+
+FTE net interest income decreased $75.9 million compared to 2020, reflecting a $212.9 million decrease in total interest and dividend income, partially offset by a $137.0 million decrease in total interest expense. The net interest margin decreased 34 basis points to 2.65%, reflecting: lower yields on the securities and loan portfolios, which reduced the net interest margin by 36 basis points and 22 basis points, respectively; partially offset by lower rates on deposits and borrowings, which benefited the net interest margin by 21 basis points and three basis points, respectively. Excess liquidity resulting from deposits at the 
+
+FRB-NY had a 28 basis point negative impact on the net interest margin in 2021.
+
+Included in interest income in 2021 and 2020 are fees, net of related costs, totaling $86.2 million and $34.6 million, respectively, recognized in connection with the Company’s role in originating loans under the PPP. Fees earned as a participating PPP lender are deferred and recognized over the earlier of the life of the related loans or until forgiven by the Small Business Administration (“SBA”). PPP loans had a ten basis point favorable impact on the net interest margin in 2021.
+
+Average total earning assets were $57.8 billion in 2021, a $4.2 billion increase from 2020, reflecting increases of $5.9 billion in average short-term investments and $2.1 billion in average securities, partially offset by a $3.8 billion decrease in average total loans. In 2021, the average total commercial loan, average residential mortgage loan and average home equity loan portfolios decreased $1.3 billion, $1.9 billion and $519 million, respectively. Within commercial loans, the commercial real estate portfolio decreased $1.1 billion. Average total loans, average securities and average short-term investments comprised 70%, 18% and 12%, respectively, of average total earning assets in 2021 compared to 83%, 15% and 2%, respectively, in 2020. At December 31, 2021 and 2020, approximately 50% and 46%, respectively, of the Company’s loan portfolio was comprised of Prime Rate and one-month LIBOR-based floating-rate loans.
+
+Average total funding liabilities were $55.2 billion in 2021, a $3.6 billion increase from the year-ago period, reflecting a $5.0 billion increase in average total deposits, partially offset by a $1.4 billion decrease in average total borrowings. The increase in average total deposits reflects organic growth, partially offset by a $1.1 billion decrease in average brokered deposits. Excluding brokered deposits, average savings and average non-interest-bearing deposits increased $4.6 billion and $3.8 billion, respectively, while average time deposits decreased $2.2 billion. Average total deposits comprised 96% and 93% of average total funding liabilities in 2021 and 2020, respectively.
+
+The 27 basis point decrease to 0.19% from 0.46% in the rate paid on average total funding liabilities in 2021 compared to 2020 primarily reflects the decreases in the target federal funds rate discussed above. The rate paid on average total deposits decreased 26 basis points in 2021, reflecting decreases of 64 basis points in time deposits and 20 basis points in savings, interest-bearing checking and money market deposits as well as the benefit from a $3.8 billion increase in non-interest-bearing deposits. Average savings, interest-bearing checking and money market deposits and average time deposits comprised 60% and 9%, respectively, of average total deposits in 2021 compared to 58% and 16%, respectively, in 2020.
+
+Average Balance Sheet, Interest and Yield/Rate Analysis
+
+The table on the following page presents average balance sheets, FTE-basis interest income, interest expense and the corresponding average yields earned and rates paid for the years ended December 31, 2021, 2020 and 2019. The average balances are principally daily averages and, for loans, include both performing and non-performing balances. Interest income on loans includes the effect of deferred loan fees and costs accounted for as yield adjustments, but does not include interest on loans for which People’s United has ceased to accrue interest. Premium amortization and discount accretion (including amounts attributable to purchase accounting adjustments) are also included in the respective interest income and interest expense amounts. The impact of People’s United’s use of derivative instruments in managing IRR is also reflected in the table, classified according to the instrument hedged and the related risk management objective.
+
+37
+
+Average Balance Sheet, Interest and Yield/Rate Analysis
+
+[DATA_TABLE_REMOVED]
+
+(1)Average balances and yields for securities are based on amortized cost.
+
+(2)The FTE adjustment was $30.6 million, $29.8 million and $29.4 million for the years ended December 31, 2021, 2020 and 2019, respectively.
+
+38
+
+Volume and Rate Analysis
+
+The following table shows the extent to which changes in interest rates and changes in the volume of average total earning assets and average interest-bearing liabilities have affected People’s United net interest income. For each category of earning assets and interest-bearing liabilities, information is provided relating to: (i) changes in volume (changes in average balances multiplied by the prior year’s average interest rates); (ii) changes in rates (changes in average interest rates multiplied by the prior year’s average balances); and (iii) the total change. Changes attributable to both volume and rate have been allocated proportionately.[DATA_TABLE_REMOVED]
+
+39
+
+The following table provides the weighted-average yields earned and rates paid for each major category of earning assets and funding liabilities as of December 31, 2021:[DATA_TABLE_REMOVED]
+
+Non-Interest Income
+
+[DATA_TABLE_REMOVED]
+
+n/m – not meaningful
+
+Total non-interest income in 2021 decreased $99.1 million compared to 2020. Excluding the $75.9 million gain on the sale of PUIA in 2020, which is considered non-operating income, non-interest income decreased $23.2 million in 2021 compared to 2020. The decrease primarily reflects decreases in net customer interest rate swap income, other non-interest income (see below) and net gains on sales of loan in 2020, partially offset by increases in investment management fees and commercial banking lending fees.
+
+The increase in bank service charges in 2021 compared to 2020 primarily reflects the level of customer activity in the prior year resulting from the economic uncertainties brought about by COVID-19. The increase in investment management fees in 2021 compared to 2020 primarily reflects the effect of recent market performance. At December 31, 2021, assets under discretionary management totaled $9.4 billion compared to $9.5 billion at December 31, 2020.
+
+40
+
+The increase in commercial banking lending fees in 2021 compared to 2020 is primarily related to the levels of prepayment income and loan syndication fees collected in the respective periods.
+
+Net gains on sales of loans in 2020 include gains, net of expenses, totaling $16.9 million from the sale of consumer and commercial loans previously acquired in the United Financial acquisition. The decrease in net customer interest rate swap income in 2021 compared to 2020 reflects lower levels in both the number and notional value of swap transactions, which are largely tied to commercial real estate lending activity. On an FTE basis, BOLI income totaled $14.7 million in 2021 compared to $16.2 million in 2020. BOLI income includes death benefits received totaling $7.4 million and $2.1 million in 2021 and 2020, respectively.
+
+The decrease in net gains on sales of residential mortgage loans in 2021 compared to 2020 reflects a 68% decrease in the volume of residential mortgage loans sold.
+
+Other non-interest income in 2021 includes a $3.9 million net gain resulting from the sale-leaseback of two properties. Included in other non-interest income in 2020 is a $5.8 million charge relating to the write-down of a mortgage servicing right asset acquired in the United Financial acquisition. Other non-interest income includes insurance revenue totaling $7.0 million and $33.7 million in 2021 and 2020, respectively. The decline from 2020 reflects the sale of PUIA in November 2020.
+
+Non-Interest Expense
+
+[DATA_TABLE_REMOVED]
+
+n/m – not meaningful
+
+Total non-interest expense decreased $380.3 million in 2021 compared to 2020. Excluding non-operating expenses in both 2021 ($47.8 million, comprised of Stop & Shop contract termination costs totaling $24.2 million and merger-related expenses totaling $23.6 million) and 2020 (goodwill impairment of $353.0 million and merger-related expenses totaling $45.9 million), non-interest expense decreased $29.2 million in 2021 compared to 2020.
+
+The increase in the efficiency ratio in 2021 compared to 2020 reflects a 5% decrease in adjusted total revenues, partially offset by a 1% decrease in adjusted total expenses (see Non-GAAP Financial Measures and Reconciliation to GAAP).
+
+Compensation and benefits includes non-operating expenses totaling $0.3 million in 2021 and $1.5 million in 2020. Excluding such expenses, compensation and benefits increased $6.0 million, or 0.9%, in 2021 compared to 2020. The increase primarily reflects the effect of normal merit increases and higher incentive-related expenses.
+
+The decrease in occupancy and equipment expense in 2021 compared to and 2020 primarily reflects the benefits of consolidating branches and other office space over the past several years.
+
+In January 2021, the Bank announced its decision not to renew its agreements with Stop & Shop to operate 140 in-store branches in Connecticut and New York upon their expiration in 2022. Branch closures are scheduled to take place over several years using a phased approach. In the first quarter of 2021, the Bank reached an agreement with Stop & Shop on the timing of the exit from all New York in-store branch and ATM locations, which began in the third quarter of 2021 with a full exit occurring over the following three quarters.
+
+41
+
+In August 2021, the Bank announced it had reached an agreement with Stop & Shop to retain 27 in-store branch and corresponding ATM locations in Connecticut slated to close as part of the previously announced decision not to renew existing in-store branch contracts in Connecticut. The new agreement does not impact the previously announced exit period for all other Connecticut Stop & Shop branch locations. Closures will occur over several years using a phased approach and begin in 2022.
+
+Professional and outside services fees include non-operating expenses totaling $21.9 million in 2021 and $20.9 million in 2020. Excluding such expenses, professional and outside services fees increased $5.1 million in 2021 compared to 2020, primarily resulting from higher levels of spending on projects and computer-related services. The decrease in operating lease expense in 2021 compared to 2020 primarily relates to the levels of equipment leased to equipment financing customers, while the decrease in advertising and promotion expense primarily reflects the timing of certain advertising campaigns.
+
+Regulatory assessments include FDIC insurance premiums, which are based on the Bank’s average total assets and average tangible equity, and FDIC-defined risk factors. The actual amount of future regulatory assessments will be dependent on several factors, including: (i) the Bank’s average total assets and average tangible equity; (ii) the Bank’s risk profile; and (iii) whether additional special assessments are imposed in future periods and the manner in which such assessments are determined. The decrease in regulatory assessments in 2021 compared to 2020 primarily reflects an improvement in the Bank’s risk profile.
+
+The decreases in amortization of other acquisition-related intangible assets expense in 2021 compared to 2020 reflects certain intangible assets that were written-off in 2020 as a result of the sale of PUIA in the fourth quarter of 2020. Scheduled amortization expense attributable to other acquisition-related intangible assets for each of the next five years is as follows: $30.9 million in 2022; $23.2 million in 2023; $19.5 million in 2024; $16.7 million in 2025; and $13.8 million in 2026.
+
+Goodwill is evaluated for impairment as of the annual measurement date or more frequently if a triggering event indicates that it is more likely than not that an impairment loss has been incurred. People’s United performed a quantitative assessment of goodwill impairment as of October 1, 2020 (its annual measurement date). A quantitative assessment includes determining the estimated fair value of each reporting unit, utilizing a combination of the discounted cash flow method of the income approach and the guideline public company method of the market approach, and comparing that fair value to each reporting unit’s carrying amount. Based on the quantitative assessment performed as of October 1, 2020, People’s United recognized a non-cash goodwill impairment charge totaling $353.0 million (representing 12% of total goodwill) associated with the Retail Banking reporting unit (see Note 8 to the Consolidated Financial Statements for a further discussion).
+
+For purposes of its October 1, 2021 goodwill impairment assessment the Company elected to perform a qualitative assessment for all three reporting units. This assessment considered several developments since the date of its 2020 annual impairment assessment, including: (i) a significant increase in the Company’s stock price; (ii) the financial performance of the reporting units relative to both the Company’s 2021 operating budget and the 2021 projections included in the discounted cash flow analysis prepared in connection with the 2020 annual impairment assessment; and (iii) the implicit value of the Company as supported by the M&T purchase price.
+
+Included in other non-interest expense are Stop & Shop contract termination costs totaling $21.9 million and 
+
+merger-related expenses totaling $3.0 million in 2021, and merger-related expenses totaling $20.8 million in 2020.
+
+Income Taxes
+
+Income tax expense totaled $152.3 million and $129.0 million for the years ended December 31, 2021 and 2020, respectively. People’s United’s effective income tax rate was 20.1% and 37.0% for the respective years. Income tax expense in both years includes $14.8 million of federal income tax credits, which relate, primarily, to an increase in tax-advantaged investments. People’s United’s effective income tax rate for 2022 is expected to be approximately 21%.
+
+Differences, if any, arising between People’s United’s effective income tax rate and the U.S. federal statutory rate of 
+
+21% are generally attributable to: (i) tax-exempt interest earned on certain investments; (ii) tax-exempt income from BOLI; and (iii) state income taxes. The effective income tax rate in 2020 reflects the impact of a non-deductible goodwill impairment charge for which no tax benefit was realized (see Note 8 to the Consolidated Financial Statements for a further discussion). Excluding non-deductible goodwill impairment, the effective income tax rate was 18.4% for 2020.
+
+People’s United holds ownership interests in limited partnerships formed to develop and operate affordable housing units for lower income tenants throughout its franchise area. The underlying partnerships, which are considered variable interest entities, are not consolidated into the Company’s Consolidated Financial Statements. These investments have historically played a role in enabling the Bank to meet its CRA requirements while, at the same time, providing tax benefits, including federal income tax credits. The cost of the Company’s investments is amortized on a straight-line basis over the period during which the related federal income tax credits are realized (generally ten years). Amortization expense, which is included as a component of income tax expense, totaled $38.9 million and $31.4 million for the years ended December 31, 2021 and 2020, respectively.
+
+42
+
+Income tax expense in both 2021 and 2020 reflects the state tax benefit resulting from the formation of People’s Mortgage Investment Company, a wholly owned subsidiary of the Bank. The formation of this subsidiary was a result of Connecticut tax legislation, which became effective on January 1, 1999, that allows for the transfer of mortgage loans to a passive investment subsidiary. The related earnings of the subsidiary, and any dividends it pays to the parent, are not subject to Connecticut income tax.
+
+See Notes 1 and 14 to the Consolidated Financial Statements for additional information concerning income tax expense.
+
+Securities
+
+[DATA_TABLE_REMOVED]
+
+People’s United strives to maintain an appropriate balance between loan portfolio growth, deposit funding and interest rate sensitivity. The Company generally maintains a lower securities portfolio relative to total assets. In the current environment where the Company has excess liquidity due to high deposit levels, the Company has been incrementally investing in debt securities as an effective way to reduce high asset sensitivity and improve net interest margin. At December 31, 2021, the debt securities portfolio only comprised 16% of total assets.
+
+People’s United utilizes the debt securities portfolio for earnings generation (in the form of interest and dividend income), liquidity, IRR management, asset diversification and tax planning. Debt securities available-for-sale are used as part of People’s United’s asset/liability management strategy and may be sold in response to, or in anticipation of, factors such as changes in market conditions and interest rates, changes in security prepayment rates, liquidity considerations and regulatory capital requirements.
+
+The Company primarily invests in debt securities rated in the highest categories assigned by nationally recognized statistical ratings organizations (“NRSRO”) and all credit risk undergoes an internal creditworthiness assessment separate from NRSRO ratings. Management has internal guidelines for the credit quality and duration of People’s United’s debt securities portfolio and monitors these on a regular basis.
+
+At December 31, 2021, the fair value of People’s United’s debt securities available-for-sale portfolio totaled $6.64 billion, or 10% of total assets, compared to $4.93 billion, or 8% of total assets, at December 31, 2020. The $1.72 billion increase in fair value in 2021 compared to 2020 primarily reflects net purchases of GSE mortgage-backed and CMO securities, partially offset by a $164.9 million increase in the unrealized loss (primarily interest rate-related) on debt securities 
+
+available-for-sale in 2021. At December 31, 2021, the amortized cost of the debt securities portfolio exceeded the fair value by $43.9 million, while at December 31, 2020, fair value exceeded amortized cost by $121.0 million. The increase in investment grade state and municipal securities in both 2021 and 2020 reflects the Company’s continued investment in such securities based on their value relative to other securities of comparable duration, yield and credit risk.
+
+43
+
+With respect to debt securities available-for-sale, all unrealized gains and those unrealized losses representing temporary declines in value due to factors other than credit are recorded in stockholders’ equity, net of income taxes, as a component of accumulated comprehensive income (loss). As a result, management anticipates continued fluctuations in stockholders’ equity due to changes in the fair value of such debt securities, albeit on a relatively moderate scale due to the duration of the portfolio. The duration of the entire debt securities portfolio was approximately 4.9 years and 4.1 years at December 31, 2021 and 2020, respectively.
+
+In addition to the debt securities held-to-maturity and available-for-sale discussed above, the Bank holds shares of capital stock in the FRB-NY (total cost of $229.1 million at December 31, 2021) and the FHLB of Boston (total cost of $35.5 million at December 31, 2021). Dividend income on FRB-NY capital stock totaled $3.4 million and $2.0 million for the years ended December 31, 2021 and 2020, respectively. Dividend income on FHLB capital stock totaled $0.6 million and $4.8 million for the years ended December 31, 2021 and 2020, respectively. The decrease in dividend income on FHLB capital stock reflects an $802 million decrease in average FHLB advances as well as a reduction in the dividend rate paid on FHLB capital stock throughout 2021.
+
+Lending Activities
+
+People’s United conducts its lending activities principally through its Commercial Banking and Retail Banking operating segments. The Company’s lending activities consist of originating loans secured by commercial and residential properties, and extending secured and unsecured loans to commercial and consumer customers.
+
+In 2021, total loans decreased $6.0 billion compared to 2020 and increased $274 million in 2020 compared to 2019. Loans held-for-sale at December 31, 2021 and 2020 consisted of newly-originated residential mortgage loans with carrying amounts of $8.8 million and $26.5 million, respectively.
+
+The following table summarizes the loan portfolio before deducting the ACL on loans:[DATA_TABLE_REMOVED]
+
+(1)In the first quarter of 2021, the Company completed a portfolio review to ensure consistent classification of certain commercial loans across the Company's franchise and conformity to industry practice for such loans. As a result, approximately $350 million of loans secured by non-owner-occupied commercial properties were prospectively reclassified, in March 2021, from commercial and industrial loans to commercial real estate loans. Prior period balances were not restated to conform to the current presentation.
+
+(2)In connection with the United Bank core system conversion in April 2020, approximately $400 million of loans secured by owner-occupied commercial properties were prospectively at that time reclassified from commercial real estate loans to commercial and industrial loans. Loan balances for 2019 were not restated to conform to the current period presentation.
+
+(3)Mortgage warehouse lending/asset based lending.
+
+44
+
+People’s United’s loan portfolio is primarily concentrated within New England and New York. At December 31, 2021 and 2020, 53% and 55% of the total loan portfolio represented loans to customers located within the New England states, respectively. Loans to customers located in New York represented 18% of the total loan portfolio at both dates.
+
+Total Loans
+
+As of December 31 (dollars in billions)
+
+Contractual Maturity and Interest Rate Sensitivity
+
+The following table presents the contractual maturity and interest rate sensitivity of People’s United’s loan portfolio as of December 31, 2021:[DATA_TABLE_REMOVED]
+
+45
+
+Commercial Portfolio
+
+The commercial lending businesses include commercial real estate, commercial and industrial lending (including 
+
+MW/ABL), and equipment financing.
+
+Commercial Real Estate
+
+People’s United manages the commercial real estate portfolio by limiting the concentration in any particular loan type, term, industry, or to any individual borrower. People’s United’s highest loan concentration in the commercial real estate loan portfolio is in the residential (multifamily) sector, which represented 29% of this loan portfolio at December 31, 2021 and 
+
+32% at December 31, 2020.
+
+[DATA_TABLE_REMOVED]
+
+Commercial Real Estate Portfolio
+
+As of December 31 (dollars in billions)
+
+The continued disruption in economic activity throughout 2021 caused by the COVID-19 pandemic was the primary reason behind a $1.4 billion decrease in this portfolio compared to 2020. In addition, expected run-off in the transactional portion of the New York multifamily portfolio totaling $217 million negatively impacted balances in 2021. Included in the commercial real estate portfolio are construction loans totaling $758 million at December 31, 2021 and $1.0 billion at December 31, 2020, net of the unadvanced portion of such loans totaling $308 million and $447 million, respectively.
+
+At December 31, 2021 and 2020, 24% and 26%, respectively, of People’s United’s commercial real estate portfolio was secured by properties located in New York. At December 31, 2021 and 2020, 22% and 23%, respectively, were secured by properties located in Connecticut. In addition, 33% and 32% of the commercial real estate portfolio was secured by properties located in Massachusetts, Vermont and New Hampshire at December 31, 2021 and 2020, respectively. No other state exposure was greater than 5% at both December 31, 2021 and 2020.
+
+46
+
+Commercial real estate is dependent on the successful operation of the related income-producing real estate. Accordingly, the income streams generated by this portfolio can be impacted by changes in the real estate market and, to a large extent, the New England and southeastern New York economies. People’s United continues to focus on maintaining strong asset quality standards in a competitive market generally characterized by aggressive pricing and less attractive underwriting terms. The growth and performance of this portfolio is largely dependent on the economic environment and may be adversely impacted if the economy weakens in the future.
+
+Commercial Real Estate Diversification by Property Type
+
+As of December 31, 2021 (percent)
+
+Commercial and Industrial (including MW/ABL)
+
+People’s United provides diversified products and services to its commercial customers, including short-term working capital credit facilities, term financing, asset-based loans, letters of credit, cash management services and commercial deposit accounts.
+
+[DATA_TABLE_REMOVED]
+
+47
+
+Commercial and Industrial Portfolio
+
+As of December 31 (dollars in billions)
+
+Commercial products are generally packaged together to create a financing solution specifically tailored to the needs of the customer. Taking a total relationship-focused approach with commercial customers to meet their financing needs has resulted in substantial growth in non-interest-bearing deposits over time, as well as in opportunities to provide other banking services to principals and employees of these commercial customers.
+
+The borrower’s ability to repay a commercial loan is closely tied to the ongoing profitability and cash flow of the borrower’s business. Consequently, a commercial loan tends to be more directly impacted by changes in economic cycles that affect businesses generally and the borrower’s business specifically. The availability of adequate collateral is a factor in commercial loan decisions and loans are generally collateralized and/or guaranteed by third parties.
+
+In 2021, the commercial and industrial portfolio decreased $2.9 billion compared to 2020, primarily reflecting decreases of $1.9 billion in PPP loans and $1.1 billion in the mortgage warehouse portfolio, as well as the continued adverse effect that the COVID-19 pandemic has had on loan demand.
+
+The commercial and industrial portfolio included $2.3 billion of mortgage warehouse loans at December 31, 2021, compared to $3.4 billion at December 31, 2020. Such loans represent lines of credit extended to a loan originator to fund a mortgage that a borrower initially used to purchase a property. The extension of credit generally lasts from the loan’s point of origination to the point when the mortgage is sold into the secondary market. At December 31, 2021 and 2020, 13% and 
+
+16%, respectively, of the mortgage warehouse loans were to customers located within the Company’s footprint.
+
+At December 31, 2021 and 2020, the commercial and industrial portfolio also included $984 million and $771 million, respectively, of asset-based lending loans to companies with annual sales between $15 million and $500 million, of which 
+
+71% and 70% were to companies located within the Company’s geographic footprint at December 31, 2021 and 2020, respectively. Targeted industries include wholesale and distribution, manufacturing, food distribution and processing, transportation, and retail and business services. Credit facilities include revolving and working capital lines of credit, 
+
+machinery and equipment term loans and lines of credit, owner-occupied real estate mortgage loans and stretch term loans 
+
+for qualified customers.
+
+At December 31, 2021 and 2020, 18% and 21%, respectively, of the commercial and industrial loan portfolio consisted of loans to Connecticut-based businesses. Commercial and industrial loan exposure in the states of Vermont, Massachusetts and New Hampshire totaled a combined 27% at both December 31, 2021 and 2020. Commercial and industrial loan exposure in the state of New York totaled 20% and 18%, respectively, at December 31, 2021 and 2020. No other state exposure was greater than 6% at both dates. While People’s United continues to focus on asset quality, the performance of the commercial lending and industrial portfolio may be adversely impacted if the economy weakens in the future.
+
+Included in commercial and industrial loans at December 31, 2021 are PPP loans totaling $432 million (including 
+
+$147 million in Service, $125 million in Health services, $38 million in Construction, $32 million in Manufacturing and 
+
+$26 million in Retail trade) and associated deferred loan fees totaling $14.8 million.
+
+48
+
+Commercial and Industrial Diversification by Industry
+
+As of December 31, 2021 (percent)
+
+Equipment Financing
+
+People’s Financial has three equipment financing businesses – PCLC, PUEFC and LEAF. The three companies have different business models and go-to-market strategies, and are viewed in the marketplace as separate companies. 
+
+•PCLC is an equipment finance company specializing in financing for the transportation, equipment rental, construction, manufacturing, printing, packaging and service industries in all 50 states. PCLC assists companies in acquiring new and used equipment and/or refinancing existing equipment.
+
+•PUEFC is a secured equipment finance company with a focus on the construction, equipment rental, road transportation and waste industries nationwide.
+
+•LEAF maintains a nationwide origination footprint working with manufacturers, distributors, dealers and end-users of essential use equipment and software in a variety of industries including industrial, manufacturing, light construction, office products and medical.
+
+Substantially the entire equipment financing portfolio (94% at both December 31, 2021 and 2020, respectively) was to customers located outside of New England. At December 31, 2021, 29% of the equipment financing portfolio consisted of loans to customers located in Texas, California and New York, and no other state exposure was greater than 7%.
+
+[DATA_TABLE_REMOVED]
+
+49
+
+Equipment Financing Portfolio
+
+As of December 31 (dollars in billions)
+
+The equipment financing portfolio increased $213 million in 2021 compared to 2020, primarily reflecting growth in LEAF’s portfolio. Operating on a national scale, equipment financing represented 18% and 15% of the total Commercial portfolio at December 31, 2021 and 2020, respectively. While People’s United continues to focus on asset quality, the performance of the equipment financing portfolio may be adversely impacted if the national economy weakens in the future.
+
+Equipment Financing Diversification by Industry
+
+As of December 31, 2021 (percent)
+
+Retail Portfolio
+
+Residential Mortgage Lending
+
+People’s United offers its customers a wide range of residential mortgage loan products. These include conventional fixed-rate loans, jumbo fixed-rate loans (loans with principal balances greater than established Freddie Mac and Fannie Mae limits), adjustable-rate loans, sometimes referred to as “ARM” loans, interest-only loans (loans where payments made by the borrower consist of only interest for a set period of time, before the payments change to principal and interest), as well as Federal Housing Administration insured loans and various state housing finance authority loans. People’s United originates these loans through its network of retail branches and calling officers, as well as correspondent lenders and mortgage brokers.
+
+At December 31, 2021 and 2020, 80% and 81%, respectively, of the residential mortgage loan portfolio was secured by properties located in New England and 13% and 11%, respectively, at these dates, was secured by properties located in New York. At December 31, 2021 and 2020, the residential mortgage loan portfolio included $596 million and $866 million, respectively of interest-only loans. See Asset Quality for further discussion of interest-only loans. Also included in residential mortgage loans at December 31, 2021 and 2020 are construction loans totaling $33 million and $45 million, respectively.
+
+People’s United’s residential mortgage loan originations totaled $1.6 billion in 2021 and $1.8 billion in 2020. The mix and volume of residential mortgage loan originations vary in response to changes in market interest rates, customer preferences and the level of refinancing activity. ARM loans accounted for 32% of total residential mortgage originations in 2021 compared to 50% in 2020.
+
+50
+
+Residential Mortgage Originations
+
+Years ended December 31 (dollars in millions)
+
+In 2021, ARM loans decreased $1.5 billion and fixed-rate residential mortgage loans decreased $62 million, both as compared to 2020, primarily reflecting People’s United’s decision to remix the balance sheet with a focus on higher-yielding loan portfolios.
+
+Residential Mortgage Originations by Product
+
+Year ended December 31, 2021 (percent)
+
+People’s United’s loan loss experience within the residential mortgage portfolio continues to be primarily attributable to a small number of loans. The continued performance of the residential mortgage loan portfolio in the future may be adversely impacted by the level and direction of interest rates, consumer preferences and the regional economy.
+
+Home Equity and Other Consumer Lending
+
+People’s United offers home equity lines of credit (“HELOCs”) and home equity loans, and to a lesser extent, other forms of installment and revolving credit loans. At December 31, 2021, 78% of the consumer loan portfolio was to customers located within the New England states. Future growth of People’s United’s home equity and other consumer loan portfolio is highly dependent upon economic conditions, the interest rate environment and competitors’ strategies.[DATA_TABLE_REMOVED]
+
+51
+
+Asset Quality
+
+CARES Act
+
+Issued in response to the economic disruption caused by the COVID-19 pandemic, the CARES Act provides financial assistance for businesses and individuals as well as targeted regulatory relief for financial institutions. The following provisions of the CARES Act are significant to People’s United.
+
+Paycheck Protection Program
+
+The CARES Act created a new loan guarantee program known as the PPP, the objective of which is to provide small businesses with financial support to cover payroll and certain other qualifying expenses. Loans made under the PPP are fully guaranteed by the SBA, whose guarantee is backed by the full faith and credit of the United States. PPP loans also afford borrowers forgiveness up to the principal amount of the loan, plus accrued interest, provided the loan proceeds are used to retain workers and maintain payroll or to make certain mortgage interest, lease and utility payments, and certain other criteria are satisfied. The SBA will reimburse PPP lenders for any amount of a PPP loan that is forgiven, and PPP lenders will not be held liable for any representations made by PPP borrowers in connection with their requests for loan forgiveness. As of February 18, 2022, People’s United, as a participating PPP lender, had approved, submitted to the SBA and funded PPP loan requests totaling approximately $3.8 billion, of which approximately $310 million remains outstanding. For regulatory capital purposes, PPP loans are assigned a zero risk-weighting as a result of the related SBA guarantee.
+
+Loan Forbearance Initiatives
+
+The CARES Act, along with supervisory guidance issued by the federal banking regulators, also created a forbearance program for federally-backed mortgage loans and provides financial institutions with the option to temporarily suspend certain requirements under U.S. GAAP related to troubled debt restructurings (“TDRs”). Specifically, short-term modifications made on a good faith basis in response to COVID-19 to borrowers that are current prior to any relief, are not required to be considered for TDR classification. This includes short-term (e.g. six months or less) modifications such as payment deferrals, fee waivers, extensions of repayment terms or other delays in payment that are insignificant. This exception relates to any eligible loan modification made between March 1, 2020 and the earlier of December 31, 2020 or 60 days after the national emergency related to COVID-19 is ended. In December 2020, the signing of The Consolidated Appropriations Act, 2021 extended this guidance to modifications made until the earlier of January 1, 2022 or 60 days after the end of the COVID-19 national emergency. Further, for loans not otherwise reportable as past due, financial institutions are not expected to designate loans with deferrals granted due to COVID-19 as past due because of the deferral. The Company applied this guidance since March 2020 however, its policies and practices with respect to the assessment of loan repayment, non-accrual status and charge-offs remain unchanged.
+
+As of February 18, 2022, the Company had granted loan forbearance requests representing approximately $7.5 billion of outstanding balances across nearly all of the Company’s loan portfolios, with the most significant activity noted in commercial real estate, commercial and industrial, and equipment financing. Of the loans that were granted a deferral related to COVID-19, approximately 96% have left deferral and made their first full payment. We anticipate that this percentage will increase as the remainder of these loans exit their first deferral.
+
+The CARES Act also prohibits servicers of federally-backed mortgage loans from initiating any foreclosure action on any residential property that is not vacant or abandoned for a period of 60 days, beginning on March 18, 2020. In addition to these federal measures, some state governments have taken action to require forbearance with respect to certain loans and fees. The Company continues to monitor both federal and state regulatory developments in relation to COVID-19 and their potential impact on our operations.
+
+General
+
+While People’s United continues to adhere to prudent underwriting standards, the loan portfolio is not immune to potential negative consequences arising as a result of general economic weakness and, in particular, a prolonged downturn in the housing market on a national scale. Decreases in real estate values could adversely affect the value of property used as collateral for loans. In addition, adverse changes in the economy could have a negative effect on the ability of borrowers to make scheduled loan payments, which would likely have an adverse impact on earnings. Further, an increase in loan delinquencies may serve to decrease interest income and adversely impact loan loss experience, resulting in an increased provision and ACL.
+
+52
+
+People’s United actively manages asset quality through its underwriting practices and collection operations. Underwriting practices tend to focus on optimizing the return of a given risk classification while collection operations focus on minimizing losses once an account becomes delinquent. People’s United attempts to minimize losses associated with commercial loans by requiring borrowers to pledge adequate collateral and/or provide for third-party guarantees. Loss mitigation within the residential mortgage loan portfolio is highly dependent on the value of the underlying real estate.
+
+Certain loans whose terms have been modified are considered TDRs. Loans are considered TDRs if the borrower is experiencing financial difficulty and is afforded a concession by People’s United, such as, but not limited to: (i) payment deferral; (ii) a reduction of the stated interest rate for the remaining contractual life of the loan; (iii) an extension of the loan’s original contractual term at a stated interest rate lower than the current market rate for a new loan with similar risk; (iv) capitalization of interest; or (v) forgiveness of principal or interest.
+
+Guidance issued by the OCC requires that loans subject to a borrower’s discharge from personal liability following a Chapter 7 bankruptcy be treated as TDRs, included in non-accrual loans and written down to the estimated collateral value, regardless of delinquency status. Included in TDRs at December 31, 2021 are $29.5 million of such loans. Of this amount, $23.8 million, or 80%, were less than 90 days past due on their payments as of that date.
+
+TDRs may either be accruing or placed on non-accrual status (and reported as non-accrual loans) depending upon the loan’s specific circumstances, including the nature and extent of the related modifications. TDRs on non-accrual status remain classified as such until the loan qualifies for return to accrual status. Loans qualify for return to accrual status once they have demonstrated performance with the restructured terms of the loan agreement for a minimum of six months in the case of a commercial loan or, in the case of a retail loan, when the loan is less than 90 days past due. Loans may continue to be reported as TDRs after they are returned to accrual status.
+
+During 2021, we performed 45 loan modifications that were not classified as TDRs. The balances of the loans at the time of the respective modifications totaled $164.6 million. In each case, we concluded that the modification did not result in the granting of a concession based on one or more of the following considerations: (i) the receipt of additional collateral (the nature and amount of which was deemed to serve as adequate compensation for other terms of the restructuring) and/or guarantees; (ii) the borrower having access to funds at a market rate for debt with similar risk characteristics as the restructured debt; and (iii) the restructuring resulting in a delay in payment that is insignificant in relation to the other terms of the obligation. See Note 5 to the Consolidated Financial Statements and Loan Forbearance Initiatives above for additional disclosures relating to TDRs.
+
+Portfolio Risk Elements—Residential Mortgage Lending
+
+People’s United does not actively engage in subprime mortgage lending that has, historically, been the riskiest sector of the residential housing market. People’s United has virtually no exposure to subprime loans, or to similarly high-risk Alt-A loans and structured investment vehicles. While no standard definition of “subprime” exists within the industry, the Company has generally defined subprime as borrowers with credit scores of 660 or less, either at or subsequent to origination.
+
+At December 31, 2021, the loan portfolio included $595.5 million of interest-only residential mortgage loans. People’s United began originating interest-only residential mortgage loans in March 2003. The underwriting guidelines and requirements for such loans are generally more restrictive than those applied to other types of residential mortgage loans. People’s United has not originated interest-only residential mortgage loans that permit negative amortization or optional payment amounts. Amortization of an interest-only residential mortgage loan begins after the initial interest rate changes (e.g. after 5 years for a 5/1 ARM loan). In general, People’s United’s underwriting guidelines for residential mortgage loans require the following: (i) properties must be single-family and owner-occupied primary residences; (ii) lower loan-to-value (“LTV”) ratios (less than 60% on average); (iii) higher credit scores (greater than 700 on average); and (iv) sufficient post-closing reserves.
+
+Updated estimates of property values are obtained from an independent third-party for residential mortgage loans 90 days past due. At December 31, 2021, non-accrual residential mortgage loans totaling $0.2 million had current LTV ratios of more than 100%. At that date, the weighted average LTV ratio and FICO score for the residential mortgage loan portfolio were 
+
+61% and 761, respectively.
+
+The Company continues to monitor its foreclosure policies and procedures to ensure ongoing compliance with applicable industry standards. We believe that our established procedures for reviewing foreclosure affidavits and validating information contained in related loan documentation are sound and consistently applied, and that our foreclosure affidavits are accurate. As a result, People’s United has not found it necessary to interrupt or suspend foreclosure proceedings. We have also considered the effect of representations and warranties that we made to third-party investors in connection with whole loan sales, and believe our representations and warranties were true and correct and do not expose the Company to any material loss.
+
+53
+
+During 2021, the Company repurchased ten residential mortgage loans from GSEs that we had previously sold to the GSEs. The balance of the loans at the time of the repurchase totaled $2.0 million and related fees and expenses incurred totaled $0.1 million. During that same time period, the Company issued 29 investor refunds, totaling $0.1 million, under contractual recourse agreements. Based on the limited number of repurchase requests the Company has historically received, the immaterial cost associated with such repurchase requests and management’s view that this past experience is consistent with our current and near-term estimate of such exposure, the Company has established a reserve for such repurchase requests, which totaled $0.5 million at December 31, 2021.
+
+The aforementioned foreclosure issues and the potential for additional legal and regulatory action could impact future foreclosure activities, including lengthening the time required for residential mortgage lenders, including the Bank, to initiate and complete the foreclosure process. In recent years, foreclosure timelines have increased as a result of, among other reasons: (i) delays associated with the significant increase in the number of foreclosure cases as a result of current economic conditions; (ii) additional consumer protection initiatives related to the foreclosure process; and (iii) voluntary and/or mandatory programs intended to permit or require lenders to consider loan modifications or other alternatives to foreclosure. Further increases in the foreclosure timeline may have an adverse effect on collateral values and our ability to minimize losses.
+
+Portfolio Risk Elements—Home Equity Lending
+
+The majority of our HELOCs have an initial draw period of 91/2 years followed by a 20-year repayment phase. During the initial draw period, interest-only payments are required, after which the disbursed balance is fully amortized over a 20-year repayment term. HELOCs carry variable rates indexed to the Prime Rate with a lifetime interest rate ceiling and floor, and are secured by first or second liens on the borrower’s primary residence. The rate used to qualify borrowers is the Prime Rate plus 3.00%, even though the initial rate may be substantially lower. The maximum LTV ratio is 80% on a single-family property, including a condominium, and 70% on a two-family property. Lower LTV ratios are required on larger line amounts. The minimum FICO credit score is 680. The borrower has the ability to convert the entire balance or a portion of the balance to a fixed-rate term loan during the draw period. There is a limit of three term loans that must be fully amortized over a term not to exceed the original HELOC maturity date.
+
+A smaller portion of our HELOC portfolio has an initial draw period of 10 years with a variable-rate interest-only payment, after which there is a 5-year amortization period. An additional small portion of our HELOC portfolio has a 5-year draw period which, at our discretion, may be renewed for an additional 5-year interest-only draw period.
+
+The following table sets forth, as of December 31, 2021, the committed amount of HELOCs scheduled to have the draw period end during the years shown:[DATA_TABLE_REMOVED]
+
+Approximately 88% of our HELOCs are presently in their draw period. Although converted amortizing payment loans represent only a small portion of the portfolio, our default and delinquency statistics indicate a higher level of occurrence for such loans when compared to HELOCs that are still in the draw period.
+
+Delinquency statistics for the HELOC portfolio as of December 31, 2021 are as follows:[DATA_TABLE_REMOVED]
+
+54
+
+For the three months ended December 31, 2021, 54% of our borrowers with balances outstanding under HELOCs paid only the minimum amount due.
+
+The majority of home equity loans fully amortize over terms ranging from 5 to 20 years. Home equity loans are limited to first or second liens on a borrower’s primary residence. The maximum LTV ratio is 80% on a single-family property, including a condominium, and 70% on a two-family property. Lower LTV ratios are required on larger line amounts.
+
+We are not able, at this time, to develop statistics for the entire home equity portfolio (both HELOCs and home equity loans) with respect to first liens serviced by third parties that have priority over our junior liens, as lien position data has not historically been captured on our loan servicing systems. As of December 31, 2021, full and complete first lien position data was not readily available for 31% of the home equity portfolio. Effective January 2011, we began tracking lien position data for all new originations and our collections department continues to add lien position data once a loan reaches 75 days past due in connection with our updated assessment of combined loan-to-value (“CLTV”) exposure, which takes place for loans 90 days past due. In addition, when we are notified that the holder of a superior lien has commenced a foreclosure action, our home equity account is identified in the collections system for ongoing monitoring of the legal action. As of December 31, 2021, the portion of the home equity portfolio more than 90 days past due with a CLTV greater than 80% was $0.2 million.
+
+As of December 31, 2021, full and complete first lien position data was readily available for 69%, or $1.1 billion, of the home equity portfolio. Of that total, 40%, or $422.9 million, are in a junior lien position. We estimate that of those junior liens, 35%, or $148.0 million, are held or serviced by others.
+
+When the first lien is held by a third party, we can, in some cases, obtain an indication that a first lien is in default through information reported to credit bureaus. However, because more than one mortgage may be reported in a borrower’s credit report and there may not be a corresponding property address associated with reported mortgages, we are often unable to associate a specific first lien with our junior lien. As of December 31, 2021, there were 20 loans totaling $1.4 million for which we have received notification that the holder of a superior lien has commenced foreclosure action. For 16 of the loans (totaling $1.2 million), our second lien position was performing at the time such foreclosure action was commenced. There was no estimated loss related to those 16 loans as of December 31, 2021. It is important to note that the percentage of new home equity originations for which we hold the first lien has increased from approximately 40% in 2009 to approximately 53% as of December 31, 2021.
+
+We believe there are several factors that serve to mitigate the potential risk associated with the limitations on available first lien data. Most importantly, our underwriting guidelines for home equity loans, which have been, and continue to be, consistently applied, generally require the following: (i) properties located within our geographic footprint; (ii) lower LTV ratios; and (iii) higher credit scores. Notwithstanding the maximum LTV ratios and minimum FICO scores discussed previously, actual LTV ratios at origination were less than 60% on average and current FICO scores of our borrowers are greater than 750 on average. In addition, as of December 31, 2021, 97% of the portfolio balance relates to originations that occurred since 2005, which is generally recognized as the peak of the last housing bubble. We believe these factors are a primary reason for the portfolio’s relatively low level of non-accrual loans and net loan charge-offs, both in terms of absolute dollars and as a percentage of average total loans.
+
+Each month, all home equity and second mortgage loans greater than 180 days past due (regardless of our lien position) are analyzed in order to determine the amount by which the balance outstanding (including any amount subject to a first lien) exceeds the underlying collateral value. To the extent a shortfall exists, a charge-off is recognized. This charge-off activity is reflected in our established ACL for home equity and second mortgage loans as part of the component attributable to historical portfolio loss experience, which considers losses incurred over the most recent 12-month period. While the limitations on available first lien data could impact the accuracy of our loan loss estimates, we believe that our methodology results in an ACL that appropriately estimates the inherent probable losses within the portfolio, including those loans originated prior to January 2011 for which certain lien position data is not available.
+
+As of December 31, 2021, the weighted average CLTV ratio and FICO score for the home equity portfolio were 56% and 753, respectively.
+
+55
+
+Portfolio Risk Elements—Commercial Real Estate Lending
+
+In general, construction loans originated by People’s United are used to finance improvements to commercial, industrial or residential property. Repayment is typically derived from the sale of the property as a whole, the sale of smaller individual units or by a take-out from a permanent mortgage. The term of the construction period generally does not exceed two years. Loan commitments are based on established construction budgets that represent an estimate of total costs to complete the proposed project, including both hard (direct) costs (such as building materials and labor) and soft (indirect) costs (such as legal and architectural fees). In addition, project costs may include an appropriate level of interest reserve to carry the project through to completion. If established, such interest reserves are determined based on: (i) a percentage of the committed loan amount; (ii) the loan term; and (iii) the applicable interest rate. Regardless of whether a loan contains an interest reserve, the total project cost statement serves as the basis for underwriting and determining which items will be funded by the loan and which items will be funded through borrower equity.
+
+Construction loans are funded, at the request of the borrower, not more than once per month, based on the extent of work completed, and are monitored, throughout the life of the project, by an independent professional construction engineer and the Company’s commercial real estate lending department. Interest is advanced to the borrower upon request, based on the progress of the project toward completion. The amount of interest advanced is added to the total outstanding principal under the loan commitment. Should the project not progress as scheduled, the adequacy of the interest reserve necessary to carry the project through to completion is subject to close monitoring by management. Should the interest reserve be deemed to be inadequate, the borrower is required to fund the deficiency. Similarly, once a loan is fully funded, the borrower is required to fund all interest payments.
+
+People’s United’s construction loan portfolio totaled $845.8 million (2% of total loans) at December 31, 2021. The total committed amount at that date, including both the outstanding balance and the unadvanced portion of such loans, was 
+
+$1.2 billion. In some cases, a portion of the total committed amount includes an accompanying interest reserve. At December 31, 2021, construction loans totaling $468.3 million had remaining available interest reserves of $22.0 million. At that date, the Company had no construction loans with interest reserves included in non-accrual loans.
+
+Historically, certain economic conditions have resulted in an increase in the number of extension requests for commercial real estate and construction loans, some of which may have included related repayment guarantees. Modifications of commercial real estate loans involving maturity extensions are evaluated according to the Company’s normal underwriting standards and are classified as TDRs if the borrower is experiencing financial difficulty and is afforded a concession by People’s United similar to those discussed previously. People’s United had $8.9 million of restructured construction loans at December 31, 2021.
+
+An extension may be granted to allow for the completion of the project, marketing or sales of completed units, or to provide for permanent financing, and is based on a re-underwriting of the loan and management’s assessment of the borrower’s ability to perform according to the agreed-upon terms. Typically, at the time of an extension, borrowers are performing in accordance with contractual loan terms. Extension terms generally do not exceed 12 to 18 months and usually require that the borrower provide additional economic support in the form of partial repayment, additional collateral or guarantees. In cases where the fair value of the collateral or the financial resources of the borrower are deemed insufficient to repay the loan, reliance may be placed on the support of a guarantee, if applicable. However, such guarantees are never considered the sole source of repayment.
+
+People’s United evaluates the financial condition of guarantors based on the most current financial information available. Most often, such information takes the form of (i) personal financial statements of net worth, cash flow statements and tax returns (for individual guarantors) and (ii) financial and operating statements, tax returns and financial projections (for legal entity guarantors). The Company’s evaluation is primarily focused on various key financial metrics, including net worth, leverage ratios and liquidity. It is the Company’s policy to update such information annually, or more frequently as warranted, over the life of the loan.
+
+56
+
+While People’s United does not specifically track the frequency with which it has pursued guarantor performance under a guarantee, the Company’s underwriting process, both at origination and upon extension, as applicable, includes an assessment of the guarantor’s reputation, creditworthiness and willingness to perform. Historically, when the Company has found it necessary to seek performance under a guarantee, it has been able to effectively mitigate its losses.
+
+In considering the collectability of such loans, an evaluation is made of the collateral and future cash flow of the borrower as well as the anticipated support of any repayment guarantor. In the event that the guarantor is unwilling or unable to perform, a legal remedy is pursued. When performance under the loan terms is deemed to be uncertain, including performance of the guarantor, all or a portion of the loan may be charged-off, typically based on the fair value of the collateral securing the loan.
+
+Allowance and Provision for Credit Losses on Loans
+
+The ACL is established through provisions for credit losses on loans charged to income. Losses on loans are charged to the ACL when all or a portion of a loan is deemed to be uncollectible. Recoveries of loans previously charged off are credited to the ACL when realized.
+
+Under the CECL standard, the Company determines the ACL on loans based upon a consideration of its historical portfolio loss experience, current borrower-specific risk characteristics, forecasts of future economic conditions and other relevant factors. The allowance is measured on a collective (pool) basis when similar risk characteristics exist. Loans that do not share common risk characteristics are evaluated on an individual basis and are excluded from the collective evaluation. At December 31, 2021 and 2020, the collective ACL totaled $330.0 million and $404.6 million, respectively, and the specific allocation of the ACL for loans evaluated on an individual basis totaled $13.6 million and $20.5 million, respectively.
+
+The Company’s loan portfolio segments include Commercial and Retail and each of these segments comprises multiple loan classes, which are characterized by similarities in initial measurement, risk attributes, and the manner in which credit risk is monitored and assessed. The Commercial loan portfolio segment is comprised of the commercial real estate, commercial and industrial, equipment financing and MW/ABL loan classes. The Retail loan portfolio segment is comprised of the residential mortgage, home equity and other consumer loan classes. Common characteristics and risk profiles include the type/purpose of loan and historical/expected credit loss patterns. The Company periodically reassesses each pool to ensure the loans within the pool continue to share similar characteristics and risk profiles and to determine whether further segmentation is necessary.
+
+For a more detailed discussion of the Company’s ACL methodology and related policies, see Note 1 to the Consolidated Financial Statements.
+
+57
+
+The following table presents the activity in the ACL and ratios:
+
+[DATA_TABLE_REMOVED]
+
+The provision for credit losses on loans totaled $(48.2) million in 2021, reflecting net loan charge-offs of $33.3 million and an $81.5 million decrease in the ACL. The provision for credit losses on loans in 2021 reflects notable improvements in the economic outlook (e.g. GDP and unemployment) largely attributable to continued COVID-19 vaccine distribution, an easing of social distancing restrictions and further government stimulus. The provision for credit losses on loans totaled $156.1 million in 2020, reflecting net loan charge-offs of $49.8 million and an increase in the ACL resulting from the initial application of the CECL standard and the economic uncertainties brought about by COVID-19, specifically as it related to assumptions regarding GDP and unemployment. The ACL as a percentage of total loans was 0.91% and 0.97% at December 31, 2021 and 2020, respectively. Excluding PPP loans, the ACL as a percentage of total loans was 0.92% at December 31, 2021 and 1.02% at December 31, 2020.
+
+58
+
+Loan Charge-Offs
+
+The Company’s charge-off policies, which comply with standards established by banking regulators, are consistently applied from period to period. Charge-offs are recorded on a monthly basis. Partially charged-off loans continue to be evaluated on a monthly basis and additional charge-offs or loan loss provisions may be recorded on the remaining loan balance based on the same criteria.
+
+For unsecured consumer loans, charge-offs are generally recorded when the loan is deemed to be uncollectible or 
+
+120 days past due, whichever occurs first. For consumer loans secured by real estate, including residential mortgage loans, 
+
+charge-offs are generally recorded when the loan is deemed to be uncollectible or 180 days past due, whichever occurs first, unless it can be clearly demonstrated that repayment will occur regardless of the delinquency status. Factors that demonstrate an ability to repay may include: (i) a loan that is secured by adequate collateral and is in the process of collection; (ii) a loan supported by a valid guarantee or insurance; or (iii) a loan supported by a valid claim against a solvent estate.
+
+For commercial loans, a charge-off is recorded when the Company determines that it will not collect all amounts contractually due based on the fair value of the collateral less cost to sell.
+
+The decision whether to charge-off all or a portion of a loan rather than to record a specific or general loss allowance is based on an assessment of all available information that aids in determining the loan’s net realizable value. Typically, this involves consideration of both (i) the fair value of any collateral securing the loan, including whether the estimate of fair value has been derived from an appraisal or other market information and (ii) other factors affecting the likelihood of repayment, including the existence of guarantees and insurance. If the amount by which the Company’s recorded investment in the loan exceeds its net realizable value is deemed to be a confirmed loss, a charge-off is recorded. Otherwise, a specific or general reserve is established, as applicable. The comparatively low level of net loan charge-offs in recent years, in terms of absolute dollars and as a percentage of average total loans, may not be sustainable in the future.
+
+The following table summarizes net loan charge-offs (recoveries) by class of loan and total net loan charge-offs to average total loans:[DATA_TABLE_REMOVED]
+
+(1)Less than 0.01% for the years ended December 31, 2020, 2019 and 2018.
+
+(2)Less than 0.01% for the year ended December 31, 2019.
+
+59
+
+The following table presents, by class of loan, the allocation of the ACL on loans and the percent of loans in each class to total loans:[DATA_TABLE_REMOVED]
+
+The allocation of the ACL on loans at December 31, 2021 reflects management’s assessment of credit risk and probable loss within each portfolio. This assessment is based on a variety of internal and external factors including, but not limited to, the likelihood and severity of loss, portfolio growth and related risk characteristics, and current economic conditions. The allocation of a portion of the allowance to one portfolio does not preclude its availability to absorb losses in another portfolio. Management believes that the level of the ACL on loans at December 31, 2021 represents an appropriate estimate of lifetime expected credit losses.
+
+Past Due and Non-Accrual Loans
+
+Loans are considered past due if required principal and interest payments have not been received as of the date such payments were contractually due. A loan is generally considered “non-performing” when it is placed on non-accrual status. A loan is generally placed on non-accrual status when it becomes 90 days past due as to interest or principal payments. A loan may be placed on non-accrual status before it reaches 90 days past due if such loan has been identified as presenting uncertainty with respect to the collectability of interest and principal. A loan past due 90 days or more may remain on accruing status if such loan is both well secured and in the process of collection.
+
+All previously accrued but unpaid interest on non-accrual loans is reversed from interest income in the period in which the accrual of interest is discontinued. Interest payments received on non-accrual loans are generally applied as a reduction of principal if future collections are doubtful, although such interest payments may be recognized as income. A loan remains on non-accrual status until the factors that indicated doubtful collectability no longer exist or until a loan is determined to be uncollectible and is charged-off against the ACL. There were no loans past due 90 days or more and still accruing interest at December 31, 2021 or 2020.
+
+60
+
+People’s United’s non-performing assets are summarized as follows:[DATA_TABLE_REMOVED]
+
+(1)Reported net of government guarantees totaling $2.9 million, $2.5 million, $1.3 million, $1.9 million and $3.1 million at December 31, 2021, 2020, 2019, 2018 and 2017, respectively. These government guarantees relate, almost entirely, to guarantees provided by the SBA as well as selected other Federal agencies and represent the carrying value of the loans that are covered by such guarantees, the extent of which (i.e. full or partial) varies by loan. At December 31, 2021, all of the government guarantees relate to commercial and industrial loans.
+
+(2)Real estate owned.
+
+Total non-performing assets decreased $48.0 million from December 31, 2020 and equaled 0.78% of total loans, REO and repossessed assets at December 31, 2021. The decrease in total non-performing assets from December 31, 2020 primarily reflects decreases of $32.3 million in non-accrual commercial and industrial loans, $26.0 million in non-accrual equipment financing loans and $20.5 million in residential mortgage loans, partially offset by a $44.4 million increase in non-accrual commercial real estate loans. The increase in non-accrual commercial real estate loans primarily relates to four relationships where the borrowers were negatively impacted by the COVID-19 pandemic.
+
+In addition to the non-accrual loans discussed above, People’s United has also identified $1.5 billion in potential problem loans at December 31, 2021. Potential problem loans represent loans that are currently performing, but for which known information about possible credit deterioration on the part of the related borrowers causes management to have concerns as to the ability of such borrowers to comply with contractual loan repayment terms and which may result in the disclosure of such loans as non-performing at some time in the future. The potential problem loans are generally loans that, although performing, have been classified as “substandard” in accordance with People’s United’s loan rating system, which is consistent with guidelines established by banking regulators.
+
+At December 31, 2021, potential problem loans consisted of commercial real estate loans ($787.5 million), equipment financing loans ($362.8 million), commercial and industrial loans ($349.0 million) and MW/ABL loans ($30.8 million). Such loans are closely monitored by management and have remained in performing status for a variety of reasons including, but not limited to, delinquency status, borrower payment history and fair value of the underlying collateral. Management cannot predict the extent to which economic conditions may worsen or whether other factors may adversely impact the ability of these borrowers to make payments. Accordingly, there can be no assurance that potential problem loans will not become 90 days or more past due, be placed on non-accrual status, be restructured, or require additional provisions for loan losses.
+
+61
+
+The levels of non-performing assets and potential problem loans are expected to fluctuate in response to changing economic and market conditions, and the relative sizes of the respective loan portfolios, along with management’s degree of success in resolving problem assets. While management takes a proactive approach with respect to the identification and resolution of problem loans, the level of non-performing assets may increase in the future.
+
+Off-Balance-Sheet Arrangements
+
+Detailed discussions pertaining to People’s United’s off-balance-sheet arrangements are included in the following sections: Funding, Liquidity, Stockholders’ Equity and Dividends, and Market Risk Management.
+
+Funding
+
+People’s United’s primary funding sources are deposits and stockholders’ equity, which represented 95% of total assets at December 31, 2021. Borrowings and notes and debentures also are available sources of funding.
+
+Deposits
+
+People’s United’s commitment to developing full-service relationships with its commercial, retail, business and wealth management customers and expanding its branch network are integral components of People’s United’s strategy to grow market share and continue to increase deposits. People’s United provides customers access to their deposits through 388 branches, including 111 full-service in-store Stop & Shop supermarket branches, 562 ATMs, telephone banking and an Internet banking site.[DATA_TABLE_REMOVED]
+
+(1)Amount totaled less than $0.1 million at both December 31, 2020 and 2019 (none at December 31, 2021).
+
+Deposits equaled 83% of total assets at both December 31, 2021 and 2020. Deposits and stockholders’ equity constituted 95% of People’s United’s funding base at both December 31, 2021 and 2020. At December 31, 2021, People’s United’s network of Stop & Shop branches held $5.4 billion in total deposits and deposits in supermarket branches open for more than one year averaged $49 million per store.
+
+In January 2021, the Bank announced its decision not to renew its agreements with Stop & Shop to operate its in-store branches in Connecticut and New York upon their expiration in 2022. Branch closures are scheduled to take place over several years using a phased approach. In the first quarter of 2021, the Bank reached an agreement with Stop & Shop on the timing of the exit from all New York in-store branch and ATM locations, which began in the third quarter of 2021, with a full exit occurring over the following three quarters.
+
+62
+
+On August 5, 2021, the Bank announced it had reached an agreement with Stop & Shop to retain 27 in-store branch and corresponding ATM locations in Connecticut slated to close as part of the previously announced decision not to renew existing in-store branch contracts in Connecticut. The locations were strategically selected based on a variety of factors including proximity to nearby traditional branches, transaction volume, customer feedback and input from community leaders. The new agreement does not impact the previously announced exit period for all other Connecticut Stop & Shop branch locations. Closures are scheduled to occur over several years using a phased approach and begin in 2022. Customers of the impacted branch locations will receive a minimum of 90 days’ notice prior to the closure. As of December 31, 2021, People’s United operated 111 Stop & Shop branch locations, 84 in Connecticut and 27 in New York.
+
+Non-interest-bearing deposits are an important source of low-cost funding and fee income for People’s United. In addition, People’s United believes that checking accounts represent one of the core relationships between a financial institution and its customers, and it is from these relationships that cross-selling of other financial services can be achieved. 
+
+Non-interest-bearing deposits equaled 33% of total deposits at December 31, 2021 and 30% at December 31, 2020. Time deposits of $250,000 or more totaled $772 million at December 31, 2021, of which $333 million mature within three months, $131 million mature after three months but within six months, $114 million mature after six months but within one year and $194 million mature after one year. Included in total deposits at December 31, 2021 are $1.7 billion of brokered deposits, comprised of money market ($1.6 billion), time ($118 million) and interest-bearing checking ($26 million). See Note 11 to the Consolidated Financial Statements for additional information concerning deposits.
+
+Total Deposits
+
+As of December 31 (dollars in billions)
+
+The following table presents, by rate category, the remaining period to maturity of time deposits outstanding:[DATA_TABLE_REMOVED]
+
+63
+
+Borrowings
+
+People’s United’s primary source for borrowings are advances from the FHLB of Boston, which provides credit for member institutions within its assigned region, and federal funds purchased, which are typically unsecured overnight loans among banks. Customer repurchase agreements primarily consist of transactions with commercial and municipal customers.
+
+At December 31, 2021, the Bank’s total borrowing capacity from (i) the FHLB of Boston for advances and the FRB-NY and (ii) repurchase agreements was $11.8 billion based on the level of qualifying collateral available for these borrowings. In addition, the Bank had unsecured borrowing capacity of $1.0 billion at that date. FHLB advances are secured by the Bank’s investment in FHLB stock and by a security agreement that requires the Bank to maintain, as collateral, sufficient qualifying assets not otherwise pledged (principally single-family residential mortgage loans, home equity lines of credit and loans, and commercial real estate loans).
+
+Total borrowings equaled 1% of total assets at December 31, 2021 compared to 2% at December 31, 2020.
+
+[DATA_TABLE_REMOVED]
+
+Notes and Debentures
+
+Notes and debentures totaled $1.0 billion at both December 31, 2021 and 2020, and equaled 2% of total assets at both dates. See Note 13 to the Consolidated Financial Statements for additional information concerning notes and debentures.
+
+64
+
+Contractual Cash Obligations and Material Cash Requirements
+
+The following table provides a summary of People’s United’s contractual cash obligations and material cash requirements, other than deposit liabilities. Additional information concerning the Company’s contractual cash obligations is included in Notes 11, 12, 13 and 22 to the Consolidated Financial Statements. Purchase obligations included in the table below represent those agreements to purchase goods or services that are enforceable and legally binding and that specify all significant terms, including: (i) fixed or minimum quantities to be purchased; (ii) fixed, minimum or variable price provisions; and (iii) the approximate timing of the transactions. A substantial majority of People’s United’s purchase obligations are renewable on a year-to-year basis. As such, the purchase obligations included in this table only reflect the contractual commitment.[DATA_TABLE_REMOVED]
+
+Future contingent commitments related to limited partnership affordable housing investments, totaling $264.5 million at December 31, 2021, are not included in the table above as the timing of the related capital calls cannot be estimated. Similarly, income tax liabilities totaling $32.4 million, including related interest and penalties, are not included in the table above as the timing of their resolution cannot be estimated. See Note 14 to the Consolidated Financial Statements.
+
+Also not included in the table above are expected future net benefit payments related to the Company’s pension and other postretirement plans that are due as follows: $32.4 million in less than one year; $69.9 million in one to three years; $74.5 million in four to five years; and $198.5 million after five years. See Note 19 to the Consolidated Financial Statements.
+
+Liquidity
+
+Liquidity is defined as the ability to generate sufficient cash flows to meet all present and future funding requirements at reasonable costs. Liquidity management addresses both People’s United’s and the Bank’s ability to fund new loans and investments as opportunities arise, to meet customer deposit withdrawals and to repay borrowings and subordinated notes as they mature. People’s United’s, as well as the Bank’s, liquidity positions are monitored daily by management. The Asset and Liability Management Committee (“ALCO”) of the Bank has been authorized by the Board of Directors of People’s United to set guidelines to ensure maintenance of prudent levels of liquidity for People’s United as well as for the Bank. ALCO reports to the Treasury and Finance Committee of the Board of Directors of People’s United.
+
+Asset liquidity is provided by: cash; short-term investments and securities purchased under agreements to resell; proceeds from maturities, principal repayments and sales of securities; and proceeds from scheduled principal collections, prepayments and sales of loans. In addition, certain securities may be used to collateralize borrowings under repurchase agreements. The Consolidated Statements of Cash Flows present data on cash provided by and used in People’s United’s operating, investing and financing activities. At December 31, 2021, People’s United (parent company) liquid assets included $490 million in cash, while the Bank’s liquid assets included $6.6 billion in debt securities available-for-sale and $10.1 billion in cash and cash equivalents. At December 31, 2021, debt securities available-for-sale with a fair value of $3.5 billion and debt securities 
+
+held-to-maturity with an amortized cost basis of $1.7 billion were pledged as collateral for public deposits and for other purposes.
+
+Liability liquidity is measured by both People’s United’s and the Bank’s ability to obtain deposits and borrowings at 
+
+cost-effective rates that are diversified with respect to markets and maturities. Deposits, which are considered the most stable source of liability liquidity, totaled $53.8 billion at December 31, 2021 and represented 85% of total funding (the sum of total deposits, total borrowings, notes and debentures, and stockholders’ equity). Borrowings are used to diversify People’s United’s funding mix and to support asset growth. Borrowings and notes and debentures both totaled $1.0 billion at December 31, 2021, each representing approximately 1% of total funding at that date.
+
+65
+
+The Bank’s current available sources of borrowings include: federal funds purchased, advances from the FRB-NY and the FHLB of Boston, and repurchase agreements. At December 31, 2021, the Bank’s total borrowing capacity from (i) the 
+
+FRB-NY and the FHLB of Boston for advances and (ii) repurchase agreements was $11.8 billion based on the level of qualifying collateral available for these borrowings. In addition, the Bank had unsecured borrowing capacity of $1.0 billion at that date.
+
+Earning Asset MixFunding Base
+
+$58.9 billion as of December 31, 2021 (percent)
+
+$63.6 billion as of December 31, 2021 (percent)
+
+At December 31, 2021, the Bank had outstanding commitments to originate loans totaling $1.5 billion and approved, but unused, lines of credit extended to customers totaling $11.8 billion (including $3.3 billion of HELOCs).
+
+The sources of liquidity discussed above are deemed by management to be sufficient to fund outstanding loan commitments and to meet both People’s United’s and the Bank’s other obligations.
+
+Stockholders’ Equity and Dividends
+
+People’s United’s total stockholders’ equity was $7.90 billion at December 31, 2021, a $299.0 million increase from December 31, 2020. This increase primarily reflects: net income in 2021 of $604.9 million, partially offset by (i) common and preferred dividends paid in 2021 totaling $321.9 million and (ii) a $47.6 million increase in accumulated other comprehensive loss (“AOCL”) since December 31, 2020. As a percentage of total assets, stockholders’ equity was 12.2% and 12.1% at December 31, 2021 and 2020, respectively. Tangible common equity as a percentage of tangible assets was 7.8% and 7.5% at December 31, 2021 and December 31, 2020, respectively.
+
+Common dividends declared and paid per common share totaled $0.7275 and $0.7175 for the years ended 
+
+December 31, 2021 and 2020, respectively. People’s United’s common dividend payout ratio (common dividends paid as a percentage of net income available to common shareholders) for the years ended December 31, 2021 and 2020 was 52.1% and 148.0%, respectively. On an operating basis, the common dividend payout ratio was 49.0% and 56.9% for the respective periods.
+
+In January 2022, People’s United’s Board of Directors declared a quarterly dividend on its common stock of $0.1825 per common share. The dividend was paid on February 15, 2022 to shareholders of record on February 1, 2022. Also in 
+
+January 2022, People’s United’s Board of Directors declared a dividend on its preferred stock, subject to and conditioned upon the effective time of the merger between the Company and M&T not occurring prior to the close of business on March 1, 2022. The dividend is payable on March 15, 2022 to preferred shareholders of record as of March 1, 2022.
+
+The Bank paid cash dividends totaling $437.0 million and $498.0 million in 2021 and 2020, respectively, and 
+
+$147.0 million in February 2022, to People’s United (parent company). See Risk Factors - Compliance and Regulatory Risk for a further discussion regarding the Company's and Bank's ability to declare and pay future dividends.
+
+66
+
+Regulatory Capital Requirements
+
+Both People’s United and the Bank are subject to the Basel III capital rules issued by U.S. banking agencies. The 
+
+Basel III capital rules require U.S. financial institutions to maintain: (i) a minimum ratio of CET 1 capital to total risk-weighted assets of at least 4.5%, plus a 2.5% “capital conservation buffer” (which is added to the 4.5% CET 1 risk-based capital ratio, effectively resulting in a minimum CET 1 risk-based capital ratio of 7.0%); (ii) a minimum ratio of Tier 1 capital to total 
+
+risk-weighted assets of at least 6.0%, plus the capital conservation buffer (which is added to the 6.0% Tier 1 risk-based capital ratio, effectively resulting in a minimum Tier 1 risk-based capital ratio of 8.5%); (iii) a minimum ratio of Total (that is, Tier 1 plus Tier 2) capital to total risk-weighted assets of at least 8.0%, plus the capital conservation buffer (which is added to the 8.0% Total risk-based capital ratio, effectively resulting in a minimum Total risk-based capital ratio of 10.5%); and (iv) a minimum Tier 1 Leverage capital ratio of at least 4.0%, calculated as the ratio of Tier 1 capital to average total assets, as defined.
+
+In order to avoid limitations on distributions, including dividend payments, and certain discretionary bonus payments, a financial institution must hold a capital conservation buffer of 2.50% above its minimum risk-based capital requirements.
+
+For regulatory capital purposes, subordinated note issuances qualify, up to certain limits, as Tier 2 capital for Total 
+
+risk-based capital. In accordance with regulatory capital rules, the eligible amount of the Bank’s $400 million subordinated notes due 2024 and People’s United’s $75 million subordinated notes due 2024 included in Tier 2 capital will both be reduced each year until the year of final maturity by 20%, or $80 million and $15 million, respectively.
+
+In December 2018, the Federal banking agencies approved a final rule allowing an option to phase-in, over three years, the day one regulatory capital effects of the CECL standard. In March 2020, the Federal banking agencies issued an interim final rule providing an alternative option to delay, for two years, an estimate of the CECL standard’s effect on regulatory capital (relative to incurred loss methodology’s effect on regulatory capital), followed by a three-year transition period. The Company has elected the alternative option provided in the March 2020 interim final rule.
+
+The following is a summary of People’s United’s and the Bank’s regulatory capital amounts and ratios under the Basel III capital rules. The minimum capital required amounts are based on the capital conservation buffer of the Basel III capital rules. In connection with the adoption of the Basel III capital rules, both the Company and the Bank elected to opt-out of the requirement to include most components of AOCL in CET 1 capital. At December 31, 2021, People’s United’s and the Bank’s total risk-weighted assets, as defined, both totaled $41.8 billion. For regulatory capital purposes, PPP loans are assigned a zero risk-weighting as a result of the related SBA guarantee on such loans.
+
+67
+
+[DATA_TABLE_REMOVED]
+
+(1)Tier 1 Leverage Capital ratio represents CET 1 Capital plus Additional Tier 1 Capital instruments (together, “Tier 1 Capital”) divided by Average Total Assets (less goodwill, other acquisition-related intangibles and other deductions from CET 1 Capital). Average PPP loans are included in Average Total Assets.
+
+(2)CET 1 Risk-Based Capital ratio represents equity capital, as defined, less: (i) after-tax net unrealized gains (losses) on certain securities classified as available-for-sale; (ii) after-tax net unrealized gains (losses) on securities transferred to held-to-maturity; (iii) goodwill and other acquisition-related intangible assets; and (iv) the amount recorded in AOCL relating to pension and other postretirement benefits divided by Total Risk-Weighted Assets.
+
+(3)Tier 1 Risk-Based Capital ratio represents Tier 1 Capital divided by Total Risk-Weighted Assets.
+
+(4)Total Risk-Based Capital ratio represents Tier 1 Capital plus subordinated notes and debentures, up to certain limits, and the ACL, up to 1.25% of Total Risk-Weighted Assets, divided by Total Risk-Weighted Assets.
+
+See Note 16 to the Consolidated Financial Statements for additional information concerning both the Company’s and the Bank’s regulatory capital amounts and ratios.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

@@ -1,0 +1,77 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0000051143 false Capital stock, par value $.20 per share IBM CHX        0000051143   2021-01-26 2021-01-26     0000051143  us-gaap:CommonStockMember exch:XCHI    2021-01-26 2021-01-26     0000051143  us-gaap:CommonStockMember exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.500PercentDue2021Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes2.625PercentDue2022Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.25PercentDue2023Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.375PercentDue2023Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.125PercentDue2024Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes2.875PercentDue2025Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.950PercentDue2025Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.875PercentDue2025Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.300PercentDue2026Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.250PercentDue2027Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes0.300PercentDue2028Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.750PercentDue2028Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.500PercentDue2029Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Notes1.750PercentDue2031Member exch:XNYS    2021-01-26 2021-01-26     0000051143  exch:XNYS ibm:Notes0.650PercentDue2032Member    2021-01-26 2021-01-26     0000051143  exch:XNYS ibm:Notes1.200PercentDie2040Member    2021-01-26 2021-01-26     0000051143  ibm:Debentures7.00PercentDue2025Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Debentures6.22PercentDue2027Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Debentures6.50PercentDue2028Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Debentures7.00PercentDue2045Member exch:XNYS    2021-01-26 2021-01-26     0000051143  ibm:Debentures7.125PercentDue2096Member exch:XNYS    2021-01-26 2021-01-26    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+ Title of each class Capital stock, par value $.20 per share 
+
+ Trading symbol IBM 
+
+  Common Stock  
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report: January 26, 2021 
+
+(Date of earliest event reported) 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+914-499-1900 
+
+(Registrant’s telephone number) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 5.02(e) (Compensatory Arrangements of Certain Officers) 
+
+The following are compensation arrangements for Arvind Krishna, the Company’s Chairman and Chief Executive Officer and the Company’s named executive officers identified in the 2020 Proxy Statement. Further information regarding the structure of compensation programs and awards will be included in the Company’s 2021 Proxy Statement.  
+
+  [DATA_TABLE_REMOVED] 
+
+* The Long-Term Incentive Awards will be granted on June 8, 2021. The actual number of units granted on this date will be based on the average of IBM’s closing stock price for the 30 active trading days prior to the grant date. The performance share units will be paid out in February 2024. The restricted stock units will vest 25% per year on each anniversary of the date of grant. Additional information about equity grants is provided in the Company’s Proxy Statement. 
+
+** As previously disclosed by the Company, Mr. Krishna was elected Chief Executive Officer of the Company, effective April 6, 2020 and Chairman of the IBM Board of Directors, effective January 1, 2021. 
+
+*** As previously disclosed by the Company, Mrs. Rometty and Dr. Kelly retired on December 31, 2020. 
+
+****As previously disclosed by the Company, Mr. Schroeter retired on June 30, 2020. In January 2021, he rejoined the Company in a non-Executive Officer role as Chief Executive Officer of the independent company that will be created following the separation of the Company's Managed Infrastructure Services business. 
+
+IBM’s web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted. 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. [DATA_TABLE_REMOVED]

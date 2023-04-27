@@ -1,0 +1,245 @@
+PART I
+
+Item 1: Business
+
+Incorporated in 1967, Applied Materials, Inc. (Applied or the Company) is a Delaware corporation. A global company with a broad set of capabilities in materials engineering, Applied provides manufacturing equipment, services and software to the semiconductor, display and related industries. With its diverse technology capabilities, Applied delivers products and services that improve device performance, power, yield and cost. Applied’s customers include manufacturers of semiconductor chips, liquid crystal and organic light-emitting diode (OLED) displays, and other electronic devices. These customers may use what they manufacture in their own end products or sell the items to other companies for use in electronic products. Applied’s fiscal year ends on the last Sunday in October. 
+
+Applied operates in three reportable segments: Semiconductor Systems, Applied Global Services, and Display and Adjacent Markets. A summary of financial information for each reportable segment is found in Note 17 of Notes to Consolidated Financial Statements. A discussion of factors that could affect operations is set forth under “Risk Factors” in Item 1A, which is incorporated herein by reference.
+
+Semiconductor Systems 
+
+Applied’s Semiconductor Systems segment develops, manufactures and sells a wide range of manufacturing equipment used to fabricate semiconductor chips, also referred to as integrated circuits (ICs). The Semiconductor Systems segment includes semiconductor capital equipment used for many steps of the chip making process including the transfer of patterns into device structures, transistor and interconnect fabrication, metrology, inspection and review, and packaging technologies for connecting finished IC die. Applied’s patterning systems and technologies address challenges resulting from shrinking pattern dimensions and the growing complexity in vertical stacking found in today’s most advanced semiconductor devices. Applied’s transistor and interconnect products and technologies enable continued power and performance improvements of 3D transistors. Applied’s metrology, inspection and review systems’ imaging capabilities and algorithms employ optical and e-beam technologies to meet the most advanced technical demands in areas including self-aligned double and quad patterning, extreme ultraviolet layers, measurement-intensive optimal proximity correction mask qualification, and new 3D architectures. Applied’s packaging technologies address challenges resulting from the increasing heterogeneous integration of multiple IC dies in a single package. Applied delivers leading-edge capabilities that enable chipmakers to establish accurate statistical process control, ramp up production runs rapidly, and achieve consistently high production yields. Applied also provides manufacturing equipment that helps improve performance, power, yield and cost of semiconductor devices that use mature process technologies and serve specialty markets such as the Internet of Things, Communications, Automotive, Power and Sensors. Applied’ Semiconductor Systems equipment is sold to integrated device manufacturers and foundries worldwide.
+
+4
+Semiconductor Systems TechnologiesProduct(s)
+
+Epitaxy
+
+Epitaxy (or epi) is a technique for growing silicon (e.g. silicon with another element) as a uniform crystalline structure on a wafer to form high quality material for the device circuity. Epi technology is used in device transistors to enhance chip speed.Centura RP Epi
+
+Ion Implant
+
+Ion implantation is a key technology for forming transistors and is used many times during chip fabrication. During ion implantation, wafers are bombarded by a beam of electrically-charged ions, called dopants, which can change the electrical properties of the exposed semiconductor material.VIISta Systems
+
+Oxidation/Nitridation
+
+Applied’s systems provide critical oxidation steps - like memory gate oxide, shallow trench isolation and liner oxide - for advanced device scaling.Vantage, Radiance and Centura Systems
+
+Rapid Thermal Processing (RTP)
+
+RTP is used primarily for annealing, which modifies the properties of deposited films. Applied’s single-wafer RTP systems are also used for growing high quality oxide and oxynitride films.Vantage Systems
+
+Physical Vapor Deposition (PVD)
+
+PVD is used to deposit high quality metal films. Applications include metal gate, silicides, contact liner/barrier, interconnect copper barrier seed and metal hard mask.Endura, Charger and Axcela Systems
+
+Chemical Vapor Deposition (CVD)
+
+CVD is used to deposit dielectric and metal films on a wafer. During the CVD process, gases that contain atoms of the material to be deposited react on the wafer surface, forming a thin film of solid material.Endura, Centura and Producer Systems
+
+Chemical Mechanical Planarization (CMP)
+
+CMP is used to planarize a wafer surface, a process that allows subsequent photolithography patterning and material deposition steps to occur with greater accuracy, resulting in more uniform film layers with minimal thickness variations.Reflexion and Mirra Systems
+
+Electrochemical Deposition (ECD)
+
+ECD is a process by which metal atoms from a chemical fluid (an electrolyte) are deposited on the surface of an immersed object.Raider and Nokota Platforms
+
+Atomic Layer Deposition (ALD) 
+
+ALD technology enables ultra thin film growth of either a conducting or insulating material with uniform coverage in nanometer-sized structures.Olympia, Sprinter, Morpher and P-300BV Systems
+
+Etch
+
+Etching is used many times throughout the IC manufacturing process to selectively remove material from the surface of a wafer. Applied offers systems for etching dielectric, metal, and silicon films to meet the requirements of advanced processing.Centris and Producer Systems
+
+Selective Processing (Deposition and Removal)
+
+Selective processing uses specially co-designed chemical and materials interactions to enable delicate and precise deposition and removal of target materials.Endura and Producer Systems
+
+Metrology and Inspection
+
+Metrology and inspection tools are used to locate, measure, and analyze defects and features on the wafer during various stages of the fabrication processes. Applied enables customers to characterize and control critical dimension (CD) and defect issues, especially at advanced generation technology nodes.SEMVision eBeam Review
+
+PROVision eBeam Metrology
+
+Enlight Optical Inspection
+
+UVision Optical Inspection
+
+VeritySEM CD-SEM Metrology
+
+Aera Mask Inspection
+
+5
+Applied Global Services
+
+The Applied Global Services® (AGS) segment provides integrated solutions to optimize equipment and fab performance and productivity, including spares, upgrades, services, remanufactured earlier generation equipment and factory automation software for semiconductor, display and other products. Customer demand for products and services is fulfilled through a global distribution system in more than 170 locations and trained service engineers located in close proximity to customer sites to support over 49,000 installed Applied semiconductor, display and other manufacturing systems worldwide. Applied offers the following general types of services and products under the Applied Global Services segment.
+
+AGS Solutions and Technology
+
+Technology-Enabled Services®
+
+A comprehensive service product portfolio that combines service technology and tool specific performance commitments in order to optimize customer factory productivity.
+
+Fab Consulting
+
+Experts using advanced analytical tools to solve production problems that have the greatest impact on customer fab productivity.
+
+Supply Chain Assurance Programs
+
+Spare parts product portfolio offers options to balance inventory, cost and risk to efficiently meet fab requirements. 
+
+Subfab Equipment
+
+Applied SubFab solutions lower costs, save energy, reduce environmental impact, and meet Environmental Protection Agency reporting regulations for greenhouse gas emissions.
+
+Legacy Equipment and Upgrades
+
+Comprehensive 200mm equipment and upgrades portfolio to address a full spectrum of production needs and extend tool lifetime. Applied 200mm equipment supports market inflections and new technology for a broad variety of devices including analog, power, and MEMS.
+
+Automation Software
+
+Applied SmartFactory® automation software portfolio coordinates and streamlines every aspect of a factory (the processes, equipment and people) to provide competitive advantage to customers.
+
+6
+Display and Adjacent Markets
+
+The Display and Adjacent Markets segment is comprised primarily of products for manufacturing liquid crystal displays (LCDs), organic light-emitting diodes (OLEDs), and other display technologies for TVs, monitors, laptops, personal computers (PCs), electronic tablets, smart phones, and other consumer-oriented devices. While similarities exist between the technologies utilized in semiconductor and display fabrication, the most significant differences are in the size and composition of the substrate. Substrates used to manufacture display panels and other devices are typically glass, although newer flexible materials are entering the market. Display and Adjacent Markets segment growth depends primarily on consumer demand for increasingly larger and more advanced TVs and high-resolution displays for mobile devices as well as new form factors, including thin, light, curved and flexible displays, and new applications such as augmented and virtual reality. In addition to display applications, the segment’s Chemical Vapor Deposition (CVD) technology is used to manufacture solar energy cells. The Display and Adjacent Markets segment offers a variety of technologies and products, including:
+
+[DATA_TABLE_REMOVED]
+
+7
+Backlog
+
+Applied manufactures systems to meet demand represented by order backlog and customer commitments. Backlog consisted of: (1) orders for which written authorizations have been accepted, or shipment has occurred but revenue has not been recognized; and (2) contractual service revenue and maintenance fees.
+
+Backlog by reportable segment as of October 30, 2022 and October 31, 2021 was as follows:
+
+[DATA_TABLE_REMOVED]
+
+Of the total backlog as of October 30, 2022, approximately 32% is not reasonably expected to be filled within the next 12 months.
+
+New export rules and regulations issued in December 2022 are expected to reduce backlog that was not reasonably expected to be filled within 12 months by approximately $989 million.
+
+Applied’s backlog on any particular date is not necessarily indicative of actual sales for any future periods, due to the potential for customer changes in delivery schedules or order cancellations. Customers may delay delivery of products or cancel orders prior to shipment, subject to possible cancellation penalties. Delays in delivery schedules or a reduction of backlog during any particular period could have a material adverse effect on Applied’s business and results of operations.
+
+Manufacturing, Raw Materials and Supplies
+
+Applied’s worldwide manufacturing activities consist primarily of assembly, integration and test of various proprietary and commercial parts, components and subassemblies that are used to manufacture systems. Applied has implemented a distributed manufacturing model under which manufacturing and supply chain activities are conducted in various countries, primarily including China, Israel, Singapore, Taiwan, the United States and other countries in Asia. Applied uses qualified vendors, including contract manufacturers, to supply parts, services and product support. Applied’s supply chain strategy commits to adhere to ethical labor practices, responsible minerals sourcing, Responsible Business Alliance and SEMI guidelines, and the Applied Materials Standards of Business Conduct as defined in Applied’s Environmental, Social and Governance (ESG) commitment. 
+
+Although Applied makes reasonable efforts to assure that parts are available from multiple qualified suppliers, this is not always possible. Accordingly, some key parts may be obtained from only a qualified single supplier or a limited group of qualified suppliers. Applied seeks to reduce costs and to lower the risks of manufacturing and service interruptions by selecting and qualifying alternate suppliers for parts; monitoring the financial condition of key suppliers; maintaining appropriate inventories of parts; qualifying new parts on a timely basis; and ensuring quality and performance of parts.
+
+Research, Development and Engineering
+
+Applied’s long-term growth strategy requires continued development of new materials engineering capabilities, including products and platforms that enable expansion into new and adjacent markets. Applied’s significant investments in research, development and engineering (RD&E) must generally enable it to deliver new products and technologies before the emergence of strong demand, thus allowing customers to incorporate these products into their manufacturing plans during early-stage technology selection. Applied works closely with its global customers and ecosystem partners to design systems and processes that meet planned technical and production requirements.
+
+Applied’s product development and engineering organizations are located primarily in the United States, as well as in China, Europe, India, Israel, Korea, Singapore and Taiwan. In addition, certain outsourced RD&E activities, process support and customer demonstrations are performed in the United States, India, China, Singapore and Taiwan.
+
+8
+Marketing and Sales
+
+Because of the highly technical nature of its products, Applied markets and sells products worldwide almost entirely through a direct sales force.
+
+Applied has operations in many countries, with some of its business activities concentrated in certain geographic areas, and global and regional economic and political conditions can impact the company’s business and financial results. Applied’s business is based on capital equipment investments by major semiconductor, display and other manufacturers, and is subject to significant variability in customer demand for Applied’s products. Customers’ expenditures depend on many factors, including: general economic conditions; anticipated market demand and pricing for semiconductors, display technologies and other electronic devices; the development of new technologies; customers’ factory utilization; capital resources and financing; trade policies and export regulations; and government incentives. In addition, a significant driver in the semiconductor and display industries has been end-demand for mobile consumer products, which has been characterized by seasonality that impacts the timing of customer investments in manufacturing equipment and, in turn, Applied’s business. 
+
+Information on net sales to unaffiliated customers and long-lived assets attributable to Applied’s geographic regions is included in Note 17 of Notes to Consolidated Financial Statements. The following companies accounted for at least 10 percent of Applied’s net sales in each fiscal year, which were for products and services in multiple reportable segments.
+
+ [DATA_TABLE_REMOVED]
+
+______________________________
+
+* Less than 10%
+
+9
+Competition
+
+The industries in which Applied operates are highly competitive and characterized by rapid technological change. Applied’s ability to compete generally depends on its ability to commercialize its technology in a timely manner, continually improve its products, and develop new products that meet constantly evolving customer requirements. Significant competitive factors include technical capability and differentiation, productivity, cost-effectiveness and the ability to support a global customer base. The importance of these factors varies according to customers’ needs, including product mix and respective product requirements, applications, and the timing and circumstances of purchasing decisions. Substantial competition exists in all areas of Applied’s business. Competitors range from small companies that compete in a single region, which may benefit from policies and regulations that favor domestic companies, to global, diversified companies, which operate in more complex global economic and regulatory environments. Applied’s ability to compete requires a high level of investment in RD&E, marketing and sales, and global customer support activities. Management believes that many of Applied’s products have strong competitive positions.
+
+The competitive environment for each segment is described below.
+
+The semiconductor industry is driven by demand for advanced electronic products, including smartphones and other mobile devices, servers, personal computers, automotive electronics, storage, and other products. The growth of data and emerging end-market drivers such as artificial intelligence, the Internet of Things, 5G networks, smart vehicles and augmented and virtual reality are also creating the next wave of growth for the industry. As a result, products within the Semiconductor Systems segment are subject to significant changes in customer requirements, including transitions to smaller dimensions, increasingly complex chip architectures, new materials and an increasing number of applications. While certain existing technologies may be adapted to new requirements, some applications create the need for an entirely different technological approach. The rapid pace of technological change can quickly diminish the value of current technologies and products and create opportunities for existing and new competitors. Applied’s broad portfolio offers a variety of differentiated products, including co-optimized and integrated materials solutions that enable unique films, structures and devices. Applied’s products must continuously evolve to satisfy customers’ requirements to compete effectively in the marketplace. Applied allocates resources among its numerous product offerings and therefore may decide not to invest in an individual product depending on market requirements. There are a number of competitors serving the semiconductor manufacturing equipment industry, which has experienced increased consolidation. Some of these competitors offer a single product line and others offer multiple product lines, and range from serving a single region to global, diversified companies.
+
+Products and services within the Applied Global Services segment complement the Semiconductor Systems and Display and Adjacent Markets segments’ products in markets that are characterized by demanding worldwide service requirements. Competition in the Applied Global Services segment includes a diverse group of numerous third-party service providers and customers that perform their own service.
+
+To compete effectively, Applied offers products and services to improve tool performance, lower overall cost of ownership, and increase yields and productivity of customers’ fab operations. Significant competitive factors include productivity, cost-effectiveness, and the level of technical service and support. The importance of these factors varies according to customers’ needs and the type of products or services offered. 
+
+Products in the Display and Adjacent Markets segment are generally subject to strong competition from a number of major competitors primarily in Asia. Applied holds established market positions with its technically-differentiated LCD and OLED manufacturing solutions for PECVD, color filter PVD, PVD array, PVD touch panel, and TFT array testing, although its market position could change quickly due to customers’ evolving requirements. Important factors affecting the competitive position of Applied’s Display and Adjacent Markets products include: industry trends, Applied’s ability to innovate and develop new products, and the extent to which Applied’s products are technically-differentiated, as well as which customers within a highly concentrated customer base are making capital equipment investments and Applied’s existing position at these customers.
+
+10
+Patents and Licenses
+
+Protection of Applied’s technology assets through enforcement of its intellectual property rights, including patents, is important for its competitive position. Applied’s practice is to file patent applications in the United States and other countries for inventions that it considers significant. Applied has more than 17,300 patents in the United States and other countries, and additional applications are pending for new inventions. Although Applied does not consider its business materially dependent upon any one patent, the rights of Applied and the products made and sold under its patents, taken as a whole, are a significant element of its business. In addition to its patents, Applied possesses other intellectual property, including trademarks, know-how, trade secrets, and copyrights. 
+
+Applied enters into patent and technology licensing agreements with other companies when it is determined to be in its best interest. Applied pays royalties under existing patent license agreements for the use, in several of its products, of certain patented technologies. Applied also receives royalties from licenses granted to third parties. Royalties received from or paid to third parties have not been material to Applied’s consolidated results of operations.
+
+In the normal course of business, Applied periodically receives and makes inquiries regarding possible patent infringement. In responding to such inquiries, it may become necessary or useful for Applied to obtain or grant licenses or other rights. However, there can be no assurance that such licenses or rights will be available to Applied on commercially reasonable terms, or at all. If Applied is not able to resolve or settle claims, obtain necessary licenses on commercially reasonable terms, or successfully prosecute or defend its position, Applied’s business, financial condition and results of operations could be materially and adversely affected.
+
+Governmental Regulation
+
+As a public company with global operations, Applied is subject to the laws and regulations of the United States and multiple foreign jurisdictions. These regulations, which differ among jurisdictions, include those related to financial and other disclosures, accounting standards, corporate governance, intellectual property, tax, trade, including import, export and customs, antitrust, environment, and health and safety, climate change, employment, immigration and travel regulations, privacy, data protection and localization, and anti-corruption. See “Risk Factors – Legal, Compliance, and Other Risks – Applied is exposed to various risks related to the global regulatory environment” for further details.
+
+Applied is regulated under various international laws regarding the purchase and sale of goods and related items, including but not limited to those related to trade policies and export regulations, and limitations on transfer of intellectual property. See “Risk Factors – Business and Industry Risks – Global trade issues and changes in and uncertainties with respect to trade policies and export regulations, including import and export license requirements, trade sanctions, tariffs and international trade disputes, have adversely impacted and could further adversely impact our business and operations, and reduce the competitiveness of our products relative to local and global competitors” for further details.
+
+With respect to environmental, health and safety regulations, Applied maintains a number of programs that are primarily preventative in nature and regularly monitors ongoing compliance with applicable laws and regulations. In addition, Applied has trained personnel to conduct investigations of any environmental, health, or safety incidents, including, but not limited to, spills, releases, or possible contamination. See also “Risk Factors – Risks Related to Legal, Compliance, and Other Risks – Applied is subject to risks associated with environmental, health and safety regulations” for further details.
+
+Applied is subject to income taxes in the United States and foreign jurisdictions. Applied’s provision for income taxes, effective tax rate and financial results could be affected by numerous factors, including changes in applicable tax laws, interpretations of applicable tax laws, amount and composition of pre-tax income in jurisdictions with differing tax rates, and valuation of deferred tax assets. There have been a number of proposed changes in the tax laws that could increase Applied’s tax liability. See “Risk Factors – Operational and Financial Risks – Applied is exposed to risks associated with operating in jurisdictions with complex and changing tax laws” for further details. For additional discussions regarding the impact of compliance with income tax laws and regulations on Applied’s business and operations, see also “Management’s Discussion and Analysis of Financial Condition and Results of Operations– Results of Operations – Income Taxes” and “Note 15 of the Notes to the Consolidated Financial Statements”.
+
+11
+Applied’s People
+
+Applied’s commitment to innovation begins with the commitment to creating an environment in which Applied’s employees can do their best work. Applied’s ability to create differentiated value in the marketplace is driven by the capability of the Company’s people to anticipate technology inflections and integrate customer requirements. To achieve this level of value creation, Applied believes it must attract, hire, develop and retain a world-class global workforce. The Company invests in its employees by providing quality training and learning opportunities; promoting inclusion, equity and diversity; and upholding a high standard of ethics and respect for human rights. 
+
+As of October 30, 2022, Applied employed approximately 33,000 regular full-time employees, of whom approximately 46%, 42% and 12% resided in the Asia-Pacific region, North America, and Europe, Middle East and Africa, respectively. Applied’s team spans 24 countries, reflecting various cultures, backgrounds, race, color, national origin, religion, sex, sexual orientation, gender identity, ages, and disability, veteran and military status.
+
+Diversity, Equity and Inclusion 
+
+Applied values great talent and different perspectives, knowing that diversity is one of its greatest strengths. The Company therefore strives to provide fair and equal opportunity for career development and advancement to all its employees and incorporates respect for diverse backgrounds and perspectives into the Company’s culture at every level – from strategy and policy down to everyday interactions.
+
+Applied expects that its commitment to strengthening the Company’s culture of inclusion will broaden the diversity of its workplace and help Applied build a culture that benefits everyone. In recent years, Applied continued to make progress in its culture of inclusion journey, including, among other things, expanding gender diversity on the Company’s Board to 40% female membership, increasing female representation in the U.S. and global workforce, and increasing U.S. underrepresented minority representation. As of October 30, 2022, Applied’s global workforce was 80.6% male and 19.4% female, and 19% of Applied’s workforce in the United States was composed of underrepresented minorities.
+
+Additionally, Applied is investing in inclusion learning experiences. For example, the Company has various initiatives to further develop its leaders to lead even more inclusively and further deepen engagement with employees.
+
+Talent Acquisition and Retention 
+
+Applied believes that its future success is highly dependent upon the Company’s continued ability to attract, develop, retain and engage employees. As part of the Company’s effort to attract and retain employees, Applied offers competitive rewards, compensation and benefits, including an Employee Stock Purchase Plan, healthcare and retirement benefits, parental and family leave, adoption credits, holiday and paid time off, and tuition assistance.
+
+Employee Learning & Development 
+
+Applied seeks to create growth and development opportunities to support an engaged and inclusive workforce. Applied promotes holistic employee learning and development based on the 70/20/10 model--70% on-the-job learning, 20% social/collaborative and 10% formal training, with a focus on advancing technical skills as well as improving general business acumen to address increasing work complexity. Also, to help expand professional breadth, Applied uses a federated model where the segments and functions provide technical and job-specific training tied to their disciplines, while general professional, management, and leadership training is provided at the corporate level. All training is coordinated centrally and aligned with common objectives through Applied Global University. In addition to instructor-led and web-based training, Applied offers state-of-the-art training modalities, such as AI-based simulations and Augmented and Virtual Reality learning capabilities, to help develop its new products, train its manufacturing and field support employees, and collaborate remotely. Each fiscal year, employees are provided the opportunity to complete the required 40 hours of learning. 
+
+Employee Engagement, Organizational Health and Pandemic Response
+
+Applied has historically managed and measured employee engagement and organizational health with a view to gaining insight into employees’ experiences, levels of workplace satisfaction, and feelings of engagement and inclusion.
+
+Since the onset of the COVID-19 pandemic, Applied’s top priority remains protecting the health and safety of its employees and their families, customers, suppliers and community. This includes an understanding of its employees’ engagement and experiences during the pandemic and developing a return to work and future of work strategy. In fiscal 2020 and fiscal 2021, Applied conducted surveys focused on employee engagement and productivity and on the future of work. Applied continues to support workplace flexibility such as remote working where possible, and follow enhanced safety and health protocols—including screenings, social distancing, and use of personal protective equipment. In fiscal 2022, the focus of the employee survey was on engagement and identifying actionable insights to enable a segmented talent strategy to address engagement and retention in targeted employee populations (e.g., early tenure employees). 
+
+12
+Additional information regarding Applied’s activities related to its people and sustainability, as well as its workforce diversity data, can be found in Applied’s latest Sustainability Report and Annex thereto, which are located on its website at https://www.appliedmaterials.com/us/en/corporate-responsibility.html. The Sustainability Report and the Annex thereto are updated annually. This website address is intended to be an inactive textual reference only. None of the information on, or accessible through, Applied’s website is part of this Form 10-K or is incorporated by reference herein.
+
+13
+Information about Applied’s Executive Officers
+
+The following table and notes set forth information about Applied’s executive officers:[DATA_TABLE_REMOVED]
+
+(1)Mr. Dickerson, age 65, was named President of Applied in June 2012 and appointed Chief Executive Officer and a member of the Board of Directors in September 2013. Before joining Applied, he served as Chief Executive Officer and a director of Varian Semiconductor Equipment Associates, Inc. (Varian) from 2004 until its acquisition by Applied in November 2011. Prior to Varian, Mr. Dickerson served 18 years with KLA-Tencor Corporation (KLA-Tencor), a supplier of process control and yield management solutions for the semiconductor and related industries, where he held a variety of operations and product development roles, including President and Chief Operating Officer. Mr. Dickerson started his semiconductor career in manufacturing and engineering management at General Motors’ Delco Electronics Division and then AT&T Technologies.
+
+(2)Mr. Hill, age 56, has been Senior Vice President and Chief Financial Officer since March 2022. Prior to joining Applied, Mr. Hill was Executive Vice President and Chief Financial Officer of Xilinx, Inc., a company that designed and developed programmable devices and associated technologies, from April 2020 until its acquisition by Advanced Micro Devices, Inc. in February 2022. Prior to Xilinx, Mr. Hill served in various finance positions with Intel Corporation for 25 years, most recently as Corporate Vice President and Chief Financial Officer and Chief Operating Officer, Technology, Systems and Core Engineering Group. 
+
+(3)Ms. Little, age 58, joined Applied as Senior Vice President, Chief Legal Officer and Corporate Secretary in June 2020. Prior to joining Applied, Ms. Little served as Executive Vice President, Chief Legal Officer and Corporate Secretary at KLA Corporation from August 2017 to June 2020. Prior to that she was Senior Vice President, General Counsel and Corporate Secretary of KLA Corporation from October 2015 until August 2017, and prior to that she held various other positions at KLA Corporation since 2002. Prior to joining KLA Corporation, she was a Senior Corporate Associate at Wilson Sonsini Goodrich & Rosati, and a Litigation Associate at Heller Ehrman White & McAuliffe.
+
+(4)Dr. Nalamasu, age 64, has been Senior Vice President, Chief Technology Officer since June 2013, and President of Applied Ventures, LLC, Applied’s venture capital arm, since November 2013. He had served as Group Vice President, Chief Technology Officer from January 2012 to June 2013, and as Corporate Vice President, Chief Technology Officer from January 2011 to January 2012. Upon joining Applied in June 2006 until January 2011, Dr. Nalamasu was an Appointed Vice President of Research and served as Deputy Chief Technology Officer and General Manager for the Advanced Technologies Group. From 2002 to 2006, Dr. Nalamasu was a NYSTAR distinguished professor of Materials Science and Engineering at Rensselaer Polytechnic Institute, where he also served as Vice President of Research from 2005 to 2006. Prior to Rensselaer, Dr. Nalamasu served in several leadership roles at Bell Laboratories.
+
+(5)Dr. Raja, age 60, has been Senior Vice President, Semiconductor Products Group of Applied since November 2017. He previously served in various senior management, product development and operational roles since joining Applied in 1995, including Group Vice President and General Manager of the Patterning and Packaging Group.
+
+(6)Mr. Deane, age 57, has been Group Vice President, Applied Global Services since September 2022. He joined Applied in 1995 and previously served in various senior management and field operations roles, including head of Field Operations and Business Management for the Semiconductor Products Group, Account General Manager and Region General Manager. 
+
+(7)Mr. Bodner, age 54, has been Corporate Vice President, Corporate Controller and Chief Accounting Officer of Applied since September 2022. Prior to joining Applied, Mr. Bodner served as Chief Accounting Officer since July 2021 and as Vice President, Accounting since April 2021 at ESS Tech, Inc., a company that designs, builds and deploys iron flow batteries for commercial and energy storage applications. Prior to joining ESS Tech, Mr. Bodner served for almost 17 years at Intel Corporation in a variety of finance leadership roles, including Vice President of Finance and Director of Internal Audit. Mr. Bodner also worked nearly 12 years at PwC in its assurance practice. 
+
+14
+Available Information
+
+Applied’s website is http://www.appliedmaterials.com. Applied makes available free of charge, on or through its website, its annual, quarterly and current reports, and any amendments to those reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to, the SEC. The SEC’s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. These website addresses are intended to be an inactive textual references only. None of the information on, or accessible through, these websites is part of this Form 10-K or is incorporated by reference herein.
+
+15
+Item 1A:  Risk Factors

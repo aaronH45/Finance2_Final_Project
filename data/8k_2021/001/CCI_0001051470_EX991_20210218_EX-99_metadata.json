@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001051470",
+    "sec_company_name": "CROWN CASTLE INTERNATIONAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210218",
+    "sec_filing_date": "20210218",
+    "sec_changed_date": "20210218",
+    "sec_accepted_date": "20210218164153",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1051470/000105147021000020/0001051470-21-000020-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1051470/000105147021000020/0001051470-21-000020.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CCI_0001051470_EX991_20210218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6008 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1179,
+    "endpoints": [
+        "Document",
+        " Crown Castle owns, operates and leases more than 40,000 cell towers and approximately 80,000 route miles of fiber supporting small cells and fiber solutions across every major U.S. market. This nationwide portfolio of communications infrastructure connects cities and communities to essential data, technology and wireless service – bringing information, ideas and innovations to the people and businesses that need them. For more information on Crown Castle, please visit www.crowncastle.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CCI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CCI_0001051470_EX991_20210218_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:55:59.793692"
+}

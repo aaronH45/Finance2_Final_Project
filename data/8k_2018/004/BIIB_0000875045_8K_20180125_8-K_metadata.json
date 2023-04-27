@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000875045",
+    "sec_company_name": "BIOGEN INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180125",
+    "sec_filing_date": "20180125",
+    "sec_changed_date": "20180125",
+    "sec_accepted_date": "20180125064147",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/875045/000087504518000002/0000875045-18-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/875045/000087504518000002/0000875045-18-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\BIIB_0000875045_8K_20180125_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "17893 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2928,
+    "endpoints": [
+        "Document   ",
+        "Date: January 25, 2018"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BIIB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\BIIB_0000875045_8K_20180125_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:29:43.038692"
+}

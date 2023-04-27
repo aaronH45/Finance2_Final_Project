@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000050863",
+    "sec_company_name": "INTEL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210112",
+    "sec_filing_date": "20210114",
+    "sec_changed_date": "20210114",
+    "sec_accepted_date": "20210114171000",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/50863/000119312521009142/0001193125-21-009142-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/50863/000119312521009142/0001193125-21-009142.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\INTC_0000050863_EX991_20210112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15034 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7709,
+    "endpoints": [
+        "EX-99.1   ",
+        "Statements in this press release that refer to future plans and expectations are forward-looking statements that involve a number of risks and uncertainties. Words such as “anticipates,” “expects,” “intends,” “goals,” “plans,” “believes,” “seeks,” “estimates,” “continues,” “may,” “will,” “would,” “should,” “could,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to market opportunity and anticipated trends in our businesses or the markets relevant to them, also identify forward-looking statements. All forward-looking statements included in this release are based on management’s expectations as of the date of this release and involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements. Important factors that could cause actual results to differ materially are set forth in Intel’s earnings release dated October 22, 2020, which is included as an exhibit to Intel’s Form 8-K furnished to the SEC on such date, and Intel’s SEC filings, including the company’s most recent reports on Forms 10-K and 10-Q. Copies of Intel’s Form 10-K, 10-Q and 8-K reports may be obtained by visiting our Investor Relations website at www.intc.com or the SEC’s website at www.sec.gov. Intel does not undertake, and expressly disclaims any duty, to update any statement made in this report, whether as a result of new information, new developments or otherwise, except to the extent that disclosure may be required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\INTC_0000050863_EX991_20210112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:12.930387"
+}

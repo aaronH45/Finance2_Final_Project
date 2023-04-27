@@ -1,0 +1,83 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false504501504601504409601639 Loyola Avenue425 West Capitol Avenue4809 Jefferson Highway308 East Pearl Street1600 Perdido Street10055 Grogans Mill Road1340 Echelon ParkwayNew OrleansLittle RockJeffersonJacksonNew OrleansThe WoodlandsJacksonUSUSUSUSUSUSUS70113722017012139201701127738039213LAARLAMSLATXMS0000065984000000732300013489520000066901000007150800014274370000202584falsefalsefalsefalsefalsefalseDETXTXTXTXTXAR576-4000377-4000576-4000368-5000670-3700981-2000368-5000CHX  0000065984  etr:SystemEnergyMember    2020-02-19 2020-02-19    0000065984  etr:EntergyMississippiMember    2020-02-19 2020-02-19    0000065984  etr:EntergyArkansasMember    2020-02-19 2020-02-19    0000065984  etr:EntergyLouisianaMember    2020-02-19 2020-02-19    0000065984  etr:EntergyTexasMember    2020-02-19 2020-02-19    0000065984  etr:EntergyNewOrleansMember    2020-02-19 2020-02-19    0000065984   2020-02-19 2020-02-19    0000065984  etr:EntergyLouisianaMember etr:MortgageBondsFourPointSevenPercentSeriesDueJuneTwoThousandSixtyThreeMember    2020-02-19 2020-02-19    0000065984  etr:EntergyArkansasMember etr:MortgageBondsFourPointSevenFivePercentSeriesDueJuneTwoThousandSixtyThreeMemberMember    2020-02-19 2020-02-19    0000065984  etr:EntergyMississippiMember etr:MortgageBondsFourPointNineZeroPercentSeriesDueOctoberTwoThousandSixtySixMember    2020-02-19 2020-02-19    0000065984  etr:EntergyArkansasMember etr:MortgageBondsFourPointNinePercentSeriesDueDecembertwentyFiftyTwoMember    2020-02-19 2020-02-19    0000065984  etr:EntergyLouisianaMember etr:FourPointEightSevenFivePercentSeriesFirstMortgageBondsDueSeptemberTwoThousandSixtySixMember    2020-02-19 2020-02-19    0000065984  etr:EntergyArkansasMember etr:FourPointEightSevenFivePercentSeriesFirstMortgageBondsDueSeptemberTwoThousandSixtySixMember    2020-02-19 2020-02-19    0000065984  etr:EntergyNewOrleansMember etr:MortgageBondsFivePointFivePercentSeriesDueAprilTwoThousandSixtySixMember    2020-02-19 2020-02-19    0000065984  exch:XNYS etr:EntergyTexasMember etr:A5.375SeriesAPreferredStockCumulativeNoParValueDomain    2020-02-19 2020-02-19    0000065984  exch:XCHI    2020-02-19 2020-02-19    0000065984  etr:EntergyLouisianaMember etr:MortgageBondsFivePointTwoFivePercentSeriesDueJulyTwoThousandFiftyTwoMember    2020-02-19 2020-02-19    0000065984  etr:EntergyNewOrleansMember etr:MortgageBonds5.0SeriesDueDecemberTwoThousandFiftyTwoMember    2020-02-19 2020-02-19    0000065984  etr:EntergyTexasMember etr:FivePointSixTwoFivePercentSeriesFirstMortgageBondsDueJuneTwoThousandSixtyFourMember    2020-02-19 2020-02-19    0000065984  exch:XNYS    2020-02-19 2020-02-19  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date earliest event reported) February 19, 2020
+
+[DATA_TABLE_REMOVED]
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.):
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 2.02. Results of Operations and Financial Condition
+
+On February 19, 2020, Entergy Corporation (the “Company”) issued a press release, which is attached as Exhibit 99.1 hereto and incorporated herein by reference, announcing its results of operations and financial condition for the fourth quarter 2019 (the “Earnings Release”). The information in Exhibit 99.1 is being furnished, not filed, pursuant to this Item 2.02.
+
+Item 7.01. Regulation FD Disclosure
+
+On February 19, 2020, the Company issued the Earnings Release, which is attached as Exhibit 99.1 hereto and incorporated herein by reference, announcing its results of operations and financial condition for the fourth quarter 2019. The information in Exhibit 99.1 is being furnished, not filed, pursuant to this Item 7.01.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits.
+
+[DATA_TABLE_REMOVED]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, each registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Entergy Corporation
+
+Entergy Arkansas, LLC
+
+Entergy Louisiana, LLC
+
+Entergy Mississippi, LLC
+
+Entergy New Orleans, LLC
+
+Entergy Texas, Inc.
+
+System Energy Resources, Inc.
+
+By:  /s/ Kimberly A. Fontan 
+
+Kimberly A. Fontan
+
+Senior Vice President and 
+
+Chief Accounting Officer
+
+Dated: February 19, 2020

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001013871",
+    "sec_company_name": "NRG ENERGY, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160229",
+    "sec_filing_date": "20160229",
+    "sec_changed_date": "20160229",
+    "sec_accepted_date": "20160229060612",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1013871/000110465916100708/0001104659-16-100708-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1013871/000110465916100708/0001104659-16-100708.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\NRG_0001013871_8K_20160229_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23131 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2157,
+    "endpoints": [
+        "UNITED STATES ",
+        "4"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NRG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\NRG_0001013871_8K_20160229_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:47:23.687200"
+}

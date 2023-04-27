@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000200406",
+    "sec_company_name": "JOHNSON & JOHNSON (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220215",
+    "sec_filing_date": "20220216",
+    "sec_changed_date": "20220215",
+    "sec_accepted_date": "20220215180709",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040622000017/0000200406-22-000017-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040622000017/0000200406-22-000017.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\JNJ_0000200406_EX991_20220215_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5294 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3959,
+    "endpoints": [
+        "confidential-boddraftann   ",
+        " 3 broadly-based health care company, we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere. We are blending our heart, science and ingenuity to profoundly change the trajectory of health for humanity. ###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JNJ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\JNJ_0000200406_EX991_20220215_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:49.090347"
+}

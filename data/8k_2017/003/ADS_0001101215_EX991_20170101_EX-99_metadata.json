@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001101215",
+    "sec_company_name": "ALLIANCE DATA SYSTEMS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170101",
+    "sec_filing_date": "20170103",
+    "sec_changed_date": "20170103",
+    "sec_accepted_date": "20170103164519",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121517000003/0001101215-17-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121517000003/0001101215-17-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\ADS_0001101215_EX991_20170101_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10462 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5450,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Our forward-looking statements speak only as of the date made, and we undertake no obligation, other than as required by applicable law, to update or revise any forward-looking statements, whether as a result of new information, subsequent events, anticipated or unanticipated circumstances or otherwise."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ADS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\ADS_0001101215_EX991_20170101_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:11:16.668960"
+}

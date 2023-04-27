@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001324424",
+    "sec_company_name": "Expedia Group, Inc. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200214",
+    "sec_changed_date": "20200213",
+    "sec_accepted_date": "20200213194952",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442420000009/0001324424-20-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1324424/000132442420000009/0001324424-20-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\EXPE_0001324424_10K_20191231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4766671 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 46876,
+    "endpoints": [
+        "Part I. Item 1. Business",
+        "Part I. Item 1A. Risk Factors"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "EXPE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\EXPE_0001324424_10K_20191231_Item1_excerpt.txt",
+    "time_elapsed": 0.9,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:16:04.556636"
+}

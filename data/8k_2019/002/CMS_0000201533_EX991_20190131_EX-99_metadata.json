@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000201533",
+    "sec_company_name": "CONSUMERS ENERGY CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190131",
+    "sec_filing_date": "20190131",
+    "sec_changed_date": "20190131",
+    "sec_accepted_date": "20190131074459",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/811156/000110465919004615/0001104659-19-004615-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/811156/000110465919004615/0001104659-19-004615.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\CMS_0000201533_EX991_20190131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "58569 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25562,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "36 CMS ENERGY CORPORATION Reconciliation of Non-GAAP FFO to Average Debt Ratio (Unaudited) FUNDS FROM OPERATIONS Net Cash Provided by Operating Activities $ 1,703 Reconciling items: None Required Pension contribution 240 Working capital (105) Other (135) Funds From Operations (FFO) – Non-GAAP $ 1,703 AVERAGE DEBT Indebtedness Long-term debt (1) $ 11,589 $ 10,204 Capital leases and financing obligation (1) 91 113 Notes payable (1) 97 170 Total Indebtedness 11,777 10,487 Reconciling items: Securitization debt (1) (277) (302) EnerBank debt (1) (1,758) (1,245) 50% of Junior subordinated notes (1) (240) - Adjusted Debt – Non-GAAP $ 9,502 $ 8,940 Average Debt – Non-GAAP $ 9,221 (1) FFO TO AVERAGE DEBT RATIO Funds from operations (FFO) – non-GAAP $ 1,703 Average debt – non-GAAP $ 9,221 FFO to Average Debt Ratio – Non-GAAP 18.5% 12/31/18 Includes current and non-current portions. In Millions As of 12/31/18 12/31/17 Year Ended 12/31/18 In Millions In Millions, Except Ratio Year Ended"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\CMS_0000201533_EX991_20190131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:40:54.127435"
+}

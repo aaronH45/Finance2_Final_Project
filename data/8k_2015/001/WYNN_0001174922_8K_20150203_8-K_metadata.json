@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001174922",
+    "sec_company_name": "WYNN RESORTS LTD (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150203",
+    "sec_filing_date": "20150203",
+    "sec_changed_date": "20150203",
+    "sec_accepted_date": "20150203161203",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1174922/000117492215000008/0001174922-15-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1174922/000117492215000008/0001174922-15-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\WYNN_0001174922_8K_20150203_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "48732 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2953,
+    "endpoints": [
+        "WRL - ER - 12.31.14    ",
+        "99.1Press release, dated February 3, 2015, of Wynn Resorts, Limited."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WYNN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\WYNN_0001174922_8K_20150203_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:17:27.930476"
+}

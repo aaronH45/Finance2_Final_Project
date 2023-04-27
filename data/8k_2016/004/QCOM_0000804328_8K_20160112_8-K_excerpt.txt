@@ -1,0 +1,83 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+January 12, 2016  
+
+Date of Report (Date of earliest event reported)  
+
+QUALCOMM INCORPORATED  
+
+(Exact name of registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+ 5775 Morehouse Drive, San Diego, CA   92121 
+
+ (Address of Principal Executive Offices)   (Zip Code)  
+
+858-587-1121  
+
+(Registrant’s telephone number, including area code)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Item 1.01. Entry into a Material Definitive Agreement.  
+
+On January 12, 2016 (San Diego)/ January 13, 2016 (Tokyo), Qualcomm Global Trading Pte. Ltd. (“Purchaser”), a Singapore corporation and wholly-owned subsidiary of QUALCOMM Incorporated (the “Company”), and certain of its affiliates, including the Company (solely as a guarantor), entered into a Master Transaction Agreement (the “Master Agreement”) with TDK Corporation, a Japanese corporation, and certain of its affiliates (“Seller”). Pursuant and subject to the terms and conditions of the Master Agreement, Purchaser and Seller will form a joint venture under the name RF360 Holdings Singapore Pte. Ltd (the “Joint Venture”) to enable delivery of RF front-end (RFFE) modules and RF filters for mobile devices and Internet of Things (“IoT”) applications (as further described in the Master Agreement, the “Business”).  
+
+As provided in the Master Agreement, Seller will carve out from its existing businesses certain intellectual property, patents, and filter and module design and manufacturing assets primarily related to the Business (collectively, the “Acquired Assets”), which Acquired Assets will be transferred to or held by the Joint Venture and its subsidiaries as of the initial closing of the transaction (the “JV Closing”), or transferred to Purchaser or its affiliates at or prior to the JV Closing. At the JV Closing, Purchaser will acquire fifty-one percent of the outstanding shares of the Joint Venture (the “Acquired JV Interests”), while EPCOS AG, a German Aktiengeselschaft and wholly-owned subsidiary of Seller (“EPCOS Germany”), will retain forty-nine percent of the outstanding shares of the Joint Venture (the “Retained JV Interests”). In addition, at the JV Closing, Purchaser will acquire an option (the “Call Option”) to purchase the Retained JV Interests at a purchase price equal to $1.15 billion (the “Option Price”), which Call Option will be exercisable by Purchaser thirty months after the date of the JV Closing. EPCOS Germany will also have a put option pursuant to which EPCOS Germany may put to Purchaser the Retained JV Interests at the Option Price, which option will also be exercisable thirty months after the date of the JV Closing.  
+
+The purchase price for the Acquired JV Interests, the Call Option and the Acquired Assets transferred directly to Purchaser and its affiliates will be $1.2 billion, as adjusted for, among other things, working capital, outstanding indebtedness, cash included in the Acquired Assets and certain capital expenditures related to the Business (the “JV Closing Purchase Price”). EPCOS Germany will be entitled to up to $200 million in seller participation payments based on sales of RF filter functions over the three year period after the JV Closing, which shall be a substitute for and in lieu of any right of EPCOS Germany to receive any profit sharing, distributions, dividends or other payments of any kind or nature as a result of owning the Retained JV Interests. Purchaser will hold back $230 million of the JV Closing Purchase Price in order to secure certain indemnification obligations of Seller and EPCOS Germany under the Master Agreement.  
+
+The Master Agreement contains customary representations and warranties, covenants and indemnification obligations of the parties thereto as set forth therein. In addition, Seller agrees that it will not, and will cause its affiliates to not, compete with the Business (subject to certain exceptions) for a period of three years after the JV Closing, under the terms specified in the Master Agreement.  
+
+The consummation of the transactions contemplated by the Master Agreement are subject to certain customary and other closing conditions, including regulatory approvals and the implementation of an IT system for the Joint Venture. In addition, the Master Agreement contains certain termination rights, including the right of either party to terminate the Master Agreement if the JV Closing has not occurred on or before April 13, 2017 (which date may be extended to July 13, 2017 under certain circumstances) or certain antitrust requirements are not satisfied by January 31, 2017.  
+
+The foregoing summary of the Master Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Master Agreement, a copy of which is attached hereto as Exhibit 2.1.  
+
+Item 7.01. Regulation FD Disclosure  
+
+On January 12, 2016, the Company and Seller jointly issued a press release announcing their entry into the Master Agreement referred to in Item 1.01 above. A copy of the press release is attached hereto as Exhibit 99.1.  
+
+The information under Item 7.01 in this Form 8-K and in Exhibit 99.1 shall be deemed “furnished” and not “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and shall not be incorporated by reference into any registration statement or other document. The information under Item 7.01 in this Form 8-K shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.  
+
+Item 9.01. Financial Statements and Exhibits.  
+
+(d) Exhibits  
+
+  [DATA_TABLE_REMOVED] 
+
+ * Certain exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). The Company agrees to furnish supplementally a copy of all omitted exhibits and schedules to the Securities and Exchange Commission upon its request.  
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  [DATA_TABLE_REMOVED] 
+
+ * Certain exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(b)(2). The Company agrees to furnish supplementally a copy of all omitted exhibits and schedules to the Securities and Exchange Commission upon its request.

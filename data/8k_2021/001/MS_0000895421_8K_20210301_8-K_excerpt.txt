@@ -1,0 +1,91 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000895421 false        0000895421   2021-03-01 2021-03-01     0000895421  us-gaap:CommonStockMember    2021-03-01 2021-03-01     0000895421  us-gaap:SeriesAPreferredStockMember    2021-03-01 2021-03-01     0000895421  us-gaap:SeriesEPreferredStockMember    2021-03-01 2021-03-01     0000895421  us-gaap:SeriesFPreferredStockMember    2021-03-01 2021-03-01     0000895421  MS:SeriesIPreferredStockMember    2021-03-01 2021-03-01     0000895421  MS:SeriesKPreferredStockMember    2021-03-01 2021-03-01     0000895421  MS:SeriesLPreferredStockMember    2021-03-01 2021-03-01     0000895421  MS:GlobalMediumTermNotesSeriesAFixedRateStepUpSeniorNotesDue2026ofMorganStanleyFinanceLlcMember    2021-03-01 2021-03-01     0000895421  MS:MorganStanleyCushingMlpHighIncomeIndexEtnsDueMarch212031Member    2021-03-01 2021-03-01    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, DC 20549 
+
+FORM 8-K  
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934  
+
+Date of report (date of earliest event reported): March 1, 2021 
+
+MORGAN STANLEY 
+
+(Exact name of registrant as specified in its charter) 
+
+Commission File Number: 1-11758 
+
+  Delaware       36-3145972 
+
+ (State or other jurisdiction of incorporation or organization)      (IRS Employer Identification No.)  
+
+1585 Broadway, New York, New York 10036 
+
+(Address of principal executive offices, including zip code) 
+
+(212) 761-4000 
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 7.01. Regulation FD Disclosure. 
+
+This Current Report on Form 8-K is being filed in connection with the consummation on March 1, 2021 (the “Closing Date”) of the previously announced transactions contemplated by the Agreement and Plan of Merger, dated as of October 7, 2020 (the “Merger Agreement”), by and among Morgan Stanley, a Delaware corporation (“Morgan Stanley”), Mirror Merger Sub 1, Inc., a Maryland corporation and a wholly owned subsidiary of Morgan Stanley (“Merger Sub 1”), Mirror Merger Sub 2, LLC, a Maryland limited liability company and a wholly owned subsidiary of Morgan Stanley (“Merger Sub 2”), and Eaton Vance Corp., a Maryland corporation (the “Eaton Vance”). 
+
+On the Closing Date, pursuant to the Merger Agreement, (i) Merger Sub 1 merged with and into Eaton Vance (the “First Merger”), with Eaton Vance surviving as a wholly owned subsidiary of Morgan Stanley, and (ii) immediately following the completion of the First Merger, Eaton Vance merged with and into Merger Sub 2 (the “Second Merger” and, together with the First Merger, the “Mergers”), with Merger Sub 2 surviving the Second Merger and continuing as a wholly owned direct subsidiary of Morgan Stanley. 
+
+Pursuant to the Merger Agreement, at the effective time of the First Merger (the “Effective Time”), each share of non-voting common stock, par value $0.00390625 per share, of Eaton Vance (“Eaton Vance Non-Voting Common Stock”) and each share of voting common stock, par value $0.00390625 per share, of Eaton Vance (“Eaton Vance Voting Common Stock” and, together with the Eaton Vance Non-Voting Common Stock, “Eaton Vance Common Stock”) issued and outstanding immediately before the Effective Time (other than certain shares of Eaton Vance Common Stock held by Morgan Stanley or a subsidiary of Eaton Vance), were converted into, at the election of the holder thereof, the right to receive the following consideration (the consideration such holder elected, the “Merger Consideration”): (i) (a) 0.5833 shares of common stock of Morgan Stanley, par value $0.01 per share (“Morgan Stanley Common Stock”), and (b) $28.25 in cash (the “Mixed Consideration”); (ii) $73.00 in cash (the “Cash Election Consideration”); or (iii) (a) 0.6589 shares of Morgan Stanley Common Stock and (b) $22.45 in cash (the “Stock Election Consideration”). The “Parent Common Stock Reference Price” referenced in the Merger Agreement and used for purposes of calculating the Cash Election Consideration and the Stock Election Consideration was $76.7216 (the volume-weighted average price, rounded to four decimal places, of one share of Morgan Stanley Common Stock on the New York Stock Exchange for the period of ten consecutive trading days ending February 25, 2021, as determined by using the VWAP command for MS US Equity on the Bloomberg Terminal). Holders of Eaton Vance Common Stock who did not make an election were paid Mixed Consideration. No fractional shares of Morgan Stanley Common Stock were issued in the Mergers, and holders of Eaton Vance Common Stock will receive cash in lieu of any fractional shares of Morgan Stanley Common Stock. 
+
+Pursuant to the Merger Agreement, at the Effective Time, each outstanding and unexercised option to purchase Eaton Vance Non-Voting Common Stock (each, an “Eaton Vance Stock Option”), whether vested or unvested, was cancelled and converted into the right to receive an amount in cash equal to (i) the positive difference, if any, between $73.00 in cash (the “Equity Award Cash Amount”) and the applicable option exercise price, multiplied by (ii) the number of shares of Eaton Vance Non-Voting Common Stock subject to such Eaton Vance Stock Option, in accordance with the terms of the Merger Agreement. Any such Eaton Vance Stock Options that were granted to Eaton Vance personnel who were, as of the Effective Time, in the service of Eaton Vance or its subsidiaries, also received an amount, in cash, equal to the difference, if any, between the amount of the payment described in the previous sentence and the Black-Scholes value of the applicable Eaton Vance Stock Option. 
+
+At the Effective Time, each outstanding deferred stock unit award vested and converted into the right to receive the Equity Award Cash Amount, increased by accumulated dividends. 
+
+Each Eaton Vance restricted stock unit that was granted by Eaton Vance following the required stockholder approval of the Merger Agreement but prior to the Effective Time was granted in the form of a restricted stock unit that was assumed by Morgan Stanley at the Effective Time and at the Effective Time became a restricted stock unit award with respect to shares of Morgan Stanley Common Stock.  
+
+The foregoing description of the Mergers and the Merger Agreement does not purport to be a complete description and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is attached as Exhibit 2.1 to Morgan Stanley’s Current Report on Form 8-K filed with the Securities and Exchange Commission (“SEC”) on October 8, 2020, and which is incorporated herein by reference. See Eaton Vance’s and Morgan Stanley’s public filings with the SEC for more information. 
+
+On March 1, 2021, Morgan Stanley and Eaton Vance issued a joint press release announcing the completion of the Mergers. A copy of the joint press release is filed as Exhibit 99.1 to this Form 8-K and is incorporated by reference herein. 
+
+The foregoing information in Item 7.01 of this Current Report on Form 8-K, including the press release attached hereto as Exhibit 99.1, is being furnished pursuant to Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, and it shall not be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act of 1934, each as amended, whether made before or after the date hereof, except as expressly set forth by specific reference in such filing to Item 7.01 of this Current Report on Form 8-K. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits. The following exhibits are filed with this report: 
+
+  [DATA_TABLE_REMOVED]  
+
+Signature(s) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

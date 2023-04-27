@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001031296",
+    "sec_company_name": "FIRSTENERGY CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210216",
+    "sec_filing_date": "20210216",
+    "sec_changed_date": "20210216",
+    "sec_accepted_date": "20210216162801",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1031296/000103129621000009/0001031296-21-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1031296/000103129621000009/0001031296-21-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\FE_0001031296_EX991_20210216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "28283 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14024,
+    "endpoints": [
+        "Document",
+        "currently anticipated; labor disruptions by our unionized workforce; changes to significant accounting policies; any changes in tax laws or regulations, or adverse tax audit results or rulings; and the risks and other factors discussed from time to time in our SEC filings. Dividends declared from time to time on FirstEnergy Corp.’s common stock during any period may in the aggregate vary from prior periods due to circumstances considered by FirstEnergy Corp.’s Board of Directors at the time of the actual declarations. A security rating is not a recommendation to buy or hold securities and is subject to revision or withdrawal at any time by the assigning rating agency. Each rating should be evaluated independently of any other rating. The foregoing factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements and risks that are included in our filings with the SEC, including but not limited to the most recent Annual Report on Form 10-K and any subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. The foregoing review of factors also should not be construed as exhaustive. New factors emerge from time to time, and it is not possible for management to predict all such factors, nor assess the impact of any such factor on FirstEnergy Corp.’s business or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statements. FirstEnergy expressly disclaims any current intention to update or revise, except as required by law, any forward-looking statements contained herein or the information incorporated by reference as a result of new information, future events or otherwise."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "FE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\FE_0001031296_EX991_20210216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:04:24.648370"
+}

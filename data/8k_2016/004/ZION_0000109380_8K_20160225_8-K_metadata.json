@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000109380",
+    "sec_company_name": "ZIONS BANCORPORATION /UT/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160225",
+    "sec_filing_date": "20160225",
+    "sec_changed_date": "20160225",
+    "sec_accepted_date": "20160225095821",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/109380/000162828016011673/0001628280-16-011673-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/109380/000162828016011673/0001628280-16-011673.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\ZION_0000109380_8K_20160225_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "21640 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2007,
+    "endpoints": [
+        "8-K   ",
+        "Executive Vice President, General Counsel and Secretary"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ZION",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\ZION_0000109380_8K_20160225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:46.813823"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920148",
+    "sec_company_name": "LABORATORY CORP OF AMERICA HOLDINGS (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150213",
+    "sec_filing_date": "20150219",
+    "sec_changed_date": "20150219",
+    "sec_accepted_date": "20150219135630",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920148/000119312515053967/0001193125-15-053967-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920148/000119312515053967/0001193125-15-053967.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LH_0000920148_8K_20150213_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23562 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7956,
+    "endpoints": [
+        "8-K   ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LH_0000920148_8K_20150213_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:10.552436"
+}

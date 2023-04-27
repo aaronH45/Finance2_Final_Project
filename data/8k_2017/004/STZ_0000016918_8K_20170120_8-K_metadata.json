@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000016918",
+    "sec_company_name": "CONSTELLATION BRANDS, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170120",
+    "sec_filing_date": "20170125",
+    "sec_changed_date": "20170125",
+    "sec_accepted_date": "20170125170056",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/16918/000001691817000010/0000016918-17-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/16918/000001691817000010/0000016918-17-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\STZ_0000016918_8K_20170120_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "68492 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 8351,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\STZ_0000016918_8K_20170120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:12:59.323720"
+}

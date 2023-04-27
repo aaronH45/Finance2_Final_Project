@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000050863",
+    "sec_company_name": "INTEL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170209",
+    "sec_filing_date": "20170209",
+    "sec_changed_date": "20170209",
+    "sec_accepted_date": "20170209163913",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/50863/000119312517036212/0001193125-17-036212-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/50863/000119312517036212/0001193125-17-036212.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\INTC_0000050863_EX991_20170209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "42590 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8790,
+    "endpoints": [
+        "EX-99.1   ",
+        "Appendix: 2016 Non-GAAP Reconciliation Twelve Months Ended Twelve Months Ended ($ in Millions, except per share amounts) Dec 31, 2016 Dec 31, 2016 GAAP NET REVENUE $59,387 GAAP NET INCOME$10,316 Deferred revenue write-down 99 Deferred revenue write-down, net of cost of sales64 NON-GAAP NET REVENUE $59,486 Inventory valuation387 Amortization of acquisition-related intangibles1,231 GAAP GROSS MARGIN PERCENTAGE 60.90% Restructuring and other charges1,886 Deferred revenue write-down, net of cost of sales —% Other acquisition-related charges100 Inventory valuation 0.70% Income tax effect(745) Amortization of acquisition-related intangibles 1.60% NON-GAAP NET INCOME$13,239 NON-GAAP GROSS MARGIN PERCENTAGE 63.20% GAAP DILUTED EARNINGS PER COMMON SHARE$2.12 GAAP OPERATING INCOME $12,874 Deferred revenue write-down, net of cost of sales0.01 Deferred revenue write-down, net of cost of sales Inventory valuation 64 0.08 Inventory valuation Amortization of acquisition-related intangibles 387 0.25 Amortization of acquisition-related intangibles Restructuring and other charges 1,231 0.39 Restructuring and other charges Other acquisition-related charges 1,886 0.02 Other acquisition-related charges Income tax effect 100 (0.15) NON-GAAP OPERATING INCOME $16,542 NON-GAAP DILUTED EARNINGS PER COMMON SHARE$2.72"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\INTC_0000050863_EX991_20170209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:12.118745"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200206",
+    "sec_filing_date": "20200207",
+    "sec_changed_date": "20200207",
+    "sec_accepted_date": "20200207090547",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799620000012/0000037996-20-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799620000012/0000037996-20-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\F_0000037996_EX99_20200206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7215 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5677,
+    "endpoints": [
+        "exhibiu03   ",
+        "Line Management; Manufacturing & Labor Affairs; Marketing, Sales & Service; and Quality & New Model Launch. He also will retain leadership of Ford Smart Mobility, Ford’s AV LLC and Ford’s partnership with Argo AI. “I’m thrilled and humbled by the opportunity to work with Jim Hackett and the entire Ford team to advance our vision to design increasingly intelligent vehicles and connect them to the world around us, all to make life better for our customers and communities,” Farley said. “Ford is blessed with great people and an incredible brand, and together we will build a very bright future.” In addition, Ford announced that Hau Thai-Tang, chief product development and purchasing officer, will take on an expanded role, reporting to Jim Farley. Thai-Tang, 53, will continue to lead Product Development and Purchasing, while adding responsibility for Enterprise Product Line Management and connectivity. “Hau will be the primary architect as we bring together the vehicle architecture and software stack to create products, services and experiences our customers will love,” Hackett said. “We are moving forward with an integrated approach to vehicles and connected services, all anchored in an obsession for the customer, great design and a commitment to strong returns.” Hackett lauded Hinrichs’ contributions to Ford. “I thank Joe for his tremendous leadership over the past two decades,” Hackett said. “Joe was instrumental to Ford’s ability to survive the Great Recession a decade ago without bankruptcy or taxpayer bailout, and successfully headed Ford’s operations in Asia Pacific and North America. “Most recently, Joe oversaw our global portfolio of iconic vehicles, helped forge a long-term, mutually beneficial relationship with the UAW and was regularly sought out as an authority and promoter of smart global trade.” All the changes announced will be effective March 1. # # # About Ford Motor Company Ford Motor Company is a global company based in Dearborn, Michigan. The company designs, manufactures, markets and services a full line of Ford cars, trucks, SUVs, electrified vehicles and Lincoln luxury vehicles, provides financial services through Ford Motor Credit Company and is pursuing leadership positions in electrification; mobility solutions, including self-driving services; and connected services. Ford employs approximately 190,000 people worldwide. For more information regarding Ford, its products and Ford Motor Credit Company, please visit www.corporate.ford.com. Contacts: Media: Equity Investment Fixed Income Shareholder Community: Investment Inquiries: Community: T.R. Reid Lynn Antipas Tyson Karen Rocoff 1.800.555.5259 or 1.313.319.6683 1.313.621.2902 1.313.621.0965 1.313.845.8540 treid22@ford.com ltyson4@ford.com krocoff@ford.com stockinf@ford.com 2 For news releases, related materials and high-resolution photos and video, visit www.media.ford.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\F_0000037996_EX99_20200206_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:39:17.566114"
+}

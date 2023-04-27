@@ -1,0 +1,123 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0001326160 false 0000081020 false 8-K 2021-01-28 false false false false false        0001326160   2021-01-28 2021-01-28     0001326160  duk:DukeEnergyIndianaLLCMember    2021-01-28 2021-01-28     0001326160  us-gaap:CommonStockMember    2021-01-28 2021-01-28     0001326160  duk:JuniorSubordinatedDebentures5.125CouponDueJanuary2073Member    2021-01-28 2021-01-28     0001326160  duk:JuniorSubordinatedDebentures5.625CouponDueSeptember2078Member    2021-01-28 2021-01-28     0001326160  duk:DepositoryShareMember    2021-01-28 2021-01-28    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, DC 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of
+
+ The Securities Exchange Act of 1934 
+
+Date of report (Date of earliest event reported): January 28, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425). 
+
+¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12). 
+
+¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)). 
+
+¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240. 13e-4(c)). 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+  [DATA_TABLE_REMOVED]   
+
+Duke Energy Indiana LLC [Member] 
+
+Item 1.01 Entry into a Material Definitive Agreement. 
+
+On January 28, 2021, Duke Energy Corporation (“Duke Energy”), along with certain of its subsidiaries, entered into a definitive agreement providing for an acquisition of a 19.9% interest in Duke Energy Indiana, LLC (“DEI”), with an affiliate of GIC Private Limited, Singapore's sovereign wealth fund and an experienced investor in U.S. infrastructure. 
+
+As stated above, on January 28, 2021, Cinergy Corp., (“Cinergy”), Duke Energy Indiana Holdco, LLC (“DEI Holdco”) and Duke entered into an Investment Agreement (the “Investment Agreement”) with Epsom Investment Pte. Ltd. (“Investor”), pursuant to which DEI Holdco agreed to issue and sell to Investor, and Investor agreed to purchase from DEI Holdco, certain newly issued membership interests of DEI Holdco such that Investor will own 19.9% of the issued and outstanding membership interests of DEI Holdco (the “Acquired DEI Holdco Interests”) following two closings, for an aggregate purchase price of $2,050,000,000. At the first closing (the “First Closing”), DEI Holdco will issue and sell to Investor 11.05% (the “First Closing Acquired Percentage”) of the DEI Holdco membership interests issued and outstanding immediately after the First Closing in exchange for 50% of the purchase price, subject to adjustment. At the second closing (the “Second Closing”), DEI Holdco will issue and sell to Investor additional DEI Holdco membership interests such that Investor will own 19.9% of DEI Holdco immediately after the Second Closing in exchange for 50% of the purchase price. 
+
+Prior to the First Closing, Cinergy plans to contribute to DEI Holdco 100% of the issued and outstanding membership interests of DEI (the “DEI Membership Interests”) such that DEI Holdco owns 100% of the DEI Membership Interests. 
+
+The purchase price with respect to the First Closing is subject to adjustment based on capital contributions made to DEI Holdco and its subsidiaries by Cinergy or any of its affiliates on or after the date of the Investment Agreement and prior to the First Closing. 
+
+The issuance of membership interests under the Investment Agreement is subject to the satisfaction of certain customary conditions described in the Investment Agreement, including receipt of the approval of the Federal Energy Regulatory Commission and completion of review by the Committee on Foreign Investments in the United States. The First Closing will occur following the date on which the applicable conditions have been satisfied, and the Second Closing will occur on a date to be proposed by DEI Holdco that is no later than January 18, 2023 and on which the applicable conditions have been satisfied. 
+
+In addition, each of the parties has agreed to customary covenants, including, among others, the following: (i) Cinergy will conduct the business of DEI and DEI Holdco and its subsidiaries in the ordinary course of business consistent with past practices and will preserve, maintain and protect the assets of DEI and DEI Holdco and its subsidiaries in material compliance with applicable laws and material permits and contracts; (ii) the parties will cooperate and use reasonable best efforts to obtain the required consents as soon as reasonably practicable; and (iii) the parties will take all action and do all things necessary, proper or advisable under applicable laws to consummate the transactions, including executing documents and taking actions as may be reasonably requested by another party in order to consummate the transactions. 
+
+The Investment Agreement contains representations and warranties by Cinergy and Investor which are customary for transactions of this type. It also obligates the parties to indemnify each other for losses arising out of breaches of the Investment Agreement or failure by such party to perform with respect to the representations, warranties or covenants contained in the Investment Agreement, among other things, subject to customary limitations. The Investment Agreement contains termination rights for both Cinergy and Investor. The Investment Agreement may be terminated: (i) by mutual consent of the parties; (ii) by either Investor or Cinergy if the First Closing has not occurred within six (6) months, subject to possible extension; (iii) by either party, as the case may be, prior to the First Closing upon certain material breaches or failures to perform any of the representations, warranties, covenants or agreements by the other party; or (iv) by either party prior to the First Closing in the event of a final and non-appealable order or action restraining, enjoining or otherwise prohibiting the transactions. 
+
+2 
+
+In connection with the First Closing, Investor, DEI Holdco and Cinergy will enter into an Amended and Restated Limited Liability Company Operating Agreement of DEI Holdco (the “LLC Agreement”), the form of which has been agreed to by the parties. The LLC Agreement will establish the general framework governing the relationship between Investor and Cinergy, and their respective successors and transferees, as members of DEI Holdco and will provide Investor with limited minority governance rights commensurate with its ownership. Certain transfer restrictions and other transfer rights apply to Investor and Cinergy under the LLC Agreement, including the right of Investor to require Cinergy to acquire Investor’s interests in certain circumstances. 
+
+The foregoing summaries of the Investment Agreement and the LLC Agreement and the transactions contemplated thereby are subject to, and qualified in their entirety by, the full terms of the Investment Agreement, which will be filed with Duke Energy’s and DEI’s Quarterly Report on Form 10-Q for the period ended March 31, 2021, and the full terms of the LLC Agreement, which will be filed no later than with Duke Energy’s and DEI’s Quarterly Report on Form 10-Q for the period in which the parties enter into the LLC Agreement. 
+
+Item 7.01 Regulation FD Disclosure. 
+
+On January 28, 2021, Duke Energy also announced its 2021 adjusted earnings per share (EPS) guidance range of $5.00 to $5.30. The transaction with GIC bolsters the company’s growth potential and supports Duke Energy’s increased long-term adjusted EPS growth rate of 5 to 7% (from 4 to 6% previously) through 2025, based off the 2021 adjusted EPS midpoint of $5.15. Proceeds from the transaction will fund Duke Energy's increased $58 to $60 billion capital plan. On January 28, 2021, Duke Energy posted an investor presentation to its website at www.duke-energy.com/our-company/investors related to this announcement and the signing of the Investment Agreement and the transactions contemplated thereby. A copy of this investor presentation is attached hereto as Exhibit 99.1. 
+
+On January 28, 2021, Duke Energy issued a press release announcing the earnings guidance set forth above and the signing of the Investment Agreement and the transactions contemplated thereby. A copy of the press release is attached hereto as Exhibit 99.2. 
+
+The information in Exhibit 99.1 and Exhibit 99.2 is being furnished pursuant to this Item 7.01. In accordance with General Instruction B.2 of Form 8-K, the information in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section. 
+
+3 
+
+Forward Looking Statements 
+
+This document includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are based on management’s beliefs and assumptions and can often be identified by terms and phrases that include “anticipate,” “believe,” “intend,” “estimate,” “expect,” “continue,” “should,” “could,” “may,” “plan,” “project,” “predict,” “will,” “potential,” “forecast,” “target,” “guidance,” “outlook” or other similar terminology. Various factors may cause actual results to be materially different than the suggested outcomes within forward-looking statements; accordingly, there is no assurance that such results will be realized. These factors include, but are not limited to: 
+
+  [DATA_TABLE_REMOVED] 
+
+4 
+
+  [DATA_TABLE_REMOVED] 
+
+Additional risks and uncertainties are identified and discussed in the Duke Energy Registrants’ reports filed with the SEC and available at the SEC’s website at sec.gov. In light of these risks, uncertainties and assumptions, the events described in the forward-looking statements might not occur or might occur to a different extent or at a different time than described. Forward-looking statements speak only as of the date they are made and the Duke Energy Registrants expressly disclaim an obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+
+Adjusted Earnings per Share (EPS) Guidance 
+
+Duke Energy materials for the GIC Investment in DEI include a reference to the forecasted 2021 adjusted EPS guidance range of $5.00 to $5.30 per share, with a midpoint of approximately $5.15 per share. The materials also reference the long-term range of annual growth of 5% - 7% off the midpoint of the 2021 adjusted EPS guidance range, revised up from 4% - 6%. The forecasted adjusted EPS is a non-GAAP financial measure as it represents basic EPS available to Duke Energy common stockholders, adjusted for the per share impact of special items. Special items represent certain charges and credits, which management believes are not indicative of Duke Energy’s ongoing performance. 
+
+Management believes the presentation of adjusted EPS provides useful information to investors, as it provides them with an additional relevant comparison of Duke Energy’s performance across periods. Management uses this non-GAAP financial measure for planning and forecasting and for reporting financial results to the Duke Energy Board of Directors, employees, stockholders, analysts and investors. Adjusted EPS is also used as a basis for employee incentive bonuses. 
+
+The most directly comparable GAAP measure for adjusted EPS is reported basic EPS available to Duke Energy common stockholders. Due to the forward-looking nature of this non-GAAP financial measure for future periods, information to reconcile it to the most directly comparable GAAP financial measure is not available at this time, as management is unable to project all special items for future periods, such as legal settlements, the impact of regulatory orders or asset impairments. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+ (d)Exhibits.  
+
+ 99.1 Investor Presentation, dated January 28, 2021 (furnished pursuant to Item 7.01) 
+
+ 99.2 Press Release, dated January 28, 2021 (furnished pursuant to Item 7.01) 
+
+ 104 Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document).  
+
+5 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+Date: January 28, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+Date: January 28, 2021 
+
+6

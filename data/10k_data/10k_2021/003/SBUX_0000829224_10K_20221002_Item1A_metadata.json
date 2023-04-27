@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000829224",
+    "sec_company_name": "STARBUCKS CORP (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20221002",
+    "sec_filing_date": "20221118",
+    "sec_changed_date": "20221118",
+    "sec_accepted_date": "20221118163530",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922422000058/0000829224-22-000058-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922422000058/0000829224-22-000058.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\SBUX_0000829224_10K_20221002_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3810152 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 67551,
+    "endpoints": [
+        "Item 1A. Risk Factors ",
+        "Item 2.Properties"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "SBUX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\SBUX_0000829224_10K_20221002_Item1A_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:51:09.043435"
+}

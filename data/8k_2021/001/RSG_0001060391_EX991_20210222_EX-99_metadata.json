@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001060391",
+    "sec_company_name": "REPUBLIC SERVICES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210222",
+    "sec_filing_date": "20210222",
+    "sec_changed_date": "20210222",
+    "sec_accepted_date": "20210222160422",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1060391/000106039121000011/0001060391-21-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1060391/000106039121000011/0001060391-21-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\RSG_0001060391_EX991_20210222_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "576947 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22173,
+    "endpoints": [
+        "Document",
+        "This press release contains certain forward-looking information about us that is intended to be covered by the safe harbor for “forward-looking statements” provided by the Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical facts. Words such as “guidance,” “expect,” “will,” “may,” “anticipate,” “plan,” “estimate,” “project,” “intend,” “should,” “can,” “likely,” “could,” “outlook” and similar expressions are intended to identify forward-looking statements. These statements include information about our plans, strategies and prospects. Forward-looking statements are not guarantees of performance. These statements are based upon the current beliefs and expectations of our management and are subject to risk and uncertainties that could cause actual results to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot assure you that the expectations will prove to be correct. Among the factors that could cause actual results to differ materially from the expectations expressed in the forward-looking statements are the effects of the COVID-19 pandemic and actions taken in response thereto, acts of war, riots or terrorism, and the impact of these acts on economic, financial and social conditions in the United States as well as our dependence on large, long-term collection, transfer and disposal contracts. More information on factors that could cause actual results or events to differ materially from those anticipated is included from time to time in our reports filed with the Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended December 31, 2020 (when filed), particularly under Part I, Item 1A - Risk Factors. Additionally, new risk factors emerge from time to time and it is not possible for us to predict all such risk factors, or to assess the impact such risk factors might have on our business. We undertake no obligation to update publicly any forward-looking statements whether as a result of new information, future events or otherwise, except as required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RSG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\RSG_0001060391_EX991_20210222_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:56:56.837958"
+}

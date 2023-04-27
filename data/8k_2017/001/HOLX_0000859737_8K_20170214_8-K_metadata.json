@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000859737",
+    "sec_company_name": "HOLOGIC INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170214",
+    "sec_filing_date": "20170214",
+    "sec_changed_date": "20170214",
+    "sec_accepted_date": "20170214161951",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/859737/000110465917009286/0001104659-17-009286-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/859737/000110465917009286/0001104659-17-009286.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\HOLX_0000859737_8K_20170214_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "55703 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 16375,
+    "endpoints": [
+        "UNITED STATES ",
+        "8"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HOLX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\HOLX_0000859737_8K_20170214_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:02:07.391609"
+}

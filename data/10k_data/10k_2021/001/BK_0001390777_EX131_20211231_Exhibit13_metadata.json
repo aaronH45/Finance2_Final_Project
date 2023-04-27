@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001390777",
+    "sec_company_name": "Bank of New York Mellon Corp (Filer)",
+    "document_type": "EX131",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220225",
+    "sec_changed_date": "20220225",
+    "sec_accepted_date": "20220225070513",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077722000043/0001390777-22-000043-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077722000043/0001390777-22-000043.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\BK_0001390777_EX131_20211231_Exhibit13_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "10323296 chars",
+    "document_group": "EX-13",
+    "section_name": "Exhibit13",
+    "section_n_characters": 402108,
+    "endpoints": [
+        "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Report of Independent Registered Public Accounting Firm"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\BK_0001390777_EX131_20211231_Exhibit13_excerpt.txt",
+    "time_elapsed": 1.6,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:30:48.734130"
+}

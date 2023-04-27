@@ -1,0 +1,97 @@
+xml version="1.0" encoding="utf-8" ?   Form 8-K    
+
+   false 0000732717 --12-31        0000732717   2020-02-14 2020-02-14     0000732717  us-gaap:CommonStockMember    2020-02-14 2020-02-14     0000732717  us-gaap:SeriesAPreferredStockMember    2020-02-14 2020-02-14     0000732717  t:ATTIncFloatingRateGlobalNotesDueAugust32020Member    2020-02-14 2020-02-14     0000732717  t:ATTInc1875GlobalNotesDueDecember42020Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2650GlobalNotesDueDecember172021Member    2020-02-14 2020-02-14     0000732717  t:ATTInc1450GlobalNotesDueJune12022Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2500GlobalNotesDueMarch152023Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2750GlobalNotesDueMay192023Member    2020-02-14 2020-02-14     0000732717  t:ATTIncFloatingRateGlobalNotesDueSeptember52023Member    2020-02-14 2020-02-14     0000732717  t:ATTInc1050GlobalNotesDueSeptember52023Member    2020-02-14 2020-02-14     0000732717  t:ATTInc1300GlobalNotesDueSeptember52023Member    2020-02-14 2020-02-14     0000732717  t:ATTInc1950GlobalNotesDueSeptember152023Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2400GlobalNotesDueMarch152024Member    2020-02-14 2020-02-14     0000732717  t:ATTInc3500GlobalNotesDueDecember172025Member    2020-02-14 2020-02-14     0000732717  t:ATTInc0250GlobalNotesDueMarch42026Member    2020-02-14 2020-02-14     0000732717  t:AttInc.1.800GlobalNotesDueSeptember520262Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2900GlobalNotesDueDecember42026Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2350GlobalNotesDueSeptember52029Member    2020-02-14 2020-02-14     0000732717  t:ATTInc4375GlobalNotesDueSeptember142029Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2600GlobalNotesDueDecember172029Member    2020-02-14 2020-02-14     0000732717  t:ATTInc0800GlobalNotesDueMarch42030Member    2020-02-14 2020-02-14     0000732717  t:ATTInc3550GlobalNotesDueDecember172032Member    2020-02-14 2020-02-14     0000732717  t:ATTInc5200GlobalNotesDueNovember182033Member    2020-02-14 2020-02-14     0000732717  t:ATTInc3375GlobalNotesDueMarch152034Member    2020-02-14 2020-02-14     0000732717  t:ATTInc2450GlobalNotesDueMarch152035Member    2020-02-14 2020-02-14     0000732717  t:ATTInc3150GlobalNotesDueSeptember42036Member    2020-02-14 2020-02-14     0000732717  t:AttInc.1.800GlobalNotesDueSeptember1420391Member    2020-02-14 2020-02-14     0000732717  t:ATTInc7000GlobalNotesDueApril302040Member    2020-02-14 2020-02-14     0000732717  t:ATTInc4250GlobalNotesDueJune12043Member    2020-02-14 2020-02-14     0000732717  t:ATTInc4875GlobalNotesDueJune12044Member    2020-02-14 2020-02-14     0000732717  t:ATTInc5350GlobalNotesDueNovember12066Member    2020-02-14 2020-02-14     0000732717  t:ATTInc5625GlobalNotesDueAugust12067Member    2020-02-14 2020-02-14      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K  
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of report (Date of earliest event reported) February 14, 2020 
+
+ AT&T INC.  
+
+(Exact Name of Registrant as Specified in Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code (210) 821-4105 
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+  ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+  ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+Securities Registered Pursuant to Section 12(b) of the Act [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 3.03  
+
+Material Modification to Rights of Security Holders.   
+
+On February 18, 2020, AT&T Inc. (the “Company”) closed the public offering of 20,000 shares of its Fixed Rate Reset Perpetual Preferred Securities, Series B (the “Series B”) representing an aggregate liquidation preference of €2,000,000,000 and 70,000,000 depositary shares (the “Depositary Shares”), each such Depositary Share representing a 1/1,000th interest in a share of its 4.750% Perpetual Preferred Stock, Series C (the “Series C”) representing an aggregate liquidation preference of $1,750,000,000. The Series B and the Depositary Shares were offered and sold pursuant to an effective shelf registration statement on Form S-3 (File No. 333-231404).  If the Company fails to declare and pay (or set aside) the full accrued dividends on all classes of its preferred shares and any equally ranked stock through and including the most recently completed dividend period, the preferred shares restrict the ability of the Company to declare or pay dividends on, or purchase, redeem or otherwise acquire, shares of its common stock or shares of any other junior class or series of stock. In the event of partial payment or non-payment of full accrued dividends, the preferred shares restrict the distribution of assets upon any liquidation, dissolution or winding up of the Company. The terms of the securities are more fully described in, and this description is qualified in its entirety by reference to, the Certificate of Designations with respect to the Series B and the Certificate of Designations with respect to the Series C, copies of which are filed as Exhibit 3.1 and Exhibit 3.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.  
+
+ Item 5.03  
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.   
+
+On February 14, 2020, the Company filed a Certificate of Designations with the Secretary of State of Delaware to establish the preferences, limitations and relative rights of the Series B. The Certificate of Designations with respect to the Series B became effective upon filing with the Secretary of State, and a copy is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference.  
+
+On February 14, 2020, the Company filed a Certificate of Designations with the Secretary of State of Delaware to establish the preferences, limitations and relative rights of the Series C. The Certificate of Designations with respect to the Series C became effective upon filing with the Secretary of State, and a copy is filed as Exhibit 3.2 to this Current Report on Form 8-K and is incorporated herein by reference.  
+
+ Item 8.01  
+
+Other Events.   
+
+In connection with the sale of the Series B, the Company entered into an Underwriting Agreement with Deutsche Bank AG, London Branch, Banco Santander, S.A., Barclays Bank PLC, Credit Suisse Securities (Europe) Limited, Banco Bilbao Vizcaya Argentaria, S.A., Commerzbank Aktiengesellschaft and Société Générale, as the underwriters named therein, which is filed as Exhibit 1.1 hereto.  
+
+The opinion of the Company’s Vice President - Associate General Counsel and Assistant Secretary relating to the validity of the Series B is filed as Exhibit 5.1 to this Current Report on Form 8-K. 
+
+In connection with the sale of the Depositary Shares, the Company entered into an Underwriting Agreement with Morgan Stanley & Co. LLC, Wells Fargo Securities, LLC, BofA Securities, Inc., RBC Capital Markets, LLC, J.P. Morgan Securities LLC and UBS Securities LLC, as representatives of the several underwriters named therein, which is filed as Exhibit 1.2 hereto.  
+
+On February 18, 2020, in connection with the issuance of the Depositary Shares, the Company entered into a Deposit Agreement among the Company, Computershare Inc. and Computershare Trust Company, N.A., collectively as depositary, and the holders from time to time of the depositary receipts described therein. A copy of the Deposit Agreement is filed as Exhibit 4.3 to this Current Report on Form 8-K, and the form of depositary receipt evidencing the Depositary Shares is included as Exhibit A to the Deposit Agreement.  
+
+The opinion of the Company’s Vice President – Associate General Counsel and Assistant Secretary relating to the validity of the Depositary Shares and the Series C is filed as Exhibit 5.2 to this Current Report on Form 8-K.  
+
+ Item 9.01  
+
+Financial Statements and Exhibits.   
+
+The following exhibits are filed as part of this report:  
+
+(d) Exhibits     
+
+Exhibit  
+
+Number   
+
+Description     [DATA_TABLE_REMOVED] 
+
+Signature  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  [DATA_TABLE_REMOVED]

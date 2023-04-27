@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200226",
+    "sec_filing_date": "20200227",
+    "sec_changed_date": "20200227",
+    "sec_accepted_date": "20200227163926",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968420000014/0001039684-20-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968420000014/0001039684-20-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\OKE_0001039684_EX991_20200226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2404 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1408,
+    "endpoints": [
+        "a022620okeannualmeetingo   ",
+        " Exhibit 99.1 News February 26, 2020 Analyst Contact: Andrew Ziola 918-588-7683 Media Contact: Brad Borror 918-588-7582 ONEOK Schedules 2020 Annual Meeting of Shareholders; Sets Record Date TULSA, Okla. – Feb. 26, 2020 – ONEOK, Inc. (NYSE: OKE) will hold its 2020 annual meeting of shareholders at 9 a.m. Central Daylight Time (CDT) on May 20, 2020. The meeting also will be audio webcast on ONEOK’s website, www.oneok.com. The record date for determining shareholders entitled to receive notice of the meeting and to vote is March 23, 2020. What: ONEOK, Inc. 2020 Annual Meeting of Shareholders When: 9 a.m. CDT, May 20, 2020 Where: ONEOK Plaza, 100 West 5th Street, Tulsa, Oklahoma How: Log on to the webcast at www.oneok.com ------------------------------------------------------------------------------------------------------------------- ONEOK, Inc. (pronounced ONE-OAK) (NYSE: OKE) is a leading midstream service provider and owner of one of the nation's premier natural gas liquids (NGL) systems, connecting NGL supply in the Rocky Mountain, Mid-Continent and Permian regions with key market centers and an extensive network of natural gas gathering, processing, storage and transportation assets. ONEOK is a Fortune 500 company and is included in the S&P 500. For the latest news about ONEOK, find us at www.oneok.com or on LinkedIn, Facebook, Twitter and Instagram. ###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\OKE_0001039684_EX991_20200226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:42:08.845358"
+}

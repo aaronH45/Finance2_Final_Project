@@ -1,0 +1,418 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following is a discussion of Kansas City Southern’s results of operations, certain changes in its financial position, liquidity, capital structure and business developments for the years ended December 31, 2019 and 2018. This discussion should be read in conjunction with the included consolidated financial statements, the related notes, and other information included in this report. 
+
+CAUTIONARY INFORMATION 
+
+The discussions set forth in this Annual Report on Form 10-K may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended and the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical facts, may be forward-looking statements. In addition, management may make forward-looking statements orally or in other writings, including, but not limited to, in press releases, quarterly earnings calls, executive presentations, in the annual report to stockholders and in other filings with the Securities and Exchange Commission. Readers can usually identify these forward-looking statements by the use of such verbs as “may,” “will,” “should,” “likely,” “plans,” “projects,” “expects,” “anticipates,” “believes” or similar verbs or conjugations of such verbs. These statements involve a number of risks and uncertainties. Actual results could materially differ from those anticipated by such forward-looking statements. Such differences could be caused by a number of factors or combination of factors including, but not limited to, the factors identified below and those discussed under Item 1A, Risk Factors, of this Form 10-K. Readers are strongly encouraged to consider these factors and the following factors when evaluating any forward-looking statements concerning the Company:
+
+•the outcome of claims and litigation, including those related to environmental contamination, personal injuries and property damage; 
+
+•changes in legislation and regulations or revisions of controlling authority;
+
+•the adverse impact of any termination or revocation of Kansas City Southern de México, S.A. de C.V. (“KCSM”)’s Concession by the Mexican government;
+
+•United States, Mexican and global economic, political and social conditions;
+
+•the effects of current and future multinational trade agreements on the level of trade among the United States, Mexico and Canada;
+
+•the level of trade between the United States and Asia or Mexico;
+
+•the effects of fluctuations in the peso-dollar exchange rate;
+
+•natural events such as severe weather, fire, floods, hurricanes, earthquakes or other disruptions to the Company’s operating systems, structures and equipment or the ability of customers to produce or deliver their products;
+
+•the effects of adverse general economic conditions affecting customer demand and the industries and geographic areas that produce and consume the commodities KCS carries;
+
+•the dependence on the stability, availability and security of the information technology systems to operate its business;
+
+•the effect of demand for KCS’s services exceeding network capacity or traffic congestion on operating efficiencies and service reliability;
+
+•uncertainties regarding the litigation KCS faces and any future claims and litigation;
+
+•the impact of competition, including competition from other rail carriers, trucking companies and maritime shippers in the United States and Mexico;
+
+•KCS’s reliance on agreements with other railroads and third parties to successfully implement its business strategy, operations and growth and expansion plans, including the strategy to convert customers from using trucking services to rail transportation services;
+
+•compliance with environmental regulations;
+
+•disruption in fuel supplies, changes in fuel prices and the Company’s ability to recapture its costs of fuel from customers;
+
+ 24
+•material adverse changes in economic and industry conditions, including the availability of short and long-term financing, both within the United States and Mexico and globally;
+
+•climate change and the market and regulatory responses to climate change;
+
+•changes in labor costs and labor difficulties, including strikes and work stoppages affecting either operations or customers’ abilities to deliver goods for shipment;
+
+•KCS’s reliance on certain key suppliers of core rail equipment;
+
+•unavailability of qualified personnel; and
+
+•acts of terrorism, war or other acts of violence or crime or risk of such activities.
+
+Forward-looking statements reflect the information only as of the date on which they are made. The Company does not undertake any obligation to update any forward-looking statements to reflect future events, developments, or other information. If KCS does update one or more forward-looking statements, no inference should be drawn that additional updates will be made regarding that statement or any other forward-looking statements.
+
+CORPORATE OVERVIEW
+
+Kansas City Southern, a Delaware corporation, is a transportation holding company that has railroad investments in the U.S., Mexico and Panama. In the U.S., the Company serves the central and south central U.S. Its international holdings serve northeastern and central Mexico and the port cities of Lazaro Cardenas, Tampico and Veracruz, and a fifty percent interest in Panama Canal Railway Company provides ocean-to-ocean freight and passenger service along the Panama Canal. KCS’s North American rail holdings and strategic alliances are primary components of the U.S.-Mexico-Canada-Agreement (“USMCA”) railway system, linking the commercial and industrial centers of the U.S., Canada and Mexico. Its principal subsidiaries and affiliates include the following:
+
+•The Kansas City Southern Railway Company (“KCSR”), a wholly-owned subsidiary;
+
+•KCSM, a wholly-owned subsidiary;
+
+•Mexrail, Inc. (“Mexrail”), a wholly-owned consolidated subsidiary which, in turn, wholly owns The Texas Mexican Railway Company (“Tex-Mex”);
+
+•KCSM Servicios, S.A. de C.V. (“KCSM Servicios”), a wholly-owned subsidiary;
+
+•Meridian Speedway, LLC (“MSLLC”), a seventy percent-owned consolidated affiliate;
+
+•Panama Canal Railway Company (“PCRC”), a fifty percent-owned unconsolidated affiliate;
+
+•TFCM, S. de R.L. de C.V. (“TCM”), a forty-five percent-owned unconsolidated affiliate;
+
+•Ferrocarril y Terminal del Valle de México, S.A. de C.V. (“FTVM”), a twenty-five percent-owned unconsolidated affiliate; and
+
+•PTC-220, LLC (“PTC-220”), a fourteen percent-owned unconsolidated affiliate.
+
+EXECUTIVE SUMMARY
+
+Strategic Initiatives 
+
+During 2019, KCS started implementing principles of Precision Scheduled Railroading (“PSR”). The PSR principles focus on operational excellence and are intended to drive the following improvements:
+
+•Customer service — improve and sustain consistency and reliability of service and create a more resilient and dependable network;
+
+•Facilitating growth — additional capacity for new opportunities;
+
+•Improving asset utilization — meet growing demand with the same or fewer assets; and 
+
+•Improving the cost profile of the Company — increased profitability driven by volume and revenue growth and improved productivity and asset utilization.
+
+ 25
+As a result of the PSR initiatives, management approved four separate restructuring plans during 2019, which resulted in restructuring charges during 2019 of $168.8 million within the consolidated statements of income. The PSR initiatives provided cost savings of approximately $58.0 million during 2019. The Company expects the PSR initiatives to provide incremental cost savings of approximately $61.0 million during 2020. Refer to Note 3, Restructuring Charges of the consolidated financial statements for more information. 
+
+The Company established the following key metrics and goals to measure PSR progress and performance: 
+
+[DATA_TABLE_REMOVED]
+
+(i) Gross velocity is the average train speed between origin and destination in miles per hour calculated as the sum of the miles traveled divided by the sum of total transit hours. Transit hours are measured as the difference between a train’s origin departure and destination arrival date and times broken down by segment across the train route (includes all time spent including crew changes, terminal dwell, delays, and incidents).
+
+(ii) Terminal dwell is the average amount of time in hours between car arrival to and departure from the yard (excludes cars that move through a terminal on a run-through train, stored, bad ordered, and maintenance-of-way cars). Calculated by dividing the total number of hours cars spent in terminals by the total count of car dwell events.
+
+(iii) Train length is the average length of a train across its reporting stations, including the origin and intermediate stations. Length of a train is the sum of car and locomotive lengths measured in feet.
+
+(iv) Car miles per day is the miles a car travels divided by total transit days. Transit days are measured from opening event to closing event (includes all time spent in terminals and on trains).
+
+(v) Fuel efficiency is calculated by taking locomotive fuel consumed in gallons divided by thousand gross ton miles (“GTM’s”) net of detours with no associated fuel gallons. GTM’s are the movement of one ton of train weight over one mile calculated by multiplying total train weight by distance the train moved. GTM’s exclude locomotive gross ton miles.
+
+Operating performance improved during 2019 compared to 2018 due to the implementation of PSR initiatives. Improvements in velocity and dwell are largely due to increased focus on execution, refining service design, and equipment disposals that eliminated the worst performing assets during 2019. Additionally, the Company consolidated trains, which increased train length, improved fuel efficiency, and led to reduced crew costs. 
+
+The Company continues to focus on PSR principles in 2020 and has established more aggressive operational targets that will deliver improved customer service, facilitate growth, and drive better asset utilization while improving the cost profile of the Company. 
+
+2019 Financial Overview
+
+Revenues in 2019 increased 6% from 2018, as a result of an increase of 6% in revenue per carload/unit due to mix, higher fuel surcharge, and positive pricing impacts, partially offset by the weakening of the Mexican peso against the U.S. dollar. Carloads were down 1% from 2018 primarily as declines in automotive and intermodal offset growth in refined fuel products and liquid petroleum gas shipments to Mexico, as well as favorable impacts of improved operations in northern Mexico, metals growth, and improved cycle times for agriculture and mineral shipments. Improved operations and cycle times are primarily the result of implementing PSR initiatives during 2019. 
+
+Operating expenses increased 15% compared to 2018, primarily due to restructuring charges as a result of PSR initiatives, exclusion and loss of the Mexican fuel excise tax credit as a reduction of operating expenses due to changes in Mexican tax law, and an increase in incentive compensation and wages. These increases were partially offset by cost savings from PSR initiatives. Operating expenses as a percentage of revenues (“operating ratio”) increased to 69.1% in 2019 from 63.7% in 2018. Restructuring charges related to PSR initiatives increased 2019 operating ratio by 5.9 points. 
+
+ 26
+The Company reported 2019 earnings per diluted share of $5.40, compared to 2018 earnings per diluted share of $6.13. The decrease in earnings per diluted share was due to decreased operating income described above and a higher effective tax rate. These decreases were partially offset by lower average outstanding shares as a result of shares repurchased during 2019 and a higher gain on foreign exchange. 
+
+RESULTS OF OPERATIONS
+
+Year Ended December 31, 2019, compared with the Year Ended December 31, 2018
+
+The following summarizes KCS’s consolidated income statement components (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Revenues 
+
+The following summarizes revenues (in millions), carload/unit statistics (in thousands) and revenue per carload/unit:
+
+[DATA_TABLE_REMOVED]
+
+ 27
+Revenues include revenue for transportation services and fuel surcharges. Revenues in 2019 increased 6% from 2018, as a result of an increase of 6% in revenue per carload/unit due to mix, higher fuel surcharge, and positive pricing impacts. Revenue per carload/unit was partially offset by the weakening of the Mexican peso against the U.S. dollar of approximately $3.0 million, compared to the prior year, for revenue transactions denominated in Mexican pesos. The average exchange rate of Mexican pesos per U.S. dollar was Ps.19.3 for 2019, compared to Ps.19.2 for 2018.
+
+Carloads were down 1% primarily as declines in automotive and intermodal offset growth in refined fuel products and liquid petroleum gas shipments to Mexico, as well as favorable impacts of improved operations in northern Mexico, metals growth, and improved cycle times for agriculture and mineral shipments. Improved operations and cycle times are primarily the result of implementing PSR initiatives during 2019. 
+
+KCS’s fuel surcharges are a mechanism to adjust revenue based upon changes in fuel prices above fuel price thresholds set in KCS’s tariffs or contracts. Fuel surcharge revenue is calculated using a fuel price from a prior time period that can be up to 60 days earlier. In a period of volatile fuel prices or changing customer business mix, changes in fuel expense and fuel surcharge revenue may differ. 
+
+Fuel surcharge revenue increased $45.0 million for the year ended December 31, 2019, compared to the prior year, primarily due to increased fuel surcharge rates due to higher fuel costs as a result of the loss of the Mexican fuel excise tax credit and higher fuel prices.
+
+The following discussion provides an analysis of revenues by commodity group: 
+
+Revenues by commodity
+
+group for 2019 
+
+Chemical and petroleum. Revenues increased $115.1 million for the year ended December 31, 2019, compared to 2018, due to a 13% increase in carload/unit volumes and a 5% increase in revenue per carload/unit. Volumes increased primarily due to increased refined fuel products and liquid petroleum gas shipments to Mexico. Revenue per carload/unit increased due to longer average length of haul, positive pricing impacts, and higher fuel surcharge.
+
+Industrial and consumer products. Revenue increased $19.4 million for the year ended December 31, 2019, compared to 2018, due to a 5% increase in revenue per carload/unit as a result of positive pricing impacts, higher fuel surcharge, and longer average length of haul. This increase was partially offset by a 1% decrease in carload/unit volumes primarily driven by paper shipments as a result of lower demand and available truck capacity, partially offset by an increase in metals volumes due to a customer’s change in sourcing location.
+
+ 28
+Revenues by commodity
+
+group for 2019
+
+Agriculture and minerals. Revenues increased $19.9 million for the year ended December 31, 2019 compared to 2018, due to a 5% increase in carload/unit volumes as a result of improved cycle times for grain and an increase in ores and minerals due to increased U.S. government infrastructure spending. This increase was partially offset by a 1% decrease in revenue per carload/unit due to negative mix impacts.
+
+Energy. Revenues decreased $10.1 million for the year ended December 31, 2019, compared to 2018, due to a 2% decrease in carload/unit volumes and revenue per carload/unit. Volumes decreased due to crude oil attributable to decreasing Canadian crude spreads, and frac sand attributable to changes in sourcing patterns, partially offset by an increase in utility coal volumes caused by improved cycle times and demand. Revenue per carload/unit decreased due to shorter average length of haul and mix, partially offset by positive pricing impacts.
+
+Intermodal. Revenues decreased $12.6 million for the year ended December 31, 2019, compared to 2018, due to a 5% decrease in carload/unit volumes, partially offset by a 2% increase in revenue per carload/unit. The volume decrease was primarily due to service interruption at Lazaro Cardenas due to teacher protests in the first quarter of 2019 and available truck capacity. Revenue per carload/unit increased due to higher fuel surcharge, partially offset by shorter average length of haul.
+
+Automotive. Revenues increased $2.4 million for the year ended December 31, 2019, compared to 2018, due to a 5% increase in revenue per carload/unit due to higher fuel surcharge and positive pricing impacts, partially offset by shorter average length of haul. The increases were partially offset by a 4% decrease in carload/unit volumes as a result of auto plant shutdowns and lower overall automotive production in Mexico.
+
+ 29
+Operating Expenses 
+
+Operating expenses, as shown below (in millions), increased $252.0 million for the year ended December 31, 2019, compared to 2018, primarily due to restructuring charges as a result of PSR initiatives, exclusion and loss of the Mexican fuel excise tax credit as a reduction of operating expenses due to changes in Mexican tax law, and an increase in incentive compensation and wages. These increases were partially offset by cost savings from PSR initiatives. The weakening of the Mexican peso against the U.S. dollar resulted in an expense reduction of approximately $1.0 million for expense transactions denominated in Mexican pesos. The average exchange rate of Mexican pesos per U.S. dollar was Ps.19.3 for 2019 compared to Ps.19.2 for 2018. 
+
+[DATA_TABLE_REMOVED]
+
+Compensation and benefits. Compensation and benefits increased $33.4 million for the year ended December 31, 2019, compared to 2018, due to increases in incentive compensation, wages and benefits, in-sourcing activities, and labor claims, partially offset by lower headcount and fewer hours worked as a result of PSR initiatives.
+
+Purchased services. Purchased services expense increased $18.5 million for the year ended December 31, 2019, compared to 2018, due to higher repairs and maintenance expense, trackage rights, and corporate services. These increases were partially offset by savings from in-sourcing related to PSR initiatives.
+
+Fuel. Fuel expense decreased $7.8 million for the year ended December 31, 2019, compared to 2018, due to increased efficiency of approximately $13.0 million and the weakening of the Mexican peso against the U.S. dollar of approximately $1.0 million, partially offset by increased consumption of approximately $7.0 million. PSR initiatives implemented during 2019 focused on improved fuel efficiency through train consolidation and use of technology. The average price per gallon was $2.57 in 2019, compared to $2.58 in 2018. 
+
+Mexican fuel excise tax credit. For the year ended December 31, 2019, the Company did not recognize a benefit within operating expenses for the Mexican fuel excise tax credit, due to changes in Mexican tax law effective January 1, 2019. For 2019, the benefit was recognized as a reduction of income tax expense within the consolidated statements of income rather than a reduction of operating expenses. Beginning April 30, 2019, railroads in Mexico are no longer eligible for the Mexican fuel excise tax credit due to changes in Mexican tax regulations. The Company recognized a benefit of $37.7 million within operating expenses for the year ended December 31, 2018. Refer to Item 8, Financial Statements and Supplementary Data — Note 4, Mexican Fuel Excise Tax Credit for more information.
+
+Equipment costs. Equipment costs decreased $17.5 million for the year ended December 31, 2019, compared to 2018, due to lower car hire expense primarily as a result of reduced cycle times due to PSR initiatives. The decrease is also a result of lower lease expense as a result of a locomotive lease conversion in the second quarter of 2018.
+
+Depreciation and amortization. Depreciation and amortization expense increased $4.0 million for the year ended December 31, 2019, compared to 2018, due to a larger asset base, including investments in positive train control, partially offset by decreases in estimates and lower depreciation as a result of PSR initiatives implemented during 2019. 
+
+ 30
+Materials and other. Materials and other expense decreased $3.0 million for the year ended December 31, 2019, compared to 2018, due to lower derailment activity and a one-time vendor settlement, partially offset by increased employee expenses, increased property taxes, and parts credits recognized in the first half of 2018.
+
+Restructuring charges. For the year ended December 31, 2019, the Company recognized $168.8 million of restructuring charges related to the implementation of PSR initiatives. Included in the restructuring charges were costs relating to the impairment of certain locomotives, rail cars and associated inventory parts, severance costs related to workforce reductions, and contract restructuring activities. Refer to Item 8, Financial Statements and Supplementary Data — Note 3, Restructuring Charges for more information.
+
+Gain on insurance recoveries related to hurricane damage. During 2018, the Company partially settled its insurance claim for $35.5 million related to Hurricane Harvey. As a result of the nonrefundable partial settlement, the Company recognized a gain on insurance recoveries of $17.9 million, net of the self-insured retention and insurance receivable. Final settlement of the insurance claim is dependent upon costs incurred with an ongoing bridge construction project expected to be completed in 2020. 
+
+Non-Operating Expenses
+
+Equity in net earnings of affiliates. Equity in net earnings of affiliates decreased $1.6 million for the year ended December 31, 2019, compared to 2018, due to FTVM losses related to the cancellation of Mexico City’s new international airport in 2019. This decrease was partially offset by increased volumes at Panama Canal Railway Company (“PCRC”).
+
+Interest expense. Interest expense increased $5.9 million for the year ended December 31, 2019, compared to 2018, due to higher average debt balances. For the year ended December 31, 2019, the average debt balance (including commercial paper) was $2,826.6 million, compared to $2,698.7 million in 2018. The average interest rate for the years ended December 31, 2019 and 2018 was 4.1%. 
+
+Debt retirement costs. For the year ended December 31, 2019, debt retirement costs were $1.1 million, related to the write-off of previously capitalized debt issuance costs associated with the establishment of the new revolving credit facility in the first quarter of 2019 and the call premiums and write-off of unamortized debt issuance costs and original issue discounts associated with the redemption of the KCS and KCSM 2.35% Senior Notes in the fourth quarter of 2019. For the year ended December 31, 2018, debt retirement costs were $2.2 million, related to the call premiums and write-off of unamortized debt issuance costs and original issue discounts associated with the Company’s various debt redemption activities.
+
+Foreign exchange gain. For the years ended December 31, 2019 and 2018, foreign exchange gain was $17.1 million and $7.8 million, respectively. Foreign exchange gain includes the re-measurement and settlement of net monetary assets denominated in Mexican pesos and the gain on foreign currency derivative contracts.
+
+For the years ended December 31, 2019 and 2018, the re-measurement and settlement of net monetary assets and liabilities denominated in Mexican pesos resulted in a foreign exchange gain of $3.0 million and $1.5 million, respectively.
+
+The Company enters into foreign currency derivative contracts to hedge its net exposure to fluctuations in the Mexican cash tax obligation due to changes in the value of the Mexican peso against the U.S. dollar. For the years ended December 31, 2019 and 2018, foreign exchange gain on foreign currency derivative contracts was $14.1 million and $6.3 million, respectively.
+
+Other income, net. Other income, net, decreased $1.4 million for the year ended December 31, 2019, compared to 2018 primarily due to an increase in postemployment benefits expense due to a change in discount rates.
+
+Income tax expense. Income tax expense decreased $9.9 million for the year ended December 31, 2019, compared to 2018, due to lower pre-tax income as a result of restructuring charges related to PSR initiatives, partially offset by a higher effective tax rate. The increase in the effective tax rate was primarily due to the recognition of a $20.9 million tax benefit during 2018 related to adjustments to the provisional tax impacts of the Tax Cuts and Jobs Act (the “Tax Reform Act”) for deemed mandatory repatriation and change in U.S. tax rate included in the consolidated financial statements for the year ended December 31, 2017 and fluctuations in the foreign exchange rate, partially offset by the inclusion of the Mexican fuel excise tax credit within the effective tax rate for the year ended December 31, 2019. 
+
+ 31
+The Treasury Department issued proposed regulations in June 2019 that provide for a high-tax exception to the global intangible low-taxed income (“GILTI”). Specifically, if foreign earnings are subject to a foreign tax rate of at least 90% of the U.S. tax rate, an election can be made to not treat the high-taxed earnings as GILTI income. As currently proposed, the high-tax exception provisions would not be effective until taxable years beginning on or after the date the proposed regulations are finalized. The regulations as proposed should render the GILTI tax immaterial to the consolidated financial statements if and when they become effective.
+
+The fluctuations of the Mexican peso during 2019 increased the Company’s Mexican cash tax obligation by $8.9 million for the year ended December 31, 2019. The fluctuations of the Mexican peso during 2018 decreased the Company’s Mexican cash tax obligation by $1.8 million for the year ended December 31, 2018. 
+
+ Differences between the Company’s effective income tax rate and the U.S. federal statutory income tax rate of 21% for 2019 and 2018 follow (in millions):
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(i)Mexican income taxes are paid in Mexican pesos, and as a result, the effective income tax rate reflects fluctuations in the value of the Mexican peso against the U.S. dollar. The foreign exchange impact on income taxes includes the gain or loss from the revaluation of the Company’s net U.S. dollar-denominated monetary liabilities into Mexican pesos which is included in Mexican taxable income under Mexican tax law. As a result, a strengthening of the Mexican peso against the U.S. dollar for the reporting period will generally increase the Mexican cash tax obligation and the effective income tax rate, and a weakening of the Mexican peso against the U.S. dollar for the reporting period will generally decrease the Mexican cash tax obligation and the effective tax rate. To hedge its exposure to this cash tax risk, the Company enters into foreign currency derivative contracts, which are measured at fair value each period and any change in fair value is recognized in foreign exchange gain (loss) within the consolidated statements of income. Refer to Note 12, Derivative Instruments for further information.
+
+(ii)See discussion of the inclusion of the Mexican fuel excise tax credit, net within the effective tax rate in the Mexico Tax Reform section, below.
+
+Mexico Tax Reform
+
+In December 2018, the Mexican government enacted changes in the tax law effective January 1, 2019 (“Mexico 2019 Tax Reform”), which for 2019 eliminated the option to monetize the Mexican fuel excise tax credit by offsetting income tax withholding payment obligations. Previously, the Company had the option to monetize the Mexican fuel excise tax credit through income tax withholding and income tax obligations. As a result, the Company is allowed to offset the 2019 Mexican fuel excise tax credit only against its Mexico corporate income tax liability on the 2019 annual income tax return. The elimination of the option to apply the Mexican fuel excise tax credit to income tax withholding payment obligations required 
+
+ 32
+the Company to recognize the credit as a reduction of income tax expense rather than a reduction of operating expenses. Beginning April 30, 2019, railroads in Mexico are no longer eligible for the Mexican fuel excise tax credit due to a change in Mexican tax regulations. Refer to Note 4, Mexican Fuel Excise Tax Credit of the consolidated financial statements for more information. Mexico 2019 Tax Reform also eliminated universal compensation for 2019 that allowed Mexican taxpayers to offset recoverable tax balances against balances due for other federal taxes.
+
+In December 2019, the Mexican government enacted additional changes in the tax law effective January 1, 2020 (“Mexico 2020 Tax Reform”). Mexico 2020 Tax Reform excluded railroads from eligibility for the Mexican fuel excise tax credit. Mexico 2020 Tax Reform also included permanent changes to the Value Added Tax (“VAT”) Law, Income Tax Law and Federal Fiscal Code which, among other things, requires certain VAT withholding, limits the deduction of interest expense and certain payments to related parties in preferential tax regimes, adopts a general anti-avoidance rule, beginning in 2021 requires mandatory disclosure of reportable transactions, and permanently eliminates universal compensation. The Company is continuing to evaluate the potential impact of Mexico 2020 Tax Reform to the 2020 consolidated financial statements.
+
+See additional discussion on universal compensation in Liquidity and Capital Resources section below.
+
+For a comparison of the Company’s results of operations for the fiscal years ended December 31, 2017 to the year ended December 31, 2018, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2018, which was filed with the U.S. Securities and Exchange Commission on January 25, 2019.
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Overview
+
+On November 12, 2019, the Company announced its new capital allocation policy (the “Policy”) that was approved by the Company’s Board of Directors (the “Board”). Pursuant to that Policy, the Company intends to deploy available cash in the following manner:
+
+•Approximately 40-50% to capital projects and strategic investments; and
+
+•Approximately 50-60% to share repurchases and dividends.
+
+In connection with this new Policy, the Board also approved the following actions:
+
+•An increase in the quarterly dividend on KCS’s common stock from $0.36 to $0.40 per share. The Board declared a cash dividend on its outstanding common stock for this increased amount payable on January 22, 2020, to stockholders of record at the close of business on December 31, 2019, and
+
+•A new $2.0 billion share repurchase program (“2019 Program”), expiring December 31, 2022. This new program replaced the $800 million stock repurchase authorization announced in 2017 under which the Company purchased approximately $741 million of Company stock.
+
+During 2019, the Company invested $584.3 million in capital expenditures. See Capital Expenditures section for further details.
+
+In November 2019, the Company paid $550.0 million under two accelerated share repurchase (“ASR”) agreements and received an aggregate initial delivery of 3,022,760 shares, which represents approximately 85% of the total shares to be received under the agreements. The final number of shares repurchased and cost of shares repurchased will be based on the volume-weighted-average price of the Company’s common stock during the term of the agreements, which are expected to be settled in the first quarter of 2020.
+
+The Company’s 2019 repurchases of common stock, which includes shares repurchased through the 2017 Program and the 2019 Program (which consists of the initial delivery of shares under the ASR agreements), totaled 5,076,530 shares at a total cost of $709.9 million. Remaining share repurchases are expected to be funded by cash on hand, cash generated from operations, and debt. Management's assessment of market conditions, available liquidity and other factors will determine the timing and volume of any future repurchases. Refer to Item 8, Financial Statements and Supplementary Data — Note 16, Stockholders’ Equity for additional detail on the Company’s common share repurchase program.
+
+During 2019, the Company repurchased 5,770 shares of its $25 par preferred stock for $0.1 million at an average price of $26.39 per share. 
+
+ 33
+During 2019, KCS entered into a new $600.0 million revolving credit facility which replaced its $800.0 million revolving credit facility. Additionally, KCS amended its commercial paper program to decrease maximum borrowings under the program from $800.0 million to $600.0 million, consistent with the new revolving credit facility. 
+
+On November 18, 2019, the Company issued $425.0 million principal amount of senior unsecured notes due November 15, 2029, which bear interest semiannually at a fixed annual rate of 2.875% (the “2.875% Senior Notes”), and $425.0 million principal amount of senior unsecured notes due November 15, 2069, which bear interest semiannually at a fixed annual rate of 4.20% (the “4.20% Senior Notes”). The net proceeds from the offerings were used to make payments under the ASR agreements, to redeem KCS’s 2.35% senior notes due 2020 (the “KCS 2.35% Senior Notes”), and for general corporate purposes. 
+
+On November 18, 2019, KCS settled its four treasury lock agreements with an aggregate notional amount of $275.0 million, which resulted in cash paid of $25.8 million. This amount was included in accumulated other comprehensive loss and is being amortized to interest expense over the life of the new 2.875% Senior Notes, increasing the effective interest rate on the notes to 3.60%. The treasury lock agreements served to hedge the U.S. Treasury benchmark interest rate associated with the interest payments related to the anticipated refinancing of the KCS 2.35% Senior Notes and the KCSM 2.35% Senior Notes into new long-term debt instruments prior to maturity. Refer to Note 12, Derivative Instruments of the consolidated financial statements for further discussion of the treasury lock agreements.
+
+On December 18, 2019, the Company redeemed all of the $275.0 million aggregate principal amount outstanding of the KCS 2.35% Senior Notes and the KCSM 2.35% Senior Notes, using cash on hand and proceeds from the issuance of KCS’s 2.875% Senior Notes and 4.20% Senior Notes, at a redemption price equal to 100.084% of the principal amount of the notes redeemed, plus accrued interest and call premium.
+
+The Company’s financing instruments contain restrictive covenants that limit or preclude certain actions; however, the covenants are structured such that the Company expects to have sufficient flexibility to conduct its operations. The Company was in compliance with all of its debt covenants as of December 31, 2019. 
+
+For discussion regarding the agreements representing the indebtedness of KCS, refer to Note 13, Short-Term Borrowings and Note 14, Long-Term Debt of the consolidated financial statements.
+
+During the first three quarters of 2019, the Company’s Board of Directors declared quarterly cash dividends of $0.36 per share or $107.9 million on its common stock. During the last quarter of 2019, the Company’s Board of Directors declared a cash dividend of $0.40 per share or $38.6 million on its common stock. Subject to the discretion of the Board of Directors, capital availability and a determination that cash dividends continue to be in the best interest of its stockholders, the Company intends to pay a quarterly dividend on an ongoing basis.
+
+On December 31, 2019, total available liquidity (the cash balance plus revolving credit facility availability) was $748.8 million, compared to available liquidity at December 31, 2018 of $900.5 million. This decrease was primarily due to the reduction in the revolving credit facility availability discussed above.
+
+As of December 31, 2019, the total cash and cash equivalents held outside of the U.S. in foreign subsidiaries was $20.3 million, after repatriating $206.1 million during 2019. The Company expects that this cash will be available to fund company operations without incurring significant additional income taxes.
+
+Mexico 2019 Tax Reform eliminated universal compensation for 2019 that allowed Mexican taxpayers to offset recoverable tax balances against balances due for other federal taxes. This negatively impacted KCSM’s 2019 cash flow by $57.5 million. The elimination of universal compensation was made permanent as part of the Mexico 2020 Tax Reform which could negatively impact the timing of KCSM’s cash flow by up to $60.0 million in 2020 while awaiting refunds of value added tax from the Mexican government. 
+
+ 34
+Cash Flow Information and Contractual Obligations
+
+Summary cash flow data follows (in millions): 
+
+[DATA_TABLE_REMOVED]
+
+During 2019, cash and cash equivalents increased $48.3 million as a result of the impacts discussed below. 
+
+Operating Cash Flows. Net cash provided by operating activities increased $157.8 million for 2019, as compared to 2018, primarily due to an increase in cash received for working capital items resulting mainly from the timing of certain receipts and lower income tax payments.
+
+Investing Cash Flows. Net cash used for investing activities increased $24.4 million for 2019, as compared to 2018, due to a $66.9 million increase in capital expenditures and a $17.5 million increase in investments in and advances to affiliates, partially offset by a $59.9 million decrease in expenditures for the purchase or replacement of assets under existing operating leases. Additional information is included within the Capital Expenditure section of Liquidity and Capital Resources.
+
+Financing Cash Flows. Net cash used for financing activities increased $51.5 million for 2019, as compared to 2018, due to a $550.0 million payment made under two accelerated share repurchase agreements in the fourth quarter of 2019 and an increase in repayment of long-term debt of $203.5 million, partially offset by an increase in proceeds from long-term debt of $348.1 million and a decrease in net repayment of short-term borrowings of $348.1 million.
+
+For a comparison of liquidity and capital resources and the Company’s cash flow activities for the fiscal year ended December 31, 2018 and 2017, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2018, which was filed with the U.S. Securities and Exchange Commission on January 25, 2019.
+
+ 35
+Contractual Obligations. The following table outlines the material obligations and commitments as of December 31, 2019 (in millions): 
+
+[DATA_TABLE_REMOVED]_____________________
+
+(i)For variable rate obligations, interest payments were calculated using the December 31, 2019 rate. For fixed rate obligations, interest payments were calculated based on the applicable rates and payment dates.
+
+(ii)U.S. federal income tax on deemed mandatory repatriation is payable over 8 years pursuant to the Tax Reform Act.
+
+(iii)Capital expenditure obligations include minimum capital expenditures under the KCSM Concession agreement and other regulatory requirements.
+
+(iv)Other contractual obligations include purchase commitments and certain maintenance agreements.
+
+In the normal course of business, the Company enters into long-term contractual commitments for future goods and services needed for the operations of the business. Such commitments are not in excess of expected requirements and are not reasonably likely to result in performance penalties or payments that would have a material adverse effect on the Company’s liquidity. Such commitments are not included in the above table.
+
+The SCT requires KCSM to submit a three-year capital expenditures plan every three years. The most recent three-year plan was submitted in 2017 for the years 2018 — 2020. KCSM expects to continue capital spending at current levels in future years and will continue to have capital expenditure obligations past 2020, which are not included in the table above.
+
+Off-Balance Sheet Arrangements 
+
+On November 2, 2007, PCRC completed an offering of $100.0 million of 7.0% senior secured notes due November 1, 2026 (the “Notes”). The Notes are senior obligations of PCRC, secured by certain assets of PCRC. KCS has pledged its shares of PCRC as security for the Notes. The Notes are otherwise non-recourse to KCS. The Company has agreed, along with Mi-Jack Products, Inc. (“Mi-Jack”), the other 50% owner of PCRC, to each fund 50% of any debt service reserve and liquidity reserve (reserves which are required to be established by PCRC in connection with the issuance of the Notes). As of December 31, 2019, the Company has issued a standby letter of credit in the amount of $5.6 million to fund its share of these reserves. 
+
+ 36
+Capital Expenditures
+
+KCS has funded, and expects to continue to fund, capital expenditures with operating cash flows and short and long-term debt.
+
+The following table summarizes capital expenditures by type for the years ended December 31, 2019 and 2018, respectively (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Generally, the Company’s capital program consists of capital replacement and equipment. For 2020, internally generated cash flows are expected to fund cash capital expenditures, which are currently estimated to be below $500.0 million. In addition, the Company periodically reviews its equipment and property under operating leases. Any additional purchase or replacement of equipment and property under operating leases during 2020 is expected to be funded with internally generated cash flows and/or debt. 
+
+Property Statistics 
+
+The following table summarizes certain property statistics as of December 31:
+
+[DATA_TABLE_REMOVED]
+
+ 37
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+KCS’s accounting and financial reporting policies are in conformity with U.S. generally accepted accounting principles (“U.S. GAAP”). The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Management believes that the following accounting policies and estimates are critical to an understanding of KCS’s historical and future performance. Management has discussed the development and selection of the following critical accounting estimates with the Audit Committee of KCS’s Board of Directors and the Audit Committee has reviewed the selection, application and disclosure of the Company’s critical accounting policies and estimates.
+
+Capitalization, Depreciation and Amortization of Property and Equipment (including Concession Assets)
+
+Due to the highly capital intensive nature of the railroad industry, capitalization and depreciation of property and equipment are a substantial portion of the Company’s consolidated financial statements. Net property and equipment, including concession assets, comprised approximately 90% of the Company’s total assets as of December 31, 2019, and related depreciation and amortization comprised approximately 18% of total operating expenses for the year ended December 31, 2019.
+
+KCS capitalizes costs for self-constructed additions and improvements to property including direct labor and material, indirect costs, and interest during long-term construction projects. Direct costs are charged to capital projects based on the work performed and the material used. Indirect costs are allocated to capital projects as a standard percentage, which is evaluated annually, and applied to direct labor and material costs. Asset removal activities are performed in conjunction with replacement activities; therefore, removal costs are estimated based on a standard percentage of direct labor and indirect costs related to capital replacement projects. For purchased assets, all costs necessary to make the asset ready for its intended use are capitalized. Expenditures that significantly increase asset values, productive capacity, efficiency, safety or extend useful lives are capitalized. Repair and maintenance costs are expensed as incurred.
+
+Property and equipment are carried at cost and are depreciated primarily on the group method of depreciation, which the Company believes closely approximates a straight line basis over the estimated useful lives of the assets measured in years. The group method of depreciation applies a composite rate to classes of similar assets rather than to individual assets. Composite depreciation rates are based upon the Company’s estimates of the expected average useful lives of assets as well as expected net salvage value at the end of their useful lives. In developing these estimates, the Company utilizes periodic depreciation studies performed by an independent engineering firm. Depreciation rate studies are performed at least every three years for equipment and at least every six years for road property (rail, ties, ballast, etc.). The depreciation studies take into account factors such as:
+
+•Statistical analysis of historical patterns of use and retirements of each asset class;
+
+•Evaluation of any expected changes in current operations and the outlook for the continued use of the assets;
+
+•Evaluation of technological advances and changes to maintenance practices;
+
+•Historical and expected salvage to be received upon retirement;
+
+•Review of accounting policies and assumptions; and
+
+•Industry precedents and trends.
+
+The depreciation studies may also indicate that the recorded amount of accumulated depreciation is deficient or in excess of the amount indicated by the study. Any such deficiency or excess is amortized as a component of depreciation expense over the remaining useful lives of the affected asset class, as determined by the study. The Company also monitors these factors in non-study years to determine if adjustments should be made to depreciation rates. The Company completed depreciation studies for KCSR and KCSM in 2019. The impacts of the studies were immaterial to the consolidated financial results for all periods.
+
+Also under the group method of depreciation, the cost of railroad property and equipment (net of salvage or sales proceeds) retired or replaced in the normal course of business is charged to accumulated depreciation with no gain or loss recognized. Actual historical costs are retired when available, such as with equipment costs. The use of estimates in recognizing 
+
+ 38
+the retirement of roadway assets is necessary as it is impractical to track individual, homogeneous network-type assets. Certain types of roadway assets are retired using statistical curves derived from the depreciation studies that indicate the relative distribution of the age of the assets retired. For other roadway assets, historical costs are estimated by deflating current costs using inflation indices and the estimated useful life of the assets as determined by the depreciation studies. The indices applied to the replacement value are selected because they closely correlate with the major costs of the items comprising the roadway assets. Because of the number of estimates inherent in the depreciation and retirement processes and because it is impossible to precisely estimate each of these variables until a group of assets is completely retired, the Company continually monitors the estimated useful lives of its assets and the accumulated depreciation associated with each asset group to ensure the depreciation rates are appropriate.
+
+Estimation of the average useful lives of assets and net salvage values requires management judgment. Estimated average useful lives may vary over time due to changes in physical use, technology, asset strategies and other factors that could have an impact on the retirement experience of the asset classes. Accordingly, changes in the assets’ estimated useful lives could significantly impact future periods’ depreciation expense. Depreciation and amortization expense for the year ended December 31, 2019 was $350.7 million. If the weighted average useful lives of assets were changed by one year, annual depreciation and amortization expense would change approximately $11.0 million.
+
+Gains or losses on dispositions of land or non-group property and abnormal retirements of railroad property are recognized through income. A retirement of railroad property would be considered abnormal if the retirement meets each of the following conditions: (i) is unusual in nature, (ii) is significant in amount, and (iii) varies significantly from the retirement profile identified through the depreciation studies. For the year ended December 31, 2019, KCS recognized a loss of $134.2 million from asset impairments of certain locomotives and railcars as a result of the implementation of PSR. There were no other significant gains or losses from abnormal retirements of property or equipment for the years ended December 31, 2018 and 2017. Refer to Note 3, Restructuring Charges of the consolidated financial statements for more information. 
+
+Costs incurred by the Company to acquire the Concession rights and related assets, as well as subsequent improvements to the Concession assets, are capitalized and amortized using the group method of depreciation over the lesser of the current expected Concession term, including probable renewal of an additional 50-year term, or the estimated useful lives of the assets and rights. The Company’s ongoing evaluation of the useful lives of Concession assets and rights considers the aggregation of the following facts and circumstances:
+
+•The Company’s executive management is dedicated to ensuring compliance with the various provisions of the Concession and to maintaining positive relationships with the SCT and other Mexican federal, state, and municipal governmental authorities;
+
+•During the time since the Concession was granted, the relationships between KCSM and the various Mexican governmental authorities have matured and the guidelines for operating under the Concession have become more defined with experience;
+
+•There are no known supportable sanctions or compliance issues that would cause the SCT to revoke the Concession or prevent KCSM from renewing the Concession; and
+
+•KCSM operations are an integral part of the KCS operations strategy, and related investment analyses and operational decisions assume that the Company’s cross border rail business operates into perpetuity, and do not assume that Mexico operations terminate at the end of the current Concession term.
+
+Based on the above factors, as of December 31, 2019, the Company continues to believe that it is probable that the Concession will be renewed for an additional 50-year term beyond the current term.
+
+Long-lived assets are reviewed for impairment when events or circumstances indicate that the carrying amount of an asset may not be recoverable. If impairment indicators are present and the estimated future undiscounted cash flows are less than the carrying value of the long-lived assets, the carrying value would be reduced to the estimated fair value. Future cash flow estimates for an impairment review would be based on the lowest level of identifiable cash flows, which are the Company’s U.S. and Mexican operations. Other than the abnormal impairments related to the implementation of PSR, management did not identify any indicators of impairment for the years ended December 31, 2019 and 2018. 
+
+ 39
+Income Taxes
+
+Deferred income taxes represent a net asset or liability of the Company. For financial reporting purposes, management determines the current tax liability, as well as deferred tax assets and liabilities, in accordance with the asset and liability method of accounting for income taxes. The provision for income taxes is the sum of income taxes both currently payable and deferred into the future. Currently payable income taxes represent the liability related to the Company’s U.S., state and foreign income tax returns for the current year and anticipated tax payments resulting from income tax audits, while the net deferred tax expense or benefit represents the change in the balance of net deferred tax assets or liabilities as reported on the balance sheet. The changes in deferred tax assets and liabilities are determined based upon the estimated timing of reversal of differences between the carrying amount of assets and liabilities for financial reporting purposes and the basis of assets and liabilities for tax purposes as measured using the currently enacted tax rates that will be in effect at the time these differences are expected to reverse. Additionally, management estimates whether taxable operating income in future periods will be sufficient to fully recognize any deferred tax assets. Valuation allowances are recorded as appropriate to reduce deferred tax assets to the amount considered likely to be realized.
+
+Income tax expense related to Mexican operations has additional complexities such as the impact of exchange rate variations, which can have a significant impact on the effective income tax rate.
+
+Management believes that the assumptions and estimates related to the provision for income taxes are critical to the Company’s results of operations. For the year ended December 31, 2019, income tax expense totaled $247.6 million. For every 1% change in the 2019 effective rate, income tax expense would have changed by approximately $7.9 million. For further information on the impact of foreign exchange fluctuation on income taxes, refer to Item 7A, Quantitative and Qualitative Disclosures About Market Risk — Foreign Exchange Sensitivity.
+
+OTHER MATTERS
+
+Litigation. Occasionally, the Company is a party to various legal proceedings, regulatory examinations, investigations, administrative actions, and other legal matters, arising for the most part in the ordinary course of business, incidental to its operations. Included in these proceedings are various tort claims brought by current and former employees for job-related injuries and by third parties for injuries related to railroad operations. KCS aggressively defends these matters and has established liability provisions that management believes are adequate to cover expected costs. The outcome of litigation and other legal matters is always uncertain. KCS believes it has valid defenses to the legal matters currently pending against it, is defending itself vigorously, and has recorded accruals determined in accordance with U.S. GAAP, where appropriate. In making a determination regarding accruals, using available information, KCS evaluates the likelihood of an unfavorable outcome in legal or regulatory proceedings to which it is a party to and records a loss contingency when it is probable a liability has been incurred and the amount of the loss can be reasonably estimated. These subjective determinations are based on the status of such legal or regulatory proceedings, the merits of KCS’s defenses and consultation with legal counsel. Actual outcomes of these legal and regulatory proceedings may materially differ from the current estimates. It is possible that resolution of one or more of the legal matters currently pending or threatened could result in losses material to KCS’s consolidated results of operations, liquidity or financial condition.
+
+Although it is not possible to predict the outcome of any legal proceeding, in the opinion of the Company’s management, other than as described in Note 18, Commitments and Contingencies of the consolidated financial statements, such proceedings and actions should not, individually or in the aggregate, have a material adverse effect on the Company’s consolidated financial statements. 
+
+Inflation. U.S. generally accepted accounting principles require the use of historical cost, which does not reflect the effects of inflation on the replacement cost of property. Due to the capital intensive nature of KCS’s business, the replacement cost of these assets would be significantly higher than the amounts reported under the historical cost basis.
+
+Recent Accounting Pronouncements. Refer to Note 2, Significant Accounting Policies of the consolidated financial statements for information relative to recent accounting pronouncements.
+
+ 40
+Regulatory Updates 
+
+USMCA. On January 16, 2020, the U.S. Senate approved the “USMCA Implementation Act” that had been approved by the U.S. House of Representatives on December 19, 2019. This legislation will now be sent to President Trump for signature. The agreement will not go into full effect until Canada gives its approval. Mexico passed the revised deal in December 2019. 
+
+North American trade is important to the Company and its business. The Company believes completion of the USMCA approval process and implementation of the agreement should create more certainty about such trade going forward, improving the cross-border environment in which the Company operates.
+
+U.S. Tariff Imposition on Imports. The administration of U.S. President Donald J. Trump has implemented new U.S. tariffs that could impact global commerce. U.S. trading partners have responded by announcing retaliatory tariffs on some U.S. exports. At this time, the Company cannot determine the impacts these tariffs will have on the Company’s consolidated financial statements. 
+
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk

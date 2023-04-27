@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001413329",
+    "sec_company_name": "Philip Morris International Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190220",
+    "sec_filing_date": "20190220",
+    "sec_changed_date": "20190220",
+    "sec_accepted_date": "20190220134916",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1413329/000141332919000020/0001413329-19-000020-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1413329/000141332919000020/0001413329-19-000020.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\PM_0001413329_EX991_20190220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "21079 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8220,
+    "endpoints": [
+        "Exhibit   ",
+        "Philip Morris International (PMI) is leading a transformation in the tobacco industry to create a smoke-free future and ultimately replace cigarettes with smoke-free products to the benefit of adults who would otherwise continue to smoke, society, the company and its shareholders. PMI is a leading international tobacco company engaged in the manufacture and sale of cigarettes, smoke-free products and associated electronic devices and accessories, and other nicotine-containing products in markets outside the U.S. PMI is building a future on a new category of smoke-free products that, while not risk-free, are a much better choice than continuing to smoke. Through multidisciplinary capabilities in product development, state-of-the-art facilities and scientific substantiation, PMI aims to ensure that its smoke-free products meet adult consumer preferences and rigorous regulatory requirements. PMI's smoke-free IQOS product portfolio includes heated tobacco and nicotine-containing vapor products. As of December 31, 2018, PMI estimates that approximately 6.6 million adult smokers around the world have already stopped smoking and switched to PMI’s heated tobacco product, which is currently available for sale in 44 markets in key cities or nationwide under the IQOS brand. For more information, please visit www.pmi.com and www.pmiscience.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\PM_0001413329_EX991_20190220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:57:52.355397"
+}

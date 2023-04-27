@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000927653",
+    "sec_company_name": "MCKESSON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160127",
+    "sec_filing_date": "20160127",
+    "sec_changed_date": "20160127",
+    "sec_accepted_date": "20160127161659",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312516439841/0001193125-16-439841-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312516439841/0001193125-16-439841.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\MCK_0000927653_EX991_20160127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "545330 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25822,
+    "endpoints": [
+        "EX-99.1   ",
+        " ** McKesson Corporation’s full year guidance exchange rate as communicated on May 12, 2015, July 29, 2015, October 29, 2015 and January 27, 2016."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MCK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\MCK_0000927653_EX991_20160127_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:57:20.635439"
+}

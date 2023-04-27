@@ -1,0 +1,27 @@
+Item 7A. Quantitative and qualitative disclosure about market risk
+
+Interest rate risk
+
+The Company is exposed to interest rate volatility with regard to existing variable-rate debt instruments and future incurrences of fixed or variable-rate debt, which exposure primarily relates to movements in various interest rates, such as U.S. treasury rates and commercial paper rates. From time to time, the Company uses interest rate swaps and forward-starting interest rate swaps to hedge its exposure to the impact of interest rate changes on existing debt and future debt issuances respectively, to reduce the volatility of financing costs and, based on current and projected market conditions, achieve a desired proportion of fixed-rate versus floating-rate debt. Generally, under these swaps, the Company agrees with a counterparty to exchange the difference between fixed-rate and floating-rate interest amounts based on an agreed upon notional principal amount.
+
+In March 2021, the UK Financial Conduct Authority (the “FCA”), which regulates the London Interbank Offered Rate, or LIBOR, announced that it will cease publication of LIBOR by June 2023.
+
+Certain of our credit facilities provide that, under certain circumstances set forth in such credit facilities, we and the administrative agent may amend the applicable credit facility to replace LIBOR with an alternate benchmark rate, giving due consideration to any evolving or then existing convention for similar syndicated credit facilities in the U.S. market for alternative benchmarks. Such an alternative benchmark rate could include the Secured Overnight Financing Rate (“SOFR”), published by the Federal Reserve Bank of New York. 
+
+Information regarding the Company’s transactions are set forth in Note 9. Financial instruments, to the Consolidated Financial Statements included in Part II, Item 8. These financial instruments are sensitive to changes in interest rates. As of August 31, 2022, the Company had $4.0 billion of debt obligations at floating interest rates. 
+
+Foreign currency exchange rate risk
+
+The Company is exposed to fluctuations in foreign currency exchange rates, primarily with respect to the British pound sterling and certain other foreign currencies, which may affect its net investment in foreign subsidiaries and may cause fluctuations in cash flows related to foreign denominated transactions. The Company is also exposed to the translation of foreign currency earnings to the U.S. dollar. The Company enters into foreign currency forward contracts to hedge against the effect of exchange rate fluctuations on non-functional currency cash flows. These transactions are almost exclusively less than 12 months in maturity. In addition, the Company enters into foreign currency forward contracts that are not designated in hedging relationships to offset, in part, the impacts of certain intercompany activities (primarily associated with intercompany financing transactions). 
+
+The Company’s foreign currency derivative instruments are sensitive to changes in exchange rates. A hypothetical 1% change in foreign currency exchange rates versus the U.S. dollar would change the fair value of the foreign currency derivatives held as of August 31, 2022, by approximately $45 million. The foreign currency derivatives are intended to partially hedge anticipated transactions, foreign currency trade payables and receivables and net investments in foreign subsidiaries.
+
+Equity price risk
+
+Changes in AmerisourceBergen common stock price may have a significant impact on the fair value of the equity investment in AmerisourceBergen described in Note 6. Equity method investments, to the Consolidated Financial Statements included in Part II, Item 8. See Part I. Item 1. Business “Relationship with AmerisourceBergen” for further information.
+
+WBA Fiscal 2022 Form 10-K60
+
+Table of Contents 
+
+Item 8. Financial statements and supplementary data

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001144215",
+    "sec_company_name": "ACUITY BRANDS INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210106",
+    "sec_filing_date": "20210107",
+    "sec_changed_date": "20210107",
+    "sec_accepted_date": "20210107090640",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1144215/000114421521000005/0001144215-21-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1144215/000114421521000005/0001144215-21-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AYI_0001144215_8K_20210106_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "37828 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3794,
+    "endpoints": [
+        "xml version='1.0' ? ayi-20210106",
+        "104Cover Page Interactive Data File (embedded within the inline XBRL document).(Filed with the Commission as part of this Form 8-K)."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AYI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AYI_0001144215_8K_20210106_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:58:07.564825"
+}

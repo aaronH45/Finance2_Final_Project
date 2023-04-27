@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000885725",
+    "sec_company_name": "BOSTON SCIENTIFIC CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190206",
+    "sec_filing_date": "20190206",
+    "sec_changed_date": "20190206",
+    "sec_accepted_date": "20190206063606",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/885725/000088572519000009/0000885725-19-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/885725/000088572519000009/0000885725-19-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\BSX_0000885725_EX991_20190206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "660482 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 19519,
+    "endpoints": [
+        "Exhibit   ",
+        "We believe that presenting adjusted net income and adjusted net income per share, operational net sales and organic net sales, in addition to the corresponding GAAP financial measures, provides investors greater transparency to the information used by management for its operational decision-making and allows investors to see our results “through the eyes” of management. We further believe that providing this information assists our investors in understanding our operating performance and the methodology used by management to evaluate and measure such performance."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BSX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\BSX_0000885725_EX991_20190206_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:55:13.692053"
+}

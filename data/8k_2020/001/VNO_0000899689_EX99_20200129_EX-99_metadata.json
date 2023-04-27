@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000899689",
+    "sec_company_name": "VORNADO REALTY TRUST (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200129",
+    "sec_filing_date": "20200130",
+    "sec_changed_date": "20200129",
+    "sec_accepted_date": "20200129185118",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/899689/000089968920000003/0000899689-20-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/899689/000089968920000003/0000899689-20-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\VNO_0000899689_EX99_20200129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "29401 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3412,
+    "endpoints": [
+        "Document",
+        "Certain statements contained herein may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. For a discussion of factors that could materially affect the outcome of our forward-looking statements and our future results and financial condition, see “Risk Factors” in Part I, Item 1A, of our Annual Report on Form 10-K for the year ended December 31, 2018. Such factors include, among others, risks associated with the timing of and costs associated with property improvements, financing commitments and general competitive factors."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VNO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\VNO_0000899689_EX99_20200129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:34:31.039493"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000036270",
+    "sec_company_name": "M&T BANK CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210121",
+    "sec_filing_date": "20210121",
+    "sec_changed_date": "20210121",
+    "sec_accepted_date": "20210121085203",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/36270/000156459021001691/0001564590-21-001691-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/36270/000156459021001691/0001564590-21-001691.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\MTB_0000036270_8K_20210121_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "37024 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3117,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?          mtb-8k_20210121.htm    ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MTB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\MTB_0000036270_8K_20210121_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:55:57.473323"
+}

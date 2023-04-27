@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000070858",
+    "sec_company_name": "BANK OF AMERICA CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220119",
+    "sec_filing_date": "20220119",
+    "sec_changed_date": "20220119",
+    "sec_accepted_date": "20220119064702",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/70858/000007085822000009/0000070858-22-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/70858/000007085822000009/0000070858-22-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\BAC_0000070858_EX991_20220119_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "70704 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 62018,
+    "endpoints": [
+        "bac-12312021ex991   ",
+        "Current-period information is preliminary and based on company data available at the time of the presentation. 19 The Corporation evaluates its business based on the following ratios that utilize tangible equity, a non-GAAP financial measure. Tangible equity represents shareholders’ equity or common shareholders’ equity reduced by goodwill and intangible assets (excluding mortgage servicing rights), net of related deferred tax liabilities ('adjusted' shareholders' equity or common shareholders' equity). Return on average tangible common shareholders’ equity measures the Corporation’s net income applicable to common shareholders as a percentage of adjusted average common shareholders’ equity. The tangible common equity ratio represents adjusted ending common shareholders’ equity divided by total tangible assets (total assets less goodwill and intangible assets (excluding mortgage servicing rights), net of related deferred tax liabilities). Return on average tangible shareholders’ equity measures the Corporation’s net income as a percentage of adjusted average total shareholders’ equity. The tangible equity ratio represents adjusted ending shareholders’ equity divided by total tangible assets. Tangible book value per common share represents adjusted ending common shareholders’ equity divided by ending common shares outstanding. These measures are used to evaluate the Corporation’s use of equity. In addition, profitability, relationship and investment models all use return on average tangible shareholders’ equity as key measures to support our overall growth goals. See the tables below for reconciliations of these non-GAAP financial measures to the most closely related financial measures defined by GAAP for the years ended December 31, 2021 and 2020, and the three months ended December 31, 2021, September 30, 2021 and December 31, 2020. The Corporation believes the use of these non-GAAP financial measures provides additional clarity in understanding its results of operations and trends. Other companies may define or calculate supplemental financial data differently. Bank of America Corporation and Subsidiaries Reconciliations to GAAP Financial Measures (Dollars in millions, except per share information) Year Ended December 31 Fourth Quarter 2021 Third Quarter 2021 Fourth Quarter 2020 2021 2020 Reconciliation of income before income taxes to pretax, pre-provision income Income before income taxes $ 33,976 $ 18,995 $ 7,818 $ 8,950 $ 6,119 Provision for credit losses (4,594) 11,320 (489) (624) 53 Pretax, pre-provision income $ 29,382 $ 30,315 $ 7,329 $ 8,326 $ 6,172 Reconciliation of average shareholders’ equity to average tangible shareholders’ equity and average tangible common shareholders’ equity Shareholders’ equity $ 273,757 $ 267,309 $ 270,883 $ 275,484 $ 271,020 Goodwill (69,005) (68,951) (69,022) (69,023) (68,951) Intangible assets (excluding mortgage servicing rights) (2,177) (1,862) (2,166) (2,185) (2,173) Related deferred tax liabilities 916 821 913 915 910 Tangible shareholders’ equity $ 203,491 $ 197,317 $ 200,608 $ 205,191 $ 200,806 Preferred stock (23,970) (23,624) (24,364) (23,441) (24,180) Tangible common shareholders’ equity $ 179,521 $ 173,693 $ 176,244 $ 181,750 $ 176,626 Reconciliation of period-end shareholders’ equity to period-end tangible shareholders’ equity and period-end tangible common shareholders’ equity Shareholders’ equity $ 270,066 $ 272,924 $ 270,066 $ 272,464 $ 272,924 Goodwill (69,022) (68,951) (69,022) (69,023) (68,951) Intangible assets (excluding mortgage servicing rights) (2,153) (2,151) (2,153) (2,172) (2,151) Related deferred tax liabilities 929 920 929 913 920 Tangible shareholders’ equity $ 199,820 $ 202,742 $ 199,820 $ 202,182 $ 202,742 Preferred stock (24,708) (24,510) (24,708) (23,441) (24,510) Tangible common shareholders’ equity $ 175,112 $ 178,232 $ 175,112 $ 178,741 $ 178,232 Reconciliation of period-end assets to period-end tangible assets Assets $ 3,169,948 $ 2,819,627 $ 3,169,948 $ 3,085,446 $ 2,819,627 Goodwill (69,022) (68,951) (69,022) (69,023) (68,951) Intangible assets (excluding mortgage servicing rights) (2,153) (2,151) (2,153) (2,172) (2,151) Related deferred tax liabilities 929 920 929 913 920 Tangible assets $ 3,099,702 $ 2,749,445 $ 3,099,702 $ 3,015,164 $ 2,749,445 Book value per share of common stock Common shareholders’ equity $ 245,358 $ 248,414 $ 245,358 $ 249,023 $ 248,414 Ending common shares issued and outstanding 8,077.8 8,650.8 8,077.8 8,241.2 8,650.8 Book value per share of common stock $ 30.37 $ 28.72 $ 30.37 $ 30.22 $ 28.72 Tangible book value per share of common stock Tangible common shareholders’ equity $ 175,112 $ 178,232 $ 175,112 $ 178,741 $ 178,232 Ending common shares issued and outstanding 8,077.8 8,650.8 8,077.8 8,241.2 8,650.8 Tangible book value per share of common stock $ 21.68 $ 20.60 $ 21.68 $ 21.69 $ 20.60 Certain prior-period amounts have been reclassified to conform to current-period presentation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BAC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\BAC_0000070858_EX991_20220119_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:07.538412"
+}

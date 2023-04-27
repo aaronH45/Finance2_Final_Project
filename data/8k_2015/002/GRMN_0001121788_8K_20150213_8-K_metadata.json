@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001121788",
+    "sec_company_name": "GARMIN LTD (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150213",
+    "sec_filing_date": "20150217",
+    "sec_changed_date": "20150217",
+    "sec_accepted_date": "20150217063953",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1121788/000114420415009349/0001144204-15-009349-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1121788/000114420415009349/0001144204-15-009349.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\GRMN_0001121788_8K_20150213_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "26773 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5797,
+    "endpoints": [
+        "UNITED STATES ",
+        "5"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GRMN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\GRMN_0001121788_8K_20150213_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:20:38.320875"
+}

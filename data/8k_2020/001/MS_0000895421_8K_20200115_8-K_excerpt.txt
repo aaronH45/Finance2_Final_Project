@@ -1,0 +1,77 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000895421 false 12/31        0000895421   2020-01-15 2020-01-15     0000895421  us-gaap:CommonClassAMember    2020-01-15 2020-01-15     0000895421  us-gaap:SeriesAPreferredStockMember    2020-01-15 2020-01-15     0000895421  us-gaap:SeriesEPreferredStockMember    2020-01-15 2020-01-15     0000895421  us-gaap:SeriesFPreferredStockMember    2020-01-15 2020-01-15     0000895421  MS:MSSeriesIPreferredStockMember    2020-01-15 2020-01-15     0000895421  MS:MSSeriesKPreferredStockMember    2020-01-15 2020-01-15     0000895421  MS:MSSeriesLPreferredStockMember    2020-01-15 2020-01-15     0000895421  MS:MSGlobalMediumTermNotesSeriesAFixedRateStepUpSeniorNotesDue2026ofMorganStanleyFinanceLLCMember    2020-01-15 2020-01-15     0000895421  MS:MSMarketVectorsETNsdueMarch312020Member    2020-01-15 2020-01-15     0000895421  MS:MarketVectorsEtnsDueMarch312020TwoIssuancesMember    2020-01-15 2020-01-15     0000895421  MS:MSMarketVectorsETNsdueApril302020Member    2020-01-15 2020-01-15     0000895421  MS:MSMorganStanleyCushingMLPHighIncomeIndexETNsdueMarch212031Member    2020-01-15 2020-01-15    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, D.C. 20549 
+
+_________ 
+
+FORM 8-K 
+
+CURRENT REPORT  
+
+Pursuant To Section 13 or 15(d) of  
+
+the Securities Exchange Act of 1934 
+
+Date of report (Date of earliest event reported): January 15, 2020 
+
+ MORGAN STANLEY 
+
+(Exact Name of Registrant 
+
+as Specified in Charter)  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (212) 761-4000 
+
+ Not Applicable 
+
+ (Former Name or Former Address, if Changed Since Last Report)  
+
+____________ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+   o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+   o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+   o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+   o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+
+On January 15, 2020, Morgan Stanley (the “Registrant”) filed a Certificate of Elimination with the Secretary of State of the State of Delaware to eliminate its 6.625% Non-Cumulative Preferred Stock, Series G (the “Series G Preferred Stock”), which was redeemed by the Registrant on January 15, 2020. The Certificate of Elimination (a) eliminated the previous designation of 20,000 shares of Series G Preferred Stock, none of which were outstanding at the time of filing, (b) upon such elimination, caused such shares of Series G Preferred Stock to resume their status as undesignated shares of preferred stock of the Registrant, and (c) eliminated from the Amended and Restated Certificate of Incorporation of the Registrant all references to the Series G Preferred Stock. A copy of the Certificate of Elimination is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+ Item 9.01    Financial Statements and Exhibits. 
+
+ (d)    Exhibits  
+
+     The following exhibits are filed as part of this Report on Form 8-K:   
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

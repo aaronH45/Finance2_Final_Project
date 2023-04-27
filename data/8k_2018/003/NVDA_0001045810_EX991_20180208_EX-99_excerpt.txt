@@ -1,0 +1,143 @@
+Exhibit   
+
+FOR IMMEDIATE RELEASE:
+
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2018
+
+•Record quarterly revenue of $2.91 billion, up 34 percent from a year ago
+
+•Record full-year revenue of $9.71 billion, up 41 percent from a year ago
+
+•Record quarterly GAAP gross margin of 61.9 percent, non-GAAP gross margin of 62.1 percent
+
+•Record full-year GAAP EPS of $4.82, up 88 percent from a year ago 
+
+SANTA CLARA, Calif.-Feb. 8, 2018-NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 28, 2018, of $2.91 billion, up 34 percent from $2.17 billion a year earlier, and up 10 percent from $2.64 billion in the previous quarter.
+
+GAAP earnings per diluted share for the quarter were a record $1.78, up 80 percent from $0.99 a year ago and up 34 percent from $1.33 in the previous quarter. Non-GAAP earnings per diluted share were $1.72, also a record, up 52 percent from $1.13 a year earlier and up 29 percent from $1.33 in the previous quarter. 
+
+For fiscal 2018, revenue was a record $9.71 billion, up 41 percent from $6.91 billion a year earlier. GAAP earnings per diluted share were a record $4.82, up 88 percent from $2.57 a year earlier. Non-GAAP earnings per diluted share were $4.92, also a record, up 61 percent from $3.06 a year earlier. 
+
+“We achieved another record quarter, capping an excellent year,” said Jensen Huang, founder and chief executive officer of NVIDIA. “In a powerful sign of our progress, attendees at NVIDIA’s GPU Technology Conferences reached 22,000, up tenfold in five years, as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platform.
+
+“Industries around the world are racing to incorporate AI. Virtually every internet and cloud service provider has embraced our Volta GPUs. Hundreds of transportation companies are using our NVIDIA DRIVE platform. From manufacturing and healthcare to smart cities, innovators are using our platform to invent the future,” he said.
+
+Capital Return
+
+During fiscal 2018, NVIDIA returned $1.25 billion to shareholders through a combination of $909 million in share repurchases and $341 million in quarterly cash dividends. 
+
+For fiscal 2019, NVIDIA intends to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
+
+NVIDIA will pay its next quarterly cash dividend of $0.15 per share on March 16, 2018, to all shareholders of record on February 23, 2018.
+
+Q4 Fiscal 2018 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2018 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+NVIDIA’s outlook for the first quarter of fiscal 2019 is as follows:
+
+•Revenue is expected to be $2.90 billion, plus or minus two percent.
+
+•GAAP and non-GAAP gross margins are expected to be 62.7 percent and 63.0 percent, respectively, plus or minus 50 basis points. 
+
+•GAAP and non-GAAP operating expenses are expected to be approximately $770 million and $645 million, respectively. 
+
+•GAAP and non-GAAP other income and expense are both expected to be nominal. 
+
+•GAAP and non-GAAP tax rates are both expected to be 12 percent, plus or minus one percent, excluding any discrete items. GAAP discrete items include excess tax benefits or deficiencies related to stock-based compensation, which the company expects to generate variability on a quarter by quarter basis.
+
+Fourth Quarter Fiscal 2018 Highlights
+
+During the fourth quarter, NVIDIA achieved progress in these areas: 
+
+Datacenter
+
+•Announced that NVIDIA Tesla® V100 GPU accelerators are now available through every major computer maker and have been chosen by every major cloud to deliver AI and high performance computing.
+
+•Added a record 34 GPU-accelerated systems to the Top500 supercomputer list, bringing the company’s total to 87.
+
+•Announced partnerships to further AI in key vertical industries, including initiatives with GE Health and Nuance in medical imaging; Baker Hughes, a GE company, in oil and gas; and Japan’s Komatsu in construction and mining.
+
+•Expanded the NVIDIA® GPU Cloud container registry to support scientists using HPC applications, and AI researchers using desktop GPUs.
+
+Gaming
+
+•Announced gaming laptops using the Max-Q design, which are 3x faster and 3x thinner than previous-generation gaming laptops.
+
+•Introduced BFGDs™, big format gaming displays, providing ultra-low latency PC gaming and integrated streaming on a high-end 65-inch display using NVIDIA G-SYNC™ technology with NVIDIA SHIELD™. [DATA_TABLE_REMOVED]
+
+•Increased its GeForce GPU share among gamers on the Steam online gaming platform to 86 percent.[DATA_TABLE_REMOVED]
+
+Automotive
+
+•Announced and demonstrated NVIDIA DRIVE™ Xavier™, the world’s first autonomous machine processor, with customer availability in the first quarter.
+
+•Announced NVIDIA DRIVE, the world’s first functionally safe AI self-driving platform, plus a suite of tools to test and validate neural networks by simulating all kind of driving conditions.
+
+•Unveiled partnerships with Uber and Aurora to develop self-driving cars using the open NVIDIA DRIVE AI self-driving platform. 
+
+•Partnered with ZF and Baidu to create the first production AI autonomous vehicle platform for the China market, with Chery as the first customer.
+
+•Partnered with Volkswagen to integrate AI into future VW vehicles using the NVIDIA DRIVE IX intelligent experience platform and create AI cockpits with enhanced convenience and safety features. 
+
+•Announced NVIDIA is powering the Mercedes-Benz MBUX in-car AI smart cockpit system, going into production next month with the new A-Class.
+
+•Announced NVIDIA is partnering with Continental to build AI self-driving vehicle systems, from enhanced Level 2 to Level 5, for production in 2021.
+
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at http://investor.nvidia.com/. 
+
+Conference Call and Webcast Information 
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2018 financial results and current financial prospects today at 2 p.m. Pacific time (5 p.m. Eastern time). To listen to the conference call, dial (877) 223-3864 in the United States or (574) 990-1377 internationally, and provide the following conference ID: 6265639. A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, http://investor.nvidia.com, and at www.streetevents.com. The webcast will be recorded and available for replay until NVIDIA’s conference call to discuss its financial results for its first quarter of fiscal 2019.
+
+Non-GAAP Measures 
+
+To supplement NVIDIA’s Condensed Consolidated Statements of Income and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), non-GAAP income tax expense, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, non-GAAP diluted shares, and free cash flow. In order for NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation expense, legal settlement costs, acquisition-related costs, contributions, restructuring and other charges, gains from non-affiliated investments, interest expense related to amortization of debt discount, debt-related costs, the associated tax impact of these items, where applicable, and the provisional tax benefit from income tax reform. Weighted average shares used in the non-GAAP diluted net income per share computation includes the anti-dilution impact of the company’s Note Hedge. Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and its non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+Keep Current on NVIDIA
+
+Subscribe to the NVIDIA blog, follow us on Facebook, Google+, Twitter, LinkedIn and Instagram, and view NVIDIA videos on YouTube and images on Flickr.
+
+About NVIDIA
+
+NVIDIA’s (NASDAQ: NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI - the next era of computing - with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at http://nvidianews.nvidia.com/. 
+
+###
+
+For further information, contact:
+
+[DATA_TABLE_REMOVED]
+
+Certain statements in this press release including, but not limited to statements as to: software developers working in AI, self-driving cars and other fields discovering the benefits of NVIDIA’s GPU computing platform; industries racing to incorporate AI; internet and cloud service providers embracing our Volta GPUs; the use of the NVIDIA DRIVE platform by transportation companies; the use of our platform in a variety of fields to invent the future; NVIDIA’s intended capital return for fiscal 2019; NVIDIA’s next quarterly cash dividend; NVIDIA’s financial outlook for the first quarter of fiscal 2019; NVIDIA’s tax rates for the first quarter of fiscal year 2019; the impact and benefits of NVIDIA Tesla V100 GPU accelerators, the expansion of the NVIDIA GPU Cloud container registry, the GeForce Experience and its new tools, NVIDIA DRIVE, partnerships with GE Health, Nuance, Baker Hughes, Komatsu, Uber, Aurora, ZF, Baidu, Volkswagen and Continental; the abilities, benefits and performance of laptops using the Max-Q design and BFGDs; the availability of NVIDIA DRIVE Xavier; and Mercedes-Benz MBUX use of NVIDIA technology and its production schedule are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 29, 2017. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. 
+
+© 2018 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, Tesla, BFGD, GeForce Experience, GeForce NOW, NVIDIA Ansel, NVIDIA DRIVE, NVIDIA G-SYNC, NVIDIA Shadow Play, NVIDIA SHIELD and Xavier are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. MaxQ® is the registered trademark of Maxim Integrated Products, Inc. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. 
+
+NVIDIA CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

@@ -1,0 +1,81 @@
+xml version="1.0" ? etr-20210111
+
+falseUS0000065984CHX00000659842021-01-112021-01-110000065984exch:XNYS2021-01-112021-01-110000065984exch:XCHI2021-01-112021-01-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+[DATA_TABLE_REMOVED]
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐ 
+
+Item 8.01 Other Events.
+
+On January 11, 2021, Entergy Corporation (the “Company”) entered into an Equity Distribution Sales Agreement (“Sales Agreement”) with BofA Securities, Inc., Citigroup Global Markets Inc., J.P. Morgan Securities LLC, Mizuho Securities USA LLC and Wells Fargo Securities, LLC, as sales agents and as forward sellers (in such capacities as applicable, the “Agents” and the “Forward Sellers”), and Bank of America, N.A., Citibank, N.A., JPMorgan Chase Bank, National Association, New York Branch, Mizuho Markets Americas LLC (with Mizuho Securities USA LLC acting as agent) and Wells Fargo Bank, National Association, as forward purchasers (the “Forward Purchasers”), establishing an at the market equity distribution program, pursuant to which the Company, through the Agents, may offer and sell from time to time shares of the Company’s common stock, par value $0.01 per share (the “Common Stock”) having an aggregate gross sales price of up to $1,000,000,000. The Company has no obligation to offer or sell any Common Stock under the Sales Agreement and may at any time suspend offers under the Sales Agreement.
+
+The Sales Agreement provides that, in addition to the issuance and sale of shares of Common Stock by the Company to or through the Agents, the Company may enter into forward sale agreements under the master forward confirmations executed by and between the Company and each of the Forward Purchasers on January 11, 2021, a form of which is attached to the Sales Agreement as Exhibit C thereto (each, a “Master Forward Confirmation”), and related supplemental confirmations to be entered into between the Company and the relevant Forward Purchaser pursuant thereto (collectively, the “Forward Sale Agreement”). In connection with any Forward Sale Agreement, the relevant Forward Purchaser will borrow from third parties and, through its affiliated Forward Seller, offer a number of shares of Common Stock equal to the number of shares of Common Stock underlying the particular Forward Sale Agreement. 
+
+In no event will the aggregate number of shares of Common Stock sold through the Agents or the Forward Sellers under the Sales Agreement and under any Forward Sale Agreement have an aggregate gross sales price in excess of $1,000,000,000.
+
+The forward sale price per share under each Forward Sale Agreement will initially equal the product of (1) an amount equal to one minus the applicable forward selling commission and (2) the volume-weighted average price per share at which the borrowed shares of Common Stock were sold pursuant to the Sales Agreement by the relevant Forward Seller. Thereafter, the forward sale price will be subject to adjustment as described in the Forward Sale Agreement. The Forward Sale Agreements will provide that the forward sale price, as well as the sales prices used to calculate the initial forward sale price, will be subject to increase or decrease based on a floating interest rate factor equal to the overnight bank funding rate, less a spread, and subject to decrease by amounts related to expected dividends on the Common Stock during the term of the particular Forward Sale Agreement. If the overnight bank funding rate is less than the spread for the particular Forward Sale Agreement on any day, the interest factor will result in a daily reduction of the forward sale price.
+
+ The Company will not initially receive any proceeds from the sale of borrowed shares of Common Stock by a Forward Seller; however, the Company will receive proceeds upon future physical settlement of the relevant Forward Sale Agreement on dates specified by the Company on or prior to the maturity date of the relevant Forward Sale Agreement. If the Company elects to physically settle any Forward Sale Agreement by issuing and delivering shares of Common Stock, it will receive an amount of cash from the relevant Forward Purchaser equal to the product of the forward sale price per share under such Forward Sale Agreement and the number of shares of Common Stock underlying such Forward Sale Agreement subject to physical settlement.
+
+ Although the Company expects to settle any Forward Sale Agreement with a full physical settlement, it may, except in limited circumstances, elect a cash or net share settlement for all or a portion its obligations under such Forward Sale Agreement. If the Company elects to cash settle or net share settle a Forward Sale Agreement, the Company may not (in the case of cash settlement) or will not (in the case of net share settlement) receive any proceeds, and the Company may owe cash (in the case of cash settlement) or shares of Common Stock (in the case of net share settlement) to the relevant Forward Purchaser. 
+
+Sales of shares of Common Stock under the at the market equity distribution program, if any, may be made (i) by any method or payment permitted by law to be an “at the market offering” as defined in Rule 415 under the Securities Act of 1933, as amended, including sales made directly on or through the New York Stock Exchange, or on another market for the Common Stock, or sales made to or through a market maker other than on an exchange or through an electronic communications network or (ii) in privately negotiated transactions (if, and only if, the Company, the Agents and any related Forward Seller and Forward Purchaser have so agreed in writing). Any shares of Common Stock offered under the at the market equity distribution program will be offered pursuant to the Company’s Registration Statement on Form S-3 (No. 333-233403) (the “Registration Statement”), which became effective upon filing.
+
+ The foregoing descriptions of the Sales Agreement and the Master Forward Confirmations do not purport to be complete and are qualified in their entirety by reference to (i) the Sales Agreement, which is filed as Exhibit 1.01 hereto, including the form of Master Forward Confirmation attached as Exhibit C thereto, and (ii) the separate Master Forward Confirmations, which are filed as Exhibits 99.01 – 99.05 hereto. 
+
+ In connection with the issuance and sale of the shares of Common Stock, the Company is also filing a legal opinion regarding the validity of the shares of Common Stock as Exhibit 5.01 for the purpose of incorporating the opinion into the Registration Statement.  
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+[DATA_TABLE_REMOVED]
+
+99.01Master Forward Confirmation, dated January 11, 2021, between the Company and Bank of America, N.A.
+
+99.02Master Forward Confirmation, dated January 11, 2021, between the Company and Citigroup Global Markets Inc.
+
+99.03Master Forward Confirmation, dated January 11, 2021, between the Company and JPMorgan Chase Bank, National Association, New York Branch.
+
+99.04Master Forward Confirmation, dated January 11, 2021, between the Company and Mizuho Markets Americas LLC (with Mizuho Securities USA LLC acting as agent).
+
+99.05Master Forward Confirmation, dated January 11, 2021, between the Company and Wells Fargo Bank, National Association.
+
+104Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000352541",
+    "sec_company_name": "ALLIANT ENERGY CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180115",
+    "sec_filing_date": "20180118",
+    "sec_changed_date": "20180117",
+    "sec_accepted_date": "20180117214025",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/352541/000035254118000009/0000352541-18-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/352541/000035254118000009/0000352541-18-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\LNT_0000352541_EX991_20180115_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9502 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2264,
+    "endpoints": [
+        "Exhibit   ",
+        "Alliant Energy Corporation (NYSE: LNT), headquartered in Madison, Wis., provides regulated electric and natural gas service to 960,000 electric and 410,000 natural gas customers across Iowa and Wisconsin. Alliant Energy’s mission is to deliver the energy solutions and exceptional service customers and communities count on - safely, efficiently and responsibly. Interstate Power and Light Company and Wisconsin Power and Light Company are Alliant Energy’s two public utility subsidiaries. Alliant Energy Corporation is a component of the S&P 500. For more information, visit alliantenergy.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LNT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\LNT_0000352541_EX991_20180115_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:21.511251"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000320335",
+    "sec_company_name": "GLOBE LIFE INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200204",
+    "sec_filing_date": "20200204",
+    "sec_changed_date": "20200204",
+    "sec_accepted_date": "20200204170701",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/320335/000032033520000003/0000320335-20-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/320335/000032033520000003/0000320335-20-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\TMK_0000320335_8K_20200204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "45282 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3164,
+    "endpoints": [
+        "xml version='1.0' ? gl-20200204",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TMK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\TMK_0000320335_8K_20200204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:35:08.757904"
+}

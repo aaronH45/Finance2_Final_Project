@@ -1,0 +1,60 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company has exposure to different types of market risk including changes in foreign currency exchange rates, interest rates, stock prices and credit.
+
+When deemed appropriate, the Company uses derivative financial instruments such as cross-currency interest rate swaps, interest rate swaps and foreign exchange contracts to hedge certain risk exposures. The primary market risks managed by the Company through the use of derivative instruments include:
+
+•foreign currency exchange rate risk: arising primarily through Foxtel Debt Group borrowings denominated in U.S. dollars, payments for customer premise equipment and certain programming rights; and
+
+•interest rate risk: arising from fixed and floating rate Foxtel Debt Group and News Corporation borrowings. The Company neither holds nor issues financial instruments for trading purposes.
+
+The following sections provide quantitative information on the Company’s exposure to foreign currency exchange rate risk, interest rate risk and other relevant market risks. The Company makes use of sensitivity analyses that are inherently limited in estimating actual losses in fair value that can occur from changes in market conditions.
+
+Foreign Currency Exchange Rate Risk
+
+The Company conducts operations in three principal currencies: the U.S. dollar; the Australian dollar; and the British pound sterling. These currencies operate primarily as the functional currency for the Company’s U.S., Australian and U.K. operations, respectively. Cash is managed centrally within each of the three regions with net earnings generally reinvested locally and working capital requirements met from existing liquid funds. To the extent such funds are not sufficient to meet working capital 
+
+58
+requirements, funding in the appropriate local currencies is made available from intercompany capital. The Company does not hedge its investments in the net assets of its Australian and U.K. operations.
+
+Because of fluctuations in exchange rates, the Company is subject to currency translation risk on the results of its operations. Foreign currency translation risk is the risk that exchange rate gains or losses arise from translating foreign entities’ statements of earnings and balance sheets from their functional currency to the Company’s reporting currency (the U.S. dollar) for consolidation purposes. The Company does not hedge translation risk because it generally generates positive cash flows from its international operations that are typically reinvested locally. Exchange rates with the most significant impact to translation include the Australian dollar and British pound sterling. As exchange rates fluctuate, translation of its Statements of Operations into U.S. dollars affects the comparability of revenues and expenses between years.
+
+The table below details the percentage of revenues and expenses by the three principal currencies for the fiscal years ended June 30, 2022 and 2021:
+
+[DATA_TABLE_REMOVED]
+
+Based on the fiscal year ended June 30, 2022, a one cent change in each of the U.S. dollar/Australian dollar and the U.S. dollar/British pound sterling exchange rates would have impacted revenues by approximately $59 million and $11 million, respectively, for each currency on an annual basis, and would have impacted Total Segment EBITDA by approximately $13 million and $1 million, respectively, on an annual basis.
+
+Derivatives and Hedging
+
+During the fiscal year ended June 30, 2022, the Company entered into an interest rate swap derivative with a $500 million notional amount to exchange the floating rate interest component of its Term A Loans for a fixed rate of 2.083%. This interest rate swap derivative is accounted for as a cash flow hedge under ASC 815, “Derivatives and Hedging” (“ASC 815”).
+
+As of June 30, 2022, the Foxtel Group operating subsidiaries, whose functional currency is Australian dollars, had approximately $345 million aggregate principal amount of outstanding indebtedness denominated in U.S. dollars. The remaining borrowings are denominated in Australian dollars. The Foxtel Group utilizes cross-currency interest rate swaps to hedge a portion of the exchange rate risk related to interest and principal payments on its U.S. dollar denominated debt. A portion of the swaps are designated as fair value hedges, while the remaining swaps are accounted for as cash flow derivatives under ASC 815. As of June 30, 2022, the total notional value of these cross-currency interest rate swaps was $350 million with approximately $280 million accounted for as cash flow derivatives and $70 million designated as fair value hedges. Foxtel also has a portfolio of foreign exchange contracts to hedge a portion of the exchange rate risk related to U.S. dollar payments for customer premise equipment and certain programming rights. The notional value of these foreign exchange contracts was $21 million as of June 30, 2022.
+
+Some of the derivative instruments in place may create volatility during the fiscal year as they are marked-to-market according to accounting rules which may result in revaluation gains or losses in different periods from when the currency impacts on the underlying transactions are realized.
+
+The table below provides further details of the sensitivity of the Company’s derivative financial instruments which are subject to foreign exchange rate risk and interest rate risk as of June 30, 2022 (in millions):
+
+59
+[DATA_TABLE_REMOVED]
+
+Any resulting changes in the fair value of the derivative financial instruments may be partially offset by changes in the fair value of certain balance sheet positions (primarily U.S. dollar denominated liabilities) impacted by the change in the foreign exchange rates. The ability to reduce the impact of currency fluctuations on earnings depends on the magnitude of the derivatives compared to the balance sheet positions during each reporting cycle.
+
+Interest Rate Risk
+
+The Company’s current financing arrangements and facilities include $2,063 million of outstanding fixed-rate debt and $939 million of outstanding variable-rate bank facilities, before adjustments for unamortized discount and debt issuance costs (See Note 9—Borrowings in the accompanying Consolidated Financial Statements). Fixed and variable-rate debts are impacted differently by changes in interest rates. A change in the market interest rate or yield of fixed-rate debt will only impact the fair market value of such debt, while a change in the market interest rate of variable-rate debt will impact interest expense, as well as the amount of cash required to service such debt. In connection with these borrowings, News Corporation has entered into an interest rate swap cash flow hedge to fix the floating rate interest component of its Term A Loans and the Foxtel Group has utilized certain derivative instruments to swap U.S. dollar denominated fixed rate interest payments for Australian dollar denominated variable rate payments. As discussed above, the Foxtel Group utilizes cross-currency interest rate swaps to hedge a portion of the interest rate risk related to interest and principal payments on its U.S. dollar denominated debt. The Foxtel Group has also utilized certain derivative instruments to swap Australian dollar denominated variable interest rate payments for Australian dollar denominated fixed rate payments. As of June 30, 2022, the notional amount of interest rate swap contracts outstanding was approximately A$350 million and $500 million for Foxtel Group and News Corporation borrowings, respectively. Refer to the table above for further details of the sensitivity of the Company’s financial instruments which are subject to interest rate risk. Refer to Note 11—Financial Instruments and Fair Value Measurements for further detail.
+
+Stock Prices
+
+The Company has common stock investments in publicly traded companies that are subject to market price volatility. These investments had an aggregate fair value of approximately $109 million as of June 30, 2022. A hypothetical decrease in the market price of these investments of 10% would result in a decrease in income of approximately $11 million before tax.
+
+Credit Risk
+
+Cash and cash equivalents are maintained with multiple financial institutions. Deposits held with banks may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon demand and are maintained with financial institutions of reputable credit and, therefore, bear minimal credit risk.
+
+The Company’s receivables did not represent significant concentrations of credit risk as of June 30, 2022 or June 30, 2021 due to the wide variety of customers, markets and geographic areas to which the Company’s products and services are sold.
+
+The Company monitors its positions with, and the credit quality of, the financial institutions which are counterparties to its financial instruments. The Company is exposed to credit loss in the event of nonperformance by the counterparties to the agreements. As of June 30, 2022, the Company did not anticipate nonperformance by any of the counterparties.
+
+60
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

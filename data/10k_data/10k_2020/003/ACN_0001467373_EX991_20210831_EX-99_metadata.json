@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467373",
+    "sec_company_name": "Accenture plc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20210831",
+    "sec_filing_date": "20211015",
+    "sec_changed_date": "20211015",
+    "sec_accepted_date": "20211015065429",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467373/000146737321000229/0001467373-21-000229-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467373/000146737321000229/0001467373-21-000229.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\ACN_0001467373_EX991_20210831_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "133830 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 12688,
+    "endpoints": [
+        "Document",
+        "The Company has evaluated events and transactions subsequent to the Plan’s statement of financial condition date. Based on this evaluation, the Company is not aware of any events or transactions that occurred subsequent to the Plan’s statement of financial condition date but prior to filing that would require recognition or disclosure in these financial statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ACN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\ACN_0001467373_EX991_20210831_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:12:15.927019"
+}

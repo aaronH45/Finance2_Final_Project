@@ -1,0 +1,79 @@
+xml version="1.0" encoding="utf-8"?              
+
+   0000072971 false WELLS FARGO & COMPANY/MN Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series N Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series O Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series P Dep Shr, 1/1000th int. per shr of 5.85% Fix-to-Float Non-Cum. Perpetual Class A Pref. Stock, Ser. Q Dep Shr, 1/1000th int. per shr of 6.625% Fix-to-Float Non-Cum. Perpetual Class A Pref. Stock, Ser. R Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series T Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series V Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series W Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series X Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y Dep Shares, 1/1000th int. per share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z Guarantee 5.80% Fix-to-Float Normal Wachovia Income Trust Securities of Wachovia Capital Trust III        0000072971   2020-02-26 2020-02-26     0000072971  WFC:CommonStockParValue123Member    2020-02-26 2020-02-26     0000072971  WFC:Sec7.5NoncumulativePerpetualConvertibleClassPreferredStockSeriesLMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesNMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesOMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesPMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOf5.85FixedtofloatingRateNoncumulativePerpetualClassPreferredStockSeriesQMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOf6.625FixedtofloatingRateNoncumulativePerpetualClassPreferredStockSeriesRMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesTMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesVMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesWMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesXMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesYMember    2020-02-26 2020-02-26     0000072971  WFC:DepositarySharesEachRepresenting11000thInterestInShareOfNoncumulativePerpetualClassPreferredStockSeriesZMember    2020-02-26 2020-02-26     0000072971  WFC:GuaranteeOf5.80FixedtofloatingRateNormalWachoviaIncomeTrustSecuritiesOfWachoviaCapitalTrustIiiMember    2020-02-26 2020-02-26     0000072971  WFC:GuaranteeOfMediumtermNotesSeriesDueOctober302028OfWellsFargoFinanceLlcMember    2020-02-26 2020-02-26    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (date of earliest event reported): February 26, 2020 
+
+WELLS FARGO & COMPANY 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+420 Montgomery Street, San Francisco, California 94104 
+
+(Address of principal executive offices) (Zip Code) 
+
+Registrant's telephone number, including area code: 1-866-249-3302 
+
+Not applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+   ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+   ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+   ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+   ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b-2). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 9.01. Financial Statements and Exhibits  
+
+Exhibits are filed herewith in connection with the Registration Statement on Form S-3 (File Nos. 333-221324 and 333-221324-01) filed by Wells Fargo & Company and Wells Fargo Finance LLC with the Securities and Exchange Commission. 
+
+On February 26, 2020, Wells Fargo Finance LLC issued the following Medium-Term Notes, Series A: Principal at Risk Securities Linked to the Lowest Performing of the Russell 2000® Index, the S&P 500® Index and the EURO STOXX 50® Index due February 26, 2030 (the “Notes”). The Notes are fully and unconditionally guaranteed by Wells Fargo & Company (the “Guarantee”). 
+
+The purpose of this Current Report is to file with the Securities and Exchange Commission the form of Note related to such issuance and the opinion of Faegre Drinker Biddle & Reath LLP regarding the Notes and the Guarantee. 
+
+(d) Exhibits 
+
+  [DATA_TABLE_REMOVED] 
+
+ 2  
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+   WELLS FARGO & COMPANY 
+
+ DATED: February 26, 2020 /s/ Le Roy Davis 
+
+   Le Roy Davis 
+
+   Senior Vice President and Assistant Treasurer

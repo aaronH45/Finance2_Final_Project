@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000860730",
+    "sec_company_name": "HCA Holdings, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170109",
+    "sec_filing_date": "20170109",
+    "sec_changed_date": "20170109",
+    "sec_accepted_date": "20170109085055",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312517005220/0001193125-17-005220-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312517005220/0001193125-17-005220.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\HCA_0000860730_EX991_20170109_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "19207 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9388,
+    "endpoints": [
+        "EX-99.1   ",
+        "Income before income taxes, excluding gains on sales of facilities, losses on retirement of debt and legal claim costs, and Adjusted EBITDA are not measures of financial performance under GAAP, and should not be considered as alternatives to income before income taxes or net income attributable to HCA Holdings, Inc., as a measure of operating performance, or cash flows from operating, investing and financing activities, as a measure of liquidity. Because income before income taxes, excluding gains on sales of facilities, losses on retirement of debt and legal claim costs, and Adjusted EBITDA are not measurements determined in accordance with GAAP and are susceptible to varying calculations, income before income taxes, excluding gains on sales of facilities, losses on retirement of debt and legal claim costs, and Adjusted EBITDA, as presented, may not be comparable to other similarly titled measures presented by other companies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HCA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\HCA_0000860730_EX991_20170109_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:13.954805"
+}

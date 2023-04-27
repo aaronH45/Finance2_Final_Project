@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000019617",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160223",
+    "sec_filing_date": "20160224",
+    "sec_changed_date": "20160223",
+    "sec_accepted_date": "20160223183835",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961716000905/0000019617-16-000905-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961716000905/0000019617-16-000905.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\JPM_0000019617_EX991_20160223_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "266833 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 178023,
+    "endpoints": [
+        "jpmc2016idexhibit991  ",
+        "Concluding thoughts  Strong results – on all fronts – against targets over multiple years  Market leaders in product areas that are important to our clients  Embracing change and leveraging technology across all lines of business  Leading transactional businesses with significant growth potential  Well positioned to benefit from cyclical and secular upswings  Optimizing under multiple constraints while maintaining client focus and preserving our proven business model  Strict expense discipline and laser-focus on efficiencies across all businesses while reinvesting for growth  Reinforcing a culture focused on doing the right thing for our clients and stakeholders F I N A N C I A L T A R G E T S 30"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JPM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\JPM_0000019617_EX991_20160223_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:51:53.735623"
+}

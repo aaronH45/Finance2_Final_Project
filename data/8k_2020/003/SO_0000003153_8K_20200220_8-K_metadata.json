@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000003153",
+    "sec_company_name": "ALABAMA POWER CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200220",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220083825",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92122/000009212220000019/0000092122-20-000019-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92122/000009212220000019/0000092122-20-000019.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SO_0000003153_8K_20200220_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "113100 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 8102,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "4"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "SO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SO_0000003153_8K_20200220_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:44:09.033261"
+}

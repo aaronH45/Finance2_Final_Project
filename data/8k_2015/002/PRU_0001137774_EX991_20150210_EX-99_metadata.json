@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001137774",
+    "sec_company_name": "PRUDENTIAL FINANCIAL INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150210",
+    "sec_filing_date": "20150210",
+    "sec_changed_date": "20150210",
+    "sec_accepted_date": "20150210161753",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1137774/000119312515041608/0001193125-15-041608-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1137774/000119312515041608/0001193125-15-041608.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\PRU_0001137774_EX991_20150210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5301 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2534,
+    "endpoints": [
+        "EX-99.1   ",
+        "Prudential Financial, Inc. (NYSE: PRU), a financial services leader with more than $1 trillion of assets under management as of December 31, 2014, has operations in the United States, Asia, Europe and Latin America. Prudential’s diverse and talented employees are committed to helping individual and institutional customers grow and protect their wealth through a variety of products and services, including life insurance, annuities, retirement-related services, mutual funds and investment management. In the U.S., Prudential’s iconic Rock symbol has stood for strength, stability, expertise and innovation for more than a century. For more information, please visit www.news.prudential.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PRU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\PRU_0001137774_EX991_20150210_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:20:46.548808"
+}

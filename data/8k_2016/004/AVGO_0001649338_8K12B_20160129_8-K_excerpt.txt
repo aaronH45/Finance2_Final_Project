@@ -1,0 +1,131 @@
+Form 8-K12B   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): January 29, 2016  
+
+Broadcom Limited  
+
+(Exact name of registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+ 1 Yishun Avenue 7    
+
+ Singapore 768923   N/A 
+
+ (Address of principal executive offices)   (Zip Code)  
+
+Registrant’s telephone number, including area code: (65) 6755-7888  
+
+(Pavonia Limited)  
+
+(Former name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Introductory Note  
+
+On February 1, 2016, pursuant to the Agreement and Plan of Merger (as amended, the “Merger Agreement”) by and among Avago Technologies Limited, a limited company organized under the laws of the Republic of Singapore (“Avago”), Broadcom Corporation, a California corporation (“Broadcom”), Broadcom Limited, a limited company organized under the laws of the Republic of Singapore (f/k/a Pavonia Limited) (“Holdco”), Broadcom Cayman L.P., an exempted limited partnership organized under the laws of the Cayman Islands and a subsidiary of Holdco (f/k/a Safari Cayman L.P.) (the “Partnership”), Avago Technologies Cayman Holdings Ltd., a company organized under the laws of the Cayman Islands and a direct wholly-owned subsidiary of the Partnership (“Intermediate Holdco”), Avago Technologies Cayman Finance Limited, a company organized under the laws of the Cayman Islands and a direct wholly-owned subsidiary of Intermediate Holdco (“Finance Holdco”), Buffalo CS Merger Sub, Inc., a California corporation and wholly-owned subsidiary of Finance Holdco (“Cash/Stock Merger Sub”), and Buffalo UT Merger Sub, Inc., a California corporation and wholly-owned subsidiary of Finance Holdco (“Unit Merger Sub”), (i) Holdco acquired Avago pursuant to a Scheme of Arrangement (the “Avago Scheme”) under Singapore law in accordance with Section 210 of the Companies Act (Chapter 50) of Singapore, (ii) thereafter, Cash/Stock Merger Sub merged with and into Broadcom, with Broadcom as the surviving corporation (the “Cash/Stock Merger”) and (iii) following the consummation of the Cash/Stock Merger, Unit Merger Sub merged with and into Broadcom, with Broadcom as the surviving corporation (the “Unit Merger” and together with the Cash/Stock Merger, the “Broadcom Merger” and together with the Avago Scheme, the “Transactions”). Following the consummation of the Transactions, each of Avago and Broadcom became indirect subsidiaries of Holdco.  
+
+This Current Report on Form 8-K should be read in conjunction with the other Current Report on Form 8-K filed by Holdco on February 1, 2016.  
+
+ Item 1.01 Entry into a Material Definitive Agreement.  
+
+Effective upon the consummation of the Transactions, Holdco entered into indemnity agreements (the “Indemnification Agreements”) with the directors and certain officers of Holdco that were substantially similar to the same agreements for directors and certain officers of Avago, as applicable. The Indemnification Agreements provide indemnification to such directors and officers to the fullest extent permitted by the laws of Singapore or the laws of any other jurisdiction and arising out of, or in connection with, the actual or purported exercise of, or failure to exercise, any of such person’s powers, duties or responsibilities as a director or officer of Holdco or any of its subsidiaries. Further, pursuant to the Indemnification Agreements, Holdco agrees to advance expenses incurred in defense of these proceedings, on the terms and conditions set forth in the Indemnification Agreements. The Indemnification Agreements also provide procedures for requesting and obtaining indemnification and advancement of expenses.  
+
+The foregoing description of the Indemnification Agreements is a general description only and is qualified in its entirety by reference to the form of the Indemnification Agreement (Directors) and the form of the Indemnification Agreement (Officers), which are filed as Exhibits 10.2 and 10.3 hereto, respectively, and incorporated herein by reference.  
+
+ Item 2.01 Completion of Acquisition or Disposition of Assets.  
+
+The disclosures under the Introductory Note are incorporated herein by reference.  
+
+Upon the consummation of the Transactions, each of Avago and Broadcom became indirect subsidiaries of Holdco and the Partnership. Holdco remained the sole general partner of the Partnership and currently owns a majority interest (by vote and value) in the Partnership represented by common partnership units of the Partnership. As a result, Holdco is entitled to distributions from the Partnership that generally correspond to dividends and distributions that are paid by Holdco in respect of the ordinary shares in the capital of Holdco (“Holdco Ordinary Shares”) that are issued and outstanding from time to time. Upon the consummation of the Transactions, the balance of the partnership units were held by certain former holders of Broadcom Shares (as defined below) in the form of exchangeable limited partnership units of Partnership (together with any voting interest in Holdco provided to the holders of such units, the “Units”).  
+
+Pursuant to the terms of the Merger Agreement, each share of Broadcom common stock, par value $0.0001 per share (a “Broadcom Share”), issued and outstanding immediately prior to the effective time of the Broadcom Merger, other than certain Broadcom Shares held by Broadcom as treasury stock, was converted into the right to receive: (i) if no valid election was made with respect to such Broadcom Share, or if, with respect to such Broadcom Share, a valid election was made to receive cash, $54.50 in cash, subject to proration as set forth in the Merger Agreement, (ii) if, with respect to such Broadcom Share, a valid election was made to receive Holdco Ordinary Shares, 0.4378 Holdco Ordinary Shares, subject to proration as set forth in the Merger Agreement and (iii) if, with respect to such Broadcom Share, a valid election was made to receive Units, 0.4378 Units.  
+
+Pursuant to the Avago Scheme, all of the ordinary shares in the capital of Avago (“Avago Ordinary Shares”) issued and outstanding immediately prior to the effectiveness of the Avago Scheme were transferred to Finance Holdco, as the entity designated by Holdco to receive such issued Avago Ordinary Shares, in consideration for the allotment and issuance of one Holdco Ordinary Share for each such Avago Ordinary Share transferred (the “Avago Scheme Consideration”).  
+
+Pursuant to the terms of the Partnership Agreement (as defined below), each Unit is entitled to distributions from the Partnership in an amount equal to any dividends or distributions that have been declared and are payable in respect of a Holdco Ordinary Share. In addition, pursuant to the Partnership Agreement and the Voting Trust Agreement (as defined below), Holdco issued to the Trustee (as defined below) 22,804,604 non-economic voting preference shares in the capital of Holdco. By operation of the Voting Trust Agreement, the holders of Units can direct the trustee, as their proxy, to vote on their behalf in votes that are presented to the holders of Holdco Ordinary Shares. After the first anniversary of the effective time of the Broadcom Merger, subject to certain additional requirements and potential deferrals as set forth in the Partnership Agreement, a holder of Units will have the right to require the Partnership to repurchase any or all of the holder’s Units in consideration for, as determined by Holdco in its sole discretion, either one Holdco Ordinary Share for each Unit submitted for repurchase or a cash amount as determined under the Partnership Agreement.  
+
+The issuance of Holdco Ordinary Shares and Units in connection with the Transactions was registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to the registration statement on Form S-4 (File No. 333-205938) (the “Registration Statement”) filed by Holdco and the Partnership with the U.S. Securities and Exchange Commission (the “SEC”) and declared effective on September 25, 2015. The definitive joint proxy statement/prospectus of Avago and Broadcom, dated September 28, 2015, that forms a part of the Registration Statement (the “Joint Proxy Statement/Prospectus”) contains additional information about the Transactions and the other transactions contemplated by the Merger Agreement, including a description of the treatment of equity awards and information concerning the interests of directors, executive officers and affiliates of Avago and Broadcom in the Transactions.  
+
+Pursuant to Rule 12g-3(c) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), Holdco is the successor issuer to Avago and to Broadcom, Holdco Ordinary Shares are deemed to be registered under Section 12(b) of the Exchange Act, and Holdco is subject to the informational requirements of the Exchange Act and the rules and regulations promulgated thereunder. Holdco hereby reports this succession in accordance with Rule 12g-3(f) under the Exchange Act. Holdco Ordinary Shares were approved for listing on the NASDAQ Global Select Market (the “NASDAQ”) and will trade under the symbol “AVGO.”  
+
+Prior to the Transactions, Avago Ordinary Shares and shares of Broadcom Class A common stock, par value $0.0001 per share (“Broadcom Class A Shares”) were registered pursuant to Section 12(b) of the Exchange Act and listed on the NASDAQ. Avago Ordinary Shares were suspended from trading on the NASDAQ prior to the open of trading on February 1, 2016, and Broadcom Class A Shares were halted from trading on the NASDAQ prior to the open of trading on February 1, 2016 and were suspended from trading on the NASDAQ prior to the open of trading on February 2, 2016. Avago and Broadcom each expect to file a Form 15 with the SEC to terminate the registration under the Exchange Act of Avago Ordinary Shares and Broadcom Class A Shares, respectively, and suspend all of their respective reporting obligations under Section 15(d) of the Exchange Act.  
+
+The foregoing description of the Merger Agreement, the Partnership Agreement, the Voting Trust Agreement and the Transactions does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement filed as Annex A of the Joint Proxy Statement/Prospectus and incorporated herein by reference, the Partnership Agreement filed as Exhibit 3.2 hereto and incorporated herein by reference and the Voting Trust Agreement filed as Exhibit 3.3 hereto and incorporated herein by reference.  
+
+ Item 2.02 Results of Operations and Financial Condition.  
+
+On February 1, 2016, Holdco issued a press release, which included an announcement regarding Broadcom’s financial results for its fourth quarter and fiscal year ended December 31, 2015. The foregoing description is qualified in its entirety by reference to the press release dated February 1, 2016, a copy of which is attached hereto as Exhibit 99.1.  
+
+ Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.  
+
+The information set forth in Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.01.  
+
+ Item 3.03 Material Modification to the Rights of Security Holders.  
+
+The information set forth in Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.03.  
+
+ Item 5.01 Changes in Control of Registrant.  
+
+The information set forth in Item 1.01 and Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 5.01.  
+
+ Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.  
+
+In connection with the Transactions, on February 1, 2016, Holdco amended its Constitution as contemplated by the Merger Agreement and changed its name from “Pavonia Limited” to “Broadcom Limited.” A copy of the Constitution of Holdco is attached hereto as Exhibit 3.1 and is incorporated herein by reference.  
+
+Effective on February 1, 2016, the Partnership changed its name from “Safari Cayman L.P.” to “Broadcom Cayman L.P.” On February 1, 2016, in connection with the consummation of the Transactions, the Exempted Limited Partnership Agreement (the “Partnership Agreement”) of the Partnership was amended and restated, and the Partnership Agreement is attached hereto as Exhibit 3.2 and incorporated herein by reference. In connection with the Partnership Agreement, Holdco and the Partnership entered into a Voting Trust Agreement, dated as of February 1, 2016, by and among Holdco, the Partnership and Computershare Trust Company, N.A., as trustee (the “Voting Trust Agreement”).  
+
+ Item 8.01 Other Events.  
+
+On February 1, 2016, Holdco issued a press release announcing the completion of the Avago Scheme. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. Later on February 1, 2016, Holdco issued a press release announcing the closing of the Transactions. A copy of the press release is attached hereto as Exhibit 99.2 and is incorporated herein by reference.  
+
+ Item 9.01 Financial Statements and Exhibits.  
+
+(a) Financial Statements of Business Acquired.  
+
+The audited consolidated balance sheets of Broadcom as of December 31, 2015 and December 31, 2014, the related audited consolidated statements of income, comprehensive income, shareholders’ equity and cash flows for Broadcom for each of the years in the three year period ended December 31, 2015, and the notes thereto, including the related report of the independent registered public accounting firm thereon, are filed as Exhibit 99.3 hereto and incorporated herein by reference.  
+
+(b) Pro Forma Financial Information.  
+
+To be filed by amendment not later than 71 calendar days after the date this Current Report on Form 8-K is required to be filed.  
+
+(d) Exhibits.  
+
+  [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.  
+
+Date: February 2, 2016  
+
+ [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  [DATA_TABLE_REMOVED]

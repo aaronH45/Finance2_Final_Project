@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20210630",
+    "sec_filing_date": "20210806",
+    "sec_changed_date": "20210806",
+    "sec_accepted_date": "20210806161959",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042421000100/0000080424-21-000100-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042421000100/0000080424-21-000100.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\PG_0000080424_EX991_20210630_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "1562 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 281,
+    "endpoints": [
+        "Document",
+        "The Procter & Gamble Company purchases Directors and Officers Liability insurance from various insurance carriers. The policy limits for the period from June 30, 2020 to June 30, 2021 were $300 million."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\PG_0000080424_EX991_20210630_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 16:56:17.635370"
+}

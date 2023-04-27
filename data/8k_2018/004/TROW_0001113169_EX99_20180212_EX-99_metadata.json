@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001113169",
+    "sec_company_name": "PRICE T ROWE GROUP INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180212",
+    "sec_filing_date": "20180216",
+    "sec_changed_date": "20180216",
+    "sec_accepted_date": "20180216165149",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316918000010/0001113169-18-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316918000010/0001113169-18-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\TROW_0001113169_EX99_20180212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8818 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6750,
+    "endpoints": [
+        "transitionspressreleasef  ",
+        " BACKGROUND ON ED BERNARD Mr. Bernard is currently vice chairman of the Board of Directors of T. Rowe Price. He joined T. Rowe Price as a marketing manager, advertising and promotion, for the firm’s Individual Investors business in 1988 and was named a vice president in 1989. Mr. Bernard became a director of T. Rowe Price Group in 1999, and joined the Management Committee in 2000. In 2006, he assumed responsibility for all of the firm’s distribution, marketing, client service, technology, and communications activities, and was named vice chairman in 2007. Mr. Bernard has served as chairman of the Board of all sponsored T. Rowe Price mutual funds in the U.S. – which represent more than 60% of the firm’s assets under management – since 2006.He also is chair of T. Rowe Price Investment Services and CEO of T. Rowe Price International, Ltd., the firm’s UK-based investment manager. Mr. Bernard earned his B.A. from Brown University and an M.B.A. in international finance from New York University. He served as chairman of the Board of Governors of the Investment Company Institute from 2009-2011, leading that organization’s important efforts in the wake of the global financial crisis. BACKGROUND ON ROB SHARPS Mr. Sharps is currently co-head of Global Equity and group chief investment officer. He serves on the firm's Management Committee, International Equity Steering Committee, U.S. Equity Steering Committee, Fixed Income Steering Committee, Asset Allocation Committee, and Product Strategy Committee. Mr. Sharps has 22 years of investment experience, 20 of which have been with T. Rowe Price. He was the lead portfolio manager for the U.S. Large-Cap Growth Equity Strategy from October 2001 through December 2016 and during his portfolio management tenure, T. Rowe Price was twice named Large-Cap Growth Equity Manager of the Year by Institutional Investor magazine. Mr. Sharps joined the firm in 1997 as an analyst specializing in financial services stocks, including banks, asset managers, and securities brokers. He earned a B.S., summa cum laude, in accounting from Towson University and an M.B.A. in finance from The Wharton School, University of Pennsylvania. He also has earned the Chartered Financial Analyst designation. BACKGROUND ON ERIC VEIEL Mr. Veiel is currently head of U.S. Equity, chair of the U.S. Equity Steering Committee, and a member of the Management Committee. He also serves on the firm’s Multi-Asset Steering, Product Strategy, and Proxy committees. He was previously co-director of Equity Research for North America and co-portfolio manager of the U.S. Structured Research Equity Strategy. From 2010 to 2014, Mr. Veiel was the portfolio manager of the Financial Services Equity Strategy and Financial Services Sector team leader. He has 18 years of investment experience, 12 of which have been with T. Rowe Price. Mr. Veiel earned a B.B.A., magna cum laude, in finance from James Madison University and an M.B.A., with concentrations in finance and accounting, from Washington University, John M. Olin School of Business. He also has earned the Chartered Financial Analyst designation. ABOUT T. ROWE PRICE Founded in 1937, Baltimore-based T. Rowe Price Group, Inc. (troweprice.com), is a global investment management organization with $1.05 trillion in assets under management as of January 31, 2018. The organization provides a broad array of mutual funds, subadvisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries. The company also offers sophisticated investment planning and guidance tools. T. Rowe Price’s disciplined, risk-aware investment approach focuses on diversification, style consistency, and fundamental research. ### T. ROWE PRICE CONTACTS Public Relations Brian Lewbart 410-345-2242 brian_lewbart@troweprice.com Investor Relations Teresa Whitaker 410-345-6586 teresa_whitaker@troweprice.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TROW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\TROW_0001113169_EX99_20180212_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:29.554943"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000820313",
+    "sec_company_name": "AMPHENOL CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200122",
+    "sec_filing_date": "20200122",
+    "sec_changed_date": "20200122",
+    "sec_accepted_date": "20200122101854",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/820313/000155837020000211/0001558370-20-000211-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/820313/000155837020000211/0001558370-20-000211.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\APH_0000820313_EX991_20200122_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "904579 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24511,
+    "endpoints": [
+        "aph_Ex99_1   ",
+        " Adjusted Diluted EPS is defined as diluted earnings per share (as reported in accordance with U.S. GAAP), excluding income and expenses and their specific tax effects that are not directly related to the Company's operating performance during the periods presented. Adjusted Diluted EPS is calculated as Adjusted Net Income attributable to Amphenol Corporation, as defined above, divided by the weighted average outstanding diluted shares (as reported in the Condensed Consolidated Statements of Income)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "APH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\APH_0000820313_EX991_20200122_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:48:13.717639"
+}

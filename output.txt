@@ -1,0 +1,24 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{@{\extracolsep{2pt}}l*{1}{c}@{}}
+\hline\hline
+
+
+ & (1) \\
+\hline
+rescaled\_similarity\_lagged & 0.32\sym{**} \\
+ & (0.02) \\
+const & 0.16\sym{**} \\
+ & (0.01) \\
+
+\hline
+N & 3294 \\
+F-stat & 376.57 \\
+Adj. R\sym{2} &  \\
+F-stat (robust) & 181.31 \\
+R\sym{2} (Within) & -0.15 \\
+AIC &  \\
+BIC &  \\
+\hline\hline
+\end{tabular}
+}

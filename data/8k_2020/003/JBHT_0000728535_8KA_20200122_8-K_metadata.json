@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000728535",
+    "sec_company_name": "HUNT J B TRANSPORT SERVICES INC (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20200122",
+    "sec_filing_date": "20200203",
+    "sec_changed_date": "20200203",
+    "sec_accepted_date": "20200203170436",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/728535/000143774920001559/0001437749-20-001559-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/728535/000143774920001559/0001437749-20-001559.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\JBHT_0000728535_8KA_20200122_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "42967 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3150,
+    "endpoints": [
+        "jbht20200203_8ka.htm   ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "JBHT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\JBHT_0000728535_8KA_20200122_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:43:55.721585"
+}

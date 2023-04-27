@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072903",
+    "sec_company_name": "XCEL ENERGY INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170222",
+    "sec_filing_date": "20170222",
+    "sec_changed_date": "20170222",
+    "sec_accepted_date": "20170222160752",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72903/000007290317000006/0000072903-17-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72903/000007290317000006/0000072903-17-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\XEL_0000072903_EX9901_20170222_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11567 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2697,
+    "endpoints": [
+        "Exhibit   ",
+        "Xcel Energy (NYSE: XEL) provides the energy that powers millions of homes and businesses across eight Western and Midwestern states. Headquartered in Minneapolis, the company is an industry leader in responsibly reducing carbon emissions and producing and delivering clean energy solutions from a variety of renewable sources at competitive prices. For more information, visit xcelenergy.com or follow us on Twitter and Facebook."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "XEL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\XEL_0000072903_EX9901_20170222_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:19.727595"
+}

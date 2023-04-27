@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000012659",
+    "sec_company_name": "H&R BLOCK INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220201",
+    "sec_filing_date": "20220201",
+    "sec_changed_date": "20220201",
+    "sec_accepted_date": "20220201160855",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/12659/000183886222000004/0001838862-22-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/12659/000183886222000004/0001838862-22-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\HRB_0000012659_EX991_20220201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "240580 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 12389,
+    "endpoints": [
+        "Document",
+        "from continuing operations, EBITDA margin from continuing operations, adjusted diluted earnings per share from continuing operations and free cash flow. We also use EBITDA from continuing operations and pretax income of continuing operations, each subject to permitted adjustments, as performance metrics in incentive compensation calculations for our employees."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HRB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\HRB_0000012659_EX991_20220201_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:23:07.614783"
+}

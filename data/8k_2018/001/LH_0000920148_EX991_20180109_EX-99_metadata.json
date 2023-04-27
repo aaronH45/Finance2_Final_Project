@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920148",
+    "sec_company_name": "LABORATORY CORP OF AMERICA HOLDINGS (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180109",
+    "sec_filing_date": "20180109",
+    "sec_changed_date": "20180109",
+    "sec_accepted_date": "20180109094150",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014818000008/0000920148-18-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014818000008/0000920148-18-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\LH_0000920148_EX991_20180109_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "36960 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18488,
+    "endpoints": [
+        "labcorplh36thannualjpmor  ",
+        "32 FOOTNOTES TO “STRONG FREE CASH FLOW” SLIDE(1) (1) 2007-2014 figures exclude Covance results. (2) Operating Cash Flow and Free Cash Flow in 2011 exclude the $49.5 million Hunter Labs settlement. LABORATORY CORPORATION OF AMERICA HOLDINGS Reconciliation of Non-GAAP Financial Measures (in millions) Free Cash Flow: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 Operating Cash Flow 710$ 781$ 862$ 884$ 905$ 841$ 819$ 739$ 982$ 1,176$ Less: Capital Expenditures (143) (157) (115) (126) (146) (174) (202) (204) (256) (279) Free Cash Flow 567$ 624$ 748$ 758$ 759$ 668$ 617$ 536$ 727$ 897$ (2) (2)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\LH_0000920148_EX991_20180109_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:20:15.697406"
+}

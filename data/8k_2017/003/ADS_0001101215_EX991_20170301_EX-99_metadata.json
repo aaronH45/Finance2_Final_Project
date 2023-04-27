@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001101215",
+    "sec_company_name": "ALLIANCE DATA SYSTEMS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170301",
+    "sec_filing_date": "20170301",
+    "sec_changed_date": "20170301",
+    "sec_accepted_date": "20170301160134",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121517000067/0001101215-17-000067-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121517000067/0001101215-17-000067.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\ADS_0001101215_EX991_20170301_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "19370 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8715,
+    "endpoints": [
+        "Alliance Data - Who Are We and What Do We Do? - Outlook Investor Presentation2017 Exhibit 99.1    ",
+        " 13 Financial Measures In addition to the results presented in accordance with generally accepted accounting principles, or GAAP, the Company may present financial measures that are non-GAAP measures, such as constant currency financial measures, adjusted EBITDA, adjusted EBITDA margin, adjusted EBITDA, net of funding costs and non-controlling interest, core earnings and core earnings per diluted share (core EPS). Constant currency excludes the impact of fluctuations in foreign exchange rates. The Company calculates constant currency by converting our current period local currency financial results using the prior period exchange rates. The Company uses adjusted EBITDA and adjusted EBITDA, net as an integral part of internal reporting to measure the performance and operational strength of reportable segments and to evaluate the performance of senior management. Adjusted EBITDA eliminates the uneven effect across all reportable segments of non-cash depreciation of tangible assets and amortization of intangible assets, including certain intangible assets that were recognized in business combinations, and the non-cash effect of stock compensation expense. Similarly, core earnings and core EPS eliminate non-cash or non-operating items, including, but not limited to, stock compensation expense, amortization of purchased intangibles, amortization of debt issuance costs, mark-to-market gains or losses on interest rate derivatives, changes to the expiry policy and regulatory settlements. The Company believes that these non-GAAP financial measures, viewed in addition to and not in lieu of the Company’s reported GAAP results, provide useful information to investors regarding the Company’s performance and overall results of operations. Reconciliations to comparable GAAP financial measures are available in the Company’s earnings release, which is posted in both the News and Investors sections on the Company’s website (www.alliancedata.com). The financial measures presented are consistent with the Company’s historical financial reporting practices. Core earnings and core EPS represent performance measures and are not intended to represent liquidity measures. The non-GAAP financial measures presented herein may not be comparable to similarly titled measures presented by other companies, and are not identical to corresponding measures used in other various agreements or public filings."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ADS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\ADS_0001101215_EX991_20170301_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:11:11.251385"
+}

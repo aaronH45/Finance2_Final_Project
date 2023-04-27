@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000048465",
+    "sec_company_name": "HORMEL FOODS CORP /DE/ (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210210",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211070706",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/48465/000004846521000010/0000048465-21-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/48465/000004846521000010/0000048465-21-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HRL_0000048465_EX99_20210210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "23190 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5475,
+    "endpoints": [
+        "Document",
+        "This release contains forward-looking information based on management’s current views and assumptions. Actual events may differ materially. Factors that may affect actual results include, but are not limited to: whether and when the required regulatory approvals will be obtained, whether and when the closing conditions will be satisfied and whether and when the transaction will close, whether and when the Company will be able to realize the expected financial results, growth, and accretive effect of the transaction, and how customers, competitors, suppliers and employees will react to the transaction. Please refer to the cautionary statement regarding Forward-Looking Statements and Risk Factors that appear on pages 5-9 in the Company’s Form 10-K included in the Company’s 2020 annual report to stockholders available for viewing or download on the investor page of the Company’s website – hormelfoods.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HRL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HRL_0000048465_EX99_20210210_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:56:51.368809"
+}

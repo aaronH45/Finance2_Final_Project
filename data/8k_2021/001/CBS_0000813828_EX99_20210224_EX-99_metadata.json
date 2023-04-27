@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000813828",
+    "sec_company_name": "ViacomCBS Inc. (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210224",
+    "sec_filing_date": "20210224",
+    "sec_changed_date": "20210224",
+    "sec_accepted_date": "20210224160414",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/813828/000119312521054598/0001193125-21-054598-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/813828/000119312521054598/0001193125-21-054598.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CBS_0000813828_EX99_20210224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "79853 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 38471,
+    "endpoints": [
+        "EX-99   ",
+        "SUPPLEMENTAL DISCLOSURES REGARDING NON-GAAP FINANCIAL MEASURES (Continued) (Unaudited; in millions, except per share amounts) Free Cash Flow Free cash flow is a non-GAAP financial measure. Free cash flow reflects our net cash flow provided by operating activities (used for) from continuing operation less capital expenditures. Our calculation of free cash flow includes capital expenditures because investment in capital expenditures is a use of cash that is directly related to our operations. Our net cash flow provided by operating activities from continuing operations is the most directly comparable GAAP financial measure. Management believes free cash flow provides investors with an important perspective on the cash available to us to service debt, make strategic acquisitions and investments, maintain our capital assets, satisfy our tax obligations, and fund ongoing operations and working capital needs. As a result, free cash flow is a significant measure of our ability to generate long-term value. It is useful for investors to know whether this ability is being enhanced or degraded as a result of our operating performance. We believe the presentation of free cash flow is relevant and useful for investors because it allows investors to evaluate the cash generated from our underlying operations in a manner similar to the method used by management. Free cash flow is among several components of incentive compensation targets for certain management personnel. In addition, free cash flow is a primary measure used externally by our investors, analysts and industry peers for purposes of valuation and comparison of our operating performance to other companies in our industry. As free cash flow is not a measure calculated in accordance with GAAP, free cash flow should not be considered in isolation of, or as a substitute for, either net cash flow provided by (used for) operating activities from continuing operations as a measure of liquidity or net earnings (loss) as a measure of operating performance. Free cash flow, as we calculate it, may not be comparable to similarly titled measures employed by other companies. In addition, free cash flow as a measure of liquidity has certain limitations, does not necessarily represent funds available for discretionary use and is not necessarily a measure of our ability to fund our cash needs. The following table presents a reconciliation of our net cash flow provided by (used for) operating activities from continuing operations to free cash flow: Quarter Ended Year Ended December 31, December 31, 2020 2019 2020 2019 Net cash flow provided by (used for) operating activities from continuing operations (GAAP) (339) (530) 2,215 1,171 Capital expenditures (114) (99) (324) (345) Free cash flow (Non-GAAP) $ (453) $ (629) $ 1,891 $ 826"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CBS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CBS_0000813828_EX99_20210224_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:54:03.073271"
+}

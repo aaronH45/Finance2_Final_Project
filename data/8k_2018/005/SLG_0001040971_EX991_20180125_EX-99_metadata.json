@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001040971",
+    "sec_company_name": "SL GREEN REALTY CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180125",
+    "sec_filing_date": "20180125",
+    "sec_changed_date": "20180125",
+    "sec_accepted_date": "20180125134541",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1040971/000104097118000003/0001040971-18-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1040971/000104097118000003/0001040971-18-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\SLG_0001040971_EX991_20180125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "428287 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 31627,
+    "endpoints": [
+        "Exhibit   ",
+        "The Company presents fixed charge and debt service coverage ratios to provide a measure of the Company’s financial flexibility to service current debt amortization, interest expense and ground rent from current cash net operating income. These coverage ratios represent a common measure of the Company’s ability to service fixed cash payments; however, these ratios are not used as an alternative to cash flow from operating, financing and investing activities (determined in accordance with GAAP)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SLG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\SLG_0001040971_EX991_20180125_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:25.744423"
+}

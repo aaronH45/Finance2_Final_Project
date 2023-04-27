@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000788784",
+    "sec_company_name": "PUBLIC SERVICE ENTERPRISE GROUP INC (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20151215",
+    "sec_filing_date": "20160216",
+    "sec_changed_date": "20160216",
+    "sec_accepted_date": "20160216172107",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/788784/000119312516465694/0001193125-16-465694-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/788784/000119312516465694/0001193125-16-465694.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PEG_0000788784_8KA_20151215_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11783 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2502,
+    "endpoints": [
+        "Form 8-K/A   ",
+        "3"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PEG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PEG_0000788784_8KA_20151215_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:48:10.178232"
+}

@@ -1,0 +1,34 @@
+{
+    "sec_cik": "0000815097",
+    "sec_company_name": "CARNIVAL CORP (Filer)",
+    "document_type": "EX13",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191130",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128111947",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/815097/000081509720000003/0000815097-20-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/815097/000081509720000003/0000815097-20-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\CCL_0000815097_EX13_20191130_Exhibit13_failure.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "2513008 chars",
+    "document_group": "EX-13",
+    "section_name": "Exhibit13",
+    "section_n_characters": null,
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "company_description": "CCL",
+    "output_file": null,
+    "time_elapsed": 0.5,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:20:15.839342"
+}

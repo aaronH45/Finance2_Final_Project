@@ -1,0 +1,103 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0001109357 false 0000022606 false 8-K 2022-02-01 false false false false false 0000078100 false 8-K 2022-02-01 false false false false false 0000009466 false 8-K 2022-02-01 false false false false false 0001135971 false 8-K 2022-02-01 false false false false false 0000079732 false 8-K 2022-02-01 false false false false false 0000027879 false 8-K 2022-02-01 false false false false false 0000008192 false 8-K 2022-02-01 false false false false false        0001109357   2022-02-01 2022-02-01     0001109357  exc:CommonwealthEdisonCoMember    2022-02-01 2022-02-01     0001109357  exc:PecoEnergyCoMember    2022-02-01 2022-02-01     0001109357  exc:BaltimoreGasAndElectricCompanyMember    2022-02-01 2022-02-01     0001109357  exc:PepcoHoldingsLLCMember    2022-02-01 2022-02-01     0001109357  exc:PotomacElectricPowerCompanyMember    2022-02-01 2022-02-01     0001109357  stpr:DC exc:PotomacElectricPowerCompanyMember    2022-02-01 2022-02-01     0001109357  exc:PotomacElectricPowerCompanyMember stpr:VA    2022-02-01 2022-02-01     0001109357  exc:DelmarvaPowerandLightCompanyMember    2022-02-01 2022-02-01     0001109357  exc:DelmarvaPowerandLightCompanyMember stpr:DE    2022-02-01 2022-02-01     0001109357  exc:DelmarvaPowerandLightCompanyMember stpr:VA    2022-02-01 2022-02-01     0001109357  exc:AtlanticCityElectricCompanyMember    2022-02-01 2022-02-01    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+   UNITED STATES SECURITIES AND EXCHANGE COMMISSION   
+
+   Washington, D.C. 20549   
+
+   FORM 8-K   
+
+   CURRENT REPORT   
+
+   Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934   
+
+   February 1, 2022   
+
+   Date of Report (Date of earliest event reported)    
+
+  [DATA_TABLE_REMOVED] 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+  [DATA_TABLE_REMOVED] 
+
+ Indicate by check mark whether any of the registrants are emerging growth companies as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+ Emerging growth company ¨  
+
+ If an emerging growth company, indicate by check mark if any of the registrants have elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨  
+
+ [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED]  
+
+Section 1 – Registrant’s Business and Operations  
+
+Item 1.01. Entry into a Material Definitive Agreement 
+
+On February 1, 2022, Exelon Corporation (Exelon), Commonwealth Edison Company (ComEd), PECO Energy Company (PECO), Baltimore Gas and Electric Company (BGE), Potomac Electric Power Company (Pepco), Delmarva Power & Light Company (DPL) and Atlantic City Electric Company (ACE, and together with Pepco and DPL, the PHI Utilities) executed five new revolving credit facilities, as described below. 
+
+Each of the new credit facilities described below replaces (i) the Credit Agreements, in each case dated as of March 23, 2011, as amended, among Exelon, ComEd, PECO and BGE, as borrowers, JPMorgan Chase Bank, N.A. (JPMCB), as Administrative Agent, and various financial institutions and (ii) the Second Amended and Restated Credit Agreement, dated as of August 1, 2011, as amended, among Pepco Holdings LLC (PHI), Pepco, DPL and ACE, as borrowers, Wells Fargo Bank, National Association, as Administrative Agent and various financial institutions. 
+
+On February 1, 2022, Exelon entered into a five-year revolving credit facility with JPMCB, as Administrative Agent, and various financial institutions. This credit facility provides for an aggregate commitment of $900,000,000, which may be drawn down in the form of loans and/or letters of credit. The credit facility will be used principally to back up commercial paper issuances at Exelon and requirements for letters of credit. 
+
+On February 1, 2022, ComEd entered into a five-year revolving credit facility with JPMCB, as Administrative Agent, and various financial institutions. This credit facility provides for an aggregate commitment of $1,000,000,000, which may be drawn down in the form of loans and/or letters of credit. The credit facility will be used principally to back up commercial paper issuances at ComEd and requirements for letters of credit. 
+
+On February 1, 2022, PECO entered into a five-year revolving credit facility with JPMCB, as Administrative Agent, and various financial institutions. This credit facility provides for an aggregate commitment of $600,000,000, which may be drawn down in the form of loans and/or letters of credit. The credit facility will be used principally to back up commercial paper issuances at PECO and requirements for letters of credit. 
+
+On February 1, 2022, BGE entered into a five-year revolving credit facility with JPMCB, as Administrative Agent, and various financial institutions. This credit facility provides for an aggregate commitment of $600,000,000, which may be drawn down in the form of loans and/or letters of credit. The credit facility will be used principally to back up commercial paper issuances at BGE and requirements for letters of credit. 
+
+On February 1, 2022, the PHI Utilities entered into a five-year revolving credit facility with JPMCB, as Administrative Agent, and various financial institutions. This credit facility provides for an aggregate commitment of $900,000,000, which may be drawn down in the form of loans and/or letters of credit. The credit facility will be used principally to back up commercial paper issuances at PHI Utilities and requirements for letters of credit. 
+
+Lending commitments under each credit facility will terminate five years after the effective date, unless extended. Each credit facility includes provisions for one-year extensions at the option of the borrower and with the consent of the lenders. Each facility also includes provisions for reduction of the amount of the facility at the option of the borrower and provisions for the limited increase of the lenders’ commitments to lend at the request of the borrower and with the consent of the lenders. 
+
+The credit facilities include covenants generally similar to covenants in existing bank credit facilities for Exelon, ComEd, PECO, BGE and the PHI Utilities; and maintenance of a consolidated capitalization ratio of 0.65:1.00. 
+
+The credit facilities also include events of default generally similar to events of default in the existing bank credit facilities for Exelon, ComEd, PECO, BGE and the PHI Utilities, including customary events of default for agreements of this type, such as: failure to pay outstanding principal, interest, fees or other amounts due under the credit facilities; cross default to other debt in excess of a specified amount; and the failure to observe or perform covenants. 
+
+Section 1 – Registrant’s Business and Operations  
+
+Item 1.02. Termination of a Material Definitive Agreement 
+
+On February 1, 2022, Exelon, ComEd, PECO, BGE and the PHI Utilities executed five new revolving credit facilities, as described in Item 1.01, which resulted in the termination of the following credit facilities: (i) the Credit Agreements, in each case dated as of March 23, 2011, as amended, among Exelon, ComEd, PECO and BGE, as borrowers, JPMCB, as Administrative Agent, and various financial institutions and (ii) the Second Amended and Restated Credit Agreement, dated as of August 1, 2011, as amended, among PHI, Pepco, DPL and ACE, as borrowers, Wells Fargo Bank, National Association, as Administrative Agent and various financial institutions. 
+
+Section 9 - Financial Statements and Exhibits  
+
+Item 9.01. Financial Statements and Exhibits 
+
+(d) Exhibits. 
+
+  [DATA_TABLE_REMOVED] 
+
+* * * * * 
+
+This combined Current Report on Form 8-K is being furnished separately by Exelon Corporation, Commonwealth Edison Company, PECO Energy Company, Baltimore Gas and Electric Company, Pepco Holdings LLC, Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (Registrants). Information contained herein relating to any individual Registrant has been furnished by such Registrant on its own behalf. No Registrant makes any representation as to information relating to any other Registrant. 
+
+This report contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. Words such as “could,” “may,” “expects,” “anticipates,” “will,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “seeks,” “estimates,” “predicts,” and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements. 
+
+The factors that could cause actual results to differ materially from the forward-looking statements made by the Registrants include those factors discussed herein, as well as the items discussed in (1) the Registrants' 2020 Annual Report on Form 10-K in (a) Part I, ITEM 1A. Risk Factors, (b) Part II, ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 19, Commitments and Contingencies; (2) the Registrants' Third Quarter 2021 Quarterly Report on Form 10-Q in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 15, Commitments and Contingencies; and (3) other factors discussed in filings with the SEC by the Registrants. 
+
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this report. None of the Registrants undertakes any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this report. 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, each Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+February 3, 2022 
+
+EXHIBIT INDEX 
+
+  [DATA_TABLE_REMOVED]

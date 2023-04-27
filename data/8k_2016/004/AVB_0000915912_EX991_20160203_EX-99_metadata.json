@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000915912",
+    "sec_company_name": "AVALONBAY COMMUNITIES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160203",
+    "sec_filing_date": "20160204",
+    "sec_changed_date": "20160204",
+    "sec_accepted_date": "20160204085156",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/915912/000091591216000022/0000915912-16-000022-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/915912/000091591216000022/0000915912-16-000022.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\AVB_0000915912_EX991_20160203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "678027 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 37138,
+    "endpoints": [
+        "Exhibit   ",
+        "The calculation of Unleveraged IRR does not include an adjustment for the Company’s general and administrative expense, interest expense, or corporate-level property management and other indirect operating expenses. Therefore, Unleveraged IRR is not a substitute for Net Income as a measure of our performance. Management believes that the Unleveraged IRR achieved during the period a community is owned by the Company is useful because it is one indication of the gross value created by the Company’s acquisition, development or redevelopment, management and sale of a community, before the impact of indirect expenses and Company overhead. The Unleveraged IRR achieved on the communities as cited in this release should not be viewed as an indication of the gross value created with respect to other communities owned by the Company, and the Company does not represent that it will achieve similar Unleveraged IRRs upon the disposition of other communities. The weighted average Unleveraged IRR for sold communities is weighted based on all cash flows over the investment period for each respective community, including net sales proceeds."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AVB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\AVB_0000915912_EX991_20160203_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:53:27.925893"
+}

@@ -1,0 +1,119 @@
+exh99_1.htm      
+
+Exhibit 99.1 
+
+ [DATA_TABLE_REMOVED]  
+
+NETAPP REPORTS THIRD QUARTER FISCAL YEAR 2015 RESULTS 
+
+Net Revenues of $1.55 Billion; GAAP EPS of $0.56 and Non-GAAP EPS of $0.75 
+
+  ·   Clustered Data ONTAP® node shipments increased 160% year-over-year    
+
+  ·   Introduced latest version of clustered Data ONTAP, the world’s #1 branded storage operating system1    
+
+  ·   Increased stock repurchase program by an additional $2.5 billion; first $1 billion of stock expected to be repurchased by the end of May 2016    
+
+Sunnyvale, Calif.—February 11, 2015—NetApp (NASDAQ: NTAP) today reported financial results for the third quarter of fiscal year 2015, ended January 23, 2015. 
+
+Third Quarter Financial Results 
+
+Net revenues for the third quarter of fiscal year 2015 were $1.55 billion. GAAP net income for the third quarter of fiscal year 2015 was $177 million, or $0.56 per share,2 compared to GAAP net income of $192 million, or $0.55 per share, for the comparable period of the prior year. Non-GAAP net income for the third quarter of fiscal year 2015 was $238 million, or $0.75 per share,3 compared to non-GAAP net income of $261 million, or $0.75 per share, for the comparable period of the prior year. 
+
+Cash, Cash Equivalents and Investments 
+
+NetApp ended the third quarter of fiscal year 2015 with $5.25 billion of total cash, cash equivalents and investments and during the quarter generated $275 million in cash from operations. The Company returned $251 million to shareholders during the quarter through share repurchases and a cash dividend. The next dividend in the amount of $0.165 per share will be paid on April 23, 2015, to shareholders of record as of the close of business on April 10, 2015. 
+
+“To position NetApp for success now, and in the future, we remain focused on extending our data fabric vision, a differentiated strategy for the hybrid cloud which allows customers to seamlessly manage their data regardless of where it’s stored,” said Tom Georgens, Chairman and CEO. “In the third quarter we continued to deliver against this vision, enhancing our strong product portfolio with new software, services and systems to help our customers to realize the value of the hybrid cloud.” 
+
+Q4 Fiscal Year 2015 Outlook 
+
+The Company provided the following financial guidance for the fourth quarter of fiscal year 2015: 
+
+  ·   Net revenues are expected to be in the range of $1.55 billion to $1.65 billion    
+
+  ·   GAAP earnings per share is expected to be in the range of $0.46 to $0.51 per share    
+
+  ·   Non-GAAP earnings per share is expected to be in the range of $0.70 to $0.75 per share    
+
+Business Highlights 
+
+  ·   NetApp Increased Stock Repurchase Program:    
+
+      -   NetApp increased its stock repurchase program, of which $206 million remained available, by an additional $2.5 billion. The Company plans to repurchase $206 million of its common stock by the end of May 2015. The additional $2.5 billion of repurchases is expected to be completed by the end of May 2018, with the first $1 billion expected to be completed by the end of May 2016. Under its stock repurchase program, NetApp may purchase shares of its outstanding common stock through open market and privately negotiated transactions at prices deemed appropriate by management. The timing and amount of repurchase transactions under the program will depend on market conditions, corporate business and financial considerations, and regulatory requirements.    
+
+  ·   NetApp Expands Product Portfolio:    
+
+      -   Acquisition of Riverbed Technology’s SteelStore Product Line. NetApp purchased the SteelStore product to offer enterprises cloud-integrated storage to securely and efficiently back up data to both private and public cloud environments.    
+
+  ·   NetApp Expands Hybrid Cloud Solutions in Support of Data Fabric Vision:    
+
+ [DATA_TABLE_REMOVED]  
+
+      -   Cloud ONTAP™. Built on clustered Data ONTAP 8.3, the first release of the Cloud ONTAP operating system combines the power of clustered Data ONTAP with the scale of Amazon Web Services (AWS), providing non-disruptive operations, seamless scalability and efficiency, combined with the on-demand computing benefits of cloud services.    
+
+ [DATA_TABLE_REMOVED]  
+
+      -   NetApp Private Storage (NPS) for SoftLayer, an IBM Company. NPS for Cloud, which now includes SoftLayer, enables customers to use multiple clouds and maintain control of their data on a single NetApp data storage device strategically placed in select colocation facilities.    
+
+  ·   NetApp Strengthens Partnerships:    
+
+      -   Deepens AWS Partnership. NetApp SteelStore virtual appliance and the NetApp Cloud ONTAP system, now available on AWS, extend enterprises’ existing on-premises data management and data protection operations to AWS.    
+
+      -   Further Strength in Hyperconverged Infrastructure. Powered by VMware EVO:RAIL and the NetApp Data ONTAP operating system, the NetApp Integrated EVO:RAIL solution allows customers to quickly deploy and manage virtualized business critical applications.    
+
+Webcast and Conference Call Information 
+
+NetApp will host a conference call to discuss these results today at 2:30 p.m. Pacific Time. To access the live webcast of this event, visit the NetApp Investor Relations website at investors.netapp.com. In addition, this press release, historical supplemental data tables and other information related to the call will be posted on the Investor Relations website. An audio replay will also be available on the website after 4:30 p.m. Pacific Time today. 
+
+About NetApp 
+
+Leading organizations worldwide count on NetApp for software, systems and services to manage and store their data. Customers value our teamwork, expertise and passion for helping them succeed now and into the future. 
+
+“Safe Harbor” Statement Under U.S. Private Securities Litigation Reform Act of 1995 
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to statements about extending our data fabric vision and our strategy, all of the statements under the Q4 Fiscal Year 2015 Outlook section, statements under the Business Highlights section regarding the timing and amount of stock repurchases, the terms on which any common stock repurchases will be made, or whether any such repurchases or future dividends will be made; and statements regarding the benefits to us and our customers of our products, solutions and partnerships. All of these forward-looking statements involve risk and uncertainty. Actual results may differ materially from these statements for a variety of reasons, including, without limitation, general economic and market conditions, changes in U.S. government spending, revenue seasonality, foreign exchange impacts, and matters specific to our business, such as customer demand for and acceptance of our products, services, execution by our sales organization, changes in storage consumption models and our ability to continue to generate healthy operating cash flow. These and other equally important factors are described in reports and documents we file from time to time with the Securities and Exchange Commission, including the factors described under the sections titled “Risk Factors” in our most recently submitted Annual and Quarterly Reports on Forms 10-K and 10-Q, respectively. We disclaim any obligation to update information contained in this press release whether as a result of new information, future events, or otherwise. 
+
+### 
+
+NetApp, the NetApp logo, cloud ONTAP, clustered Data ONTAP, MetroCluster and OnCommand are trademarks or registered trademarks of NetApp, Inc. in the United States and/or other countries. All other marks are the property of their respective owners. 
+
+1IDC Worldwide Quarterly Disk Storage Systems Tracker 2014 Q3, December 2014 (Open Networked Disk Storage Systems revenue) 
+
+2GAAP earnings per share is calculated using the diluted number of shares for all periods presented. 
+
+3Non-GAAP net income excludes, when applicable, the amortization of intangible assets, stock-based compensation, acquisition-related income and expenses, restructuring and other charges, asset impairments, non-cash interest expense associated with our debt, net losses or gains on investments, and our GAAP tax provision, but includes a non-GAAP tax provision based upon a projected annual non-GAAP effective tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of the fiscal year. Effective the first quarter of fiscal 2015, the non-GAAP tax provision also excludes, when applicable, (a) tax charges or benefits in the current period that relate to one or more prior fiscal periods that are a result of events such as changes in tax legislation, authoritative guidance, income tax audit settlements and/or court decisions, (b) tax charges or benefits that are attributable to unusual or non-reoccurring book and/or tax accounting method changes, (c) tax charges that are a result of a non-routine foreign cash repatriation, (d) tax charges or benefits that are a result of infrequent restructuring of the Company’s tax structure, (e) tax charges or benefits that are a result of a change in valuation allowance, and (f) the impact of a temporary lapse of tax law, such as the federal research credit, if such extensions have routinely been granted based on past legislative history and are expected to be reinstated in the near future. Non-GAAP earnings per share is calculated using the diluted number of shares for all periods presented. A detailed reconciliation of our non-GAAP to GAAP results can be found at http://investors.netapp.com. 
+
+NetApp Usage of Non-GAAP Financials 
+
+The Company refers to the non-GAAP financial measures in making operating decisions because they provide meaningful supplemental information regarding the Company's ongoing operational performance. Non-GAAP net income excludes, when applicable, the amortization of intangible assets, stock-based compensation, acquisition-related income and expenses, restructuring and other charges, asset impairments, non-cash interest expense associated with our debt, net losses or gains on investments, and our GAAP tax provision, but includes a non-GAAP tax provision based upon our projected annual non-GAAP effective tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of the fiscal year. Effective the first quarter of fiscal 2015, the non-GAAP tax provision also excludes, when applicable, (a) tax charges or benefits in the current period that relate to one or more prior fiscal periods that are a result of events such as changes in tax legislation, authoritative guidance, income tax audit settlements, and/or court decisions, (b) tax charges or benefits that are attributable to unusual or non-reoccurring book and/or tax accounting method changes, (c) tax charges that are a result of a non-routine foreign cash repatriation, (d) tax charges or benefits that are a result of infrequent restructuring of the Company’s tax structure, (e) tax charges or benefits that are a result of a change in valuation allowance, and (f) the impact of a temporary lapse of tax law, such as the federal research credit, if such extensions have routinely been granted based on past legislative history and are expected to be reinstated in the near future. Non-GAAP earnings per share is calculated using the diluted number of shares for all periods. 
+
+We have excluded these items in order to enhance investors’ understanding of our ongoing operations. The use of these non-GAAP financial measures has limitations and they should not solely be used to evaluate our Company without reference to their corresponding GAAP financial measures. As such, we provide non-GAAP financial measures in conjunction with GAAP financial measures. 
+
+These non-GAAP financial measures are used to: (1) measure Company performance against historical results, (2) facilitate comparisons to our competitors’ operating results, and (3) allow greater transparency with respect to information used by management in financial and operational decision making. In addition, these non-GAAP financial measures are used to measure Company performance for the purposes of determining employee incentive plan compensation. 
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]   
+
+ [DATA_TABLE_REMOVED]

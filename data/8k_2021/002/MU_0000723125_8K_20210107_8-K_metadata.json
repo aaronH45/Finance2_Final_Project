@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000723125",
+    "sec_company_name": "MICRON TECHNOLOGY INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210107",
+    "sec_filing_date": "20210107",
+    "sec_changed_date": "20210107",
+    "sec_accepted_date": "20210107160045",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/723125/000072312521000009/0000723125-21-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/723125/000072312521000009/0000723125-21-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MU_0000723125_8K_20210107_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "38381 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2912,
+    "endpoints": [
+        "xml version='1.0' ? mu-20210107",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MU_0000723125_8K_20210107_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:00:47.261746"
+}

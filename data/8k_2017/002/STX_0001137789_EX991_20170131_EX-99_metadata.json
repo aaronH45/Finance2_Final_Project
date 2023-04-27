@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001137789",
+    "sec_company_name": "Seagate Technology plc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170131",
+    "sec_changed_date": "20170131",
+    "sec_accepted_date": "20170131084544",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1137789/000110465917005173/0001104659-17-005173-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1137789/000110465917005173/0001104659-17-005173.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\STX_0001137789_EX991_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7833 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3513,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, each as amended, including, in particular, statements about the terms and conditions of, and completion of, the offering of the Notes described above. The Company cannot assure that the offering will be consummated, nor can it guarantee the size or terms of the offering. These statements identify prospective information and may include words such as “expects,” “intends, ““plans,” “anticipates,” “believes,” “estimates,” “predicts,” “projects,” “should,” “may,” “will,” or the negative of these words, variations of these words and comparable terminology. These forward-looking statements are based on information available to the Company as of the date of this press release and are based on management’s current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties, and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. These forward-looking statements should not be relied upon as representing the Company’s views as of any subsequent date and the Company undertakes no obligation to update forward-looking statements to reflect events or circumstances after the date they were made."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\STX_0001137789_EX991_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:08:07.872009"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000075488",
+    "sec_company_name": "PACIFIC GAS & ELECTRIC Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190129",
+    "sec_filing_date": "20190129",
+    "sec_changed_date": "20190129",
+    "sec_accepted_date": "20190129063404",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1004980/000119312519019657/0001193125-19-019657-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1004980/000119312519019657/0001193125-19-019657.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\PCG_0000075488_EX991_20190129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15925 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8544,
+    "endpoints": [
+        "Press Release   ",
+        "This press release includes forward-looking statements that are not historical facts, including statements about the beliefs, expectations, estimates, future plans and strategies of PG&E Corporation and the Utility. These statements are based on current expectations and assumptions, which management believes are reasonable, and on information currently available to management, but are necessarily subject to various risks and uncertainties. In addition to the risk that these assumptions prove to be inaccurate, factors that could cause actual results to differ materially from those contemplated by the forward-looking statements include factors disclosed in PG&E Corporation and the Utility’s annual report on Form 10-K for the year ended December 31, 2017, their quarterly reports on Form 10-Q for the quarters ended March 31, 2018, June 30, 2018, and September 30, 2018, and their subsequent reports filed with the SEC. Additional factors include, but are not limited to, those associated with the Chapter 11 cases, PG&E Corporation and the Utility’s filing for relief under Chapter 11, and the timing and outcome of the investigation into the cause of the 2018 Camp fire. PG&E Corporation and the Utility undertake no obligation to publicly update or revise any forward-looking statements, whether due to new information, future events or otherwise, except to the extent required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PCG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\PCG_0000075488_EX991_20190129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:39:11.299663"
+}

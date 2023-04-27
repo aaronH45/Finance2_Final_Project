@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920148",
+    "sec_company_name": "LABORATORY CORP OF AMERICA HOLDINGS (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170103",
+    "sec_filing_date": "20170103",
+    "sec_changed_date": "20170103",
+    "sec_accepted_date": "20170103090834",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014817000002/0000920148-17-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014817000002/0000920148-17-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\LH_0000920148_EX991_20170103_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10450 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3908,
+    "endpoints": [
+        "Exhibit   ",
+        "This press release contains forward-looking statements including with respect to estimated 2016 guidance and the impact of various factors on operating results. Each of the forward-looking statements is subject to change based on various important factors, including without limitation, competitive actions in the marketplace, adverse actions of governmental and other third-party payers and the results from the Company’s acquisition of Covance. Actual results could differ materially from those suggested by these forward-looking statements. Further information on potential factors that could affect LabCorp’s operating and financial results is included in the Company’s Form 10-K for the year ended December 31, 2015, and subsequent Forms 10-Q, including in each case under the heading risk factors, and in the Company’s other filings with the SEC, as well as in the risk factors included in Covance’s filings with the SEC. The information in this press release should be read in conjunction with a review of the Company’s filings with the SEC including the information in the Company’s Form 10-K for the year ended December 31, 2015, and subsequent Forms 10-Q, under the heading MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\LH_0000920148_EX991_20170103_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:03:15.910060"
+}

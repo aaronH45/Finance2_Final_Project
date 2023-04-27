@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072207",
+    "sec_company_name": "NOBLE ENERGY INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200212",
+    "sec_changed_date": "20200212",
+    "sec_accepted_date": "20200212105726",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72207/000007220720000010/0000072207-20-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72207/000007220720000010/0000072207-20-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\NBL_0000072207_EX991_20191231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "76631 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10645,
+    "endpoints": [
+        "Exhibit  ",
+        "Please be advised that the digital document you are viewing is provided by Netherland, Sewell & Associates, Inc. (NSAI) as a convenience to our clients. The digital document is intended to be substantively the same as the original signed document maintained by NSAI. The digital document is subject to the parameters, limitations, and conditions stated in the original document. In the event of any differences between the digital document and the original document, the original document shall control and supersede the digital document."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NBL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\NBL_0000072207_EX991_20191231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:15:47.016095"
+}

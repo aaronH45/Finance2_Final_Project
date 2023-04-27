@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000108772",
+    "sec_company_name": "XEROX CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150219",
+    "sec_filing_date": "20150219",
+    "sec_changed_date": "20150219",
+    "sec_accepted_date": "20150219161459",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/108772/000119312515054228/0001193125-15-054228-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/108772/000119312515054228/0001193125-15-054228.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\XRX_0000108772_8K_20150219_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "13088 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2209,
+    "endpoints": [
+        "Form 8-K   ",
+        " 99.1   Registrant’s press release dated February 19, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "XRX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\XRX_0000108772_8K_20150219_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:23:31.288755"
+}

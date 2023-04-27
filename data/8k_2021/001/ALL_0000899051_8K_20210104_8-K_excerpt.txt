@@ -1,0 +1,89 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0000899051 false Common Stock, par value $0.01 per share ALL Common Stock, par value $0.01 per share ALL New York Stock Exchange Chicago Stock Exchange        0000899051   2021-01-04 2021-01-04     0000899051  us-gaap:CommonStockMember exch:XCHI    2021-01-04 2021-01-04     0000899051  us-gaap:CommonStockMember exch:XNYS    2021-01-04 2021-01-04     0000899051  all:SubordinatedDebenturesDue2053At5.10PercentMember exch:XNYS    2021-01-04 2021-01-04     0000899051  us-gaap:SeriesGPreferredStockMember exch:XNYS    2021-01-04 2021-01-04     0000899051  us-gaap:SeriesHPreferredStockMember exch:XNYS    2021-01-04 2021-01-04     0000899051  all:SeriesIPreferredStockMember exch:XNYS    2021-01-04 2021-01-04    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+Date of Report (Date of Earliest Event Reported):  January 4, 2021 
+
+THE ALLSTATE CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+(Registrant’s telephone number, including area code) (847) 402-5000 
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ¨Written communication pursuant to Rule 425 under the Securities Act (17 UR 230.425)  
+
+ ¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CPR 240.14a-12)  
+
+ ¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act:  
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+ Item 2.01Completion of Acquisition or Disposition of Assets.  
+
+On January 4, 2021, the Allstate Corporation (the “Registrant”) completed its previously announced acquisition of National General Holdings Corp. (“National General”) pursuant to that certain Agreement and Plan of Merger, dated as of July 7, 2020 (the “Merger Agreement”), by and among the Registrant, Bluebird Acquisition Corp., a wholly-owned indirect subsidiary of the Registrant (“Merger Sub”), and National General, pursuant to which, among other things, Merger Sub merged with and into National General, with National General continuing as the surviving corporation and as a wholly-owned indirect subsidiary of the Registrant (the “Merger”). 
+
+Pursuant to the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each issued and outstanding common share, par value $0.01 per common share, of National General (each, a “Common Share” and collectively, the “Common Shares”) (other than shares owned by the Registrant and any of its subsidiaries or National General and any of its subsidiaries) were automatically canceled and converted into the right to receive $32.00 in cash, without interest and subject to any applicable tax withholdings (the “Merger Consideration”), plus a special pre-closing dividend of $2.50 (the “Special Pre-Closing Dividend”). 
+
+At the Effective Time, (i) each outstanding option to purchase a Common Share, regardless of whether vested or unvested, was cancelled and converted into the right to receive the Merger Consideration, plus the amount of the Special Pre-Closing Dividend, minus the exercise price per Common Share underlying such option and (ii) each restricted stock unit with respect to a Common Share which was outstanding as of the date the Merger Agreement, regardless of whether vested or unvested, was cancelled and converted into the right to receive the Merger Consideration, plus the amount of the Special Pre-Closing Dividend.  
+
+A copy of the Merger Agreement is filed as Exhibit 2.1 to the Registrant’s Current Report on Form 8-K filed on July 8, 2020 and is incorporated by reference as Exhibit 2.1 hereto. The foregoing description of the Merger Agreement and the Merger does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement. 
+
+ Item 2.03Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant  
+
+On January 4, 2021, and in connection with the Merger, the Registrant entered into the Third Supplemental Indenture (the “Third Supplemental Indenture”), by and among National General, as the issuer, the Registrant, as the guarantor, and The Bank of New York Mellon (the “Notes Trustee”), as trustee, supplementing that certain Indenture, dated as of May 23, 2014, by and between National General and the Notes Trustee, as supplemented by the First Supplemental Indenture, dated as of May 23, 2014 (the “First Supplement Indenture”), relating to the issuance of 6.750% Senior Notes due 2024 (the “2024 Notes”), pursuant to which National General, the Registrant and the Notes Trustee agreed to amend the First Supplemental Indenture to, among other things, add the Registrant as a guarantor of the payment obligations of National General with respect to the 2024 Notes. The outstanding aggregate principal amount of the 2024 Notes as of January 4, 2021 is $350 million. 
+
+A copy of the Third Supplemental Indenture is filed as Exhibit 4.1 to this Current Report on Form 8-K and is incorporated by reference in this Item 2.03. The foregoing description of the Third Supplemental Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the Third Supplemental Indenture. 
+
+- 3 - 
+
+ Item 8.01Other Events  
+
+Following the Effective Time, on January 4, 2021, the Registrant issued a press release announcing the consummation of the Merger. A copy of such press release is filed as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+ Item 9.01.Financial Statements and Exhibits.  
+
+d) Exhibits. The following are filed herewith: 
+
+  [DATA_TABLE_REMOVED] 
+
+- 4 - 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+- 5 -

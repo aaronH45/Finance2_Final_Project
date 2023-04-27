@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000813828",
+    "sec_company_name": "CBS CORP (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160202",
+    "sec_filing_date": "20160204",
+    "sec_changed_date": "20160204",
+    "sec_accepted_date": "20160204172137",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/813828/000081382816000055/0000813828-16-000055-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/813828/000081382816000055/0000813828-16-000055.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\CBS_0000813828_EX99_20160202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10574 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5803,
+    "endpoints": [
+        "Exhibit   ",
+        "Dana McClintock 212-975-1077 dlmcclintock@cbs.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CBS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\CBS_0000813828_EX99_20160202_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:42:40.725892"
+}

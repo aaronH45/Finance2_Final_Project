@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000804753",
+    "sec_company_name": "CERNER Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200205",
+    "sec_filing_date": "20200205",
+    "sec_changed_date": "20200205",
+    "sec_accepted_date": "20200205060333",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/804753/000080475320000004/0000804753-20-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/804753/000080475320000004/0000804753-20-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CERN_0000804753_EX991_20200205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "27459 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8338,
+    "endpoints": [
+        "Exhibit  ",
+        "looking statements. For example, our forward-looking statements include statements regarding future benefits or synergies of the transaction and closing the transaction in the anticipated timeframe or at all. Factors that could cause or contribute to such differences include, but are not limited to risks associated with the unexpected loss or recruitment and retention of key personnel related to these businesses; risks inherent with business acquisitions, such as the failure to obtain necessary regulatory or other approvals, satisfaction of the conditions to closing the transaction in the anticipated timeframe or at all or disruption from the transaction making it more difficult to maintain business and operational relationships; inability to achieve expected operating efficiencies and sustain or improve operating expense reductions; and, failure of the parties to achieve the intended benefits. Additional discussion of these and other risks, uncertainties and factors affecting Cerner's business is contained in Cerner's filings with the Securities and Exchange Commission. The reader should not place undue reliance on forward-looking statements, since the statements speak only as of the date that they are made. Except as required by law, Cerner undertakes no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events, or changes in our business, results of operations or financial condition over time."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CERN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CERN_0000804753_EX991_20200205_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:44:03.365685"
+}

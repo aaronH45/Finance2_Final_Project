@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000356028",
+    "sec_company_name": "CA, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150120",
+    "sec_filing_date": "20150120",
+    "sec_changed_date": "20150120",
+    "sec_accepted_date": "20150120161600",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/356028/000115752315000148/0001157523-15-000148-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/356028/000115752315000148/0001157523-15-000148.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\CA_0000356028_8K_20150120_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "13474 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2614,
+    "endpoints": [
+        "UNITED STATES",
+        " Press release dated January 20, 2015 relating to CA, Inc.’s financial results."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\CA_0000356028_8K_20150120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:20:31.934199"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004127",
+    "sec_company_name": "SKYWORKS SOLUTIONS, INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20220930",
+    "sec_filing_date": "20221123",
+    "sec_changed_date": "20221122",
+    "sec_accepted_date": "20221122200309",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412722000038/0000004127-22-000038-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412722000038/0000004127-22-000038.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\SWKS_0000004127_10K_20220930_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2044442 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 26935,
+    "endpoints": [
+        "PART l",
+        "ITEM 1A. RISK FACTORS."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "SWKS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\SWKS_0000004127_10K_20220930_Item1_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:52:51.151925"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000820313",
+    "sec_company_name": "AMPHENOL CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150205",
+    "sec_filing_date": "20150205",
+    "sec_changed_date": "20150205",
+    "sec_accepted_date": "20150205121724",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/820313/000110465915006929/0001104659-15-006929-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/820313/000110465915006929/0001104659-15-006929.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\APH_0000820313_EX991_20150205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10130 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2311,
+    "endpoints": [
+        "EXHIBIT 99.1 ",
+        "Amphenol Corporation is one of the world’s largest designers, manufacturers and marketers of electrical, electronic and fiber optic connectors, interconnect systems, antennas, sensors and sensor-based products and coaxial and high-speed specialty cable. Amphenol designs, manufactures and assembles its products at facilities in the Americas, Europe, Asia, Australia and Africa and sells its products through its own global sales force, independent representatives and a global network of electronics distributors. Amphenol has a diversified presence as a leader in high growth areas of the interconnect market including: Automotive, Broadband Communications, Commercial Aerospace, Industrial, Information Technology and Data Communications, Military, Mobile Devices and Mobile Networks."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "APH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\APH_0000820313_EX991_20150205_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:32:12.385128"
+}

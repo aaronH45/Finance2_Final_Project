@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092103",
+    "sec_company_name": "SOUTHERN CALIFORNIA EDISON Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220224",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224161036",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/827052/000082705222000006/0000827052-22-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/827052/000082705222000006/0000827052-22-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\EIX_0000092103_EX991_20211231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "14764 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3135,
+    "endpoints": [
+        "Exhibit 99.1",
+        "​"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EIX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\EIX_0000092103_EX991_20211231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:34:02.203640"
+}

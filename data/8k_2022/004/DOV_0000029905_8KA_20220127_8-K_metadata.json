@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000029905",
+    "sec_company_name": "DOVER Corp (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20220127",
+    "sec_filing_date": "20220127",
+    "sec_changed_date": "20220127",
+    "sec_accepted_date": "20220127163338",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990522000006/0000029905-22-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990522000006/0000029905-22-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\DOV_0000029905_8KA_20220127_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "46715 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3523,
+    "endpoints": [
+        "xml version='1.0' ? dov-20220127",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "DOV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\DOV_0000029905_8KA_20220127_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:33.381276"
+}

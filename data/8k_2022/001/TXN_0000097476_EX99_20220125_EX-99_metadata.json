@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000097476",
+    "sec_company_name": "TEXAS INSTRUMENTS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220125",
+    "sec_filing_date": "20220125",
+    "sec_changed_date": "20220125",
+    "sec_accepted_date": "20220125160244",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/97476/000009747622000004/0000097476-22-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/97476/000009747622000004/0000097476-22-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\TXN_0000097476_EX99_20220125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "310574 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9205,
+    "endpoints": [
+        "Document",
+        "Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TXN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\TXN_0000097476_EX99_20220125_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:37.746414"
+}

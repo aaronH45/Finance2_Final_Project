@@ -1,0 +1,341 @@
+Document
+
+Exhibit 99.9
+
+AMENDMENT NO. 6 TO SIXTH AMENDED AND RESTATED CREDIT AND SECURITY AGREEMENT
+
+This Amendment No. 6 to Sixth Amended and Restated Credit and Security Agreement (this “Amendment”) is entered into as of October 21, 2021 (the “Effective Date”), by and among:
+
+(1) QUEST DIAGNOSTICS RECEIVABLES INC., a Delaware corporation (together with its successors and permitted assigns, the “Borrower”),
+
+(2) QUEST DIAGNOSTICS INCORPORATED, a Delaware corporation, as initial servicer (in such capacity, together with any successor servicer or sub-servicer, the “Servicer”),
+
+(3) PNC BANK, NATIONAL ASSOCIATION, in its individual capacity as a Lender (together with its successors, “PNC” or the “PNC Group”) and as issuer of the Letters of Credit,
+
+(4) GOTHAM FUNDING CORPORATION, a Delaware corporation (together with its successors, “Gotham”), and MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), in its capacity as a Liquidity Bank to Gotham (together with its successors, “MUFG” and, together with Gotham, the “Gotham Group”),
+
+(5) ATLANTIC ASSET SECURITIZATION LLC, a Delaware limited liability company (together with its successors, “Atlantic”), and CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, in its capacity as a Liquidity Bank to Atlantic (together with its successors, “CACIB” and, together with Atlantic, the “Atlantic Group”),
+
+(6) PNC BANK, NATIONAL ASSOCIATION, in its capacity as agent for the PNC Group (together with its successors in such capacity, a “Co-Agent”), CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, in its capacity as agent for the Atlantic Group (together with its successors in such capacity, a “Co-Agent”), and MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), in its capacity as agent for the Gotham Group (together with its successors in such capacity, a “Co-Agent”), 
+
+(7) PNC BANK, NATIONAL ASSOCIATION, in its capacity as Letter of Credit issuer (together with its successors in such capacity, the “LC Issuer”), and
+
+(8) MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), as administrative agent for the Atlantic Group, the PNC Group, the Gotham Group and the Co-Agents (in such capacity, together with any successors thereto in such capacity, the “Administrative Agent” and together with each of the Co-Agents, the “Agents”).
+
+RECITALS:
+
+A.The Borrower, the Servicer, the PNC Group, the Gotham Group, the Atlantic Group and the Agents are parties to that certain Sixth Amended and Restated Credit and Security Agreement, dated as of October 27, 2017 (as amended, restated or otherwise modified from time to time, the “Credit and Security Agreement”; capitalized terms used and not otherwise defined herein are used with the meanings attributed thereto in the Credit and Security Agreement).
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+B. Each of the parties hereto desires to amend the Credit and Security Agreement as hereinafter set forth.
+
+NOW, THEREFORE, in consideration of the premises, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+SECTION 1. Amendments to the Credit and Security Agreement. Effective as of the Effective Date:
+
+1.1. Section 4.5 of the Credit and Security Agreement is hereby amended and restated in its entirety to read as follows:
+
+Section 4.5. Effect of Benchmark Transition Event
+
+(a) Benchmark Replacement.
+
+(i) Notwithstanding anything to the contrary herein or in any other Transaction Document, if a Benchmark Transition Event, an Early Opt-in Election or an Other Benchmark Rate Election, as applicable, and its related Benchmark Replacement Date have occurred prior to the Reference Time in respect of any setting of the then-current Benchmark, then (x) if a Benchmark Replacement is determined in accordance with clause (a)(1) or (a)(2) of the definition of “Benchmark Replacement” for such Benchmark Replacement Date, such Benchmark Replacement will replace such Benchmark for all purposes hereunder and under any other Transaction Document in respect of such Benchmark setting and subsequent Benchmark settings without any amendment to, or further action or consent of any other party to, this Agreement or any other Transaction Document and (y) if a Benchmark Replacement is determined in accordance with clause (a)(3) or clause (c) of the definition of “Benchmark Replacement” for such Benchmark Replacement Date, such Benchmark Replacement will replace such Benchmark for all purposes hereunder and under any other Transaction Document in respect of any Benchmark setting at or after 5:00 p.m. (New York City time) on the fifth (5th) Business Day after the date notice of such Benchmark Replacement is provided to the Co-Agents without any amendment to, or further action or consent of any other party to, this Agreement or any other Transaction Document so long as the Administrative Agent has not received, by such time, written notice of objection to such Benchmark Replacement from any of the Co-Agents.
+
+(ii) Notwithstanding anything to the contrary herein or in any other Transaction Document, if a Term SOFR Transition Event and its related Benchmark Replacement Date have occurred prior to the Reference Time in respect of any setting of the then-current Benchmark, then the applicable Benchmark Replacement will replace the then-current Benchmark for all purposes hereunder or under any other Transaction Document in respect of such Benchmark setting and subsequent Benchmark settings, without any amendment to, or further action or consent of any other party to, this Agreement or any other Transaction Document; provided that this clause (ii) shall not be effective unless the Administrative Agent has delivered to the Borrower a Term SOFR Notice. For the avoidance of doubt, the Administrative Agent shall not be required to deliver a Term SOFR Notice after a Term SOFR Transition Event and may do so in its sole discretion.
+
+2
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+(b) Benchmark Replacement Conforming Changes. In connection with the implementation of a Benchmark Replacement, the Administrative Agent will have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Transaction Document, any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to this Agreement or any other Transaction Document.
+
+(c) Notices; Standards for Decisions and Determinations. The Administrative Agent will promptly notify the Borrower of (i) any occurrence of a Benchmark Transition Event, a Term SOFR Transition Event, an Early Opt-in Election or an Other Benchmark Rate Election, as applicable, and its related Benchmark Replacement Date, (ii) the implementation of any Benchmark Replacement and any Benchmark Replacement Adjustment, (iii) the effectiveness of any Benchmark Replacement Conforming Changes and (iv) the removal or reinstatement of any tenor of a Benchmark pursuant to clause (d) below. Any determination, decision or election that may be made by the Administrative Agent pursuant to this Section 4.5, including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive and binding absent manifest error and may be made in its sole discretion and without consent from any other party hereto, except, in each case, as expressly required pursuant to this Section 4.5 or any related definition, with the consent of or in agreement with the Borrower.
+
+(d) Unavailability of Tenor of Benchmark. Notwithstanding anything to the contrary herein or in any other Transaction Document, at any time (including in connection with the implementation of a Benchmark Replacement), (i) if the then-current Benchmark is a term rate (including Term SOFR or USD LIBOR) and either (A) any tenor for such Benchmark is not displayed on a screen or other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion or (B) the regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information announcing that any tenor for such Benchmark is or will be no longer representative, then the Administrative Agent may modify the definition of “Interest Period” for any Benchmark settings at or after such time to remove such unavailable or non-representative tenor and (ii) if a tenor that was removed pursuant to clause (i) above either (A) is subsequently displayed on a screen or information service for a Benchmark (including a Benchmark Replacement) or (B) is not, or is no longer, subject to an announcement that it is or will no longer be representative for a Benchmark (including a Benchmark Replacement), then the Administrative Agent (in consultation with the Borrower) may modify the definition of “Interest Period” for all Benchmark settings at or after such time to reinstate such previously removed tenor.
+
+(e) Benchmark Unavailability Period. Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, the Borrower may revoke any request for a borrowing of, conversion to or continuation of Eurodollar Loans or LMIR Loans to be made, converted or continued during any Benchmark Unavailability Period 
+
+3
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+and, failing that, the Borrower will be deemed to have converted any such request into a request for a borrowing of or conversion to Alternate Base Rate Loans.
+
+(f) Benchmark Rates. The Administrative Agent does not warrant or accept responsibility for, and shall not have any liability with respect to (i) the administration of, submission of or any other matter related to the Benchmark, any component definition thereof or rates referred to in the definition thereof or any alternative, comparable or successor rate thereto (including any then-current Benchmark or any Benchmark Replacement), including whether the composition or characteristics of any such alternative, comparable or successor rate (including any Benchmark Replacement) will be similar to, or produce the same value or economic equivalence of, or have the same volume or liquidity as, the then-current Benchmark or (ii) the effect, implementation or composition of any Benchmark Replacement Conforming Changes.
+
+(g) London Interbank Offered Rate Benchmark Transition Event. On March 5, 2021, the ICE Benchmark Administration (the "IBA"), the administrator of the London interbank offered rate, and the Financial Conduct Authority (the "FCA"), the regulatory supervisor of the IBA, announced in public statements (the "Announcements") that the final publication or representativeness date for (i) 1-week and 2-month London interbank offered rate tenor settings will be December 31, 2021 and (ii) overnight, 1-month, 3-month, 6-month and 12-month London interbank offered rate tenor settings will be June 30, 2023. No successor administrator for the IBA was identified in such Announcements. The parties hereto agree and acknowledge that the Announcements resulted in the occurrence of a Benchmark Transition Event with respect to the London interbank offered rate pursuant to the terms of this Agreement and that any obligation of the Administrative Agent to notify any parties of such Benchmark Transition Event pursuant to clause (c) of this Section 4.5 shall be deemed satisfied.
+
+(h) Certain Defined Terms. As used in this Section 4.5: 
+
+“Available Tenor” means, as of any date of determination and with respect to the then-current Benchmark, as applicable, (x) if the then-current Benchmark is a term rate, any tenor for such Benchmark or (y) otherwise, any payment period for interest calculated with reference to such Benchmark, as applicable, that is or may be used for determining the length of an Interest Period pursuant to this Agreement as of such date and not including, for the avoidance of doubt, any tenor for such Benchmark that is then-removed from the definition of “Interest Period” pursuant to clause (d) of this Section 4.5.
+
+“Benchmark” means, initially, USD LIBOR; provided that if a Benchmark Transition Event, a Term SOFR Transition Event, an Early Opt-in Election or an Other Benchmark Rate Election, as applicable, and its related Benchmark Replacement Date have occurred with respect to USD LIBOR or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement to the extent that such Benchmark Replacement has replaced such prior benchmark rate pursuant to clause (a) of this Section 4.5.
+
+4
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+“Benchmark Replacement” means, for any Available Tenor,
+
+(a) with respect to any Benchmark Transition Event or Early Opt-in Election, the first alternative set forth in the order below that can be determined by the Administrative Agent (in consultation with the Borrower) for the applicable Benchmark Replacement Date:
+
+(1)the sum of: (A) Term SOFR and (B) the related Benchmark Replacement Adjustment; provided that if the Borrower has provided a notification to the Administrative Agent in writing on or prior to such Benchmark Replacement Date that the Borrower has a hedge agreement in place with respect to any of the Loans as of the date of such notice (which such notification the Administrative Agent shall be entitled to rely upon and shall have no duty or obligation to ascertain the correctness or completeness of), then the Administrative Agent, in consultation with the Borrower, may decide not to determine the Benchmark Replacement pursuant to this clause (a)(1) for such Benchmark Transition Event or Early Opt-in Election, as applicable;
+
+(2)the sum of: (A) Daily Simple SOFR and (B) the related Benchmark Replacement Adjustment;
+
+(3)the sum of: (A) the alternate benchmark rate that has been selected by the Administrative Agent, in consultation with the Borrower, as the replacement for the then-current Benchmark for the applicable Corresponding Tenor giving due consideration to (i) any selection or recommendation of a replacement benchmark rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a benchmark rate as a replacement for the then-current Benchmark for Dollar-denominated syndicated credit facilities at such time and (B) the related Benchmark Replacement Adjustment;
+
+(b) with respect to any Term SOFR Transition Event, the sum of (i) Term SOFR and (ii) the related Benchmark Replacement Adjustment; or
+
+(c) with respect to any Other Benchmark Rate Election, the sum of: (i) the alternate benchmark rate that has been selected by the Administrative Agent and the Borrower as the replacement for the then-current Benchmark for the applicable Corresponding Tenor giving due consideration to any evolving or then-prevailing market convention for determining a benchmark rate as a replacement for the then-current Benchmark for Dollar-denominated syndicated credit facilities at such time and (ii) the related Benchmark Replacement Adjustment;
+
+provided that, (i) in the case of clause (a)(1), if the Administrative Agent, in consultation with the Borrower, decides that Term SOFR is not administratively feasible for the Administrative Agent, then Term SOFR will be deemed unable to be determined for purposes of this definition and (ii) in the case of clause (a)(1) or clause (b) of this definition, the applicable Unadjusted Benchmark Replacement is displayed on a screen or other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion. If the Benchmark Replacement as determined pursuant to clause (a)(1), (a)(2) or (a)(3), clause (b) or clause (c) of this definition would be less than the Floor, the Benchmark Replacement will be deemed to be the Floor for the purposes of this Agreement and the other Transaction Documents;
+
+5
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+“Benchmark Replacement Adjustment” means, with respect to any replacement of the then-current Benchmark with an Unadjusted Benchmark Replacement, the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected by the Administrative Agent and the Borrower giving due consideration to (a) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body or (b) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement for Dollar-denominated syndicated credit facilities.
+
+“Benchmark Replacement Conforming Changes” means, with respect to any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “Business Day,” the definition of “Interest Period,” timing and frequency of determining rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of lookback periods, the applicability of breakage provisions and other technical, administrative or operational matters) that the Administrative Agent and the Borrower reasonably determine is reasonably necessary or appropriate to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent and the Borrower decide that adoption of any portion of such market practice is not administratively feasible or if the Administrative Agent and the Borrower reasonably determine that no market practice for the administration of such Benchmark Replacement exists, in such other manner of administration as the Administrative Agent and the Borrower reasonably determine is reasonably necessary in connection with the administration of this Agreement and the other Transaction Documents).
+
+“Benchmark Replacement Date” means the earliest to occur of the following events with respect to the then-current Benchmark:
+
+(1)in the case of clause (1) or (2) of the definition of “Benchmark Transition Event,” the later of (a) the date of the public statement or publication of information referenced therein and (b) the date on which the administrator of such Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all Available Tenors of such Benchmark (or such component thereof);
+
+(2)in the case of clause (3) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein;
+
+(3)in the case of a Term SOFR Transition Event, the date that is thirty (30) days after the Administrative Agent has provided a Term SOFR Notice to the Borrower pursuant to clause (a)(ii) of this Section 4.5; or
+
+(4)in the case of an Early Opt-in Election or an Other Benchmark Rate Election, the first (1st) Business Day after the date notice of such Early Opt-in Election or Other Benchmark Rate Election is provided to the Borrower.
+
+6
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+For the avoidance of doubt, (i) if the event giving rise to the Benchmark Replacement Date occurs on the same day as, but earlier than, the Reference Time in respect of any determination, the Benchmark Replacement Date will be deemed to have occurred prior to the Reference Time for such determination and (ii) the “Benchmark Replacement Date” will be deemed to have occurred in the case of clause (1) or (2) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
+
+“Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the then-current Benchmark:
+
+(1)a public statement or publication of information by or on behalf of the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that such administrator has ceased to provide all Available Tenors of such Benchmark (or such component thereof), permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof);
+
+(2)a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof), the Board of Governors of the Federal Reserve System, the Federal Reserve Bank of New York, an insolvency official with jurisdiction over the administrator for such Benchmark (or such component), a resolution authority with jurisdiction over the administrator for such Benchmark (or such component) or a court or an entity with similar insolvency or resolution authority over the administrator for such Benchmark (or such component), which states that the administrator of such Benchmark (or such component) has ceased to provide all Available Tenors of such Benchmark (or such component thereof) permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof); or
+
+(3)a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that all Available Tenors of such Benchmark (or such component thereof) are no longer representative.
+
+For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to have occurred with respect to any Benchmark if a public statement or publication of information set forth above has occurred with respect to each then-current Available Tenor of such Benchmark (or the published component used in the calculation thereof).
+
+“Benchmark Unavailability Period” means, the period (if any) (a) beginning at the time that a Benchmark Replacement Date has occurred if, at such time, no Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 4.5 and (b) ending at the time that a Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 4.5.
+
+7
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+“Corresponding Tenor” with respect to any Available Tenor means, as applicable, either a tenor (including overnight) or an interest payment period having approximately the same length (disregarding business day adjustment) as such Available Tenor.
+
+“Daily Simple SOFR” means, for any day, SOFR, with the conventions for this rate (which will include a lookback) being established by the Administrative Agent in accordance with the conventions for this rate selected or recommended by the Relevant Governmental Body for determining “Daily Simple SOFR” for bilateral business loans; provided that if the Administrative Agent decides that any such convention is not administratively feasible for the Administrative Agent, then the Administrative Agent may establish another convention in its reasonable discretion.
+
+“Early Opt-in Election” means, if the then-current Benchmark is USD LIBOR, the occurrence of:
+
+(1)a notification by the Administrative Agent (or a request by the Borrower to the Administrative Agent to notify) each of the other parties hereto that at least ten (10 ) currently outstanding Dollar-denominated syndicated or bilateral credit facilities at such time contain (as a result of amendment or as originally executed) a SOFR-based rate (including SOFR, a term SOFR or any other rate based upon SOFR) as a benchmark rate, and
+
+(2)the joint election by the Administrative Agent and the Borrower to trigger a fallback from USD LIBOR and the provision by the Administrative Agent of written notice of such election to the Co-Agents.
+
+“Floor” means zero percent (0%) per annum.
+
+“Other Benchmark Rate Election” means, if the then-current Benchmark is USD LIBOR, the occurrence of:
+
+(a)a notification by the Administrative Agent to (or the request by the Borrower to the Administrative Agent to notify) each of the other parties hereto that at least five currently outstanding Dollar-denominated syndicated credit facilities at such time contain (as a result of amendment or as originally executed), in lieu of a USD LIBOR-based rate, a term benchmark rate that is not a SOFR-based rate as a benchmark rate (and such syndicated credit facilities are identified in such notice and are publicly available for review), and
+
+(b)the joint election by the Administrative Agent and the Borrower that they will no longer use USD LIBOR and the provision by the Administrative Agent of written notice of such election to the Co-Agents.
+
+“Reference Time” with respect to any setting of the then-current Benchmark means (1) if such Benchmark is USD LIBOR, 11:00 a.m. (London time) on the day that is two London banking days preceding the date of such setting, and (2) if such Benchmark is not USD LIBOR, the time determined by the Administrative Agent in its reasonable discretion in consultation with the Borrower.
+
+“Relevant Governmental Body” means the Board of Governors of the Federal Reserve System or the Federal Reserve Bank of New York, or a committee officially 
+
+8
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+endorsed or convened by the Board of Governors of the Federal Reserve System or the Federal Reserve Bank of New York, or any successor thereto.
+
+“SOFR” means, with respect to any Business Day, a rate per annum equal to the secured overnight financing rate for such Business Day published by the SOFR Administrator on the SOFR Administrator’s Website on the immediately succeeding Business Day. 
+
+“SOFR Administrator” means the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing rate).
+
+“SOFR Administrator’s Website” means the website of the Federal Reserve Bank of New York, currently at http://www.newyorkfed.org, or any successor source for the secured overnight financing rate identified as such by the SOFR Administrator from time to time.
+
+“Term SOFR” means, for the applicable Corresponding Tenor as of the applicable Reference Time, the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+
+“Term SOFR Notice” means a written notification by the Administrative Agent to the Borrower of the occurrence of a Term SOFR Transition Event.
+
+“Term SOFR Transition Event” means the determination by the Administrative Agent and the Borrower that (a) Term SOFR has been recommended for use by the Relevant Governmental Body, (b) the administration of Term SOFR is administratively feasible for the Administrative Agent and (c) a Benchmark Transition Event, an Early Opt-in Election or an Other Benchmark Rate Election, as applicable, has previously occurred resulting in the replacement of the then-current Benchmark for all purposes hereunder and under any other Transaction Document in accordance with this Section 4.5 with a Benchmark Replacement the Unadjusted Benchmark Replacement component of which is not Term SOFR.
+
+“Unadjusted Benchmark Replacement” means the Benchmark Replacement excluding the Benchmark Replacement Adjustment.
+
+“USD LIBOR” means the London interbank offered rate for Dollars.
+
+1.2. The definitions of the defined terms set forth below are hereby amended and restated in their entirety to read as follows:
+
+“A-Commitment Expiry Date” means October 21, 2022.
+
+“Alternate Base Rate” means for any day, the rate per annum equal to the higher as of such day of (i) the Prime Rate, or (ii) one-half of one percent (0.50%) above the Federal Funds Rate. For purposes of determining the Alternate Base Rate for any day, changes in the Prime Rate or the Federal Funds Rate shall be effective on the date of each such change; provided, however, that if either (i) the Prime Rate or (ii) one-half of one percent (0.50%) above the Federal Funds Rate at any time shall be less than zero percent (0.00%) per annum, such rate for purposes of this definition shall be deemed to be zero percent (0.00%) per annum.
+
+“Biennial Commitment Expiry Date” means October 20, 2023.
+
+“Scheduled Termination Date” means October 20, 2023.
+
+9
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+SECTION 2. Conditions to Effectiveness. This Amendment shall become effective as of the Effective Date provided that each of the following conditions precedent is satisfied: (a) The Administrative Agent shall have received counterparts of this Amendment (whether by electronic mail or otherwise) duly executed by each of the parties hereto; (b) the Fee Letter dated of even date herewith shall have been duly executed by all parties thereto, and each of the Co-Agents shall have received payment in immediately available funds of their respective Amendment Structuring Fees (as defined in such Fee Letter); and (c) each of the representations and warranties set forth in Section 3 of this Amendment is true and correct as of the Effective Date. 
+
+SECTION 3. Representations and Warranties. The Borrower hereby represents and warrants to the Agents and the Lenders as of the Effective Date as follows:
+
+(a)Representations and Warranties. The representations and warranties contained in Article VI of the Credit and Security Agreement are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date).
+
+(b)Enforceability. The execution and delivery by each of the Borrower and the Servicer of this Amendment, and the performance of each of its obligations under this Amendment and the Credit and Security Agreement, as amended hereby, are within each of its organizational powers and have been duly authorized by all necessary action on each of its parts. This Amendment and the Credit and Security Agreement, as amended hereby, are each of the Borrower’s and the Servicer’s valid and legally binding obligations, enforceable in accordance with its terms.
+
+(c)No Default. Immediately after giving effect to this Amendment and the transactions contemplated hereby, no Event of Default or Unmatured Default exists or shall exist.
+
+SECTION 4. Legal Fees and Disbursements. The Borrower hereby acknowledges and agrees that this Amendment constitutes a Transaction Document and that the provisions of Section 14.5(a) of the Credit and Security Agreement apply hereto.
+
+SECTION 5. Governing Law. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of New York without regard to any otherwise applicable conflicts of law principles (other than Sections 5-1401 and 5-1402 of the New York General Obligations Law which shall apply hereto).
+
+SECTION 6. Effect of Amendment; Ratification. Except as specifically amended hereby, the Credit and Security Agreement is hereby ratified and confirmed in all respects, and all of its provisions shall remain in full force and effect. After this Amendment becomes effective, all references in the Credit and Security Agreement (or in any other Transaction Document) to “the Credit and Security Agreement”, “this Agreement”, “hereof”, “herein”, or words of similar effect, in each case referring to the Credit and Security Agreement, shall be deemed to be references to the Credit and Security Agreement as amended hereby. This Amendment shall not be deemed to expressly or impliedly waive, amend, or supplement any provision of the Credit and Security Agreement other than as specifically set forth herein.
+
+SECTION 7. Counterparts. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, and each counterpart shall be deemed to be an original, and all such counterparts shall together constitute but one and the same instrument. To the fullest extent permitted by applicable law, delivery of an executed
+
+10
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+counterpart of a signature page of this Amendment by telefacsimile or electronic image scan transmission (such as a “pdf” file) will be effective to the same extent as delivery of a manually executed original counterpart of this Amendment.
+
+SECTION 8. Section Headings. The various headings of this Amendment are inserted for convenience only and shall not affect the meaning or interpretation of this Amendment or the Credit and Security Agreement or any provision hereof or thereof.
+
+SECTION 9. Successors and Assigns. This Amendment shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns.
+
+SECTION 10. Severability. If any one or more of the provisions or terms of this Amendment shall for any reason whatsoever be held invalid or unenforceable, then such agreements, provisions or terms shall be deemed severable from the remaining agreements, provisions and terms of this Amendment and shall in no way affect the validity or enforceability of the provisions of this Amendment or the Credit and Security Agreement.
+
+<Balance of page intentionally left blank>
+
+11
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above.
+
+QUEST DIAGNOSTICS RECEIVABLES INC.
+
+By: /s/ Sandip R. Patel
+
+Name: Sandip R. Patel
+
+Title: Vice President and Treasurer
+
+QUEST DIAGNOSTICS INCORPORATED, as Servicer
+
+By: /s/ Sandip R. Patel
+
+Name: Sandip R. Patel
+
+Title: Vice President and Treasurer
+
+12
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+ATLANTIC ASSET SECURITIZATION LLC, as a Conduit
+
+By: /s/ Konstantina Kourmpetis 
+
+Name: Konstantina Kourmpetis
+
+Title: Managing Director
+
+By: ____Richard McBride__________________
+
+Name: Richard McBride 
+
+Title: Director
+
+13
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, individually as a Liquidity Bank for Atlantic and as Atlantic Group Agent
+
+By: /s/ Konstantina Kourmpetis 
+
+Name: Konstantina Kourmpetis
+
+Title: Managing Director
+
+By: ____Richard McBride__________________
+
+Name: Richard McBride 
+
+Title: Director
+
+: 
+
+14
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+PNC BANK, NATIONAL ASSOCIATION,
+
+individually as a Lender, as PNC Group Agent and as LC Issuer
+
+By: /s/Henry Chan 
+
+Name: Henry Chan
+
+Title: Senior Vice President
+
+15
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+GOTHAM FUNDING CORPORATION, as a Conduit
+
+By: /s/ Kevin Corrigan 
+
+Name: Kevin Corrigan
+
+Title: Vice President
+
+16
+
+Quest Amendment No. 6 to 6th A&R CSA
+
+MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), INDIVIDUALLY AS A LIQUIDITY BANK FOR GOTHAM
+
+By: __/s/ Eric Williams______________________________ 
+
+Name: Eric Williams
+
+Title: Managing Director 
+
+MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), AS GOTHAM AGENT
+
+By: __/s/ Eric Williams______________________________ 
+
+Name: Eric Williams
+
+Title: Managing Director 
+
+MUFG BANK, LTD. (F/K/A THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), AS ADMINISTRATIVE AGENT
+
+By: __/s/ Eric Williams______________________________ 
+
+Name: Eric Williams
+
+Title: Managing Director 
+
+17
+
+Quest Amendment No. 6 to 6th A&R CSA

@@ -1,0 +1,67 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk is the risk of erosion of our cash flows, earnings, asset values or equity due to adverse changes in commodity market prices, interest rates and foreign currency and inflation rates.
+
+RISK POLICIES
+
+Sempra Energy has policies governing its market risk management and trading activities. Sempra Energy and the California Utilities maintain separate risk management committees, organizations and processes for the California Utilities and for all non-CPUC regulated affiliates to provide oversight of these activities. The committees consist of senior officers who establish policy, oversee energy risk management activities, and monitor the results of trading and other activities to help ensure compliance with our stated energy risk management and trading policies. These activities include, but are not limited to, monitoring of market positions that create credit, liquidity and market risk. The respective oversight organizations and committees are independent from energy procurement departments.
+
+110
+
+Along with other tools, we use VaR and liquidity metrics to measure our exposure to market risk associated with commodity portfolios. VaR is an estimate of the potential loss on a position or portfolio of positions over a specified holding period, based on normal market conditions and within a given statistical confidence interval. We use a variance-covariance VaR model at a 95% confidence level. A liquidity metric is intended to monitor the amount of financial resources needed for meeting potential margin calls as forward market prices move. VaR and liquidity risk metrics are independently verified by the respective risk management oversight organizations.
+
+The California Utilities use power and natural gas derivatives to manage electric and natural gas price risk associated with servicing load requirements. The use of power and natural gas derivatives is subject to certain limitations imposed by company policy and is in compliance with risk management and trading activity plans that have been filed with and approved by the CPUC. We discuss revenue recognition in Note 3 and additional market-risk information regarding derivative instruments in Note 11 of the Notes to Consolidated Financial Statements.
+
+We have exposure to changes in commodity prices, interest rates and foreign currency and inflation rates. The following discussion of these primary market-risk exposures as of December 31, 2020 includes a discussion of how these exposures are managed.
+
+COMMODITY PRICE RISK
+
+Market risk related to physical commodities is created by volatility in the prices and basis of certain commodities. Our various subsidiaries are exposed, in varying degrees, to commodity price risk, primarily to prices in the natural gas and electricity markets. Our policy is to manage this risk within a framework that considers the specific markets and operating and regulatory environments of each subsidiary.
+
+Sempra Mexico and Sempra LNG are generally exposed to commodity price risk indirectly through their LNG, natural gas pipelines and storage, and power-generating assets. These segments may utilize commodity transactions in an effort to optimize these assets. These transactions are typically priced based on market indices, but may also include fixed price purchases and sales of commodities. Any residual exposure is monitored as described above. A hypothetical 10% unfavorable change in commodity prices would not have resulted in a material change in the fair value of our commodity-based derivatives for these segments at December 31, 2020 or 2019. The impact of a change in energy commodity prices on our commodity-based derivative instruments at a point in time is not necessarily representative of the results that will be realized when the contracts are ultimately settled and does not typically include the generally offsetting impact of our underlying asset positions.
+
+The California Utilities’ market-risk exposure is limited due to CPUC-authorized rate recovery of the costs of commodity purchases, interstate and intrastate transportation, and storage activity. However, SoCalGas may, at times, be exposed to market risk as a result of incentive mechanisms that reward or penalize the utility for commodity costs below or above certain benchmarks for SoCalGas’ GCIM. If commodity prices were to rise too rapidly, it is likely that volumes would decline. This decline would increase the per-unit fixed costs, which could lead to further volume declines. The California Utilities manage their risk within the parameters of their market risk management framework. As of and for the year ended December 31, 2020, the total VaR of the California Utilities’ natural gas and electric positions was not material, and SDG&E’s power procurement activities were in compliance with the procurement plans filed with and approved by the CPUC.
+
+INTEREST RATE RISK
+
+We are exposed to fluctuations in interest rates primarily as a result of our having issued short- and long-term debt. Subject to regulatory constraints, we periodically enter into interest rate swap agreements to moderate our exposure to interest rate changes and to lower our overall cost of borrowing.
+
+111
+
+The table below shows the nominal amount of our debt:
+
+[DATA_TABLE_REMOVED]
+
+(1) After the effects of interest rate swaps. Before the effects of acquisition-related fair value adjustments and reductions for unamortized discount and debt issuance costs, and excluding finance lease obligations.
+
+An interest rate risk sensitivity analysis measures interest rate risk by calculating the estimated changes in earnings that would result from a hypothetical change in market interest rates. Earnings are affected by changes in interest rates on short-term debt and variable-rate long-term debt. If weighted-average interest rates on short-term debt outstanding at December 31, 2020 increased or decreased by 10%, the change in earnings over the 12-month period ending December 31, 2021 would be negligible. If interest rates increased or decreased by 10% on all variable-rate long-term debt at December 31, 2020, after considering the effects of interest rate swaps, the change in earnings over the 12-month period ending December 31, 2021 would be negligible.
+
+We provide further information about debt and interest rate swap transactions in Notes 7 and 11, respectively, of the Notes to Consolidated Financial Statements.
+
+We also are subject to the effect of interest rate fluctuations on the assets of our pension plans, other postretirement benefit plans, and SDG&E’s NDT. However, we expect the effects of these fluctuations, as they relate to the California Utilities, to be recovered in future rates.
+
+FOREIGN CURRENCY AND INFLATION RATE RISK
+
+We discuss our foreign currency and inflation exposures in “Part II – Item 7. MD&A – Impact of Foreign Currency and Inflation Rates on Results of Operations.”
+
+The hypothetical effect for every 10% appreciation in the U.S. dollar against the Mexican peso, in which we have operations and investments, are as follows:
+
+[DATA_TABLE_REMOVED]
+
+(1) After the effects of foreign currency derivatives.
+
+(2) Amount represents the impact to earnings for a change in the average exchange rate throughout the reporting period.
+
+(3) Amount primarily represents the effects of currency exchange rate movement from December 31, 2020 on monetary assets and liabilities and translation of non-U.S. deferred income tax balances at our Mexican subsidiaries.
+
+(4) Amount represents the effects of currency exchange rate movement from December 31, 2020 that would be recorded to OCI at the end of the reporting period.
+
+Monetary assets and liabilities at our Mexican subsidiaries and JVs that are denominated in U.S. dollars may fluctuate significantly throughout the year. These monetary assets and liabilities and certain nonmonetary assets and liabilities are adjusted for Mexican inflation for Mexican income tax purposes. Based on a net monetary liability position of $4.4 billion, including those related to our investments in JVs, at December 31, 2020, the hypothetical effect of a 10% increase in the Mexican inflation rate is 
+
+112
+
+approximately $90 million lower earnings as a result of higher income tax expense for our consolidated subsidiaries, as well as lower equity earnings for our JVs.
+
+We completed the sales of our South American businesses in 2020 and are no longer exposed to changes in foreign currency and inflation rates in Peru and Chile.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

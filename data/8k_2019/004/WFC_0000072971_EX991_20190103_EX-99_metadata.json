@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190103",
+    "sec_filing_date": "20190107",
+    "sec_changed_date": "20190107",
+    "sec_accepted_date": "20190107164305",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297119000003/0000072971-19-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297119000003/0000072971-19-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\WFC_0000072971_EX991_20190103_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6622 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5457,
+    "endpoints": [
+        "ex991-newsrelease   ",
+        "Wayne M. Hewett Biography Since March 2018, Wayne M. Hewett has served as an advisor to Permira, a global private equity firm, and chairman of DiversiTech Corporation, a leading aftermarket manufacturer and supplier of highly engineered components for residential and light commercial heating, ventilating, air conditioning and refrigeration. From August 2015 to November 2017, Hewett was CEO of Klöckner Pentaplast Group, a leading supplier of plastic films for pharmaceutical, medical devices, food, electronics, packaging, printing and specialty applications. He was president and CEO of Arysta LifeScience Corporation, which at the time was one of the world’s largest privately held crop protection and life science companies, from January 2010 until Arysta’s acquisition by Platform Specialty Products Corporation in February 2015, where he served as president until August 2015. Hewett’s career has also included more than 20 years with General Electric Company, including as vice president, Supply Chain and Operations; president and CEO of GE Advanced Materials; president and CEO of GE Silicones; president of GE Plastics Pacific; president of GE Toshiba Silicones; and member of GE’s Corporate Executive Council. He currently serves on the board of directors of The Home Depot, Inc. He holds bachelor’s and master’s degrees in Industrial Engineering from Stanford University. About Wells Fargo Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, investment and mortgage products and services, as well as consumer and commercial finance, through 7,950 locations, 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 37 countries and territories to support customers who conduct business in the global economy. With approximately 262,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 26 on Fortune’s 2018 rankings of America’s largest corporations. Contact: Media Contact Peter Gilchrist, 704-715-3213 peter.gilchrist@wellsfargo.com or Investor Relations John Campbell, 415-396-0523 john.m.campbell@wellsfargo.com © 2019 Wells Fargo Bank N.A. All rights reserved. For Public Use."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\WFC_0000072971_EX991_20190103_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:02:03.441311"
+}

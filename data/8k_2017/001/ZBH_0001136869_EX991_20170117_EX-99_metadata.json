@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001136869",
+    "sec_company_name": "ZIMMER BIOMET HOLDINGS, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170117",
+    "sec_filing_date": "20170118",
+    "sec_changed_date": "20170118",
+    "sec_accepted_date": "20170118080032",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1136869/000119312517011760/0001193125-17-011760-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1136869/000119312517011760/0001193125-17-011760.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\ZBH_0001136869_EX991_20170117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9027 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4415,
+    "endpoints": [
+        "EX-99.1   ",
+        " undue reliance on these forward-looking statements, since, while management believes the assumptions on which the forward-looking statements are based are reasonable, there can be no assurance that these forward-looking statements will prove to be accurate. This cautionary statement is applicable to all forward-looking statements contained in this news release."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ZBH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\ZBH_0001136869_EX991_20170117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:21.070442"
+}

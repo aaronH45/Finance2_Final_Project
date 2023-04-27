@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000096223",
+    "sec_company_name": "LEUCADIA NATIONAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160219",
+    "sec_filing_date": "20160219",
+    "sec_changed_date": "20160219",
+    "sec_accepted_date": "20160219164127",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/96223/000009622316000048/0000096223-16-000048-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/96223/000009622316000048/0000096223-16-000048.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LUK_0000096223_EX991_20160219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "178342 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5971,
+    "endpoints": [
+        "Exhibit   ",
+        "Expenses directly related to the operations of the Bache business have been excluded from Adjusted income from continuing operations before income taxes. These expenses include floor brokerage and clearing fees, amortization of capitalized software used directly by the Bache business in conducting its business activities, technology and occupancy expenses directly related to conducting Bache business operations and business development and professional services expenses incurred by the Bache business as part of its client sales and trading activities, including estimates of certain support costs dedicated to the Bache business. They also include compensation expense and benefits expense for employees whose sole responsibilities pertain to the activities of the Bache business, including front office personnel and dedicated support personnel. Costs related to the exit of the Bache business have also been excluded."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LUK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LUK_0000096223_EX991_20160219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:09.762578"
+}

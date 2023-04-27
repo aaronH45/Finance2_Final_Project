@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001140859",
+    "sec_company_name": "AMERISOURCEBERGEN CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150112",
+    "sec_filing_date": "20150112",
+    "sec_changed_date": "20150112",
+    "sec_accepted_date": "20150112075155",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1140859/000095015715000036/0000950157-15-000036-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1140859/000095015715000036/0000950157-15-000036.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\ABC_0001140859_EX991_20150112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "23000 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10575,
+    "endpoints": [
+        "ex99-1.htm      ",
+        "The tender offer for the outstanding common stock of MWI has not yet commenced. This communication is for informational purposes only and it is neither an offer to purchase nor a solicitation of an offer to sell shares of MWI common stock. At the time the tender offer is commenced, AmerisourceBergen will file a tender offer statement, containing an offer to purchase, a form of letter of transmittal and other related tender offer documents with the SEC, and MWI will file a Solicitation/Recommendation Statement on Schedule 14D-9 relating to the tender offer with the SEC. MWI’s stockholders are strongly advised to read these tender offer materials, as well as any other documents relating to the tender offer and the associated transactions that are filed with the SEC, carefully and in their entirety when they become available, as they may be amended from time to time, because they will contain important information about the tender offer that MWI’s stockholders should consider prior to making any decisions with respect to the tender offer. Once filed, stockholders of MWI will be able to obtain a free copy of these documents at the website maintained by the SEC at www.sec.gov, by directing a request to AmerisourceBergen at Investor Relations, AmerisourceBergen, 1300 Morris Drive, Chesterbrook, PA 19087 or from MWI at www.mwivet.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ABC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\ABC_0001140859_EX991_20150112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:32:11.239270"
+}

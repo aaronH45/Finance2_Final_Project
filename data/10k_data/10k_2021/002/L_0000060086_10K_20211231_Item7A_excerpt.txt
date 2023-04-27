@@ -1,0 +1,57 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+We are a large diversified holding company. As such, we and our subsidiaries have significant amounts of financial instruments that involve market risk. Our measure of market risk exposure represents an estimate of the change in fair value of our financial instruments. Changes in the trading portfolio are recognized in the Consolidated Statements of Income. Market risk exposure is presented for each class of financial instrument held by us and our subsidiaries at December 31, assuming immediate adverse market movements of the magnitude described below. We believe that the various rates of adverse market movements represent a measure of exposure to loss under hypothetically assumed adverse conditions. The estimated market risk exposure represents the hypothetical loss to future earnings and does not represent the maximum possible loss nor any expected actual loss, even under adverse conditions, because actual adverse fluctuations would likely differ. In addition, since our and our subsidiaries investment portfolios are subject to change based on portfolio management strategy as well as in response to changes in the market, these estimates are not necessarily indicative of the actual results which may occur.
+
+Exposure to market risk is managed and monitored by senior management of the parent company and its subsidiaries. Senior management approves the overall investment strategy and has responsibility to ensure that the investment positions are consistent with that strategy with an acceptable level of risk. Management of risk may include buying or selling instruments or entering into offsetting positions.
+
+Interest Rate Risk – We and our subsidiaries have exposure to interest rate risk arising from changes in the level or volatility of interest rates. We and our subsidiaries attempt to mitigate our exposure to interest rate risk by utilizing instruments such as interest rate swaps, commitments to purchase securities, options, futures and forwards. We and our subsidiaries monitor our sensitivity to interest rate changes by revaluing financial assets and liabilities using a variety of different interest rates. Duration and convexity at the security level are used to estimate the change in fair value that would result from a change in each security’s yield. Duration measures the price sensitivity of an asset to changes in yield. Convexity measures how the duration of the asset changes with interest rates. The duration and convexity analysis takes into account the unique characteristics (e.g., call and put options and prepayment expectations) of each security, in determining the hypothetical change in fair value. The analysis is performed at the security level and is aggregated up to the asset category level.
+
+The evaluation is performed by applying an instantaneous change in the yield rates by varying magnitudes on a static balance sheet to determine the effect such a change in rates would have on the recorded market value of our investments and the resulting effect on shareholders’ equity. The analysis presents the sensitivity of the market value of our financial instruments to selected changes in market rates and prices which we believe are reasonably possible over a one year period.
+
+The sensitivity analysis estimates the change in the fair value of interest sensitive assets and liabilities that were held on December 31, 2021 and 2020 due to an instantaneous change in the yield of the security at the end of the period of 100 basis points, with all other variables held constant.
+
+The interest rates on certain types of assets and liabilities may fluctuate in advance of changes in market interest rates, while interest rates on other types may lag behind changes in market rates. Accordingly, the analysis may not be indicative of, is not intended to provide, and does not provide a precise forecast of the effect of changes of market interest rates on our 
+
+70
+earnings or shareholders’ equity. Further, the computations do not contemplate any actions that could be undertaken in response to changes in interest rates.
+
+Our and our subsidiaries’ debt is primarily denominated in U.S. dollars and has been primarily issued at fixed rates, therefore, interest expense would not be impacted by interest rate shifts. The impact of a 100 basis point increase in interest rates on fixed rate debt would result in a decrease in market value of $546 million and $636 million at December 31, 2021 and 2020. The impact of a 100 basis point decrease would result in an increase in market value of $683 million and $742 million at December 31, 2021 and 2020. At December 31, 2021, the impact of a 100 basis point increase in interest rates on variable rate debt, net of the effects of the swaps, would not increase interest expense and at December 31, 2020 would increase interest expense by approximately $3 million on an annual basis.
+
+Equity Price Risk – We and our subsidiaries have exposure to equity price risk as a result of investments in equity securities and equity derivatives. Equity price risk results from changes in the level or volatility of equity prices which affect the value of equity securities or instruments that derive their value from such securities or indexes. Equity price risk was measured assuming an instantaneous 25% decrease in the underlying reference price or index from its level at December 31, 2021 and 2020, with all other variables held constant. For limited partnership holdings, the estimated change in value was largely derived from a beta analysis calculation of historical experience of the portfolio and indices with similar strategies relative to the S&P 500.
+
+Foreign Exchange Rate Risk – Foreign exchange rate risk arises from the possibility that changes in foreign currency exchange rates will impact the value of financial instruments. We and our subsidiaries have foreign exchange rate exposure when we buy or sell foreign currencies or financial instruments denominated in a foreign currency, which is reduced through the use of forward contracts. The sensitivity analysis assumes an instantaneous 20% decrease in the foreign currency exchange rates versus the U.S. dollar from their levels at December 31, 2021 and 2020, with all other variables held constant.
+
+Commodity Price Risk – We and our subsidiaries have exposure to price risk as a result of our investments in commodities. Commodity price risk results from changes in the level or volatility of commodity prices that impact instruments which derive their value from such commodities. Commodity price risk was measured assuming an instantaneous decrease of 20% from their levels at December 31, 2021 and 2020.
+
+We have exposure to price risk as a result of Altium Packaging’s purchases of certain raw materials, such as high-density polyethylene, polycarbonate, polypropylene and polyethylene terephthalate resins in connection with the production of its products. The purchase prices of these raw materials are determined based on prevailing market conditions. Altium Packaging’s contracts with its customers provide for price adjustments for changes in resin prices on a prospective basis. Due to fluctuations in resin prices, over time resin raw material costs are generally offset by the change in revenues, so that Altium Packaging’s gross margins return to the same level as prior to the change in prices.
+
+Credit Risk – We and our subsidiaries are exposed to credit risk relating to the risk of loss resulting from the nonperformance by a customer of its contractual obligations. Although nearly all customers pay for their services on a timely basis, the Company and its subsidiaries actively monitors the credit exposure to its customers. Certain of our subsidiaries may perform credit reviews of customers and may require customers to provide cash collateral, post a letter of credit, prepay for services or provide other credit enhancements.
+
+71
+The following tables present the estimated effects on the fair value of our and our subsidiaries’ financial instruments as of December 31, 2021 and 2020 due to an increase in yield rates of 100 basis points, a 20% decline in foreign currency exchange rates and a 25% decline in the S&P 500, with all other variables held constant, on the basis of those entered into for trading purposes and other than trading purposes.
+
+Trading portfolio:
+
+[DATA_TABLE_REMOVED]
+
+Other than trading portfolio:
+
+[DATA_TABLE_REMOVED]
+
+(a)From a financial reporting perspective, Shadow Adjustments related to life and group reserves would reduce the impact of the decrease in fixed maturity securities.
+
+72
+Trading portfolio:
+
+[DATA_TABLE_REMOVED]
+
+Other than trading portfolio:
+
+[DATA_TABLE_REMOVED]
+
+(a)From a financial reporting perspective, Shadow Adjustments related to life and group reserves would reduce the impact of the decrease in fixed maturity securities.
+
+(b)The market risk at December 31, 2020 will generally be offset by recognition of the underlying hedged transaction.
+
+73
+Item 8. Financial Statements and Supplementary Data.

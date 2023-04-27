@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467858",
+    "sec_company_name": "General Motors Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220201",
+    "sec_filing_date": "20220201",
+    "sec_changed_date": "20220201",
+    "sec_accepted_date": "20220201162410",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785822000032/0001467858-22-000032-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785822000032/0001467858-22-000032.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\GM_0001467858_EX991_20220201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14993 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 11482,
+    "endpoints": [
+        "q42021earnings02012022   ",
+        " Guidance Reconciliations The following table reconciles expected Net income attributable to stockholders under U.S. GAAP to expected EBIT-adjusted (dollars in billions): Year Ending December 31, 2022 Net income attributable to stockholders $ 9.4-10.8 Income tax expense 2.8-3.4 Automotive interest expense, net 0.8 EBIT-adjusted(a) $ 13.0-15.0 __________ (a) We do not consider the potential future impact of adjustments on our expected financial results."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\GM_0001467858_EX991_20220201_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:25:24.106411"
+}

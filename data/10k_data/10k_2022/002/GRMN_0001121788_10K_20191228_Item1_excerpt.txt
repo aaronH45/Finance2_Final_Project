@@ -1,0 +1,317 @@
+Part I 
+
+Item 1.  
+
+Business 
+
+This discussion of the business of Garmin Ltd. ("Garmin" or the "Company") should be read in conjunction with, and is qualified by reference to, “Management's Discussion and Analysis of Financial Condition and Results of Operations” under Item 7 herein and the information set forth in response to Item 101 of Regulation S-K in such Item 7 is incorporated herein by reference in partial response to this Item 1. Garmin has identified five reportable segments for external reporting purposes: auto, aviation, fitness, marine, and outdoor. There are two operating segments (auto PND and auto OEM) that are not reported separately but are aggregated within the auto reportable segment. The Company’s Chief Executive Officer, who has been identified as the Chief Operating Decision Maker (CODM), allocates resources and assesses performance of each operating segment individually.  
+
+Garmin was incorporated in Switzerland on February 9, 2010 as successor to Garmin Ltd., a Cayman Islands company (“Garmin Cayman”). Garmin Cayman was incorporated on July 24, 2000 as a holding company for Garmin Corporation, a Taiwan corporation, in order to facilitate a public offering of Garmin Cayman shares in the United States. On June 27, 2010, Garmin became the ultimate parent holding company of the Garmin group of companies pursuant to a share exchange transaction effected for the purpose of changing the place of incorporation of the ultimate parent holding company of the Garmin group from the Cayman Islands to Switzerland (the “Redomestication”). Pursuant to the Redomestication, all issued and outstanding Garmin Cayman common shares were transferred to Garmin and each common share, par value U.S. $0.005 per share, of Garmin Cayman was exchanged for one registered share, par value 10 Swiss francs (CHF) per share, of Garmin. At the Company’s Annual General Meeting on June 10, 2016, the Company’s shareholders approved the cancellation of 10,000,000 registered shares of the Company held by the Company (the “Formation Shares”) and the reduction in par value of each share of the Company from CHF 10 to CHF 0.10 and the amendment of the Company’s Articles of Association to effect a corresponding share capital reduction. This share cancellation has reduced authorized shares from 208,077,418 shares to 198,077,418 shares, with an incremental 99,038,709 conditional shares that may be issued through the exercise of option rights, which are granted to Garmin employees or members of its Board of Directors. Garmin owns, directly or indirectly, all of the operating companies in the Garmin group.  
+
+Garmin’s annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statement and Forms 3, 4 and 5 filed by Garmin’s directors and executive officers and all amendments to those reports will be made available free of charge through the Investor Relations section of Garmin’s website (http://www.garmin.com) as soon as reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (the “SEC”). The SEC maintains a website (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. 
+
+The reference to Garmin’s website address does not constitute incorporation by reference of the information contained on this website, and such information should not be considered part of this report on Form 10-K. 
+
+Company Overview  
+
+For more than 30 years, Garmin Ltd. and subsidiaries (together, the “Company”) has pioneered new wireless devices and applications that are designed for people who live an active lifestyle, many of which feature Global Positioning System (GPS) navigation. Garmin serves five primary business units, including auto, aviation, fitness, marine, and outdoor. We believe it is through these business units that Garmin is able to achieve synergies in raw material purchases, manufacturing, distribution, research and development, and marketing efforts making for a stronger, more effective company. Garmin designs, develops, manufactures, markets, and distributes a diverse family of hand-held, wearable, portable, and fixed-mount GPS-enabled products and other navigation, communications, sensor-based and information products. Since the inception of its business, Garmin has delivered over 220 million products, which included more than 15 million products delivered during fiscal 2019.  
+
+4 
+
+Products  
+
+Garmin offers a broad range of solutions across its reportable segments as outlined below. In general, Garmin believes that its products are known for their value, high performance, ease of use, innovation, and ergonomics.  
+
+Many of the Company’s products utilize Global Positioning System (GPS) and other global navigation satellite systems (GNSS) receivers as a product feature that can be utilized in a variety of applications, including navigation, global positioning and tracking. GPS is a United States owned satellite network constellation that supports global positioning and navigation, providing precise geographic location and related data to both commercial and government GPS receivers. Commercial access to GPS is provided free of charge.  
+
+In addition to GPS, other global navigation satellite systems (GNSS) utilized by Garmin products include Japan’s MTSAT-based Satellite Augmentation System (MSAS), the European Geostationary Navigation Overlay Service (EGNOS) aviation Safety of Life (SoL) service, the Russian Global Navigation Satellite System (GLONASS), the European Union Galileo system, and the Chinese BeiDou Navigation Satellite System (BDS). 
+
+Some of Garmin’s products utilize a combination of global navigation satellite systems to improve navigational fix, which results in improved accuracy. 
+
+On a subscription basis, certain Garmin products offer access to the Iridium satellite network, a synchronized constellation of 66 low Earth orbit (LEO) satellites offering global data communication coverage. Iridium’s use of a LEO constellation network with 66 satellites gives it the ability to span the entire globe, offering 100 percent coverage worldwide to enable satellite-based communication. 
+
+Fitness 
+
+Garmin offers a broad range of products designed for use in fitness and lifestyle activities. Garmin currently offers the following product categories within the Fitness segment to consumers around the world: 
+
+•  
+
+Running and Multi-sport Watches: Garmin running and multi-sport watches are offered under the Forerunner® product series. The Forerunner series offers GPS-enabled watches with features unique to each model. Depending on model, features include wrist-based heart rate monitoring, wrist-based pulse oximeter, music storage capabilities, and Garmin Pay™ contactless payment. 
+
+•  
+
+Cycling Products: Garmin cycling products include cycling computers, power meters, and safety and awareness equipment. Additionally, Garmin offers Tacx® indoor training equipment, including smart and basic trainers.  
+
+•  
+
+Activity Tracking and Smartwatch Devices: Garmin offers a wide range of activity tracking device and smartwatch devices. The Garmin product offerings include basic activity trackers, activity tracking fitness bands, GPS-enabled smartwatches, and fashion-forward hybrid smartwatches with analog style displays. The activity tracking and smartwatch devices offered by Garmin are the vívomove® series, vívoactive® series, vívosmart® series, vívofit® series, vívosport® series, and the Venu™. Each series of activity tracking and smartwatch devices offered has unique features, all to enhance and promote healthy and active lifestyles. Features of the activity tracking and smartwatch devices, depending on the series and model, include Garmin Pay, music storage capabilities, and 24/7 health monitoring.  
+
+•  
+
+Garmin Connect and Garmin Connect Mobile: Garmin Connect™ and Garmin Connect™ Mobile are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data. In addition, users can share their accomplishments, create training groups and group challenges, and get feedback and encouragement from the Connect community. 
+
+5 
+
+•  
+
+Connect IQ: The Connect IQ™ application development platform enables third-parties to create a variety of experiences that run on a wide assortment of Garmin devices. Connect IQ provides developers with an easy-to-use software development kit (SDK) to facilitate development efforts in creating watch faces, applications, widgets, and data fields. These third-party applications are available for download by Garmin users via their mobile phone or computer and run on their compatible Garmin wearable, bike computer, golf device, or outdoor handheld. 
+
+Outdoor 
+
+Garmin offers a broad range of products designed for use in outdoor activities. Garmin currently offers the following product categories within the Outdoor segment to consumers around the world: 
+
+•  
+
+Outdoor Handhelds: Garmin offers outdoor handhelds under the Oregon®, Rino®, Montana®, eTrex®, GPSMAP®, Foretrex® and inReach® product lines. Handhelds range from basic waypoints navigation capabilities to advanced color touchscreen devices offering barometric altimeter, 3-axis compass, camera, preloaded maps, wi-fi and smartphone connectivity, two-way satellite communication and other features. Each series of products is designed to serve various price points. Handhelds with inReach include global satellite technology which, when combined with an active subscription, offers 2-way text messaging, S.O.S. capabilities and weather forecasts while anywhere in the world. 
+
+ [DATA_TABLE_REMOVED] 
+
+•  
+
+Golf Devices: Garmin golf devices are offered under the Approach® product line. The Approach series includes handhelds, wearables, club sensors, and laser ranging devices. Over 41,000 preloaded worldwide golf courses are available to be utilized on certain Garmin golf devices. Handheld and wearable golf devices provide yardage distances to the front, back, and middle of the green.  
+
+•  
+
+Dog Tracking and Training Devices: Garmin offers dog tracking and training devices under the Astro®, Alpha®, Atemos™, PRO, Sport PRO™, BarkLimiter™, and Delta® product lines.  
+
+Aviation  
+
+The Garmin aviation segment is a leading provider of solutions to aircraft manufacturers, existing aircraft owners and operators, as well as government/defense customers and serves a range of aircraft including business aviation, general aviation, experimental/light sport, helicopters, optionally piloted vehicles (OPV), unmanned aerial vehicles (UAV) and more. Garmin’s portfolio includes autonomous flight solutions, flight displays, navigation, communication, flight control, hazard avoidance, weather radar, radar altimeter, datalink weather receivers and services, engine information systems, traffic collision avoidance systems, terrain awareness and warning systems (TAWS), controller-pilot data link (CPDLC), an expansive suite of automatic dependent surveillance broadcast (ADS-B) solutions, in-cockpit and cloud connectivity, wearables, portables, apps, training, simulation, flight planning/filing, premium trip services, aviation data services as well as other solutions that are known for innovation, reliability, and value. The list below includes a sampling of some of the aviation capabilities currently offered by Garmin around the world: 
+
+6 
+
+•  
+
+Integrated Flight Decks/Flight Displays: Garmin offers a range of integrated glass flight decks from the G1000® NXi for the general aviation and business aviation markets to the G5000® for business aviation, defense and commercial applications. Integrated capabilities include navigation, communication, flight instruments, weather, terrain, traffic, ADS-B, engine information on large high-resolution color displays, and automatic flight control systems. Head-up display technology virtually mirrors the primary flight display instruments allowing for increased aircraft capability in adverse weather conditions. Additional features include: Garmin’s 3-D synthetic vision technology (SVT™), weather, Garmin’s electronic stability and protection system (ESP™), electronic flight charts, touchscreen and voice controls, CPDLC, audio and visual feedback, and animation to help pilots know exactly how the system is responding to their input. 
+
+Garmin offers similar integrated glass flight decks for the helicopter market with the G1000H® NXi, G3000H™, and G5000H™. Basic and advanced capabilities are similar to those offered to the fixed-wing aircraft market. The helicopter offerings have been optimized for rotorcraft and offer features like helicopter synthetic vision technology (HSVT™), helicopter terrain awareness and warning system with voice call outs, radar altimeter display, helicopter-specific databases that include additional heliports and low-altitude obstacles, WireAware™ wire-strike avoidance technology, as well as high resolution terrain, tailored ADS-B traffic alerting, and the ability to display video from a forward looking infrared (FLIR) camera or other video sources.  
+
+Garmin also offers all-glass integrated flight decks to the retrofit market through G950® NXi, G1000® NXi, G3000® and G5000®. Additionally, Garmin offers electronic flight display solutions that provide essential information such as aircraft altitude, attitude and heading while also displaying data from other avionics such as weather, traffic and much more. These solutions include G3X Touch™, G500H TXi, G500 TXi, G600 TXi and G700 TXi. 
+
+•  
+
+Electronic Flight Instruments: To help aircraft owners with aging aircraft systems while provide modern flight display capability and preserve the integrity of their original aircraft panel, Garmin offers the G5 and GI 275 electronic flight instruments. These instruments are designed to replace existing mechanical attitude indicator, attitude directional indicator (ADI), course deviation indicator (CDI), horizontal situation indicator (HSI), engine indication system (EIS), and it can serve as a standby to a number of flight displays. 
+
+•  
+
+Panel-mount aviation products: 
+
+GPS/Navigation/Communication Solutions: Garmin serves the market with the GTN™ Xi series, a premium touchscreen GPS, VHF navigation and communication, and multi-function display (MFD). In addition to these core functions, this series of products combines a wealth of information for the pilot into a single display including flight planning, datalink weather, weather radar, traffic, terrain awareness and warning system (TAWS/HTAWS), charts, airport information, airspace boundaries, and much more. Additional capabilities provide advanced ADS-B “In” traffic display, including TerminalTraffic™ and patented TargetTrend™ technology as well as the ability to control the display with voice commands. Advanced GTN Xi integration capabilities provide the option to install and control a remotely located transponder and audio processor for an even more streamlined installation and single interface. The GTN Xi series also provides wireless cockpit connectivity (when properly equipped) with mobile device apps (such as Garmin Pilot™) or portable aviation navigators (such as aera® 660). Wireless cockpit connectivity features can include voice call control, text messaging, automatic wireless database updating via Database Concierge, wireless flight plan transfer, SiriusXM radio control, sharing of weather, traffic, position information and more. In 2019, Garmin introduced the GPS 175, GNC 355, and GNX 375, adding to the range of GPS navigators offered. The GPS 175 is a GPS navigator with a color touchscreen display and WAAS/LPV approach capabilities. The GNC 355 adds a built-in Comm radio to the color touchscreen GPS navigator with WAAS/LPV approach capabilities. The GNX 375 features ADS-B Out, as well as dual-link ADS-B In via a built-in transponder to the color touchscreen GPS navigator. Garmin also offers more traditional VHF navigation and VHF communication transceivers with the GNC® and GTR™ series. 
+
+7 
+
+Traffic Solutions: Garmin offers a comprehensive line of traffic alert and collision avoidance systems (TCAS) and traffic advisory systems (TAS) for all markets served. Advanced TCAS II systems actively identify potential aircraft threats, coordinate and instruct the pilot with a resolution advisory (RA) via a spoken command. The GTS™ series also offers TCAS I and TAS that combine active and passive surveillance data to pinpoint specific traffic threats. The systems use our patented CLEAR CAS™ technology to correlate passive automatic dependent surveillance broadcast (ADS-B) targets with active surveillance targets for a more comprehensive display to the pilot. These systems can also provide audible alerts in a spoken ATC-like format that is easily understood by the pilot and allows them to keep their eyes outside of the aircraft.  
+
+Audio Solutions: The GMA™ series of audio panels ranging from offerings with basic capabilities for the recreational pilot to advanced capabilities including voice control of audio panel and GTN™ Xi series functions, Bluetooth connectivity for wireless music input, phone calls, advanced audio effects, 3D spatial audio processing, digital voice recorder, advanced auto squelch, ambient noise based volume adjustment and independent pilot/co-pilot communications capabilities. When connected to a Garmin GTN Xi series navigator, advanced voice control functions are available, and include the ability to change page views, load destination frequencies and much more.  
+
+Transponder and ADS-B Solutions: Garmin offers solutions for all aviation markets we serve that meet and exceed both FAA and EASA’s ADS-B requirements. For business aviation aircraft, Garmin pairs the GTX™ 3000 transponder and GDL® 88 datalink for both ADS-B out and in while mitigating the need to modify the existing aircraft panel. The GTX 345 and GTX 335 are also available as an option for some business aviation aircraft. 
+
+Business aviation, general aviation, helicopters and experimental/light sport aircraft can utilize our popular GTX 345 series of all-in-one ADS-B transponders that offer options with and without GPS built-in (if the aircraft is not already equipped with the required GPS source) as well as ADS-B “In”. ADS-B “In” information can be displayed on most Garmin multi-function displays and integrated flight decks as well as select third party displays. Additionally, the GTX 345 can wirelessly transmit this data to a portable device such as a tablet using the Garmin Pilot™ app or compatible Garmin aviation portable. ADS-B “In” offers pilots basic weather information including weather radar imagery, as well as traffic information that can be enhanced with our TerminalTraffic™ and patented TargetTrend™ technology. A diversity antenna option is available that adds a second antenna on top of the aircraft for better overall system performance and/or to support applications that require sending position information to satellites. 
+
+Garmin also offers a range of FAA certified UAT-based ADS-B products within the GDL® series, including both ADS-B “Out” and ADS-B “In/Out” solutions with options for built-in GPS.  
+
+Many of the ADS-B “In” capable products provide traffic correlation with both Garmin and other compatible third-party traffic systems (such as TCAS) to provide a single, correlated display of traffic to the pilot. 
+
+Weather Solutions: Weather capabilities are delivered within our GDL®, GSR™, GSX™, GTX™ and GWX™ series. Garmin solutions include offering SiriusXM satellite data link weather information (subscription required) to an aircraft via various panel-mount Garmin displays and/or portable devices. With our GSR 56 datalink, on-demand global weather information, text/voice communications and position tracking through the Iridium satellite network (subscription required) is available. The GWX and GSX series offer solid state, real-time, airborne doppler-capable weather radar solutions. Doppler-enhanced features include ground-clutter suppression and turbulence detection. Advanced capabilities also include lightning and hail prediction, volumetric autoscanning and predictive windshear technology.  
+
+Flight Control Solutions: Garmin offers both standalone and integrated flight control solutions. Our G1000® NXi, G2000®, G3000® and G5000® platforms are integrated with our GFC™ 700 digital autopilot and optionally with our autothrottle solution. For aircraft not equipped with a Garmin integrated flight deck, we offer the GFC 600 and GFC 500 digital autopilots. The GFC 600 and GFC 500 uniquely integrate with our other retrofit avionics to allow display of the autopilot modes, flight director (FD) command cues and more. The unique design of our autopilots delivers superior in-flight characteristics, self-monitoring capabilities and minimal maintenance needs when compared to older generation autopilot systems. 
+
+8 
+
+•  
+
+Autonomi™ Safety Solutions: Garmin offers autonomously activated safety solutions, when appropriately equipped, to help aid the safety of the pilot and passengers. Electronic Stability and Protection (ESP™) is a safeguard that assists pilots to maintain safe, stable flight by monitoring the aircraft’s flight condition to help prevent loss of control. Emergency Descent Mode (EDM) helps pilots and passengers in the event a pressurized cabin becomes depressurized by descending to a lower altitude. Garmin Autoland takes complete control of the flight to land the airplane in an emergency where the pilot is unable to fly. Autoland is engaged automatically or by pressing a button. It automatically searches for the nearest airport while considering weather, terrain, fuel and more. It keeps the passengers informed while communicating with ATC. It automatically engages aircraft controls like flaps, throttles, brakes to land the aircraft without any intervention from the pilot. 
+
+•  
+
+Portable and Wearable Solutions: Garmin offers a variety of portable aviation solutions, including our aera® series portable navigators, D2™ series pilot watches, inReach® global communicators and GDL® series remote ADS-B/SiriusXM receivers. The aera series offers aviators a touchscreen navigation device compatible with a complement of aviation databases including navigation, SafeTaxi®, FliteCharts®, airport directory and terrain/obstacles for heightened situational awareness. Advanced features can include: 3D Vision virtual perspective view of surrounding terrain, a digital document viewer, a scratch pad, geo-referenced sectional and approach charts, wireless database updating, and SiriusXM radio and weather display (subscription required). Complementing the portable display products and the Garmin Pilot™ mobile application is the GDL 52 series, which can provide a remote source of GPS, ADS-B “In” information for traffic and weather, SiriusXM weather and audio as well as backup attitude reference. 
+
+The Garmin wearable aviation solutions include our D2 series pilot watches, which offer a built-in worldwide aviation navigation database and more alongside multisport and smartwatch features. Designed specifically for aviators, the current D2 series can display weather information (METARS and TAFs) as well as weather radar from an internet connected smartphone. Other flight information capabilities include a moving map overlaid with the aircraft’s position, HSI navigation, Zulu/UTC time and more. With a built-in baro-adjustable altimeter, vibrating alerts based on altitude can be activated to remind a pilot to activate supplemental oxygen or perform other time critical tasks. The D2 Delta series watches also include multisport features with wrist-based heart rate monitoring, smartwatch capabilities, music storage capabilities, and a wrist-based pulse oximeter sensor available on the D2 Delta PX.  
+
+inReach satellite communications and services provide the ability to stay in touch globally. Send and receive messages, navigate your route, track and share your journey and, if necessary, trigger an SOS to get emergency help from a 24/7 global monitoring center via the 100% global Iridium® satellite network. Offering additional value for pilots, inReach is integrated with FlightService’s Surveillance Enhanced Search and Rescue (SE-SAR) and Adverse Condition Alerting Service (ACAS) programs. These programs allow FlightService to track your position reports and respond quickly in an emergency situation as well as provide any adverse weather conditions that may develop on the planned route of flight. 
+
+9 
+
+•  
+
+Services: 
+
+Mobile Applications: Garmin Pilot™ is a premium, global app for iOS or Android mobile devices used for flight planning, filing a flight plan, in flight navigation, and automatic flight logging. It offers a comprehensive and simplified experience to access a wealth of information during any particular phase of the flight including weight and balance, performance, and trip calculations, checklists, airport information, weather, traffic, 3D Vision virtual perspective view of surrounding terrain, a digital document viewer, a scratch pad, geo-referenced sectional and approach charts, wireless database updating, ADS-B weather and traffic as well as SiriusXM radio and weather (subscription required). It incorporates global or regional navigation databases and charting options from Garmin as well as optional Jeppesen data and charts. While internet connected, the app provides access to comprehensive global weather information, as available per region, that generally includes weather radar, weather report (METARS), forecasts (TAFs/MOS), weather alerts (AIRMETS/SIGMETS), pilot reports, satellite imagery (visible and IR), winds and temperature aloft, lightning data, and notices to airmen (NOTAM). Garmin Pilot is the cornerstone of Garmin’s connected cockpit, for example when connected wirelessly with G1000® NXi, a host of benefits become available including automated database updates for the avionics, flight plan transfer, weather and traffic streaming, real-time engine information and much more. Garmin Pilot™ is also wirelessly compatible with select aera® series portables, D2™ aviator watches, G3X Touch™ flight displays, GTX™ series transponders, inReach® communicators and much more.  
+
+Additionally, the FltPlan® Go app offers pilots a free, advertisement supported, alternative to Garmin Pilot and is available for iOS, Android, and Mac. The FltTrack™ app, available for iOS and Android, allows users to view flights by aircraft registration on high-resolution, full-screen maps with weather radar. Flight details include both filed and actual departure times and filed/amended routes.  
+
+Web Services: Pilots and operators can utilize a variety of Garmin web applications before, during and after flights. FltPlan.com is the core of these applications and is trusted by pilots and flight departments to plan and file more flight plans than any other provider. It is renowned for fuel burn accuracy, reliable flight times, accurate routing and features performance profiles for more than 320 aircraft models from experimental aircraft to inter-continental business jets. 
+
+FltPlan.com offers a suite of comprehensive trip services designed to help support pilots and flight departments. Services include Pre-departure clearances, runway analysis, eAPIS, international handling, privacy services with DOT COM call signs, flight tracking, fleet management and flight logistics/scheduling. 
+
+For flight scheduling, FltLogic.com offers a comprehensive suite of features from trip requests and approvals to flight planning and post-flight reporting to meet complex and changing operational needs. FltPlan® Manager is an integrated, web-based fleet tracking program designed specifically for charter operations, large flight departments, and fractional operations. It offers operators better insight and control of their fleet from a single administrative account. FltSafety.com is a safety management system website that assists pilots and flight departments in managing potential hazards and risks and ensuring overall safety within flight operations. 
+
+Aviation Databases: Garmin offers a wide selection of databases, extended warranties and subscription services to complement our products. Our database offerings include Navigation Data, Obstacles, SafeTaxi® enhanced airport diagrams, Terrain, Basemap and more. Some of these databases are required by government regulations to be updated regularly for legal flight, and Garmin offers single updates as well as annual subscriptions for owners and operators to update all of an aircraft's qualifying avionics systems at a single price. With a database subscription and compatible avionics, owners and operators can conveniently and wirelessly transfer the latest database updates to their avionics via a mobile device running our Garmin Pilot™ application. 
+
+10 
+
+Extended Warranties: Garmin’s aviation product support team has been honored with top awards from two of the leading independent avionics support surveys for 16 consecutive years. To further our full product support beyond the standard product warranties, we also offer fixed price extended warranties for integrated flight decks and custom plans tailored to the owner or operator’s needs, allowing them peace of mind and predictable maintenance costs. These further our standard warranty periods with world-class factory technical service, 24/7 aircraft-on-ground (AOG) emergency service and more. 
+
+Datalink Communications: Garmin’s comprehensive satellite datalink network subscriptions provide owners and operators with compatible avionics, a global weather, voice calling, text messaging and position reporting solution. Global weather includes radar imagery, cloud cover, METARs, TAFs and much more for any point on the globe where the data is available (weather products vary by region). 
+
+Auto 
+
+Garmin designs and develops products for use in the auto market that are offered to customers around the world.  
+
+•  
+
+Personal Navigation Devices (PND): Garmin offers personal navigation devices under the Garmin Drive™, zūmo®, dēzl™, RV, Overlander™, and Garmin fleet™ product lines. The zūmo series offers motorcycle-specific features. The RV series offers features specific to the RV enthusiast. The dēzl series offers over-the-road trucking features while the Garmin fleet series delivers an integrated tracking and dispatch fleet system. The Overlander is a rugged, all-terrain navigator with a 7-inch color touchscreen and topography maps for off-road guidance in North and South America.  
+
+Garmin PNDs feature large screens, Amazon Alexa integration, integrated traffic receivers for traffic avoidance, map updates, spoken street names, voice activated navigation, speed limit indication, lane assist with PhotoReal junction views (thousands of high-quality photos of actual upcoming junctions), Bluetooth hands-free capability, DashCams, driver awareness alerts, and backup cameras. 
+
+•  
+
+Original Equipment Manufacturer (OEM) Solutions: Garmin has cultivated key relationships with many automobile manufacturers to be the provider of a variety of auto OEM solutions. These range from complete embedded infotainment systems that provide a broad range of functionality, to integrated camera solutions, embedded navigation solutions, and precise positioning technology solutions. These support not only the infotainment system in the vehicle, but also key advanced driver-assistance systems (ADAS) functionality as well. 
+
+•  
+
+Cameras: Garmin offers GPS-enabled DashCams that provide high-quality video recording, provide forward collision and lane departure warnings, and automatically saves video footage with G-sensor incident detection. DashCams are offered as compact, discreet standalone cameras that can be mounted to a car windshield or built-in to certain PNDs. Garmin also offers wireless backup cameras that can be utilized with compatible PNDs to display camera footage behind the vehicle when the vehicle is in reverse. 
+
+Marine 
+
+Garmin is a leading manufacturer of recreational marine electronics and offers a broad range of products. Garmin currently offers the following product categories within the Marine segment to consumers around the world: 
+
+•  
+
+Chartplotters and Multi-Function Displays (MFDs): Garmin offers numerous chartplotters/MFDs under the GPSMAP® and ECHOMAP™ product lines. The offerings range from 4-inch portable and fix-mounted products to 24-inch fully-integrated Glass Helm offerings and include wireless connectivity to the ActiveCaptain® mobile app. 
+
+11 
+
+•  
+
+Cartography: Garmin is a premier supplier of cartography for the recreational marine market. Including the Garmin-owned Navionics® branded charting products, Garmin is the worldwide leader in recreational marine content for most major chartplotters and MFDs on the market. Cartography product options range from worldwide basemaps to highly detailed BlueChart® g3, BlueChart® g3 Vision, LakeVü g3 and LakeVü g3 Ultra charts, Navionics+, Platinum+ and Hotmaps Platinum products with coverage in many parts of the world, offering auto-guidance (Garmin US-patented), Navionics Dock to dock autorouting, 3-D chart views and aerial reference photos. 
+
+•  
+
+Fishfinders: Garmin offers an advanced line of fishfinders, the Striker™ series, which incorporate GPS technology enabling Quickdraw™ Contours, and wireless features through the ActiveCaptain mobile app. These fishfinders are available in screen sizes from 4 to 9 inches and are paired with latest technology sonar transducers offered by Garmin to provide the clearest sonar pictures on the water. 
+
+•  
+
+SONAR: Garmin also offers the Panoptix™ all seeing sonar smart transducer line. Panoptix provides detailed real-time, high-resolution images that can be seen in downward, 3D, and forward-looking views for locating the fish and seeing what is coming before you get there. Garmin also offers CHIRP “black-box” sounders and “smart transducers” which interface with Garmin MFDs to enhance their utility by providing the deep-water sounders and fish finder functions in a remote mounted package. The black boxes provide CHIRP traditional, Ultra High-Definition ClearVü, and Ultra High-Definition SideVü sonar, similar to our integrated sonar plotters, but can be mounted in a more convenient location away from the helm. 
+
+•  
+
+Autopilot Systems: Garmin offers full-featured marine autopilot systems designed for sailboats and powerboats. The systems incorporate such features as Garmin’s patented Shadow Drive™ technology, which automatically disengages the autopilot if the helm is turned, remote steering and speed control, and integration with the Volvo Penta IPS steering and propulsion system. Garmin has also introduced steer-by-wire autopilot capabilities for various steering systems. 
+
+•  
+
+RADAR: Garmin offers high-tech solid state Fantom™ radar with MotionScope™ Doppler technology, lowering system power consumption while greatly improving situational awareness of the captain. MotionScope can instantly show if a target is closing in or safely going the other direction. Fantom radars are available in both radomes and open array radar products with compatibility to any network-compatible Garmin chartplotter. Garmin also offers a full line of magnetron radars up to 25kW of transmit power. 
+
+•  
+
+Instruments: Garmin offers NMEA 2000 and NMEA 0183 compliant instrument displays that show data from multiple remote sensors on one screen. Garmin instrument displays are offered under the GNX series and GMI series. 
+
+•  
+
+VHF Communication Radios: Garmin offers marine VHF radios and AIS transceivers with the latest feature sets including integrated GPS receivers for the communication needs of all types of mariners. Garmin radios are NMEA 2000 compatible. Mid-range and premium radios offered are designed for larger vessels and include NMEA 0183, offer multi-station support, and monitor all AIS channels. 
+
+•  
+
+Handhelds and Wearable Devices: Garmin offers floating marine GPS handhelds under the GPSMAP handheld series. These marine GPS handhelds feature a 3-axis tilt-compensated electronic compass, wireless data transfer between compatible units and preloaded cartography. Some handhelds contain built-in InReach® satellatie communication and support ConnectIQ™ applications. Garmin also offers the quatix® series wearable, GPS-enabled smartwatches designed for mariners, which include marine features for navigation, sailing, stereo control, and even some autopilot functions. 
+
+•  
+
+Sailing: Garmin has integrated many basic and advanced sailing features into our MFD and instrument systems. These SailAssist™ features include enhanced wind rose with true and apparent wind data, pre-race guidance, synchronized race timer, virtual starting line, time to burn and lay line data fields.  
+
+12 
+
+•  
+
+Entertainment: Garmin’s entertainment brand, Fusion®, consists of marine audio head units, speakers and amplifiers. These products are designed specifically for the marine or RV environments and support many connectivity options for integrating with MFDs, smartphones, and Garmin wearables. 
+
+•  
+
+Digital Switching: Garmin offers a digital switching product line under the EmpirBus™ brand. The Garmin EmpirBus products provide power distribution and control solutions for marine and RV applications which enable advanced logic controls and smart electrical systems to enhance features in a boat or RV. The system features customizable graphics and user interface for the ultimate user experience. Control for EmpirBus products is integrated into Garmin’s marine multi-function displays and RV OEM products. 
+
+•  
+
+Trolling Motors: Garmin offers the Force™ Trolling Motor, a powerful, efficient scissor-lift style trolling motor with built-in CHIRP and Ultra High-Definition ClearVü and SideVü sonar. The Force product line also connects wirelessly to Garmin chartplotters/MFDs to provide navigation, autopilot, and anchor lock integration. 
+
+Sales and Marketing  
+
+Garmin’s non-aviation products are sold in approximately 100 countries through a large worldwide network of independent retailers, online retailers, specialty dealers, dealers and distributors as well as through original equipment manufacturers (OEMs), who meet our sales and customer service qualifications. Garmin’s retrofit avionics and portable aviation products are sold through a large group of approved independent Sales and Service Centers around the world and, in the case of portable aviation products, also through select catalogs and pilot shops. No single customer’s purchases represented 10% or more of Garmin’s consolidated net sales in the years ended December 28, 2019, December 29, 2018, and December 30, 2017. Marketing support is provided geographically from Garmin’s offices around the world. Garmin’s distribution strategy is intended to increase Garmin’s global penetration and presence while maintaining high quality standards to ensure end-user satisfaction.  
+
+Competition  
+
+We operate in highly competitive markets though competitive conditions do vary among our diverse products and geographies. Garmin believes the principal competitive factors impacting the market for its products are design, functionality, quality and reliability, customer service, brand, price, time-to-market and availability. Garmin believes that it generally competes favorably in each of these areas and as such, is generally a significant competitor in each of our major markets. 
+
+Garmin believes that its principal competitor for portable automotive products is TomTom N.V. Garmin believes that its principal competitors for infotainment solutions are Alpine Electronics, Harman International Industries, the Mitsubishi Group, and Panasonic Corporation. Garmin believes that its principal competitors for outdoor product lines are Casio, Dogtra, Samsung, Shearwater Research, SportDOG Brand, Suunto, TAG Heuer, Tissot, and Vista Outdoor. Garmin believes that its principal competitors for fitness products are Apple, Bryton, Fitbit, Huami, Huawei, Polar Electro Oy, Samsung, Sigma Sports, Suunto, and Wahoo Fitness. For marine products, Garmin believes that its principal competitors are Flir Systems, Furuno, the Humminbird division of Johnson Outdoors, and Navico. For Garmin’s aviation product lines, Garmin considers its principal competitors to be Aspen Avionics, Avidyne Corporation, CMC Electronics, Collins Aerospace, Dynon Avionics, Genesys Aerosystems, Honeywell Aerospace & Defense, Innovative Solutions and Support Inc., L-3 Avionics Systems, Safran SA, Thales, and Universal Avionics Systems Corporation. 
+
+13 
+
+Research and Development 
+
+Garmin’s product innovations are driven by its strong emphasis on research and development and the close partnership between Garmin’s engineering and manufacturing teams. Garmin’s products are created by its engineering and development staff, which numbered approximately 4,500 people worldwide as of December 28, 2019. Garmin’s manufacturing staff, which numbered approximately 4,900 people worldwide as of December 28, 2019, includes manufacturing process engineers who work closely with Garmin’s design engineers to ensure manufacturability and manufacturing cost control for its products. Garmin’s development staff includes industrial designers, as well as software engineers, electrical engineers, mechanical engineers, and cartographic engineers. Garmin believes the industrial design of its products has played an important role in Garmin’s success. Once a development project is initiated and approved, a multi-disciplinary team is created to design the product and transition it into manufacturing. 
+
+Manufacturing and Operations  
+
+Garmin believes one of its core competencies and strengths is its vertically integrated manufacturing capabilities at its Taiwan facilities in Xizhi, Jhongli and LinKou, its China facility in Yangzhou, its Netherlands facility in Wassenaar, and at its U.S. facilities in Olathe, Kansas and Salem, Oregon. Garmin believes that its ownership and operation of its own manufacturing facilities and distribution networks provides significant capability and flexibility to address the breadth and depth of resources necessary to serve its diverse products and markets. 
+
+Specifically, Garmin believes that its vertical integration of its manufacturing capabilities provides advantages to product cost, quality, and time to market.  
+
+Cost: Garmin’s manufacturing resources rapidly and iteratively prototype designs, concepts, products and processes, achieving higher efficiency, resulting in lower cost. Garmin’s vertical integration approach enables leveraging of manufacturing resources across high, mid and low volume products. Sharing of these resources across product lines favorably affects Garmin’s costs to produce its range of products, with lower volume products realizing the economies of scale of higher volume products. The ownership and integration of its resources allows Garmin to optimize the design for manufacturing of its products, yielding improved cost.  
+
+Quality: Garmin’s automation and sophisticated production processes provide in-service robustness and consistent reliability standards that enable Garmin to maintain strict process and quality control of the products manufactured, thereby improving the overall quality of our products. Additionally, the immediate feedback throughout the manufacturing processes is provided to the development teams, providing integrated continuous improvement throughout design and supply chain. 
+
+Time to Market: Garmin uses multi-disciplinary teams of design engineers, process engineers, and supply chain specialists to develop products, allowing them to quickly move from concept to manufacturing. This integrated ownership provides inherent flexibility to enable faster time to market.  
+
+Garmin’s design, manufacturing, distribution, and servicing processes in its U.S., Taiwan, China and U.K. facilities are certified to ISO 9001, an international quality standard developed by the International Organization for Standardization. Garmin’s automotive operations in Taiwan, China, U.K., and Olathe have achieved IATF 16949 certification, a quality standard for automotive suppliers. Garmin’s Olathe and Salem aviation operations have achieved certification to AS9100, the quality standard for the aviation industry. 
+
+Garmin International, Inc., Garmin (Europe) Ltd., and Garmin Corporation have also achieved certification of their environmental management systems to the ISO 14001 standard, recognizing Garmin’s systems and processes which minimize or prevent harmful effects on the environment and continually strive to improve its environmental performance. 
+
+14 
+
+Materials 
+
+Although most components essential to Garmin’s business are generally available from multiple sources, certain key components are currently obtained by the Company from single or limited sources, which subjects Garmin to supply and pricing risks. Many of these and other key components that are available from multiple sources, including, but not limited to, NAND flash memory, dynamic random access memory (DRAM), GPS chipsets and certain LCDs, are subject, at times, to industry-wide shortages and commodity pricing fluctuations. 
+
+Garmin and other participants in the personal computer, tablet, mobile communication, aviation electronics, and consumer electronics industries also compete for various components with other industries that have experienced increased demand for their products. In addition, Garmin uses some custom components that are not common to the rest of the personal computer, tablet, mobile communication, and consumer electronics industries. New products introduced by the Company often utilize custom components available from only one source until Garmin has evaluated whether there is a need for, and subsequently qualifies, additional suppliers. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers’ yields have matured or manufacturing capacity has increased. Garmin makes efforts to manage risks in these areas through the use of supply agreements and safety stock for strategically important components.  
+
+Seasonality 
+
+Our net sales are subject to seasonal fluctuation. Sales of our consumer products are generally higher in the fourth quarter due to increased demand during the holiday buying season, and, to a lesser extent, the second quarter due to increased demand during the spring and summer season. Sales of consumer products are also influenced by the timing of the release of new products. Our auto OEM and aviation products do not experience much seasonal variation, but are more influenced by the timing of auto program manufacturing, aircraft certifications, regulatory mandates, and the release of new products when the initial demand is typically the strongest. 
+
+Backlog 
+
+There is a relatively short cycle between order and shipment. Therefore, we believe that backlog information is not material to the understanding of our business. We typically ship most orders within 72 hours of receipt. 
+
+Intellectual Property  
+
+Our success and ability to compete is dependent in part on our proprietary technology. We rely on a combination of patent, copyright, trademark and trade secret laws, as well as confidentiality agreements, to establish and protect our proprietary rights. In addition, Garmin often relies on licenses of intellectual property for use in its business. For example, Garmin obtains licenses from various sources for digital cartography technology for use in our products.  
+
+As of January 10, 2020, Garmin has been issued over 1,350 patents throughout the world and holds more than 900 trademark registrations. The duration of patents varies in accordance with the provisions of applicable local law. We believe that our continued success depends on the intellectual skills of our employees and their ability to continue to innovate. Garmin will continue to file and prosecute patent applications when appropriate to attempt to protect Garmin’s rights in its proprietary technologies.  
+
+There is no assurance that our current patents, or patents which we may later acquire, may successfully withstand any challenge, in whole or in part. It is also possible that any patent issued to us may not provide us with any competitive advantages, or that the patents of others will preclude us from manufacturing and marketing certain products. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. Litigation may be necessary in the future to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others or to defend against claims of infringement or invalidity. 
+
+15 
+
+Regulations  
+
+The telecommunications industry is highly regulated, and the regulatory environment in which Garmin operates is subject to change. In accordance with the United States’ Federal Communications Commission (FCC) rules and regulations, wireless transceiver products are required to be certified by the FCC and comparable authorities in foreign countries where they are sold. Garmin’s products sold in Europe are required to comply with relevant directives of the European Commission. A delay in receiving required certifications for new products, or enhancements to Garmin’s products, or losing certification for Garmin’s existing products could adversely affect our business. In addition, aviation products that are intended for installation in “type certificated aircraft” are required to be certified by the FAA, its European counterpart, the European Aviation Safety Agency, and other comparable organizations before they can be used in an aircraft.  
+
+Because Garmin Corporation, one of the Company’s principal subsidiaries, is located in Taiwan, foreign exchange control laws and regulations of Taiwan with respect to remittances into and out of Taiwan may have an impact on Garmin’s operations. The Taiwan Foreign Exchange Control Statute, and regulations thereunder, provides that all foreign exchange transactions must be executed by banks designated to handle such business by the Ministry of Finance of Taiwan and by the Central Bank of the Republic of China (Taiwan), also referred to as the CBC. Current regulations favor trade-related foreign exchange transactions. Consequently, foreign currency earned from exports of merchandise and services may now be retained and used freely by exporters, while all foreign currency needed for the import of merchandise and services may be purchased freely from the designated foreign exchange banks. Aside from trade-related foreign exchange transactions, Taiwan companies and residents may, without foreign exchange approval, remit outside and into Taiwan foreign currencies of up to $50 million and $5 million respectively, or their equivalent, each calendar year. Currency conversions within the limits are processed by the designated banks and do not have to be reviewed and approved by the CBC. The above limits apply to remittances involving a conversion between Taiwan Dollars and U.S. Dollars or other foreign currencies. The CBC typically approves foreign exchange in excess of the limits if a party applies with the CBC for review and presents legitimate business reasons justifying the currency conversion. A requirement is also imposed on all enterprises to register all medium and long-term foreign debt with the CBC.  
+
+Environmental Matters  
+
+Garmin’s operations are subject to various environmental laws, including laws addressing air and water pollution and management of hazardous substances and wastes. Substantial noncompliance with applicable environmental laws could have a material adverse effect on our business. Capital expenditures for environmental controls are included in our normal capital budget. Historically, capital expenditures associated with environmental controls have not been material and compliance with environmental laws has not had a material impact on the Company’s competitive position.  
+
+Many of Garmin's products are subject to laws relating to the chemical and material composition of our products and their energy efficiency. Garmin is also subject to laws requiring manufacturers to be financially responsible for collection, recovery and recycling of wastes from certain electronic products. Compliance with current environmental laws does not have a material impact on our business, but the impact of future enactment of environmental laws cannot yet be fully determined and could be substantial. 
+
+Garmin has implemented multiple Environmental Management System (EMS) policies in accordance with the International Organization for Standardization (ISO) 14001 standard for Environmental Health and Safety Management. Garmin’s EMS policies set forth practices, standards, and procedures to ensure compliance with applicable environmental laws and regulations at Garmin’s Kansas headquarters facility, Garmin’s European headquarters facility, and Garmin’s Taiwan and China manufacturing facilities.  
+
+Garmin continues to strive to reduce our carbon footprint by increasing our environmental sustainability efforts. Our manufacturing locations have implemented increased recycling processes that keep all obsolete Garmin manufactured material from entering the waste stream. Additionally, our newly completed facility in Olathe, Kansas has been constructed with energy efficient considerations, including reduced water consumption, LED lighting, and reflective roofing to deflect solar radiation. 
+
+16 
+
+Employees  
+
+As of December 28, 2019, the Company had approximately 15,000 full and part-time employees worldwide, of whom approximately 5,700 were in Americas region, 7,300 were in APAC, and 2,000 were in EMEA. Except for some of Garmin’s employees in Sweden, none of Garmin’s employees are represented by a labor union and none of Garmin's North American or Taiwan employees are covered by a collective bargaining agreement. Garmin considers its employee relations to be positive. 
+
+Item 1A.  
+
+Risk Factors

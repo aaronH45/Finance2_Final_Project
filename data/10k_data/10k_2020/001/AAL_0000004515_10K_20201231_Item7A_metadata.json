@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004515",
+    "sec_company_name": "AMERICAN AIRLINES, INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217171757",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620121000014/0000006201-21-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620121000014/0000006201-21-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\AAL_0000004515_10K_20201231_Item7A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7448508 chars",
+    "document_group": "10-K",
+    "section_name": "Item7A",
+    "section_n_characters": 6878,
+    "endpoints": [
+        "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+        "ITEM 8A. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA OF AMERICAN AIRLINES GROUP INC."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\AAL_0000004515_10K_20201231_Item7A_excerpt.txt",
+    "time_elapsed": 1.5,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 16:56:22.963392"
+}

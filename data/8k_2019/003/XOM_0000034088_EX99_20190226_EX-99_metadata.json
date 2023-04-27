@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000034088",
+    "sec_company_name": "EXXON MOBIL CORP (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190226",
+    "sec_filing_date": "20190226",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226165404",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/34088/000003408819000007/0000034088-19-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/34088/000003408819000007/0000034088-19-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\XOM_0000034088_EX99_20190226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "28467 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4816,
+    "endpoints": [
+        "[DATA_TABLE_REMOVED]  ",
+        "Statements of future events or conditions in this release are forward-looking statements. Actual future results, including production rates and timing and resource recoveries, could differ materially due to factors such as changes in market conditions affecting the oil and gas industry or long-term oil and gas price levels; political or regulatory developments including the grant of necessary approvals; reservoir performance; the outcome of future exploration and development efforts; technical or operating factors; the outcome of future commercial negotiations; and other factors cited under the caption “Factors Affecting Future Results” on the Investors page of our website at www.exxonmobil.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "XOM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\XOM_0000034088_EX99_20190226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:50:20.253549"
+}

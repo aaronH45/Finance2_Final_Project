@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000832988",
+    "sec_company_name": "SIGNET JEWELERS LTD (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160216",
+    "sec_filing_date": "20160216",
+    "sec_changed_date": "20160216",
+    "sec_accepted_date": "20160216070610",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/832988/000129993316002050/0001299933-16-002050-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/832988/000129993316002050/0001299933-16-002050.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\SIG_0000832988_8K_20160216_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8926 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2364,
+    "endpoints": [
+        "Signet Jewelers Limited (Form: 8-K)      ",
+        "  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.     [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SIG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\SIG_0000832988_8K_20160216_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:46:00.966706"
+}

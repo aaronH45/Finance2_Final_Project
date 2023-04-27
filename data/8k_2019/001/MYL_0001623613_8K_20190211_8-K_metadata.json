@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001623613",
+    "sec_company_name": "Mylan N.V. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190211",
+    "sec_filing_date": "20190211",
+    "sec_changed_date": "20190211",
+    "sec_accepted_date": "20190211171635",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1623613/000095015719000130/0000950157-19-000130-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1623613/000095015719000130/0000950157-19-000130.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MYL_0001623613_8K_20190211_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15071 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2607,
+    "endpoints": [
+        "UNITED STATES ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MYL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MYL_0001623613_8K_20190211_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:39:28.521488"
+}

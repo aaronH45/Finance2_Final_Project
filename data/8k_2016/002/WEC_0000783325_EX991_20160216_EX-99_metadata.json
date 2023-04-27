@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000783325",
+    "sec_company_name": "WEC ENERGY GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160216",
+    "sec_filing_date": "20160216",
+    "sec_changed_date": "20160216",
+    "sec_accepted_date": "20160216100956",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781516000227/0000107815-16-000227-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781516000227/0000107815-16-000227.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\WEC_0000783325_EX991_20160216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "32830 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18364,
+    "endpoints": [
+        "a2016februaryinvestorfin  ",
+        "40 Precedent Transactions Announce Date Closing Date Targ et Acquiror 1-Day Premium FY1 P/E FY2 P/E Transaction Value ($mm) Equity Value ($mm) Price/Book Enterprise Value/ Rate Base 10/26/15 Pending PNY DUK 42% 29.8x 28.0x $6,700 $4,916 3.5x n/a 9/4/15 Pending TE EMA.CN 48%(1) 23.3x 21.5x $10,361 $6,480 2.5x 1.60x(2) 8/24/15 Pending GAS SO 38% 21.5x 20.6x $11,978 $7,926 2.0x n/a 02/25/2015 Pending UIL Iberdrola 25%(2) 21.7x 20.4x $4,674 $2,983 2.2x 1.95x 12/03/2014 Pending HE NEE 19% 21.3x 18.1x $4,300(3) $2,615(3) 1.7x(3) 1.53x(3) 10/20/2014 Pending CNL Multiple n/a(4) 20.5x 18.7x $4,700 $3,343 2.1x 1.68x 06/23/2014 06/29/2015 TEG WEC 17% 20.0x 18.5x $9,020 $5,758 1.7x 1.55x 04/30/2014 Pending POM EXC 25%(1) 22.5x 20.8x $12,193 $6,872 1.6x 1.58x 12/11/2013 08/15/2014 UNS FTS.CN 30% 18.0x 17.9x $4,282 $2,515 2.2x 1.55x 05/29/2013 12/19/2013 NVE Berkshire 20% 18.3x 17.6x $10,465 $5,592 1.6x 1.45x Average 29% 21.7x 20.2x 2.1x 1.61x Median 25% 21.4x 19.5x 2.1x 1.57x Source: Barclays 1. Based on unaffected date. 2. Based on press releases. 3. Assumes $8/share of equity value for the American Savings Bank. Book equity value based on Hawaiian Electric Company, Inc. (regulated subsidiary) balance sheet. 4. Company disclosed engagement in strategic transaction discussions prior to announcement of transactions."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WEC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\WEC_0000783325_EX991_20160216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:47:49.818928"
+}

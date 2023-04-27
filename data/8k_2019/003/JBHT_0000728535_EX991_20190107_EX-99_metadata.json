@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000728535",
+    "sec_company_name": "HUNT J B TRANSPORT SERVICES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190107",
+    "sec_filing_date": "20190110",
+    "sec_changed_date": "20190110",
+    "sec_accepted_date": "20190110150449",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/728535/000143774919000637/0001437749-19-000637-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/728535/000143774919000637/0001437749-19-000637.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\JBHT_0000728535_EX991_20190107_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7472 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2949,
+    "endpoints": [
+        "ex_132699.htm    ",
+        "J.B. Hunt Transport Services, Inc., a Fortune 500, S&P 500, and NASDAQ-100 company, provides innovative supply chain solutions for a variety of customers throughout North America. Utilizing an integrated, multimodal approach, the company applies technology-driven methods to create the best solution for each customer, adding efficiency, flexibility, and value to their operations. J.B. Hunt services include intermodal, dedicated, refrigerated, truckload, less-than-truckload, flatbed, single source, final mile, and more. J.B. Hunt Transport Services, Inc. stock trades on NASDAQ under the ticker symbol JBHT and is a component of the Dow Jones Transportation Average. J.B. Hunt Transport, Inc. is a wholly owned subsidiary of JBHT. For more information, visit www.jbhunt.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JBHT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\JBHT_0000728535_EX991_20190107_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:54:01.713148"
+}

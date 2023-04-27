@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467858",
+    "sec_company_name": "General Motors Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180206",
+    "sec_filing_date": "20180206",
+    "sec_changed_date": "20180206",
+    "sec_accepted_date": "20180206083201",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785818000019/0001467858-18-000019-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785818000019/0001467858-18-000019.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\GM_0001467858_EX991_20180206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16270 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 12383,
+    "endpoints": [
+        "q42017earnings020618  ",
+        "Cautionary Note on Forward-Looking Statements This press release and related comments by management may include forward-looking statements. These statements are based on current expectations about possible future events and thus are inherently uncertain. Our actual results may dier materially from forward-looking statements due to a variety of factors, including: (1) our ability to deliver new products, services and experiences that attract new, and are desired by existing, customers and to eectively compete in autonomous, ride-sharing and transportation as a service; (2) sales of crossovers, SUVs and full-size pick-up trucks; (3) our ability to reduce the costs associated with the manufacture and sale of electric vehicles; (4) the volatility of global sales and operations; (5) our signicant business in China which subjects us to unique operational, competitive and regulatory risks; (6) our joint ventures, which we cannot operate solely for our benet and over which we may have limited control; (7) changes in government leadership and laws (including tax laws), economic tensions between governments and changes in international trade policies, new barriers to entry and changes to or withdrawals from free trade agreements, changes in foreign exchange rates, economic downturns in foreign countries, diering local product preferences and product requirements, compliance with U.S. and foreign countries' export controls and economic sanctions, diering labor regulations and diculties in obtaining nancing in foreign countries; (8) our dependence on our manufacturing facilities; (9) the ability of suppliers to deliver parts, systems and components without disruption and on schedule; (10) prices of raw materials; (11) our highly competitive industry; (12) the possibility that competitors may independently develop products and services similar to ours despite our intellectual property rights; (13) security breaches and other disruptions to our vehicles, information technology networks and systems; (14) compliance with laws and regulations applicable to our industry, including those regarding fuel economy and emissions; (15) costs and risks associated with litigation and government investigations; (16) compliance with the terms of the Deferred Prosecution Agreement; (17) the cost and eect on our reputation of product safety recalls and alleged defects in products and services; (18) our ability to successfully and cost-eciently restructure operations in various countries with minimal disruption; (19) our ability to realize production eciencies and to achieve reductions in costs; (20) our ability to develop captive nancing capability through GM Financial; and (21) signicant increases in pension expense or projected pension contributions. A further list and description of these risks, uncertainties and other factors can be found in our Annual Report on Form 10-K for the scal year ended December 31, 2017, and our subsequent lings with the Securities and Exchange Commission. GM cautions readers not to place undue reliance on forward-looking statements. GM undertakes no obligation to update publicly or otherwise revise any forward-looking statements. Basis of Presentation The nancial and operational information included in this press release relate to our continuing operations and not our discontinued operations nor assets and liabilities held for sale relating to the Opel/Vauxhall business and GM Financial's European operations (collectively, our “European Business”). Further, during the three months ended December 31, 2017, we changed our automotive segments as a result of changes in our organizational structure and the evolution of our business resulting from the sale of the Opel/Vauxhall Business and the various strategic actions taken in the GMIO region. As a result, our GMSA and GMIO operating segments are now reported as one, combined reportable international segment, GMI. Our GMNA and GM Financial segments were not impacted. All periods presented have been recast to reect the changes. Additional information regarding the sale of our European Business can be found in our publicly led SEC documents and in the investor materials located at www.gm.com/investors. General Motors Co.(NYSE: GM), its subsidiaries and joint venture entities produce and sell vehicles under the Chevrolet, Cadillac, Baojun, Buick, GMC, Holden, Jiefang and Wuling brands. GM has leadership positions in several of the world'smost signicantautomotive markets and is committed to lead the future of personal mobility. More information on the company and its subsidiaries, including OnStar, a global leader in vehicle safety, security and information services, can be found at http://www.gm.com. Tom Henderson GM Finance Communications 313-410-2704 tom.e.henderson@gm.com Media Investors CONTACTS Michael Heifler GM Investor Relations 313-418-0220 michael.heifler@gm.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\GM_0001467858_EX991_20180206_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:24:39.540730"
+}

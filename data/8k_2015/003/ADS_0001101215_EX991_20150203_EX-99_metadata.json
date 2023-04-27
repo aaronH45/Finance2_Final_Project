@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001101215",
+    "sec_company_name": "ALLIANCE DATA SYSTEMS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150203",
+    "sec_filing_date": "20150203",
+    "sec_changed_date": "20150203",
+    "sec_accepted_date": "20150203073052",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121515000013/0001101215-15-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1101215/000110121515000013/0001101215-15-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\ADS_0001101215_EX991_20150203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16750 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7718,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "'Safe Harbor' Statement under the Private Securities Litigation Reform Act of 1995: Statements in this presentation regarding Alliance Data Systems Corporation's business which are not historical facts are 'forward-looking statements' that involve risks and uncertainties. For a discussion of such risks and uncertainties, which could cause actual results to differ from those contained in the forward-looking statements, see 'Risk Factors' in the Company's Annual Report on Form 10-K for the most recently ended fiscal year. Risk factors may be updated in Item 1A in each of the Company's Quarterly Reports on Form 10-Q for each quarterly period subsequent to the Company's most recent Form 10-K."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ADS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\ADS_0001101215_EX991_20150203_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:39.684572"
+}

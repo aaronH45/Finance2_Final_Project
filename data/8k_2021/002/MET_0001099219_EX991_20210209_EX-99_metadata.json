@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001099219",
+    "sec_company_name": "METLIFE INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210209",
+    "sec_filing_date": "20210209",
+    "sec_changed_date": "20210209",
+    "sec_accepted_date": "20210209164637",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1099219/000109921921000041/0001099219-21-000041-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1099219/000109921921000041/0001099219-21-000041.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MET_0001099219_EX991_20210209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6322 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5286,
+    "endpoints": [
+        "q42020totalaum02032021   ",
+        "Explanatory Note The following information is relevant to an understanding of our assets under management ('AUM'). Our definitions may differ from those used by other companies. Total Assets Under Management (“Total AUM”) is comprised of GA AUM plus Institutional Client AUM (each, as defined below). General Account AUM (“GA AUM”) is used by MetLife to describe assets in its general account ('GA') investment portfolio which are actively managed and stated at estimated fair value. GA AUM is comprised of GA total investments and cash and cash equivalents, excluding policy loans, contractholder-directed equity securities, fair value option securities and certain other invested assets, as substantially all of these assets are not actively managed in MetLife’s GA investment portfolio. Mortgage loans (including commercial, agricultural and residential) and real estate and real estate joint ventures included in GA AUM (at net asset value, net of deduction for encumbering debt) have been adjusted from carrying value to estimated fair value. Classification of GA AUM by sector is based on the nature and characteristics of the underlying investments which can vary from how they are classified under GAAP. Accordingly, the underlying investments within certain real estate and real estate joint ventures that are primarily commercial mortgage loans (at net asset value, net of deduction for encumbering debt) have been reclassified to exclude them from real estate equity and include them as commercial mortgage loans. Institutional Client AUM is comprised of SA AUM plus TP AUM (each, as defined below). MetLife Investment Management manages Institutional Client AUM in accordance with client guidelines contained in each investment contract (“Mandates”). Separate Account AUM (“SA AUM”) is comprised of separate account investment portfolios of MetLife insurance companies, which are managed by MetLife and included in MetLife, Inc.’s consolidated financial statements at estimated fair value. Third Party AUM (“TP AUM”) is comprised of non-proprietary assets managed by MetLife on behalf of unaffiliated/third party clients, which are stated at estimated fair value. Such non-proprietary assets are owned by unaffiliated/third-party clients and, accordingly, are not included in MetLife, Inc.’s consolidated financial statements. Additional information about MetLife’s general account investment portfolio is available in MetLife, Inc.’s quarterly financial materials for the quarter ended December 31, 2020, which may be accessed through MetLife’s Investor Relations web page at https://investor.metlife.com. L0221010916[exp0821][All States] One MetLife Way | Whippany, New Jersey 07981 © 2021 METLIFE, INC."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MET",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\MET_0001099219_EX991_20210209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:00:17.739663"
+}

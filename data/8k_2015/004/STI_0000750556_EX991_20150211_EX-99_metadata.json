@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000750556",
+    "sec_company_name": "SUNTRUST BANKS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150211",
+    "sec_filing_date": "20150211",
+    "sec_changed_date": "20150210",
+    "sec_accepted_date": "20150210182931",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055615000014/0000750556-15-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055615000014/0000750556-15-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\STI_0000750556_EX991_20150211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "35865 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25859,
+    "endpoints": [
+        "creditsuisse2015v5final  ",
+        "21 Income Statement ($ in millions, except per-share data) 2013 Reported Earnings Impact from Significant 2013 Items 2013 Adjusted Earnings 2014 Reported Earnings Impact from Significant 2014 Items 2014 Adjusted Earnings NET INTEREST INCOME $4,853 $4,853 $4,840 $4,840 Provision for Credit Losses 553 553 342 342 NET INTEREST INCOME AFTER PROVISION FOR CREDIT LOSSES 4,300 4,300 4,498 4,498 NONINTEREST INCOME Service charges on deposit accounts 657 657 645 645 Trust and investment management income 518 518 423 423 Retail investment services 267 267 297 297 Other charges and fees 369 369 368 368 Investment banking income 356 356 404 404 Trading Income 182 182 182 182 Card fees 310 310 320 320 Mortgage production related income / (loss) 314 (63) 377 201 201 Mortgage servicing related income 87 87 196 196 Other noninterest income 152 152 302 105 197 Net securities gains 2 2 (15) (15) Total noninterest income 3,214 (63) 3,277 3,323 105 3,218 NONINTEREST EXPENSE Employee compensation and benefits 2,901 2,901 2,962 2,962 Net occupancy expense 348 348 340 340 Outside processing and software 746 746 741 741 Equipment expense 181 181 169 169 Marketing and customer development 135 135 134 134 Amortization/impairment of intangible assets/goodwill 23 23 25 25 Operating losses 503 323 180 441 324 117 FDIC premium/regulatory exams 181 181 142 142 Other noninterest expense 813 96 717 589 589 Total noninterest expense 5,831 419 5,412 5,543 324 5,219 INCOME BEFORE PROVISION FOR INCOME TAXES 1,683 (482) 2,166 2,278 (219) 2,497 Provision/(benefit) for income taxes 322 (303) 625 493 (212) 705 NET INCOME INCLUDING INCOME ATTRIBUTABLE TO NONCONTROLLING INTEREST 1,361 (179) 1,541 1,785 (7) 1,792 Net income attributable to noncontrolling interest 17 17 11 11 NET INCOME 1,344 (179) 1,523 1,774 (7) 1,782 NET INCOME AVAILABLE TO COMMON SHAREHOLDERS 1,297 (179) 1,476 1,722 (7) 1,729 EPS - DILUTED $2.41 ($0.33) $2.74 $3.23 ($0.01) $3.24 RETURN ON AVERAGE ASSETS 0.78% -0.10% 0.88% 0.97% -0.01% 0.98% Reconciliation of 2013 and 2014 Income Statements 1. Reflects the pre-tax impact of mortgage repurchase settlements with Fannie Mae and Freddie Mac. 2. Reflects the pre-tax impact from the settlement of certain legal matters. 3. In accordance with updated GAAP, amortization of affordable housing investments of $49 million was reclassified and is now presented in provision for income taxes for 2013. Previously, the amortization was presented in other noninterest expense. 4. Reflects the pre-tax impact from the mortgage servicing advances allowance increase. 5. Reflects the income tax benefit related to footnotes #1, #2, and #3 ($191) and the other tax items ($113) referred to in the October 10, 2013, 8-K. 6. Reflects the pre-tax gain associated with the RidgeWorth sale. 7. Reflects the pre-tax impact of certain legacy mortgage legal matters ($324). 8. Reflects the income tax benefit related to footnotes #6 and #7 ($82) and the income tax benefit related to the completion of a tax authority exam ($130) Note: Totals may not foot due to rounding 1 2 3 3 4 5 6 7 8"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\STI_0000750556_EX991_20150211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:20.863821"
+}

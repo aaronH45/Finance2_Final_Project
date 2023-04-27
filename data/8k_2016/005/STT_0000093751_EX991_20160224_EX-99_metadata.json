@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160224",
+    "sec_filing_date": "20160224",
+    "sec_changed_date": "20160224",
+    "sec_accepted_date": "20160224083058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375116000538/0000093751-16-000538-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375116000538/0000093751-16-000538.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\STT_0000093751_EX991_20160224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "119551 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 85765,
+    "endpoints": [
+        "sttinvestorday022416  ",
+        "78 Appendix: Reconciliations of Full Phase-In Capital Ratios As of December 31, 2014 (Dollars in millions) B asel III A dvanced A ppro aches P hase- In P ro visio ns B asel III A dvanced A ppro aches F ully P hased- In P ro - F o rma Estimate B asel III Standardized A ppro ach P hase- In P ro visio ns B asel III Standardized A ppro ach F ully P hased- In P ro - F o rma Estimate Common equity tier 1 capital1 13,327$ (1,173)$ 12,154$ 13,327$ (1,173)$ 12,154$ Tier 1 capital1 15,618 (1,503) 14,115 15,618 (1,503) 14,115 Total capital1 17,715 (1,137) 16,578 17,715 (1,137) 16,578 Risk weighted assets 107,827 (1,010) 106,817 125,011 (953) 124,058 Adjusted average assets 247,740 (433) 247,307 247,740 (433) 247,307 C apital rat io s: Common equity tier 1 capital1 12.4 % 11.4 % 10.7 % 9.8 % Tier 1 capital1 14.5 13.2 12.5 11.4 Total capital1 16.4 15.5 14.2 13.4 Tier 1 leverage 6.3 5.7 6.3 5.7 1 Amounts for the quarterly and annual periods of 2014 as well as the quarterly periods ending M arch 31, 2015, June 30, 2015 and September 30, 2015 have been revised to reflect adjustments related to certain expenses billed to our asset servicing clients. ST A T E ST R EET C OR P OR A T ION R EC ON C ILIA T ION S OF F ULL P H A SE-IN C A P IT A L R A T IOS Fully phased-in pro-forma estimates of common equity tier 1 capital include 1 00% of the accumulated other comprehensive income component o f common shareholder’s equity, including accumulated other comprehensive income attributable to available-for-sale securities, cash flow hedges and defined benefit pension plans, as well as 100% of applicable deductions, including but not limited to , intangible assets net o f deferred tax liabilities. Fully phased-in pro-forma estimates of tier 1 and to tal capital both reflect the transition of trust preferred capital securities from tier 1 capital to to tal capital. For both Basel III advanced and standardized approaches, fully phased-in pro-forma estimates of risk-weighted assets reflect the exclusion of intangible assets, o ffset by additions related to non-significant equity exposures and deferred tax assets related to temporary differences. A ll fully phased-in ratios are preliminary estimates, based on our interpretations of the Basel III final rule as of the date each such ratio was first announced publicly and as applied to our businesses and operations as of the date of such ratio . The fo llowing tables reconcile our fully phased-in estimated pro-forma common equity tier 1 capital, tier 1 capital, to tal capital and tier 1 leverage ratios, calculated in conformity with the Basel III final rule, as of the dates indicated, to those same ratios calculated in conformity with the applicable regulatory requirements as of such dates."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\STT_0000093751_EX991_20160224_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:58:54.816580"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000712515",
+    "sec_company_name": "ELECTRONIC ARTS INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210208",
+    "sec_filing_date": "20210208",
+    "sec_changed_date": "20210208",
+    "sec_accepted_date": "20210208160903",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/712515/000119312521032346/0001193125-21-032346-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/712515/000119312521032346/0001193125-21-032346.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\EA_0000712515_8K_20210208_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "54981 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 19884,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K    ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "EA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\EA_0000712515_8K_20210208_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:09:53.598842"
+}

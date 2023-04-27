@@ -1,0 +1,123 @@
+xml version="1.0" ? slg-20220126
+
+0001040971false00010409712022-01-262022-01-260001040971us-gaap:CommonStockMember2022-01-262022-01-260001040971us-gaap:PreferredStockMember2022-01-262022-01-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+January 26, 2022 
+
+SL GREEN REALTY CORP.
+
+(Exact name of registrant as specified in its charter)
+
+Maryland
+
+(State of Incorporation)
+
+1-1319913-3956775
+
+(Commission File Number) (I.R.S. employer identification number)
+
+One Vanderbilt Avenue  10017
+
+New York,New York (Zip Code)
+
+(Address of principal executive offices)
+
+(212) 594-2700 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+[☐] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+[☐] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[☐] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[☐] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company [☐]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act [ ]
+
+Item 2.02. Results of Operations and Financial Condition
+
+Following the issuance of a press release on January 26, 2022 announcing SL Green Realty Corp.’s, or the Company, results for the quarter ended December 31, 2021, the Company has made available on its website supplemental information regarding the Company’s operations that is too voluminous for a press release. The Company is attaching the press release as Exhibit 99.1 and the supplemental package as Exhibit 99.2 to this Current Report on Form 8-K.
+
+The information (including Exhibits 99.1 and 99.2) being furnished pursuant to this “Item 2.02. Results of Operations and Financial Condition” shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or the Exchange Act, or otherwise subject to the liabilities of that section and shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Act, or the Exchange Act regardless of any general incorporation language in such filing.
+
+Item 7.01. Regulation FD Disclosure
+
+As discussed in Item 2.02 above, on January 26, 2022, the Company issued a press release announcing its results for the quarter ended December 31, 2021.
+
+The information being furnished pursuant to this “Item 7.01. Regulation FD Disclosure” shall not be deemed to be “filed” for the purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section and shall not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act regardless of any general incorporation language in such filing. This information will not be deemed an admission as to the materiality of such information that is required to be disclosed solely by Regulation FD.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits
+
+ 99.1 Press release regarding results for the quarter ended December 31, 2021.
+
+ 99.2 Supplemental package.
+
+Non-GAAP Supplemental Financial Measures
+
+Funds from Operations (FFO)
+
+FFO is a widely recognized non-GAAP financial measure of REIT performance. The Company computes FFO in accordance with standards established by NAREIT, which may not be comparable to FFO reported by other REITs that do not compute FFO in accordance with the NAREIT definition, or that interpret the NAREIT definition differently than the Company does. The revised White Paper on FFO approved by the Board of Governors of NAREIT in April 2002, and subsequently amended, defines FFO as net income (loss) (computed in accordance with GAAP), excluding gains (or losses) from sales of properties, and real estate related impairment charges, plus real estate related depreciation and amortization and after adjustments for unconsolidated partnerships and joint ventures. 
+
+The Company presents FFO because it considers it an important supplemental measure of the Company’s operating performance and believes that it is frequently used by securities analysts, investors and other interested parties in the evaluation of REITs, particularly those that own and operate commercial office properties. The Company also uses FFO as one of several criteria to determine performance-based bonuses for members of its senior management. FFO is intended to exclude GAAP historical cost depreciation and amortization of real estate and related assets, which assumes that the value of real estate assets diminishes ratably over time. Historically, however, real estate values have risen or fallen with market conditions. Because FFO excludes depreciation and amortization unique to real estate, gains and losses from property dispositions, and real estate related impairment charges, it provides a performance measure that, when compared year over year, reflects the impact to operations from trends in occupancy rates, rental rates, operating costs, and interest costs, providing perspective not immediately apparent from net income. FFO does not represent cash generated from operating activities in accordance with GAAP and should not be considered as an alternative to net income (determined in accordance with GAAP), as an indication of the Company’s financial performance or to cash flow from operating activities (determined in accordance with GAAP) as a measure of the Company’s liquidity, nor is it indicative of funds available to fund the Company’s cash needs, including the Company's ability to make cash distributions.
+
+Funds Available for Distribution (FAD)
+
+FAD is a non-GAAP financial measure that is calculated as FFO plus non-real estate depreciation, allowance for straight line credit loss, adjustment for straight line operating lease rent, non-cash deferred compensation, and pro-rata adjustments from the Company's unconsolidated JVs, less straight line rental income, free rent net of amortization, second cycle tenant improvement and leasing costs, and recurring capital expenditures.
+
+FAD is not intended to represent cash flow for the period and is not indicative of cash flow provided by operating activities as determined in accordance with GAAP. FAD is presented solely as a supplemental disclosure with respect to liquidity because the Company believes it provides useful information regarding the Company’s ability to fund its dividends. Because all companies do not calculate FAD the same way, the presentation of FAD may not be comparable to similarly titled measures of other companies. FAD does not represent cash flow from operating, investing and finance activities in accordance with GAAP and should not be considered as an alternative to net income (determined in accordance with GAAP), as an indication of the Company’s financial performance, as an alternative to net cash flows from operating activities (determined in accordance with GAAP), or as a measure of the Company’s liquidity.
+
+Earnings Before Interest, Taxes, Depreciation and Amortization for Real Estate (EBITDAre)
+
+EBITDAre is a non-GAAP financial measure. The Company computes EBITDAre in accordance with standards established by the National Association of Real Estate Investment Trusts, or NAREIT, which may not be comparable to EBITDAre reported by other REITs that do not compute EBITDAre in accordance with the NAREIT definition, or that interpret the NAREIT definition differently than the Company does. The White Paper on EBITDAre approved by the Board of Governors of NAREIT in September 2017 defines EBITDAre as net income (loss) (computed in accordance with Generally Accepted Accounting Principles, or GAAP), plus interest expense, plus income tax expense, plus depreciation and amortization, plus (minus) losses and gains on the disposition of depreciated property, plus impairment write-downs of depreciated property and investments in unconsolidated joint ventures, plus adjustments to reflect the entity's share of EBITDAre of unconsolidated joint ventures.
+
+The Company presents EBITDAre because the Company believes that EBITDAre, along with cash flow from operating activities, investing activities and financing activities, provides investors with an additional indicator of the Company’s ability to incur and service debt. EBITDAre should not be considered as an alternative to net income (determined in accordance with GAAP), as an indication of the Company’s financial performance, as an alternative to net cash flows from operating activities (determined in accordance with GAAP), or as a measure of the Company’s liquidity.
+
+Net Operating Income (NOI) and Cash NOI
+
+NOI is a non-GAAP financial measure that is calculated as operating income before transaction related costs, gains/losses on early extinguishment of debt, marketing general and administrative expenses and non-real estate revenue. Cash NOI is also a non-GAAP financial measure that is calculated by subtracting free rent (net of amortization), straight-line rent, and the amortization of acquired above and below-market leases from NOI, while adding operating lease straight-line adjustment and the allowance for straight-line tenant credit loss.
+
+The Company presents NOI and Cash NOI because the Company believes that these measures, when taken together with the corresponding GAAP financial measures and reconciliations, provide investors with meaningful information regarding the operating performance of properties. When operating performance is compared across multiple periods, the investor is provided with information not immediately apparent from net income that is determined in accordance with GAAP. NOI and Cash NOI provide information on trends in the revenue generated and expenses incurred in operating the Company's properties, unaffected by the cost of leverage, straight-line adjustments, depreciation, amortization, and other net income components. The Company uses these metrics internally as performance measures. None of these measures is an alternative to net income (determined in accordance with GAAP) and same-store performance should not be considered an alternative to GAAP net income performance.
+
+Coverage Ratios
+
+The Company presents fixed charge and debt service coverage ratios to provide a measure of the Company’s financial flexibility to service current debt amortization, interest expense and operating lease rent from current cash net operating income. These coverage ratios represent a common measure of the Company’s ability to service fixed cash payments; however, these ratios are not used as an alternative to cash flow from operating, financing and investing activities (determined in accordance with GAAP). 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+SL GREEN REALTY CORP.
+
+/s/ Matthew J. DiLiberto
+
+Matthew J. DiLiberto
+
+Chief Financial Officer
+
+Date: January 27, 2022

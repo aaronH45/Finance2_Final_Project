@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000018230",
+    "sec_company_name": "CATERPILLAR INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150127",
+    "sec_filing_date": "20150127",
+    "sec_changed_date": "20150127",
+    "sec_accepted_date": "20150127083022",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/18230/000110465915004614/0001104659-15-004614-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/18230/000110465915004614/0001104659-15-004614.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\CAT_0000018230_EX991_20150127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1571290 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 62972,
+    "endpoints": [
+        "EXHIBIT 99.1 ",
+        "31"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CAT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\CAT_0000018230_EX991_20150127_EX-99_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:16:31.557723"
+}

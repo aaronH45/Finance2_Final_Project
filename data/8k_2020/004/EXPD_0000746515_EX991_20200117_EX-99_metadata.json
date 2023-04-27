@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000746515",
+    "sec_company_name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200117",
+    "sec_filing_date": "20200117",
+    "sec_changed_date": "20200117",
+    "sec_accepted_date": "20200117130259",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/746515/000156459020001308/0001564590-20-001308-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/746515/000156459020001308/0001564590-20-001308.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\EXPD_0000746515_EX991_20200117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "21089 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4087,
+    "endpoints": [
+        "expd-ex991_6.htm     ",
+        "The financial information set forth in this press release reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in Expeditor’s Annual Report on Form 10-K for our year ended December 31, 2019, which Expeditors expects to file on February 21, 2020. Expeditors assumes no obligation to, and does not currently intend to, update these forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EXPD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\EXPD_0000746515_EX991_20200117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:46:19.260189"
+}

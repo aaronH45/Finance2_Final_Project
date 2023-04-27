@@ -1,0 +1,285 @@
+Exhibit 99.1  
+
+ CA Technologies Reports Third Quarter Fiscal Year 2018 Results   
+
+ Total Revenue Up Year-Over-Year, Strongest Revenue Growth in Six Years  
+
+ Third Quarter Revenue of $1,093 Million  
+
+ Third Quarter GAAP EPS of $(0.23), Including $(0.77) Impact of US Tax Reform  
+
+ Third Quarter Non-GAAP EPS of $0.75  
+
+ Third Quarter Cash Flow From Operations of $315 Million   
+
+ NEW YORK--(BUSINESS WIRE)--January 30, 2018--CA Technologies (NASDAQ:CA) today reported financial results for its third quarter fiscal 2018, which ended December 31, 2017.  
+
+ Mike Gregoire, CA Technologies Chief Executive Officer, said:  
+
+ "I am pleased to report strong fiscal third quarter results. Total revenue growth accelerated from the prior quarter and was up 9% year-over year.  
+
+ "Importantly, during the quarter we announced the most extensive list of new offerings and significant product enhancements in recent company history at CA World. Across our portfolio, we are positioning CA as the preeminent partner for customers to build a Modern Software Factory that enables them to be agile, adapt more quickly to market disruption and customer demand, and deliver better and more secure business outcomes.  
+
+ "I am confident with the strategic direction of the company and believe that we are on track to achieve long-term sustainable growth."  
+
+ [DATA_TABLE_REMOVED]  
+
+  * Non-GAAP income, Non-GAAP earnings per share and CC or Constant Currency are non-GAAP financial measures, as noted in "Non-GAAP Financial Measures" below. A reconciliation of non-GAAP financial measures to their comparable GAAP financial measures is included in the tables following this news release.   
+
+ [DATA_TABLE_REMOVED]  
+
+  *CC or Constant Currency is a non-GAAP financial measure, as noted in "Non-GAAP Financial Measures" below. A reconciliation of non-GAAP financial measures to their comparable GAAP financial measures is included in the tables following this news release.   
+
+ Total revenue increased primarily due to an increase in software fees and other revenue. Our fourth quarter fiscal 2017 acquisitions of Automic Holding GmbH (Automic) and Veracode, Inc. (Veracode) contributed approximately 6.5 points of revenue growth for the quarter.  
+
+ Total bookings decreased primarily due to a decline in renewal bookings.  
+
+ The Company executed a total of 13 license agreements with incremental contract values in excess of $10 million each, for an aggregate contract value of $367 million. During the third quarter of fiscal 2017, the Company executed a total of 21 license agreements with incremental contract values in excess of $10 million each, for an aggregate contract value of $577 million.  
+
+ The weighted average duration of subscription and maintenance bookings for the quarter was 2.94 years, compared with 3.32 years for the same period in fiscal 2017.   
+
+ [DATA_TABLE_REMOVED]  
+
+  *Refer to the discussion of Non-GAAP financial measures included in this news release and the reconciliation of non-GAAP financial measures to their comparable GAAP financial measures included in the tables following this news release.   
+
+  **CC or Constant Currency is a non-GAAP financial measure, as noted in "Non-GAAP Financial Measures" below. A reconciliation of non-GAAP financial measures to their comparable GAAP financial measures is included in the tables following this news release.   
+
+ GAAP and non-GAAP operating expenses increased primarily due to costs from our Automic and Veracode acquisitions, which were mainly personnel-related.  
+
+ GAAP operating expenses were also affected by higher amortization expenses of purchased software from our Automic and Veracode acquisitions.  
+
+ GAAP income tax expense included a $318 million tax charge relating to the US Tax Cuts and Jobs Act, enacted on December 22, 2017 (“US Tax Reform”). This tax charge was comprised of $220 million related to the deemed US repatriation of earnings held by non-US subsidiaries, which is payable over eight years, and $98 million related to the re-measurement of deferred tax assets and liabilities for the change in income tax rates. GAAP EPS was negatively impacted by $0.77 from the US Tax Reform adjustment. Non-GAAP income tax expense excluded the aforementioned tax charge relating to US Tax Reform. Non-GAAP EPS was positively impacted by $0.09 from a decrease in the non-GAAP effective tax rate, which is comprised of $0.05 related to a reduction in the statutory tax rate as a result of US Tax Reform and $0.04 related to other net discrete tax benefits realized.   
+
+ SELECTED HIGHLIGHTS FROM THE QUARTER   
+
+ At CA World last November, the Company announced its most extensive list of products in recent company history, with more than 20 new offerings and enhancements designed to help customers leverage agile practices, intelligent automation, data insights and end-to-end security for better and faster business outcomes.   
+
+ * New offerings supporting business agility and modern architectures include:   
+
+ CA Microgateway, a lighter-weight, faster and easier to deploy API Gateway solution, suitable for microservices environments.  
+
+ CA Continuous Delivery Director SaaS, helping companies more quickly define, build, test and deploy applications into production.  
+
+ CA BlazeMeter API Test, a light-weight SaaS-based API testing tool providing a simple way to quickly import, create and run API unit and functional tests.   
+
+ * New offerings leveraging intelligent automation and data analytics include:   
+
+ CA Digital Experience Insights, a SaaS-based digital experience monitoring and “cross-tier” analytics solution that combines and correlates app, infrastructure and user experience monitoring.  
+
+ CA Automic One Automation Platform, a unified suite of products running on a single, common platform designed to deliver intelligent automation to the enterprise.  
+
+ CA Dynamic Capacity Intelligence, helping to reduce mainframe costs and better meet service level agreements through automated dynamic capacity optimization.   
+
+ * New offerings enabling end-to-end security:   
+
+ CA Trusted Access Manager for Z, delivering privileged access management to the mainframe to help prevent insider threats and enhance enterprise data privacy.  
+
+ CA Veracode Greenlight, helping developers produce vulnerability-free code with instant feedback on security defects.    
+
+ CA Technologies was named a Leader for the fifth consecutive year in the 2017 Gartner Magic Quadrant for Integrated IT Portfolio Analysis Applications for CA Project & Portfolio Management (CA PPM).1  
+
+ CA Technologies was named an overall market leader in KuppingerCole’s 2017 Leadership Compass for Identity Provisioning. The report cites tight integration with other CA security products and modernized, leading-edge UI as notable strengths of CA’s solution.2  
+
+ Veracode, Inc., a leader in securing the world’s software and acquired by CA Technologies, was named a Leader in The Forrester Wave™: Static Application Security Testing, Q4 2017 report by Forrester Research.3   
+
+ [DATA_TABLE_REMOVED]  
+
+  *CC or Constant Currency is a non-GAAP financial measure, as noted in "Non-GAAP Financial Measures" below. A reconciliation of non-GAAP financial measures to their comparable GAAP financial measures is included in the tables following this news release.   
+
+ Mainframe Solutions revenue increased due to a favorable foreign exchange effect. Mainframe Solutions operating margin increased primarily due to a decrease in corporate overhead costs.  
+
+ Enterprise Solutions revenue increased primarily due to revenue generated from our Automic and Veracode acquisitions which contributed approximately 16 points of revenue growth for the quarter. Enterprise Solutions operating margin decreased primarily due to costs associated with our Automic and Veracode acquisitions, which were mainly personnel-related.  
+
+ Services revenue increased primarily due to professional services revenue generated from our Automic and Veracode acquisitions. Operating margin for Services increased primarily due to a decrease in personnel-related costs as a result of severance actions during the third quarter of fiscal 2017 and, to a lesser extent, higher margins from services associated with our Automic and Veracode acquisitions.   
+
+ CASH FLOW FROM OPERATIONS   
+
+ Cash flow provided by operations for the third quarter of fiscal 2018 was $315 million, versus $517 million in the year-ago period. Cash flow from operations decreased compared with the year-ago period due to a decrease in cash collections from billings attributable to lower single installment collections and an increase in vendor disbursements and payroll.   
+
+ CAPITAL STRUCTURE   
+
+ Cash and cash equivalents at December 31, 2017 were $2.971 billion.  
+
+ With $2.787 billion in total debt outstanding and $139 million in notional pooling, the Company’s net cash position was $45 million.  
+
+ Approximately 66% of the Company’s cash and cash equivalents were held by foreign subsidiaries outside the United States at December 31, 2017.  
+
+ In the third quarter of fiscal 2018, the Company repurchased 1.6 million shares of its common stock for $53 million.  
+
+ As of December 31, 2017, the Company was authorized to purchase $507 million of its common stock under its current stock repurchase program.  
+
+ The Company distributed $106 million in dividends to stockholders during the third quarter of fiscal 2018.  
+
+ The Company’s outstanding share count at December 31, 2017 was approximately 412 million.   
+
+ OUTLOOK FOR FISCAL YEAR 2018  
+
+ The Company updated its fiscal 2018 outlook as described below. This guidance assumes no material acquisitions, and contains "forward-looking statements" (as defined below).  
+
+ The Company expects the following:*   
+
+ Total revenue to increase approximately 5 percent as reported and approximately 4 percent in constant currency. At December 31, 2017 exchange rates, this translates to reported revenue of $4.22 billion to $4.25 billion.  
+
+ Full-year GAAP operating margin between 26 percent and 27 percent. Full year non-GAAP operating margin between 36 percent and 37 percent.  
+
+ The Company also expects a full-year GAAP effective tax rate of between 55 percent and 58 percent and non-GAAP effective tax rate of approximately 25 percent. The change to the full-year GAAP effective tax rate primarily relates to US Tax Reform. The change to the non-GAAP effective tax rate primarily relates to the reduction in the statutory tax rate as a result of US Tax Reform and other net discrete tax benefits realized. Previous guidance was a full-year GAAP and non-GAAP effective tax rate of between 28 percent and 29 percent.  
+
+ GAAP diluted earnings per share to decrease in a range of 46 percent to 41 percent as reported and in constant currency. The change to the GAAP diluted earnings per share outlook primarily relates to the change to the full-year GAAP effective tax rate, as described above. Previous guidance was to decrease in a range of 8 percent to 5 percent as reported and in constant currency. At December 31, 2017 exchange rates, this translates to reported GAAP diluted earnings per share of $1.00 to $1.10.  
+
+ Non-GAAP diluted earnings per share to increase in a range of 2 percent to 5 percent as reported and in constant currency. The change to the non-GAAP diluted earnings per share outlook primarily relates to the change to the non-GAAP effective tax rate, as described above. Previous guidance was to decrease in a range of 2 percent to flat as reported and in constant currency. At December 31, 2017 exchange rates, this translates to reported non-GAAP diluted earnings per share of $2.54 to $2.60.  
+
+ Approximately 412 million shares outstanding at fiscal 2018 year-end and weighted average diluted shares outstanding of approximately 415 million for fiscal 2018.  
+
+ Cash flow to increase in a range of 2 percent to 6 percent as reported and flat to 4 percent in constant currency. At December 31, 2017 exchange rates, this translates to reported cash flow from operations of $1.10 billion to $1.15 billion.   
+
+ *In the outlook section, certain non-material differences between growth rates and translated dollar amounts may arise from impact of rounding.  
+
+ Webcast  
+
+ This news release and the accompanying tables should be read in conjunction with additional content that is available on the Company’s website, including a supplemental financial package, as well as a conference call and webcast that the Company will host at 5:00 p.m. ET today to discuss its unaudited third quarter results. The webcast will be archived on the website. Individuals can access the webcast, as well as the press release and supplemental financial information at http://ca.com/invest or can listen to the call at 1-877-561-2748. The international participant number is 1-720-545-0044.  
+
+ 1 Gartner Magic Quadrant for Integrated IT Portfolio Analysis Applications, by Daniel B. Stang and Stefan Van Der Zijden, November 27, 2017  
+
+ The Gartner Report(s) described herein, (the "Gartner Report(s)") represent(s) research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and are not representations of fact. Each Gartner Report speaks as of its original publication date (and not as of the date of this Quarterly Report) and the opinions expressed in the Gartner Report(s) are subject to change without notice.  
+
+ Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.  
+
+ 2 KuppingerCole Leadership Compass: Identity Provisioning, November 2017  
+
+ 3 Forrester Research, The Forrester Wave™: Static Application Security Testing, Q4 2017, by Amy DeMartine et al., December 12, 2017  
+
+ About CA Technologies
+
+CA Technologies (NASDAQ: CA) creates software that fuels transformation for companies and enables them to seize the opportunities of the Application Economy. Software is at the heart of every business in every industry. From planning, to development, to management and security, CA is working with companies worldwide to change the way we live, transact, and communicate - across mobile, private and public cloud, distributed and mainframe environments. Learn more at www.ca.com.  
+
+ Follow CA Technologies   
+
+ Twitter  
+
+ Social Media Page  
+
+ Press Releases  
+
+ Blogs   
+
+ Non-GAAP Financial Measures
+
+This news release, the accompanying tables and the additional content that is available on the Company's website, including a supplemental financial package, include certain financial measures that exclude the impact of certain items and therefore have not been calculated in accordance with U.S. generally accepted accounting principles (GAAP). Non-GAAP metrics for operating expenses, operating income, operating margin, net income, and diluted earnings per share exclude the following items: non-cash amortization of purchased software, internally developed software and other intangible assets; share-based compensation expense; charges relating to rebalancing initiatives that are large enough to require approval from the Company's Board of Directors and certain other gains and losses, which include the gains and losses since inception of hedges that mature within the quarter, but exclude gains and losses of hedges that do not mature within the quarter. The effective tax rate on GAAP and non-GAAP income from operations is the Company's provision for income taxes expressed as a percentage of pre-tax GAAP and non-GAAP income from operations, respectively. These tax rates are determined based on an estimated effective full year tax rate, with the effective tax rate for GAAP including the impact of discrete items in the period in which such items arise and the effective tax rate for non-GAAP generally allocating the impact of discrete items pro rata to the fiscal year's remaining reporting periods. The non-GAAP effective tax rate is typically equal to the full year GAAP effective tax rate, therefore no adjustment is required on an annual basis. However, to minimize certain distortions that otherwise would have resulted from applying this methodology to the significant non-recurring impact on the Company’s tax expense from enactment of the US Tax Reform in the third quarter of fiscal 2018, such impact was recorded as a discrete item in the third quarter of fiscal 2018 only for purposes of the GAAP effective tax rate, but excluded from the non-GAAP effective tax rate, which is anticipated to also yield different full-year effective tax rates for the Company’s GAAP and non-GAAP results in fiscal 2018. Non-GAAP diluted earnings per share also excludes the impact of the US Tax Reform. Non-GAAP adjusted cash flow from operations excludes payments associated with the Board-approved rebalancing initiative, restructuring and other payments. Non-GAAP free cash flow excludes purchases of property and equipment. The Company presents constant currency information to provide a framework for assessing how the Company's underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than U.S. dollars are converted into U.S. dollars at the exchange rate in effect on the last day of the Company's prior fiscal year (i.e., March 31, 2017, March 31, 2016 and March 31, 2015, respectively). Constant currency excludes the impacts from the Company's hedging program. The constant currency calculation for annualized subscription and maintenance bookings is calculated by dividing the subscription and maintenance bookings in constant currency by the weighted average subscription and maintenance duration in years. These non-GAAP financial measures may be different from non-GAAP financial measures used by other companies. Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. By excluding these items, non-GAAP financial measures facilitate management's internal comparisons to the Company's historical operating results and cash flows, to competitors' operating results and cash flows, and to estimates made by securities analysts. Management uses these non-GAAP financial measures internally to evaluate its performance and they are key variables in determining management incentive compensation. The Company believes these non-GAAP financial measures are useful to investors in allowing for greater transparency of supplemental information used by management in its financial and operational decision-making. In addition, the Company has historically reported similar non-GAAP financial measures to its investors and believes that the inclusion of comparative numbers provides consistency in its financial reporting. Investors are encouraged to review the reconciliation of the non-GAAP financial measures used in this news release to their most directly comparable GAAP financial measures, which are attached to this news release.  
+
+ Cautionary Statement Regarding Forward-Looking Statements
+
+The declaration and payment of future dividends by the Company is subject to the determination of the Company’s Board of Directors, in its sole discretion, after considering various factors, including the Company’s financial condition, historical and forecasted operating results, and available cash flow, as well as any applicable laws and contractual covenants and any other relevant factors. The Company’s practice regarding payment of dividends may be modified at any time and from time to time.  
+
+ Repurchases under the Company’s stock repurchase program may be made from time to time, subject to market conditions and other factors, in the open market, through solicited or unsolicited privately negotiated transactions or otherwise. The program does not obligate the Company to acquire any particular amount of common stock, and it may be modified or suspended at any time at the Company’s discretion.  
+
+ Certain statements in this news release (such as statements containing the words "believes," "plans," "anticipates," "expects," "estimates," "targets" and similar expressions relating to the future) constitute "forward-looking statements" that are based upon the beliefs of, and assumptions made by, the Company's management, as well as information currently available to management. These forward-looking statements reflect the Company's current views with respect to future events and are subject to certain risks, uncertainties, and assumptions. A number of important factors could cause actual results or events to differ materially from those indicated by such forward-looking statements, including: the ability to achieve success in the Company’s business strategy by, among other things, ensuring that any new offerings address the needs of a rapidly changing market while not adversely affecting the demand for the Company’s traditional products or the Company’s profitability to an extent greater than anticipated, enabling the Company’s sales force to accelerate growth of sales to new customers and expand sales with existing customers, including sales outside of the Company’s renewal cycle and to a broadening set of purchasers outside of traditional information technology operations (with such growth and expansion at levels sufficient to offset any decline in revenue and/or sales in the Company’s Mainframe Solutions segment and in certain mature product lines in the Company’s Enterprise Solutions segment), effectively managing the strategic shift in the Company’s business model to develop more easily installed software, provide additional Software-as-a-Service offerings and refocus the Company’s professional services and education engagements on those engagements that are connected to new product sales, without affecting the Company’s financial performance to an extent greater than anticipated, and effectively managing the Company’s pricing and other go-to-market strategies, as well as improving the Company’s brand, technology and innovation awareness in the marketplace; the failure to innovate or adapt to technological changes and introduce new software products and services in a timely manner; competition in product and service offerings and pricing; the ability of the Company’s products to remain compatible with ever-changing operating environments, platforms or third party products; global economic factors or political events beyond the Company’s control and other business and legal risks associated with global operations; the failure to expand partner programs and sales of the Company’s solutions by the Company’s partners; the ability to retain and attract qualified professionals; general economic conditions and credit constraints, or unfavorable economic conditions in a particular region, business or industry sector; the ability to successfully integrate acquired companies and products into the Company’s existing business; risks associated with sales to government customers; breaches of the Company’s data center, network and software products, and the IT environments of the Company’s business partners and customers; the ability to adequately manage, evolve and protect the Company’s information systems, infrastructure and processes; the failure to renew license agreement transactions on a satisfactory basis; fluctuations in foreign exchange rates; changes in generally accepted accounting principles, which includes adoption of revenue recognition requirements under Accounting Standards Codification Topic 606; discovery of errors or omissions in the Company’s software products or documentation and potential product liability claims; the failure to protect the Company’s intellectual property rights and source code; access to software licensed from third parties; risks associated with the use of software from open source code sources; third-party claims of intellectual property infringement and/or royalty payments; fluctuations in the number, terms and duration of the Company’s license agreements, as well as the timing of orders from customers and partners; potential tax liabilities; changes in market conditions or the Company’s credit ratings; events or circumstances that would require the Company to record an impairment charge relating to the Company’s goodwill or capitalized software and other intangible assets balances; successful and secure outsourcing of various functions to third parties; and other factors described more fully in the Company’s other filings with the Securities and Exchange Commission. Should one or more of these risks or uncertainties occur, or should the Company’s assumptions prove incorrect, actual results may vary materially from the forward-looking information described herein as believed, planned, anticipated, expected, estimated, targeted or similarly identified. We do not intend to update these forward-looking statements, except as otherwise required by law. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof.  
+
+ Copyright © 2018 CA, Inc. All Rights Reserved. All other trademarks, trade names, service marks, and logos referenced herein belong to their respective companies.  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)     The Company’s Mainframe Solutions and Enterprise Solutions segments are comprised of its software business organized by the nature of the Company’s software offerings and the platforms on which the products operate. The Services segment is comprised of product implementation, consulting, customer education and customer training services, including those directly related to the Mainframe Solutions and Enterprise Solutions software that the Company sells to its customers.   
+
+  (2)     The Company regularly enters into a single arrangement with a customer that includes mainframe solutions, enterprise solutions and services. The amount of contract revenue assigned to operating segments is generally based on the manner in which the proposal is made to the customer. The software product revenue assigned to the Mainframe Solutions and Enterprise Solutions segments is based on either: (1) a list price allocation method (which allocates a discount in the total contract price to the individual products in proportion to the list price of the products); (2) allocations included within internal contract approval documents; or (3) the value for individual software products as stated in the customer contract. The price for the implementation, consulting, education and training services is separately stated in the contract and these amounts of contract revenue are assigned to the Services segment. The contract value assigned to each operating segment is then recognized in a manner consistent with the revenue recognition policies the Company applies to the customer contract for purposes of preparing the Consolidated Financial Statements.   
+
+  (3)     Segment expenses include costs that are controllable by segment managers (i.e., direct costs) and, in the case of the Mainframe Solutions and Enterprise Solutions segments, an allocation of shared and indirect costs (i.e., allocated costs). Segment-specific direct costs include a portion of selling and marketing costs, licensing and maintenance costs, product development costs and general and administrative costs. Allocated segment costs primarily include indirect and non-segment specific direct selling and marketing costs and general and administrative costs that are not directly attributable to a specific segment. The basis for allocating shared and indirect costs between the Mainframe Solutions and Enterprise Solutions segments is dependent on the nature of the cost being allocated and is either in proportion to segment revenues or in proportion to the related direct cost category. Expenses for the Services segment consist of cost of professional services and other direct costs included within selling and marketing and general and administrative expenses. There are no allocated or indirect costs for the Services segment.   
+
+  (4)     Other expenses, net consists of costs associated with certain foreign exchange derivative hedging gains and losses, and other miscellaneous costs.   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)     Constant currency information is presented to provide a framework for assessing how the Company's underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than U.S. dollars are converted into U.S. dollars at the exchange rate in effect on March 31, 2017, which was the last day of the prior fiscal year. Constant currency excludes the impacts from the Company's hedging program.   
+
+  (2)     Refer to Table 7 for a reconciliation of total expenses before interest and income taxes to total non-GAAP operating expenses.   
+
+      Certain non-material differences may arise versus actual from impact of rounding.   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)     GAAP operating margin is calculated by dividing GAAP income before interest and income taxes by total revenue (refer to Table 1 for total revenue).   
+
+  (2)     Non-GAAP adjustment consists of share-based compensation.   
+
+  (3)     For the three month periods ending December 31, 2017 and 2016, non-GAAP adjustment consists of $60 million and $39 million of purchased software amortization and $8 million and $18 million of internally developed software products amortization, respectively. For the nine month periods ending December 31, 2017 and 2016, non-GAAP adjustment consists of $176 million and $120 million of purchased software amortization and $29 million and $62 million of internally developed software products amortization, respectively.   
+
+  (4)     Non-GAAP adjustment consists of other intangibles amortization.   
+
+  (5)     Non-GAAP adjustment consists gains and losses since inception of hedges that mature within the quarter, but excludes gains and losses of hedges that do not mature within the quarter.   
+
+  (6)     Non-GAAP operating margin is calculated by dividing non-GAAP income before interest and income taxes by total revenue (refer to Table 1 for total revenue).   
+
+  (7)     The full year non-GAAP income tax expense is different from GAAP income tax expense because of the difference in non-GAAP income before income taxes. On an interim basis, this difference would also include a difference in the impact of discrete and permanent items where for GAAP purposes the effect is recorded in the period such items arise, but for non-GAAP such items are recorded pro rata to the fiscal year's remaining reporting periods.   
+
+  (8)     The Company’s tax expense from enactment of the US Tax Reform in the third quarter of fiscal 2018 was recorded as a discrete item in the third quarter of fiscal 2018 only for purposes of the GAAP income tax expense, and was excluded from the non-GAAP income tax expense.   
+
+      Refer to the discussion of non-GAAP financial measures included in the accompanying press release for additional information.   
+
+      Certain non-material differences may arise versus actual from impact of rounding.   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)     Other expenses, net consists of costs associated with certain foreign exchange derivative hedging gains and losses, and other miscellaneous costs.   
+
+  (2)     The effective tax rate on GAAP and non-GAAP income from operations is the Company's provision for income taxes expressed as a percentage of pre-tax GAAP and non-GAAP income from operations, respectively. These tax rates are determined based on an estimated effective full year tax rate, with the effective tax rate for GAAP including the impact of discrete items in the period in which such items arise and the effective tax rate for non-GAAP allocating the impact of discrete items pro rata to the fiscal year's remaining reporting periods. The non-GAAP effective tax rate is typically equal to the full year GAAP effective tax rate, therefore no adjustment is required on an annual basis. However, to minimize certain distortions that otherwise would have resulted from applying this methodology to the significant non-recurring impact on the Company’s tax expense from enactment of the US Tax Reform in the third quarter of fiscal 2018, such impact was recorded as a discrete item in the third quarter of fiscal 2018 only for purposes of the GAAP effective tax rate, but excluded from the non-GAAP effective tax rate, which is anticipated to also yield different full-year effective tax rates for the Company’s GAAP and non-GAAP results in fiscal 2018.   
+
+      Refer to the discussion of non-GAAP financial measures included in the accompanying press release for additional information.   
+
+      Certain non-material differences may arise versus actual from impact of rounding.   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)     Refer to Table 6 for a reconciliation of income before interest and income taxes on a GAAP basis to income before interest and income taxes on a non-GAAP basis.   
+
+  (2)     The effective tax rate on GAAP and non-GAAP income from operations is the Company's provision for income taxes expressed as a percentage of pre-tax GAAP and non-GAAP income from operations, respectively. These tax rates are determined based on an estimated effective full year tax rate, with the effective tax rate for GAAP including the impact of discrete items in the period in which such items arise and the effective tax rate for non-GAAP allocating the impact of discrete items pro rata to the fiscal year's remaining reporting periods. The non-GAAP effective tax rate is typically equal to the full year GAAP effective tax rate, therefore no adjustment is required on an annual basis. However, to minimize certain distortions that otherwise would have resulted from applying this methodology to the significant non-recurring impact on the Company’s tax expense from enactment of the US Tax Reform in the third quarter of fiscal 2018, such impact was recorded as a discrete item in the third quarter of fiscal 2018 only for purposes of the GAAP effective tax rate, but excluded from the non-GAAP effective tax rate, which is anticipated to also yield different full-year effective tax rates for the Company’s GAAP and non-GAAP results in fiscal 2018.   
+
+      Refer to the discussion of non-GAAP financial measures included in the accompanying press release for additional information.   
+
+      Certain non-material differences may arise versus actual from impact of rounding.   
+
+ [DATA_TABLE_REMOVED]  
+
+  (1)   The effective tax rate on GAAP and non-GAAP income from operations is the Company's provision for income taxes expressed as a percentage of pre-tax GAAP and non-GAAP income from operations, respectively. These tax rates are determined based on an estimated effective full year tax rate, with the effective tax rate for GAAP including the impact of discrete items in the period in which such items arise and the effective tax rate for non-GAAP allocating the impact of discrete items pro rata to the fiscal year's remaining reporting periods. The non-GAAP effective tax rate is typically equal to the full year GAAP effective tax rate, therefore no adjustment is required on an annual basis. However, to minimize certain distortions that otherwise would have resulted from applying this methodology to the significant non-recurring impact on the Company’s tax expense from enactment of the US Tax Reform in the third quarter of fiscal 2018, such impact was recorded as a discrete item in the third quarter of fiscal 2018 only for purposes of the GAAP effective tax rate, but excluded from the non-GAAP effective tax rate, which is anticipated to also yield different full-year effective tax rates for the Company’s GAAP and non-GAAP results in fiscal 2018.   
+
+    Refer to the discussion of non-GAAP financial measures included in the accompanying press release for additional information.   
+
+    Certain non-material differences may arise versus actual from impact of rounding.   
+
+ CONTACT:
+
+CA Technologies
+
+Darlan Monterisi, 646-826-6071
+
+Corporate Communications
+
+darlan.monterisi@ca.com
+
+or
+
+Jennifer DiClerico, 212-415-6997
+
+Corporate Communications
+
+jennifer.diclerico@ca.com
+
+or
+
+Traci Tsuchiguchi, 650-534-9814
+
+Investor Relations
+
+traci.tsuchiguchi@ca.com
+
+or
+
+Stefan Putyera, 631-342-4710
+
+Investor Relations
+
+stefan.putyera@ca.com

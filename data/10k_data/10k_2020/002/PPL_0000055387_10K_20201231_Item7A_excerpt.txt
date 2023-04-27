@@ -1,0 +1,453 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+PPL Corporation, PPL Electric Utilities Corporation, LG&E and KU Energy LLC, Louisville Gas and Electric Company and Kentucky Utilities Company
+
+Reference is made to "Risk Management" for the Registrants in "Item 7. Combined Management's Discussion and Analysis of Financial Condition and Results of Operations."
+
+78
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareowners and the Board of Directors of PPL Corporation
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of PPL Corporation and subsidiaries (the "Company") as of December 31, 2020 and 2019, the related consolidated statements of income, comprehensive income, equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2020, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 18, 2021, expressed an unqualified opinion on the Company's internal control over financial reporting.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Regulatory Assets and Liabilities – Impact of Rate-Regulation on Various Account Balances and Disclosures – Refer to Notes 1 and 7 to the Financial Statements 
+
+Critical Audit Matter Description 
+
+As discussed in Note 1 to the financial statements, PPL Corporation owns and operates three cost-based rate-regulated utilities in the United States (U.S.) for which rates are set by the Federal Energy Regulatory Commission (FERC), the Kentucky Public Service Commission (KPSC), the Virginia State Corporation Commission (VSCC) and the Pennsylvania Public Utility Commission (PUC) to enable the regulated utilities to recover the costs of providing electric or gas service, as applicable, and to provide a reasonable return to shareholders. Base rates are generally established based on a future test period. As a result, the financial statements are subject to the accounting for certain types of regulation as prescribed by accounting principles generally accepted in the United States of America and reflect the effects of regulatory actions. Regulatory assets are recognized for the effect of transactions or events where future recovery of underlying costs is probable in regulated customer rates. The effect of such accounting is to defer certain or qualifying costs that would otherwise currently be charged to expense. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. 
+
+79
+The accounting for regulatory assets and regulatory liabilities is based on specific ratemaking decisions or precedent for each transaction or event as prescribed by the FERC, KPSC, VSCC and PUC. The accounting for the economics of rate regulation also impacts other financial statement line items, including regulated utility plant, operating revenues, depreciation, and income taxes and impacts multiple note disclosures. As of December 31, 2020, PPL Corporation had a recorded regulatory assets balance of $1,361 million and regulatory liabilities balance of $2,609 million.
+
+PPL Corporation’s U.S. regulated utilities’ rates are subject to cost-based rate-setting processes and annual earnings oversight. Rates are established based on an analysis of the costs incurred and the regulated utility’s capital structure and must be approved by one or more federal or state regulatory commissions, including the FERC, KPSC, VSCC and PUC. Regulatory decisions can have an impact on the recovery of costs, the rate earned on invested capital, and the timing and amount of assets to be recovered by rates. The FERC, KPSC, VSCC and PUC regulation of rates is premised on the full recovery of prudently incurred costs and an adequate return on capital investments. Decisions to be made by the FERC, KPSC, VSCC and PUC in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While PPL Corporation’s U.S. utilities have indicated that they expect to recover costs from customers through regulated rates, there is a risk that the FERC, KPSC, VSCC or PUC will not approve full recovery of such costs or approve recovery on a timely basis in future regulatory decisions. 
+
+We identified the impact of rate regulation as a critical audit matter due to the significant judgments made by management in continually assessing whether the regulatory assets are probable of future recovery by considering factors, such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders and the status of any pending legislation. Auditing these judgments required specialized knowledge of accounting for rate regulation and the rate-setting process due to its inherent complexities. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the FERC, KPSC, VSCC and PUC included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over evaluating the likelihood of recovery in future rates of costs deferred as regulatory assets. We tested the effectiveness of management’s controls over the recognition of amounts as regulated utility plant, regulatory assets or liabilities, operating revenues, depreciation expense, income tax expense, and note disclosures. We tested the effectiveness of management’s internal controls over the monitoring and evaluation of regulatory developments that may affect the likelihood of recovering costs in future rates or of a future reduction in rates. 
+
+•We obtained and read relevant regulatory orders issued by the FERC, KPSC, VSCC and PUC for PPL Corporation’s U.S. regulated utilities and other public utilities, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness.
+
+•We inquired of management about regulated utility plant that may be abandoned. We inspected minutes of the Board of Directors, regulatory orders and other filings with the FERC, KPSC, VSCC and PUC to identify any evidence that may contradict management’s assertion regarding probability of an abandonment.
+
+•We evaluated PPL Corporation’s disclosures related to the impacts of rate-regulation, including the balances recorded and regulatory developments.
+
+80
+Impairment of Long-lived Assets – Recoverability of U.K. Utility Business - Refer to Notes 1 and 9 to the Financial Statements 
+
+Critical Audit Matter Description 
+
+As discussed in Note 9 to the financial statements, on August 10, 2020, PPL announced that it initiated a formal process to sell its U.K. utility business. As a result of the potential sale, PPL assessed the recoverability of the long-lived assets of the U.K. utility business as of September 30, 2020 and December 31, 2020. 
+
+To test recoverability of long-lived assets of the U.K. utility business, PPL Corporation prepared probability-weighted undiscounted cash flow estimates that assumed estimates of selling price, expected forecasted cash flows from the operations of the U.K. utility business (which included significant assumptions made by management to estimate projected operating and capital cash flows, regulatory asset value (RAV) and the finalization of RIIO-ED2) and weighted average probability of sale. The resulting cash flow analyses exceeded the carrying value of the assets of the U.K. utility business.
+
+We identified PPL Corporation’s impairment evaluation of long-lived assets of the U.K. utility business as a critical audit matter because of significant judgments made by management to estimate selling price, expected forecasted cash flows from the operations of the U.K. utility business and weighted average probability of sale. The significant judgments and assumptions made by management to estimate probabilities and future cash flows, include management's intended use of the assets, estimates of selling price, RAV, the finalization of RIIO-ED2, and projected operating and capital cash flows. A high degree of auditor judgment and an increased effort was required when performing audit procedures to evaluate the reasonableness of management’s estimates and judgments related to each of these assumptions. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the significant judgments and assumptions made by management to estimate selling price, expected forecasted cash flows from the operations of the U.K. utility business and weighted average probability of sale included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over their long-lived asset recoverability test, including the significant judgments and assumptions made by management in determining management's intended use of the assets, estimates of selling price, RAV, the finalization of RIIO-ED2 and projected operating and capital cash flows. 
+
+•We evaluated the reasonableness of management’s projected operating and capital cash flows by:
+
+◦Comparing current year forecasts to prior year forecasts to understand if any significant changes occurred and why they are appropriate. 
+
+◦Comparing information included in communications to the Board of Directors.
+
+◦Comparing information from the Office of Gas and Electricity Markets (Ofgem), including total expenditures assumptions in RIIO-ED2.
+
+◦Comparing information included in PPL Corporation’s press releases as well as in analyst and industry reports for PPL Corporation. 
+
+•We evaluated the reasonableness of the RAV by: 
+
+•Comparing information to the Ofgem Price Control Finance Model.
+
+•Recalculating projected RAV and understanding changes in the RAV for each period.
+
+•We evaluated management’s assumptions related to values assigned to each probability-weighted outcome. 
+
+•We evaluated estimates of selling price by evaluating sector market performance and comparable market transactions.
+
+•We evaluated the related disclosures for consistency with our understanding.
+
+81
+Goodwill – U.K. Regulated Segment Reporting Unit – Refer to Notes 1 and 19 to the Financial Statements 
+
+Critical Audit Matter Description 
+
+PPL Corporation’s balance sheet includes $3,274 million of goodwill as of December 31, 2020, of which $2,559 million was allocated to the U.K. Regulated segment reporting unit. The fair value of the U.K. Regulated segment reporting unit exceeded the carrying value as of the measurement date and, therefore, no impairment was recognized. PPL Corporation identified a triggering event during the quarter ended March 31, 2020 and performed a quantitative impairment test associated with the U.K. Regulated segment reporting unit. Additionally, PPL Corporation performed its annual impairment test of goodwill as of October 1, 2020 for the U.K. Regulated segment reporting unit and elected to perform a qualitative step zero evaluation. PPL updated the qualitative step zero evaluation for the U.K. Regulated segment reporting unit as of December 31, 2020.
+
+We identified goodwill for the U.K. Regulated segment reporting unit as a critical audit matter because of the significant judgments made by management to estimate the fair value of the U.K. Regulated segment reporting unit. The significant judgments and assumptions made by management to estimate the fair value include RAV premiums, discount and growth rates, projected operating and capital cash flows, market multiples and the evaluation of changes to these assumptions that could affect the fair value of the U.K. Regulated segment reporting unit. A high degree of auditor judgment and an increased effort was required when performing audit procedures to evaluate the reasonableness of management’s estimates and assumptions.
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the RAV premiums, discount and growth rates, projected operating and capital cash flows and market multiples used by management to estimate the fair value of the U.K. Regulated segment reporting unit and the evaluation of changes to these assumptions and triggering events that could affect the fair value of the U.K. Regulated segment reporting unit included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over their goodwill impairment evaluations, including those over the significant assumptions used in management’s quantitative impairment test and qualitative step zero evaluations. 
+
+•We evaluated the reasonableness of management’s projected operating and capital cash flows by:
+
+◦Performing a retrospective review of current year results compared to the projections used in the most recent quantitative impairment test. 
+
+◦Comparing current year forecasts to prior year forecasts to understand if any significant changes occurred and why they are appropriate. 
+
+◦Comparing information included in communications to the Board of Directors.
+
+◦Comparing information from Ofgem, including total expenditures assumptions in RIIO-ED2.
+
+◦Comparing information included in PPL Corporation’s press releases as well as in analyst and industry reports for PPL Corporation. 
+
+•We evaluated the reasonableness of the (1) valuation methodology, (2) RAV premiums, (3) discount and growth rates and (4) market multiples by:
+
+◦Evaluating historical data used in developing the assumptions to assess whether the data is comparable and consistent with data of the period under audit.
+
+◦Performing a sensitivity analysis to assess whether there are any changes in the key drivers of the fair value since the prior year. 
+
+◦Evaluating sector market performance and comparable market transactions.
+
+82
+•We evaluated the Company’s qualitative step zero evaluations, including consideration of macroeconomic factors that could change RAV premiums, discount and growth rates, and projected operating and capital cash flows.
+
+•We evaluated the impact of internal and external factors from the October 1, 2020 annual measurement date to December 31, 2020.
+
+•We evaluated the related disclosures for consistency with our understanding.
+
+Income Taxes – Valuation Allowances – Estimates of future taxable income and management’s determination of whether it is more likely than not that deferred tax assets will be realized – Refer to Note 1 and 6 to the Financial Statements
+
+Critical Audit Matter Description 
+
+Deferred income taxes reflect the net future tax effects of temporary differences between the carrying amounts of assets and liabilities for accounting purposes and their basis for income tax purposes and the tax effects of net operating losses and tax credit carryforwards. Net deferred tax assets have been recognized based on management’s estimates of future taxable income for the U.S. and the U.K. PPL Corporation files tax returns in multiple jurisdictions with complex tax laws and regulations. Valuation allowances have been established for the amounts that, more likely than not, will not be realized. PPL Corporation has $906 million of valuation allowances recorded on $1,455 million of deferred tax assets related to federal, state and foreign loss and credit carryforwards as of December 31, 2020. 
+
+Management considers a number of factors in assessing the realization of a deferred tax asset associated with net operating losses and tax credit carryforwards, including the reversal of temporary differences, future taxable income and ongoing prudent and feasible tax-planning strategies. Management also considers the uncertainty posed by political risk and the effect of this uncertainty on the various factors that management takes into account in evaluating the need for valuation allowances. The amount of deferred tax assets ultimately realized may differ materially from the estimates utilized in the computation of valuation allowances and may materially impact the financial statements in the future. 
+
+We identified management’s estimation of the valuation allowances associated with loss and credit carryforwards as a critical audit matter because the need for valuation allowances to reduce deferred tax assets requires significant management judgment. A high degree of auditor judgment and an increased extent of effort, including the need to involve our income tax specialists, was required when performing audit procedures to evaluate the reasonableness of management’s estimates of future taxable income and the determination of whether it is more likely than not that the deferred tax assets will be realized.
+
+How the Critical Audit Matter Was Addressed in the Audit 
+
+Our audit procedures related to estimated future taxable income and the determination of whether it is more likely than not that the deferred tax assets will be realized included the following, among others: 
+
+•We tested the effectiveness of management’s internal controls over the valuation allowance for income taxes, including management’s internal controls over the estimates of future taxable income and the determination of whether it is more likely than not that the deferred tax assets will be realized.
+
+•We evaluated the reasonableness of the methods, assumptions, and judgments used by management to determine whether a valuation allowance was necessary. 
+
+•With the assistance of our income tax specialists, we evaluated whether the sources of management’s estimated taxable income were of the appropriate character and sufficient to utilize the deferred tax assets under the relevant tax laws. 
+
+•We evaluated management’s ability to accurately estimate taxable income by comparing actual results to management’s historical estimates and evaluating whether there have been any changes that would affect management’s ability to continue accurately estimating taxable income.
+
+•We tested the reasonableness of management’s estimates of future taxable income by comparing the estimates to: 
+
+◦Internal budgets.
+
+83
+◦Historical taxable income, as adjusted for nonrecurring items.
+
+◦Internal communications to management and the Board of Directors.
+
+◦Forecasted information included in PPL Corporation’s press releases as well as in analyst and industry reports for PPL Corporation. 
+
+•We evaluated the related disclosures for consistency with our understanding.
+
+/s/ Deloitte & Touche LLP
+
+Parsippany, New Jersey 
+
+February 18, 2021 
+
+We have served as the Company's auditor since 2015.
+
+84
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareowners and the Board of Directors of PPL Corporation
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited the internal control over financial reporting of PPL Corporation and subsidiaries (the “Company”) as of December 31, 2020, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2020, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2020, of the Company and our report dated February 18, 2021, expressed an unqualified opinion on those financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting at Item 9A. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Deloitte & Touche LLP 
+
+Parsippany, New Jersey
+
+February 18, 2021
+
+85
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Shareowner and the Board of Directors of PPL Electric Utilities Corporation
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of PPL Electric Utilities Corporation and subsidiaries (the "Company") as of December 31, 2020 and 2019, the related consolidated statements of income, equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing a separate opinion on the critical audit matters or on the accounts or disclosures to which they relates.
+
+Critical Audit Matter Description
+
+Regulatory Assets and Liabilities – Impact of Rate-Regulation on Various Account Balances and Disclosures – Refer to Notes 1 and 7 to the consolidated financial statements 
+
+As discussed in Note 1 to the financial statements, PPL Electric Utilities Corporation (PPL Electric) is a cost-based rate-regulated utility for which rates are set by the Federal Energy Regulatory Commission (FERC) and the Pennsylvania Public Utility Commission (PUC) to enable the regulated utility to recover the costs of providing electric service and to provide a reasonable return to shareholders. Base rates are generally established based on a future test period. As a result, the consolidated financial statements are subject to the accounting for certain types of regulation as prescribed by generally accepted accounting principles and reflect the effects of regulatory actions. Regulatory assets are recognized for the effect of transactions or events where future recovery of underlying costs is probable in regulated customer rates. The effect of such accounting is to defer certain or qualifying costs that would otherwise currently be charged to expense. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. The accounting for regulatory assets and regulatory liabilities is based on specific ratemaking decisions or precedent for each transaction or event as prescribed by the FERC and PUC. The accounting for the economics of rate-regulation also impacts other financial statement 
+
+86
+line items, including regulated utility plant, operating revenues, depreciation, and income taxes, and impacts multiple note disclosures. As of December 31, 2020, PPL Electric had a recorded consolidated regulatory assets balance of $581 million and regulatory liabilities balance of $646 million.
+
+PPL Electric’s U.S. regulated utility’s rates are subject to cost-based rate-setting processes and annual earnings oversight. Rates are established based on an analysis of the costs incurred and the regulated utility’s capital structure and must be approved by one or more federal or state regulatory commissions, including the FERC and PUC. Regulatory decisions can have an impact on the recovery of costs, the rate earned on invested capital and the timing and amount of assets to be recovered by rates. The FERC and PUC regulation of rates is premised on the full recovery of prudently incurred costs and an adequate return on capital investments. Decisions to be made by the FERC and PUC in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While PPL Electric has indicated that it expects to recover costs from customers through regulated rates, there is a risk that the FERC or PUC will not approve full recovery of such costs or approve recovery on a timely basis in future regulatory decisions. 
+
+We identified the impact of rate regulation as a critical audit matter due to the significant judgments made by management in continually assessing whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders, and the status of any pending legislation. Auditing these judgments required specialized knowledge of accounting for rate regulation and the rate setting process due to its inherent complexities. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the FERC and PUC, among others:
+
+•We tested the effectiveness of management’s internal controls over evaluating the likelihood of recovery in future rates of costs deferred as regulatory assets. We tested the effectiveness of management’s controls over the initial recognition of amounts as regulated utility plant, regulatory assets or liabilities, operating revenues, depreciation expense, income tax expense, and note disclosures and the monitoring and evaluation of regulatory developments that may affect the likelihood of recovering costs in future rates or of a future reduction in rates. 
+
+•We obtained and read relevant regulatory orders issued by the FERC and PUC for PPL Electric and other public utilities in Pennsylvania, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness. 
+
+•We inquired of management about regulated utility plant that may be abandoned. We inspected minutes of the Board of Directors and regulatory orders and other filings with the FERC and PUC to identify any evidence that may contradict management’s assertion regarding probability of an abandonment.
+
+•We evaluated PPL Electric’s disclosures related to the impacts of rate-regulation, including the balances recorded and regulatory developments.
+
+Regulatory Liabilities – Challenge to PPL Electric Transmission Formula Rate Return on Equity – Refer to Note 7 to the consolidated financial statements 
+
+Critical Audit Matter Description
+
+As discussed in Note 7 to the financial statements, on May 21, 2020, PP&L Industrial Customer Alliance (PPLICA) filed a complaint with the FERC alleging that PPL Electric’s base return on equity (ROE) of 11.18% used to determine PPL Electric’s formula transmission rate is unjust and unreasonable, and proposing an alternative ROE of 8.0% based on its interpretation of FERC Opinion No. 569. However, also on May 21, 2020, the FERC issued Opinion No. 569-A in response to numerous requests for rehearing of Opinion No. 569, which revised the method for analyzing base ROE. On June 10, 2020, PPLICA filed a Motion to Supplement the May 21, 2020 compliant in which PPLICA continued to allege that PPL Electric’s base ROE is unjust and unreasonable, but revised its analysis of PPL Electric’s base ROE to reflect the guidance provided in Opinion No. 569-A. The amended complaint proposed an updated alternative ROE of 8.5% and also requested that the FERC preserve the original refund effective date as established by the filing of the original complaint on May 21, 2020. 
+
+87
+On July 10, 2020, PPL Electric filed its Answer and supporting Testimony to the PPLICA filings arguing that the FERC should deny the original and amended complaints as they are without merit and fail to demonstrate the existing base ROE is unjust and unreasonable. On October 15, 2020, the FERC issued an order which established hearing and settlement procedures. 
+
+PPL Electric believes its ROE is just and reasonable and that it has meritorious defenses against the original and amended complaints. At this time, PPL Electric cannot predict the outcome of this matter or the range of possible losses, if any, that may be incurred. 
+
+We identified the analysis of accounting and disclosures associated with this complaint as a critical audit matter due to the significant judgments made by management in evaluating whether a potential refund to customers exists. A high degree of auditor judgment and an increased effort, including the involvement of individuals with specialized knowledge of accounting for rate regulation and the rate-setting process, was required. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to management’s judgments regarding the ROE challenge included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over the evaluation of the complaint and the related accounting and disclosure considerations. We tested the effectiveness of management’s internal controls over the review of the work of management’s specialist used in calculating a range of return on equity that the Company believes is just and reasonable used in the Company’s response filed with the FERC.
+
+•We obtained and read relevant regulatory orders issued by the FERC for other public utilities, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the reasonableness of management’s estimated refund to customers in comparison to settlements reached between the FERC, other intervenors and other companies in the power and utilities industry.
+
+•We requested and received written responses from internal counsel and external legal firms representing PPL Electric and evaluated the legal conclusions for consistency with those used in management’s accounting judgments and disclosures.
+
+•We tested the assumptions and the source data used in the calculation of the range of return on equity that the Company believes is just and reasonable utilized in the Company’s accounting evaluation. 
+
+•We evaluated PPL Electric’s disclosures for consistency with our understanding.
+
+/s/ Deloitte & Touche LLP
+
+Parsippany, New Jersey 
+
+February 18, 2021 
+
+We have served as the Company's auditor since 2015.
+
+88
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Sole Member and the Board of Directors of LG&E and KU Energy LLC
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of LG&E and KU Energy LLC and Subsidiaries (the “Company”) as of December 31, 2020 and 2019, the related consolidated statements of income, comprehensive income, equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the related notes and the schedule listed in the Index at Item 15 (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Regulatory Assets and Liabilities – Impact of Rate-Regulation on Various Account Balances and Disclosures – Refer to Notes 1 and 7 to the consolidated financial statements
+
+Critical Audit Matter Description
+
+As discussed in Note 1 to the financial statements, LG&E and KU Energy LLC (LKE) is a utility holding company with cost-based rate-regulated utility operations for which rates are set by the Kentucky Public Service Commission (KPSC), the Virginia State Corporation Commission (VSCC) and the Federal Energy Regulatory Commission (FERC), to enable Louisville Gas and Electric Company (LG&E) and Kentucky Utilities Company (KU) to recover the costs of providing electric or gas services, as applicable, and to provide a reasonable return to shareholders. Base rates are generally established based on a future test period. As a result, the financial statements are subject to the accounting for certain types of regulation as prescribed by generally accepted accounting principles and reflect the effects of regulatory actions. Regulatory assets are recognized for the effect of transactions or events where future recovery of underlying costs is probable in regulated customer rates. The effect of such accounting is to defer certain or qualifying costs that would otherwise currently be charged to expense. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. The accounting for regulatory assets and regulatory liabilities is based on specific ratemaking decisions or precedent for each 
+
+89
+transaction or event as prescribed by the KPSC, VSCC and FERC. The accounting for the economics of rate-regulation also impacts other financial statement line items, including regulated utility plant, operating revenues, depreciation, and income taxes, and impacts multiple note disclosures. As of December 31, 2020, LKE had a recorded consolidated regulatory assets balance of $780 million and regulatory liabilities balance of $1,963 million.
+
+LKE’s regulated utilities’ rates are subject to cost-based rate-setting processes and annual earnings oversight. Rates are established based on an analysis of the costs incurred and the regulated utility’s capital structure and must be approved by one or more federal or state regulatory commissions, including the KPSC, VSCC and FERC. Regulatory decisions can have an impact on the recovery of costs, the rate earned on invested capital and the timing and amount of assets to be recovered by rates. The KPSC, VSCC and FERC regulation of rates is premised on the full recovery of prudently incurred costs and an adequate return on capital investments. Decisions to be made by the KPSC, VSCC and FERC in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While LKE has indicated it expects to recover costs from customers through regulated rates, there is a risk that the KPSC, VSCC or FERC will not approve full recovery of such costs or approve recovery on a timely basis in future regulatory decisions.
+
+We identified the impact of rate regulation as a critical audit matter due to the significant judgments made by management in continually assessing whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders, and the status of any pending legislation. Auditing these judgments required specialized knowledge of accounting for rate regulation and the rate setting process due to its inherent complexities. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the KPSC, VSCC, or FERC included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over evaluating the likelihood of recovery in future rates of costs deferred as regulatory assets. We tested the effectiveness of management’s controls over the initial recognition of amounts as regulated utility plant, regulatory assets or liabilities, operating revenues, depreciation expense, income tax expense, note disclosures and the monitoring and evaluation of regulatory developments that may affect the likelihood of recovering costs in future rates or of a future reduction in rates.
+
+•We obtained and read relevant regulatory orders issued by the KPSC, VSCC and FERC for LG&E and KU and other public utilities in Kentucky and Virginia, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness.
+
+•We inquired of management about regulated utility plant that may be abandoned. We inspected minutes of the Board of Directors and regulatory orders and other filings with the Commission to identify any evidence that may contradict management’s assertion regarding probability of an abandonment.
+
+•We evaluated LKE’s disclosures related to the impacts of rate-regulation, including the balances recorded and regulatory developments.
+
+/s/ Deloitte & Touche LLP
+
+Louisville, Kentucky
+
+February 18, 2021
+
+We have served as the Company’s auditor since 2015.
+
+90
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Stockholder and the Board of Directors of Louisville Gas and Electric Company
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of Louisville Gas and Electric Company (the “Company”) as of December 31, 2020 and 2019, the related statements of income, equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Regulatory Assets and Liabilities – Impact of Rate-Regulation on Various Account Balances and Disclosures – Refer to Notes 1 and 7 to the financial statements
+
+Critical Audit Matter Description
+
+As discussed in Note 1 to the financial statements, Louisville Gas and Electric Company (LG&E) is a cost-based rate-regulated utility for which rates are set by the Kentucky Public Service Commission (KPSC) and the Federal Energy Regulatory Commission (FERC), to enable the regulated utility to recover the costs of providing electric or gas services, as applicable, and to provide a reasonable return to shareholders. Base rates are generally established based on a future test period. As a result, the financial statements are subject to the accounting for certain types of regulation as prescribed by generally accepted accounting principles and reflect the effects of regulatory actions. Regulatory assets are recognized for the effect of transactions or events where future recovery of underlying costs is probable in regulated customer rates. The effect of such accounting is to defer certain or qualifying costs that would otherwise currently be charged to expense. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. The accounting for regulatory assets and regulatory liabilities is based on specific ratemaking decisions or precedent for each transaction or event as prescribed by the KPSC and FERC. The accounting for the economics of rate-regulation also impacts other financial statement line items, including regulated utility plant, operating revenues, depreciation, and income taxes, and impacts 
+
+91
+multiple note disclosures. As of December 31, 2020, LG&E had a recorded regulatory assets balance of $374 million and regulatory liabilities balance of $882 million.
+
+LG&E’s regulated utility’s rates are subject to cost-based rate-setting processes and annual earnings oversight. Rates are established based on an analysis of the costs incurred and the regulated utility’s capital structure and must be approved by one or more federal or state regulatory commissions, including the KPSC and FERC. Regulatory decisions can have an impact on the recovery of costs, the rate earned on invested capital and the timing and amount of assets to be recovered by rates. The KPSC and FERC regulation of rates is premised on the full recovery of prudently incurred costs and an adequate return on capital investments. Decisions to be made by the KPSC and FERC in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While LG&E has indicated it expects to recover costs from customers through regulated rates, there is a risk that the KPSC or FERC will not approve full recovery of such costs or approve recovery on a timely basis in future regulatory decisions.
+
+We identified the impact of rate regulation as a critical audit matter due to the significant judgments made by management in continually assessing whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders, and the status of any pending legislation. Auditing these judgments required specialized knowledge of accounting for rate regulation and the rate setting process due to its inherent complexities. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the KPSC or FERC included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over evaluating the likelihood of recovery in future rates of costs deferred as regulatory assets. We tested the effectiveness of management’s controls over the initial recognition of amounts as regulated utility plant, regulatory assets or liabilities, operating revenues, depreciation expense, and income tax expense, note disclosures and the monitoring and evaluation of regulatory developments that may affect the likelihood of recovering costs in future rates or of a future reduction in rates.
+
+•We obtained and read relevant regulatory orders issued by the KPSC and FERC for LG&E and other public utilities in Kentucky, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness.
+
+•We inquired of management about regulated utility plant that may be abandoned. We inspected minutes of the Board of Directors and regulatory orders and other filings with the Commission to identify any evidence that may contradict management’s assertion regarding probability of an abandonment.
+
+•We evaluated LG&E’s disclosures related to the impacts of rate-regulation, including the balances recorded and regulatory developments.
+
+/s/ Deloitte & Touche LLP
+
+Louisville, Kentucky
+
+February 18, 2021
+
+We have served as the Company’s auditor since 2015.
+
+92
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholder and the Board of Directors of Kentucky Utilities Company
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of Kentucky Utilities Company (the “Company”) as of December 31, 2020 and 2019, the related statements of income, equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Regulatory Assets and Liabilities – Impact of Rate-Regulation on Various Account Balances and Disclosures – Refer to Notes 1 and 7 to the financial statements
+
+Critical Audit Matter Description
+
+As discussed in Note 1 to the financial statements, Kentucky Utilities Company (KU) is a cost-based rate-regulated utility for which rates are set by the Kentucky Public Service Commission (KPSC), the Virginia State Corporation Commission (VSCC) and the Federal Energy Regulatory Commission (FERC), to enable the regulated utility to recover the costs of providing electric or gas services, as applicable, and to provide a reasonable return to shareholders. Base rates are generally established based on a future test period. As a result, the financial statements are subject to the accounting for certain types of regulation as prescribed by generally accepted accounting principles and reflect the effects of regulatory actions. Regulatory assets are recognized for the effect of transactions or events where future recovery of underlying costs is probable in regulated customer rates. The effect of such accounting is to defer certain or qualifying costs that would otherwise currently be charged to expense. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. The accounting for regulatory assets and regulatory liabilities is based on specific ratemaking decisions or precedent for each transaction or event as prescribed by the KPSC, VSCC and FERC. The accounting for the economics of rate-regulation also 
+
+93
+impacts other financial statement line items, including regulated utility plant, operating revenues, depreciation, and income taxes, and impacts multiple note disclosures. As of December 31, 2020, KU had a recorded regulatory assets balance of $406 million and regulatory liabilities balance of $1,081 million.
+
+KU’s regulated utility’s rates are subject to cost-based rate-setting processes and annual earnings oversight. Rates are established based on an analysis of the costs incurred and the regulated utility’s capital structure and must be approved by one or more federal or state regulatory commissions, including the KPSC, VSCC and FERC. Regulatory decisions can have an impact on the recovery of costs, the rate earned on invested capital and the timing and amount of assets to be recovered by rates. The KPSC, VSCC and FERC regulation of rates is premised on the full recovery of prudently incurred costs and an adequate return on capital investments. Decisions to be made by the KPSC, VSCC and FERC in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While KU has indicated it expects to recover costs from customers through regulated rates, there is a risk that the KPSC, VSCC or FERC will not approve full recovery of such costs or approve recovery on a timely basis in future regulatory decisions.
+
+We identified the impact of rate regulation as a critical audit matter due to the significant judgments made by management in continually assessing whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders, and the status of any pending legislation. Auditing these judgments required specialized knowledge of accounting for rate regulation and the rate setting process due to its inherent complexities. 
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the KPSC, VSCC, or FERC included the following, among others:
+
+•We tested the effectiveness of management’s internal controls over evaluating the likelihood of recovery in future rates of costs deferred as regulatory assets. We tested the effectiveness of management’s controls over the initial recognition of amounts as regulated utility plant, regulatory assets or liabilities, operating revenues, depreciation expense, and income tax expense, note disclosures and the monitoring and evaluation of regulatory developments that may affect the likelihood of recovering costs in future rates or of a future reduction in rates.
+
+•We obtained and read relevant regulatory orders issued by the KPSC, VSCC and FERC for KU and other public utilities in Kentucky and Virginia, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness.
+
+•We inquired of management about regulated utility plant that may be abandoned. We inspected minutes of the Board of Directors and regulatory orders and other filings with the Commission to identify any evidence that may contradict management’s assertion regarding probability of an abandonment.
+
+•We evaluated KU’s disclosures related to the impacts of rate-regulation, including the balances recorded and regulatory developments.
+
+/s/ Deloitte & Touche LLP
+
+Louisville, Kentucky
+
+February 18, 2021
+
+We have served as the Company’s auditor since 2015.
+
+94
+(THIS PAGE LEFT BLANK INTENTIONALLY.)
+
+95
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

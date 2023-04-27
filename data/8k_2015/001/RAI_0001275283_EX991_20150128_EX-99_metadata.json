@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001275283",
+    "sec_company_name": "REYNOLDS AMERICAN INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150128",
+    "sec_filing_date": "20150128",
+    "sec_changed_date": "20150128",
+    "sec_accepted_date": "20150128152134",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1275283/000119312515023456/0001193125-15-023456-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1275283/000119312515023456/0001193125-15-023456.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\RAI_0001275283_EX991_20150128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "25888 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14896,
+    "endpoints": [
+        "EX-99.1   ",
+        "This communication is not intended to and does not constitute an offer to sell or the solicitation of an offer to subscribe for or buy or an invitation to purchase or subscribe for any securities or the solicitation of any vote or approval in any jurisdiction pursuant to the acquisition, the merger or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended. RAI and Lorillard and certain of their respective directors and executive officers and employees may be considered participants in the solicitation of proxies from the respective shareholders of RAI and stockholders of Lorillard in respect of the Proposed Transactions contemplated by the Joint Proxy Statement/Prospectus. Information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the respective shareholders of RAI and stockholders of Lorillard in connection with the Proposed Transactions, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in the Joint Proxy Statement/Prospectus filed with the SEC. Information regarding RAI’s directors and executive officers is contained in RAI’s Annual Report on Form 10-K for the fiscal year ended December 31, 2013, which is filed with the SEC. Information regarding Lorillard’s directors and executive officers is contained in Lorillard’s Annual Report on Form 10-K for the fiscal year ended December 31, 2013, which is filed with the SEC."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RAI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\RAI_0001275283_EX991_20150128_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:19:10.957566"
+}

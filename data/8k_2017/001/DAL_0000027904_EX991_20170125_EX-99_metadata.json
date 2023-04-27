@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000027904",
+    "sec_company_name": "DELTA AIR LINES INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170125",
+    "sec_filing_date": "20170126",
+    "sec_changed_date": "20170125",
+    "sec_accepted_date": "20170125174614",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316817000167/0001683168-17-000167-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316817000167/0001683168-17-000167.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DAL_0000027904_EX991_20170125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7886 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3473,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Delta Air Lines serves nearly 180 million customers each year. In 2016, Delta was named to Fortune’s top 50 Most Admired Companies in addition to being named the most admired airline for the fifth time in six years. Additionally, Delta has ranked No.1 in the Business Travel News Annual Airline survey for an unprecedented six consecutive years. With an industry-leading global network, Delta and the Delta Connection carriers offer service to 323 destinations in 57 countries on six continents. Headquartered in Atlanta, Delta employs more than 80,000 employees worldwide and operates a mainline fleet of more than 800 aircraft. The airline is a founding member of the SkyTeam global alliance and participates in the industry’s leading transatlantic joint venture with Air France-KLM and Alitalia as well as a joint venture with Virgin Atlantic. Including its worldwide alliance partners, Delta offers customers more than 15,000daily flights, with key hubs and markets including Amsterdam, Atlanta, Boston, Detroit, Los Angeles, Minneapolis/St. Paul, New York-JFK and LaGuardia, London-Heathrow, Paris-Charles de Gaulle, Salt Lake City, Seattle and Tokyo-Narita. Delta has invested billions of dollars in airport facilities, global products and services, and technology to enhance the customer experience in the air and on the ground. Additional information is available on the Delta News Hub, as well as delta.com, Twitter @DeltaNewsHub, Google.com/+Delta, and Facebook.com/delta."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DAL_0000027904_EX991_20170125_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:23.124986"
+}

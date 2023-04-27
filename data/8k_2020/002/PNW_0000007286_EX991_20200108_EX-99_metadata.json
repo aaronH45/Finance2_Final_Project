@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007286",
+    "sec_company_name": "ARIZONA PUBLIC SERVICE CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200108",
+    "sec_filing_date": "20200108",
+    "sec_changed_date": "20200108",
+    "sec_accepted_date": "20200108170601",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462220000002/0000764622-20-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462220000002/0000764622-20-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PNW_0000007286_EX991_20200108_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "74376 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 33148,
+    "endpoints": [
+        "evercoreisiutilityconfer   ",
+        " PURCHASED POWER CONTRACTS Contract Location Owner/Developer Status1 PPA Signed COD Term (Years) Net Capacity (MW) Solana Gila Bend, AZ Abengoa IO Feb-2008 2013 30 250 RE Ajo Ajo, AZ Duke Energy Gen Svcs IO Jan-2010 2011 25 5 SOLAR Sun E AZ 1 Prescott, AZ SunEdison IO Feb-2010 2011 30 10 310 MW Saddle Mountain Tonopah, AZ SunEdison IO Jan - 2011 2012 30 15 Badger Tonopah, AZ PSEG IO Jan-2012 2013 30 15 Gillespie Maricopa County, AZ Recurrent Energy IO Jan-2012 2013 30 15 Aragonne Mesa Santa Rosa, NM Ingifen Asset Mgmt IO Dec-2005 2006 20 90 WIND High Lonesome Mountainair, NM Foresight / EME IO Feb-2008 2009 30 100 289 MW Perrin Ranch Wind Williams, AZ NextEra Energy IO Jul-2010 2012 25 99 GEOTHERMAL Salton Sea Imperial County, CA Cal Energy IO Jan-2006 2006 23 10 10 MW BIOMASS Snowflake Snowflake, AZ Novo Power IO Sep-2005 2008 15 14 14 MW BIOGAS Glendale Landfill Glendale, AZ Glendale Energy LLC IO Jul-2008 2010 20 3 6 MW NW Regional Landfill Surprise, AZ Waste Management IO Dec-2010 2012 20 3 PacifiCorp Seasonal - PacifiCorp IO Sep-1990 1991 30 480 INTER-UTILITY Power Exchange 540 MW Not Disclosed Not Disclosed Not Disclosed IO May-2009 2010 10 60 CC Tolling Not Disclosed Not Disclosed IO Aug-2007 2010 10 560 CONVENTIONAL TOLLING CC Tolling Arlington, AZ Arlington Valley IO Dec-2016 2020 6 565 1,695 MW CC Tolling Not Disclosed Not Disclosed IO Dec - 2017 2020 7 570 DEMAND RESPONSE Demand Response Not Disclosed Not Disclosed IO Sep-2008 2010 15 25 25 MW SOLAR PLUS BATTERY STORAGE Solar Plus Battery Storage Arlington, AZ First Solar UD Feb – 2018 2021 15 50 50 MW Total Contracted Capacity 2,939 MW * As disclosed in 2018 Form 10-K. 1 UD = Under Development; UC = Under Construction; IO = In Operation Powering Growth, Delivering Value | 35"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PNW_0000007286_EX991_20200108_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:22.068507"
+}

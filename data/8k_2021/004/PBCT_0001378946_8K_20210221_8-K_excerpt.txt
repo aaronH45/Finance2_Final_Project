@@ -1,0 +1,151 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+   People's United Financial, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A, $0.01 par value per share false 0001378946        0001378946   2021-02-21 2021-02-21     0001378946  us-gaap:CommonStockMember    2021-02-21 2021-02-21     0001378946  us-gaap:SeriesAPreferredStockMember    2021-02-21 2021-02-21      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D. C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): February 21, 2021 
+
+ PEOPLE’S UNITED FINANCIAL, INC.  
+
+(Exact name of registrant as specified in its charter) 
+
+Delaware 
+
+(State or other jurisdiction of incorporation) 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (203) 338-7171 
+
+(NOT APPLICABLE) 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ☒  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement.  
+
+On February 21, 2021, People’s United Financial, Inc., a Delaware corporation (“People’s United”), M&T Bank Corporation, a New York corporation (“M&T”) and Bridge Merger Corp., a direct, wholly owned subsidiary of M&T (“Merger Sub”), entered into an Agreement and Plan of Merger (the “Merger Agreement”). Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, Merger Sub will merge with and into People’s United, with People’s United as the surviving entity (the “Merger”), and as soon as reasonably practicable following the Merger, People’s United will merge with and into M&T, with M&T as the surviving entity (the “Holdco Merger”). The Merger Agreement further provides that at a date and time following the Holdco Merger as determined by M&T, People’s United Bank, National Association, a national banking association and a wholly owned subsidiary of People’s United, will merge with and into Manufacturers and Traders Trust Company, a New York state chartered bank and a wholly owned subsidiary of M&T (“M&T Bank”), with M&T Bank as the surviving bank (the “Bank Merger” and, together with the Merger and the Holdco Merger, the “Transaction”).  
+
+The Merger Agreement was unanimously approved by the Boards of Directors of each of People’s United and M&T. Subject to the fulfillment of customary closing conditions, certain of which are described below, the parties anticipate that the Transaction will close in the fourth quarter of 2021.  
+
+Merger Consideration  
+
+Upon the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each share of common stock, par value, $0.01 per share, of People’s United outstanding immediately prior to the Effective Time (“People’s United Common Stock”), including each People’s United Restricted Share (as defined below) held by a non-employee director of the People’s United Board of Directors (each, a “Director Restricted Share”), except for certain shares held by People’s United or M&T, will be converted into the right to receive 0.118 of a share of common stock (the “Exchange Ratio”), par value $0.50 per share, of M&T (“M&T Common Stock”). Holders of People’s United Common Stock will receive cash in lieu of fractional shares.  
+
+In addition, at the Effective Time, each outstanding share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.01 per share, of People’s United (“People’s United Preferred Stock”), will be converted into the right to receive a share of a newly created series of preferred stock of M&T, par value $1.00 per share (the “New M&T Preferred Stock”).  
+
+Treatment of People’s United Equity Awards  
+
+The Merger Agreement provides that, at the Effective Time, each outstanding restricted share award (a “People’s United Restricted Share”) under People’s United stock plans (the “People’s United Stock Plans”), other than any Director Restricted Shares, will cease to represent a restricted share of People’s United Common Stock and will be converted into a number of restricted shares of M&T Common Stock (each, an “M&T Restricted Share”) equal to the Exchange Ratio (rounded up or down to the nearest whole number, with 0.5 rounding up).  
+
+The Merger Agreement also provides that, at the Effective Time, each outstanding performance share unit (a “People’s United Performance Share”) under the People’s United Stock Plans will cease to represent a performance share unit denominated in shares of People’s United Common Stock and will be converted into a restricted share unit denominated in shares of M&T Common Stock (an “M&T Stock-Based RSU”). The number of shares of M&T Common Stock subject to each such M&T Stock-Based RSU will be equal to the product (rounded up or down to the nearest whole number, with 0.5 rounding up) of (1) the number of shares of People’s United Common Stock subject to such People’s United Performance Share immediately prior to the Effective Time (including any applicable dividend equivalents) based on the higher of target performance and actual performance through the Effective Time multiplied by (2) the Exchange Ratio.  
+
+The Merger Agreement further provides that, at the Effective Time, each outstanding option to purchase shares of People’s United Common Stock (a “People’s United Option”) under the People’s United Stock Plans will cease to represent an option to purchase shares of People’s United Common Stock and will be converted into an option to purchase a number of shares of M&T Common Stock (an “M&T Option” and, together with the M&T Restricted Shares and M&T Stock-Based RSUs, the “M&T Converted Equity Awards”) equal to the product (rounded down to the nearest whole number) of (1) the number of shares of People’s United Common Stock subject to such People’s   
+
+ United Option immediately prior to the Effective Time and (2) the Exchange Ratio, at an exercise price per share (rounded up to the nearest whole cent) equal to (a) the exercise price per share of People’s United Common Stock of such People’s United Option immediately prior to the Effective Time divided by (b) the Exchange Ratio.  
+
+Except as specifically provided in the Merger Agreement, at and following the Effective Time, each M&T Converted Equity Award will continue to be governed by the same terms and conditions as were applicable to such award immediately prior to the Effective Time.  
+
+Certain Governance Matters  
+
+The Merger Agreement provides that, prior to the Effective Time, the Board of Directors of M&T will take all actions necessary so that five directors of People’s United immediately prior to the Effective Time will be appointed to the Board of Directors of M&T as of the Effective Time (such appointed directors, the “People’s United Designated Directors”). Of the People’s United Designated Directors, one will be the Chief Executive Officer of People’s United, one will be the Senior Executive Vice President, Corporate Development and Strategic Planning of People’s United, and the remaining three will be directors of People’s United as mutually agreed to by People’s United and M&T, who shall be independent of M&T in accordance with applicable stock exchange standards.  
+
+Certain Other Terms and Conditions of the Merger Agreement  
+
+The Merger Agreement contains customary representations and warranties from each of People’s United and M&T. People’s United has agreed to customary pre-closing covenants, including covenants to operate its business in the ordinary course in all material respects and to refrain from taking certain actions without M&T’s consent. M&T has agreed to customary pre-closing covenants, including covenants to refrain from taking certain actions that may adversely affect its ability to consummate the Transaction on a timely basis without People’s United’s consent. Each party has agreed to additional covenants, including, among others, covenants relating to (1) in the case of People’s United, its obligation to call a meeting of its stockholders to adopt the Merger Agreement, and, subject to certain exceptions, the obligation of its Board of Directors to recommend that its stockholders adopt the Merger Agreement, (2) in the case of M&T, its obligation to call a meeting of its shareholders to approve the issuance of shares of the M&T Common Stock pursuant to the Merger Agreement (the “M&T share issuance”) and an amendment to M&T’s charter increasing the authorized shares of M&T’s stock from 251,000,000 to 270,000,000 and increasing the number of authorized shares of M&T’s preferred stock from 1,000,000 to 20,000,000 (the “M&T charter amendment”), and, subject to certain exceptions, the obligation of its Board of Directors to recommend that its shareholders approve the M&T share issuance and M&T charter amendment, and (3) each party’s non-solicitation obligations related to alternative acquisition proposals.  
+
+The completion of the Merger is subject to customary conditions, including (1) adoption by People’s United stockholders of the Merger Agreement and the approval by M&T’s shareholders of the M&T share issuance and the M&T charter amendment, (2) authorization for listing on the New York Stock Exchange of the shares of M&T Common Stock and New M&T Preferred Stock to be issued in the Merger, subject to official notice of issuance, (3) the receipt of required regulatory approvals, including the approval of the Board of Governors of the Federal Reserve System, the New York State Department of Financial Services and the State of Connecticut Department of Banking, (4) effectiveness of the registration statement on Form S-4 to be filed with the Securities and Exchange Commission (“SEC”) by M&T in connection with the transactions contemplated by the Merger Agreement, and (5) the absence of any order, injunction, decree or other legal restraint preventing the completion of the Merger, the Holdco Merger, the Bank Merger or any of the other transactions contemplated by the Merger Agreement or making the completion of the Merger, the Holdco Merger, the Bank Merger or any of the other transactions contemplated by the Merger Agreement illegal. Each party’s obligation to complete the Merger is also subject to certain additional customary conditions, including (a) subject to certain exceptions, the accuracy of the representations and warranties of the other party, (b) performance in all material respects by the other party of its obligations under the Merger Agreement and (c) receipt by such party of an opinion from its counsel to the effect that the Merger and the Holdco Merger, taken together, will qualify as a reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended.  
+
+The Merger Agreement provides certain termination rights for both People’s United and M&T and further provides that a termination fee of $280 million will be payable by either People’s United or M&T, as applicable, upon termination of the Merger Agreement under certain circumstances.   
+
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, which is attached hereto as Exhibit 2.1 and is incorporated herein by reference.  
+
+The representations, warranties and covenants of each party set forth in the Merger Agreement have been made only for the purposes of, and were and are solely for the benefit of the parties to, the Merger Agreement, may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between People’s United and M&T instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Accordingly, the representations and warranties may not describe the actual state of affairs at the date they were made or at any other time, and investors should not rely on them as statements of fact. In addition, such representations and warranties (1) will not survive consummation of the Merger, and (2) were made only as of the date of the Merger Agreement or such other date as is specified in the Merger Agreement. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in the parties’ public disclosures. Accordingly, the Merger Agreement is included with this filing only to provide investors with information regarding the terms of the Merger Agreement, and not to provide investors with any factual information regarding People’s United or M&T, their respective affiliates or their respective businesses. The Merger Agreement should not be read alone, but should instead be read in conjunction with the other information regarding People’s United, M&T, their respective affiliates or their respective businesses, the Merger Agreement and the Transaction that will be contained in, or incorporated by reference into, the Registration Statement on Form S-4 that will include a joint proxy statement of People’s United and M&T and a prospectus of M&T, as well as in the Forms 10-K, Forms 10-Q and other filings that each of People’s United and M&T makes with SEC.  
+
+ Item 5.02.  
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.  
+
+Restrictive Covenant Agreements  
+
+In connection with the Merger Agreement, People’s United also entered into Non-Competition and Non-Solicitation Agreements with each of John P. Barnes and Kirk W. Walters (each, an “Executive” and each such agreement, a “Restrictive Covenant Agreement”), to be effective from and after the closing of the Transaction and for the benefit of the surviving entity following the Transaction. Each Restrictive Covenant Agreement includes: (i) a covenant by the Executive not to compete with People’s United, M&T or their respective subsidiaries for the three-year period following the closing of the Transaction (the “Restricted Period”); (ii) an extension of the existing non-solicitation restrictions applicable to the Executives such that they apply during the duration of the Restricted Period; and (iii) an expansion of the existing non-solicitation covenant such that it will include restrictions on solicitation of customers and employees of M&T and its subsidiaries during the Restricted Period. The Executives are not currently subject to any post-termination non-competition covenant and are only subject to a one-year post-termination non-solicitation covenant. In consideration of the foregoing covenants, People’s United, or M&T, as People’s United’s successor, will pay Messrs. Barnes and Walters a lump-sum payment equal to $18 million and $6 million, respectively, within 30 days following the closing of the Transaction. The Restrictive Covenant Agreements contain a claw-back provision providing that People’s United or M&T, as the People’s United’s successor, may, in its sole discretion, require the Executive to repay the after-tax amount of such payment in the event of any breach of the foregoing covenants. The Restrictive Covenant Agreements will not become effective, and no payments will be due thereunder, unless and until the closing of the Transaction occurs. In the event that the Merger Agreement terminates prior to the closing of the Transaction, the Restrictive Covenant Agreements will automatically terminate.  
+
+The foregoing description of the Restrictive Covenants Agreements does not purport to be complete and is qualified in its entirety by reference to the full text of the Restrictive Covenants Agreements, which are attached hereto as Exhibits 10.1 and 10.2 and are incorporated herein by reference.   
+
+ Item 9.01.  
+
+Financial Statements and Exhibits.  
+
+(d) Exhibits  
+
+  [DATA_TABLE_REMOVED] 
+
+ *  
+
+Pursuant to Item 601(b)(2) of Regulation S-K, certain schedules and similar attachments have been omitted. The registrant hereby agrees to furnish a copy of any omitted schedule or similar attachment to the SEC upon request.  
+
+Forward Looking Statements  
+
+This Current Report on Form 8-K includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are based on current expectations, estimates and projections about People’s United’s and M&T’s businesses, beliefs of People’s United’s and M&T’s management and assumptions made by People’s United’s and M&T’s management. Any statement that does not describe historical or current facts is a forward-looking statement, including statements regarding the expected timing, completion and effects of the proposed transactions and People’s United’s and M&T’s expected financial results, prospects, targets, goals and outlook. Forward-looking statements are typically identified by words such as “believe,” “expect,” “anticipate,” “intend,” “target,” “estimate,” “continue,” “positions,” “prospects” or “potential,” by future conditional verbs such as “will,” “would,” “should,” “could,” or “may,” or by variations of such words or by similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions (“Future Factors”) which are difficult to predict. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements.  
+
+Future Factors include, among others: the occurrence of any event, change or other circumstances that could give rise to the right of one or both of the parties to terminate the definitive merger agreement between People’s United and M&T; the outcome of any legal proceedings that may be instituted against People’s United or M&T; the possibility that the proposed transaction will not close when expected or at all because required regulatory, shareholder or other approvals are not received or other conditions to the closing are not satisfied on a timely basis or at all, or are obtained subject to conditions that are not anticipated; the risk that any announcements relating to the proposed combination could have adverse effects on the market price of the common stock of either or both parties to the combination; the possibility that the anticipated benefits of the transaction will not be realized when expected or at all, including as a result of the impact of, or problems arising from, the integration of the two companies or as a result of the strength of the economy and competitive factors in the areas where People’s United and M&T do business; certain restrictions during the pendency of the merger that may impact the parties’ ability to pursue certain business opportunities or strategic transactions; the possibility that the transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events; diversion of management’s attention from ongoing business operations and opportunities; potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement or completion of the transaction; People’s United’s and M&T’s success in executing their respective business plans and strategies and managing the risks involved in the foregoing; and other factors that may affect future results of People’s United and M&T; the business, economic and political conditions in the markets in which the parties operate; the risk that the proposed combination and its announcement could have an adverse effect on either or both parties’ ability to retain customers and retain or hire key personnel and maintain relationships with customers; the risk that the proposed combination may be more difficult or time-consuming than anticipated, including in areas such as sales force, cost containment, asset realization, systems integration and other key strategies; revenues following the proposed combination may be lower than expected, including for possible reasons such as unexpected costs, charges or expenses resulting from the transactions; the unforeseen risks relating to liabilities of People’s United or M&T that may exist; and uncertainty as to the extent of the duration, scope, and impacts of the COVID-19 pandemic on People’s United, M&T and the proposed combination.   
+
+These are representative of the Future Factors that could affect the outcome of the forward-looking statements. In addition, such statements could be affected by general industry and market conditions and growth rates, general economic and political conditions, either nationally or in the states in which People’s United, M&T or their respective subsidiaries do business, including interest rate and currency exchange rate fluctuations, changes and trends in the securities markets, and other Future Factors.  
+
+People’s United provides further detail regarding these risks and uncertainties in its latest Form 10-K and subsequent Form 10-Qs, including in the respective Risk Factors sections of such reports, as well as in subsequent SEC filings. Forward-looking statements speak only as of the date made, and People’s United does not assume any duty and does not undertake to update forward-looking statements.  
+
+Additional Information and Where to Find It  
+
+In connection with the proposed transaction, M&T will file with the SEC a registration statement on Form S-4 to register the shares of M&T’s capital stock to be issued in connection with the proposed transaction. The registration statement will include a joint proxy statement of People’s United and M&T which will be sent to People’s United’s and M&T’s shareholders seeking their approval of the proposed transaction.  
+
+This Current Report on Form 8-K does not constitute an offer to sell or a solicitation of an offer to buy any securities or a solicitation of any vote or approval. INVESTORS AND SHAREHOLDERS OF PEOPLE’S UNITED AND M&T AND THEIR RESPECTIVE AFFILIATES ARE URGED TO READ, WHEN AVAILABLE, THE REGISTRATION STATEMENT ON FORM S-4, THE JOINT PROXY STATEMENT/PROSPECTUS TO BE INCLUDED WITHIN THE REGISTRATION STATEMENT ON FORM S-4 AND ANY OTHER RELEVANT DOCUMENTS FILED OR TO BE FILED WITH THE SEC IN CONNECTION WITH THE PROPOSED TRANSACTION, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THOSE DOCUMENTS, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT PEOPLE’S UNITED, M&T AND THE PROPOSED TRANSACTION. Investors will be able to obtain a free copy of the registration statement, including the joint proxy statement/prospectus, as well as other relevant documents filed with the SEC containing information about People’s United and M&T, without charge, at the SEC’s website (http://www.sec.gov). Copies of the registration statement, including the joint proxy statement/prospectus, and the filings with the SEC that will be incorporated by reference in the joint proxy statement/prospectus can also be obtained, without charge, by directing a request to Steven Bodakowski, People’s United Financial, Inc., 850 Main Street, Bridgeport, Connecticut 06604, telephone (203) 338-4202, or Investor Relations, M&T Bank Corporation, One M&T Plaza, Buffalo, New York 14203, telephone (716) 635-4000.  
+
+Participants in the Solicitation  
+
+People’s United, M&T and certain of their respective directors, executive officers and employees may be deemed to be participants in the solicitation of proxies in respect of the proposed transaction under the rules of the SEC. Information regarding People’s United’s directors and executive officers is available in its definitive proxy statement, which was filed with the SEC on April 6, 2020, and certain of its Current Reports on Form 8-K. Information regarding M&T’s directors and executive officers is available in its definitive proxy statement, which was filed with the SEC on March 9, 2020, and certain of its Current Reports on Form 8-K. Other information regarding the participants in the solicitation of proxies in respect of the proposed transaction and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the joint proxy statement/prospectus and other relevant materials to be filed with the SEC. Free copies of these documents, when available, may be obtained as described in the preceding paragraph.   
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+ [DATA_TABLE_REMOVED] 
+
+Date: February 25, 2021

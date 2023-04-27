@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000861878",
+    "sec_company_name": "STERICYCLE INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210225",
+    "sec_filing_date": "20210225",
+    "sec_changed_date": "20210225",
+    "sec_accepted_date": "20210225070747",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/861878/000162828021003161/0001628280-21-003161-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/861878/000162828021003161/0001628280-21-003161.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\SRCL_0000861878_EX991_20210225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "804690 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 33993,
+    "endpoints": [
+        "Document",
+        "(d) Under the Net Income (Loss) Attributable to Common Shareholders column, adjustments are shown net of tax in aggregate of $94.4 million and $105.9 million for the years ended December 31, 2020 and 2019, respectively, based on applying the statutory tax rate for the jurisdictions in which the adjustment occurred or, by adjusting the tax effect to consider the impact of applying an annual effective tax rate on an interim basis. For purposes of reconciling adjusted diluted earnings per share with respect to taxes period-over-period, the company utilizes a “rate approach” to highlight the impact of the adjusted tax rate. It is computed by multiplying the prior period adjusted rate by the current period adjusted income before taxes to determine the expected tax expense. Such expected tax expense is then compared to actual tax expense. Expected tax in excess of actual tax variance is favorable; actual tax in excess of expected tax variance is unfavorable. The variance divided by diluted shares outstanding at the end of the period yields the impact on earnings per share. Management believes the use of this measure best aids in explaining the impact of a changing tax rate."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SRCL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\SRCL_0000861878_EX991_20210225_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:00:25.252780"
+}

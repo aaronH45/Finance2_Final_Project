@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001109357",
+    "sec_company_name": "EXELON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220208",
+    "sec_filing_date": "20220210",
+    "sec_changed_date": "20220210",
+    "sec_accepted_date": "20220210161714",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1109357/000110935722000021/0001109357-22-000021-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1109357/000110935722000021/0001109357-22-000021.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\EXC_0001109357_EX991_20220208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5927 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4977,
+    "endpoints": [
+        "exc-20220208991   ",
+        " 2 'It has been an honor to serve as Exelon board chair during a period of extraordinary growth for our company,' said Shattuck. “I’m so proud of the tireless pursuit of excellence across Exelon’s utilities and former power generation and competitive energy business. I’m excited for the passion and expertise new leadership will bring to the Board, further positioning Exelon to deliver even more value to its customers and communities, and to lead our industry on a path to clean.” Shattuck was previously at Deutsche Bank, where he served as chairman of the board and CEO of Deutsche Banc Alex. Brown and, during his tenure, served as global head of investment banking and global head of private banking. From 1997 to 1999, he was vice chairman of Bankers Trust Corporation, which merged with Deutsche Bank in June 1999. From 1991 until 1997, Shattuck was president and COO and a director of Alex. Brown Inc., which merged with Bankers Trust in September 1997. Shattuck's board service outside of Exelon has been extensive. He currently serves on the boards of directors of Gap Inc. (GPS, since 2002) and Capital One Financial Corporation (COF, since 2003). Shattuck is also currently a trustee of Johns Hopkins University and chairman of Johns Hopkins Hospital. He served as chairman of the board of the Institute of Nuclear Power Operations (INPO) and was a member of the executive committee of the board of Edison Electric Institute (EEI), as well as the Nuclear Energy Institute (NEI). He also was co-chairman of the Center for Strategic & International Studies (CSIS) Commission on Nuclear Policy in the United States and executive committee member of the Council on Competitiveness. All members of the Exelon board, except the president and CEO, are independent directors under applicable law and the listing standards of The Nasdaq Global Select Market, which are incorporated into the Exelon Corporate Governance Principles. More information about Exelon's board is available at exeloncorp.com. # # # About Exelon Exelon (Nasdaq: EXC) is a Fortune 200 company and the nation’s largest utility company, serving more than 10 million customers through six fully regulated transmission and distribution utilities — Atlantic City Electric (ACE), Baltimore Gas and Electric (BGE), Commonwealth Edison (ComEd), Delmarva Power & Light (DPL), PECO Energy Company (PECO), and Potomac Electric Power Company (Pepco). More than 18,000 Exelon employees dedicate their time and expertise to supporting our communities through reliable, affordable and efficient energy delivery, workforce development, equity, economic development and volunteerism. Follow Exelon on Twitter @Exelon."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EXC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\EXC_0001109357_EX991_20220208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:26:28.154701"
+}

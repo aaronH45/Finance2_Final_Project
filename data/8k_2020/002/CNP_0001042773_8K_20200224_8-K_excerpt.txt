@@ -1,0 +1,105 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false00011303100001042773CENTERPOINT ENERGY INCCENTERPOINT ENERGY RESOURCES CORP.Common Stock, $0.01 par valueCNP  0001130310   2020-02-24 2020-02-24    0001130310  cnp:CenterPointEnergyResourcesCorp.Member    2020-02-24 2020-02-24    0001130310  cnp:NewYorkStockExchangeMember cnp:DepositarysharesMember    2020-02-24 2020-02-24    0001130310  cnp:ChicagoStockExchangeMember us-gaap:CommonStockMember    2020-02-24 2020-02-24    0001130310  cnp:NewYorkStockExchangeMember us-gaap:CommonStockMember    2020-02-24 2020-02-24    0001130310  cnp:NewYorkStockExchangeMember cnp:CenterPointEnergyResourcesCorp.Member cnp:A6.625SeniorNotesdue2037Member    2020-02-24 2020-02-24  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 24, 2020 
+
+_______________________________
+
+CENTERPOINT ENERGY, INC. 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+_______________________________
+
+CENTERPOINT ENERGY RESOURCES CORP. 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+_______________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2). 
+
+Emerging Growth Company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On February 24, 2020, CenterPoint Energy Resources Corp., a Delaware corporation (“Seller”) and a wholly-owned subsidiary of CenterPoint Energy, Inc. (the “Company”), entered into an Equity Purchase Agreement (the “Purchase Agreement”) by and between Seller and Athena Energy Services Buyer, LLC, a Delaware limited liability company (“Buyer”), pursuant to which Seller has agreed to sell all of the outstanding capital stock of CenterPoint Energy Services, Inc., a Delaware corporation (including as converted into a Delaware limited liability company prior to closing, “CES”) to Buyer.
+
+Subject to the terms and conditions of the Purchase Agreement, Buyer has agreed to purchase all of the outstanding equity interests of CES (the “Transaction”). The purchase price for the Transaction is approximately $400 million, subject to customary adjustments set forth in the Purchase Agreement, including adjustments based on CES’s net working capital at closing, indebtedness and transaction expenses (as so adjusted, the “Purchase Price”). The Company and Seller estimate that their net after-tax proceeds from the sale of approximately $380 million to $390 million, inclusive of the working capital adjustment, which may be materially different from the estimated amount, will be used to repay a portion of outstanding debt in the second quarter of 2020. 
+
+The completion of the Transaction is subject to customary closing conditions, including, among others (i) the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (ii) the conversion of CES to a Delaware limited liability company, (iii) the distribution of the equity interests in CenterPoint Energy Intrastate Pipelines, LLC held by CES to Seller or its affiliates, and (iv) customary conditions regarding the accuracy of the representations and warranties and compliance by the parties in all material respects with their respective obligations under the Purchase Agreement. The Transaction is not subject to a financing condition. The Transaction is expected to close in the second quarter of 2020, subject to satisfaction of the foregoing conditions, among other things.
+
+The Purchase Agreement contains customary representations, warranties and covenants related to CES and the Transaction. Between the date of the Purchase Agreement and the completion of the Transaction, Seller has agreed to cause CES to operate in the ordinary course of business and has agreed to certain other operating covenants with respect to the CES business as set forth more fully in the Purchase Agreement. The Purchase Agreement includes customary termination provisions, including if the closing of the Transaction has not occurred on or before June 24, 2020. Both Seller and Buyer have agreed to indemnify the other party for losses arising from certain breaches of covenants contained in the Purchase Agreement and other liabilities, subject to certain limitations.
+
+The foregoing description of the Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the complete text of the Purchase Agreement. A copy of the Purchase Agreement is filed as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference. The representations, warranties and covenants set forth in the Purchase Agreement have been made only for the purposes of the Purchase Agreement and solely for the benefit of the parties thereto and may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Purchase Agreement instead of establishing these matters as facts. In addition, such representations and warranties were made only as of the dates specified in the Purchase Agreement and information regarding the subject matter thereof may change after the date of the Purchase Agreement. Accordingly, the Purchase Agreement is included with this filing only to provide investors with information regarding its terms and not to provide investors with any other factual information regarding CES or its business, or the Company or its business, as of the date of the Purchase Agreement or as of any other date. Investors and security holders should not rely on such representations and warranties as characterizations of the actual state of facts or circumstances, since they were made only as of a specific date, were negotiated by the parties and are modified in important part by the underlying disclosure schedules. In addition, certain representations and warranties may be subject to a contractual standard of materiality different from what might be viewed as material to shareholders.
+
+Item 7.01. Regulation FD Disclosure.
+
+On February 24, 2020, the Company issued a press release announcing the Transaction. A copy of this press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+During the preparation of their financial statements for the year ended December 31, 2019, the Company and Seller are performing an interim goodwill impairment valuation of their Energy Services reporting unit. The Company and Seller preliminarily anticipate the Transaction will result in aggregate after-tax goodwill impairment losses of approximately $45 million to be recognized in 2019. During the first quarter of 2020, the assets and liabilities representing substantially all of the businesses within the Company’s and Seller’s Energy Services reporting unit that will be sold in the Transaction (the disposal group) will be reflected as held for sale. As a result, the Company and Seller anticipate recording an after-tax 
+
+impairment loss on the disposal group, consisting of both goodwill and long-lived asset impairments, of approximately $75 million, plus transaction costs, in 2020. The actual amount of the impairments recorded may be materially different from the preliminary amounts.
+
+The Company’s 2020 guidance range and target for earnings per share will to be provided on the Company’s fourth quarter and full-year 2019 earnings call on February 27, 2020. The sale of CES is expected to reduce the Company’s 2020 earnings by approximately $0.06 to $0.07 per diluted share of the Company’s common stock, excluding mark-to-market adjustments, on an annualized basis. However, despite the expected annual earnings impact, the sale is a key achievement in the Company’s ongoing strategic focus to strengthen its balance sheet and to improve its business risk profile and earnings quality through increased relative contribution of its core utility businesses.
+
+The information furnished in Item 7.01 and Exhibit 99.1 are not deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is not subject to the liabilities of that section and is not deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+
+Use of Non-GAAP Financial Measures
+
+As included in this Current Report, 2020 earnings, excluding mark-to-market adjustments, per diluted share, is a non-GAAP measure that does not consider the timing effects of mark-to-market accounting in the CES’s business which could have a material impact on GAAP reported results for the applicable forward-looking period. CenterPoint Energy is unable to present a quantitative reconciliation of forward-looking 2020 earnings, excluding mark-to-market adjustments, per diluted share because mark-to-market gains or losses resulting from CES’s business is not estimable as it is highly variable and difficult to predict due to various factors outside of management’s control.
+
+Cautionary Statements Regarding Forward-Looking Statements
+
+This Current Report may contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact included in this Current Report are forward-looking statements made in good faith by us and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. When used in this Current Report, the words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “intend,” “may,” “objective,” “plan,” “potential,” “predict,” “projection,” “should,” “target,” “will” or other similar words are intended to identify forward-looking statements. These forward-looking statements are based upon assumptions of management which are believed to be reasonable at the time made and are subject to significant risks and uncertainties. Actual events and results may differ materially from those expressed or implied by these forward-looking statements. Forward-looking statements include, but are not limited to, statements relating to benefits of the sale, the timing of the closing, the accounting treatment of the Transaction by the Company and Seller, including the anticipated impairment, use of proceeds and forecasted earnings reduction. Each forward-looking statement contained in this Current Report speaks only as of the date of this report. Important factors that could cause actual results to differ materially from those indicated by the provided forward-looking information include risks and uncertainties relating to: (1) the timing of the expiration or termination of the Hart-Scott-Rodino waiting period and the receipt of any consents, waivers or approvals required to be obtained pursuant to applicable antitrust laws, (2) the occurrence of any event, change or other circumstances that could give rise to the termination of the Transaction or could otherwise cause the failure of the Transaction to close, (3) the risk that a condition to the closing of the Transaction may not be satisfied, (4) the outcome of any legal proceedings, regulatory proceedings or enforcement matters that may be instituted relating to the Transaction, (5) the timing to consummate the Transaction, (6) disruption from the Transaction making it more difficult to maintain relationships with customers, employees, regulators or suppliers, (7) the diversion of management time and attention on the Transaction and (8) other factors discussed in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018 and Quarterly Report on Form 10-Q for the quarters ended March 31, 2019, June 30, 2019 and September 30, 2019, and other reports the Company or its subsidiaries may file from time to time with the Securities and Exchange Commission.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits. 
+
+[DATA_TABLE_REMOVED]
+
+______________________________________________________
+
+*Schedules and similar attachments have been omitted pursuant to Item 601(b)(2) of Regulation S-K
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

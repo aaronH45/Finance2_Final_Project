@@ -1,0 +1,24 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Disclosure About Foreign Currency Risk
+
+Although the majority of our transactions are in U.S. dollars, some transactions are based in various foreign currencies. We purchase short-term foreign exchange contracts to hedge the impact of foreign currency exchange fluctuations on certain underlying assets, liabilities and commitments for product costs and Operating expenses denominated in foreign currencies. The purpose of entering into these hedge transactions is to minimize the impact of foreign currency fluctuations on our results of operations. Substantially all of the contract maturity dates do not exceed 12 months. We do not purchase foreign exchange contracts for speculative or trading purposes. For additional information, see Part II, Item 8, Note 5, Fair Value Measurements and Investments, and Note 6, Derivative Instruments and Hedging Activities, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+Due to macroeconomic changes and volatility experienced in the foreign exchange market recently, we believe sensitivity analysis is more informative in representing the potential impact to the portfolio as a result of market movement. Therefore, we have performed sensitivity analyses for 2021 and 2020, using a modeling technique that measures the change in the fair values arising from a hypothetical 10% adverse movement in the levels of foreign currency exchange rates relative to the U.S. dollar, with all other variables held constant. The analyses cover all of our foreign currency derivative contracts used to offset the underlying exposures. The foreign currency exchange rates used in performing the sensitivity analyses were based on market rates in effect at July 2, 2021 and July 3, 2020. The sensitivity analyses indicated that a hypothetical 10% adverse movement in foreign currency exchange rates relative to the U.S. dollar would result in a foreign exchange fair value loss of $183 million and $135 million at July 2, 2021 and July 3, 2020, respectively. 
+
+During 2021, 2020 and 2019, total net realized and unrealized transaction and foreign exchange contract currency gains and losses were not material to our Consolidated Financial Statements.
+
+Notwithstanding our efforts to mitigate some foreign exchange risks, we do not hedge all of our foreign currency exposures, and there can be no assurance that our mitigating activities related to the exposures that we hedge will adequately protect us against risks associated with foreign currency fluctuations.
+
+Disclosure About Interest Rate Risk
+
+Variable Interest Rate Risk 
+
+Borrowings under our revolving credit facility and our term loan A-1 due 2023 bear interest at a rate per annum, at our option, of either an adjusted LIBOR (subject to a 0.0% floor) plus an applicable margin varying from 1.125% to 2.000% or a base rate plus an applicable margin varying from 0.125% to 1.000%, in each case depending on our corporate credit ratings. As of July 2, 2021, the applicable margin based on our current credit ratings was 1.5%. Borrowings under our term loan B-4 due 2023 bear interest at a rate per annum, at our option, of either an adjusted LIBOR (subject to a 0.0% floor) plus a margin of 1.75% or a base rate plus a margin of 0.75%. 
+
+We have generally held a balance of fixed and variable rate debt. As of July 2, 2021, we had $5.43 billion of variable rate debt, representing 61% of the par value of our debt. To balance the portfolio and moderate our exposure to fluctuations in interest rates underlying our variable debt, we entered into pay-fixed interest rate swaps on $2.00 billion notional amount, which effectively converts a portion of our term loan to fixed rates through February 2023. After giving effect to the $2.00 billion of interest rate swaps, we effectively had $3.43 billion of Long-term debt subject to variations in interest rates and a one percent increase in the variable rate of interest would increase annual interest expense by $34 million.
+
+For additional information regarding our variable interest rate debt, see Part II, Item 8, Note 7, Debt, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+
+44
+Item 8. Financial Statements and Supplementary Data

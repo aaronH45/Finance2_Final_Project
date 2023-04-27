@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092380",
+    "sec_company_name": "SOUTHWEST AIRLINES CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220127",
+    "sec_filing_date": "20220127",
+    "sec_changed_date": "20220127",
+    "sec_accepted_date": "20220127063034",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92380/000009238022000003/0000092380-22-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92380/000009238022000003/0000092380-22-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\LUV_0000092380_EX991_20220127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "766299 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 50651,
+    "endpoints": [
+        "Document",
+        "Because management believes special items can distort the trends associated with the Company’s ongoing performance as an airline, the Company believes that evaluation of its financial performance can be enhanced by a supplemental presentation of results that exclude the impact of special items in order to enhance consistency and comparativeness with results in prior periods that do not include such items and as a basis for evaluating operating results in future periods. The following measures are often provided, excluding special items, and utilized by the Company’s management, analysts, and investors to enhance comparability of year-over-year results, as well as to industry trends: Fuel and oil expense, non-GAAP; Total operating expenses, non-GAAP; Operating expenses, non-GAAP excluding Fuel and oil expense; Operating expenses, non-GAAP excluding Fuel and oil expense and profitsharing; Operating income (loss), non-GAAP; Other (gains) losses, net, non-GAAP; Income (loss) before income taxes, non-GAAP; Provision (benefit) for income taxes, net, non-GAAP; Net income (loss), non-GAAP; and Net loss per share, diluted, non-GAAP."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LUV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\LUV_0000092380_EX991_20220127_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:00.462376"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001032208",
+    "sec_company_name": "SEMPRA ENERGY (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210225",
+    "sec_filing_date": "20210225",
+    "sec_changed_date": "20210225",
+    "sec_accepted_date": "20210225110038",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1032208/000103220821000004/0001032208-21-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1032208/000103220821000004/0001032208-21-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\SRE_0001032208_8K_20210225_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "48437 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3170,
+    "endpoints": [
+        "xml version='1.0' ? sempra-20210225",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "SRE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\SRE_0001032208_8K_20210225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:10:20.524934"
+}

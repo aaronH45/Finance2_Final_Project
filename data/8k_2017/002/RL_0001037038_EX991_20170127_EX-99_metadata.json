@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001037038",
+    "sec_company_name": "RALPH LAUREN CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170127",
+    "sec_filing_date": "20170202",
+    "sec_changed_date": "20170202",
+    "sec_accepted_date": "20170202080839",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1037038/000095014217000198/0000950142-17-000198-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1037038/000095014217000198/0000950142-17-000198.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\RL_0001037038_EX991_20170127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13750 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9638,
+    "endpoints": [
+        "EXHIBIT 99.1 ",
+        "Evren Kopelman, 212-813-7862"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\RL_0001037038_EX991_20170127_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:39.586977"
+}

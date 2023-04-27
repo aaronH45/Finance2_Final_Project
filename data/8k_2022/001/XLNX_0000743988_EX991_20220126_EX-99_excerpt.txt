@@ -1,0 +1,113 @@
+Document
+
+Exhibit 99.1
+
+Investor Relations Contact:
+
+Suresh Bhaskaran 
+
+Xilinx, Inc.
+
+(408) 879-4784 
+
+ir@xilinx.com
+
+XILINX REPORTS RECORD REVENUE OF $1.01 BILLION IN FISCAL THIRD QUARTER
+
+lRecord revenue of $1,011 million, representing 8% sequential growth and 26% year-over-year growth, despite ongoing industry-wide supply constraints
+
+lData Center Group (DCG) achieved record revenue with sequential growth of 28% and 81% year-over-year, driven by Compute and Networking strength
+
+lAerospace & Defense, Industrial and Test, Measurement & Emulation (AIT) revenue was also a record, increasing 21% sequentially and 28% year-over-year, driven by record A&D revenue and continued strength in ISM and TME end markets
+
+lAutomotive, Broadcast and Consumer (ABC) revenue in the quarter decreased 4% sequentially coming off a record Q2 and largely in-line with expectations; revenue increased 28% year-over-year
+
+lWired and Wireless Group (WWG) revenue decreased 18% sequentially and increased 1% year-over-year as supply constraints had a significant impact on business in the quarter
+
+lPlatform transformation continues with total Adaptive SoC revenue, which includes Zynq and Versal platforms, up 5% sequentially and 30% year-over-year, and representing 28% of total revenue
+
+SAN JOSE, Calif., January 26, 2022 -- Xilinx, Inc. (Nasdaq: XLNX), the leader in adaptive computing, today announced record revenues of $1,011 million for the fiscal third quarter, up 8% over the previous quarter. 
+
+GAAP net income for the fiscal third quarter was $300 million, or $1.19 per diluted share. Non-GAAP net income for the quarter was $325 million, or $1.29 per diluted share. 
+
+As permitted by the terms of the Merger Agreement between Xilinx and Advanced Micro Devices, Inc. (AMD), the Xilinx Board of Directors voted unanimously to declare a cash dividend of $0.37 per outstanding share of common stock payable on February 14, 2022 to all stockholders of record at the close of business on February 7, 2022. The dividend is conditioned upon and will only be payable if the merger has not closed on or before the record date for such dividend. 
+
+Additional third quarter of fiscal year 2022 comparisons are provided in the charts below.
+
+Q3 Fiscal 2022 Financial Highlights
+
+(In millions, except EPS)
+
+[DATA_TABLE_REMOVED]
+
+“Xilinx achieved another record quarter and surpassed $1 billion in quarterly sales for the first time in the company’s history,” said Victor Peng, Xilinx president and CEO. “While we were unable to fully satisfy customer needs, our results demonstrate our team’s relentless focus and execution in supporting our customers as well as possible given the extremely tight supply conditions. 
+
+“We saw broad and robust demand across our end markets with record quarters in our DCG business as well as our A&D end market. A&D record performance, combined with strong ISM and TME performance, also led to a record for total AIT, and drove stronger overall profitability. The strength in our business clearly demonstrates the successful execution of our strategy.” 
+
+“Record Q3 revenue was driven primarily from sequential growth in A&D, DCG and TME, leading to total sequential revenue growth of 8% and year-over-year growth of 26%, the fifth consecutive quarter of double-digit year-over-year growth,” said Brice Hill, Xilinx CFO. “Overall strong revenues and business mix, in addition to positive impacts from strategic venture investments, drove record earnings this quarter. Our platform strategy continues to progress as Adaptive SoC revenue grew 5% sequentially and 30% year-over-year, representing 28% of total revenue. 
+
+“We saw strong free cash flow this quarter of $351 million, or 35% of revenue, reflecting our efficient cash generating business model. Please note, the increase in inventory to 106 days is primarily driven by supply cost increases and does not reflect a significant increase in unit inventory.” 
+
+[DATA_TABLE_REMOVED]
+
+Products are classified as follows:
+
+Advanced Products: Versal, UltraScale+, UltraScale and 7-series product families, and production boards business composed of Alveo, Solarflare, Network, and System-On-Modules.
+
+Core Products: Virtex-6, Spartan-6, Virtex‐5, CoolRunner‐II, Virtex-4, Virtex-II, Spartan-3, Spartan-2, XC9500 products, configuration solutions, software & support/services.
+
+Key Statistics:  
+
+(Dollars in Millions)
+
+[DATA_TABLE_REMOVED]
+
+1.Free Cash Flow = Operating Cash Flow - Capital Expenditures (including software)
+
+Product and Financial Highlights - Fiscal Third Quarter 2022
+
+•Xilinx introduced the Alveo U55C data center accelerator card and a new standards-based, API-driven clustering solution for deploying FPGAs at massive scale. The Alveo U55C accelerator brings superior performance-per-watt to high performance computing (HPC) and database workloads and easily scales through the Xilinx HPC clustering solution. Initial customers include Ansys and TigerGraph.
+
+•Xilinx announced it is working with its IP and system integrator ecosystem to provide the industry’s first and only production-ready multimedia streaming endpoint solutions for broadcast and professional audio/video (AV) applications. The highly integrated solutions are ready-to-ship, or ready to customize, making it significantly faster and easier for customers to bring broadcast and professional AV products to market.
+
+•Xilinx and autonomous driving collaboration partner Motovis powered a demonstration of Omnivision’s 8 megapixel (MP)-based forward looking automotive camera system, an industry first. The live proof-of-concept demonstration highlighted the increased range and wider field of view enabled in the higher resolution 8MP system.
+
+•The recently announced Zynq RFSoC DFE and the T1 Telco Accelerator Card, key products for the Wired and Wireless end markets, are now in production with strong interest in both products and significant deployments for RFSoC DFE.
+
+Commentary on AMD Transaction
+
+As announced on October 27, 2020, Advanced Micro Devices, Inc. (AMD) intends to acquire Xilinx in an all-stock transaction. Due to the pending acquisition, Xilinx will not hold an earnings conference call or provide forward-looking guidance. As permitted by the terms of the Merger Agreement between Xilinx and AMD, the Xilinx Board of Directors has declared a cash dividend of $0.37 per outstanding share of common stock. The dividend is conditioned upon and will only be payable if the merger has not closed on or before the record date for such dividend. Xilinx’s stock repurchase program remains suspended. As previously announced, the parties believe that the transaction will close in the first quarter of 2022.
+
+Non-GAAP Financial Information
+
+Fiscal third quarter 2022 results include financial measures which are not determined in accordance with the United States generally accepted accounting principles (GAAP), as indicated. Non-GAAP measures should not be considered as a substitute for, or superior to, financial measures determined in accordance with GAAP. The presentation of non-GAAP financial measures has been reconciled, in each case, to the most directly comparable GAAP measure, as indicated in the accompanying tables. Xilinx’s (the Company) calculation of such non-GAAP measures may not be comparable to similarly-titled measures used by other companies.
+
+Management uses the non-GAAP financial measures disclosed herein, other than free cash flow, to evaluate the Company's financial results from continuing operations (excluding the impact of acquisitions) and compare to operating performance in past periods. Similarly, Management believes presentation of these non-GAAP measures is useful to investors because it enables investors and analysts to evaluate operating expenses of the Company's core business, excluding the impact of non-core business expenses, such as acquisition-related amortization and non-recurring items, as described below:
+
+M&A related expenses: These expenses mainly consist of legal, advisory and consulting fees associated with acquisition activities, and also include fees and retention compensation related to the Company’s acquisition by AMD. The Company believes these costs do not reflect its current operating performance.
+
+Amortization of acquisition-related intangibles: Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology acquired in connection with business combinations. The non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Income taxes: The Company excludes the income tax effects of non-GAAP adjustments reflected in operating expenses and other income, as detailed above. It also excludes other significant tax effects of post-acquisition tax integration transactions. The Company believes excluding post-acquisition tax integration items will facilitate a comparable evaluation of its current performance to its past performance. 
+
+In addition, free cash flow, which is cash flow from operations adjusted to exclude additions to software, property, plant, and equipment, is used by management when assessing the Company’s sources of liquidity, capital resources, and quality of earnings. The Company believes that this non-GAAP financial measure is helpful in understanding the Company’s capital requirements and provides an additional means to evaluate the cash flow trends of the Company’s business.
+
+Forward-Looking Statements
+
+This release contains forward-looking statements, which can often be identified by the use of forward-looking words such as “expect,” “believe,” “may,” “will,” “could,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” or other similar expressions. Statements that refer to or are based on uncertain events or assumptions also identify forward-looking statements. Such forward-looking statements include, but are not limited to, statements related to our proposed acquisition by AMD, the semiconductor market, the growth and acceptance of our products, expected revenue growth, the demand and growth in the markets we serve, and opportunity for expansion into new markets. Undue reliance should not be placed on such forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties, including, among others, the impact of the ongoing COVID-19 pandemic and related mitigation measures (which, in addition to presenting its own risks and uncertainties, may also heighten the other risks and uncertainties faced by our business and decrease our visibility into all aspects of our business); closing of the proposed transaction with AMD on anticipated timing (including the risk that the conditions to the transaction are not satisfied on a timely basis or at all or the failure of the transaction to close for any other reason) and terms (including obtaining the anticipated tax treatment, regulatory approvals, required consents or authorizations); unanticipated difficulties or expenditures relating to the transaction; the response of business partners and retention as a result of the announcement and pendency of the transaction; the diversion of management time on transaction-related matters; customer acceptance of our new products; changing global economic conditions; our dependence on certain customers; trade and export restrictions; the condition and performance of our customers and the end markets in which they participate; our ability to forecast end customer demand; a high dependence on turns business; more customer volume discounts than expected; greater product mix changes than anticipated; fluctuations in manufacturing yields; our ability to deliver product in a timely manner; our ability to successfully manage production at multiple foundries; our reliance on third parties (including distributors); variability in wafer pricing; costs and liabilities associated with current and future litigation (including litigation relating to the proposed transaction with AMD); our ability to generate cost and operating expense savings in an efficient and timely manner; our ability to realize the goals contemplated by our acquisitions and strategic investments; the impact of current and future legislative and regulatory changes; the impact of new accounting pronouncements and tax laws, including the U.S. Tax Cuts and Jobs Act, and interpretations thereof; and other risk factors described in our most recent Forms 10-Q and 10-K and subsequent filings with the U.S. Securities and Exchange Commission.
+
+About Xilinx
+
+Xilinx, Inc. develops highly flexible and adaptive computing platforms that enable rapid innovation across a variety of technologies - from the cloud, to the edge, to the endpoint. Xilinx is the inventor of the FPGA and Adaptive SoCs (including our Adaptive Compute Acceleration Platform, or ACAP), designed to deliver the most dynamic computing technology in the industry. We collaborate with our customers to create scalable, differentiated and intelligent solutions that enable the adaptable, intelligent and connected world of the future. For more information, visit xilinx.com.
+
+Xilinx, the Xilinx logo, Alveo, Artix, Kintex, Spartan, Versal, Vitis, Virtex, Vivado, Zynq, Kria and other designated brands included herein are trademarks of Xilinx in the United States and/or other countries. All other trademarks are the property of their respective owners.
+
+XLNX-F
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

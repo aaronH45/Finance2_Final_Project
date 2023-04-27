@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000026172",
+    "sec_company_name": "CUMMINS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211160032",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/26172/000002617221000014/0000026172-21-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/26172/000002617221000014/0000026172-21-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\CMI_0000026172_EX99_20210211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9015 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4845,
+    "endpoints": [
+        "Document",
+        "Cummins Inc., a global power leader, is a corporation of complementary business segments that design, manufacture, distribute and service a broad portfolio of power solutions. The company's products range from diesel, natural gas, electric and hybrid powertrains and powertrain-related components, including filtration, aftertreatment, turbochargers, fuel systems, controls systems, air handling systems, automated transmissions, electric power generation systems, batteries, electrified power systems, hydrogen generation and fuel cell products. Headquartered in Columbus, Indiana (U.S.), since its founding in 1919, Cummins employs approximately 57,825 people committed to powering a more prosperous world through three global corporate responsibility priorities critical to healthy communities: education, environment and equality of opportunity. Cummins serves its customers online, through a network of company-owned and independent distributor locations, and through thousands of dealer locations worldwide and earned about $1.8 billion on sales of $19.8 billion in 2020. See how Cummins is powering a world that's always on by accessing news releases and more information at https://www.cummins.com/always-on."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\CMI_0000026172_EX99_20210211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:13:23.106405"
+}

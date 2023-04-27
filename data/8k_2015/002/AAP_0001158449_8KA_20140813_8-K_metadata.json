@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001158449",
+    "sec_company_name": "ADVANCE AUTO PARTS INC (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20140813",
+    "sec_filing_date": "20150217",
+    "sec_changed_date": "20150217",
+    "sec_accepted_date": "20150217142631",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844915000044/0001158449-15-000044-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844915000044/0001158449-15-000044.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AAP_0001158449_8KA_20140813_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "26738 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2752,
+    "endpoints": [
+        "AAP 8K/A Ferraro   ",
+        "* Print name and title of the signing officer under his signature."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AAP_0001158449_8KA_20140813_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:19:54.971377"
+}

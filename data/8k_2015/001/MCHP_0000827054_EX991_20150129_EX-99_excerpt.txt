@@ -1,0 +1,273 @@
+Exhibit 99.1 1-29-2015   
+
+EXHIBIT 99.1
+
+NEWS RELEASE
+
+INVESTOR RELATIONS CONTACT:
+
+J. Eric Bjornholt -- CFO..... (480) 792-7804
+
+MICROCHIP TECHNOLOGY ANNOUNCES FINANCIAL RESULTS FOR
+
+THIRD QUARTER FISCAL YEAR 2015
+
+•Non-GAAP net sales of $535.8 million, down 1.9% sequentially and better than the midpoint of our improved guidance from December 2, 2014.
+
+•On a non-GAAP basis: gross margins of 58.2%; operating income of $169.3 million; net income of $143.3 million and EPS of 64 cents per diluted share. The First Call published estimate for non-GAAP EPS was 62 cents.
+
+•GAAP net sales of $528.7 million, down 3.2% sequentially. The difference in GAAP and non-GAAP net sales was driven by a planned revenue recognition change for ISSC Technologies, which we acquired in July 2014.
+
+•On a GAAP basis: gross margins of 57.1%; operating income of $98.0 million; net income of $86.1 million; and EPS of 39 cents per diluted share. There was no First Call published estimate for GAAP EPS.
+
+CHANDLER, Arizona - January 29, 2015 - (NASDAQ: MCHP) - Microchip Technology Incorporated, a leading provider of microcontroller, mixed signal, analog and Flash-IP solutions, today reported results for the three months ended December 31, 2014 as summarized in the following table:
+
+[DATA_TABLE_REMOVED]
+
+1 See the "Use of Non-GAAP Financial Measures" section of this release.
+
+- - more - -
+
+Microchip Technology Incorporated 2355 West Chandler Blvd. Chandler, AZ 85224-6199 Main Office 480•792•7200 FAX 480•899•9210
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 2
+
+GAAP net sales for the third quarter of fiscal 2015 were $528.7 million, down 3.2% sequentially from net sales of $546.2 million in the immediately preceding quarter, and up 9.6% from GAAP net sales of $482.4 million in the prior year's third fiscal quarter. GAAP net income for the third quarter of fiscal 2015 was $86.1 million, or 39 cents per diluted share, down 8.1% from GAAP net income of $93.6 million, or 42 cents per diluted share, in the immediately preceding quarter, and down 18.4% from GAAP net income of $105.4 million, or 48 cents per diluted share, in the prior year's third fiscal quarter.
+
+Non-GAAP net sales for the third quarter of fiscal 2015 were $535.8 million, down 1.9% sequentially from non-GAAP net sales of $546.2 million in the immediately preceding quarter, and up 11.1% from non-GAAP net sales of $482.4 million in the prior year's third fiscal quarter. Non-GAAP net income for the third quarter of fiscal 2015 was $143.3 million, or 64 cents per diluted share, down 4.6% from non-GAAP net income of $150.2 million, or 67 cents per diluted share, in the immediately preceding quarter, and up 7.8% from non-GAAP net income of $132.9 million, or 61 cents per diluted share, in the prior year's third fiscal quarter. For the third quarters of fiscal 2015 and fiscal 2014, our non-GAAP results exclude the effect of share-based compensation, expenses related to our acquisition activities (including intangible asset amortization, inventory valuation costs, severance costs, and legal and other general and administrative expenses associated with acquisitions), revenue recognition changes related to ISSC distributors, non-cash interest expense on our convertible debentures, and non-recurring tax events. A reconciliation of our non-GAAP and GAAP results is included in this press release.
+
+Microchip also announced today that its Board of Directors declared a quarterly cash dividend on its common stock of 35.70 cents per share. The quarterly dividend is payable on March 9, 2015 to stockholders of record on February 23, 2015.
+
+"We are very pleased with our execution in the December quarter," said Steve Sanghi, President and CEO. "Our original revenue guidance was to be down 4.5% sequentially and in early December we improved our guidance for revenue to be down only 3.5% at the midpoint. Our actual non-GAAP revenue results were down only 1.9%, which was better than what is seasonally normal."
+
+Mr. Sanghi added, "Calendar year 2014 was Microchip's first year above the $2 billion revenue mark and was up 12.8% from calendar year 2013 as a result of very strong performance from our microcontroller and analog product lines."
+
+"For calendar year 2014 our microcontroller business was up 13.8%," said Ganesh Moorthy, Chief Operating Officer. "Our 16-bit and 32-bit microcontroller businesses were up 27.7% and 41.3% respectively, in calendar year 2014. All three microcontroller segments achieved new revenue records in calendar year 2014 and we 
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 3
+
+believe these results clearly show that Microchip is continuing to gain significant microcontroller market share. In addition, our analog business also achieved a new revenue record in calendar year 2014."
+
+Eric Bjornholt, Microchip's Chief Financial Officer, said, "Our cash generation in the December quarter excluding the purchase of additional shares of ISSC, our dividend payment, changes in marketable equity securities and changes in borrowing levels under our revolving line of credit was $145.7 million. As of December 31, 2014, our consolidated cash and total investment position was approximately $2.23 billion. The dividend that we announced today marks the 44th occasion that we have increased our dividend payment, and cumulative dividends paid will now be $2.44 billion."
+
+Mr. Sanghi concluded, "We completed a small correction in the September 2014 quarter, and the December 2014 quarter turned out to be better than seasonal. The March quarter is historically a very strong quarter in Europe due to fewer holidays, but a weak quarter in Asia due to the Lunar New Year holidays. Considering these factors, along with the current economic backdrop, we expect our non-GAAP revenue to be up between 1% and 3% sequentially in the March quarter."
+
+Microchip's Highlights for the Quarter Ended December 31, 2014:
+
+•Microchip expanded its offering of 8-bit PIC® microcontrollers (MCUs) with integrated Core Independent Peripherals, which reduce interrupt latency, lower power consumption, and increase system efficiency and safety while minimizing design time and effort. The new PIC16(L)F161X family enables closed-loop digital control of motors, safety monitoring and a wide variety of other advanced functions.
+
+•The new dsPIC33 "EV" family of 16-bit Digital Signal Controllers (DSCs) provides 5V operation for improved noise immunity and robustness, which is ideal for harsh environments such as appliances, automobiles and industrial applications. These DSCs also integrate advanced motor control, CAN and SENT communication, and touch-sensing peripherals.
+
+•In the 32-bit MCU arena, Microchip continued to grow its portfolio with the low-cost PIC32MX1/2/5 series, with a feature-rich peripheral mix and large, scalable memory options. This latest series enables a wide range of applications, including digital audio, Bluetooth®, industrial connectivity, USB communication and general-purpose embedded control, all at lower prices.
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 4
+
+•Microchip added three new families to its vast Analog & Interface portfolio. The latest Digitally Enhanced Power Analog (DEPA) MCP19118/9 controllers offer digital power-supply flexibility with easy analog control loops, via the combination of simple analog PWM control and a configurable MCU in a compact circuit solution. Additionally, our first high-speed MCP37DX1-200 and MCP372X1-200 analog-to-digital converters feature the industry's lowest power consumption with16-bit, 200 Msps performance. Our two new energy-measurement analog front ends completed Microchip's MCP391X family, which spans one to eight channels with high accuracy and a large amount of integration for smart meters and power monitoring.
+
+•The Company continued to grow its automotive-infotainment solutions and business, with two new products and the announcement that the FAW Group became the first Chinese car maker to adopt our MOST® network controllers. Microchip's new USB84604 USB2.0 four-port controller hub with FlexConnect technology connects smart phones to automotive infotainment systems. Microchip also joined The Linux Foundation and Automotive Grade Linux, and began providing a beta version of its Linux driver to early-adopter customers, thus enabling designers to use the Linux operating system with its portfolio of MOST network interface controllers.
+
+•Microchip also grew its touch and gesture sensing portfolio with two new chips and a strategic partnership with Xymox Technologies for printed multi-touch sensor solutions that, in combination with Microchip's low-power touch electronics, lower the cost and speed the design of human interfaces. The second member of its award-winning and patented GestIC® family-the MGC3030 3D gesture controller-features simplified user-interface options focused on gesture detection, enabling true one-step gesture designs for high-volume, cost-sensitive consumer and embedded applications, such as toys, audio and lighting. Additionally, our MTCH65X high-voltage, projected-capacitive touchscreen line driver provides advanced touch performance and increases the signal-to-noise ratio for robustness.
+
+•In the memory arena, Microchip added two new families to its SuperFlash® portfolio, which features the world's fastest erase times and superior reliability among embedded Flash memory chips. The SST26WF080B/040B expands Microchip's family of Serial Quad I/O™, SuperFlash memory devices with 1.8V, low-power 4-Mbit and 8-Mbit members that are ideal for applications such as mobile handsets, Bluetooth headsets, GPS, camera modules, hearing aids and any battery-powered product. The SST26WF016B, announced earlier in the quarter, offers 16-Mbit of memory.
+
+•The Company released its fourth-generation JukeBlox® streaming audio entertainment platform, which enables audio brands to develop high-quality, low-latency products at competitive consumer price points, such as standalone or multi-room wireless speakers, AV receivers, mini and micro systems, and sound bars. 
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 5
+
+Additionally, Microchip announced the support of Qobuz Connect in its JukeBlox platform, which enables HD and true CD quality audio streaming directly to wireless speakers and AV receivers.
+
+•Finally, four Microchip products were named to EDN Magazine's Hot 100 Products of 2014, including: the SST38VF640xB (MEMORY AND STORAGE), the PIC16(L)F170X/1X (MICROCONTROLLERS AND PROCESSORS), the MCP39F501 (POWER), and the RN4020 (WIRELESS & NETWORKING).
+
+Fourth Quarter Fiscal Year 2015 Outlook:
+
+The following statements are based on current expectations. These statements are forward-looking, and actual results may differ materially.
+
+[DATA_TABLE_REMOVED]
+
+1 See the "Use of Non-GAAP Financial Measures" section of this release.
+
+2 Earnings per share have been calculated based on the diluted shares outstanding of Microchip on a consolidated basis.
+
+3 See Footnote 3 under the "Use of Non-GAAP Financial Measures" section of this release.
+
+4 See Footnote 4 under the "Use of Non-GAAP Financial Measures" section of this release.
+
+•Microchip's inventory days at March 31, 2015 are expected to increase by 3 to 8 days to between 114 days and 119 days. Our actual inventory level will depend on the inventory that our distributors decide to hold to support their customers, overall demand for our products and our production levels.
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 6
+
+•Capital expenditures for the quarter ending March 31, 2015 are expected to be approximately $40 million and capital expenditures for all of fiscal year 2015 are anticipated to be approximately $160 million. We are continuing to take actions to selectively invest in the equipment needed to support the expected growth of our new products and technologies.
+
+•We expect net cash generation during the March quarter of $140 million to $160 million prior to the dividend payment, changes in borrowing levels, and our acquisition-related activities.
+
+1 Use of non-GAAP Financial Measures: Our non-GAAP adjustments, where applicable, include the effect of share-based compensation, expenses related to our acquisition activities (including intangible asset amortization, inventory valuation costs, severance costs, and legal and other general and administrative expenses associated with acquisitions), a gain recognized on a strategic investment in a company we acquired during the third quarter of fiscal 2014, non-cash interest expense on our convertible debentures, the related income tax implications of these items and non-recurring tax events. Our non-GAAP net sales reflect revenue from the sell-through of products from ISSC's distributors that is not recognized for GAAP purposes because of a change in contractual terms that moves future shipments of product to these distributors to a sell-through revenue recognition model. We believe that our disclosure of non-GAAP revenue provides investors with information regarding the true end market demand for the Company's products.
+
+We are required to estimate the cost of certain forms of share-based compensation, including employee stock options, restricted stock units and our employee stock purchase plan, and to record a commensurate expense in our income statement. Share-based compensation expense is a non-cash expense that varies in amount from period to period and is affected by the price of our stock at the date of grant. The price of our stock is affected by market forces that are difficult to predict and are not within the control of management. Our other non-GAAP adjustments are either non-cash expenses or non-recurring expenses related to such transactions. Accordingly, management excludes all of these items from its internal operating forecasts and models.
+
+We are using non-GAAP net sales, non-GAAP gross profit, non-GAAP gross profit percentage, non-GAAP operating expenses in dollars and as a percentage of sales including non-GAAP research and development expenses and non-GAAP selling, general and administrative expenses, non-GAAP operating income, non-GAAP other expense, net, non-GAAP income tax provision/tax rate, non-GAAP net income, and non-GAAP diluted earnings per share which exclude the items noted above, as applicable, to permit additional analysis of our performance.
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 7
+
+Management believes these non-GAAP measures are useful to investors because they enhance the understanding of our historical financial performance and comparability between periods. Many of our investors have requested that we disclose this non-GAAP information because they believe it is useful in understanding our performance as it excludes non-cash and other charges that many investors feel may obscure our underlying operating results. Management uses these non-GAAP measures to manage and assess the profitability of our business. Specifically, we do not consider such items when developing and monitoring our budgets and spending. Our determination of the above non-GAAP measures might not be the same as similarly titled measures used by other companies, and it should not be construed as a substitute for amounts determined in accordance with GAAP. There are limitations associated with using non-GAAP measures, including that they exclude financial information that some may consider important in evaluating our performance. Management compensates for this by presenting information on both a GAAP and non-GAAP basis for investors and providing reconciliations of the GAAP and non-GAAP results.
+
+2 Generally, gross margin fluctuates over time, driven primarily by the mix of microcontrollers, mixed-signal products, analog products and memory products sold and licensing revenue; variances in manufacturing yields; fixed cost absorption; wafer fab loading levels; costs of wafers from foundries; inventory reserves; pricing pressures in our non-proprietary product lines; and competitive and economic conditions. Operating expenses fluctuate over time, primarily due to net sales and profit levels.
+
+3 We acquired a controlling interest in ISSC Technologies in July 2014. As of December 31, 2014, we owned 91.1% of ISSC and we expect to own 100% of the shares by the end of the first quarter of fiscal year 2016.
+
+4 Diluted Common Shares Outstanding can vary for, among other things, the trading price of our common stock, the actual exercise of options or vesting of restricted stock units, the potential for incremental dilutive shares from our convertible debentures (additional information regarding our share count is available in the investor relations section of our website under the heading "Supplemental Financial Information"), and the repurchase or the issuance of stock. The diluted common shares outstanding presented in the guidance table above assumes an average Microchip stock price in the March 2015 quarter of $46 per share (however, we make no prediction as to what our actual share price will be for such period or any other period and we cannot estimate what our stock option exercise activity will be during the quarter).
+
+- - more - -
+
+Page 8
+
+[DATA_TABLE_REMOVED]
+
+- - more - -
+
+Page 9
+
+[DATA_TABLE_REMOVED]
+
+- - more - -
+
+Page 10
+
+MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+
+RECONCILIATION OF GAAP TO NON-GAAP MEASURES
+
+(in thousands except per share amounts and percentages)
+
+(Unaudited)
+
+RECONCILIATION OF GAAP NET SALES TO NON-GAAP NET SALES
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP GROSS PROFIT TO NON-GAAP GROSS PROFIT
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP RESEARCH AND DEVELOPMENT EXPENSES TO NON-GAAP RESEARCH AND DEVELOPMENT EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+- - more - -
+
+Page 11
+
+RECONCILIATION OF GAAP SELLING, GENERAL AND ADMINISTRATIVE EXPENSES TO NON-GAAP SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP OPERATING EXPENSES TO NON-GAAP OPERATING EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP OPERATING INCOME TO NON-GAAP OPERATING INCOME
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP OTHER EXPENSE, NET TO NON-GAAP OTHER EXPENSE, NET
+
+[DATA_TABLE_REMOVED]
+
+- - more - -
+
+Page 12
+
+RECONCILIATION OF GAAP INCOME TAX PROVISION TO NON-GAAP INCOME TAX PROVISION 
+
+[DATA_TABLE_REMOVED]
+
+RECONCILIATION OF GAAP NET INCOME ATTRIBUTABLE TO MICROCHIP TECHNOLOGY AND GAAP DILUTED NET INCOME PER COMMON SHARE ATTRIBUTABLE TO MICROCHIP TECHNOLOGY STOCKHOLDERS TO NON-GAAP NET INCOME ATTRIBUTABLE TO MICROCHIP TECHNOLOGY AND NON-GAAP DILUTED NET INCOME PER COMMON SHARE ATTRIBUTABLE TO MICROCHIP TECHNOLOGY STOCKHOLDERS
+
+[DATA_TABLE_REMOVED]
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 13
+
+Microchip will host a conference call today, January 29, 2015 at 5:00 p.m. (Eastern Time) to discuss this release. This call will be simulcast over the Internet at www.microchip.com. The webcast will be available for replay until March 5, 2015.
+
+A telephonic replay of the conference call will be available at approximately 8:00 p.m. (Eastern Time) January 29, 2015 and will remain available until 8:00 p.m. (Eastern Time) on March 5, 2015. Interested parties may listen to the replay by dialing 719-457-0820 and entering access code 1302865.
+
+Cautionary Statement:
+
+The statements in this release relating to continuing to gain significant microcontroller market share, the March quarterly historically being a very strong quarter in Europe and a weak quarter in Asia, expecting non-GAAP revenue to be up 1% to 3% sequentially in the March quarter, our fourth quarter fiscal 2015 guidance (GAAP and Non-GAAP as applicable) including net sales, gross margin, operating expenses, other expense, income tax expense, net income, net income before noncontrolling interest, net income (loss) from noncontrolling interest, diluted common shares outstanding, earnings per diluted share, inventory days, capital expenditures for the March 2015 quarter and for fiscal 2015, selectively investing to support the expected growth of our new products and technologies, net cash generation, expecting to own 100% of ISSC by the end of the first quarter of fiscal 2016, and assumed average stock price in the March 2015 quarter are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that could cause our actual results to differ materially, including, but not limited to: any economic uncertainty due to monetary policy, political or other issues in the U.S. or internationally, any unexpected fluctuations or weakness in the U.S. and global economies, changes in demand or market acceptance of our products and the products of our customers; the mix of inventory we hold and our ability to satisfy short-term orders from our inventory; changes in utilization of our manufacturing capacity and our ability to effectively manage our production levels; competitive developments including pricing pressures; the level of orders that are received and can be shipped in a quarter; the level of sell-through of our products through distribution; changes or fluctuations in customer order patterns and seasonality; foreign currency effects on our business; our ability to continue to realize the expected benefits of our acquisitions; the impact of any other significant acquisitions that we may make; our ability to obtain a sufficient supply of wafers from third party wafer foundries and the cost of such wafers, the costs and outcome of any current or future tax audit or any litigation involving intellectual property, customers or other issues; our actual average stock price in the March 2015 quarter and the impact such price will have on our share count; disruptions in our business or the businesses of our customers or suppliers due to natural disasters 
+
+- - more - -
+
+Microchip Technology Reports
+
+Third Quarter Fiscal 2015
+
+Financial Results
+
+Page 14
+
+including any floods in Thailand), terrorist activity, armed conflict, war, worldwide oil prices and supply, Ebola or other public health concerns or disruptions in the transportation system; and general economic, industry or political conditions in the United States or internationally.
+
+For a detailed discussion of these and other risk factors, please refer to Microchip's filings on Forms 10-K and 10-Q. You can obtain copies of Forms 10-K and 10-Q and other relevant documents for free at Microchip's website (www.microchip.com) or the SEC's website (www.sec.gov) or from commercial document retrieval services.
+
+Stockholders of Microchip are cautioned not to place undue reliance on our forward-looking statements, which speak only as of the date such statements are made. Microchip does not undertake any obligation to publicly update any forward-looking statements to reflect events, circumstances or new information after this January 29, 2015 press release, or to reflect the occurrence of unanticipated events.
+
+About Microchip:
+
+Microchip Technology Incorporated is a leading provider of microcontroller, mixed-signal, analog and Flash-IP solutions, providing low-risk product development, lower total system cost and faster time to market for thousands of diverse customer applications worldwide. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support along with dependable delivery and quality. For more information, visit the Microchip website at www.microchip.com.
+
+Note: The Microchip name and logo, PIC, MOST, GestIC, SuperFlash, and JukeBlox are registered trademarks of Microchip Technology Inc. in the USA and other countries. All other trademarks mentioned herein are the property of their respective companies.
+
+- - end - -

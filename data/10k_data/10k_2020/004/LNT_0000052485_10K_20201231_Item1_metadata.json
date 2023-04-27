@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000052485",
+    "sec_company_name": "INTERSTATE POWER & LIGHT CO (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210219",
+    "sec_changed_date": "20210219",
+    "sec_accepted_date": "20210219143118",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/352541/000035254121000022/0000352541-21-000022-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/352541/000035254121000022/0000352541-21-000022.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\LNT_0000052485_10K_20201231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7198344 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 41757,
+    "endpoints": [
+        "ITEM 1. BUSINESS",
+        "ITEM 1A. RISK FACTORS"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "LNT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\LNT_0000052485_10K_20201231_Item1_excerpt.txt",
+    "time_elapsed": 1.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:16:15.679305"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001120193",
+    "sec_company_name": "NASDAQ, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200129",
+    "sec_filing_date": "20200129",
+    "sec_changed_date": "20200129",
+    "sec_accepted_date": "20200129071420",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1120193/000119312520017634/0001193125-20-017634-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1120193/000119312520017634/0001193125-20-017634.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\NDAQ_0001120193_EX991_20200129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "333600 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 36589,
+    "endpoints": [
+        "EX-99.1   ",
+        "Annualized Recurring Revenue, or ARR, for a given period is the annualized revenue of Market Technology support and SaaS subscription contracts. ARR is currently one of our key performance metrics to assess the health and trajectory of our business. ARR does not have any standardized definition and is therefore unlikely to be comparable to similarly titled measures presented by other companies. ARR should be viewed independently of revenue and deferred revenue and is not intended to be combined with or to replace either of those items. ARR is not a forecast and the active contracts during the reporting period used in calculating ARR may or may not be extended or renewed by our customers."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NDAQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\NDAQ_0001120193_EX991_20200129_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:35:01.119357"
+}

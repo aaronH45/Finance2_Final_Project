@@ -1,0 +1,267 @@
+Exhibit   
+
+TME: JANUARY 08, 2018 / 11:30PM GMT
+
+C O R P O R A T E P A R T I C I P A N T S
+
+Francis A. deSouza Illumina, Inc. - CEO, President & Director
+
+Omead Ostadan Illumina, Inc. - EVP of Products and Operations
+
+Sam A. Samad Illumina, Inc. - CFO and Senior VP
+
+C O N F E R E N C E C A L L P A R T I C I P A N T S
+
+Tracy Lane Marshbanks First Analysis Securities Corporation, Research Division - MD Tycho W. Peterson JP Morgan Chase & Co, Research Division - Senior Analyst
+
+P R E S E N T A T I O N
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+Okay. Good afternoon. We're going to go ahead and kick it off. I'm Tycho Peterson from the Life Science Tools and Diagnostics team. It's my pleasure to introduce our next company, Illumina. We'll do a breakout right after in the Georgian room.
+
+And with that, let me turn it over to Francis.
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Thank you, Tycho, and thank you to the J.P. Morgan team for hosting us. Good afternoon, everyone.
+
+Before I get started, I'd like to remind you that our presentation today includes forward-looking statements. You should refer to our SEC filings for a discussion of the risks and uncertainties that could cause results to differ materially from our current expectations. Note that the financial results I'm about to share represent unaudited numbers that are currently our best estimates. In addition, I will refer to non-GAAP measures that are reconciled to GAAP measures on our website.
+
+Starting with our fourth quarter results. I am pleased to report that we had a very strong finish to 2017 with revenue of approximately $775 million, up 25% year-over-year and exceeding our guidance. Sequencing consumables grew more than 30%, up $100 million from the same quarter last year driven by increased utilization in our high throughput systems and strong pull-through on NextSeq, which was, once again, above our target range. This closed out a great year with 2017 revenue of approximately $2.75 billion, up 15% from 2016 driven by the adoption of NovaSeq and the growth in both clinical and consumer genomics.
+
+Breakthrough innovations in our core technology platforms fuel this growth, creating an active installed base of more than 11,000 systems. NovaSeq had a terrific year, exceeding our expectations with around 285 systems shipped. Our desktop installations also grew nicely. We shipped about 600 NextSeqs, closing the year with an installed base of more than 9,000 desktop instruments. More than 4,000 of our installed systems are currently connected to our BaseSpace cloud, handling over 13 petabytes of data, one of the largest repositories of genomic data in the world.
+
+We expect 2018 to be another strong year with revenue between $3.11 billion and $3.14 billion. This represents an increase of $370 million at the midpoint and overall growth between 13% and 14%. GAAP EPS is expected to be between $4.14 and $4.24, and non-GAAP EPS is expected to be between $4.50 and $4.60, including the estimated impact of tax reform and approximately $0.25 of Helix dilution.
+
+I'd now like to discuss several areas we are most excited about, including the consumer and clinical markets, NovaSeq and other innovations that will contribute to our growth in 2018 and beyond.
+
+Consumer genomics hit an inflection point in 2017 and was the major contributor to the approximately 20% revenue growth in our array business. Even with 2017's tremendous growth, we believe that most of the consumer genomics opportunity remains ahead of us.
+
+Genealogy is the first breakout application for consumer genomics, but the growing rate of discovery enabled by our sequencing systems is broadening this market to include health, wellness, nutrition and fitness. We're excited about the opportunities for our customers, including Ancestry, 23andMe and Family Tree DNA to grow and expand this market further. The ultimate value in consumer genomics is when consumers can easily and affordably access more of their genome through sequencing. Helix's sequence once, query often model delivers on this promise. Helix launched last July and now offers a partner ecosystem of 34 applications. Over time, we expect the lines between consumer managed health and traditional clinical medicine will blur, and Illumina is well positioned with strength in both.
+
+2017 saw a number of exciting milestones highlighting how next-gen sequencing is being integrated into patient management, especially in oncology and reproductive health. In oncology, Keytruda received the first FDA approval to treat multiple cancer types based on the tumor's genomic profile. 
+
+The FDA also approved FoundationOne Dx (sic) [FoundationOne CDx], the first large panel with clinical claims for multiple targeted therapies. CMS concurrently expanded the reimbursement for this test, paving the way for other tests to obtain reimbursement. The FDA also approved the first genomic-based companion diagnostics tests for oncology therapies. Cancer is a disease of the genome, and these steps demonstrate that sequencing will be an important tool in its diagnosis, characterization, therapy development and selection.
+
+In reimbursement, CMS expanded coverage for genomic testing from non-small cell lung cancer to all solid tumor types for 55 million people. In England, the National Health Service plans to commission whole genome sequencing for rare disease and oncology patients.
+
+In reproductive health, we saw expanding coverage for noninvasive prenatal testing in the U.S. and EU. And in rare and undiagnosed genetic diseases, or RUGD, coverage for whole exome sequencing in the U.S. increased from 17 million to 110 million lives.
+
+And beyond regulatory and reimbursement milestones, breakthroughs in gene editing and gene therapy offered a glimpse into the exciting potential for genomics and NGS to treat disorders ranging from blindness to leukemia. These milestones highlight our expanding market opportunity and, with our commitment to ongoing innovation, set the stage for future growth.
+
+Our strategy to further catalyze clinical adoption is to provide clinical-grade instruments and reagents to customers who wish to develop their own solutions while developing complete sample-to-answer solutions in areas of the market where we are uniquely positioned. With this approach, we have seen rapid growth in shipments to our clinical and translational customers, which increased 25% in 2017.
+
+Our sequencing instrument portfolio, which is the gold standard for NGS, provides the deepest and broadest clinical offering available today in genomics. MiSeqDx continues to be the instrument of choice for smaller panels, and we have placed 375 instruments since approval. With the recent launch of NextSeqDx, we now have a clinical higher throughput sequencing platform for NIPT, large oncology panels and exomes. HiSeq X and now NovaSeq further enable this market, allowing the creation of new business models to address the unmet clinical opportunities.
+
+For example, GRAIL and Genomics England are now performing translational research on sample sizes that would have been unimaginable a few years ago. Adaptive, Foundation and Cooper all purchased our MiSeq, NextSeq, HiSeq and NovaSeq instruments to enable their respective clinical NGS offerings. And Regeneron as well as Amgen utilize the HiSeq family and NovaSeq in their drug discovery efforts at sample sizes which would have previously been impossible.
+
+Clinical markets are at the tip of the adoption curve. Over the next 5 years, we are focused on a number of growth areas. The first is population sequencing. Genomics England's groundbreaking 100,000 genomes project is well underway and is scaling to ramp production significantly in 2018. In total, 14 countries have now initiated POPSEQ initiatives, including 5 of the world's 10 largest economies, and we expect other governments to follow suit in time.
+
+NIPT is our second clinical focus area. Our CE-IVD, VeriSeq NIPT solution has outpaced our expectations since launch in mid-2017, and we plan to submit VeriSeq NIPT in up to 12 more countries in the second half of this year, representing an incremental opportunity of more than 30 million births.
+
+In RUGD, there is a growing number of studies which demonstrate a higher diagnostic yield using whole-exome or whole-genome sequencing compared to more targeted genomic approaches. We believe that this increased diagnostic yield will ultimately drive the market to whole-genome sequencing.
+
+Our next focused area is oncology, where our objective is to enable customers and partners to develop NGS solutions while also commercializing sample-to-answer products like TruSight Tumor or TST 170. We've also initiated an immuno-oncology program as we believe that DNA and RNA sequencing will be required to identify patients most likely to benefit from immunotherapies. Pharma has driven the search for new biomarkers, including tumor mutational burden, which requires broader and deeper sequencing. With the combination of our installed base and low sequencing costs in the NextSeq and NovaSeq, we are in a unique position to build distributable IVD solutions to lead this field.
+
+Given this, we are developing a TST panel of about 500 genes to measure a tumor mutational burden and microsatellite instability. This is initially directed towards I-O clinical trial enrollment and commercialization as an IVD. In the future, we will enable targeted therapy selection from this same gene panel. While we remain in the earliest stages, it is clear that NGS is increasingly moving into clinical applications and that Illumina sequencers will be driving that transition.
+
+NovaSeq is, of course, an important part of our clinical strategy and got off to a very strong start in 2017, exceeding our expectations from a customer standpoint and the performance perspective. In 2017, we shipped about 285 units with fourth quarter shipments in the high 80s. The launch of S4 was a key contributor to our record sequencing consumable revenue in Q4. Even excluding an 18 million stocking order from 1 customer, NovaSeq consumable shipments grew more than 80% sequentially.
+
+We expected our existing high-throughput customers to adopt NovaSeq. It's clear, however, that we're also expanding the market, with 25% of orders from customers that were new to Illumina or were conversions from our desktop platforms. We saw faster-than-expected uptake from translational clinical customers, such as Invitae and Rady Children's Hospital, who are offering clinical exome and whole genome services.
+
+That being said, it is our belief that we are in the very earliest stages of a multiyear adoption cycle. To date, only 15% of our 850 high-throughput customers have ordered NovaSeq. We believe that most remaining customers will convert to NovaSeq over the coming years. We also anticipate a number of first-time customers to the high-throughput market driven by research, clinical and population genomics initiatives.
+
+Finally, we believe a subset of customers will add capacity as they scale to take on larger or more sequencing-intensive projects. Looking further ahead, our innovations in both flow cell and instrument technologies will enable even lower sequencing costs and ultimately, the $100 genome. Our expectation is that lower-cost sequencing will fuel new projects and applications such as large-scale cancer screening and whole genome consumer genomics.
+
+This multiyear adoption is consistent with what we saw with HiSeq. Over that instrument's life cycle, we significantly improved platform capabilities with a 24-fold increase in daily throughput and a 14-fold improvement in the price per gene, which led to the emergence and massive expansion of applications, such as exome sequencing, NIPT and ultimately, whole-genome sequencing on the HiSeq X. This drove more than 2,700 unit shipments and over $5 billion in cumulative sales.
+
+Even in its first year, NovaSeq is transforming the genomics landscape, enabling customers to significantly increase the scale and scope of their studies. We fundamentally believe that continued reductions in the cost of sequencing will support new discoveries by enabling customers to sequence larger cohorts, to sequence more deeply and to sequence broader swaths of the genome.
+
+Larger cohort studies, ranging from thousands to tens of thousands of samples, will be required to unravel the complex genetics associated with many disorders. Historically, these studies have been limited by economics, and today, NovaSeq is breaking that barrier. Customers like Regeneron are using NovaSeq to double the number of exomes they will sequence and today announced plans to sequence exomes of all 500,000 samples within the U.K. biobank by the end of 2019. Personalis recently signed a contract with the VA to sequence more than 34,000 human genomes as part of the Million Veterans Program.
+
+In terms of deeper sequencing, there are many emerging applications, particularly in oncology, that will require higher coverage. For solid tumor profiling, coverage of 500x may be required to detect low-frequency variance and deduce clonal complexity, representing a 10-fold increase over sequencing depth needed for germline samples. The emerging application of liquid biopsy typically requires up to tens of thousands of fold coverage. As Illumina has reduced the price of sequencing, we have accelerated the emergence of liquid biopsy and we created GRAIL, one of our largest customers.
+
+An increased portion of our customers are now leveraging the lower cost of sequencing on NovaSeq to survey larger segments of the genome to discover or interrogate more variance to power their studies. As costs continue to come down, we expect more customers to migrate from targeted panels to complete exomes and/or from exomes to whole genomes. With HiSeq X, we saw the number of genomes sequenced increased by an order of magnitude in just 3 years, and we expect NovaSeq to continue this trend. Recent examples of new to whole-genome sequencing customers include GeneDx, a leading provider of genetic testing for rare disorders; PerkinElmer, which has added clinical whole-genome sequencing to their test menu; and the Munich Leukemia Laboratory, who will be using NovaSeq to perform whole-genome sequencing on samples from its biobank of more than 500,000. We've also seen examples of customers, like KingMed, transition from focus panels to whole exome. As excited as we have been about the launch of NovaSeq for our highest throughput customers, we are equally excited about the growing opportunity to put sequencing in the hands of a broader set of customers.
+
+We previewed Firefly in 2016. This project had the ambitious goal to run our SBS chemistry on the surface of a CMOS sensor, which is a 1-channel imaging device. Meeting this goal delivers 2 key advantages: first, we leverage on the 20 years of SBS investments; and second, we package CMOS electronics into a disposable cartridge, enabling a cartridge-based upgrade road map. Today, I can tell you our team delivered, and I am delighted to introduce iSeq.
+
+iSeq is designed to broadly enable sequencing by providing an inexpensive, fast and easy-to-use system with unmatched accuracy. It generates more than 4 million reads and 1.2 gigabases per run with run times ranging from 9 to 18 hours depending on the application. The system can be installed by the customer in less than 1 hour and is cartridge-based, allowing for simple initiation of experiments.
+
+With a purchase price of less than $20,000 and a price per sample ranging between $25 and $150, the iSeq system is the latest in the continuous stream of technology innovations from Illumina. In the 10 years since we launched the Genome Analyzer, the iSeq technology development has now let us launch a system that is 1/20th the size, 1/20th the capital cost and produces more data per run at a rate that is 5x faster. We are now taking orders for iSeq and will begin customer shipments in the first quarter with manufacturing scale-up in the second quarter.
+
+In this segment of the market, accuracy is critical. iSeq leverages proven SBS chemistry and delivers the same high quality and reliable performance as our other desktop systems. This combination of low cost and high accuracy enables a broad range of applications at very attractive price points. As you can see from our beta customers, they're pleased with what they're seeing so far. Chris' comments sum up how we feel, too.
+
+iSeq's cartridge architecture allows us to extend the performance of the system over time without changing the hardware. Our R&D teams have demonstrated 50% faster sequencing in our labs with the possibility of further reductions. In addition, we are targeting increased output per cartridge using next-generation CMOS sensors to deliver 4 to 5x more reads. Ultimately, we believe this will enable outputs in the tens of Gs, with run times of just a few hours, allowing higher-output applications to be completed in a single shift. These improvements are expected to lead to new use cases and 
+
+applications, including monitoring for hospital-acquired infections, testing for foodborne pathogens and rapid microbiome sequencing, which will extend our leadership in the lower throughput segment.
+
+iSeq targets a broad use of -- range of customer types. Our initial customers are expected to include existing Illumina customers in core and service labs who have expressed interest in iSeq to more efficiently manage small batch testing, especially for quick turnaround projects. In addition, some customers see iSeq as a fantastic tool to QC NGS libraries prior to investing in higher throughput runs. As we broaden our customer base, with platforms like iSeq, it is increasingly critical to provide customers with easy methods to take raw sample to high-quality sequencing libraries.
+
+Historically, many of the highest-performing NGS library methods required multistep, time-consuming sample prep protocols, prone to human error. While alternative methods have been available, these have often resulted in unwanted trade-offs between the simplicity of the workflow and the quality of the resulting library and sequencing data.
+
+In October, we launched our first product based on a new bead-based technology called Nextera DNA Flex. This method can start with a raw sample, such as blood or saliva, or purified DNA that is added to beads that are functionalized with Nextera enzymes. These enzymes have the unique ability to simultaneously fragment and incorporate the needed sequences for PCR amplification and indexing, and capturing the data on a bead eliminates the typical requirements for library quantification and normalization. The result is fast, efficient and scalable workflow without compromising data quality.
+
+The first product in this family will be designed for the preparation of PCR amplified libraries for whole-genome sequencing. This protocol is 40% faster and reduces the hands-on time by a factor of 3 compared to conventional methods. A broad range of sample types and applications are supported including human, plant and bacterial genomes. We will build on this core technology to include exome prep, which, when coupled with fast enrichment protocols currently in development, can be up to 85% faster than traditional methods. Nextera Flex can be deployed in multiple formats including plates and tubes, potentially enabling remote collection, stabilization and preparation of NGS samples.
+
+Additionally, this technology is an important step forward to our fully integrated NGS workflows with the goal of ultimately combining Sample Prep and sequencing chemistries. Enabling direct sample input quickly and with high-quality is critical as sequencing becomes faster. We believe that Nextera Flex is one of the most important library preparation platforms launched since the advent of next-generation sequencing.
+
+But internal innovation is only part of the story. Our partnership strategy ensures that our customers will have access to best-in-class technology. With that in mind, I am very pleased to announce an exciting partnership with Thermo Fisher. This collaboration deeply integrates the leading and most trusted sequencers with the leading amplicon library prep technology. Thermo Fisher has 20 years of experience in PCR amplification chemistries that has enabled them to develop an amplicon library prep that is simple, fast and robust. The technology has been widely adopted in the oncology space because of the high-quality data achievable with low input and degraded samples, such as FFPE tissue.
+
+But until now, those customers have not been able to take advantage of the accuracy and power of Illumina sequencers. This agreement provides direct access to AmpliSeq for our RUO customers, delivering the best of sequencing with the best amplicon protocol. Ahead of today's launch, we have been working together to adapt and optimize AmpliSeq specifically for Illumina sequencers, creating a seamless user experience that is fast and easy.
+
+In addition to a collection of ready-to-order panels, Illumina customers will also be able to access AmpliSeq algorithms to create custom amplicon assays utilizing DesignStudio, our online assay design protocol, and they will have access to future panels and new assay types that are introduced as part of the AmpliSeq product line.
+
+Amplicon sequencing is an important entry point for new NGS customers. The combination of our proven technologies further removes barriers to adoption, bringing more new-to-sequencing customers to our platform. Of course, we also have an installed base of more than 9,000 desktop systems. By giving our existing customers access to AmpliSeq chemistry, we're enabling them to do even more with their systems.
+
+We are very excited by the opportunity ahead given our continued innovation around our core technology platforms and our position as the leading NGS provider in the clinical market. The multitude of positive industry indicators in regulation, reimbursement, clinical, consumer and population genomics, to name a few, sets the stage for continued growth in 2018 and beyond. Thank you.
+
+Q U E S T I O N S A N D A N S W E R S
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+(inaudible) has a lot to do with the (inaudible). In relation to that, how does (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Sure. So the question for everyone is that just around orders for NovaSeq and how we're seeing the orders play out. Clearly, there was some pent-up demand when we launched the instrument, and how is that playing out. And it's playing out slightly better than our plan, but in general, it's following our plan. Our plan was that we see NovaSeq as the beginning of a multiyear upgrade cycle. So this is not one of those instruments where we expected a pop in the first year and then sort of a die down, and part of that strategy was why we laid out the flow cells the way we did. So you notice that the S4 flow cell, which is really the big flow cell, didn't even come out until Q4, so it wasn't part of the initial launch. And so the idea was initially to talk to our HiSeq customers and start them with the upgrade process. And even there, we thought that the first wave of customers that would order a NovaSeq would be commercial customers and that it would take a little more time for academic customers to get their grants in order, start to understand how they could use NovaSeq and we expected that to be played out in the back half of '17. And then once we launched S4, we expected to see the larger throughput shops, the typical X customers to start to put in their orders, and that really is how it played out. If you look at what happened in '17, we are at the beginning of this wave. We're still at the beginning of the wave. We have about 15% of our 850 high-throughput customers have ordered so far. So as we expected, this is a multiyear wave. The first half, we saw commercial customers, or the HiSeq customers, that have come on board. Second half, we started to see customers that are academic customers. And once the S4 came out, we started to see the larger shops having interest in taking multiunit orders. And so it really is playing out maybe a little bit better than planned, but the shape of the order demand is as we expected. Question over there?
+
+Unidentified Analyst
+
+For the users who already have HiSeq X and compared with the NovaSeq, there's a big budget of achieving [larger pathway on] NovaSeq compared with HiSeq. Is there an option for companies to trade in and upgrade into NovaSeq? Or any thoughts (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+And so the question is, look, we -- if you are a HiSeq X customer, there are, clearly, advantages now with S4 coming out as well to move from an X to a NovaSeq. And so what do we have in terms of helping customers make that transition? Was it a trade-up -- a trade-in program? So we're saying yes. Especially now with the S4, there is an advantage to move from an X to a NovaSeq. And one of the big advantages is, for example, the X is really restricted to whole genomes; whereas with NovaSeq, you can run any application and take advantage of the power and the capacity of a NovaSeq. So we do expect over time that you will see customers that were X customers move to NovaSeq and sort of re-platforming their fleets on NovaSeq. When we launched the NovaSeq, there were programs at that time, if you had just ordered an X, to either look at the orders you had in the backlog and swap those out to NovaSeqs. And so we did some of those. For some customers though, it made sense to continue running the Xs over the course of this year -- or last year until we launched the S4, in fact, even maybe a little bit longer to run out the projects that they have. And so at that case, they're getting the value out of the X and there'll be a -- it'll be a new sales conversation as we talk about NovaSeq. But if you're the kind of customers that have an X, then chances are you're one of our higher-volume customers, and we have, on the NovaSeq, a discount chart that gives you discounts as you get to higher volumes. Now this is a little bit different than the X. There were no discounts. But we wanted to recognize that there is a value in having customer buy higher volumes from us.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+You called out the 18 million in consumable stocking. I mean, as we think about the ramp for '18, we think about the (inaudible) stocking volumes (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+I think you can expect sort of a very normal sort of calendar, if you like. So if you look at the calendar year, the end of Q3, there's occasionally some onetime stocking orders that we see because of the end of the government budget here in the U.S. We also occasionally see from time to time onetime stocking orders at the end of Q4 as you have large customers that are taking advantage of end-of-the-year budgets. We typically call those out when they happen. They've happened in the past. I think you'll see some of those potentially happening in '18 as well.
+
+Unidentified Analyst
+
+Two questions, one on your bundle. You talked about the $100 genome. When do you think that consumers or end users will see the $100 genome, [particularly Amgen]? Second question about iSeq. You launched it in Q1 this year. How many different kind of chips do you ship? I saw that your business strategy, is that for one chip? Or you will just need to have the NovaSeq multiple chips planned throughout this year?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Okay. So 2 questions, one is give you an update on the path to the $100 genome; and then the second one is around iSeq and the plan for -- I think you said chips, but I think you meant cartridges, right, the cartridges side. Okay. So when we announced NovaSeq, we said that this is the architecture that will lead us, over time, to the $100 genome, that there was still work to be done and there was work to be done on 2 fronts before we got there. On the one front, we laid out the fact that we were at the beginning of the technology S-curves on a number of architectural components in NovaSeq: so whether it was the optics or the data paths or the flow cell or the chemistries. And so for each one of those we feel there is a lot of headroom, and it's incremental headroom. There's still work to be done. But when we compounded the effects across those, we have line of sight into what it would take to get to an instrument that could deliver a $100 genome. We're obviously working on it. The ship off S4 in Q4 was a step in that direction, right, and took the price per G on NovaSeq down a notch compared to the flow cells before. But the other work that needs to be done before we're ready to put a $100 genome out in the market is really priming the market. And what we want to make sure is that when we bring the prices down, and it won't be done in a single step to the $100 genome, we'll step it down, but we want to make sure that each step, there is enough new demand being created to more than compensate for the drop in the price. And we know that, that happens when you give people advanced warning that the price is going to be stepped down. And we saw that land, for example, in the lead up to the $1,000 genome that was enabled by the X, that there were many years where customers had time to imagine the projects they would do with a $100 genome. And so when we launched the X, we knew from our customers that there was a demand that we were launching into. And so what we've done with NovaSeq is a similar play, which is to say this is where the market is going, and we're having incredibly exciting conversations with our customers across a whole range of applications, from single cell to liquid biopsy, around what could be enabled. And they're talking to us in the various stages: if you get to a $500 genome, what could be enabled; if you get to a $300 genome. And so there's work we're doing on that end to say look, we want to make sure there's enough demand in the market so that every time we drop the price, there is overall revenue growth for us. And so those are the 2 pieces of work that we are doing to make sure that we can move the price forward. In terms of iSeq, we are launching in this quarter. It's a cartridge-based architecture. You can expect to -- the cartridges are flexible, and so you can expect to run a number of workloads and applications on the cartridge. But we've talked about the fact that you will see a pretty exciting cartridge road map that will drive greater output, faster turnaround. And so you can expect that to see -- to see that coming from us in the coming years as well. I don't know, Omead, if you have anything else to add.
+
+Omead Ostadan - Illumina, Inc. - EVP of Products and Operations You got it perfectly.
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Okay. Actually, I should have started by saying, "I think all of you know," but let me introduce both of you. Sam Samad is our Chief Financial Officer; and Omead is our EVP who runs Product, Operations and Quality.
+
+Unidentified Analyst
+
+Can you talk a little bit about the background and the development of the immuno-oncology panel, kind of the needs that you're fitting right now and kind of what drove that? And then as we think about in the future with kind of the plethora of immuno-oncology [guys] that are coming, like this diagnostic frequency that you want to be doing, genetic testing around that (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes, so the question is around immuno-oncology and a couple of parts to it. One is talk about the panel that we announced that we're building and how that's going to be used in the immuno-oncology space; and then also, what are we seeing in terms of the number of times a cancer patient who is going through treatment, and especially with immuno-oncology, could be sequenced. So I'll start by saying, look, I think everybody here knows the hugely exciting work that's going on in immuno-oncology right now. And one of the big questions has continued to be, "Well, how do you predict which patients will benefit from I-O therapies and which don't," because for the ones that do react well, the response can be fantastic, but it's 20-something percent possibly for a given immunotherapy. And there's been a -- really good studies being done around what are the good predictors, and some of the predictors include tumor mutational burden, for example; microsatellite instability. And so with our panel, what we want to do, and you start by creating a panel that looks for those 2 things: it's a panel of approximately 500 genes, and it will read out TMB and other predictors of the effectiveness of immuno-oncology. It's an RUO product initially. The idea is to have it be used to enroll patients for clinical trials and then take it down an IVD path. Over time though, what we want to be able to do is add to that same panel looking for driver mutations for that tumor. And so you can have, for the first time, a single panel that is an IUO panel but can also be used to select therapies. And so we think that's a real need in this market. And then, to your point, one of the things that's playing out is that a patient who is undergoing treatment, especially a patient that's looking at I-O therapies, it's becoming clear that they're not just going to be sequenced once. That they're going to be sequenced to determine therapy, to determine if they are a good candidate for an I-O therapy. They're also going to be sequenced to determine if the therapy is being effective, so to monitor the effectiveness of the therapy. And so if you look at that journey, we're starting to paint out how many times would we expect that patient to be sequenced, and it's 
+
+clear that it's not just once or twice. Now today, it's really only a small set of patients who have access to those therapies and are going through that process, but it's starting to inform how we think it could play out as it gains broader adoption.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+Do you see any risk around the NCD guidelines around CMS will only be reimbursing a patient (inaudible) and what is the risk to your kind of [adjacent] business?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+I think that it's created a lot of questions. And I think this is a debate that's been playing out for a long time now around what's the longevity of LDT testing, how much you're going to need IVD products. I think that we will still end up seeing both, that you'll still end up seeing LDT tests. They will have longevity in the market. But it's very clear that there is an opportunity to create an IVD that will drive adoption in the market, especially with that guideline saying and it's tied to reimbursement. So I think people are still sort of evaluating what the implications are. I think the consensus is nothing is going to change really quickly in this market.
+
+Unidentified Analyst
+
+[Can you briefly talk to your] annual growth (inaudible) as in like the EU, maybe like North America and the EMEA (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+We didn't break it out and we typically don't break it out to that level of detail sort of by countries. But what we have talked about before is we are seeing strong growth in countries like China, for example. We said there are countries that are really emerging. We've also talked regional stories about things like NIPT adoption in the EU, in countries like Denmark and Belgium and Netherlands and France and the U.K., and we expect to see higher growth rates come out in the EU in NIPT because of the reimbursement associated with NIPT that's going to play out over this year and the next years. So in general, we haven't given sort of the big color. But there are, as we've called out, that have a regional story to them.
+
+Sam A. Samad - Illumina, Inc. - CFO and Senior VP
+
+We'll share more of that detail when we release our earnings as well, so -- but not at this time.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+Over the years, I think there's still a fair amount of variation in the speed models around consumables [if you wanted to look.] I mean, are you able to kind of talk a little bit about where these are averaging out? And if not, is that something you'll give us around the midterm?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So I think we're still -- it's still too early to give you a pull-through number on NovaSeq. We are very happy with how the demand is building. I talked about the fact that we've seen 80% sequential growth in NovaSeq consumables between Q3 and Q4 even taking out the stocking order. And so we're seeing it build up really nicely, as we expect, but it's not yet at a steady state where we can give you a number. It's still in the building phases. And frankly, any number we give you now won't fully accurately reflect the steady state because there are times when it will be higher than average because we're seeing the early customers buy. As soon as we think it's a meaningful number, we will give it to you, as soon as we think it's reached a steady state. I don't expect -- it will certainly not be in the first half of this year. So I think some time after that, we could get to a state where there is a number that's meaningful and we'd want to give that you.
+
+Unidentified Analyst
+
+In the past, you've mentioned (inaudible).
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So the question was around the reagent rental model. We've talked about that in the past, what's our thinking on it going forward. And we actually do have models where customers can buy from us either in a rental mode or in a lease mode. We actually have a financing partner that arranges that. So 
+
+we're still selling the instrument, and then the financing partners arranging leasing to the customer. And so today, they can get access to our instruments through that model. We know that, that model is important in the clinical markets, which is why we created that model, and we expect to see uptick over time. It's not yet a big part of our business. But as we continue to grow in the clinic, it's possible that, that becomes a slightly bigger part of our business.
+
+Unidentified Analyst
+
+I wanted to follow-up on that earlier point on reimbursement. I guess, traditionally, sort of clinical diagnostics in the states you focus the most on and I understand it's a little bit by design, that you really focused on the technology. And so can you speak to how you are and if you are building out your organizational capabilities to really be able to address those markets, which is very different in terms of the reimbursement-related aspects of it?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes. So the question is around reimbursement. Reimbursement, you're saying, is obviously an important part of the clinical markets. How are we sort of building or developing our organization to help move that along? Because ultimately, that is a -- sort of a gate that will sort of gate the growth in the clinical markets. I'll start by saying that fundamentally, we are not directly sort of impacted by reimbursement. We sell to our customers. They buy instruments from us. But we do know that our customer's growth is gated by reimbursement. And so it started really a couple of years ago. We have stepped in more directly to help drive reimbursement in the different markets that we are in. So we have created a market access organization whose only goal is to work with payers in the U.S. and payer systems around the world, to educate payers around the value of NGS in diagnostic testing. And that has been an active group. We've done a number of things there. One is we have created a coalition of partners in the NIPT space, and that helped create a unified platform for the NIPT community to take to payers. And that group, CAPS, has actually had really good success working with states to actually put together their reimbursement framework for NIPT across the United States. And so we've done a number of things like that. We've worked in Europe. We catalyzed either directly or indirectly studies to demonstrate clinical utility and economic value of different tests, and we're going to continue to do that. Where we feel the market is not moving it on its own and we can have a productive role, we will absolutely step in.
+
+Unidentified Analyst
+
+Adding to that question, what's the (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+We have 2. So we have 2 instruments. We have the MiSeqDx. That is -- the sequence of that is approved in more countries than any other sequencer in the world, right? So it's not just obviously a U.S. story or an EU story. It's a China story. It's a Korea story. It's an Australia story. And in Q4, we also got NextSeqDx. And so now we have MiSeq and a higher-throughput product, NextSeq. And then we -- depending on the markets we're talking about, in areas like NIPT, for example, we have our VeriSeq NIPT product that has CE-IVD marking. It's in Europe, and we're looking at 14 countries we're going to be taking it through over the course of this year to expand the reimbursement and having a clear product in market for those areas. Similarly, in oncology, we have products that we're taking through an IVD path here. We have partners that are taking a solution of their assay on our sequencers through the IVD path in China for NIPT in oncology. And so we're very active. I think it's fair to say we are, probably by a long shot, the leading clinical sequencer in the world, sequencing company.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+How sustainable do you think the demand you're seeing on the array side is? I mean, that was a great number, and obviously, we see all the demand. I mean, is that sustainable, do you think? Or is this kind of a year-end (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+I think consumer genomics has really started to inflect. I think what we saw in 2017 in terms of growth is not a blip, that we are going to continue to see steady growth in that space. Now it will have seasonality, so you won't see every quarter be like Q4 of last year, and that industry has a really big period from right before Thanksgiving actually through mid-January. And so there's seasonality in that business. But I truly believe we've seen an inflection in that market. And so that, the growth in consumer genomics, will drive our array business. Over time, it may actually go to sequencing, too, so it may not just drive our array business. And if I were to handicap and I'd say, look, it's more likely that any slowdown would be because we're moving to sequencing than because consumers weren't interested anymore. I think that's real.
+
+Unidentified Analyst
+
+And before, you did speak about U.S. taxes. (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director Sure. Sam, that's...
+
+Sam A. Samad - Illumina, Inc. - CFO and Senior VP
+
+Yes, sure. So the guidance that we provided for '18 includes the impact of tax reform, as Francis mentioned in his comments, and we've estimated that to be roughly about $0.10 in terms of EPS benefit for us in 2018. So it's got the benefit of the corporate tax rate reduction. But then there's also foreign tax that gets imposed as well, which offsets some of that benefit, but those are the key puts and takes.
+
+Tracy Lane Marshbanks - First Analysis Securities Corporation, Research Division - MD
+
+Two questions. One is would the democratization stay on the high end of (inaudible)? But wouldn't that lead to genome centers, but where do you think they're going to be spending their time on the [expected analysis]? And the second question is thinking about the different standards (inaudible) but also talking about important (inaudible) factors, using like better sample types as an answer (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Sure. Omead, I know you spend a lot of time talking to the genome centers.
+
+Omead Ostadan - Illumina, Inc. - EVP of Products and Operations
+
+Sure. So there are 2 parts to that question. The first was as sequencing is more broadly democratized through various products, such as NovaSeq, what do we think -- how do we think the genome centers are going to evolve? And I think my view is that they are, and have been for an incredibly long time, institutes that are set up around understanding human biology and genomics, right? And sequencing is central to that. And to the extent that the rest of the world engages in those activities, I don't think it materially affects their purpose, right? So they are going to continue to be focused and involved in understanding human biology. And I think to the extent that other entities are benefiting from the capabilities of sequencing, ultimately, it's going to have a network effect where the accumulation of knowledge and information is going to benefit everybody, right? And so I think, and this is one of the conversations we've had, is that they're super excited about the path of their technology innovation. Obviously, as more and more sites have adopted NovaSeq, it has a material effect with what the genome centers do, but certainly not in a negative way. As they continue to expand, they continue to broaden their different programs that they are engaging in. And so I don't expect it to change, honestly. If anything, I think it puts them in a position to be able to collaborate more effectively and more broadly with various entities that might have interest in cohorts and samples, right? So I think that actually, kind of leveling out the playing field, in some ways helps the genome center to be able to move the science forward. And then the second part of your question is, is what are customers asking for. Pretty much everything on the moon on top of it. But I would say cost, and we talk about it and we probably over emphasize how important that is. It is clearly important, but processing speed, the ability to be able to batch more effectively, the ability to be able to have just a higher success rate from start to finish in terms of operating their lab, inclusive of sample prep and library prep and Francis talked about Nextera Flex as one of the outcomes of those types of inputs to be able to essentially create a scalable platform that allows them to have high success rate from start to finish. And -- but clearly, cost continues to be an area of focus for a lot of people. Speed, although, I think it's getting to the point where, for the majority of the applications, the data acquisition speed is -- everybody wants faster, but it's not a rate-limiting step at the moment. I still think ability to be able to sort of effectively batch and process samples at a high success rate is a key concern for them, which is one of the reasons why we're focusing very much as opposed to say automating library prep, thinking about how we actually think about library prep in a different way so that it is fundamentally more robust and scalable.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+Can you talk about just that Thermo agreement, how that came about? (inaudible) press releases in Illumina (inaudible), so just a bit of speculation on that part? I mean, what's the back story?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So the question is about the partnership we have with Thermo and what's the back story or how did that come about. The way it came about is as we talk to our customers around what they are looking for, one of the things that we heard consistently is that they liked certain aspects of AmpliSeq. And so they would tell us, look, they love the low sample they put in AmpliSeq, for example. They like the ability to work with degraded samples like FFPE tissue, and AmpliSeq has a following in the oncology community in terms of people like that assay. And so we spent a lot of time internally thinking, look, we want to make sure our customers have the best experience in our sequencer. So what is great for our customers is ultimately good for Illumina. 
+
+And so we started the conversation clearly well over a year ago. And initially, it was one of those, like, "Are you sure -- are we sure we want to do this? Are they sure they want to do this?" But it was always -- so the true north for us was what's the best thing for our customers? And if you keep looking at that, the truth is the best thing for our customers is to make the best amplicon technology available on the best sequencer. And I think a lot of credit on both sides. Thermo had the same thinking, which is, yes, there are parts of our portfolio we compete, but this is clearly good for AmpliSeq, it's good for customers and it's good for us. And so that was the thinking behind it. I think we're out of time.
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst (inaudible)
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director Yes. Thank you, guys.
+
+1-09T21:41:41.407

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001063761",
+    "sec_company_name": "SIMON PROPERTY GROUP INC /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190118",
+    "sec_filing_date": "20190123",
+    "sec_changed_date": "20190123",
+    "sec_accepted_date": "20190123071743",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1063761/000110465919002844/0001104659-19-002844-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1063761/000110465919002844/0001104659-19-002844.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\SPG_0001063761_8K_20190118_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "22526 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2831,
+    "endpoints": [
+        "UNITED STATES ",
+        "3"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\SPG_0001063761_8K_20190118_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:38:12.750703"
+}

@@ -1,0 +1,610 @@
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+ORGANIZATION OF INFORMATION
+
+The following Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) was prepared to provide the reader with a view and perspective of our business through the eyes of management and should be read in conjunction with our Consolidated Financial Statements and the accompanying notes to those financial statements. Our MD&A is presented in the following sections:
+
+•EXECUTIVE SUMMARY AND FINANCIAL HIGHLIGHTS
+
+•RESULTS OF OPERATIONS
+
+•OPERATING SEGMENT RESULTS
+
+•2020 OUTLOOK
+
+•LIQUIDITY AND CAPITAL RESOURCES
+
+•CONTRACTUAL OBLIGATIONS AND OTHER COMMERCIAL COMMITMENTS
+
+•APPLICATION OF CRITICAL ACCOUNTING ESTIMATES
+
+•RECENTLY ADOPTED AND RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+The following is the discussion and analysis of changes in the financial condition and results of operations for fiscal year 2019 compared to fiscal year 2018. The discussion and analysis of fiscal year 2017 and changes in the financial condition and results of operations for fiscal year 2018 compared to fiscal year 2017 that are not included in this Form 10-K may be found in Part II, ITEM 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, filed with the Securities and Exchange Commission (SEC) on February 11, 2019.
+
+EXECUTIVE SUMMARY AND FINANCIAL HIGHLIGHTS
+
+We are a global power leader that designs, manufactures, distributes and services diesel, natural gas, electric and hybrid powertrains and powertrain-related components including filtration, aftertreatment, turbochargers, fuel systems, controls systems, air handling systems, automated transmissions, electric power generation systems, batteries, electrified power systems, hydrogen generation and fuel cell products. We sell our products to original equipment manufacturers (OEMs), distributors, dealers and other customers worldwide. We have long-standing relationships with many of the leading manufacturers in the markets we serve, including PACCAR Inc, Navistar International Corporation, Daimler Trucks North America and Fiat Chrysler Automobiles (Chrysler). We serve our customers through a network of approximately 600 wholly-owned, joint venture and independent distributor locations and over 7,600 Cummins certified dealer locations in more than 190 countries and territories. 
+
+In November 2019, we renamed our Electrified Power segment as "New Power" in order to better represent the incorporation of fuel cell and hydrogen production technologies resulting from our acquisition of Hydrogenics Corporation. The New Power segment includes our electrified power, fuel cell and hydrogen production technologies. 
+
+Our reportable operating segments consist of Engine, Distribution, Components, Power Systems and New Power. This reporting structure is organized according to the products and markets each segment serves. The Engine segment produces engines (15 liters and smaller) and associated parts for sale to customers in on-highway and various off-highway markets. Our engines are used in trucks of all sizes, buses and recreational vehicles, as well as in various industrial applications, including construction, agriculture, power generation systems and other off-highway applications. The Distribution segment includes wholly-owned and partially-owned distributorships engaged in wholesaling engines, generator sets and service parts, as well as performing service and repair activities on our products and maintaining relationships with various OEMs throughout the world. The Components segment sells filtration products, aftertreatment systems, turbochargers, electronics, fuel systems and automated transmissions. The Power Systems segment is an integrated power provider, which designs, manufactures and sells engines (16 liters and larger) for industrial applications (including mining, oil and gas, marine and rail), standby and prime power generator sets, alternators and other power components. The New Power segment designs, manufactures, sells and supports electrified power systems ranging from fully electric to hybrid along with innovative components and subsystems, including battery, fuel cell and hydrogen production technologies. We continue to serve all our markets as they adopt electrification and alternative power technologies, meeting the needs of our OEM partners and end customers.
+
+31
+Our financial performance depends, in large part, on varying conditions in the markets we serve, particularly the on-highway, construction and general industrial markets. Demand in these markets tends to fluctuate in response to overall economic conditions. Our sales may also be impacted by OEM inventory levels, production schedules and stoppages. Economic downturns in markets we serve generally result in reduced sales of our products and can result in price reductions in certain products and/or markets. As a worldwide business, our operations are also affected by currency, political, economic and regulatory matters, including adoption and enforcement of environmental and emission standards, in the countries we serve. As part of our growth strategy, we invest in businesses in certain countries that carry high levels of these risks such as China, Brazil, India, Mexico, Russia and countries in the Middle East and Africa. At the same time, our geographic diversity and broad product and service offerings have helped limit the impact from a drop in demand in any one industry or customer or the economy of any single country on our consolidated results. 
+
+Worldwide revenues decreased 1 percent in 2019 compared to 2018, as higher sales in the Distribution and New Power segments were more than offset by lower sales in all other operating segments. International demand (excludes the U.S. and Canada) declined by 6 percent compared to 2018, with lower sales in most regions (especially in Europe, India, Russia, Asia Pacific and Latin America). The decrease in international sales was driven by lower on-highway demand (mainly in the light-commercial vehicle (LCV) market in China and Russia, truck markets in Western Europe and India, which negatively impacted our emission solutions and turbo technologies businesses, the medium-duty truck market in Brazil and the bus market in Europe), unfavorable foreign currency impacts of 4 percent of international sales (primarily the Chinese renminbi, Euro, British pound, Australian dollar, Brazilian real and Indian rupee) and decreased demand in industrial markets (especially construction markets in China, Asia Pacific and India and most international mining markets). These decreases were partially offset by increased demand in China for both engines for oil and gas customers and power generation equipment for data center customers. Net sales in the U.S. and Canada improved by 3 percent primarily due to increased demand in the pick-up truck and medium-duty truck markets and increased demand in most of our distribution product lines (largely related to power generation equipment for data center customers), partially offset by lower demand in heavy-duty truck and bus markets and decreased industrial demand (especially in the oil and gas market). 
+
+The following table contains sales and EBITDA by operating segment for the years ended December 31, 2019 and 2018. See the section titled "OPERATING SEGMENT RESULTS" for a more detailed discussion of net sales and EBITDA by operating segment including the reconciliation of segment EBITDA to net income attributable to Cummins Inc. 
+
+[DATA_TABLE_REMOVED]
+
+_____________________________________________________
+
+"NM" - not meaningful information
+
+Net income attributable to Cummins Inc. for 2019 was $2.3 billion, or $14.48 per diluted share, on sales of $23.6 billion, compared to 2018 net income attributable to Cummins Inc. of $2.1 billion, or $13.15 per diluted share, on sales of $23.8 billion. The increase in net income attributable to Cummins Inc. and earnings per diluted share was driven by increased gross margin, lower variable compensation expenses and gains on corporate owned life insurance, partially offset by restructuring actions, higher research, development and engineering expenses and lower equity, royalty and interest income from investees. The increase in gross margin and gross margin percentage was mainly due to lower warranty costs (due to the absence of the $368 million engine system charge recorded in 2018), favorable pricing and lower material costs, partially offset by lower volumes, unfavorable impacts from tariffs and unfavorable foreign currency impacts (primarily Australian dollar, Euro, Canadian dollar and Brazilian real). See Note 12, "PRODUCT WARRANTY LIABILITY," to our Consolidated Financial Statements for additional information on the Engine System Campaign. Diluted earnings per common share for 2019 benefited $0.25 per share from fewer weighted-average shares outstanding, primarily due to the stock repurchase program.
+
+We generated $3.2 billion of operating cash flows in 2019, compared to $2.4 billion in 2018. See the section titled "Cash Flows" in the "LIQUIDITY AND CAPITAL RESOURCES" section for a discussion of items impacting cash flows.
+
+32
+Our debt to capital ratio (total capital defined as debt plus equity) at December 31, 2019, was 21.9 percent, compared to 23.1 percent at December 31, 2018. The decrease was primarily due to a decline in outstanding commercial paper. At December 31, 2019, we had $1.5 billion in cash and marketable securities on hand and access to our $3.5 billion credit facilities, if necessary, to meet currently anticipated investment and funding needs. 
+
+On April 29, 2019, we announced that we were conducting a formal internal review of our emissions certification process and compliance with emission standards for our pick-up truck applications, following conversations with the U.S. Environmental Protection Agency and the California Air Resources Board regarding certification of our engines in the model year 2019 RAM 2500 and 3500 trucks. We voluntarily disclosed our formal internal review to the regulators and to other government agencies, the Department of Justice and the SEC. We are also fully cooperating with the government agencies’ information requests and inquiries. Due to the continuing nature of our formal review, our ongoing cooperation with the regulators and other government agencies, and the presence of many unknown facts and circumstances, we cannot predict the final outcome of this review and these regulatory and agency processes, and we cannot provide assurance that the matter will not have a materially adverse impact on our results of operations and cash flows. See Note 15, "COMMITMENTS AND CONTINGENCIES," to our Consolidated Financial Statements for additional information.
+
+In July 2019, our Board of Directors (the Board) authorized an increase to our quarterly dividend of 15 percent from $1.14 per share to $1.311 per share.
+
+On August 21, 2019, we entered into an amended and restated 364-day credit agreement that allows us to borrow up to $1.5 billion of unsecured funds at any time through August 18, 2020. This credit agreement amends and restates the prior $1.5 billion 364-day credit facility that matured on August 21, 2019. See Note 11, "DEBT," to the Consolidated Financial Statements for additional information.
+
+On September 9, 2019, we acquired an 81 percent interest in Hydrogenics Corporation for total consideration of $235 million. The Hydrogen Company, a wholly-owned subsidiary of L’Air Liquide, S.A., will maintain a 19 percent noncontrolling interest in Hydrogenics Corporation. See Note 21, "ACQUISITIONS," to our Consolidated Financial Statements for additional information. 
+
+In November 2019, we announced our intentions to reduce our global workforce in response to the continued deterioration in our global markets in the second half of 2019, as well as expected reductions in orders in most U.S. and international markets in 2020. In the fourth quarter of 2019, we began executing restructuring actions, primarily in the form of voluntary and involuntary employee separation programs. We incurred a charge of $119 million ($90 million after-tax) in the fourth quarter of 2019 for these actions which impacted approximately 2,300 employees. See Note 4, "RESTRUCTURING ACTIONS," to the Consolidated Financial Statements, for additional information. 
+
+In December 2019, the Board authorized the acquisition of up to $2.0 billion of additional common stock upon completion of the 2018 repurchase plan. In 2019, we repurchased $1,271 million or 8.1 million shares of common stock under the 2018 authorization. See Note 16, "CUMMINS INC. SHAREHOLDERS' EQUITY" to the Consolidated Financial Statements for additional information.
+
+In 2019, the investment gain on our U.S. pension trust was 17.6 percent while our U.K. pension trust gain was 10.9 percent. Our global pension plans, including our unfunded and non-qualified plans, were 113 percent funded at December 31, 2019. Our U.S. defined benefit plan, which represents approximately 53 percent of the worldwide pension obligation, was 133 percent funded, and our U.K. defined benefit plan was 109 percent funded. We expect to contribute approximately $100 million in cash to our global pension plans in 2020. In addition, we expect our 2020 net periodic pension cost to approximate $100 million. See application of critical accounting estimates within MD&A and Note 13, "PENSIONS AND OTHER POSTRETIREMENT BENEFITS," to the Consolidated Financial Statements, for additional information concerning our pension and other postretirement benefit plans.
+
+33
+RESULTS OF OPERATIONS
+
+[DATA_TABLE_REMOVED]
+
+______________________________________
+
+"NM" - not meaningful information
+
+[DATA_TABLE_REMOVED]
+
+2019 vs. 2018
+
+Net Sales 
+
+Net sales decreased $200 million, primarily driven by the following:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+These decreases were partially offset by increased sales of 3 percent in the Distribution segment, primarily due to higher demand in most geographic regions, especially in North America, driven by increased demand in power generation equipment for data center customers and improved aftermarket demand in China.
+
+34
+Sales to international markets (excluding the U.S. and Canada), based on location of customers, were 38 percent of total net sales in 2019, compared with 41 percent of total net sales in 2018. A more detailed discussion of sales by segment is presented in the "OPERATING SEGMENT RESULTS" section.
+
+Cost of Sales
+
+The types of expenses included in cost of sales are the following: parts and material consumption, including direct and indirect materials; salaries, wages and benefits; depreciation on production equipment and facilities and amortization of technology intangibles; estimated costs of warranty programs and campaigns; production utilities; production-related purchasing; warehousing, including receiving and inspection; engineering support costs; repairs and maintenance; production and warehousing facility property insurance; rent for production facilities and other production overhead.
+
+Gross Margin
+
+Gross margin increased $243 million and 1.3 points as a percentage of sales. The increase in gross margin was mainly due to lower warranty costs (due to the absence of the $368 million engine system charge recorded in 2018), favorable pricing and lower material costs, partially offset by lower volumes, unfavorable impacts from tariffs and unfavorable foreign currency impacts (primarily Australian dollar, Euro, Canadian dollar and Brazilian real). See Note 12, "PRODUCT WARRANTY LIABILITY," to our Consolidated Financial Statements for additional information on the Engine System Campaign. The provision for warranties issued, excluding campaigns, as a percentage of sales, was 1.9 percent in 2019 and 1.9 percent in 2018. A more detailed discussion of margin by segment is presented in the "OPERATING SEGMENT RESULTS" section.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased $17 million, primarily due to higher compensation and consulting expenses, partially offset by lower variable compensation expenses. Overall, selling, general and administrative expenses, as a percentage of sales, increased to 10.4 percent in 2019 from 10.3 percent in 2018.
+
+Research, Development and Engineering Expenses
+
+Research, development and engineering expenses increased $99 million, primarily due to higher compensation expense driven by headcount growth, including increased staffing for the New Power segment, decreased expense recovery and higher consulting expenses, partially offset by lower variable compensation expenses. Overall, research, development and engineering expenses, as a percentage of sales, increased to 4.2 percent in 2019 from 3.8 percent in 2018. Research activities continue to focus on development of new products to meet future emission standards around the world, improvements in fuel economy performance of diesel and natural gas-powered engines and related components as well as development activities around fully electric, hybrid and hydrogen powertrain solutions.
+
+Equity, Royalty and Interest Income From Investees
+
+Equity, royalty and interest income from investees decreased $64 million, mainly due to lower earnings in China and India, especially at Tata Cummins Ltd., Beijing Foton Cummins Engine Co., Ltd., Chongqing Cummins Engine Co., Ltd. and Dongfeng Cummins Emission Solutions Co., Ltd. and an impairment of a joint venture in our Power Systems segment.
+
+Restructuring Actions 
+
+In November 2019, we announced our intentions to reduce our global workforce in response to the continued deterioration in our global markets in the second half of 2019, as well as expected reductions in orders in most U.S. and international markets in 2020. In the fourth quarter of 2019, we began executing restructuring actions, primarily in the form of voluntary and involuntary employee separation programs. We incurred a charge of $119 million ($90 million after-tax) in the fourth quarter of 2019 for these actions which impacted approximately 2,300 employees. The voluntary actions were completed by December 31, 2019 and the majority of the involuntary actions were executed prior to January 31, 2020, with expected completion by March 31, 2020. Due to the inherent uncertainty involved, actual amounts paid for such activities may differ from amounts initially recorded and we may need to revise previous estimates. 
+
+We expect to realize annualized savings from the restructuring and other actions of $250 million to $300 million. Approximately 55 percent of the savings from our restructuring actions will be realized in cost of sales, 30 percent in selling, general and administrative expenses and 15 percent in research, development and engineering expenses. We expect the severance to be paid in cash which will be funded from operations. See Note 4, "RESTRUCTURING ACTIONS," to the Consolidated Financial Statements, for additional information. 
+
+35
+Other Operating (Expense) Income, Net
+
+Other operating (expense) income, net was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) Includes $19 million of the total $33 million charge related to ending production of the 5 liter ISV engine for the U.S. pick-up truck market during 2019.
+
+Interest Income
+
+Interest income increased $11 million, primarily due to higher average balances and rates of return on cash and marketable securities.
+
+Interest Expense
+
+Interest expense decreased $5 million, primarily due to lower average short-term borrowings.
+
+Other Income, Net
+
+Other income, net was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) Includes $35 million in gains from unwinding derivative instruments not designated as hedges as a result of foreign dividends paid during the third quarter of 2019. 
+
+Income Tax Expense 
+
+Our effective tax rate for 2019 was 20.0 percent compared to 20.6 percent for 2018.
+
+The year ended December 31, 2019, contained $34 million of favorable net discrete tax items, primarily due to withholding taxes and provision to return adjustments. 
+
+The year ended December 31, 2018, contained $14 million of favorable net discrete tax items, primarily due to $26 million of other favorable discrete tax items, partially offset by $12 million of unfavorable discrete tax items related to the 2017 Tax Legislation.
+
+The change in the effective tax rate for the year ended December 31, 2019, versus 2018, was primarily due to increased favorable net discrete tax items.
+
+The effective tax rate for 2020 is expected to be 22.0 percent, excluding any discrete items that may arise.
+
+Noncontrolling Interests
+
+Noncontrolling interests eliminate the income or loss attributable to non-Cummins ownership interests in our consolidated entities. Noncontrolling interests in income of consolidated subsidiaries decreased $38 million, mostly due to lower earnings at 
+
+36
+Eaton Cummins joint venture and Cummins India Limited, partially offset by the absence of a $24 million unfavorable Tax Legislation withholding tax adjustment in 2018. 
+
+Net Income Attributable to Cummins Inc. and Diluted Earnings Per Common Share Attributable to Cummins Inc. 
+
+Net income and diluted earnings per share attributable to Cummins Inc. increased $119 million and $1.33 per share, respectively, primarily due to increased gross margin, lower variable compensation expenses and gains on corporate owned life insurance, partially offset by restructuring actions, higher research, development and engineering expenses and lower equity, royalty and interest income from investees. Diluted earnings per common share for 2019 benefited $0.25 per share from fewer weighted-average shares outstanding, primarily due to the stock repurchase program.
+
+2018 vs. 2017 
+
+For prior year results of operations comparisons to 2017 see the Results of Operations section of our 2018 Form 10-K. 
+
+Comprehensive Income - Foreign Currency Translation Adjustment
+
+The foreign currency translation adjustment was a net loss of $152 million and $356 million for the years ended December 31, 2019 and 2018, respectively. The details were as follows:
+
+[DATA_TABLE_REMOVED]
+
+2018 vs. 2017 
+
+For prior year foreign currency translation adjustment comparisons to 2017 see the Results of Operations section of our 2018 Form 10-K.
+
+37
+OPERATING SEGMENT RESULTS 
+
+Our reportable operating segments consist of the Engine, Distribution, Components, Power Systems and New Power segments. This reporting structure is organized according to the products and markets each segment serves. We use segment EBITDA as the primary basis for the Chief Operating Decision Maker to evaluate the performance of each of our reportable operating segments. We believe EBITDA is a useful measure of our operating performance as it assists investors and debt holders in comparing our performance on a consistent basis without regard to financing methods, capital structure, income taxes or depreciation and amortization methods, which can vary significantly depending upon many factors. Segment amounts exclude certain expenses not specifically identifiable to segments. See Note 22, "OPERATING SEGMENTS," to the Consolidated Financial Statements for additional information.
+
+In November 2019, we renamed our Electrified Power segment as "New Power" in order to better represent the incorporation of fuel cell and hydrogen production technologies resulting from our acquisition of Hydrogenics Corporation. The New Power segment includes our electrified power, fuel cell and hydrogen production technologies. 
+
+Following is a discussion of results for each of our operating segments.
+
+For all prior year segment results comparisons to 2017 see the Results of Operations section of our 2018 Form 10-K.
+
+Engine Segment Results
+
+Financial data for the Engine segment was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+"NM" - not meaningful information
+
+Sales for our Engine segment by market were as follows:
+
+[DATA_TABLE_REMOVED]
+
+38
+Unit shipments by engine classification (including unit shipments to Power Systems and off-highway engine units included in their respective classification) were as follows:
+
+[DATA_TABLE_REMOVED]
+
+2019 vs. 2018 
+
+Sales
+
+Engine segment sales decreased $510 million. The following were the primary drivers by market:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Unfavorable foreign currency fluctuations, primarily in the Chinese renminbi, Brazilian real and Euro.[DATA_TABLE_REMOVED]
+
+Total on-highway-related sales for 2019 were 80 percent of total engine segment sales, compared to 79 percent in 2018. 
+
+Segment EBITDA
+
+Engine segment EBITDA increased $8 million, primarily due to higher gross margin, partially offset by decreased equity, royalty and interest income from investees, a $33 million charge related to ending production of the 5 liter ISV engine for the U.S. pick-up truck market, increased selling, general and administrative expenses, higher research, development and engineering expenses and restructuring actions. The increase in gross margin and gross margin as a percentage of sales was primarily due to favorable pricing and the absence of a $184 million engine system campaign charge recorded in 2018, partially offset by lower volumes. See Note 12, "PRODUCT WARRANTY LIABILITY," to the Consolidated Financial Statements for additional information on the Engine System Campaign. The increase in selling, general and administrative expenses was mainly due to higher consulting expenses and increased compensation costs, partially offset by lower variable compensation expenses. The increase in research, development and engineering expenses was principally due to lower expense recovery and higher consulting expenses, partially offset by lower variable compensation expenses. The decrease in equity, royalty and interest income from investees was primarily due to lower earnings at Tata Cummins Ltd. and Beijing Foton Cummins Engine Co., Ltd. 
+
+39
+Distribution Segment Results
+
+Financial data for the Distribution segment was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+"NM" - not meaningful information
+
+Sales for our Distribution segment by region were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Sales for our Distribution segment by product line were as follows:
+
+[DATA_TABLE_REMOVED] 
+
+40
+2019 vs. 2018
+
+Sales
+
+Distribution segment sales increased $243 million. The following were the primary drivers by region:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+These increases were partially offset by unfavorable foreign currency fluctuations (mainly in the Australian dollar, Euro, Chinese renminbi, Canadian dollar and South African rand).
+
+Segment EBITDA 
+
+Distribution segment EBITDA increased $93 million, primarily due to higher gross margin and lower selling, general and administrative expenses, partially offset by unfavorable foreign currency fluctuations (primarily in the Australian dollar and South African rand) and restructuring actions. The increase in gross margin was principally due to higher volumes, improved pricing, lower variable compensation expenses and favorable mix, partially offset by increased compensation expenses and unfavorable foreign currency fluctuations (primarily in the Australian dollar, South African rand and Canadian dollar). The decrease in selling, general and administrative expenses was mainly due to lower variable compensation expenses, partially offset by increased compensation and consulting expenses.
+
+41
+Components Segment Results
+
+Financial data for the Components segment was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+"NM" - not meaningful information
+
+Sales for our Components segment by business were as follows:
+
+[DATA_TABLE_REMOVED]____________________________________
+
+"NM" - not meaningful information
+
+2019 vs. 2018 
+
+Sales
+
+Components segment sales decreased $252 million. The following were the primary drivers by business:[DATA_TABLE_REMOVED]
+
+•Unfavorable currency fluctuations mainly in the Chinese renminbi, Euro and British pound.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+42
+Segment EBITDA 
+
+Components segment EBITDA increased $67 million, as higher gross margin was partially offset by increased research, development and engineering expenses, restructuring actions, unfavorable foreign currency fluctuations (primarily in the Chinese renminbi, Brazilian real and Mexican peso) and lower equity, royalty and interest income from investees. The increase in gross margin was primarily due to the absence of a $184 million engine system campaign charge recorded in 2018 and lower material costs, partially offset by lower volumes, reduced pricing and unfavorable foreign currency fluctuations (primarily in the Chinese renminbi, Brazilian real, Australian dollar and Euro). See Note 12, "PRODUCT WARRANTY LIABILITY," to the Consolidated Financial Statements for additional information on the Engine System Campaign. The increase in research, development and engineering expenses was primarily due to lower expense recovery, higher compensation expenses and additional spending in the automated transmission business, partially offset by lower variable compensation expenses. The decrease in equity, royalty and interest income from investees was mainly due to lower earnings at Dongfeng Cummins Emission Solutions Co., Ltd. and Shanghai Fleetguard Filter Co.
+
+Power Systems Segment Results
+
+Financial data for the Power Systems segment was as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+"NM" - not meaningful information
+
+Sales for our Power Systems segment by product line were as follows:
+
+[DATA_TABLE_REMOVED]
+
+2019 vs. 2018
+
+Sales
+
+Power Systems segment sales decreased $166 million across all lines of business. The following were the primary drivers:[DATA_TABLE_REMOVED]
+
+43
+•Unfavorable foreign currency fluctuations mainly in the British pound, Indian rupee and Chinese renminbi.[DATA_TABLE_REMOVED]
+
+Segment EBITDA
+
+Power Systems segment EBITDA decreased $102 million, principally due to lower gross margin, decreased equity, royalty and interest income from investees and restructuring actions, partially offset by favorable foreign currency fluctuations (primarily in the British pound, Indian rupee and Brazilian real), lower selling, general and administrative expenses and a gain on sale of assets. The decrease in gross margin was mainly due to decreased volumes and unfavorable mix, partially offset by improved pricing, decreased compensation expenses and favorable foreign currency fluctuations (primarily in the British pound). The decrease in selling, general and administrative expenses was primarily due to lower variable compensation expenses, partially offset by higher consulting expenses. The decrease in equity, royalty and interest income from investees was largely due to impairment of a joint venture and lower earnings at Chongqing Cummins Engine Co., Ltd.
+
+New Power Segment Results
+
+The New Power segment designs, manufactures, sells and supports electrified power systems ranging from fully electric to hybrid along with innovative components and subsystems, including battery, fuel cell and hydrogen production technologies. The New Power segment is currently in the development phase with a primary focus on research and development activities for all of our power systems, components and subsystems. Financial data for the New Power segment was as follows:
+
+[DATA_TABLE_REMOVED]
+
+______________________________________
+
+"NM" - not meaningful information
+
+44
+Reconciliation of Segment EBITDA to Net Income Attributable to Cummins Inc.
+
+The table below reconciles the segment information to the corresponding amounts in the Consolidated Statements of Net Income. 
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) Includes intersegment sales, intersegment profit in inventory eliminations and unallocated corporate expenses. The year ended December 31, 2019, includes a $31 million restructuring charge related to corporate functions. There were no significant unallocated corporate expenses for the years ended December 31, 2018 and 2017. 
+
+(2) Depreciation and amortization, as shown on a segment basis, excludes the amortization of debt discount and deferred costs included in the Consolidated Statements of Net Income as "Interest expense." The amortization of debt discount and deferred costs was $3 million, $2 million and $3 million for the years ended December 31, 2019, 2018 and 2017, respectively.
+
+45
+2020 OUTLOOK
+
+Our outlook reflects the following positive trends and challenges to our business that could impact our revenue and earnings potential in 2020.
+
+Positive Trends
+
+•We expect to realize annualized savings from restructuring and other actions of approximately $250 million to $300 million.
+
+Challenges
+
+•We may close or restructure additional manufacturing and distribution facilities as we evaluate the appropriate size and structure of our manufacturing and distribution capacity, which could result in additional charges.
+
+•Industry production of heavy-duty and medium-duty trucks in North America is expected to decline.
+
+•North American pick-up truck demand should decline.
+
+•Power generation markets are expected to decline.
+
+•Demand in North American, Chinese and European construction markets is expected to weaken.
+
+•Weak economic conditions in India may continue to negatively impact demand across our businesses.
+
+•Demand in Chinese truck markets is expected to decline.
+
+•Lower commodity prices and capital expenditures by mining companies could reduce demand for mining engines.
+
+•Demand in oil and gas markets in North America should remain weak.
+
+•Uncertainty in the U.K. surrounding its ability to negotiate trade agreements as a sovereign country could have material negative impacts on our European operations in the long-term.
+
+46
+LIQUIDITY AND CAPITAL RESOURCES
+
+Key Working Capital and Balance Sheet Data
+
+We fund our working capital with cash from operations and short-term borrowings, including commercial paper, when necessary. Various assets and liabilities, including short-term debt, can fluctuate significantly from month to month depending on short-term liquidity needs. As a result, working capital is a prime focus of management attention. Working capital and balance sheet measures are provided in the following table:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) Working capital includes cash and cash equivalents.
+
+Cash Flows
+
+Cash and cash equivalents were impacted as follows:
+
+[DATA_TABLE_REMOVED]
+
+2019 vs. 2018
+
+Net cash provided by operating activities increased $803 million, primarily due to lower working capital requirements of $516 million, increased other liabilities of $165 million, higher deferred tax expense of $93 million and higher consolidated net income of $81 million, partially offset by non-cash gains on corporate owned life insurance of $87 million and higher pension contributions of $83 million. During 2019, lower working capital requirements resulted in a cash outflow of $31 million compared to a cash outflow of $547 million in 2018, mainly due to lower inventory and lower accounts receivable levels, partially offset by lower accounts payable levels in 2019 as we adjusted for slowing market demand.
+
+Net cash used in investing activities increased $176 million, primarily due to higher acquisitions of $167 million and higher net investments in marketable securities of $69 million, partially offset by higher cash flows from derivatives not designated as hedges of $58 million.
+
+Net cash used in financing activities increased $695 million, principally due to the reduction of commercial paper borrowings of $602 million and higher common stock repurchases of $131 million, partially offset by increased borrowings under short-term credit agreements of $52 million.
+
+The effect of exchange rate changes on cash and cash equivalents increased $40 million, primarily due to unfavorable fluctuations in the British pound of $55 million, partially offset by favorable fluctuations in the Chinese renminbi and Indian rupee.
+
+2018 vs. 2017
+
+For prior year liquidity comparisons see the Liquidity and Capital Resources section of our 2018 Form 10-K.
+
+47
+Sources of Liquidity
+
+We generate significant ongoing cash flow. Cash provided by operations is our principal source of liquidity with $3.2 billion provided in 2019. At December 31, 2019, our sources of liquidity included:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) The majority of marketable securities could be liquidated into cash within a few days.
+
+(2) The five-year credit facility for $2.0 billion and the 364-day credit facility for $1.5 billion, maturing August 2023 and August 2020, respectively, are maintained primarily to provide backup liquidity for our commercial paper borrowings and general corporate purposes. At December 31, 2019, we had $660 million of commercial paper outstanding, which effectively reduced the available capacity under our revolving credit facilities to $2.8 billion.
+
+Cash, Cash Equivalents and Marketable Securities
+
+A significant portion of our cash flows is generated outside the U.S. We manage our worldwide cash requirements considering available funds among the many subsidiaries through which we conduct our business and the cost effectiveness with which those funds can be accessed. As a result, we do not anticipate any local liquidity restrictions to preclude us from funding our operating needs with local resources.
+
+Debt Facilities and Other Sources of Liquidity
+
+On August 21, 2019, we entered into an amended and restated 364-day credit agreement that allows us to borrow up to $1.5 billion of unsecured funds at any time through August 18, 2020. This credit agreement amends and restates the prior $1.5 billion 364-day credit facility that matured on August 21, 2019.
+
+We have access to committed credit facilities that total $3.5 billion, including the new $1.5 billion 364-day facility that expires August 19, 2020 and a $2.0 billion five-year facility that expires on August 22, 2023. We intend to maintain credit facilities of a similar aggregate amount by renewing or replacing these facilities before expiration. These revolving credit facilities are maintained primarily to provide backup liquidity for our commercial paper borrowings and for general corporate purposes. Both credit agreements include a financial covenant requiring that the leverage ratio of net debt of the company and its subsidiaries to the consolidated total capital of the company and its subsidiaries may not exceed 0.65 to 1.0. At December 31, 2019, our leverage ratio was 0.12 to 1.0. 
+
+We can issue up to $3.5 billion of unsecured, short-term promissory notes (commercial paper) pursuant to the Board authorized commercial paper programs. The programs facilitate the private placement of unsecured short-term debt through third-party brokers. We intend to use the net proceeds from the commercial paper borrowings for general corporate purposes. The total combined borrowing capacity under the revolving credit facilities and commercial paper programs should not exceed $3.5 billion. See Note 11, "DEBT," to our Consolidated Financial Statements for additional information.
+
+As a well-known seasoned issuer, we filed an automatic shelf registration for an undetermined amount of debt and equity securities with the SEC on February 13, 2019. Under this shelf registration we may offer, from time to time, debt securities, common stock, preferred and preference stock, depositary shares, warrants, stock purchase contracts and stock purchase units.
+
+In July 2017, the U.K.'s Financial Conduct Authority, which regulates the London Interbank Offered Rate (LIBOR), announced that it intends to phase out LIBOR by the end of 2021. Various central bank committees and working groups continue to discuss replacement of benchmark rates, the process for amending existing LIBOR-based contracts, and the potential economic impacts of different alternatives. The Alternative Reference Rates Committee has identified the Secured Overnight Financing Rate (SOFR) as its preferred alternative rate for USD LIBOR. SOFR is a measure of the cost of borrowing cash overnight, collateralized by U.S. Treasury securities, and is based on directly observable U.S. Treasury-backed repurchase transactions. 
+
+48
+We are evaluating the potential impact of the replacement of the LIBOR benchmark interest rate including risk management, internal operational readiness and monitoring the Financial Accounting Standards Board standard-setting process to address financial reporting issues that might arise in connection with transition from LIBOR to a new benchmark rate. 
+
+Supply Chain Financing
+
+We currently have supply chain financing programs with financial intermediaries, which provide certain vendors the option to be paid by financial intermediaries earlier than the due date on the applicable invoice. When a vendor utilizes the program and receives an early payment from a financial intermediary, they take a discount on the invoice. We then pay the financial intermediary the face amount of the invoice on the regularly scheduled due date. We do not reimburse vendors for any costs they incur for participation in the program and their participation is completely voluntary. As a result, all amounts owed to the financial intermediaries are presented as "Accounts payable" in our Consolidated Balance Sheets.
+
+Uses of Cash
+
+Stock Repurchases
+
+In December 2019, the Board authorized the acquisition of up to $2.0 billion of additional common stock upon completion of the 2018 repurchase plan. In October 2018, the Board authorized the acquisition of up to $2.0 billion of additional common stock. For the year ended December 31, 2019, we made the following purchases under the 2018 stock repurchase program:
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) The remaining authorized capacity under these plans was calculated based on the cost to purchase the shares but excludes commission expenses in accordance with the authorized plan.
+
+We intend to repurchase outstanding shares from time to time during 2020 to enhance shareholder value and to offset the dilutive impact of employee stock-based compensation plans.
+
+Dividends
+
+Total dividends paid to common shareholders in 2019, 2018 and 2017 were $761 million, $718 million and $701 million, respectively. Declaration and payment of dividends in the future depends upon our income and liquidity position, among other factors, and is subject to declaration by the Board, who meet quarterly to consider our dividend payment. We expect to fund dividend payments with cash from operations.
+
+•In July 2019, the Board authorized an increase to our quarterly dividend of 15 percent from $1.14 per share to $1.311 per share. 
+
+•In July 2018, the Board authorized an increase to our quarterly dividend of 5.6 percent from $1.08 per share to $1.14 per share. 
+
+•In July 2017, the Board authorized an increase to our quarterly dividend of 5.4 percent from $1.025 per share to $1.08 per share. 
+
+Cash dividends per share paid to common shareholders for the last three years were as follows:
+
+[DATA_TABLE_REMOVED]
+
+49
+Acquisition
+
+On September 9, 2019, we acquired an 81 percent interest in Hydrogenics Corporation for total consideration of $235 million. The Hydrogen Company, a wholly-owned subsidiary of L’Air Liquide, S.A., will maintain a 19 percent noncontrolling interest in Hydrogenics Corporation. See Note 21, "ACQUISITIONS," to the Consolidated Financial Statements for additional information.
+
+Restructuring Actions
+
+In November 2019, we announced our intentions to reduce our global workforce in response to the continued deterioration in our global markets in the second half of 2019, as well as expected reductions in orders in most U.S. and international markets in 2020. In the fourth quarter of 2019, we began executing restructuring actions, primarily in the form of voluntary and involuntary employee separation programs. We incurred a charge of $119 million ($90 million after-tax) in the fourth quarter of 2019 for these actions which impacted approximately 2,300 employees. We expect to incur $116 million in cash payments in 2020. See Note 4, "RESTRUCTURING ACTIONS," to the Consolidated Financial Statements, for additional information. 
+
+Capital Expenditures
+
+Capital expenditures, including spending on internal use software, were $775 million, $784 million and $587 million in 2019, 2018 and 2017, respectively. We continue to invest in new product lines and targeted capacity expansions. We plan to spend an estimated $675 million to $700 million in 2020 on capital expenditures as we continue with product launches and facility improvements. Approximately 50 percent of our capital expenditures are expected to be invested outside of the U.S. in 2020. In addition, we plan to spend an estimated $70 million to $80 million on internal use software in 2020. 
+
+Pensions
+
+The funded status of our pension plans is dependent upon a variety of variables and assumptions including return on invested assets, market interest rates and levels of voluntary contributions to the plans. In 2019, the investment gain on our U.S. pension trust was 17.6 percent while our U.K. pension trust gain was 10.9 percent. Approximately 73 percent of our pension plan assets are held in highly liquid investments such as fixed income and equity securities. The remaining 27 percent of our plan assets are held in less liquid, but market valued investments, including real estate, private equity, venture capital, opportunistic credit and insurance contracts.
+
+We sponsor funded and unfunded domestic and foreign defined benefit pension plans. Contributions to the U.S. and U.K. plans were as follows:
+
+[DATA_TABLE_REMOVED]
+
+We anticipate making total contributions of approximately $100 million to our defined benefit pension plans in 2020. Expected contributions to our defined benefit pension plans in 2020 will meet or exceed the current funding requirements.
+
+Current Maturities of Short and Long-Term Debt
+
+We had $660 million of commercial paper outstanding at December 31, 2019, that matures in less than one year. The maturity schedule of our existing long-term debt does not require significant cash outflows until 2023 when our 3.65% senior notes are due. Required annual long-term debt principal payments range from $5 million to $506 million over the next five years. See Note 11, "DEBT," to the Consolidated Financial Statements for additional information.
+
+50
+Credit Ratings
+
+Our ratings and outlook from each of the credit rating agencies as of the date of filing are shown in the table below. 
+
+[DATA_TABLE_REMOVED]
+
+____________________________________
+
+(1) Credit ratings are not recommendations to buy, are subject to change, and each rating should be evaluated independently of any other rating. In addition, we undertake no obligation to update disclosures concerning our credit ratings, whether as a result of new information, future events or otherwise. 
+
+Management's Assessment of Liquidity
+
+Our financial condition and liquidity remain strong. Our solid balance sheet and credit ratings enable us to have ready access to credit and the capital markets. We assess our liquidity in terms of our ability to generate adequate cash to fund our operating, investing and financing activities. We believe our operating cash flow and liquidity provide us with the financial flexibility needed to fund working capital, common stock repurchases, acquisitions, capital expenditures, dividend payments, projected pension obligations, debt service obligations and restructuring actions. We continue to generate significant cash from operations and maintain access to our revolving credit facilities and commercial paper programs as noted above.
+
+51
+CONTRACTUAL OBLIGATIONS AND OTHER COMMERCIAL COMMITMENTS 
+
+A summary of our contractual obligations and other commercial commitments at December 31, 2019, are as follows: 
+
+[DATA_TABLE_REMOVED]
+
+ ___________________________________________________________ 
+
+(1) Includes principal payments and expected interest payments based on the terms of the obligations.  
+
+The contractual obligations reported above exclude our unrecognized tax benefits of $77 million as of December 31, 2019. We are not able to reasonably estimate the period in which cash outflows relating to uncertain tax contingencies could occur. See Note 5, "INCOME TAXES," to the Consolidated Financial Statements for additional information. 
+
+APPLICATION OF CRITICAL ACCOUNTING ESTIMATES 
+
+A summary of our significant accounting policies is included in Note 1, "SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES," of our Consolidated Financial Statements which discusses accounting policies that we have selected from acceptable alternatives.
+
+Our Consolidated Financial Statements are prepared in accordance with generally accepted accounting principles in the U.S. (GAAP) which often requires management to make judgments, estimates and assumptions regarding uncertainties that affect the reported amounts presented and disclosed in the financial statements. Management reviews these estimates and assumptions based on historical experience, changes in business conditions and other relevant factors they believe to be reasonable under the circumstances. In any given reporting period, our actual results may differ from the estimates and assumptions used in preparing our Consolidated Financial Statements.
+
+Critical accounting estimates are defined as follows: the estimate requires management to make assumptions about matters that were highly uncertain at the time the estimate was made; different estimates reasonably could have been used; or if changes in the estimate are reasonably likely to occur from period to period and the change would have a material impact on our financial condition or results of operations. Our senior management has discussed the development and selection of our accounting policies, related accounting estimates and the disclosures set forth below with the Audit Committee of the Board. We believe our critical accounting estimates include estimating liabilities for warranty programs, accounting for income taxes and pension benefits and assessing goodwill impairments.
+
+52
+Warranty Programs
+
+We estimate and record a liability for base warranty programs at the time our products are sold. Our estimates are based on historical experience and reflect management's best estimates of expected costs at the time products are sold and subsequent adjustment to those expected costs when actual costs differ. As a result of the uncertainty surrounding the nature and frequency of product recall programs, the liability for such programs is recorded when we commit to a recall action or when a recall becomes probable and estimable, which generally occurs when it is announced. Our warranty liability is generally affected by component failure rates, repair costs and the point of failure within the product life cycle. Future events and circumstances related to these factors could materially change our estimates and require adjustments to our liability. New product launches require a greater use of judgment in developing estimates until historical experience becomes available. Product specific experience is typically available four or five quarters after product launch, with a clear experience trend evident eight quarters after launch. We generally record warranty expense for new products upon shipment using a preceding product's warranty history and a multiplicative factor based upon preceding similar product experience and new product assessment until sufficient new product data is available for warranty estimation. We then use a blend of actual new product experience and preceding product historical experience for several subsequent quarters, and new product specific experience thereafter. Note 12, "PRODUCT WARRANTY LIABILITY," to our Consolidated Financial Statements contains a summary of the activity in our warranty liability account for 2019, 2018 and 2017 including adjustments to pre-existing warranties.
+
+Accounting for Income Taxes
+
+We determine our income tax expense using the asset and liability method. Under this method, deferred tax assets and liabilities are recognized for the future tax effects of temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Future tax benefits of net operating loss and credit carryforwards are also recognized as deferred tax assets. We evaluate the recoverability of our deferred tax assets each quarter by assessing the likelihood of future profitability and available tax planning strategies that could be implemented to realize our net deferred tax assets. At December 31, 2019, we recorded net deferred tax assets of $135 million. The assets included $364 million for the value of net operating loss and credit carryforwards. A valuation allowance of $317 million was recorded to reduce the tax assets to the net value management believed was more likely than not to be realized. In the event our operating performance deteriorates, future assessments could conclude that a larger valuation allowance will be needed to further reduce the deferred tax assets.
+
+In addition, we operate within multiple taxing jurisdictions and are subject to tax audits in these jurisdictions. These audits can involve complex issues, which may require an extended period of time to resolve. We accrue for the estimated additional tax and interest that may result from tax authorities disputing uncertain tax positions. We have taken and we believe we have made adequate provisions for income taxes for all years that are subject to audit based upon the latest information available. A more complete description of our income taxes and the future benefits of our net operating loss and credit carryforwards is disclosed in Note 5, "INCOME TAXES," to our Consolidated Financial Statements.
+
+Pension Benefits
+
+We sponsor a number of pension plans globally, with the majority of assets in the U.S. and the U.K. In the U.S. and the U.K., we have several major defined benefit plans that are separately funded. We account for our pension programs in accordance with employers' accounting for defined benefit pension plans under GAAP. GAAP requires that amounts recognized in financial statements be determined using an actuarial basis. As a result, our pension benefit programs are based on a number of statistical and judgmental assumptions that attempt to anticipate future events and are used in calculating the expense and liability related to our plans each year at December 31. These assumptions include discount rates used to value liabilities, assumed rates of return on plan assets, future compensation increases, employee turnover rates, actuarial assumptions relating to retirement age, mortality rates and participant withdrawals. The actuarial assumptions we use may differ significantly from actual results due to changing economic conditions, participant life span and withdrawal rates. These differences may result in a material impact to the amount of net periodic pension cost to be recorded in our Consolidated Financial Statements in the future.
+
+The expected long-term return on plan assets is used in calculating the net periodic pension cost. We considered several factors in developing our expected rate of return on plan assets. The long-term rate of return considers historical returns and expected returns on current and projected asset allocations. Projected returns are based primarily on broad, publicly traded passive fixed income and equity indices and forward-looking estimates of the value added by active investment management. At December 31, 2019, based upon our target asset allocations, it is anticipated that our U.S. investment policy will generate an average annual return over the 30-year projection period equal to or in excess of 6.25 percent, including the additional positive returns expected from active investment management. 
+
+53
+The one-year return for our U.S. plans was 17.6 percent for 2019. Our U.S. plan assets have averaged annualized returns of 9.77 percent over the prior ten years and resulted in approximately $490 million of actuarial gains in accumulated other comprehensive income (AOCI) in the same period. Based on the historical returns and forward-looking return expectations as plan assets continue to be de-risked, consistent with our investment policy, we believe an investment return assumption of 6.25 percent per year in 2020 for U.S. pension assets is reasonable.
+
+The methodology used to determine the rate of return on pension plan assets in the U.K. was based on establishing an equity-risk premium over current long-term bond yields adjusted based on target asset allocations. At December 31, 2019, based upon our target asset allocations, it is anticipated that our U.K. investment policy will generate an average annual return over the 20-year projection period equal to or in excess of 4 percent. The one-year return for our U.K. plans was 10.9 percent for 2019. We have generated average annualized returns of 9.13 percent over ten years, resulting in approximately $580 million of actuarial gains in AOCI. Our strategy with respect to our investments in pension plan assets is to be invested with a long-term outlook. Based on the historical returns and forward-looking return expectations as the plan assets continue to be de-risked, we believe an investment return assumption of 4.0 percent in 2020 for U.K. pension assets is reasonable. Our pension plan asset allocations at December 31, 2019 and 2018 and target allocation for 2020 are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The differences between the actual return on plan assets and expected long-term return on plan assets are recognized in the asset value used to calculate net periodic cost over five years. The table below sets forth the expected return assumptions used to develop our pension cost for the period 2017-2019 and our expected rate of return for 2020.
+
+[DATA_TABLE_REMOVED]
+
+GAAP for pensions offers various acceptable alternatives to account for the differences that eventually arise between the estimates used in the actuarial valuations and the actual results. It is acceptable to delay or immediately recognize these differences. Under the delayed recognition alternative, changes in pension obligations (including those resulting from plan amendments) and changes in the value of assets set aside to meet those obligations are not recognized in net periodic pension cost as they occur but are recognized initially in accumulated other comprehensive loss (AOCL) and subsequently amortized as components of net periodic pension cost systematically and gradually over future periods. In addition to this approach, GAAP also allows immediate recognition of actuarial gains or losses. Immediate recognition introduces volatility in financial results. We have chosen to delay recognition and amortize actuarial differences over future periods. If we adopted the immediate recognition approach, we would record a loss of $963 million ($762 million after-tax) from cumulative actuarial net losses for our U.S. and U.K. pension plans.
+
+The difference between the expected return and the actual return on plan assets is deferred from recognition in our results of operations and under certain circumstances, such as when the difference exceeds 10 percent of the greater of the market value of plan assets or the projected benefit obligation, the difference is amortized over future years of service. This is also true of changes to actuarial assumptions. Under GAAP, the actuarial gains and losses are recognized and recorded in AOCL. At December 31, 2019, we had net pension actuarial losses of $611 million and $323 million for the U.S. and U.K. pension plans, respectively. As these amounts exceed 10 percent of their respective plan assets, the excess is amortized over the average remaining service lives of participating employees. Net actuarial losses decreased our shareholders' equity by $85 million after-tax in 2019. The loss is primarily due to lower discount rates in the U.S. and U.K, partially offset by strong asset returns in the U.S. and U.K.
+
+The table below sets forth the net periodic pension cost for the years ended December 31 and our expected cost for 2020.
+
+[DATA_TABLE_REMOVED]
+
+54
+We expect 2020 net periodic pension cost to increase compared to 2019, primarily due to lower discount rates in the U.S. and U.K. The decrease in net periodic pension cost in 2019 compared to 2018 was primarily due to higher discount rates and favorable actuarial experience in the U.S. and U.K., partially offset by a lower expected rate of return in the U.S. The increase in net periodic pension cost in 2018 compared to 2017 was due to a lower expected rate of return in the U.S. and U.K. as we de-risked plan trust assets, partially offset by reduced loss amortization in the U.S. and U.K. 
+
+The weighted-average discount rates used to develop our net periodic pension cost are set forth in the table below.
+
+[DATA_TABLE_REMOVED]
+
+The discount rate enables us to state expected future cash payments for benefits as a present value on the measurement date. The guidelines for setting this rate are discussed in GAAP which suggests the use of a high-quality corporate bond rate. We used bond information provided by Moody's Investor Services, Inc. and Standard & Poor's Rating Services. All bonds used to develop our hypothetical portfolio in the U.S. and U.K. were deemed high-quality, non-callable bonds (Aa or better) at December 31, 2019, by at least one of the bond rating agencies.
+
+Our model called for projected payments until near extinction for the U.S. and the U.K. For both countries, our model matches the present value of the plan's projected benefit payments to the market value of the theoretical settlement bond portfolio. A single equivalent discount rate is determined to align the present value of the required cash flow with the value of the bond portfolio. The resulting discount rate is reflective of both the current interest rate environment and the plan's distinct liability characteristics.
+
+The table below sets forth the estimated impact on our 2020 net periodic pension cost relative to a change in the discount rate and a change in the expected rate of return on plan assets.
+
+[DATA_TABLE_REMOVED]
+
+The above sensitivities reflect the impact of changing one assumption at a time. A higher discount rate decreases the plan obligations and decreases our net periodic pension cost. A lower discount rate increases the plan obligations and increases our net periodic pension cost. It should be noted that economic factors and conditions often affect multiple assumptions simultaneously and the effects of changes in key assumptions are not necessarily linear. Note 13, "PENSIONS AND OTHER POSTRETIREMENT BENEFITS," to our Consolidated Financial Statements provides a summary of our pension benefit plan activity, the funded status of our plans and the amounts recognized in our Consolidated Financial Statements.
+
+Goodwill Impairment
+
+We are required to make certain subjective and complex judgments in assessing whether a goodwill impairment event has occurred, including assumptions and estimates used to determine the fair value of our reporting units. We test for goodwill impairment at the reporting unit level and our reporting units are the operating segments or the components of operating segments that constitute businesses for which discrete financial information is available and is regularly reviewed by management. 
+
+Under GAAP for goodwill, we have the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value as a basis for determining whether it is necessary to perform an annual quantitative goodwill impairment test. We have elected this option on certain reporting units. The following events and circumstances are considered when evaluating whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount:
+
+55
+•Macroeconomic conditions, such as a deterioration in general economic conditions, fluctuations in foreign exchange rates and/or other developments in equity and credit markets;
+
+•Industry and market considerations, such as a deterioration in the environment in which an entity operates, material loss in market share and significant declines in product pricing;
+
+•Cost factors, such as an increase in raw materials, labor or other costs;
+
+•Overall financial performance, such as negative or declining cash flows or a decline in actual or forecasted revenue;
+
+•Other relevant entity-specific events, such as material changes in management or key personnel and
+
+•Events affecting a reporting unit, such as a change in the composition or carrying amount of its net assets including acquisitions and dispositions.
+
+The examples noted above are not all-inclusive, and we consider other relevant events and circumstances that affect the fair value of a reporting unit in determining whether to perform the quantitative goodwill impairment test.
+
+Our goodwill recoverability assessment is based on our annual strategic planning process. This process includes an extensive review of expectations for the long-term growth of our businesses and forecasted future cash flows. Our valuation method is an income approach using a discounted cash flow model in which cash flows anticipated over several periods, plus a terminal value at the end of that time horizon, are discounted to their present value using an appropriate rate of return. Our estimates are based upon our historical experience, our current knowledge from our commercial relationships and available external information about future trends. 
+
+The discounted cash flow model requires us to make projections of revenue, gross margin, operating expenses, working capital investment and fixed asset additions for the reporting units over a multi-year period. Additionally, management must estimate a weighted-average cost of capital, which reflects a market rate, for each reporting unit for use as a discount rate. The discounted cash flows are compared to the carrying value of the reporting unit and, if less than the carrying value, the difference is recorded as a goodwill impairment loss. In addition, we also perform a sensitivity analysis to determine how much our forecasts can fluctuate before the fair value of a reporting unit would be lower than its carrying amount. We perform the required procedures as of the end of our fiscal third quarter. While none of our reporting units recorded a goodwill impairment in 2019, we determined the automated transmission business is our only reporting unit with material goodwill where the estimated fair value does not substantially exceed the carrying value. The estimated fair value of the reporting unit exceeds its carrying amount of $1.2 billion by approximately 34 percent. Total goodwill in this reporting unit is $544 million. This reporting unit is made up of only one business, our joint venture with Eaton (Eaton Cummins Automated Transmission Technologies), which was acquired and recorded at fair value in the third quarter of 2017. As a result, we did not expect the estimated fair value would exceed the carrying value by a significant amount. We valued this reporting unit primarily using an income approach based on its expected future cash flows. The critical assumptions that factored into the valuation are the projected future revenues and EBITDA margins of the business as well as the discount rate used to present value these future cash flows. A 100 basis point increase in the discount rate would result in a 17 percent decline in the fair value of the reporting unit.
+
+RECENTLY ADOPTED AND RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+See Note 1, "SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES", to our Consolidated Financial Statements for additional information.
+
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk

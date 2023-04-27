@@ -1,0 +1,13 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to the impact of changes in foreign currency exchange rates. Our objective in managing exposure to foreign currency is to reduce the volatility in earnings and cash flows associated with fluctuations in foreign currency exchange rates on transactions denominated in foreign currencies. Accordingly, we enter into forward contracts, which are intended to offset the corresponding change in value of the underlying external and intercompany transactions. The principal currencies actively hedged are the British Pound, Canadian Dollar and the Euro.
+
+We are also exposed to changes in interest rates. At December 31, 2020, 46% of our debt was variable rate obligations, compared to 14% in 2019. To mitigate our exposure to changing interest rates, we may enter into interest rate swap agreements to effectively convert a portion of our variable rate debt to fixed rate. The weighted average interest rate of variable debt at December 31, 2020 and 2019 was 4.5% and 3.6%, respectively. A one-percentage point change in the effective interest rate of our variable rate debt at December 31, 2020 would have reduced pre-tax income by $7 million. 
+
+We employ established policies and procedures governing the use of financial instruments to manage our exposure to such risks and do not enter into foreign currency or interest rate transactions for speculative purposes.
+
+We utilize a "Value-at-Risk" (VaR) model to determine the potential loss in fair value from changes in market conditions. The VaR model utilizes a Monte Carlo simulation approach and assumes normal market conditions, a 95% confidence level and a one-day holding period. The model includes our public debt, interest rate swaps and foreign exchange derivative contracts, but excludes anticipated transactions, firm commitments and accounts receivables and payables denominated in foreign currencies, which certain of these instruments are intended to hedge. The VaR model is a risk analysis tool and does not purport to represent actual losses in fair value that will be incurred, nor does it consider the potential effect of favorable changes in market factors.
+
+During 2020 and 2019, our maximum potential one-day loss in fair value of our exposure to foreign exchange rates and interest rates, was not material.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

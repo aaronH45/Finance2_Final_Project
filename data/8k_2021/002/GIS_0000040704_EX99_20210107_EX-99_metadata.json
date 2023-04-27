@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000040704",
+    "sec_company_name": "GENERAL MILLS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210107",
+    "sec_filing_date": "20210107",
+    "sec_changed_date": "20210107",
+    "sec_accepted_date": "20210107161332",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/40704/000156459021000567/0001564590-21-000567-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/40704/000156459021000567/0001564590-21-000567.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\GIS_0000040704_EX99_20210107_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "75653 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18572,
+    "endpoints": [
+        "gis-ex99_15.htm     ",
+        "This press release contains forward-looking statements that are based on General Mills’ current expectations and assumptions. The words or phrases “will likely result,” “are expected to,” “will continue,” “is anticipated,” “estimate,” “plan,” “project,” or similar expressions identify forward-looking statements. These forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from the potential results discussed in the forward-looking statements, including risks and uncertainties related to the acceptance of any tendered Existing Notes, the expiration and settlement of the Exchanges Offer, the satisfaction of conditions to the Exchange Offer, whether the Exchange Offer will be consummated in accordance with the terms set forth in the Offering Memorandum or at all and the timing of any of the foregoing, as well as the risk factors disclosed in General Mills’ Annual Report on Form 10-K for the fiscal year ended May 31, 2020, filed with the Securities and Exchange Commission on July 2, 2020. General Mills undertakes no obligation to publicly revise any forward-looking statement to reflect any future events or circumstances, except as may be required by applicable law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GIS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\GIS_0000040704_EX99_20210107_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:01:19.373463"
+}

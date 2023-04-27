@@ -1,0 +1,83 @@
+Form 8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 OR 15(d)  
+
+of The Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): February 15, 2018 (February 11, 2018)  
+
+Broadcom Limited  
+
+Broadcom Cayman L.P.  
+
+(Exact name of registrants as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrants’ telephone number, including area code: (65) 6755-7888  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ☒ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☒ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2).  
+
+Emerging Growth Company ☐  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+ Item 1.01. Entry into a Material Definitive Agreement  
+
+Note Purchase Agreement  
+
+Broadcom Limited, a Delaware corporation (“New Broadcom”), and Broadcom Limited, a company incorporated in the Republic of Singapore (“Broadcom Singapore”), have entered into a note purchase agreement with investment funds affiliated with each of Silver Lake Partners and Kohlberg Kravis Roberts & Co. L.P. and an investment vehicle to be owned by funds advised by affiliates of CVC Capital Partners Advisory (U.S.) Inc., pursuant to which such investors agreed to purchase $6.0 billion in aggregate principal amount of 3.00% convertible senior notes to be issued by New Broadcom. The obligations of New Broadcom to issue the convertible notes and of the investors to purchase the convertible notes are contingent on the satisfaction or waiver of customary and limited conditions, as well as a requirement that the proposed acquisition of Qualcomm Incorporated (“Qualcomm”) will be consummated substantially simultaneously with the closing of the convertible notes issuance, and New Broadcom having received, or that substantially simultaneously with the closing of the convertible notes issuance New Broadcom will receive, the proceeds of the debt financing contemplated by the commitment letter described in Item 8.01 hereof in an amount sufficient (together with the proceeds of the convertible notes) to consummate the acquisition.  
+
+The note purchase agreement provides that the notes will be issued under an indenture between New Broadcom and a trustee and will bear interest at a rate of 3.00% per annum, payable semiannually in cash. The convertible notes will mature seven years from the date of issuance of the notes, subject to earlier conversion, redemption or repurchase. The initial conversion rate for the convertible notes is 3.5415 New Broadcom shares and cash in lieu of any fractional New Broadcom shares, per $1,000 principal amount of convertible notes, which is equivalent to an initial conversion price of approximately $282.37 per New Broadcom share. The conversion rate will be subject to adjustment from time to time upon the occurrence of specified events. Subject to the satisfaction of certain conditions, holders of the convertible notes may surrender their convertible notes for conversion at any time prior to the close of business on the second trading day immediately preceding the maturity date for the convertible notes. Upon conversion, New Broadcom may, at its discretion, settle such conversion by delivery of cash, New Broadcom shares or a combination thereof, as provided in the indenture.  
+
+The convertible notes will be New Broadcom’s general, senior unsecured obligations and will effectively be subordinated to all of New Broadcom’s existing and future secured debt, to the extent of the assets securing such debt, and guaranteed debt, and are structurally subordinated to all liabilities of New Broadcom’s subsidiaries, including trade payables. The indenture will not limit the amount of indebtedness that New Broadcom or any of its subsidiaries may incur. Holders of the convertible notes may require New Broadcom to repurchase the convertible notes upon the occurrence of certain fundamental changes at a fundamental change purchase price equal to 100% of the principal amount of the convertible notes to be purchased, plus accrued and unpaid interest, if any. The indenture will provide that at any time following the fourth anniversary of the date of issuance of the convertible notes, New Broadcom may elect to redeem the convertible notes if the closing sale price of the New Broadcom shares for 20 or more trading days in the period of 30 consecutive trading days ending on the trading day immediately prior to the date on which New Broadcom provides notice of such redemption exceeds 140% of the applicable conversion price in effect on each such trading day. The redemption price will be payable in cash and will equal the sum of 100% of the principal amount of the convertible notes being redeemed, plus accrued and unpaid interest, if any. The indenture will include customary “events of default”, which may result in the acceleration of the maturity of the convertible notes under the indenture. The indenture will also include customary covenants for convertible notes.  
+
+New Broadcom and the holders of convertible notes will also enter into a registration rights agreement pursuant to which the holders of convertible notes will have certain registration rights with respect to the convertible notes and the New Broadcom shares issuable upon conversion of the convertible notes.  
+
+The foregoing description of the Note Purchase Agreement and the transactions contemplated thereby is not complete and is subject to, and qualified in its entirety by reference to, the Note Purchase Agreement, a copy of which is filed with this Current Report on Form 8-K as Exhibit 99.1 and the terms of which are incorporated herein by reference.  
+
+ Item 8.01. Other Events  
+
+Committed Debt Financing  
+
+Broadcom Singapore and New Broadcom have entered into a commitment letter, dated as of February 11, 2018 (the “Commitment Letter”), with Bank of America, N.A., Citigroup Global Markets Inc., Deutsche Bank AG New York Branch, Deutsche Bank AG Cayman Islands Branch, Deutsche Bank Securities Inc., JPMorgan Chase Bank, N.A., Mizuho Bank, Ltd., Sumitomo Mitsui Banking Corporation, The Bank of Tokyo-Mitsubishi UFJ, Ltd., Wells Fargo Bank, National Association, Wells Fargo Securities, LLC, The Bank of Nova Scotia, Bank of Montreal, BMO Capital Markets Corp., Royal Bank of Canada, RBC Capital Markets and Morgan Stanley Senior Funding, Inc. (collectively, the “Commitment Parties”), pursuant to which, subject to the terms and conditions set forth therein, the Commitment Parties have committed to provide up to $100.0 billion in debt financing, including a $5 billion revolving credit facility and bridge financing. The funding of the debt facilities provided for in the Commitment Letter is contingent on the satisfaction of customary conditions, including the consummation of the proposed acquisition of Qualcomm. The proceeds of the debt financing provided for in the Commitment Letter will be used to fund the proposed acquisition of Qualcomm and post-closing working capital needs, including restructuring activities, at the combined company.  
+
+The foregoing description of the Commitment Letter and the transactions contemplated thereby is not complete and is subject to, and qualified in its entirety by reference to, the Commitment Letter, a copy of which is filed with this Current Report on Form 8-K as Exhibit 99.2 and the terms of which are incorporated herein by reference.  
+
+ Item 9.01. Financial Statements and Exhibits  
+
+ (d) Exhibits  
+
+Exhibit No.     
+
+ 99.1   Note Purchase Agreement, dated as of February 11, 2018, by and among Broadcom Limited, a company incorporated in the Republic of Singapore, Broadcom Limited, a Delaware corporation, and the Purchasers listed on Schedule I thereto  
+
+ 99.2   Commitment letter, dated as of February 11, 2018, with Bank of America, N.A., Citigroup Global Markets Inc., Deutsche Bank AG New York Branch, Deutsche Bank AG Cayman Islands Branch, Deutsche Bank Securities Inc., JPMorgan Chase Bank, N.A., Mizuho Bank, Ltd., Sumitomo Mitsui Banking Corporation, The Bank of Tokyo-Mitsubishi UFJ, Ltd., Wells Fargo Bank, National Association, Wells Fargo Securities, LLC, The Bank of Nova Scotia, Bank of Montreal, BMO Capital Markets Corp., Royal Bank of Canada, RBC Capital Markets and Morgan Stanley Senior Funding, Inc.   
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

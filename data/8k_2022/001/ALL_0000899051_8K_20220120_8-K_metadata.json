@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000899051",
+    "sec_company_name": "ALLSTATE CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220120",
+    "sec_filing_date": "20220120",
+    "sec_changed_date": "20220120",
+    "sec_accepted_date": "20220120080032",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/899051/000089905122000004/0000899051-22-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/899051/000089905122000004/0000899051-22-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ALL_0000899051_8K_20220120_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "54244 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2983,
+    "endpoints": [
+        "xml version='1.0' ? all-20220120",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ALL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ALL_0000899051_8K_20220120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:22:50.228540"
+}

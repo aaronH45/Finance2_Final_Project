@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000027904",
+    "sec_company_name": "DELTA AIR LINES INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180103",
+    "sec_filing_date": "20180103",
+    "sec_changed_date": "20180103",
+    "sec_accepted_date": "20180103090013",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316818000029/0001683168-18-000029-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316818000029/0001683168-18-000029.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\DAL_0000027904_EX991_20180103_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13921 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10997,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "3 Operating Margin, adjusted. We adjust for MTM adjustments and settlements to determine operating margin, adjusted, as described below. Adjusting for this item allows investors to understand and analyze our core operational performance in the period shown . MTM adjustments and settlements. MTM adjustments are defined as fair value changes recorded in periods other than the settlement period. Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract se ttlement period. Settlements represent cash received or paid on hedge contracts settled during the period. These items adjust fuel expense to sho w the economic impact of hedging, including cash received or paid on hedge contracts during the period. Non - Fuel Unit Cost or Cost per Available Seat Mile, Including Profit Sharing ('CASM - Ex'). We adjust CASM for the following items to determine CASM - Ex, for the reasons described below : Aircraft fuel and related taxes. The volatility in fuel prices impacts the comparability of year - over - year financial performance. The adjustment for aircraft fuel and related taxes (including our regional carriers) allows investors to understand and analyze our non - fuel costs and year - over - year financial performance. Other expenses. Other expenses include aircraft maintenance and staffing services we provide to third parties, our vacation wholesale operations and refinery cost of sales to third parties. Because these businesses are not related to the generation of a seat mil e, we adjust for the costs related to these sales to provide a more meaningful comparison of the costs of our airline operations to the rest of th e a irline industry . Pilot contract impact, normalized. Delta’s new pilot contract was ratified on December 1, 2016 and was retroactive to January 1, 2016. As a result, Delta recognized $380 million in retroactive wages and other benefits in the December 2016 quarter that were related to previous quarters. Average Fuel Price Per Gallon, Adjusted. We adjust for MTM adjustments and settlements to determine average fuel price per gallon, adjusted for the same reason described above under the heading Operating Margin, adjusted. Pre - tax Income, Adjusted, Excluding Profit Sharing. We adjust for MTM adjustments and settlements for the same reason described above under the heading Operating Margin, adjusted, and we adjust for Virgin Atlantic's MTM adjustments to allow investors to under sta nd and analyze the company’s core financial performance in the periods shown. We record our proportionate share of earnings from our eq uity investment in Virgin Atlantic in non - operating expense. Year Ended (in millions) December 31, 2016 Pre-tax income 6,636$ Adjusted for: MTM adjustments and settlements (450) Virgin Atlantic MTM adjustments (115) Total adjustments (565) Pre-tax Income, adjusted 6,071$ Profit sharing 1,115 Pre-Tax Income, adjusted, excluding profit sharing 7,186$ (Projected) Three Months Ended Three Months Ended December 31, 2017 December 31, 2016 14.86 - 14.96 14.37 (3.02) (2.54) (0.70) (0.58) 11.14 - 11.24 11.25 Year-over-year change Down 1% - flat - (0.65) 11.14 - 11.24 10.60 Year-over-year change Up ~5.5% Adjusted for: Pilot contract impact, normalized CASM-Ex, adjusted for pilot contract impact, normalized CASM (cents) Adjusted for: Aircraft fuel and related taxes Other expenses CASM-Ex $ 1.88 - 1.90 0.04 - 0.07 $$ 1.92 - 1.97 Average fuel price per gallon MTM adjustments and settlements Total fuel price per gallon, adjusted (Projected) Three Months Ended December 31, 2017 (Projected) Three Months Ended December 31, 2017 ~12% ~(1)% ~11%Operating margin, adjusted Operating margin Adjusted for: MTM adjustments and settlements"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\DAL_0000027904_EX991_20180103_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:21:13.566338"
+}

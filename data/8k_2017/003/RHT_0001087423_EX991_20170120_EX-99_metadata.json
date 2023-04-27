@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001087423",
+    "sec_company_name": "RED HAT INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170120",
+    "sec_filing_date": "20170125",
+    "sec_changed_date": "20170125",
+    "sec_accepted_date": "20170125163055",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1087423/000119312517018066/0001193125-17-018066-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1087423/000119312517018066/0001193125-17-018066.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\RHT_0001087423_EX991_20170120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "32816 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18749,
+    "endpoints": [
+        "EX-99.1   ",
+        "8"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RHT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\RHT_0001087423_EX991_20170120_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:10:10.451443"
+}

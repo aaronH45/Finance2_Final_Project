@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001359841",
+    "sec_company_name": "Hanesbrands Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170210",
+    "sec_filing_date": "20170210",
+    "sec_changed_date": "20170210",
+    "sec_accepted_date": "20170210160436",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984117000042/0001359841-17-000042-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984117000042/0001359841-17-000042.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\HBI_0001359841_EX991_20170210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "68925 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 33529,
+    "endpoints": [
+        "hbifaq02102017final  ",
+        "8 See Table 2 and Table 5 attached to our press release dated February 2, 2017 to reconcile historical quarterly and full‐year non‐GAAP performance measures to the most directly comparable GAAP measure. Full‐year GAAP operating profit guidance of $845 million to $895 million and GAAP EPS guidance of $1.70 to $1.82 reflects Hanes’ expectations for net sales, operating profit, interest expense, and tax rate from continuing operations as detailed in this FAQ document. Full‐year Non‐GAAP adjusted operating profit guidance of $935 million to $975 million and adjusted EPS guidance of $1.93 to $2.03 reflects the GAAP guidance adjusted by adding back the approximately $80 million to $90 million of expected pretax charges for acquisition and integration expenses to adjusted operating profit and adjusted EPS, as well as a 2017 full‐year tax rate comparable to 2016, assuming no changes to U.S. tax law and policy. Cautionary Statement Concerning Forward‐Looking Statements These FAQs certain “forward‐looking statements,” as defined under U.S. federal securities laws, with respect to our long‐term goals and trends associated with our business, as well as guidance as to future performance. In particular, among others, statements regarding 2017 financial guidance, as well as statements about the benefits anticipated from the Hanes Europe Innerwear, Pacific Brands and Champion Europe acquisitions, and assumptions regarding consumer behavior, foreign exchange rates and U.S. tax law and policy are forward‐looking statements. These forward‐looking statements are based on our current intent, beliefs, plans and expectations. Readers are cautioned not to place any undue reliance on any forward‐looking statements. Forward‐looking statements necessarily involve risks and uncertainties, many of which are outside of our control, that could cause actual results to differ materially from such statements and from our historical results and experience. These risks and uncertainties include such things as: the highly competitive and evolving nature of the industry in which we compete; any inadequacy, interruption, integration failure or security failure with respect to our information technology; significant fluctuations in foreign exchange rates; ; the rapidly changing retail environment; our complex multinational tax structure our ability to properly manage strategic projects; our ability to attract and retain a senior management team with the core competencies needed to support our growth in global markets; risks related to our international operations, including the impact to our business as a result of the United Kingdom’s recent referendum to leave the European Union; the impact of significant fluctuations and volatility in various input costs, such as cotton and oil‐related materials, utilities, freight and wages; our ability to access sufficient capital at reasonable rates or commercially reasonable terms or to maintain sufficient liquidity in the amounts and at the times needed; and other risks identified from time to time in our most recent Securities and Exchange Commission reports, including our annual report on Form 10‐K and quarterly reports on Form 10‐Q. Since it is not possible to predict or identify all of the risks, uncertainties and other factors that may affect future results, the above list should not be considered a complete list. Any forward‐looking statement speaks only as of the date on which such statement is made, and we undertake no obligation to update or revise any forward‐looking statement, whether as a result of new information, future events or otherwise, other than as required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HBI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\HBI_0001359841_EX991_20170210_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:39.016341"
+}

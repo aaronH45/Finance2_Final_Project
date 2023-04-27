@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000096021",
+    "sec_company_name": "SYSCO CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160229",
+    "sec_filing_date": "20160229",
+    "sec_changed_date": "20160229",
+    "sec_accepted_date": "20160229080737",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/96021/000119312516483641/0001193125-16-483641-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/96021/000119312516483641/0001193125-16-483641.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\SYY_0000096021_EX991_20160229_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "17982 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 11434,
+    "endpoints": [
+        "EX-99.1   ",
+        " consumer spending, particularly on food-away-from-home, may decline. Market conditions may not improve. If sales from our locally managed customers do not grow at the same rate as sales from regional and national customers, our gross margins may decline. Our ability to meet our long-term strategic objectives depends largely on the success of our various business initiatives, including efforts related to revenue management, expense management, our digital e-commerce strategy and any efforts related to restructuring. There are various risks related to these efforts, including the efforts relating to our technology strategy and workforce reduction described in this release, such as the risk that these efforts may not provide the expected benefits in our anticipated time frame, if at all, and may prove costlier than expected; the risk that the actual costs of any initiatives may be greater or less than currently expected; and the risk of adverse effects to our business, results of operations and liquidity if past and future undertakings, and the associated changes to our business, do not prove to be cost effective or do not result in the cost savings and other benefits at the levels that we anticipate. Our plans related to and the timing of any initiatives are subject to change at any time based on management’s subjective evaluation of our overall business needs. If we are unable to realize the anticipated benefits from our efforts, we could become cost disadvantaged in the marketplace, and our competitiveness and our profitability could decrease. Capital expenditures and future investments in technology may vary based on changes in business plans and other factors, including risks related to the implementation of various initiatives, the timing and successful completion of acquisitions, construction schedules and the possibility that other cash requirements could result in delays or cancellations of capital spending. Periods of high inflation, either overall or in certain product categories, can have a negative impact on us and our customers, as high food costs can reduce consumer spending in the food-away-from home market, and may negatively impact our sales, gross profit, operating income and earnings, and periods of deflation can be difficult to manage effectively. Fluctuations in inflation and deflation, as well as fluctuations in the value of foreign currencies, are beyond our control and subject to broader market forces. Expanding into international markets presents unique challenges and risks, including compliance with local laws, regulations and customs and the impact of local political and economic conditions, and such expansion efforts may not be successful. Any business that we acquire may not perform as expected, and we may not realize the anticipated benefits of our acquisitions. For a discussion of additional factors impacting Sysco’s business, see the Company’s Annual Report on Form 10-K for the year ended June 27, 2015, as filed with the Securities and Exchange Commission, and the Company’s subsequent filings with the SEC. Sysco does not undertake to update its forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SYY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\SYY_0000096021_EX991_20160229_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:42:35.086494"
+}

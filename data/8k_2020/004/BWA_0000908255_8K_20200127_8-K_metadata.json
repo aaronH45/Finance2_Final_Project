@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000908255",
+    "sec_company_name": "BORGWARNER INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200127",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128064403",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/908255/000120677420000239/0001206774-20-000239-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/908255/000120677420000239/0001206774-20-000239.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\BWA_0000908255_8K_20200127_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "53976 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 16361,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?              ",
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BWA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\BWA_0000908255_8K_20200127_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:48:46.300915"
+}

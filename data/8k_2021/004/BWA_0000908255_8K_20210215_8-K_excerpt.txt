@@ -1,0 +1,101 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000908255 false        0000908255   2021-02-14 2021-02-15     0000908255  us-gaap:CommonStockMember    2021-02-14 2021-02-15     0000908255  us-gaap:SeniorNotesMember bwa:SeniorNotesDueNovember2022Member    2021-02-14 2021-02-15    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549
+
+_____________________
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+_______________________ 
+
+ Date of Report   
+
+ (Date of earliest   
+
+ event reported): February 15, 2021  
+
+ BorgWarner Inc. 
+
+ (Exact name of registrant as specified in its charter) 
+
+   [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ [ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 1.01 Entry into Material Definitive Agreements. 
+
+BorgWarner Inc., a Delaware corporation (the “Company”), entered into a Business Combination Agreement, dated February 15, 2021 (the “BCA”), by and among the Company, Blitz F21-842 AG, a stock corporation incorporated under the laws of Germany and a wholly-owned indirect subsidiary of the Company that is to be renamed “ABBA BidCo AG” (“BidCo”), and Akasol AG, a stock corporation incorporated under the laws of Germany (“Akasol” and, together with its subsidiary, the “Akasol Group”), pursuant to which the Company, indirectly through BidCo, will make a voluntary public takeover offer within the meaning of Sections 29 para. 1, 34 of the German Securities Acquisition and Takeover Act for the purchase of up to all of the 6,061,856 non-par value bearer shares with a proportionate amount of EUR 1.00 per share of the share capital of Akasol (each an “Akasol Share” and collectively “Akasol Shares”) for cash consideration per Akasol Share of €120 (the “Offer”). Sven Schulz, Akasol’s largest shareholder, Chief Executive Officer and Founder, as well as certain other shareholders, have each entered into an Agreement on the Irrevocable Undertaking with the Company and BidCo (each an “Irrevocable” and collectively “Irrevocables”, and together with the BCA, the “Transaction Agreements”) under which each such shareholder has committed to tender a total of 59.4% of the issued Akasol Shares into the Offer. 
+
+The Transaction Agreements and the transactions contemplated thereby have been approved by the board of directors of the Company. The management board and the supervisory board of Akasol (together, the “Akasol Boards”) have unanimously adopted resolutions approving, among other things, the BCA, the Offer and the other transactions contemplated thereby and will recommend that the Akasol shareholders accept the Offer. 
+
+The Offer is expected to be completed late in the second quarter of 2021, subject to satisfaction of conditions and receipt of regulatory approvals. Following successful completion of the Offer, Akasol would become a majority-owned indirect subsidiary of the Company. It is not necessary for the financing of the Offer or for other reasons for BorgWarner to enter into a domination and/or profit transfer agreement (“DPLTA”) with Akasol. Consequently, BorgWarner does not intend to enter into a DPLTA. 
+
+Akasol has acknowledged that the Offer forms part of a taking private transaction/strategy and that the Company and BidCo intend to implement a squeeze-out of the minority shareholders and/or a separate delisting of the Akasol Shares following the completion of the Offer, in each case subject to all applicable legal requirements. The Company and BidCo will consult with Akasol’s management board and take into consideration its reasonable comments and opinion prior to initiating such implementation. Whether and when to pursue delisting may depend on the size of BorgWarner’s shareholding in Akasol after the successful completion of the Offer as well as the economic situation and regulatory framework at the time. Following a delisting, Akasol shares would no longer trade on the regulated market which could make Akasol shares effectively illiquid. 
+
+Representations, Warranties and Covenants 
+
+The parties to the Transaction Agreements have made representations, warranties and covenants that are generally customary for German voluntary public takeover transactions of this nature including, among others, (i) covenants by the Company and Akasol to use reasonable best efforts to obtain governmental and regulatory approvals and (ii) covenants by Akasol to conduct its business in the ordinary course during the period between the execution of the BCA and the completion of the Offer and not to take certain kinds of actions during such period. 
+
+Subject to certain exceptions intended to permit the Akasol Boards to comply with their fiduciary duties, Akasol has agreed not to solicit proposals relating to competing offers or enter into negotiations concerning or furnish information in connection with any competing offers. 
+
+Under the BCA, the Company will generally support the existing business strategy of Akasol, Akasol and its management board in its implementation of the strategy and cooperate with the management board to maximize the efficiencies and gains to be made through Akasol’s strategy. Except as required by law or as may be otherwise recommended by the Akasol’s management board and/or supervisory board, the Company has additionally agreed to support an adequate growth of the workforce of Akasol in line with business development and not to cause Akasol to implement a statutory reduction in force under applicable German law prior to 2024 except under stated circumstances. 
+
+The Company currently anticipates that the transaction will be funded primarily with existing cash balances and potentially some incremental debt. Pursuant to the Transaction Agreements, the Company is required to obtain a confirmation from a securities services enterprise independent from the Company that the Company and BidCo will have sufficient liquidity to fund the completion of the Offer for the purpose of satisfying German law requirements in connection with the Offer. For that purpose, the Company intends to seek a $900 million, 364-day delayed draw term loan facility that is expected to remain undrawn. 
+
+Conditions to Completion of the Offer 
+
+Completion of the Offer will be subject to satisfaction of certain conditions, subject to the German regulator BaFin’s approval. The conditions will include, among others, the receipt of required competition and merger control clearances, the non-occurrence of a defined adverse change in a specified stock market index and the acceptance of the Offer by the holders of at least 50% of the number of Akasol Shares issued plus one share. The tender of shares subject to the Irrevocables would satisfy this condition. 
+
+Termination 
+
+The Transaction Agreements may be terminated at any time prior to the completion of the Offer by the mutual written consent of the parties and in certain other circumstances, if one of the offer conditions (other than those related to regulatory approvals) contained in the offer document has finally failed and has not been waived, or if an applicable regulatory approval has been denied or cannot be obtained. However, the Company may not rely on a condition other than those related to regulatory approvals to terminate the Offer after the end of the acceptance period for the Offer. 
+
+The Transaction Agreements contain representations, warranties and covenants that the respective parties made to each other as of the date of the Transaction Agreements or other specific dates. The assertions embodied in those representations, warranties and covenants were made for purposes of the contract between the respective parties and are subject to important qualifications and limitations agreed to by the parties in connection with negotiating such agreements. The Transaction Agreements have been attached hereto to provide investors with information regarding their terms. It is not intended to provide any other factual information about the Company, Akasol or any other party to the Transaction Agreements. In particular, the representations, warranties, covenants and agreements contained in the Transaction Agreements, which were made only for purposes of such agreements and as of specific dates, were solely for the benefit of the parties to the Transaction Agreements, may be subject to limitations agreed upon by the contracting parties and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors and security holders. Investors and security holders are not third-party beneficiaries under the Transaction Agreements and should not rely on the representations, warranties, covenants and agreements, or any descriptions thereof, as characterizations of the actual state of facts or condition of any party to the Transaction Agreements. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Transaction Agreements, which subsequent information may or may not be fully reflected in the Company’s public disclosures. 
+
+Forward-Looking Statements 
+
+This communication may contain forward-looking statements as contemplated by the 1995 Private Securities Litigation Reform Act that are based on management’s current outlook, expectations, estimates and projections. Words such as “anticipates,” “believes,” “continues,” “could,” “designed,” “effect,” “estimates,” “evaluates,” “expects,” “forecasts,” “goal,” “guidance,” “initiative,” “intends,” “may,” “outlook,” “plans,” “potential,” “predicts,” “project,” “pursue,” “seek,” “should,” “target,” “when,” “will,” “would,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Further, all statements, other than statements of historical fact contained or incorporated by reference in this press release that we expect or anticipate will or may occur in the future regarding our financial position, business strategy and measures to implement that strategy, including changes to operations, competitive strengths, goals, expansion and growth of our business and operations, plans, references to future success and other such matters, are forward-looking statements. Accounting estimates, such as those described under the heading “Critical Accounting Policies and Estimates” in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2019 (“Form 10-K”), are inherently forward-looking. All forward-looking statements are based on assumptions and analyses made by us in light of our experience and our perception of historical trends, current conditions and expected future developments, as well as other factors we believe are appropriate in the circumstances. Forward-looking statements are not guarantees of performance, and the Company’s actual results may differ materially from those expressed, projected or implied in or by the forward-looking statements. 
+
+You should not place undue reliance on these forward-looking statements, which speak only as of the date of this communication. Forward-looking statements are subject to risks and uncertainties, many of which are difficult to predict and generally beyond our control, that could cause actual results to differ materially from those expressed, projected or implied in or by the forward-looking statements. These risks and uncertainties, among others, include: uncertainties regarding the extent and duration of impacts of matters associated with COVID-19, including additional production disruptions; the possibility that the proposed transaction will not be consummated; failure to obtain necessary regulatory approvals or to satisfy any of the other conditions to the proposed transaction; adverse effects on the market price of BorgWarner’s shares of common stock and BorgWarner’s operating results because of a failure to complete the proposed transaction; failure to realize the expected benefits of the proposed transaction; negative effects relating to the announcement of the proposed transaction or any further announcements relating to the proposed transaction or the consummation of the proposed transaction on the market price of BorgWarner’s shares of common stock; the failure to realize the expected benefits of the acquisition of Delphi Technologies PLC that the Company completed on October 1, 2020; the failure to promptly and effectively integrate acquired businesses; the potential for unknown or inestimable liabilities relating to the acquired businesses; our dependence on automotive and truck production, both of which are highly cyclical; our reliance on major OEM customers; commodities availability and pricing; supply disruptions; fluctuations in interest rates and foreign currency exchange rates; availability of credit; the uncertainty of the global economic environment; and the other risks noted in reports that we file with the Securities and Exchange Commission, including Item 1A, “Risk Factors” in our most recently-filed Form 10-K and in our most recently-filed Form 10-Q. We do not undertake any obligation to update or announce publicly any updates to or revisions to any of the forward-looking statements in this press release to reflect any change in our expectations or any change in events, conditions, circumstances, or assumptions underlying the statements. 
+
+Item 9.01 Exhibits. 
+
+(d) Exhibits. 
+
+EXHIBIT INDEX 
+
+ Exhibit No.   Description of Exhibit 
+
+ 104.1  Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED]

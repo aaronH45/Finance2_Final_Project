@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000712515",
+    "sec_company_name": "ELECTRONIC ARTS INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160217",
+    "sec_filing_date": "20160217",
+    "sec_changed_date": "20160217",
+    "sec_accepted_date": "20160217092148",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/712515/000071251516000090/0000712515-16-000090-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/712515/000071251516000090/0000712515-16-000090.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\EA_0000712515_EX991_20160217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11775 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5327,
+    "endpoints": [
+        "Exhibit   ",
+        "Some statements set forth in this press release regarding Electronic Arts’ offering of senior notes and repurchase of shares, contain forward-looking statements that are subject to change. Statements including words such as “anticipate”, “believe”, “estimate” or “expect” and statements in the future tense are forward-looking statements. These forward-looking statements are subject to risks and uncertainties that could cause actual events or actual future results to differ materially from those set forth in the forward-looking statements, including the following: Electronic Arts’ ability to effectively execute its business and capital plans, changes in general economic and market conditions, including the stock market, changes in interest rates, including interest rate resets and other factors described in Electronic Arts’ SEC filings (including the preliminary prospectus supplement and accompanying prospectus filed in relation to the offering of senior notes, Electronic Arts’ latest Quarterly Report on Form 10-Q for the fiscal quarter ended December 31, 2015 and Electronic Arts’ Annual Report on Form 10-K for the year ended March 31, 2015). If any of these risks or uncertainties materializes, the potential benefits of the offering of senior notes may not be realized, Electronic Arts’ operating results and financial performance could suffer, and actual results could differ materially from the expectations described in these forward-looking statements. There is no assurance that the offering of the senior notes or the repurchase of shares will be completed or completed as described above. These forward-looking statements speak only as of the date of this press release. Electronic Arts assumes no obligation to update these forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\EA_0000712515_EX991_20160217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:54:24.776576"
+}

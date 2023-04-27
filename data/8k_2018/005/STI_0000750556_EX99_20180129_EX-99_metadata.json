@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000750556",
+    "sec_company_name": "SUNTRUST BANKS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180129",
+    "sec_filing_date": "20180129",
+    "sec_changed_date": "20180129",
+    "sec_accepted_date": "20180129161628",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055618000019/0000750556-18-000019-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055618000019/0000750556-18-000019.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\STI_0000750556_EX99_20180129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8030 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2917,
+    "endpoints": [
+        "Exhibit   ",
+        "SunTrust Banks, Inc. (NYSE: STI) is a purpose-driven company dedicated to Lighting the Way to Financial Well-Being for the people, businesses, and communities it serves. Headquartered in Atlanta, the Company has two business segments: Consumer and Wholesale. Its flagship subsidiary, SunTrust Bank, operates an extensive branch and ATM network throughout the high-growth Southeast and Mid-Atlantic states, along with 24-hour digital access. Certain business lines serve consumer, commercial, corporate, and institutional clients nationally. As of December 31, 2017, SunTrust had total assets of $206 billion and total deposits of $161 billion. The Company provides deposit, credit, trust, investment, mortgage, asset management, securities brokerage, and capital market services. SunTrust leads onUp, a national movement inspiring Americans to build financial confidence. Join the movement at onUp.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\STI_0000750556_EX99_20180129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:54.246672"
+}

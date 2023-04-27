@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000701221",
+    "sec_company_name": "CIGNA CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150227",
+    "sec_changed_date": "20150227",
+    "sec_accepted_date": "20150227161520",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/701221/000095015915000062/0000950159-15-000062-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/701221/000095015915000062/0000950159-15-000062.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\CI_0000701221_8K_20150225_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "28632 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7996,
+    "endpoints": [
+        "cigna8k.htm      ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\CI_0000701221_8K_20150225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:27:07.126483"
+}

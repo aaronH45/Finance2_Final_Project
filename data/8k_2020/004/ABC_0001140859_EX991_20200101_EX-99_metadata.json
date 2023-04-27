@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001140859",
+    "sec_company_name": "AMERISOURCEBERGEN CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200101",
+    "sec_filing_date": "20200102",
+    "sec_changed_date": "20200102",
+    "sec_accepted_date": "20200102162756",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1140859/000114085920000002/0001140859-20-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1140859/000114085920000002/0001140859-20-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\ABC_0001140859_EX991_20200101_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9372 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2858,
+    "endpoints": [
+        "Exhibit  ",
+        "AmerisourceBergen provides pharmaceutical products, value-driving services and business solutions that improve access to care. Tens of thousands of healthcare providers, veterinary practices and livestock producers trust us as their partner in the pharmaceutical supply chain. Global manufacturers depend on us for services that drive commercial success for their products. Through our daily work—and powered by our 22,000 associates—we are united in our responsibility to create healthier futures. AmerisourceBergen is ranked #10 on the Fortune 500, with more than $175 billion in annual revenue. The company is headquartered in Valley Forge, Pa. and has a presence in 50+ countries. Learn more at investor.amerisourcebergen.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ABC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\ABC_0001140859_EX991_20200101_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:48:11.205814"
+}

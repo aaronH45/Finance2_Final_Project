@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000849399",
+    "sec_company_name": "NortonLifeLock Inc. (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220217",
+    "sec_filing_date": "20220218",
+    "sec_changed_date": "20220218",
+    "sec_accepted_date": "20220218160240",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/849399/000110465922025143/0001104659-22-025143-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/849399/000110465922025143/0001104659-22-025143.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\SYMC_0000849399_EX9901_20220217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "19866 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10273,
+    "endpoints": [
+        "Exhibit 99.01 ",
+        "A copy of this press release will be made available (subject to certain restrictions relating to persons resident in Restricted Jurisdictions) on NortonLifeLock’s website (at https://investor.nortonlifelock.com/) by no later than 12 noon London time on the business day following the date of this press release. Neither the contents of this website nor the content of any other website accessible from hyperlinks on such website is incorporated into, or forms part of, this press release."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SYMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\SYMC_0000849399_EX9901_20220217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:23:32.613552"
+}

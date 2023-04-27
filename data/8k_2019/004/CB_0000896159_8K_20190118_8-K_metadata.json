@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896159",
+    "sec_company_name": "Chubb Ltd (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190118",
+    "sec_filing_date": "20190118",
+    "sec_changed_date": "20190118",
+    "sec_accepted_date": "20190118162604",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896159/000119312519012931/0001193125-19-012931-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896159/000119312519012931/0001193125-19-012931.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CB_0000896159_8K_20190118_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "16486 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2840,
+    "endpoints": [
+        "8-K   ",
+        "DATE: January 18, 2019"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CB_0000896159_8K_20190118_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:58:56.238709"
+}

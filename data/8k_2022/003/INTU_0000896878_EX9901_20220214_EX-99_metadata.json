@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896878",
+    "sec_company_name": "INTUIT INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220214",
+    "sec_filing_date": "20220214",
+    "sec_changed_date": "20220214",
+    "sec_accepted_date": "20220214160852",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687822000005/0000896878-22-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687822000005/0000896878-22-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\INTU_0000896878_EX9901_20220214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "20848 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6743,
+    "endpoints": [
+        "Document",
+        "reliance on third-party intellectual property; our ability to protect our intellectual property rights; any harm to our reputation; risks associated with acquisition and divestiture activity, including the acquisition and integration of Credit Karma and Mailchimp; the issuance of equity or incurrence of debt to fund an acquisition; our cybersecurity incidents (including those affecting the third parties we rely on); customer concerns about privacy and cybersecurity incidents; fraudulent activities by third parties using our offerings; our failure to process transactions effectively; interruption or failure of our information technology; our ability to maintain critical third-party business relationships; our ability to attract and retain talent; any deficiency in the quality or accuracy of our products (including the advice given by experts on our platform); any delays in product launches; difficulties in processing or filing customer tax submissions; risks associated with international operations; changes to public policy, laws or regulations affecting our businesses; litigation in which we are involved; the seasonal nature of our tax business; changes in tax rates and tax reform legislation; global economic changes; exposure to credit, counterparty and other risks in providing capital to businesses; amortization of acquired intangible assets and impairment charges; our ability to repay or otherwise comply with the terms of our outstanding debt; our ability to repurchase shares or distribute dividends; volatility of our stock price; and our ability to successfully market our offerings. More details about these and other risks that may impact our business are included in our Form 10-K for fiscal 2021 and in our other SEC filings. You can locate these reports through our website at http://investors.intuit.com. Fiscal 2022 full-year guidance speaks only as of the date it was publicly issued by Intuit. In addition, our expectations regarding the second quarter results are based on preliminary financial information about the second quarter and are subject to revision. Although the second quarter is now completed, we are still in the process of our standard financial reporting closing procedures. Other forward-looking statements represent the judgment of the management of Intuit as of the date of this presentation. We do not undertake any duty to update any forward-looking statement or other information in this presentation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\INTU_0000896878_EX9901_20220214_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:55.622783"
+}

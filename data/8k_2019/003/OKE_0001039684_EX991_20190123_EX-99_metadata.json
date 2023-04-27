@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190123",
+    "sec_filing_date": "20190123",
+    "sec_changed_date": "20190123",
+    "sec_accepted_date": "20190123171710",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000008/0001039684-19-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000008/0001039684-19-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190123_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2994 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1934,
+    "endpoints": [
+        "a11719okeq42018earningsc   ",
+        " Exhibit 99.1 News January 22, 2019 Analyst Contact: Megan Patterson 918-561-5325 Media Contact: Stephanie Higgins 918-591-5026 ONEOK Fourth-quarter and Year-end 2018 Conference Call and Webcast Scheduled TULSA, Okla. – Jan. 22, 2019 – ONEOK, Inc. (NYSE: OKE) will release fourth- quarter and year-end 2018 earnings after the market closes on Feb. 25, 2019. ONEOK’s executive management will participate in a conference call the following day at 11 a.m. Eastern Standard Time (10 a.m. Central Standard Time) on Feb. 26, 2019. The call also will be carried live on ONEOK’s website. To participate in the telephone conference call, dial 855-710-4182, pass code 9871790, or log on to www.oneok.com. What: ONEOK fourth-quarter and year-end 2018 earnings conference call and webcast When: 11 a.m. Eastern, Feb. 26, 2019 10 a.m. Central Where: 1) Phone conference call dial 855-710-4182, pass code 9871790 2) Log on to the webcast at www.oneok.com If you are unable to participate in the conference call or the webcast, the replay will be available on ONEOK’s website, www.oneok.com, for 30 days. A recording will be available by phone for seven days. The playback call may be accessed at 888-203-1112, pass code 9871790. ------------------------------------------------------------------------------------------------------------------- ONEOK, Inc. (pronounced ONE-OAK) (NYSE: OKE) is a leading midstream service provider and owner of one of the nation's premier natural gas liquids (NGL) systems, connecting NGL supply in the Mid-Continent, Permian and Rocky Mountain regions with key market centers and an extensive network of natural gas gathering, processing, storage and transportation assets. ONEOK is a FORTUNE 500 company and is included in the S&P 500 index. For information about ONEOK, visit the website: www.oneok.com. For the latest news about ONEOK, find us on LinkedIn, Facebook and Twitter. ###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190123_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:48:07.744235"
+}

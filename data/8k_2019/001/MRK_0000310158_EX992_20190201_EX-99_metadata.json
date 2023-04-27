@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000310158",
+    "sec_company_name": "Merck & Co., Inc. (Filer)",
+    "document_type": "EX992",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20190201",
+    "sec_filing_date": "20190201",
+    "sec_changed_date": "20190201",
+    "sec_accepted_date": "20190201163238",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465919005108/0001104659-19-005108-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465919005108/0001104659-19-005108.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MRK_0000310158_EX992_20190201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1004648 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9268,
+    "endpoints": [
+        "Exhibit 99.2 ",
+        "On January 1, 2018, the company adopted a new accounting standard related to defined benefit plans that requires the components of net benefit cost/credit (other than service costs) be presented in the statement of income outside of operating expenses. Upon adoption, net periodic benefit cost/credit other than service cost was reclassified to Other (income) expense, net from the previous classifications within Cost of sales, Selling, general and administrative expenses and Research and development costs. Previously reported amounts have been reclassified to conform to the new presentation. There was no impact to net income as a result of adopting the new standard."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MRK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MRK_0000310158_EX992_20190201_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:39:38.819435"
+}

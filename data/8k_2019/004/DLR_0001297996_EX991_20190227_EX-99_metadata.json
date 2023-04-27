@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001297996",
+    "sec_company_name": "Digital Realty Trust, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190227",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227160103",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312519053983/0001193125-19-053983-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312519053983/0001193125-19-053983.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7967 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5812,
+    "endpoints": [
+        "EX-99.1   ",
+        "The Euro notes are not intended to be offered, sold or otherwise made available to and, with effect from such date, should not be offered, sold or otherwise made available to any retail investor in the European Economic Area (the “EEA”). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU (as amended, “MiFID II”); or (ii) a customer within the meaning of Directive 2002/92/EC (as amended, the “IMD”), where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II. Consequently, no key information document required by Regulation (EU) No 1286/2014 (as amended, the “PRIIPs Regulation”) for offering or selling the Euro notes or otherwise making them available to retail investors in the EEA has been prepared and therefore offering or selling the Euro notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:56:02.565718"
+}

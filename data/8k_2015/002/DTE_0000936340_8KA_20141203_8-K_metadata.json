@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000936340",
+    "sec_company_name": "DTE ENERGY CO (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20141203",
+    "sec_filing_date": "20150205",
+    "sec_changed_date": "20150205",
+    "sec_accepted_date": "20150205060831",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634015000007/0000936340-15-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634015000007/0000936340-15-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\DTE_0000936340_8KA_20141203_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "23711 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3020,
+    "endpoints": [
+        "8-K AMENDED Measures and Metrics 2/4/15   ",
+        "Senior Vice President"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DTE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\DTE_0000936340_8KA_20141203_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:23:03.715199"
+}

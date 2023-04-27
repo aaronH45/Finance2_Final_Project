@@ -1,0 +1,89 @@
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+Date of Report: February 1, 2019 
+
+(Date of earliest event reported) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+  ☐     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)   
+
+  ☐     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)   
+
+  ☐     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+  ☐     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))    
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+  [DATA_TABLE_REMOVED] 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+    PG&E Corporation   ☐   
+
+    Pacific Gas and Electric Company   ☐    
+
+Item 1.01. Entry into a Material Definitive Agreement 
+
+As previously reported, on January 21, 2019, PG&E Corporation (the “Corporation”) and Pacific Gas and Electric Company (the “Utility”) entered into a commitment letter for debtor-in-possession financing (the “DIP Commitment Letter”) with certain financial institutions (collectively, the “Commitment Parties”) pursuant to which the Commitment Parties committed to provide $5.5 billion in senior secured superpriority debtor-in-possession credit facilities subject to certain terms and conditions set forth therein. On January 29, 2019 (the “Petition Date”), the Corporation and the Utility (together, the “Debtors”) filed voluntary petitions for relief under chapter 11 of title 11 of the United States Code (the “Bankruptcy Code”) in the U.S. Bankruptcy Court for the Northern District of California (the “Bankruptcy Court”). The Debtors’ chapter 11 cases are jointly administered under the caption In re: PG&E Corporation and Pacific Gas and Electric Company, Case No. 19-30088 (DM) (the “Chapter 11 Cases”). 
+
+In connection with the Chapter 11 Cases and in accordance with the DIP Commitment Letter, the Debtors entered into a Senior Secured Superpriority Debtor-in-Possession Credit, Guaranty and Security Agreement, dated as of February 1, 2019 (the “DIP Credit Agreement”), among the Utility, as Borrower, the Corporation, as Guarantor, JPMorgan Chase Bank, N.A., as administrative agent, Citibank, N.A., as collateral agent, and the lenders and issuing banks party thereto (together with such other financial institutions from time to time party thereto, the “DIP Lenders”). The DIP Credit Agreement provides for $5.5 billion in senior secured superpriority debtor-in-possession credit facilities in the form of (i) a revolving credit facility in an aggregate amount of $3.5 billion (the “DIP Revolving Facility”), including a $1.5 billion letter of credit subfacility, (ii) a term loan facility in an aggregate principal amount of $1.5 billion (the “DIP Initial Term Loan Facility”) and (iii) a delayed draw term loan facility in an aggregate principal amount of $500 million (the “DIP Delayed Draw Term Loan Facility”, together with the DIP Revolving Facility and the DIP Initial Term Loan Facility, the “DIP Facilities”), subject to the terms and conditions set forth therein. 
+
+On the Petition Date, the Debtors filed a motion seeking interim and final approval of the DIP Facilities, which motion was granted on an interim basis by the Bankruptcy Court following a hearing on January 31, 2019. As a result of the Bankruptcy Court’s interim approval of the DIP Facilities and the satisfaction of the other conditions thereof, the DIP Credit Agreement became effective and a portion of the DIP Revolving Facility in the amount of $1.5 billion (including $750 million of the letter of credit subfacility) was made available to the Debtors. The remainder of the DIP Revolving Facility (including the remainder of the $750 million letter of credit subfacility), and the DIP Initial Term Loan Facility and the DIP Delayed Draw Term Loan Facility, are currently unavailable for borrowing and will remain unavailable until and unless the Bankruptcy Court approves the availability thereof following a final hearing. The Debtors are unable to predict the date of the final hearing but expect it to occur within 30 to 45 days after the Petition Date. There can be no assurances that the Bankruptcy Court will grant final approval of the DIP Facilities at the final hearing, or at all. 
+
+Borrowings under the DIP Facilities are senior secured obligations of the Utility, secured by substantially all of the Utility’s assets and entitled to superpriority administrative expense claim status in the Utility’s Chapter 11 Case. The Utility’s obligations under the DIP Facilities are guaranteed by the Corporation, and such guarantee is a senior secured obligation of the Corporation, secured by substantially all of the Corporation’s assets and entitled to superpriority administrative expense claim status in the Corporation’s Chapter 11 Case. 
+
+The DIP Facilities mature on December 31, 2020, subject to the Utility’s option to extend the maturity to December 31, 2021 if certain conditions are satisfied, including the payment of an extension fee equal to 0.25% of the then-outstanding loans and available commitments. Borrowings under the DIP Facilities will bear interest based, at the Utility’s election, on (1) LIBOR plus an applicable margin or (2) ABR plus an applicable margin. ABR will equal the highest of the following: (i) the Administrative Agent’s announced base rate, (ii) 0.5% above the (x) federal funds effective rate or (y) the overnight federal funds rate, whichever is higher, (iii) one-month LIBOR plus 1.00% and (iv) zero. With respect to the DIP Revolving Facility, the DIP Initial Term Loan Facility and the DIP Delayed Draw Term Loan Facility, the applicable margin is 2.25% for LIBOR loans and 1.25% for ABR loans. 
+
+The Utility is also required to pay unused fees of (i) 0.375% per annum in respect of the average daily unutilized commitments under the DIP Revolving Facility and (ii) 1.125% per annum, which amount shall increase to 2.25% per annum after six months, in respect of the average daily unutilized commitments under the DIP Delayed Draw Term Loan Facility. The Utility must also pay (x) a fee equal to the applicable margin then in effect with respect to LIBOR loans under the DIP Revolving Facility on the aggregate drawable amount of all outstanding letters of credit under the DIP Revolving Facility and (y) a fronting fee to the relevant issuing DIP Lender equal to 0.125% per annum of the aggregate drawable amount of outstanding letters of credit issued by such issuing DIP Lender. 
+
+The DIP Credit Agreement includes usual and customary covenants for debtor-in-possession loan agreements of this type, including covenants limiting the Debtors’ ability to, among other things, incur additional indebtedness, create liens on assets, make investments, loans or advances, engage in mergers, consolidations, sales of assets and acquisitions, pay dividends and distributions and make payments in respect of junior or pre-petition indebtedness, in each case subject to customary exceptions for debtor-in-possession loan agreements of this type. 
+
+The DIP Credit Agreement also includes customary and usual representations and warranties and affirmative covenants, including an obligation to deliver 13-week cash flow forecasts and reports showing variances from such forecasts, in each case on a rolling 4-week basis. The Debtors’ obligations under the DIP Credit Agreement may be accelerated following certain events of default, including payment defaults, breaches of representations and warranties, covenant defaults, cross-defaults to post-petition or unstayed indebtedness of the Debtors and their subsidiaries in excess of $200 million, certain events under ERISA, unstayed judgments in respect of post-petition obligations involving an aggregate liability in excess of $200 million, change of control, specified governmental actions having a material adverse effect or condemnation or damage to a material portion of the collateral. Certain bankruptcy-related events are also events of default, including, but not limited to, the dismissal by the Bankruptcy Court of any of the Chapter 11 Cases, the conversion of any of the Chapter 11 Cases to a case under chapter 7 of the Bankruptcy Code, the appointment of a trustee pursuant to chapter 11 of the Bankruptcy Code, any order authorizing the DIP Facilities being stayed, vacated, reversed or amended in a manner adverse to the DIP Lenders, the final order approving the DIP Facilities failing to have been entered by April 15, 2019, and certain other events related to the impairment of the DIP Lenders’ rights or liens granted under the DIP Credit Agreement. 
+
+The proceeds of the borrowings under the DIP Facilities will be used for working capital and general corporate purposes and to pay fees, costs and expenses incurred in connection with the transactions contemplated by the DIP Credit Agreement and professional and other fees and costs of administration incurred in connection with the Chapter 11 Cases. 
+
+The foregoing description of the DIP Credit Agreement is qualified in its entirety by reference to the full text of the DIP Credit Agreement, which is attached as Exhibit 10.1 hereto and incorporated by reference herein. 
+
+The DIP Lenders and/or their affiliates have in the past provided, and may in the future provide, investment banking, underwriting, lending, commercial banking and other advisory services to the Debtors. The DIP Lenders have received, and may in the future receive, customary compensation from the Debtors for such services. 
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant 
+
+The information set forth above in Item 1.01 regarding the DIP Facilities and DIP Credit Agreement is hereby incorporated into this Item 2.03 by reference. 
+
+Item 9.01. Financial Statements and Exhibits 
+
+(d) Exhibits. 
+
+  Exhibit
+
+  No.     Description   
+
+  10.1    Senior Secured Superpriority Debtor-in-Possession Credit, Guaranty and Security Agreement, dated as of February 1, 2019, among Pacific Gas and Electric Company, PG&E Corporation, the financial institutions from time to time party thereto, as lenders and issuing lenders, JPMorgan Chase Bank, N.A., as administrative agent, and Citibank, N.A., as collateral agent.    
+
+ Cautionary Statement Concerning Forward-Looking Statements 
+
+This current report on Form 8-K includes forward-looking statements that are not historical facts, including statements about the beliefs, expectations, estimates, future plans and strategies of PG&E Corporation and the Utility. These statements are based on current expectations and assumptions, which management believes are reasonable, and on information currently available to management, but are necessarily subject to various risks and uncertainties. In addition to the risk that these assumptions prove to be inaccurate, factors that could cause actual results to differ materially from those contemplated by the forward-looking statements include the timing and outcome of the Chapter 11 Cases and PG&E Corporation’s and the Utility’s filing for relief under Chapter 11 of the Bankruptcy Code, the timing and outcome of the investigations into the 2018 Camp fire, and other factors disclosed in PG&E Corporation’s and the Utility’s annual report on Form 10-K for the year ended December 31, 2017, their quarterly reports on Form 10-Q for the quarters ended March 31, 2018, June 30, 2018, and September 30, 2018, and their subsequent reports filed with the Securities and Exchange Commission. PG&E Corporation and the Utility undertake no obligation to publicly update or revise any forward-looking statements, whether due to new information, future events or otherwise, except to the extent required by law. 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrants have duly caused this report to be signed on their behalf by the undersigned thereunto duly authorized.  
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]

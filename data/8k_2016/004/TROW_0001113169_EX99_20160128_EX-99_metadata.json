@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001113169",
+    "sec_company_name": "PRICE T ROWE GROUP INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160128",
+    "sec_filing_date": "20160128",
+    "sec_changed_date": "20160128",
+    "sec_accepted_date": "20160128083429",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316916000031/0001113169-16-000031-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316916000031/0001113169-16-000031.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\TROW_0001113169_EX99_20160128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22499 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 19160,
+    "endpoints": [
+        "q42015trowpressreleasefi  ",
+        " 7 Investment Advisory Revenues (in millions) Three months ended Year ended 12/31/2014 12/31/2015 12/31/2014 12/31/2015 Sponsored U.S. mutual funds Stock and blended asset $ 536.2 $ 560.2 $ 2,086.0 $ 2,241.9 Bond and money market 103.8 108.0 399.8 426.0 640.0 668.2 2,485.8 2,667.9 Other investment portfolios Stock and blended asset 214.4 217.0 824.5 862.2 Bond, money market, and stable value 37.7 40.8 154.2 157.2 252.1 257.8 978.7 1,019.4 Total $ 892.1 $ 926.0 $ 3,464.5 $ 3,687.3 Average Assets Under Management (in billions) Three months ended Year ended 12/31/2014 12/31/2015 12/31/2014 12/31/2015 Sponsored U.S. mutual funds Stock and blended asset $ 368.3 $ 384.9 $ 359.3 $ 387.8 Bond and money market 104.7 104.4 101.6 105.8 473.0 489.3 460.9 493.6 Other investment portfolios Stock and blended asset 205.3 210.3 201.6 210.3 Bond, money market, and stable value 61.9 66.1 62.2 64.0 267.2 276.4 263.8 274.3 Total $ 740.2 $ 765.7 $ 724.7 $ 767.9 Ending Assets Under Management (in billions) As of 12/31/2014 12/31/2015 Sponsored U.S. mutual funds Stock and blended asset $ 373.0 $ 383.0 Bond and money market 104.6 104.1 477.6 487.1 Other investment portfolios Stock and blended asset 206.9 209.8 Bond, money market, and stable value 62.3 66.2 269.2 276.0 Total $ 746.8 $ 763.1 Stock and blended asset portfolios $ 579.9 $ 592.8 Fixed income portfolios 166.9 170.3 Total $ 746.8 $ 763.1 Condensed Consolidated Cash Flows Information (in millions) Year ended 12/31/2014 12/31/2015 Cash provided by operating activities, including $149 of stock-based compensation expense in 2015 $ 1,291.3 $ 1,506.4 Cash provided by (used in) investing activities, including ($151) for additions to property and equipment and $270 in net proceeds from sponsored fund dispositions in 2015 (443.4) 109.0 Cash used in financing activities, including common stock repurchases of ($988) and dividends paid of ($1,059) in 2015 (739.8) (1,949.2) Net change in cash during the period $ 108.1 $ (333.8) Condensed Consolidated Balance Sheet Information (in millions) As of 12/31/2014 12/31/2015 Cash and cash equivalents $ 1,506.1 $ 1,172.3 Accounts receivable and accrued revenue 442.8 446.0 Investments in sponsored funds 1,884.0 1,612.3 Other investments 408.3 406.6 Property and equipment, net 586.4 607.1 Goodwill 665.7 665.7 Other assets 151.1 196.9 Total assets 5,644.4 5,106.9 Total liabilities 249.2 344.9 Stockholders' equity, 250.5 common shares outstanding at December 31, 2015, includes net unrealized holding gains of $120.3 at December 31, 2015 $ 5,395.2 $ 4,762.0"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TROW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\TROW_0001113169_EX99_20160128_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:56:53.949152"
+}

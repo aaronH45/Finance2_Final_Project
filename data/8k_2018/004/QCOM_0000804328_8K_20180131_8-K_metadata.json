@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000804328",
+    "sec_company_name": "QUALCOMM INC/DE (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180131",
+    "sec_filing_date": "20180131",
+    "sec_changed_date": "20180131",
+    "sec_accepted_date": "20180131160611",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/804328/000172894918000010/0001728949-18-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/804328/000172894918000010/0001728949-18-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\QCOM_0000804328_8K_20180131_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "26216 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3223,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "QCOM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\QCOM_0000804328_8K_20180131_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:31:16.556405"
+}

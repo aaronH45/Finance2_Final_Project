@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000315213",
+    "sec_company_name": "HALF ROBERT INTERNATIONAL INC /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190129",
+    "sec_filing_date": "20190129",
+    "sec_changed_date": "20190129",
+    "sec_accepted_date": "20190129160729",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/315213/000162828019000632/0001628280-19-000632-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/315213/000162828019000632/0001628280-19-000632.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\RHI_0000315213_8K_20190129_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "28418 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2936,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RHI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\RHI_0000315213_8K_20190129_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:00:49.304655"
+}

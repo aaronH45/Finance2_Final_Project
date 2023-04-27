@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001038357",
+    "sec_company_name": "PIONEER NATURAL RESOURCES CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210301",
+    "sec_changed_date": "20210301",
+    "sec_accepted_date": "20210301164800",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835721000016/0001038357-21-000016-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835721000016/0001038357-21-000016.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\PXD_0001038357_EX991_20201231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "35142 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9643,
+    "endpoints": [
+        "Document",
+        "Please be advised that the digital document you are viewing is provided by Netherland, Sewell & Associates, Inc. (NSAI) as a convenience to our clients. The digital document is intended to be substantively the same as the original signed document maintained by NSAI. The digital document is subject to the parameters, limitations, and conditions stated in the original document. In the event of any differences between the digital document and the original document, the original document shall control and supersede the digital document."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PXD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\PXD_0001038357_EX991_20201231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:08:13.436873"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000100517",
+    "sec_company_name": "United Continental Holdings, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190116",
+    "sec_filing_date": "20190116",
+    "sec_changed_date": "20190116",
+    "sec_accepted_date": "20190116064528",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/100517/000110465919002005/0001104659-19-002005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/100517/000110465919002005/0001104659-19-002005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\UAL_0000100517_EX991_20190116_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "46547 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22548,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Appendix A: reconciliation of GAAP to Non-GAAP financial measures (continued) CASM is a common metric used in the airline industry to measure an airline’s cost structure and efficiency. UAL reports CASM excluding special charges, third-party business expenses, fuel and profit sharing. UAL believes that adjusting for special charges is useful to investors because special charges are not indicative of UAL’s ongoing performance. UAL also believes that excluding third-party business expenses, such as maintenance, ground handling and catering services for third parties and fuel sales, provides more meaningful disclosure because these expenses are not directly related to UAL’s core business. UAL also believes that excluding fuel costs from certain measures is useful to investors because it provides an additional measure of management’s performance excluding the effects of a significant cost item over which management has limited influence. UAL excludes profit sharing because this exclusion allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry. (¢/ASM, except percentage change) Three Months Ended December 31, % Increase/ (Decrease) Full Year Ended December 31, % Increase/ (Decrease) Consolidated CASM excluding special charges, third-party business expenses, fuel and profit sharing 2018 2017 2018 2017 Cost per available seat mile (CASM) (GAAP) 14.28 13.34 7.0 13.81 13.00 6.2 Special charges (a) 0.44 0.04 NM 0.18 0.07 NM Third-party business expenses 0.04 0.06 (33.3) 0.04 0.05 (20.0) Fuel expense 3.46 2.88 20.1 3.38 2.64 28.0 Profit sharing, including taxes 0.12 0.07 71.4 0.12 0.13 (7.7) CASM, excluding special charges, third-party business expenses, fuel, and profit sharing (Non-GAAP) 10.22 10.29 (0.7) 10.09 10.11 (0.2) Consolidated CASM excluding special charges, third-party business expenses, fuel and profit sharing Estimated 1Q 2019 1Q 2018 Consolidated CASM excluding special charges (b) (Non-GAAP) Better - 14.06 14.06 Third-party business expenses 0.06 - 0.07 0.05 Fuel expense (c) 2.95 - 3.09 3.17 Profit sharing 0.02 - 0.08 0.02 Consolidated CASM excluding special charges, third-party business expenses, fuel, and profit sharing (Non-GAAP) Better - 10.82 10.82 Estimated FY 2019 FY 2018 Consolidated CASM excluding special charges (b) (Non-GAAP) Better - 13.44 13.63 Third-party business expenses 0.06 - 0.07 0.04 Fuel expense (c) 3.08 - 3.28 3.38 Profit sharing (d) N/A - N/A 0.12 Consolidated CASM excluding special charges, third-party business expenses, fuel, and profit sharing (Non-GAAP) Better - 10.09 10.09 (a) Special charges include the impact of certain primarily non-cash impairment, severance and other similar accounting charges. (b) Excludes special charges. While the Company anticipates that it will record such special charges throughout the year in 2019, at this time the Company is unable to provide an estimate of these charges with reasonable certainty. (c) Both the cost and availability of fuel are subject to many economic and political factors and are therefore beyond the Company’s control. (d) At this time the Company is unable to provide an estimate of full-year profit sharing with reasonable certainty."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "UAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\UAL_0000100517_EX991_20190116_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:37:46.733895"
+}

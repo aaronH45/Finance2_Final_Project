@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000033185",
+    "sec_company_name": "EQUIFAX INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190204",
+    "sec_filing_date": "20190208",
+    "sec_changed_date": "20190208",
+    "sec_accepted_date": "20190208160533",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/33185/000119312519032237/0001193125-19-032237-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/33185/000119312519032237/0001193125-19-032237.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\EFX_0000033185_8K_20190204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "16240 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3284,
+    "endpoints": [
+        "Form 8-K   ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EFX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\EFX_0000033185_8K_20190204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:54:56.862972"
+}

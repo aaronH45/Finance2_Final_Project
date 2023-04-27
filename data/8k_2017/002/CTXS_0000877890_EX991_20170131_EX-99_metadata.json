@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000877890",
+    "sec_company_name": "CITRIX SYSTEMS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170201",
+    "sec_changed_date": "20170201",
+    "sec_accepted_date": "20170201080604",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/877890/000119312517026682/0001193125-17-026682-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/877890/000119312517026682/0001193125-17-026682.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\CTXS_0000877890_EX991_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4919 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3395,
+    "endpoints": [
+        "EX-99.1   ",
+        "This release contains forward-looking statements that are made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. The forward-looking statements in this release do not constitute guarantees of future performance. Any statements contained herein which do not describe historical facts are forward-looking statements. These forward-looking statements involve risks and uncertainties which could cause actual results to differ materially from these forward-looking statements. These risks and uncertainties include, but are not limited to, risks associated with the future performance of core Citrix, failure to achieve the expected strategic, operational and competitive benefits of the separation of the GoTo business, and the effect of the separation on Citrix, its shareholders, customers, partners and employees, as well as economic, competitive, legal, governmental and technological factors and other risks and uncertainties described in Citrix’s filings with the Securities and Exchange Commission, including under the caption “Risk Factors” in Citrix’s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Investors are cautioned not to place undue reliance on the forward-looking statements included herein, as such statements are made as of the date hereof and Citrix undertakes no obligation to publicly update or revise any forward-looking statement unless required to do so by securities or other applicable laws."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CTXS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\CTXS_0000877890_EX991_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:40.736976"
+}

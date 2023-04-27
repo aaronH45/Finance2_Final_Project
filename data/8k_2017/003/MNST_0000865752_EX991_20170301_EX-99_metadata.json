@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000865752",
+    "sec_company_name": "Monster Beverage Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170301",
+    "sec_filing_date": "20170301",
+    "sec_changed_date": "20170301",
+    "sec_accepted_date": "20170301160911",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/865752/000110465917013039/0001104659-17-013039-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/865752/000110465917013039/0001104659-17-013039.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\MNST_0000865752_EX991_20170301_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "245478 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17809,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "*On October 14, 2016, the Company announced a three-for-one stock split of its common stock to be effected in the form of a 200 percent stock dividend. The stock dividend was issued on November 9, 2016. The accompanying consolidated financial statements have been updated to reflect the stock split."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MNST",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\MNST_0000865752_EX991_20170301_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:10:24.551208"
+}

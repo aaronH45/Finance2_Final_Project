@@ -1,0 +1,34 @@
+{
+    "sec_cik": "0000079879",
+    "sec_company_name": "PPG INDUSTRIES INC (Filer)",
+    "document_type": "EX131",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220114337",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/79879/000007987920000008/0000079879-20-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/79879/000007987920000008/0000079879-20-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\001\PPG_0000079879_EX131_20191231_Exhibit13_failure.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "39886 chars",
+    "document_group": "EX-13",
+    "section_name": "Exhibit13",
+    "section_n_characters": null,
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "extraction_method": "html",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "company_description": "PPG",
+    "output_file": null,
+    "time_elapsed": 0.0,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:04:12.779522"
+}

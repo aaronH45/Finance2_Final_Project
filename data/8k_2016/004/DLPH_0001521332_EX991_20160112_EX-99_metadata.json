@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001521332",
+    "sec_company_name": "Delphi Automotive PLC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160112",
+    "sec_filing_date": "20160112",
+    "sec_changed_date": "20160112",
+    "sec_accepted_date": "20160112094113",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1521332/000152133216000077/0001521332-16-000077-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1521332/000152133216000077/0001521332-16-000077.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\DLPH_0001521332_EX991_20160112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16110 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8955,
+    "endpoints": [
+        "dbglobalautoindustryconf  ",
+        "Non-US GAAP financial metrics The company’s 2015 and 2016 guidance was determined using a consistent manner and methodology ($ millions) 2014 2013 Net income attributable to Delphi $1,351 $1,212 Income from discontinued operations attributable to Delphi, net of tax ($42) ($42) Income from continuing operations attributable to Delphi $1,309 $1,170 Adjusting items: Restructuring $140 $137 Other acquisition and portfolio project costs $20 $15 Asset impairments $7 - Debt extinguishment costs $34 $39 Transaction and related costs associated with acquisitions $6 - Tax impact of adjusting items (a) ($24) ($39) Adjusted net income attributable to Delphi $1,492 $1,322 Weighted average number of diluted shares outstanding 301.89 311.80 Diluted net income per share from continuing operations attributable to Delphi $4.34 $3.75 Adjusted net income per share $4.94 $4.24 18 (a) Represents the income tax impacts of the adjustments made for restructuring and other special items by calculating the income tax impact of these items using the appropriate tax rate for the jurisdiction where the charges were incurred"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLPH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\DLPH_0001521332_EX991_20160112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:18.623080"
+}

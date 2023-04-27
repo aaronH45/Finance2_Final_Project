@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004127",
+    "sec_company_name": "SKYWORKS SOLUTIONS, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180205",
+    "sec_filing_date": "20180205",
+    "sec_changed_date": "20180205",
+    "sec_accepted_date": "20180205162005",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412718000010/0000004127-18-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412718000010/0000004127-18-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\SWKS_0000004127_8K_20180205_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "38600 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2957,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SWKS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\SWKS_0000004127_8K_20180205_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:29:42.062691"
+}

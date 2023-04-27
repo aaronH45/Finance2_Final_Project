@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080661",
+    "sec_company_name": "PROGRESSIVE CORP/OH/ (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200302",
+    "sec_changed_date": "20200302",
+    "sec_accepted_date": "20200302155608",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80661/000008066120000006/0000080661-20-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80661/000008066120000006/0000080661-20-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\PGR_0000080661_EX99_20191231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "47475 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24971,
+    "endpoints": [
+        "Exhibit  ",
+        "7"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PGR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\PGR_0000080661_EX99_20191231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:18:22.271056"
+}

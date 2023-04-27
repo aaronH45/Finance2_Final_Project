@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000815097",
+    "sec_company_name": "CARNIVAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190114",
+    "sec_filing_date": "20190116",
+    "sec_changed_date": "20190116",
+    "sec_accepted_date": "20190116160135",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/815097/000119312519010578/0001193125-19-010578-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/815097/000119312519010578/0001193125-19-010578.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CCL_0000815097_EX991_20190114_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7844 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4650,
+    "endpoints": [
+        "EX-99.1   ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CCL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CCL_0000815097_EX991_20190114_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:55:56.463693"
+}

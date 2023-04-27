@@ -1,0 +1,45 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk
+
+Our current interest rate risk exposure is related primarily to our debt portfolio. Our debt portfolio is primarily comprised of fixed rate debt, which mitigates the impact of fluctuations in interest rates. Any borrowings under our credit facility and any issuances under our commercial paper program could be at a variable interest rate and could expose us to the risk of increasing interest rates. The maturity of our long-term debt portfolio is partially influenced by the expected lives of our operating assets. (See Note 13 – Debt and Banking Arrangements of Notes to Consolidated Financial Statements.)
+
+The tables below provide information by maturity date about our interest rate risk-sensitive instruments as of December 31, 2021 and 2020. See Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements for the methods used in determining the fair value of our long-term debt. 
+
+[DATA_TABLE_REMOVED]
+
+__________________
+
+(1) Includes unamortized discount / premium and debt issuance costs. 
+
+Commodity Price Risk
+
+We are exposed to the impact of fluctuations in the market price of natural gas, NGLs, and crude oil as well as other market factors, such as market volatility and energy commodity price correlations. We are exposed to these risks in connection with our owned energy-related assets, our long-term energy-related contracts, and limited proprietary trading activities. Our management of the risks associated with these market fluctuations includes maintaining sufficient liquidity, as well as using various derivatives and nonderivative energy-related contracts. The fair value of derivative contracts is subject to many factors, including changes in energy commodity market prices, the liquidity and volatility of the markets in which the contracts are transacted, and changes in interest rates. 
+
+Sequent routinely utilizes various types of derivative instruments to economically hedge certain commodity price risks inherent in the natural gas marketing industry. These instruments include a variety of exchange-traded and OTC energy contracts such as forward contracts, futures contracts, and basis swaps, as well as physical transactions that qualify as derivatives. These economic hedging activities are not designated and do not qualify for hedge accounting treatment.
+
+64
+
+The maturities of Sequent’s derivative contracts at December 31, 2021 were as follows:
+
+[DATA_TABLE_REMOVED]
+
+_______________
+
+(1)See Note 17 – Fair Value Measurements, Guarantees, and Concentration of Credit Risk of Notes to Consolidated Financial Statements for discussion of valuation techniques by level within the fair value hierarchy. See Note 18 – Derivatives for the amount of change in fair value recognized in the Consolidated Statement of Income. 
+
+(2)Excludes cash collateral of $267 million in Level 1.
+
+Sequent Value at Risk (VaR)
+
+VaR is the maximum potential loss in portfolio value over a specified time period that is not expected to be exceeded within a given degree of probability. Sequent’s VaR may not be comparable to that of other companies due to differences in the factors used to calculate VaR. Sequent’s VaR is determined using a parametric model with a 95 percent confidence interval and a one-day holding period, which means that 95 percent of the time, the risk of loss in a day from a portfolio of positions is expected to be less than or equal to the amount of VaR calculated. The open exposure of Sequent is managed in accordance with established policies that limit market risk and require daily reporting of potential financial exposure to senior management. Because Sequent generally manages physical gas assets and economically protects its positions by hedging in the futures markets, Sequent’s open exposure is generally mitigated. Sequent employs daily risk testing, using both VaR and stress testing, to evaluate the risk of its positions.
+
+Sequent actively monitors open commodity positions and the resulting VaR and maintains a relatively small risk exposure as total buy volume is close to sell volume, with minimal open natural gas price risk.
+
+Sequent had the following VaRs for the period subsequent to the Sequent Acquisition: 
+
+[DATA_TABLE_REMOVED] 
+
+65
+
+Item 8. Financial Statements and Supplementary Data

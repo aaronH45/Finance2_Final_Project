@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001059556",
+    "sec_company_name": "MOODYS CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220210",
+    "sec_filing_date": "20220210",
+    "sec_changed_date": "20220210",
+    "sec_accepted_date": "20220210071532",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1059556/000115752322000174/0001157523-22-000174-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1059556/000115752322000174/0001157523-22-000174.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MCO_0001059556_EX991_20220210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1300897 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 32580,
+    "endpoints": [
+        "Exhibit 99.1",
+        " moodys.com/sustainability"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MCO_0001059556_EX991_20220210_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:14.890565"
+}

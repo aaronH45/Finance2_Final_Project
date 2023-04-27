@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000922864",
+    "sec_company_name": "APARTMENT INVESTMENT & MANAGEMENT CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150112",
+    "sec_filing_date": "20150114",
+    "sec_changed_date": "20150114",
+    "sec_accepted_date": "20150114172659",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/922864/000119312515010821/0001193125-15-010821-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/922864/000119312515010821/0001193125-15-010821.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AIV_0000922864_EX991_20150112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7984 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5346,
+    "endpoints": [
+        "EX-99.1   ",
+        "Readers should carefully review Aimco’s financial statements and notes thereto, as well as the risk factors described in Aimco’s Annual Report on Form 10-K for the year ended December 31, 2013, and the other documents Aimco files from time to time with the Securities and Exchange Commission (the “SEC”). These forward-looking statements reflect management’s judgment as of this date, and Aimco assumes no obligation to revise or update them to reflect future events or circumstances."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AIV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AIV_0000922864_EX991_20150112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:20:27.967991"
+}

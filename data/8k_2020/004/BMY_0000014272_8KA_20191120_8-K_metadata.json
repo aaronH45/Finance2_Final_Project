@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000014272",
+    "sec_company_name": "BRISTOL MYERS SQUIBB CO (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20191120",
+    "sec_filing_date": "20200205",
+    "sec_changed_date": "20200205",
+    "sec_accepted_date": "20200205164238",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/14272/000114036120002397/0001140361-20-002397-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/14272/000114036120002397/0001140361-20-002397.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\BMY_0000014272_8KA_20191120_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "53251 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7190,
+    "endpoints": [
+        "trueAmendment No. 1000001427200000142722019-11-202019-11-200000014272bmy:CelgeneContingentValueRightsMember2019-11-202019-11-200000014272us-gaap:CommonStockMember2019-11-202019-11-200000014272bmy:BristolMyersSquibbContingentValueRightsMember2019-11-202019-11-200000014272bmy:One750NotesDue2035Member2019-11-202019-11-200000014272bmy:One000NotesDue2025Member2019-11-202019-11-20 ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BMY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\BMY_0000014272_8KA_20191120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:48:02.953171"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000019617",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220114",
+    "sec_filing_date": "20220114",
+    "sec_changed_date": "20220114",
+    "sec_accepted_date": "20220114105408",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961722000081/0000019617-22-000081-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961722000081/0000019617-22-000081.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\JPM_0000019617_EX99_20220114_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "42055 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 32593,
+    "endpoints": [
+        "a4q21_earningsxpresentat   ",
+        "Forward-looking statements This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase & forth in the forward- materially from those described in the forward- Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Reports on Form 10-Q for the quarterly periods ended September 30, 2021, June 30, 2021 and March 31, 2021, which have been filed with the (https://jpmorganchaseco.gcs-web.com/financial-information/sec-filings), and on the Securities and Exchange -looking statements. 24"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JPM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\JPM_0000019617_EX99_20220114_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:38.227873"
+}

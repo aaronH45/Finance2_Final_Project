@@ -1,0 +1,1563 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) 
+
+This discussion contains forward-looking statements that are based upon management’s current expectations and are subject to significant uncertainties and changes in circumstances. Please review “Part I-Item 1. Business—Forward-Looking Statements” for more information on the forward-looking statements in this 2019 Annual Report on Form 10-K (“this Report”). All statements that address operating performance, events or developments that we expect or anticipate will occur in the future, including those relating to operating results and the Cybersecurity Incident described in “Part I—Item 1. Business—Overview—Cybersecurity Incident” and “Note 18—Commitments, Contingencies, Guarantees and Others” are forward-looking statements. Our actual results may differ materially from those included in these forward-looking statements due to a variety of factors including, but not limited to, those described in “Part I—Item 1A. Risk Factors” in this Report. Unless otherwise specified, references to notes to our consolidated financial statements refer to the notes to our consolidated financial statements as of December 31, 2019 included in this Report.
+
+Management monitors a variety of key indicators to evaluate our business results and financial condition. The following MD&A is intended to provide the reader with an understanding of our results of operations, financial condition and liquidity by focusing on changes from year to year in certain key measures used by management to evaluate performance, such as profitability, growth and credit quality metrics. MD&A is provided as a supplement to, and should be read in conjunction with, our audited consolidated financial statements as of and for the year ended December 31, 2019 and accompanying notes. MD&A is organized in the following sections:
+
+• Executive Summary and Business Outlook • Capital Management
+
+• Consolidated Results of Operations • Risk Management
+
+• Consolidated Balance Sheets Analysis • Credit Risk Profile
+
+• Off-Balance Sheet Arrangements • Liquidity Risk Profile
+
+• Business Segment Financial Performance • Market Risk Profile
+
+• Critical Accounting Policies and Estimates • Supplemental Tables
+
+• Accounting Changes and Developments • Glossary and Acronyms
+
+EXECUTIVE SUMMARY AND BUSINESS OUTLOOK
+
+Financial Highlights
+
+We reported net income of $5.5 billion ($11.05 per diluted common share) on total net revenue of $28.6 billion for 2019. In comparison, we reported net income of $6.0 billion ($11.82 per diluted common share) on total net revenue of $28.1 billion for 2018, and $2.0 billion ($3.49 per diluted common share) on total net revenue of $27.2 billion for 2017.
+
+Our common equity Tier 1 capital ratio as calculated under the Basel III Standardized Approach was 12.2% and 11.2% as of December 31, 2019 and 2018, respectively. See “MD&A—Capital Management” below for additional information.
+
+On June 27, 2019, we announced that our Board of Directors authorized the repurchase of up to $2.2 billion of shares of our common stock (“2019 Stock Repurchase Program”) beginning in the third quarter of 2019 through the end of the second quarter of 2020. Through the end of 2019, we repurchased approximately $1.4 billion of shares of our common stock under the 2019 Stock Repurchase Program. See “MD&A—Capital Management—Dividend Policy and Stock Purchases” for additional information.
+
+On July 29, 2019, we announced the Cybersecurity Incident. For more information, see “Part I—Item 1. Business—Overview—Cybersecurity Incident” and “Note 18—Commitments, Contingencies, Guarantees and Others.” 
+
+Below are additional highlights of our performance in 2019. These highlights are generally based on a comparison between the results of 2019 and 2018, except as otherwise noted. The changes in our financial condition and credit performance are generally based on our financial condition and credit performance as of December 31, 2019 compared to our financial condition and credit performance as of December 31, 2018. We provide a more detailed discussion of our financial performance in the sections following this “Executive Summary and Business Outlook.” 
+
+ 40Capital One Financial Corporation (COF)
+Discussions of our performance in 2017 and comparisons between 2018 and 2017 can be found in “Part II—Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+
+Total Company Performance[DATA_TABLE_REMOVED]
+
+◦higher non-interest expense due to continued investments in technology and infrastructure, expenses related to the Walmart partnership, and increased marketing expense;
+
+◦higher provision for credit losses largely due to credit deterioration in our commercial energy loan portfolio and an allowance release in our auto loan portfolio in 2018; and
+
+◦the net impact of the absence of significant activities that occurred in 2018, including gains from the sales of our exited businesses, a benefit related to a tax methodology change on rewards costs, an impairment charge as a result of repositioning our investment securities portfolio, and a legal reserve build.
+
+These drivers were partially offset by:
+
+◦higher net interest income due to higher yields on interest-earnings assets and growth in our loan portfolio, including the acquired Walmart portfolio, partially offset by higher interest expense from higher rates paid and growth in our deposit products; and
+
+◦an increase in net interchange fees driven by higher purchase volume.
+
+•Loans Held for Investment:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Our 30+ day delinquency rate decreased by 10 basis points to 3.74% as of December 31, 2019 from December 31, 2018 primarily driven by the strong economy and stable underlying credit performance in our domestic credit card loan portfolio, partially offset by the impact of the acquired Walmart portfolio.[DATA_TABLE_REMOVED]
+
+Our allowance coverage ratio decreased by 23 basis points to 2.71% as of December 31, 2019 from December 31, 2018 primarily driven by the strong economy and stable underlying credit performance in our domestic credit card loan portfolio and the impacts from partner loss sharing arrangements, offset by higher reserves in our commercial banking business. 
+
+ 41Capital One Financial Corporation (COF)
+Business Outlook 
+
+We discuss below our expectations as of the time this Report was filed regarding our total company performance and the performance of our business segments based on market conditions, the regulatory environment and our business strategies. The statements contained in this section are based on our current expectations regarding our outlook for our financial results and business strategies. Our expectations take into account, and should be read in conjunction with, our expectations regarding economic trends and analysis of our business as discussed in “Part I—Item 1. Business” and “Part II—Item 7. MD&A” in this Report. Certain statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results could differ materially from those in our forward-looking statements. Except as otherwise disclosed, forward-looking statements do not reflect:
+
+•any change in current dividend or repurchase strategies;
+
+•the effect of any acquisitions, divestitures or similar transactions that have not been previously disclosed;
+
+•any changes in laws, regulations or regulatory interpretations, in each case after the date as of which such statements are made; or
+
+•the potential impact on our business, operations and reputation from, and expenses and uncertainties associated with, the Cybersecurity Incident, other than the incremental costs related to the incident we expect to incur in 2020 which will be separately reported as an adjusting item as it relates to the Company’s financial results.
+
+See “Part I—Item 1. Business—Forward-Looking Statements” in this Report for more information on the forward-looking statements included in this Report and “Part I—Item 1A. Risk Factors” in this Report for factors that could materially influence our results.
+
+Total Company Expectations
+
+Marketing and Efficiency:
+
+•We expect to achieve modest improvements in full-year operating efficiency ratio, net of adjustments, in 2020, with a bigger move down to 42% in 2021.
+
+•We expect the operating efficiency ratio improvement to drive significant improvement in our total efficiency ratio by 2021.
+
+•We expect marketing expense for full-year 2020 to be moderately higher than marketing expense for full-year 2019.
+
+Capital/Current Expected Credit Loss (“CECL”):
+
+•We estimate that the adoption of the CECL model will increase our reserves for credit losses by approximately $2.9 billion and expect that the phased-in impact of adopting CECL will reduce our common equity Tier 1 capital ratio by 16 basis points in the first quarter of 2020. See “MD&A—Accounting Changes and Developments” in this Report for additional information related to the CECL adoption impact.
+
+•We expect the recently finalized Tailoring Rules will provide a tailwind to our capital reduction under stress and that we believe there is an opportunity for capital relief under the Stress Capital Buffer Proposed Rule.
+
+•We expect when we opt-out of the requirement to include in regulatory capital certain elements of Accumulated other comprehensive income (“AOCI”) under the Tailoring Rules, our common equity Tier 1 ratio will decrease about 30 basis points. 
+
+Business Segment Expectations
+
+Consumer Banking:
+
+•We continue to expect that the annual auto net charge-off rate will increase gradually as the cycle plays out.
+
+ 42Capital One Financial Corporation (COF)
+CONSOLIDATED RESULTS OF OPERATIONS
+
+The section below provides a comparative discussion of our consolidated financial performance for 2019 and 2018. We provide a discussion of our business segment results in the following section, “MD&A—Business Segment Financial Performance.” You should read this section together with our “MD&A—Executive Summary and Business Outlook,” where we discuss trends and other factors that we expect will affect our future results of operations.
+
+Net Interest Income
+
+Net interest income represents the difference between the interest income, including certain fees, earned on our interest-earning assets and the interest expense incurred on our interest-bearing liabilities. Interest-earning assets include loans, investment securities and other interest-earning assets, while our interest-bearing liabilities include interest-bearing deposits, securitized debt obligations, senior and subordinated notes, other borrowings and other interest-bearing liabilities. Generally, we include in interest income any past due fees on loans that we deem collectible. Our net interest margin, based on our consolidated results, represents the difference between the yield on our interest-earning assets and the cost of our interest-bearing liabilities, including the notional impact of non-interest-bearing funding. We expect net interest income and our net interest margin to fluctuate based on changes in interest rates and changes in the amount and composition of our interest-earning assets and interest-bearing liabilities.
+
+ 43Capital One Financial Corporation (COF)
+Table 1 below presents the average outstanding balance, interest income earned, interest expense incurred and average yield for 2019, 2018 and 2017 for each major category of our interest-earning assets and interest-bearing liabilities. Nonperforming loans are included in the average loan balances below. 
+
+Table 1: Average Balances, Net Interest Income and Net Interest Margin
+
+[DATA_TABLE_REMOVED]__________[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(3) Interest income/expense of Other represents the impact of hedge accounting of our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above. 
+
+**Not meaningful.
+
+ 44Capital One Financial Corporation (COF)
+Net interest income increased by $465 million to $23.3 billion in 2019 compared to 2018, primarily driven by higher yields on interest-earnings assets and growth in our loan portfolio, including the acquired Walmart portfolio, partially offset by higher interest expense from higher rates paid and growth in our deposit products.
+
+Net interest margin decreased by 4 basis points to 6.83% in 2019 compared to 2018 as higher rates on our retail deposits were largely offset by higher yields on interest-earning assets and growth in our loan portfolio.
+
+Table 2 displays the change in our net interest income between periods and the extent to which the variance is attributable to:
+
+•changes in the volume of our interest-earning assets and interest-bearing liabilities; or
+
+•changes in the interest rates related to these assets and liabilities.
+
+Table 2: Rate/Volume Analysis of Net Interest Income(1) 
+
+[DATA_TABLE_REMOVED]__________
+
+(1) We calculate the change in interest income and interest expense separately for each item. The portion of interest income or interest expense attributable to both volume and rate is allocated proportionately when the calculation results in a positive value. When the portion of interest income or interest expense attributable to both volume and rate results in a negative value, the total amount is allocated to volume or rate, depending on which amount is positive.
+
+(2) Some of our commercial loans generate tax-exempt income. Accordingly, we present our Commercial Banking interest income and yields on a taxable- equivalent basis, calculated using the federal statutory rate (21% for 2019 and 2018 and 35% for 2017) and state taxes where applicable, with offsetting reductions to the Other category.
+
+(3) Interest income/expense of Other represents the impact of hedge accounting of our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above.
+
+ 45Capital One Financial Corporation (COF)
+Non-Interest Income
+
+Table 3 displays the components of non-interest income for 2019, 2018 and 2017.
+
+Table 3: Non-Interest Income
+
+[DATA_TABLE_REMOVED]________[DATA_TABLE_REMOVED]
+
+Non-interest income remained relatively flat at $5.3 billion in 2019 as the increase in net interchange fees, driven by higher purchase volume, was largely offset by:
+
+•the absence of the significant activities that occurred in 2018, including the gains from the sales of our exited businesses and the impairment charge as a result of repositioning our investment securities portfolio; and
+
+•lower service charges and other customer-related fees.
+
+Provision for Credit Losses
+
+Our provision for credit losses in each period is driven by net charge-offs, changes to the allowance for loan and lease losses, and changes to the reserve for unfunded lending commitments. We recorded a provision for credit losses of $6.2 billion, $5.9 billion and $7.6 billion in 2019, 2018 and 2017, respectively. The provision for credit losses as a percentage of net interest income was 26.7%, 25.6% and 33.6% in 2019, 2018 and 2017, respectively.
+
+Our provision for credit losses increased by $380 million to $6.2 billion in 2019 compared to 2018 primarily driven by credit deterioration in our commercial energy loan portfolio and an allowance release in our auto loan portfolio in 2018 .
+
+We provide additional information on the provision for credit losses and changes in the allowance for loan and lease losses within “MD&A—Credit Risk Profile,” and “Note 4—Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments.” For information on the allowance methodology for each of our loan categories, see “Note 1—Summary of Significant Accounting Policies.”
+
+ 46Capital One Financial Corporation (COF)
+Non-Interest Expense
+
+Table 4 displays the components of non-interest expense for 2019, 2018 and 2017. 
+
+Table 4: Non-Interest Expense
+
+[DATA_TABLE_REMOVED]_________[DATA_TABLE_REMOVED]
+
+(2) Includes $38 million of net Cybersecurity Incident expenses in 2019, consisting of $72 million of expenses and $34 million of insurance recoveries.
+
+Non-interest expense increased by $581 million to $15.5 billion in 2019 compared to 2018 primarily due to continued investments in technology and infrastructure, expenses related to the Walmart partnership, and increased marketing expenses, partially offset by the absence of a legal reserve build.
+
+Income Taxes
+
+We recorded income tax provisions of $1.3 billion (19.5% effective income tax rate), $1.3 billion (17.7% effective income tax rate) and $3.4 billion (61.5% effective income tax rate) in 2019, 2018 and 2017, respectively. Our effective tax rate on income from continuing operations varies between periods due, in part, to the impact of the changes in tax credits, tax-exempt income, and non-deductible expenses relative to our pre-tax earnings. 
+
+We recorded discrete tax benefits of $19 million in 2019, discrete tax benefits of $318 million in 2018 primarily driven by a benefit of $284 million related to a tax methodology change on rewards costs and discrete tax expenses of $1.7 billion in 2017 primarily consisting of the charges of $1.8 billion for the estimated impacts of the Tax Act. 
+
+The increase in our effective tax rate in 2019 compared to 2018 was primarily due to a decrease in recorded discrete tax benefit, partially offset by higher tax credits and lower non-deductible expenses relative to our income.
+
+We provide additional information on items affecting our income taxes and effective tax rate in “Note 15—Income Taxes”.
+
+ 47Capital One Financial Corporation (COF)
+CONSOLIDATED BALANCE SHEETS ANALYSIS
+
+Total assets increased by $17.8 billion to $390.4 billion as of December 31, 2019 from December 31, 2018 primarily driven by growth in our domestic credit card loan portfolio, including the acquired Walmart portfolio, as well as growth in our commercial and auto loan portfolios.
+
+Total liabilities increased by $11.5 billion to $332.4 billion as of December 31, 2019 from December 31, 2018 primarily driven by deposit growth, partially offset by maturities of our short-term Federal Home Loan Banks (“FHLB”) advances.
+
+Stockholders’ equity increased by $6.3 billion to $58.0 billion as of December 31, 2019 from December 31, 2018 primarily due to our net income of $5.5 billion, changes in accumulated other comprehensive income of $2.4 billion and the net issuance of preferred stock, partially offset by repurchases of common stock under the 2019 Stock Repurchase Program and dividend payments to our stockholders.
+
+The following is a discussion of material changes in the major components of our assets and liabilities during 2019. Period-end balance sheet amounts may vary from average balance sheet amounts due to liquidity and balance sheet management activities that are intended to support the adequacy of capital while managing our liquidity requirements, our customers and our market risk exposure in accordance with our risk appetite.
+
+Investment Securities 
+
+Our investment securities portfolio consists primarily of the following: U.S. Treasury securities; U.S. government-sponsored enterprise or agency (“Agency”) and non-agency residential mortgage-backed securities (“RMBS”); Agency commercial mortgage-backed securities (“CMBS”); and other securities. Agency securities include Government National Mortgage Association (“Ginnie Mae”) guaranteed securities, Federal National Mortgage Association (“Fannie Mae”) and Federal Home Loan Mortgage Corporation (“Freddie Mac”) issued securities. The U.S. Treasury and Agency securities generally have high credit ratings and low credit risks, and our investments in U.S. Treasury and Agency securities represented 96% of our total investment securities portfolio, as of both December 31, 2019 and 2018.
+
+On December 31, 2019, we transferred our entire portfolio of held to maturity securities to available for sale in consideration of changes to regulatory capital requirements under the Tailoring Rules. As a Category III institution, we are no longer required to include in regulatory capital certain elements of AOCI, including unrealized gains and losses from available for sale securities. The impact of this transfer and changes in interest rates increased the fair value of our available for sale securities portfolio by $33.1 billion to $79.2 billion as of December 31, 2019 from December 31, 2018. See “MD&A—Capital Management” and “Note 2—Investment Securities” for more information. 
+
+Table 5 presents the amortized cost and fair value for the major categories of our available for sale securities portfolio as of December 31, 2019, 2018 and 2017.
+
+Table 5: Investment Securities
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Includes primarily supranational bonds, foreign government bonds and other asset-backed securities.
+
+ 48Capital One Financial Corporation (COF)
+Loans Held for Investment
+
+Total loans held for investment consist of both unsecuritized loans and loans held in our consolidated trusts. Table 6 summarizes the carrying value of our loans held for investment by portfolio segment, the allowance for loan and lease losses, and net loan balance as of December 31, 2019 and 2018.
+
+Table 6: Loans Held for Investment 
+
+[DATA_TABLE_REMOVED]
+
+Loans held for investment increased by $19.9 billion to $265.8 billion as of December 31, 2019 from December 31, 2018 primarily driven by growth in our domestic credit card loan portfolio, including the acquired Walmart portfolio, as well as growth in our commercial and auto loan portfolios.
+
+We provide additional information on the composition of our loan portfolio and credit quality below in “MD&A—Credit Risk Profile,” “MD&A—Consolidated Results of Operations” and “Note 3—Loans.”
+
+Funding Sources
+
+Our primary source of funding comes from deposits, as they are a stable and relatively low cost source of funding. In addition to deposits, we also raise funding through the issuance of securitized debt obligations and other debt. Other debt primarily consists of senior and subordinated notes, FHLB advances secured by certain portions of our loan and securities portfolios, and federal funds purchased and securities loaned or sold under agreements to repurchase.
+
+Table 7 provides the composition of our primary sources of funding as of December 31, 2019 and 2018.
+
+Table 7: Funding Sources Composition 
+
+[DATA_TABLE_REMOVED]__________[DATA_TABLE_REMOVED]
+
+Total deposits increased by $12.9 billion to $262.7 billion as of December 31, 2019 from December 31, 2018 primarily driven by strong growth as a result of our national banking strategy in our Consumer Banking business.
+
+Securitized debt obligations decreased by $499 million to $17.8 billion as of December 31, 2019 from December 31, 2018 primarily driven by net maturities in our credit card securitizations, partially offset by issuances in our auto securitizations.
+
+Other debt decreased by $2.7 billion to $37.9 billion as of December 31, 2019 from December 31, 2018 primarily driven by maturities of our short-term FHLB advances.
+
+We provide additional information on our funding sources in “MD&A—Liquidity Risk Profile” and “Note 8—Deposits and Borrowings.”
+
+ 49Capital One Financial Corporation (COF)
+Deferred Tax Assets and Liabilities
+
+Deferred tax assets and liabilities represent decreases or increases in taxes expected to be paid in the future because of future reversals of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as from net operating loss and tax credit carryforwards. Deferred tax assets are recognized subject to management’s judgment that these future deductions are more likely than not to be realized. We evaluate the recoverability of these future tax deductions by assessing the adequacy of expected taxable income from all sources, including taxable income in carryback years, reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies. These sources of income rely heavily on estimates. We use our historical experience and our short and long-range business forecasts to provide insight.
+
+Deferred tax assets, net of deferred tax liabilities and valuation allowances, were approximately $1.7 billion as of December 31, 2019, a decrease of $425 million from December 31, 2018. The decrease in our net deferred tax assets was primarily driven by the increase in the fair value of our investment securities portfolio.
+
+We recorded valuation allowances of $223 million and $245 million as of December 31, 2019 and 2018, respectively. We expect to fully realize the 2019 net deferred tax assets in future periods. If changes in circumstances lead us to change our judgment about our ability to realize deferred tax assets in future years, we will adjust our valuation allowances in the period that our change in judgment occurs and record a corresponding increase or charge to income.
+
+We provide additional information on income taxes in “MD&A—Consolidated Results of Operations” and “Note 15 — Income Taxes.”
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+In the ordinary course of business, we engage in certain activities that are not reflected on our consolidated balance sheets, generally referred to as off-balance sheet arrangements. These activities typically involve transactions with unconsolidated variable interest entities (“VIEs”) as well as other arrangements, such as letters of credit, loan commitments and guarantees, to meet the financing needs of our customers and support their ongoing operations. We provide additional information regarding these types of activities in “Note 5—Variable Interest Entities and Securitizations” and “Note 18—Commitments, Contingencies, Guarantees and Others.”
+
+BUSINESS SEGMENT FINANCIAL PERFORMANCE
+
+Our principal operations are organized for management reporting purposes into three major business segments, which are defined primarily based on the products and services provided or the types of customer served: Credit Card, Consumer Banking and Commercial Banking. The operations of acquired businesses have been integrated into our existing business segments. Certain activities that are not part of a segment, such as management of our corporate investment portfolio, asset/liability management by our centralized Corporate Treasury group and residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments, are included in the Other category.
+
+The results of our individual businesses, which we report on a continuing operations basis, reflect the manner in which management evaluates performance and makes decisions about funding our operations and allocating resources. We may periodically change our business segments or reclassify business segment results based on modifications to our management reporting methodologies and changes in organizational alignment. Our business segment results are intended to reflect each segment as if it were a stand-alone business. We use an internal management and reporting process to derive our business segment results. Our internal management and reporting process employs various allocation methodologies, including funds transfer pricing, to assign certain balance sheet assets, deposits and other liabilities and their related revenue and expenses directly or indirectly attributable to each business segment. Total interest income and non-interest income are directly attributable to the segment in which they are reported. The net interest income of each segment reflects the results of our funds transfer pricing process, which is primarily based on a matched funding concept that takes into consideration market interest rates. Our funds transfer pricing process provides a funds credit for sources of funds, such as deposits generated by our Consumer Banking and Commercial Banking businesses, and a charge for the use of funds by each segment. The allocation process is unique to each business segment and acquired businesses. We regularly assess the assumptions, methodologies and reporting classifications used for segment reporting, which may result in the implementation of refinements or changes in future periods.
+
+We refer to the business segment results derived from our internal management accounting and reporting process as our “managed” presentation, which differs in some cases from our reported results prepared based on U.S. GAAP. There is no comprehensive 
+
+ 50Capital One Financial Corporation (COF)
+authoritative body of guidance for management accounting equivalent to U.S. GAAP; therefore, the managed presentation of our business segment results may not be comparable to similar information provided by other financial services companies. In addition, our individual business segment results should not be used as a substitute for comparable results determined in accordance with U.S. GAAP.
+
+We summarize our business segment results for the years ended December 31, 2019, 2018 and 2017 and provide a comparative discussion of the results of 2019 and 2018, as well as changes in our financial condition and credit performance metrics as of December 31, 2019 compared to December 31, 2018. We provide a reconciliation of our total business segment results to our reported consolidated results in “Note 17—Business Segments and Revenue from Contracts with Customers.”
+
+Business Segment Financial Performance
+
+Table 8 summarizes our business segment results, which we report based on revenue and income from continuing operations, for the years ended December 31, 2019, 2018 and 2017. We provide information on the allocation methodologies used to derive our business segment results in “Note 17—Business Segments and Revenue from Contracts with Customers.”
+
+Table 8: Business Segment Results 
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1) Total net revenue consists of net interest income and non-interest income.
+
+(2) Net income (loss) for our business segments and the Other category is based on income from continuing operations, net of tax.
+
+(3) Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate (21% for 2019 and 2018 and 35% for 2017) and state taxes where applicable, with offsetting reductions to the Other category.  
+
+(4) In the first quarter of 2019, we made a change in how revenue is measured in our Commercial Banking business by revising the allocation of tax benefits on certain tax-advantaged investments. As such, prior period results have been recast to conform with the current period presentation. The result of this measurement change reduced the previously reported total net revenue in our Commercial Banking business by $108 million for the year ended December 31, 2018, with an offsetting increase in the Other category.
+
+ 51Capital One Financial Corporation (COF)
+Credit Card Business
+
+The primary sources of revenue for our Credit Card business are net interest income, net interchange income and fees collected from customers. Expenses primarily consist of the provision for credit losses, operating costs and marketing expenses.
+
+Our Credit Card business generated net income from continuing operations of $3.1 billion, $3.2 billion and $1.9 billion in 2019, 2018 and 2017, respectively.
+
+Table 9 summarizes the financial results of our Credit Card business and displays selected key metrics for the periods indicated.
+
+Table 9: Credit Card Business Results
+
+[DATA_TABLE_REMOVED]__________[DATA_TABLE_REMOVED]
+
+(2) Period-end loans held for investment and average loans held for investment include billed finance charges and fees, net of the estimated uncollectible amount.
+
+(3) Average yield on loans held for investment is calculated by dividing interest income for the period by average loans held for investment during the period. Interest income excludes various allocations including funds transfer pricing that assigns certain balance sheet assets, deposits and other liabilities and their related revenue and expenses attributable to each business segment. 
+
+(4) Total net revenue margin is calculated by dividing total net revenue for the period by average loans held for investment during the period. Interest income also includes interest income on loans held for sale. 
+
+(5) Within our credit card loan portfolio, only certain loans in our international card businesses are classified as nonperforming. See “MD&A—Nonperforming Loans and Other Nonperforming Assets” for additional information.
+
+ 52Capital One Financial Corporation (COF)
+Key factors affecting the results of our Credit Card business for 2019 compared to 2018, and changes in financial condition and credit performance between December 31, 2019 and December 31, 2018 include the following:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The 30+ day delinquency rate decreased by 10 basis points to 3.91% as of December 31, 2019 from December 31, 2018 primarily due to the strong economy and stable underlying credit performance in our domestic credit card loan portfolio, partially offset by the impacts of the acquired Walmart portfolio.
+
+ 53Capital One Financial Corporation (COF)
+Domestic Card Business
+
+The Domestic Card business generated net income from continuing operations of $3.0 billion in both 2019 and 2018 and $1.7 billion in 2017. In 2019, 2018 and 2017, the Domestic Card business accounted for greater than 90% of total net revenue of our Credit Card business.
+
+Table 9.1 summarizes the financial results for Domestic Card business and displays selected key metrics for the periods indicated.
+
+Table 9.1: Domestic Card Business Results
+
+[DATA_TABLE_REMOVED]__________
+
+(1) We recognize billed finance charges and fee income on open-ended loans in accordance with the contractual provisions of the credit arrangements and estimate the uncollectible amount on a quarterly basis. The estimated uncollectible amount of billed finance charges and fees is reflected as a reduction in revenue and is not included in our net charge-offs.
+
+(2) Period-end loans held for investment and average loans held for investment include billed finance charges and fees, net of the estimated uncollectible amount.
+
+(3) Average yield on loans held for investment is calculated by dividing interest income for the period by average loans held for investment during the period. Interest income excludes various allocations including funds transfer pricing that assigns certain balance sheet assets, deposits and other liabilities and their related revenue and expenses attributable to each business segment. 
+
+(4) Total net revenue margin is calculated by dividing total net revenue for the period by average loans held for investment during the period.
+
+Because our Domestic Card business accounts for the substantial majority of our Credit Card business, the key factors driving the results are similar to the key factors affecting our total Credit Card business. Net income for our Domestic Card business increased in 2019 compared to 2018 primarily driven by:
+
+•an increase in net interchange fees due to higher purchase volume; and
+
+•higher net interest income due to growth in our loan portfolio, including the acquired Walmart portfolio.
+
+These drivers were partially offset by continued investments in technology and infrastructure and expenses related to the Walmart partnership. 
+
+ 54Capital One Financial Corporation (COF)
+Consumer Banking Business
+
+The primary sources of revenue for our Consumer Banking business are net interest income from loans and deposits, net interchange income and service charges and customer-related fees. Expenses primarily consist of the provision for credit losses, operating costs and marketing expenses.
+
+Our Consumer Banking business generated net income from continuing operations of $1.8 billion in both 2019 and 2018 and $1.1 billion in 2017.
+
+Table 10 summarizes the financial results of our Consumer Banking business and displays selected key metrics for the periods indicated.
+
+Table 10: Consumer Banking Business Results 
+
+[DATA_TABLE_REMOVED]__________
+
+ 55Capital One Financial Corporation (COF)
+(1) In 2018, we sold all of our consumer home loan portfolio and the related servicing. The impact of this sale is reflected in the Other category.
+
+(2) Average yield on loans held for investment is calculated by dividing interest income for the period by average loans held for investment during the period. Interest income excludes various allocations including funds transfer pricing that assigns certain balance sheet assets, deposits and other liabilities and their related revenue and expenses attributable to each business segment. 
+
+(3) Nonperforming assets primarily consist of nonperforming loans and repossessed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment and repossessed assets.
+
+**Not meaningful.
+
+Key factors affecting the results of our Consumer Banking business for 2019 compared to 2018, and changes in financial condition and credit performance between December 31, 2019 and December 31, 2018 include the following:[DATA_TABLE_REMOVED]
+
+Consumer Banking loan yields increased by 83 basis points to 8.37% in 2019 compared to 2018. The increase was primarily driven by changes in product mix due to the sale of our consumer home loan portfolio as well as originated yield improvements in our auto loan portfolio.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The 30+ day delinquency rate remained substantially flat at 7.34% as of December 31, 2019 from December 31, 2018 as the impact of growth in our auto loan portfolio was largely offset by higher auto delinquency inventories.
+
+Commercial Banking Business
+
+The primary sources of revenue for our Commercial Banking business are net interest income from loans and deposits and non-interest income from customer fees and other products and services. Because our Commercial Banking business has loans and investments that generate tax-exempt income, tax credits or other tax benefits, we present the revenues on a taxable-equivalent basis. Expenses primarily consist of the provision for credit losses, operating costs and marketing expenses.
+
+Our Commercial Banking business generated net income from continuing operations of $621 million, $806 million and $676 million in 2019, 2018 and 2017, respectively. 
+
+ 56Capital One Financial Corporation (COF)
+Table 11 summarizes the financial results of our Commercial Banking business and displays selected key metrics for the periods indicated.
+
+Table 11: Commercial Banking Business Results
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate (21% for 2019 and 2018 and 35% for 2017) and state taxes where applicable, with offsetting reductions to the Other category.
+
+(2) In the first quarter of 2019, we made a change in how revenue is measured in our Commercial Banking business by revising the allocation of tax benefits on certain tax-advantaged investments. As such, prior period results have been recast to conform with the current period presentation. The result of this measurement change reduced the previously reported total net revenue in our Commercial Banking business by $108 million for the year ended December 31, 2018, with an offsetting increase in the Other category.  
+
+ 57Capital One Financial Corporation (COF)
+[DATA_TABLE_REMOVED]
+
+(4) Average yield on loans held for investment is calculated by dividing interest income for the period by average loans held for investment during the period. Interest income excludes various allocations including funds transfer pricing that assigns certain balance sheet assets, deposits and other liabilities and their related revenue and expenses attributable to each business segment.
+
+(5) Nonperforming assets consist of nonperforming loans and other foreclosed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment and other foreclosed assets.
+
+**Not meaningful.
+
+Key factors affecting the results of our Commercial Banking business for 2019 compared to 2018, and changes in financial condition and credit performance between December 31, 2019 and December 31, 2018 include the following:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+The nonperforming loan rate increased by 16 basis points to 0.60% as of December 31, 2019 from December 31, 2018 primarily driven by downgrades in our commercial energy loan portfolio.
+
+Other Category
+
+Other includes unallocated amounts related to our centralized Corporate Treasury group activities, such as management of our corporate investment portfolio, asset/liability management and certain capital management activities. Other also includes:
+
+•unallocated corporate revenue and expenses that do not directly support the operations of the business segments or for which the business segments are not considered financially accountable in evaluating their performance, such as certain restructuring charges;
+
+•offsets related to certain line-item reclassifications;
+
+•residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments; and
+
+•foreign exchange-rate fluctuations on foreign currency-denominated balances.
+
+ 58Capital One Financial Corporation (COF)
+Table 12 summarizes the financial results of our Other category for the periods indicated.
+
+Table 12: Other Category Results
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate (21% for 2019 and 2018 and 35% for 2017) and state taxes where applicable, with offsetting reductions to the Other category. 
+
+(2) In the first quarter of 2019, we made a change in how revenue is measured in our Commercial Banking business by revising the allocation of tax benefits on certain tax-advantaged investments. As such, prior period results have been recast to conform with the current period presentation. The result of this measurement change reduced the previously reported total net revenue in our Commercial Banking business by $108 million for the year ended December 31, 2018, with an offsetting increase in the Other category.
+
+(3) Includes $38 million of net Cybersecurity Incident expenses in 2019, consisting of $72 million of expenses and $34 million of insurance recoveries.
+
+**Not meaningful.
+
+Net loss from continuing operations recorded in the Other category was $14 million in 2019 compared to net income of $228 million in 2018, primarily driven by the net impact of the absence of significant activities that occurred in 2018, including gains from the sales of our exited businesses, a benefit related to a tax methodology change on rewards costs, an impairment charge as a result of repositioning our investment securities portfolio, and a legal reserve build.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of financial statements in accordance with U.S. GAAP requires management to make a number of judgments, estimates and assumptions that affect the amount of assets, liabilities, income and expenses on the consolidated financial statements. Understanding our accounting policies and the extent to which we use management judgment and estimates in applying these policies is integral to understanding our financial statements. We provide a summary of our significant accounting policies under “Note 1—Summary of Significant Accounting Policies.”
+
+We have identified the following accounting estimates as critical because they require significant judgments and assumptions about highly complex and inherently uncertain matters and the use of reasonably different estimates and assumptions could have a material impact on our results of operations or financial condition. Our critical accounting policies and estimates are as follows:
+
+•Loan loss reserves
+
+•Asset impairment
+
+•Fair value of financial instruments
+
+•Customer rewards reserve
+
+We evaluate our critical accounting estimates and judgments on an ongoing basis and update them as necessary, based on changing conditions. Management has discussed our critical accounting policies and estimates with the Audit Committee of the Board of Directors.
+
+ 59Capital One Financial Corporation (COF)
+Loan Loss Reserves
+
+We maintain an allowance for loan and lease losses that represents management’s estimate of incurred loan and lease losses inherent in our credit card, consumer banking and commercial banking loans held for investment as of each balance sheet date. We also separately reserve for contractually binding unfunded lending commitments. We build our allowance for loan and lease losses and reserve for unfunded lending commitments through the provision for credit losses, which is driven by charge-offs, changes in the allowance for loan and lease losses and changes in the reserve for unfunded lending commitments. The allowance for loan and lease losses was $7.2 billion as of December 31, 2019 and December 31, 2018.
+
+We have an established process, using analytical tools and management judgment, to determine our allowance for loan and lease losses. Establishing the allowance each quarter involves evaluating many factors including, but not limited to, historical loss and recovery experience, recent trends in delinquencies and charge-offs, risk ratings, the impact of bankruptcy filings, the value of collateral underlying secured loans, account seasoning, changes in our credit evaluation, underwriting and collection management policies, seasonality, credit bureau scores, general economic conditions, changes in the legal and regulatory environment and uncertainties in forecasting and modeling techniques used in estimating our allowance for loan and lease losses. Key factors that have a significant impact on our allowance for loan and lease losses include assumptions about employment levels, home prices and the valuation of commercial properties, automobiles and other collateral.
+
+We have a governance framework intended to ensure that our estimate of the allowance for loan and lease losses is appropriate. Our governance framework provides for oversight of methods, models, qualitative adjustments, process controls and results. At least quarterly, representatives from the Finance and Risk Management organizations review and assess our allowance methodologies, key assumptions and the appropriateness of the allowance for loan and lease losses.
+
+Groups independent of our estimation functions participate in the review and validation process. Tasks performed by these groups include periodic review of the rationale for and quantification of judgmental inputs and adjustments to results.
+
+We have a model policy, established by an independent Model Risk Office, which governs the validation of models and related supporting documentation to ensure the appropriate use of models for estimating credit losses. The Model Risk Office validates all models and requires ongoing monitoring of their performance.
+
+In addition to the allowance for loan and lease losses, we review and assess our estimate of probable losses related to contractually binding unfunded lending commitments on a quarterly basis. The factors impacting our assessment generally align with those considered in our evaluation of the allowance for loan and lease losses for the Commercial Banking business. Changes to the reserve for losses on unfunded lending commitments are recorded through the provision for credit losses in the consolidated statements of income and to other liabilities on the consolidated balance sheets.
+
+Although we examine a variety of externally available data, as well as our internal loan performance data, to determine our allowance for loan and lease losses and reserve for unfunded lending commitments, our estimation process is subject to risks and uncertainties, including a reliance on historical loss and trend information that may not be representative of current conditions and indicative of future performance. Accordingly, our actual credit loss experience may not be in line with our expectations. We provide additional information on the methodologies and key assumptions used in determining our allowance for loan and lease losses for each of our loan portfolio segments in “Note 1—Summary of Significant Accounting Policies.” We provide information on the components of our allowance, disaggregated by impairment methodology, and changes in our allowance in “Note 4—Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments.”
+
+Finance Charge and Fee Reserves
+
+Finance charges and fees on credit card loans are recorded in revenue when earned. Billed finance charges and fees on credit card loans are included in loans held for investment net of amounts that we consider uncollectible. Unbilled finance charges and fees on credit card loans are included in interest receivable. We continue to accrue finance charges and fees on credit card loans until the account is charged-off. When we do not expect full payment of billed finance charges and fees, we reduce the balance of our credit card loan receivables and revenue by the amount of finance charges and fees billed but not expected to be collected. Total net revenue was reduced by $1.4 billion, $1.3 billion and $1.4 billion in 2019, 2018 and 2017, respectively, for the estimated uncollectible amount of billed finance charges and fees. The finance charge and fee reserve totaled $462 million and $468 million as of December 31, 2019 and 2018, respectively.
+
+ 60Capital One Financial Corporation (COF)
+We review and assess the adequacy of the uncollectible finance charge and fee reserve on a quarterly basis. Our methodology for estimating the uncollectible portion of billed finance charges and fees is consistent with the methodology we use to estimate the allowance for incurred losses on the principal portion of our credit card loan receivables.
+
+Asset Impairment
+
+In addition to our loan portfolio, we review other assets for impairment on a regular basis in accordance with applicable accounting guidance. This process requires significant management judgment and involves various estimates and assumptions. Below we describe our process for assessing impairment of goodwill and the key estimates and assumptions involved in this process.
+
+Goodwill
+
+Goodwill represents the excess of the fair value of the consideration transferred in a business combination, plus the fair value of any non-controlling interests in the acquiree, over the fair value of the net assets acquired and liabilities assumed as of the acquisition date. 
+
+Goodwill totaled $14.7 billion and $14.5 billion as of December 31, 2019 and 2018, respectively. We did not recognize any goodwill impairment in 2019 and 2018. See “Note 6—Goodwill and Intangible Assets” for additional information.
+
+We perform our goodwill impairment test annually on October 1 at a reporting unit level. We also are required to test goodwill for impairment whenever events or circumstances indicate it is more-likely-than-not that an impairment may have occurred. We have four reporting units: Credit Card, Auto, Other Consumer Banking and Commercial Banking.
+
+The goodwill impairment test is a two-step process. The first step involves a comparison of the estimated fair value of a reporting unit to its carrying amount, including goodwill. If the estimated fair value exceeds its carrying amount, goodwill of the reporting unit is not impaired. If the estimated fair value of a reporting unit is below its carrying amount, management must estimate the fair value of the assets and liabilities of that reporting unit’s balance sheet based on applicable accounting guidance in order to measure the impairment.
+
+For the purpose of our goodwill impairment testing, we calculate the carrying amount of a reporting unit using an allocated capital approach based on each reporting unit’s specific regulatory capital requirements, economic capital requirements, and underlying risks. The carrying amount for a reporting unit is the sum of its respective capital requirements, goodwill and intangibles balances. We then compare the carrying amount to our total consolidated stockholders’ equity to assess the reasonableness of our methodology. The total carrying amount of our four reporting units was $50.5 billion, as compared to consolidated stockholder’s equity of $58.2 billion as of October 1, 2019. The $7.7 billion excess in consolidated stockholder’s equity was primarily attributable to capital allocated to our Other category and other future capital needs such as dividends, share buybacks or other strategic initiatives.
+
+Determining the fair value of a reporting unit is a subjective process that requires the use of estimates and the exercise of significant judgment. We calculated the fair value of our reporting units using a discounted cash flow (“DCF”) calculation, a form of the income approach. This income approach calculation used projected cash flows based on each reporting unit’s internal forecast and the perpetuity growth method to calculate terminal values. Our DCF analysis required management to make estimates about future loan, deposit and revenue growth, as well as credit losses and capital rates. These cash flows and terminal values were then discounted using discount rates based on our external cost of capital with adjustments for the risk inherent in each reporting unit. The reasonableness of the DCF approach was assessed by reference to a market-based approach using comparable market multiples and recent market transactions where available. The results of the 2019 annual impairment test for the Credit Card, Auto, Other Consumer Banking and Commercial Banking reporting units indicated that the estimated fair values of these four reporting units substantially exceeded their carrying amounts.
+
+Assumptions used in estimating the fair value of a reporting unit are judgmental and inherently uncertain. A significant change in the economic conditions of a reporting unit, such as declines in business performance, increases in credit losses, increases in capital requirements, deterioration of market conditions, adverse impacts of regulatory or legislative changes or increases in the estimated cost of capital, could cause the estimated fair values of our reporting units to decline in the future, and increase the risk of a goodwill impairment in a future period.
+
+Fair Value
+
+Fair value, also referred to as an exit price, is defined as the price that would be received for an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. The fair value accounting guidance provides a 
+
+ 61Capital One Financial Corporation (COF)
+three-level fair value hierarchy for classifying financial instruments. This hierarchy is based on the markets in which the assets or liabilities trade and whether the inputs to the valuation techniques used to measure fair value are observable or unobservable. The fair value measurement of a financial asset or liability is assigned a level based on the lowest level of any input that is significant to the fair value measurement in its entirety. The three levels of the fair value hierarchy are described below:
+
+Level 1: Valuation is based on quoted prices (unadjusted) in active markets for identical assets or liabilities. 
+
+Level 2: Valuation is based on observable market-based inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities, quoted prices in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. 
+
+Level 3: Valuation is generated from techniques that use significant assumptions not observable in the market. Valuation techniques include pricing models, discounted cash flow methodologies or similar techniques. 
+
+The degree of management judgment involved in determining the fair value of a financial instrument is dependent upon the availability of quoted prices in active markets or observable market parameters. When quoted prices and observable data in active markets are not fully available, management judgment is necessary to estimate fair value. Changes in market conditions, such as reduced liquidity in the capital markets or changes in secondary market activities, may reduce the availability and reliability of quoted prices or observable data used to determine fair value.
+
+We have developed policies and procedures to determine when markets for our financial assets and liabilities are inactive if the level and volume of activity has declined significantly relative to normal conditions. If markets are determined to be inactive, it may be appropriate to adjust price quotes received. When significant adjustments are required to price quotes or inputs, it may be appropriate to utilize an estimate based primarily on unobservable inputs.
+
+Significant judgment may be required to determine whether certain financial instruments measured at fair value are classified as Level 2 or Level 3. In making this determination, we consider all available information that market participants use to measure the fair value of the financial instrument, including observable market data, indications of market liquidity and orderliness, and our understanding of the valuation techniques and significant inputs used. Based upon the specific facts and circumstances of each instrument or instrument category, judgments are made regarding the significance of the Level 3 inputs to the instruments’ fair value measurement in its entirety. If Level 3 inputs are considered significant, the instrument is classified as Level 3. The process for determining fair value using unobservable inputs is generally more subjective and involves a high degree of management judgment and assumptions. We discuss changes in the valuation inputs and assumptions used in determining the fair value of our financial instruments, including the extent to which we have relied on significant unobservable inputs to estimate fair value and our process for corroborating these inputs, in “Note 16—Fair Value Measurement.”
+
+We have a governance framework and a number of key controls that are intended to ensure that our fair value measurements are appropriate and reliable. Our governance framework provides for independent oversight and segregation of duties. Our control processes include review and approval of new transaction types, price verification, and review of valuation judgments, methods, models, process controls and results.
+
+Groups independent of our trading and investing functions participate in the review and validation process. Tasks performed by these groups include periodic verification of fair value measurements to determine if assigned fair values are reasonable, including comparing prices from vendor pricing services to other available market information.
+
+Our Fair Value Committee (“FVC”), which includes representation from business areas, Risk Management and Finance, provides guidance and oversight to ensure an appropriate valuation control environment. The FVC regularly reviews and approves our fair valuations to ensure that our valuation practices are consistent with industry standards and adhere to regulatory and accounting guidance.
+
+We have a model policy, established by an independent Model Risk Office, which governs the validation of models and related supporting documentation to ensure the appropriate use of models for pricing and fair value measurements. The Model Risk Office validates all models and requires ongoing monitoring of their performance.
+
+The fair value governance process is set up in a manner that allows the Chairperson of the FVC to escalate valuation disputes that cannot be resolved by the FVC to a more senior committee called the Valuations Advisory Committee (“VAC”) for resolution. The VAC is chaired by the Chief Financial Officer and includes other members of senior management. The VAC convenes to review escalated valuation disputes.
+
+ 62Capital One Financial Corporation (COF)
+Customer Rewards Reserve
+
+We offer products, primarily credit cards, which include programs that allow members to earn rewards based on account activity that can be redeemed for cash (primarily in the form of statement credits), gift cards, travel, or coverage of eligible charges. The amount of rewards that a customer earns varies based on the terms and conditions of the rewards program and product. The majority of our rewards do not expire and there is no limit on the amount of rewards an eligible card member can earn. Customer rewards costs, which we generally record as an offset to interchange income, are driven by various factors such as card member purchase volume, the terms and conditions of the rewards program, and rewards redemption cost. We establish a customer rewards reserve that reflects management’s estimate of rewards earned that are expected to be redeemed and the estimated redemption cost.
+
+We use financial models to estimate ultimate redemption rates of rewards earned to date by current card members based on historical redemption trends, current enrollee redemption behavior, card product type, year of program enrollment, enrollment tenure and card spend levels. Our current assumption is that the vast majority of all rewards earned will eventually be redeemed. We use a weighted-average redemption cost during the previous twelve months, adjusted as appropriate for recent changes in redemption costs, including the mix of rewards redeemed, to estimate future redemption costs. We continually evaluate our reserve and assumptions based on developments in redemption patterns, changes to the terms and conditions of the rewards program and other factors. We recognized customer rewards expense of $4.9 billion, $4.4 billion and $3.7 billion in 2019, 2018 and 2017, respectively. Our customer rewards reserve, which is included in other liabilities on our consolidated balance sheets, totaled $4.7 billion and $4.3 billion as of December 31, 2019 and 2018, respectively.
+
+ACCOUNTING CHANGES AND DEVELOPMENTS
+
+Accounting Standards Issued but Not Adopted as of December 31, 2019
+
+Standard Guidance Adoption Timing and Financial Statements Impacts
+
+Cloud Computing
+
+ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract
+
+Issued August 2018 Aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). 
+
+We adopted this guidance in the first quarter of 2020 using the prospective method of adoption. 
+
+Our adoption of this standard did not have a material impact on our consolidated financial statements.
+
+Goodwill Impairment Test Simplification
+
+ASU No. 2017-04, Intangibles—Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment
+
+Issued January 2017 
+
+Eliminates the second step from the current goodwill impairment test. 
+
+Under the current guidance, the first step compares a reporting unit’s carrying value to its fair value. If the carrying value exceeds fair value, an entity performs the second step, which assigns the reporting unit’s fair value to its assets and liabilities, including unrecognized assets and liabilities, in the same manner as required in purchase accounting.
+
+Under the new guidance, any impairment of a reporting unit’s goodwill is determined based on the amount by which the reporting unit’s carrying value exceeds its fair value, limited to the amount of goodwill allocated to the reporting unit. 
+
+We adopted this guidance in the first quarter of 2020 using the prospective method of adoption. 
+
+Our adoption of this standard did not have a material impact on our consolidated financial statements.
+
+ 63Capital One Financial Corporation (COF)
+Standard Guidance Adoption Timing and Financial Statements Impacts
+
+Current Expected Credit Loss (“CECL”)
+
+ASU No. 2016-13, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments
+
+Issued June 2016 
+
+Requires use of the current expected credit loss model that is based on expected losses (net of expected recoveries), rather than incurred losses, to determine our allowance for credit losses on financial assets measured at amortized cost, certain net investments in leases and certain off-balance sheet arrangements.
+
+Replaces current accounting for purchased credit-impaired (“PCI”) and impaired loans.
+
+Amends the other-than-temporary impairment model for available for sale debt securities to require that credit losses be recorded through an allowance approach, rather than through permanent write-downs for credit losses and subsequent accretion of positive changes through interest income over time. 
+
+We adopted this guidance in the first quarter of 2020, using the modified retrospective method of adoption. Prior to adopting this guidance, we completed evaluations of data requirements and necessary changes to our credit loss estimation methods, processes, systems and controls. We also completed model validations and multiple tests of our full end-to-end allowance processes.
+
+As a result of our adoption, we estimate an increase to our reserves for credit losses of $2.9 billion, an increase to our deferred tax assets of $698 million, and a decrease to our retained earnings of $2.2 billion. These amounts are subject to change as we finalize our adoption efforts.
+
+See “Note 1—Summary of Significant Accounting Policies” for information on the accounting standards we adopted in 2019.
+
+CAPITAL MANAGEMENT
+
+The level and composition of our capital are determined by multiple factors, including our consolidated regulatory capital requirements and internal risk-based capital assessments such as internal stress testing and economic capital. The level and composition of our capital may also be influenced by rating agency guidelines, subsidiary capital requirements, business environment, conditions in the financial markets and assessments of potential future losses due to adverse changes in our business and market environments.
+
+Capital Standards and Prompt Corrective Action
+
+We are subject to capital adequacy standards adopted by the Board of Governors of the Federal Reserve System (“Federal Reserve”), Office of the Comptroller of the Currency (“OCC”) and Federal Deposit Insurance Corporation (“FDIC”) (collectively, the “Federal Banking Agencies”), including the capital rules that implemented the Basel III capital framework (“Basel III Capital Rule”) developed by the Basel Committee on Banking Supervision (“Basel Committee”). Moreover, the Banks, as insured depository institutions, are subject to Prompt Corrective Action (“PCA”) capital regulations.
+
+The Basel III Capital Rule includes the “Basel III Standardized Approach” and the “Basel III Advanced Approaches.” We entered parallel run under Basel III Advanced Approaches on January 1, 2015, during which we were required to calculate capital ratios under both the Basel III Standardized Approach and the Basel III Advanced Approaches, though we used the Standardized Approach for purposes of meeting regulatory capital requirements.
+
+In October 2019, the Federal Banking Agencies amended the Basel III Capital Rule to provide for tailored application of certain capital requirements across different categories of banking institutions (“Tailoring Rules”). As a bank holding company (“BHC”) with total consolidated assets of at least $250 billion that does not exceed any of the applicable risk-based thresholds, we are a Category III institution under the Tailoring Rules. As such, we are no longer subject to the Basel III Advanced Approaches and certain associated capital requirements, such as the requirement to include in regulatory capital certain elements of AOCI.
+
+In July 2019, the Federal Banking Agencies finalized certain changes in the Basel III Capital Rule for institutions not subject to the Basel III Advanced Approaches, including Capital One (“Capital Simplification Rule”). These changes, effective January 1, 2020, generally raise the threshold above which institutions subject to the Capital Simplification Rule must deduct certain assets from their common equity Tier 1 capital, including certain deferred tax assets, mortgage servicing assets, and investments in unconsolidated financial institutions. While the higher thresholds will not impact our current capital levels, in stress scenarios they may provide a benefit by enabling us to include more deferred tax assets in our common equity Tier 1 capital. All else equal, we anticipate that the Tailoring Rules and Capital Simplification Rule will, taken together, decrease our capital requirements.
+
+ 64Capital One Financial Corporation (COF)
+The Basel III Capital Rule requires banking institutions to maintain a capital conservation buffer, composed of common equity Tier 1 capital, of 2.5% above the regulatory minimum ratios. In addition, Category III institutions, including the Company and the Banks, are subject to certain capital requirements formerly applicable only to Basel III Advanced Approaches banking organizations. Category III institutions are subject to a supplementary leverage ratio of 3.0% and their capital conservation buffer may be supplemented by an incremental countercyclical capital buffer of up to 2.5% composed of common equity Tier 1 capital and set at the discretion of the Federal Banking Agencies. As of December 31, 2019, the countercyclical capital buffer was zero percent in the United States. A determination to increase the countercyclical capital buffer generally would be effective twelve months after the announcement of such an increase, unless the Federal Banking Agencies set an earlier effective date.
+
+The Market Risk Rule requires institutions subject to the rule to adjust their risk-based capital ratios to reflect the market risk in their trading portfolios. As of December 31, 2019, the Company and CONA are subject to the Market Risk Rule. See “MD&A—Market Risk Profile” below for additional information.
+
+In December 2018, the Federal Banking Agencies revised the Basel III Capital Rule to identify which credit loss allowances under the CECL model are eligible for inclusion in regulatory capital and to provide banking organizations the option to phase in over a three-year transition period ending January 1, 2023 the day-one adverse effects on regulatory capital that may result from the adoption of the CECL model (“CECL Transition Election”). The CECL model became applicable to us as of January 1, 2020 and we intend to make the CECL Transition Election effective in the first quarter of 2020.
+
+The minimum capital requirement plus capital conservation buffer and countercyclical capital buffer for common equity Tier 1 capital, Tier 1 capital and total capital ratios is 7.0%, 8.5% and 10.5%, respectively, for the Company and the Banks. A common equity Tier 1 capital ratio, Tier 1 capital ratio, or total capital ratio below the applicable regulatory minimum ratio plus the applicable capital conservation buffer and the applicable countercyclical buffer (if set to an amount greater than zero percent) might restrict a bank’s ability to distribute capital and make discretionary bonus payments.
+
+The Company exceeded the minimum capital requirements and each of the Banks exceeded the minimum regulatory requirements and were well capitalized under PCA requirements as of December 31, 2019 and 2018, respectively.
+
+For the description of the regulatory capital rules we are subject to, see “Part I—Item 1. Business—Supervision and Regulation.”
+
+ 65Capital One Financial Corporation (COF)
+On December 31, 2019, we transferred our entire portfolio of held to maturity securities to available for sale in consideration of changes to regulatory capital requirements under the Tailoring Rules, which no longer require Category III institutions to include in regulatory capital certain elements of AOCI, including unrealized gains and losses from available for sale securities. On the date of transfer, these securities had a fair value of $33.2 billion, including pre-tax unrealized gains of $1.2 billion recognized in AOCI ($888 million after-tax). Inclusive of this transfer, the AOCI associated with our available for sale securities portfolio increased our common equity Tier 1 ratio by approximately 30 basis points as of December 31, 2019, see “MD&A—Executive Summary and Business Outlook” for more information. 
+
+Table 13 provides a comparison of our regulatory capital ratios under the Basel III Standardized Approach, the regulatory minimum capital adequacy ratios and the PCA well-capitalized level for each ratio, where applicable, as of December 31, 2019 and 2018.
+
+Table 13: Capital Ratios under Basel III(1)
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Capital requirements that are not applicable are denoted by “N/A.”
+
+(2) Common equity Tier 1 capital ratio is a regulatory capital measure calculated based on common equity Tier 1 capital divided by risk-weighted assets.
+
+(3) Tier 1 capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by risk-weighted assets.
+
+(4) Total capital ratio is a regulatory capital measure calculated based on total capital divided by risk-weighted assets.
+
+(5) Tier 1 leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by adjusted average assets.
+
+(6) Supplementary leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by total leverage exposure.
+
+ 66Capital One Financial Corporation (COF)
+Table 14 presents regulatory capital under the Basel III Standardized Approach and regulatory capital metrics as of December 31, 2019 and 2018. 
+
+Table 14: Regulatory Risk-Based Capital Components and Regulatory Capital Metrics 
+
+[DATA_TABLE_REMOVED]
+
+Capital Planning and Regulatory Stress Testing
+
+On June 27, 2019, the Federal Reserve completed its 2019 CCAR and did not object to our proposed adjusted capital plan. As a result of this non-objection to our capital plan, the Board of Directors authorized the repurchase of up to $2.2 billion of shares of our common stock beginning in the third quarter of 2019 through the end of the second quarter of 2020. The Board of Directors also authorized the dividend on our common stock of $0.40 per share in each quarter in 2019. For the description of the regulatory capital planning rules we are subject to, see “Part I—Item 1. Business—Supervision and Regulation.”
+
+Equity Offerings and Transactions
+
+On September 11, 2019, we issued 60,000,000 depositary shares, each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I, $0.01 par value, with a liquidation preference of $25 per depositary share (“Series I Preferred Stock”). The net proceeds of the offering of Series I Preferred Stock were approximately $1.5 billion, after deducting underwriting commissions and offering expenses. Dividends on the Series I Preferred Stock are payable quarterly in arrears at a rate of 5.00% per annum.
+
+On December 2, 2019, we redeemed all outstanding shares of our Fixed Rate 6.25% Non-Cumulative Perpetual Preferred Stock Series C and Fixed Rate 6.70% Non-Cumulative Perpetual Preferred Stock Series D. The redemption reduced our net income available to common shareholders by $31 million in the fourth quarter and full year of 2019. 
+
+On January 31, 2020, we issued 50,000,000 depositary shares, each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J, $0.01 par value, with a liquidation preference of $25 per depositary share (“Series J Preferred Stock”). The net proceeds of the offering of Series J Preferred Stock were approximately $1.2 billion, after deducting underwriting commissions and offering expenses. Dividends on the Series J Preferred Stock are payable quarterly in arrears at a rate of 4.80% per annum.
+
+ 67Capital One Financial Corporation (COF)
+On January 31, 2020, we announced that we will redeem all outstanding shares of our Fixed Rate 6.00% Non-Cumulative Perpetual Preferred Stock Series B on March 2, 2020. The redemption will reduce our net income available to common stockholders by approximately $20 million in the first quarter of 2020.
+
+Dividend Policy and Stock Purchases 
+
+For the year ended December 31, 2019, we declared and paid common stock dividends of $757 million, or $1.60 per share, and preferred stock dividends of $282 million. The following table summarizes the dividends paid per share on our various preferred stock series in each quarter of 2019.
+
+Table 15: Preferred Stock Dividends Paid Per Share 
+
+[DATA_TABLE_REMOVED]__________
+
+(1) On December 2, 2019, we redeemed all outstanding shares of our Series C and Series D preferred stock.
+
+The declaration and payment of dividends to our stockholders, as well as the amount thereof, are subject to the discretion of our Board of Directors and depend upon our results of operations, financial condition, capital levels, cash requirements, future prospects and other factors deemed relevant by the Board of Directors. As a BHC, our ability to pay dividends is largely dependent upon the receipt of dividends or other payments from our subsidiaries. Regulatory restrictions exist that limit the ability of the Banks to transfer funds to our BHC. As of December 31, 2019, funds available for dividend payments from COBNA and CONA were $3.3 billion and $4.7 billion, respectively. There can be no assurance that we will declare and pay any dividends to stockholders. Consistent with our 2019 Stock Repurchase Program which was announced on June 27, 2019, our Board of Directors authorized the repurchase of up to $2.2 billion of shares of common stock beginning in the third quarter of 2019 through the end of the second quarter of 2020. Through the end of 2019, we repurchased approximately $1.4 billion of shares of our common stock under the 2019 Stock Repurchase Program.
+
+The timing and exact amount of any future common stock repurchases will depend on various factors, including regulatory approval, market conditions, opportunities for growth, our capital position and the amount of retained earnings. Our stock repurchase program does not include specific price targets, may be executed through open market purchases or privately negotiated transactions, including utilizing Rule 10b5-1 programs, and may be suspended at any time. For additional information on dividends and stock repurchases, see “Part I—Item 1. Business—Supervision and Regulation—Dividends, Stock Repurchases and Transfers of Funds.”
+
+ 68Capital One Financial Corporation (COF)
+RISK MANAGEMENT
+
+Risk Management Framework
+
+Our Risk Management Framework (the “Framework”) sets consistent expectations for risk management across the Company. It also sets expectations for our “Three Lines of Defense” model, which defines the roles, responsibilities and accountabilities for taking and managing risk across the Company. Accountability for overseeing an effective Framework resides with our Board of Directors either directly or through its committees. 
+
+The “First Line of Defense” consists of any line of business or function that is accountable for risk taking and is responsible for: (i) engaging in activities designed to generate revenue or reduce expenses; (ii) providing operational support or servicing to any business function for the delivery of products or services to customers; or (iii) providing technology services in direct support of first line business areas. Each line of business or first line function is responsible for managing the risks associated with their activities, including identifying, assessing, measuring, monitoring, controlling, and reporting the risks within its business activities, consistent with the risk framework. The “Second Line of Defense” consists of two types of functions: Independent Risk Management (“IRM”) and Support Functions. IRM oversees risk-taking activities and assesses risks and issues independent from the first line of defense. Support Functions are centers of specialized expertise (e.g., Human Resources, Accounting, Legal) that provide support services to the Company. The “Third Line of Defense” is comprised of the Internal Audit and Credit Review functions. The third line provides independent and objective assurance to senior management and to the Board of Directors that the first and second lines of defense have systems and governance processes which are well-designed and working as intended, and that the Framework is appropriate for our size, complexity and risk profile. 
+
+Our Framework consists of the following nine elements: 
+
+[DATA_TABLE_REMOVED]
+
+Governance and Accountability
+
+This element of the Framework sets the foundation for the methods for governing risk taking and the interactions within and among our three lines of defense.
+
+We established a risk governance structure and accountabilities to effectively and consistently oversee the management of risks across the Company. Our Board of Directors, Chief Executive Officer and management establish the tone at the top regarding the culture of the Company, including management of risk. Management reinforces expectations at the various levels of the organization. 
+
+ 69Capital One Financial Corporation (COF)
+Strategy and Risk Alignment
+
+Our strategy is informed by and aligned with risk appetite, from development to execution. The Chief Executive Officer develops the strategy with input from the first, second, and third lines of defense, as well as the Board of Directors. The strategic planning process should consider relevant changes to the Company’s overall risk profile. 
+
+Our Board of Directors approves a Risk Appetite Statement for the Company to set forth the high-level principles that govern risk taking at the Company. The Risk Appetite Statement defines the Board of Directors’ tolerance for certain risk outcomes at an enterprise level and enables senior management to manage and report within these boundaries. This Risk Appetite Statement is also supported by risk category specific risk appetite statements as well as metrics and, where appropriate, Board Limits and Board Notification Thresholds.
+
+Risk Identification
+
+The first line of defense and certain Support Functions, where appropriate, are expected to identify new and emerging risks across the relevant risk categories associated with their business activities and objectives, in consultation with IRM. Risk identification also must be informed by major changes in infrastructure or organization, introduction of new products and services, acquisitions of businesses, or substantial changes in the internal or external environment.
+
+IRM and certain Support Functions, where appropriate, provide effective challenge in the risk identification process. IRM is also responsible for identifying our material aggregate risks on an ongoing basis.
+
+Assessment, Measurement and Response
+
+Management is responsible for assessing risks associated with our activities. Risks identified should be assessed to understand the severity of each risk and likelihood of occurrence under both normal and stressful conditions, as appropriate. Risk severity is measured through modeling and other quantitative estimation approaches, as well as qualitative approaches, based on management judgment. As part of the risk assessment process, the first and second lines of defense also evaluate the effectiveness of the existing control environment and mitigation strategies.
+
+Management is responsible for determining the appropriate risk response. Risks may be mitigated, accepted, transferred, or avoided. Actions taken to respond to the risk may include implementing new controls, enhancing existing controls, developing additional mitigation strategies to reduce the impact of the risk, and/or monitoring the risk. 
+
+Monitoring and Testing
+
+Management periodically monitors risks to evaluate and measure how the risk is affecting our strategy and business objectives, in alignment with risk appetite. The scope and frequency of monitoring activities depends on the results of relevant risk assessments, as well as specific business risk operations and activities.
+
+The first line of defense is responsible for evaluating the effectiveness of risk management practices and controls through testing and other activities. IRM and Support Functions, as appropriate, assess the first line of defense’s evaluation of risk management, which may include conducting effective challenge, performing independent monitoring, or conducting risk or control validations. The third line of defense provides independent assurance for first and second line risk management practices and controls to provide assurance. 
+
+Aggregation, Reporting and Escalation
+
+Risk aggregation supports strategic decision making and risk management practices through collectively reporting risks across different levels of the Company and providing a comprehensive view of performance against risk appetite.
+
+Material risks, emerging risks, aggregate risks, risk appetite metrics, and other measures across all risk categories are reported to the appropriate governance forum no less than quarterly. Material risks are reported to the Board of Directors and senior management committees no less than quarterly.
+
+Capital and Liquidity Management (including Stress Testing)
+
+Our capital management processes are linked to its risk management practices, including the enterprise-wide identification, assessment, and measurement of risks to ensure that all relevant risks are incorporated in the assessment of the Company's capital 
+
+ 70Capital One Financial Corporation (COF)
+adequacy. We use identified risks to inform key aspects of the Company’s capital planning, including the development of stress scenarios, the assessment of the adequacy of post-stress capital levels, and the appropriateness of potential capital actions considering the Company’s capital objectives. We quantify capital needs through stress testing, regulatory capital, economic capital, and assessments of market considerations. In assessing its capital adequacy, we identify how and where our material risks are accounted for within the capital planning process. Monitoring and escalation processes exist for key capital thresholds and metrics to continuously monitor capital adequacy.
+
+Risk Data and Enabling Technology
+
+Risk data and technology provides the basis for risk reporting and is used in decision making and to monitor and review changes to our risk profile. There is a core Governance, Risk Management and Compliance system which is used as the system of record for risks, controls, issues, and events for our risk categories and supports the analysis, aggregation, and reporting capabilities across the categories.
+
+Culture and Talent Management
+
+The Framework must be supported with the right culture, talent, and skills to enable effective risk management across the Company. 
+
+Every associate at the Company is responsible for risk management; however, associates with specific risk management skills and expertise within the first, second, and third lines of defense are critical to ensure appropriate risk management across the enterprise.
+
+Risk Categories
+
+We apply our Framework to protect the Company from the eight major categories of risk that we are exposed to through our business activities. Our eight major categories of risk are:
+
+[DATA_TABLE_REMOVED]
+
+ 71Capital One Financial Corporation (COF)
+We provide an overview of how we manage our eight major categories of risk below.
+
+Compliance Risk Management
+
+We recognize that compliance requirements for financial institutions are increasingly complex and that there are heightened expectations from our regulators and our customers. In response, we continuously evaluate the regulatory environment and proactively adjust our compliance program to fully address these expectations.
+
+Our Compliance Management Program establishes expectations for determining compliance requirements, assessing the risk of new product offerings, creating appropriate controls and training to address requirements, monitoring for control performance, and independently testing for adherence to compliance requirements. The program also establishes regular compliance reporting to senior business leaders, the executive committee and the Board of Directors.
+
+The Chief Compliance Officer is responsible for establishing and overseeing our Compliance Management Program. Business areas incorporate compliance requirements and controls into their business policies, standards, processes and procedures. They regularly monitor and report on the efficacy of their compliance controls and our Corporate Compliance team periodically independently tests to validate the effectiveness of business controls.
+
+Credit Risk Management
+
+We recognize that we are exposed to cyclical changes in credit quality. Consequently, we try to ensure our credit portfolio is resilient to economic downturns. Our most important tool in this endeavor is sound underwriting. In unsecured consumer loan underwriting, we generally assume that loans will be subject to an environment in which losses are higher than those prevailing at the time of underwriting. In commercial underwriting, we generally require strong cash flow, collateral, covenants and guarantees. In addition to sound underwriting, we continually monitor our portfolio and take steps to collect or work out distressed loans. 
+
+The Chief Risk Officer, in conjunction with the Consumer and Commercial Chief Credit Officers, is responsible for establishing credit risk policies and procedures, including underwriting and hold guidelines and credit approval authority, and monitoring credit exposure and performance of our lending related transactions. Our Consumer and Commercial Chief Credit Officers are responsible for evaluating the risk implications of credit strategy and the oversight of credit for both the existing portfolio and any new credit investments. They also have formal approval authority for various types and levels of credit decisions, including individual commercial loan transactions. Division Presidents within each segment are responsible for managing the credit risk within their divisions and maintaining processes to control credit risk and comply with credit policies and guidelines. In addition, the Chief Risk Officer establishes policies, delegates approval authority and monitors performance for non-loan credit exposure entered into with financial counterparties or through the purchase of credit sensitive securities in our investment portfolio. 
+
+Our credit policies establish standards in five areas: customer selection, underwriting, monitoring, remediation and portfolio management. The standards in each area provide a framework comprising specific objectives and control processes. These standards are supported by detailed policies and procedures for each component of the credit process. Starting with customer selection, our goal is to generally provide credit on terms that generate above hurdle returns. We use a number of quantitative and qualitative factors to manage credit risk, including setting credit risk limits and guidelines for each of our lines of business. We monitor performance relative to these guidelines and report results and any required mitigating actions to appropriate senior management committees and our Board of Directors. 
+
+Legal Risk Management
+
+The General Counsel provides legal evaluation and advice to the Company and business areas and to risk management functions such as Compliance and Internal Audit. This evaluation and advice is based on an assessment of the internal business area practices and activities and of the controls the business has in place to mitigate risks.
+
+Liquidity Risk Management
+
+We manage liquidity risk by applying our Liquidity Adequacy Framework (the “Liquidity Framework”). The Liquidity Framework uses internal and regulatory stress testing and the evaluation of other balance sheet metrics to confirm that we maintain a fortified balance sheet that is resilient to uncertainties that may arise as a consequence of systemic, idiosyncratic, or combined liquidity events. We continuously monitor market and economic conditions to evaluate emerging stress conditions and to develop appropriate action plans in accordance with our Contingency Funding Plan and our Recovery Plan, which include the Company’s policies, 
+
+ 72Capital One Financial Corporation (COF)
+procedures and action plans for managing liquidity stress events. The Liquidity Framework enables us to manage our liquidity risk in accordance with regulatory requirements. 
+
+Additionally, the Liquidity Framework establishes governing principles that apply to the management of liquidity risk. We use these principles to monitor, measure and report liquidity risk; to develop funding and investment strategies that enable us to maintain an adequate level of liquidity to support our businesses and satisfy regulatory requirements; and to protect us from a broad range of liquidity events should they arise.
+
+The Chief Risk Officer, in conjunction with the Chief Market and Liquidity Risk Officer, is responsible for the establishment of liquidity risk management policies and standards for governance and monitoring of liquidity risk at a corporate level. We assess liquidity strength by evaluating several different balance sheet metrics under severe stress scenarios to ensure we can withstand significant funding degradation through idiosyncratic, systemic, and combined liquidity stress scenarios. Management reports liquidity metrics to appropriate senior management committees and our Board of Directors no less than quarterly. 
+
+We seek to mitigate liquidity risk strategically and tactically. From a strategic perspective, we have acquired and built deposit gathering businesses and actively monitor our funding concentration. From a tactical perspective, we have accumulated a sizable liquidity reserve comprised of cash and cash equivalents, high-quality, unencumbered securities and committed collateralized credit lines. We also continue to maintain access to secured and unsecured debt markets through regular issuance. This combination of stable and diversified funding sources and our stockpile of liquidity reserves enable us to maintain confidence in our liquidity position.
+
+Market Risk Management
+
+The Chief Financial Officer and the Chief Risk Officer are responsible for the establishment of market risk management policies and standards for the governance and monitoring of market risk at a corporate level. Market risk is inherent from the financial instruments associated with our business operations and activities including loans, deposits, securities, short-term borrowings, long-term debt and derivatives. We manage market risk exposure, which is principally driven by balance sheet interest rate risk, centrally and establish quantitative risk limits to monitor and control our exposure. 
+
+We recognize that interest rate and foreign exchange risk is present in our business due to the nature of our assets and liabilities. Banks typically manage the trade-off between near-term earnings volatility and market value volatility by targeting moderate levels of each. In addition to using industry accepted techniques to analyze and measure interest rate and foreign exchange risk, we perform sensitivity analysis to identify our risk exposures under a broad range of scenarios. Investment securities and derivatives are the main levers for the management of interest rate risk. In addition, we also use derivatives to manage our foreign exchange risk.
+
+The market risk positions for the Company and each of the Banks are calculated separately and in aggregate, and analyzed against pre-established limits. Results are reported to the Asset Liability Committee monthly and to the Risk Committee of the Board of Directors no less than quarterly. Management is authorized to utilize financial instruments as outlined in our policy to actively manage market risk exposure.
+
+Operational Risk Management
+
+We recognize the criticality of managing operational risk on both a strategic and day-to-day basis and that there are heightened expectations from our regulators and our customers. We have implemented appropriate operational risk management policies, standards, processes and controls to enable the delivery of high quality and consistent customer experiences and to achieve business objectives in a controlled manner.
+
+The Chief Operational Risk Officer is responsible for establishing and overseeing our Operational Risk Management Program. In accordance with Basel III Advanced Approaches requirements, the program establishes practices for assessing the operational risk profile and executing key control processes for operational risks. These risks include topics such as internal and external fraud, cyber and technology risk, data management, model risk, third party management, and business continuity. Operational Risk Management enforces these practices and delivers reporting of operational risk results to senior business leaders, the executive committee and the Board of Directors.
+
+ 73Capital One Financial Corporation (COF)
+Reputation Risk Management
+
+We recognize that reputation risk is of particular concern for financial institutions and, increasingly, technology companies, in the current environment. Areas of concern have expanded to include company policies, practices and values and, with the growing use of social and digital platforms, public corporations face a new level of scrutiny and channels for activism and advocacy. The heightened expectations of internal and external stakeholders have made corporate culture, values and conduct pressure points for individuals and advocates voicing concerns or seeking change. We manage both strategic and tactical reputation issues and build our relationships with government officials, media, community and consumer advocates, customers and other constituencies to help strengthen the reputations of both our Company and industry. Our actions include implementing pro-customer practices in our business and serving low to moderate income communities in our market area consistent with a quality bank and an innovative technology leader. The Executive Vice President of External Affairs is responsible for managing our overall reputation risk program. Day-to-day activities are controlled by the frameworks set forth in our Reputation Risk Management Policy and other risk management policies.
+
+Strategic Risk Management
+
+We monitor external market and industry developments to identify potential areas of strategic opportunity or risk. These items provide input for development of the Company’s strategy led by the Chief Executive Officer and other senior executives. Through the ongoing development and vetting of the corporate strategy, the Chief Risk Officer identifies and assesses risks associated with the strategy across all risk categories and monitors them throughout the year.
+
+CREDIT RISK PROFILE
+
+Our loan portfolio accounts for the substantial majority of our credit risk exposure. Our lending activities are governed under our credit policy and are subject to independent review and approval. Below we provide information about the composition of our loan portfolio, key concentrations and credit performance metrics.
+
+We also engage in certain non-lending activities that may give rise to credit and counterparty settlement risk, including purchasing securities for our investment securities portfolio, entering into derivative transactions to manage our market risk exposure and to accommodate customers, extending short-term advances on syndication activity including bridge financing transactions we have underwritten, depositing certain operational cash balances in other financial institutions, executing certain foreign exchange transactions and extending customer overdrafts. We provide additional information related to our investment securities portfolio under “MD&A—Consolidated Balance Sheets Analysis—Investment Securities” and credit risk related to derivative transactions in “Note 9—Derivative Instruments and Hedging Activities.”
+
+Primary Loan Products 
+
+We provide a variety of lending products. Our primary loan products include credit cards, auto loans and commercial lending products. We sold all of our consumer home loan portfolio and the related servicing during 2018. 
+
+•Credit cards: We originate both prime and subprime credit cards through a variety of channels. Our credit cards generally have variable interest rates. Credit card accounts are primarily underwritten using an automated underwriting system based on predictive models that we have developed. The underwriting criteria, which are customized for individual products and marketing programs, are established based on an analysis of the net present value of expected revenues, expenses and losses, subject to further analysis using a variety of stress conditions. Underwriting decisions are generally based on credit bureau information, including payment history, debt burden and credit scores, such as FICO scores, and on other factors, such as applicant income. We maintain a credit card securitization program and selectively sell charged-off credit card loans.[DATA_TABLE_REMOVED]
+
+ 74Capital One Financial Corporation (COF)
+•Commercial: We offer a range of commercial lending products, including loans secured by commercial real estate and loans to middle market commercial and industrial companies. Our commercial loans may have a fixed or variable interest rate; however, the majority of our commercial loans have variable rates. Our underwriting standards require an analysis of the borrower’s financial condition and prospects, as well as an assessment of the industry in which the borrower operates. Where relevant, we evaluate and appraise underlying collateral and guarantees. We maintain underwriting guidelines and limits for major types of borrowers and loan products that specify, where applicable, guidelines for debt service coverage, leverage, LTV ratio and standard covenants and conditions. We assign a risk rating and establish a monitoring schedule for loans based on the risk profile of the borrower, industry segment, source of repayment, the underlying collateral and guarantees, if any, and current market conditions. Although we generally retain the commercial loans we underwrite, we may syndicate positions for risk mitigation purposes, including bridge financing transactions we have underwritten. In addition, we originate and service multifamily commercial real estate loans which are sold to government-sponsored enterprises.
+
+Portfolio Composition and Maturity Profile of Loans Held for Investment
+
+Our loan portfolio consists of loans held for investment, including loans held in our consolidated trusts, and loans held for sale. Table 16 presents the composition of our portfolio of loans held for investment by portfolio segment as of December 31, 2019 and 2018. The information presented in this section exclude loans held for sale, which totaled $400 million and $1.2 billion as of December 31, 2019 and 2018, respectively.
+
+Table 16: Portfolio Composition of Loans Held for Investment 
+
+[DATA_TABLE_REMOVED]
+
+ 75Capital One Financial Corporation (COF)
+Table 17 presents the maturities of our loans held for investment portfolio as of December 31, 2019.
+
+Table 17: Loan Maturity Schedule
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Due to the revolving nature of credit card loans, we report the majority of our variable-rate credit card loans as due in one year or less. We report fixed-rate credit card loans with introductory rates that expire after a certain period of time as due in one year or less. We assume that the rest of our remaining fixed-rate credit card loans will mature within one to three years.
+
+Geographic Composition
+
+We market our credit card products throughout the United States, Canada and the United Kingdom. Our credit card loan portfolio is geographically diversified due to our product and marketing approach. The table below presents the geographic profile of our credit card loan portfolio as of December 31, 2019 and 2018.
+
+Table 18: Credit Card Portfolio by Geographic Region 
+
+[DATA_TABLE_REMOVED]
+
+ 76Capital One Financial Corporation (COF)
+Our auto loan portfolio is geographically diversified in the United States due to our product and marketing approach. Retail banking includes small business loans and other consumer lending products originated through our branch network. The table below presents the geographic profile of our auto loan and retail banking portfolios as of December 31, 2019 and 2018.
+
+Table 19: Consumer Banking Portfolio by Geographic Region 
+
+[DATA_TABLE_REMOVED]
+
+We originate commercial loans in most regions of the United States. The table below presents the geographic profile of our commercial loan portfolio by segment as of December 31, 2019 and 2018.
+
+Table 20: Commercial Banking Portfolio by Geographic Region 
+
+[DATA_TABLE_REMOVED]
+
+ 77Capital One Financial Corporation (COF)
+[DATA_TABLE_REMOVED]
+
+__________
+
+(1) Geographic concentration is generally determined by the location of the borrower’s business or the location of the collateral associated with the loan. Northeast consists of CT, MA, ME, NH, NJ, NY, PA and VT. Mid-Atlantic consists of DC, DE, MD, VA and WV. South consists of AL, AR, FL, GA, KY, LA, MO, MS, NC, SC, TN and TX.
+
+Commercial Loans by Industry
+
+Table 21 summarizes our commercial loans held for investment portfolio by industry classification as of December 31, 2019 and 2018. Industry classifications below are based on our interpretation of the North American Industry Classification System codes as they pertain to each individual loan.
+
+Table 21: Commercial Loans by Industry
+
+[DATA_TABLE_REMOVED]
+
+Credit Risk Measurement
+
+We closely monitor economic conditions and loan performance trends to assess and manage our exposure to credit risk. Trends in delinquency rates are the key credit quality indicator for our credit card and retail banking loan portfolios as changes in delinquency rates can provide an early warning of changes in potential future credit losses. The key indicator we monitor when assessing the credit quality and risk of our auto loan portfolio is borrower credit scores as they provide insight into the borrower risk profile, which is an indication of potential future credit losses. The key credit quality indicator for our commercial loan portfolios is our internal risk ratings as we generally classify loans that have been delinquent for an extended period of time and other loans with significant risk of loss as nonperforming. In addition to these credit quality indicators, we also manage and monitor other credit quality metrics such as level of nonperforming loans and net charge-offs rates. 
+
+We underwrite most consumer loans using proprietary models, which typically include credit bureau data, such as borrower credit scores, application information and, where applicable, collateral and deal structure data. We continuously adjust our management of credit lines and collection strategies based on customer behavior and risk profile changes. We also use borrower credit scores for subprime classification, for competitive benchmarking and, in some cases, to drive product segmentation decisions. 
+
+ 78Capital One Financial Corporation (COF)
+Table 22 provides details on the credit scores of our domestic credit card and auto loan portfolios as of December 31, 2019 and 2018.
+
+Table 22: Credit Score Distribution
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Percentages represent period-end loans held for investment in each credit score category. Domestic card credit scores generally represent FICO scores. These scores are obtained from one of the major credit bureaus at origination and are refreshed monthly thereafter. We approximate non-FICO credit scores to comparable FICO scores for consistency purposes. Balances for which no credit score is available or the credit score is invalid are included in the 660 or below category.
+
+(2) Percentages represent period-end loans held for investment in each credit score category. Auto credit scores generally represent average FICO scores obtained from three credit bureaus at the time of application and are not refreshed thereafter. Balances for which no credit score is available or the credit score is invalid are included in the 620 or below category. 
+
+We present information in the section below on the credit performance of our loan portfolio, including the key metrics we use in tracking changes in the credit quality of our loan portfolio. See “Note 3—Loans” in this Report for additional credit quality information, and see “Note 1—Summary of Significant Accounting Policies” for information on our accounting policies for delinquent and nonperforming loans, charge-offs and troubled debt restructurings (“TDRs”) for each of our loan categories.
+
+Delinquency Rates
+
+We consider the entire balance of an account to be delinquent if the minimum required payment is not received by the customer’s due date, measured at each balance sheet date. Our 30+ day delinquency metrics include all loans held for investment that are 30 or more days past due, whereas our 30+ day performing delinquency metrics include loans that are 30 or more days past due but are currently classified as performing and accruing interest. The 30+ day delinquency and 30+ day performing delinquency metrics are the same for domestic credit card loans, as we continue to classify these loans as performing until the account is charged off, typically when the account is 180 days past due. See “Note 1—Summary of Significant Accounting Policies” for information on our policies for classifying loans as nonperforming for each of our loan categories. We provide additional information on our credit quality metrics above under “MD&A—Business Segment Financial Performance.”
+
+ 79Capital One Financial Corporation (COF)
+Table 23 presents our 30+ day performing delinquency rates and 30+ day delinquency rates of our portfolio of loans held for investment, by portfolio segment, as of December 31, 2019 and 2018.
+
+Table 23: 30+ Day Delinquencies
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Delinquency rates are calculated by dividing delinquency amounts by period-end loans held for investment for each specified loan category, including PCI loans as applicable.
+
+(2) The Walmart acquisition increased the domestic credit card 30+ day performing delinquency rate by 17 basis points as of December 31, 2019.
+
+Table 24 presents our 30+ day delinquent loans, by aging and geography, as of December 31, 2019 and 2018.
+
+Table 24: Aging and Geography of 30+ Day Delinquent Loans 
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Delinquency rates are calculated by dividing delinquency amounts by total period-end loans held for investment, including PCI loans as applicable.
+
+ 80Capital One Financial Corporation (COF)
+Table 25 summarizes loans that were 90+ days delinquent as to interest or principal, and still accruing interest as of December 31, 2019 and 2018. These loans consist primarily of credit card accounts between 90 days and 179 days past due. As permitted by regulatory guidance issued by the Federal Financial Institutions Examination Council, we continue to accrue interest and fees on domestic credit card loans through the date of charge-off, which is typically in the period the account becomes 180 days past due. While domestic credit card loans typically remain on accrual status until the loan is charged off, we reduce the balance of our credit card receivables by the amount of finance charges and fees billed but not expected to be collected and exclude this amount from revenue.
+
+Table 25: 90+ Day Delinquent Loans Accruing Interest 
+
+[DATA_TABLE_REMOVED]__________ 
+
+(1) Delinquency rates are calculated by dividing delinquency amounts by period-end loans held for investment for each specified loan category, including PCI loans as applicable.
+
+Nonperforming Loans and Nonperforming Assets
+
+Nonperforming assets consist of nonperforming loans, repossessed assets and other foreclosed assets. Nonperforming loans include loans that have been placed on nonaccrual status. See “Note 1—Summary of Significant Accounting Policies” for information on our policies for classifying loans as nonperforming for each of our loan categories.
+
+Table 26 presents our nonperforming loans, by portfolio segment, and other nonperforming assets as of December 31, 2019 and 2018. We do not classify loans held for sale as nonperforming. We provide additional information on our credit quality metrics in “MD&A—Business Segment Financial Performance.”
+
+ 81Capital One Financial Corporation (COF)
+Table 26: Nonperforming Loans and Other Nonperforming Assets(1)
+
+[DATA_TABLE_REMOVED]__________[DATA_TABLE_REMOVED]
+
+(2) Nonperforming loan rates are calculated based on nonperforming loans for each category divided by period-end total loans held for investment for each respective category, including PCI loans as applicable.[DATA_TABLE_REMOVED]
+
+(4) The denominators used in calculating nonperforming asset rates consist of total loans held for investment and other nonperforming assets. 
+
+ 82Capital One Financial Corporation (COF)
+Net Charge-Offs
+
+Net charge-offs consist of the unpaid principal balance of loans held for investment that we determine to be uncollectible, net of recovered amounts. We charge off loans as a reduction to the allowance for loan and lease losses when we determine the loan is uncollectible and record subsequent recoveries of previously charged-off amounts as increases to the allowance for loan and lease losses. Uncollectible finance charges and fees are reversed through revenue and certain fraud losses are recorded in other non-interest expense. Generally, costs to recover charged-off loans are recorded as collection expenses as incurred and included in our consolidated statements of income as a component of other non-interest expense. Our charge-off policy for loans varies based on the loan type. See “Note 1—Summary of Significant Accounting Policies” for information on our charge-off policy for each of our loan categories.
+
+Table 27 presents our net charge-off amounts and rates, by portfolio segment, in 2019, 2018 and 2017.
+
+Table 27: Net Charge-Offs (Recoveries)
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Net charge-off (recovery) rates are calculated by dividing net charge-offs (recoveries) by average loans held for investment for the period for each loan category.
+
+(2) The Walmart acquisition reduced the domestic credit card net charge-off rate by 8 basis points for the year ended December 31, 2019.
+
+ 83Capital One Financial Corporation (COF)
+Troubled Debt Restructurings
+
+As part of our loss mitigation efforts, we may provide short-term (three to twelve months) or long-term (greater than twelve months) modifications to a borrower experiencing financial difficulty to improve long-term collectability of the loan and to avoid the need for repossession or foreclosure of collateral.
+
+Table 28 presents our recorded investment of loans modified in TDRs as of December 31, 2019 and 2018, which excludes loan modifications that do not meet the definition of a TDR, and PCI loans, which we track and report separately.
+
+Table 28: Troubled Debt Restructurings
+
+[DATA_TABLE_REMOVED] 
+
+In our Credit Card business, the majority of our credit card loans modified in TDRs involve reducing the interest rate on the account and placing the customer on a fixed payment plan not exceeding 60 months. The effective interest rate in effect immediately prior to the loan modification is used as the effective interest rate for purposes of measuring impairment using the present value of expected cash flows. If the customer does not comply with the modified payment terms, then the credit card loan agreement may revert to its original payment terms, generally resulting in any loan outstanding reflected in the appropriate delinquency category and charged off in accordance with our standard charge-off policy.
+
+In our Consumer Banking business, the majority of our loans modified in TDRs receive an extension, an interest rate reduction or principal reduction, or a combination of these concessions. In addition, TDRs also occur in connection with bankruptcy of the borrower. In certain bankruptcy discharges, the loan is written down to the collateral value and the charged-off amount is reported as principal reduction. Impairment is determined using the present value of expected cash flows or a collateral evaluation for certain auto loans where the collateral value is lower than the recorded investment.
+
+In our Commercial Banking business, the majority of loans modified in TDRs receive an extension, with a portion of these loans receiving an interest rate reduction or a gross balance reduction. The impairment on modified commercial loans is generally determined based on the underlying collateral value.
+
+We provide additional information on modified loans accounted for as TDRs, including the performance of those loans subsequent to modification, in “Note 3—Loans.”
+
+Impaired Loans
+
+A loan is considered to be impaired when, based on current information and events, it is probable that we will be unable to collect all amounts due from the borrower in accordance with the original contractual terms of the loan. Generally, we report loans as impaired based on the method for measuring impairment in accordance with applicable accounting guidance. Loans defined as individually impaired include larger-balance commercial nonperforming loans and TDRs. Loans held for sale are not reported as impaired. Impaired loans also exclude PCI loans, which are accounted for based on expected cash flows because this accounting methodology takes into consideration future credit losses expected to be incurred.
+
+ 84Capital One Financial Corporation (COF)
+Impaired loans totaled $1.9 billion and $1.8 billion as of December 31, 2019 and 2018, respectively. These amounts include TDRs of $1.7 billion and $1.6 billion as of December 31, 2019 and 2018, respectively. We provide additional information on our impaired loans, including the allowance for loan and lease losses established for these loans, in “Note 3—Loans” and “Note 4—Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments.”
+
+Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments
+
+Our allowance for loan and lease losses represents management’s best estimate of incurred loan and lease credit losses inherent to our held for investment portfolio as of each balance sheet date. The allowance for loan and lease losses is increased through the provision for credit losses and reduced by net charge-offs. We provide additional information on the methodologies and key assumptions used in determining our allowance for loan and lease losses under “Note 1—Summary of Significant Accounting Policies.”
+
+Table 29 presents changes in our allowance for loan and lease losses and reserve for unfunded lending commitments for 2019 and 2018, and details by portfolio segment for the provision for credit losses, charge-offs and recoveries.
+
+ 85Capital One Financial Corporation (COF)
+Table 29: Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments Activity
+
+[DATA_TABLE_REMOVED]__________
+
+(1) In 2018, we sold all of our consumer home loan portfolio and recognized a gain of approximately $499 million in the Other category, including a benefit for credit losses of $46 million.
+
+(2) The amount and timing of recoveries is impacted by our collection strategies, which are based on customer behavior and risk profile and include direct customer communications, repossession of collateral, the periodic sale of charged-off loans as well as additional strategies, such as litigation.
+
+(3) Represents foreign currency translation adjustments and the net impact of loan transfers and sales where applicable.
+
+ 86Capital One Financial Corporation (COF)
+Allowance coverage ratios are calculated based on the allowance for loan and lease losses for each specified portfolio segment divided by period-end loans held for investment within the specified loan category. Table 30 presents the allowance coverage ratios as of December 31, 2019 and 2018.
+
+Table 30: Allowance Coverage Ratios
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Represents period-end 30+ day delinquent loans for our credit card and consumer banking loan portfolios, nonperforming loans for our commercial banking loan portfolio and total loans held for investment for the total ratio.
+
+Our allowance for loan and lease losses remains substantially flat at $7.2 billion as an allowance release in our domestic credit card loan portfolio largely due to the strong economy and stable underlying credit performance was offset by an allowance build due to credit deterioration in our commercial energy loan portfolio.
+
+Our allowance coverage ratio decreased by 23 basis points to 2.71% as of December 31, 2019 from December 31, 2018 primarily driven by the strong economy and stable underlying credit performance in our domestic credit card loan portfolio and the impacts from partner loss sharing arrangements, offset by higher reserves in our commercial banking business.
+
+LIQUIDITY RISK PROFILE
+
+We have established liquidity practices that are intended to ensure that we have sufficient asset-based liquidity to cover our funding requirements and maintain adequate reserves to withstand the potential impact of deposit attrition or diminished liquidity in the funding markets. In addition to our cash position, we maintain reserves in the form of investment securities and certain loans that are either readily-marketable or pledgeable. 
+
+Table 31 below presents the composition of our liquidity reserves as of December 31, 2019 and 2018.
+
+Table 31: Liquidity Reserves
+
+[DATA_TABLE_REMOVED]
+
+Our liquidity reserves increased by $956 million to $90.6 billion as of December 31, 2019 from December 31, 2018 primarily driven by a decrease in our FHLB advances outstanding. See “MD&A—Risk Management” for additional information on our management of liquidity risk.
+
+ 87Capital One Financial Corporation (COF)
+Liquidity Coverage Ratio
+
+We are subject to the Liquidity Coverage Ratio Rule (“LCR Rule”) as implemented by the Federal Reserve and OCC. The LCR Rule requires us to calculate our LCR daily. It also requires the Company to publicly disclose, on a quarterly basis, its LCR, certain related quantitative liquidity metrics, and a qualitative discussion of its LCR. Our average LCR during the fourth quarter of 2019 exceeded the LCR Rule requirement of 100%. The calculation and the underlying components are based on our interpretations, expectations and assumptions of relevant regulations, as well as interpretations provided by our regulators, and are subject to change based on changes to future regulations and interpretations. Under the Tailoring Rules, we are subject to a reduced LCR requirement, which we do not expect will have a significant impact on the Company’s publicly disclosed LCR. See “Part I—Item 1. Business—Supervision and Regulation” for additional information.
+
+Borrowing Capacity
+
+We maintain a shelf registration with the U.S. Securities and Exchange Commission (“SEC”) so that we may periodically offer and sell an indeterminate aggregate amount of senior or subordinated debt securities, preferred stock, depositary shares, common stock, purchase contracts, warrants and units. There is no limit under this shelf registration to the amount or number of such securities that we may offer and sell, subject to market conditions. In addition, we also maintain a shelf registration that allows us to periodically offer and sell up to $25 billion of securitized debt obligations from our credit card loan securitization trust and a shelf registration that allows us to periodically offer and sell up to $20 billion from our auto loan securitization trusts.
+
+In addition to our issuance capacity under the shelf registration statements, we also have access to FHLB advances and the Federal Reserve Discount Window. The ability to borrow utilizing these sources is based on membership status and the amount is dependent upon the Banks’ ability to post collateral. As of December 31, 2019, we pledged both loans and securities to FHLB to secure a maximum borrowing capacity of $18.7 billion, of which $11.5 billion was still available to us to borrow. Our FHLB membership is supported by our investment in FHLB stock of $328 million and $415 million as of December 31, 2019 and 2018, respectively, which was determined in part based on our outstanding advances. As of December 31, 2019, we pledged loans to secure a borrowing capacity of $5.3 billion under the Federal Reserve Discount Window. Our membership with the Federal Reserve is supported by our investment in Federal Reserve stock, which totaled $1.3 billion as of both December 31, 2019 and 2018.
+
+Funding
+
+Our primary source of funding comes from deposits, as they are a stable and relatively low cost source of funding. In addition to deposits, we raise funding through the issuance of senior and subordinated notes, securitized debt obligations, federal funds purchased, securities loaned or sold under agreements to repurchase, and FHLB advances secured by certain portions of our loan and securities portfolios. A key objective in our use of these markets is to maintain access to a diversified mix of wholesale funding sources. See “MD&A—Consolidated Balance Sheets Analysis—Funding Sources Composition” for additional information on our primary sources of funding.
+
+ 88Capital One Financial Corporation (COF)
+Deposits
+
+Table 32 provides a comparison of average balances, interest expense and average deposit interest rates for the years ended December 31, 2019, 2018 and 2017.
+
+Table 32: Deposits Composition and Average Deposits Interest Rates
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Includes negotiable order of withdrawal accounts.
+
+(2) Includes money market deposit accounts.
+
+The FDIC limits the acceptance of brokered deposits by well-capitalized insured depository institutions and, with a waiver from the FDIC, by adequately-capitalized institutions. COBNA and CONA were well-capitalized, as defined under the federal banking regulatory guidelines, as of December 31, 2019 and 2018, respectively. See “Part I—Item 1. Business—Supervision and Regulation” for additional information. We provide additional information on the composition of deposits in “MD&A—Consolidated Balance Sheets Analysis—Funding Sources Composition” and “Note 8—Deposits and Borrowings.”
+
+Table 33 presents the contractual maturities of large-denomination domestic time deposits of $100,000 or more as of December 31, 2019 and 2018. Our funding and liquidity management activities factor into the expected maturities of these deposits. 
+
+Table 33: Maturities of Large-Denomination Domestic Time Deposits—$100,000 or More
+
+[DATA_TABLE_REMOVED]
+
+Short-Term Borrowings and Long-Term Debt
+
+We access the capital markets to meet our funding needs through the issuance of senior and subordinated notes, securitized debt obligations, and federal funds purchased and securities loaned or sold under agreements to repurchase. In addition, we may utilize short-term and long-term FHLB advances secured by certain of our investment securities, multifamily real estate loans, and commercial real estate loans. 
+
+Our short-term borrowings include those borrowings with an original contractual maturity of one year or less and do not include the current portion of long-term debt. The short-term borrowings, which consist of short-term FHLB advances and federal funds purchased, securities loaned or sold under agreements to repurchase, decreased by $2.1 billion to $7.3 billion as of December 31, 2019 from December 31, 2018 driven by maturities of our short-term FHLB advances.
+
+ 89Capital One Financial Corporation (COF)
+Our long-term debt, which primarily consists of securitized debt obligations, senior and subordinated notes, and long-term FHLB advances, decreased by $1.1 billion to $48.4 billion as of December 31, 2019 from December 31, 2018 driven by maturities exceeding issuances. We provide more information on our securitization activity in “Note 5—Variable Interest Entities and Securitizations.”
+
+The following table summarizes issuances of securitized debt obligations, senior and subordinated notes, and FHLB advances and their respective maturities or redemptions for the years ended December 31, 2019, 2018 and 2017.
+
+Table 34: Long-Term Funding
+
+[DATA_TABLE_REMOVED]__________[DATA_TABLE_REMOVED]
+
+Credit Ratings
+
+Our credit ratings impact our ability to access capital markets and our borrowing costs. Rating agencies base their ratings on numerous factors, including liquidity, capital adequacy, asset quality, quality of earnings and the probability of systemic support. Significant changes in these factors could result in different ratings.
+
+Table 35 provides a summary of the credit ratings for the senior unsecured long-term debt of Capital One Financial Corporation, COBNA and CONA as of December 31, 2019 and 2018.
+
+Table 35: Senior Unsecured Long-Term Debt Credit Ratings
+
+[DATA_TABLE_REMOVED]
+
+As of February 14, 2020, Moody’s Investors Service (“Moody’s”), S&P and Fitch Ratings (“Fitch”) have us on a stable outlook. 
+
+Contractual Obligations
+
+In the normal course of business, we enter into various contractual obligations that may require future cash payments that affect our short-term and long-term liquidity and capital resource needs. Our future cash outflows primarily relate to deposits, borrowings and operating leases. Table 36 summarizes, by remaining contractual maturity, our significant contractual cash obligations as of December 31, 2019. The actual timing and amounts of future cash payments may differ from the amounts presented below due to a number of factors, such as discretionary debt repurchases. Table 36 excludes short-term obligations such as trade payables, commitments to fund certain equity investments, obligations for pension and post-retirement benefit plans, and representation and warranty reserves, which are discussed in more detail in “Note 5—Variable Interest Entities and Securitizations,” “Note 14—Employee Benefit Plans” and “Note 18—Commitments, Contingencies, Guarantees and Others.”
+
+ 90Capital One Financial Corporation (COF)
+Table 36: Contractual Obligations
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Includes only those interest-bearing deposits which have a contractual maturity date.[DATA_TABLE_REMOVED]
+
+(3) Other borrowings primarily consists of FHLB advances.
+
+(4) Represents substantial agreements to purchase goods or services that are enforceable and legally binding and specify all significant terms. Purchase obligations are included through the termination date of the agreements even if the contract is renewable.
+
+MARKET RISK PROFILE
+
+Market risk is the risk of economic loss in the value of our financial instruments due to changes in market factors. Our primary market risk exposures include interest rate risk, foreign exchange risk and commodity pricing risk. We are exposed to market risk primarily from the following operations and activities:
+
+•Traditional banking activities of deposit gathering and lending;
+
+•Asset/liability management activities including the management of investment securities, short-term and long-term borrowings and derivatives;
+
+•Foreign operations in the U.K. and Canada within our Credit Card business; and
+
+•Customer accommodation activities within our Commercial Banking business.
+
+We have enterprise-wide risk management policies and limits, approved by our Board of Directors, which govern our market risk management activities. Our objective is to manage our exposure to market risk in accordance with these policies and limits based on prevailing market conditions and long-term expectations. We provide additional information below about our primary sources of market risk, our market risk management strategies and the measures that we use to evaluate these exposures.
+
+Interest Rate Risk
+
+Interest rate risk represents exposure to financial instruments whose values vary with the level or volatility of interest rates. We are exposed to interest rate risk primarily from the differences in the timing between the maturities or re-pricing of assets and liabilities. We manage our interest rate risk primarily by entering into interest rate swaps and other derivative instruments, including caps, floors, options, futures and forward contracts. 
+
+We use various industry standard market risk measurement techniques and analyses to measure, assess and manage the impact of changes in interest rates on our net interest income and our economic value of equity and changes in foreign exchange rates on our non-dollar-denominated funding and non-dollar equity investments in foreign operations.
+
+ 91Capital One Financial Corporation (COF)
+Net Interest Income Sensitivity
+
+Our net interest income sensitivity measure estimates the impact on our projected 12-month baseline interest rate-sensitive revenue resulting from movements in interest rates. Interest rate-sensitive revenue consists of net interest income and certain components of other non-interest income significantly impacted by movements in interest rates, including changes in the fair value of freestanding interest rate derivatives. In addition to our existing assets and liabilities, we incorporate expected future business growth assumptions, such as loan and deposit growth and pricing, and plans for projected changes in our funding mix in our baseline forecast. In measuring the sensitivity of interest rate movements on our projected interest rate-sensitive revenue, we assume a hypothetical instantaneous parallel shift in the level of interest rates detailed in Table 37 below. At the current level of interest rates, our interest rate sensitive revenue is expected to increase modestly in higher rate scenarios and decrease modestly in lower rate scenarios. 
+
+Economic Value of Equity
+
+Our economic value of equity sensitivity measure estimates the impact on the net present value of our assets and liabilities, including derivative exposures, resulting from movements in interest rates. Our economic value of equity sensitivity measure is calculated based on our existing assets and liabilities, including derivatives, and does not incorporate business growth assumptions or projected balance sheet changes. Key assumptions used in the calculation include projecting rate sensitive prepayments for mortgage securities, loans and other assets, term structure modeling of interest rates, discount spreads, and deposit volume and pricing assumptions. In measuring the sensitivity of interest rate movements on our economic value of equity, we assume a hypothetical instantaneous parallel shift in the level of interest rates detailed in Table 37 below. Our current economic value of equity sensitivity profile demonstrates that our economic value of equity generally decreases as interest rates decrease from the current levels.
+
+Table 37 shows the estimated percentage impact on our projected baseline net interest income and economic value of equity calculated under the methodology described above as of December 31, 2019 and 2018. In instances where a declining interest rate scenario would result in a rate less than 0%, we assume a rate of 0% for that scenario.
+
+Table 37: Interest Rate Sensitivity Analysis
+
+[DATA_TABLE_REMOVED]
+
+In addition to these industry standard measures, we also consider the potential impact of alternative interest rate scenarios, such as stressed rate shocks as well as steepening and flattening yield curve scenarios in our internal interest rate risk management decisions.
+
+Limitations of Market Risk Measures
+
+The interest rate risk models that we use in deriving these measures incorporate contractual information, internally-developed assumptions and proprietary modeling methodologies, which project borrower and depositor behavior patterns in certain interest rate environments. Other market inputs, such as interest rates, market prices and interest rate volatility, are also critical components of our interest rate risk measures. We regularly evaluate, update and enhance these assumptions, models and analytical tools as we believe appropriate to reflect our best assessment of the market environment and the expected behavior patterns of our existing assets and liabilities.
+
+ 92Capital One Financial Corporation (COF)
+There are inherent limitations in any methodology used to estimate the exposure to changes in market interest rates. The sensitivity analysis described above contemplates only certain movements in interest rates and is performed at a particular point in time based on the existing balance sheet and, in some cases, expected future business growth and funding mix assumptions. The strategic actions that management may take to manage our balance sheet may differ significantly from our projections, which could cause our actual earnings and economic value of equity sensitivities to differ substantially from the above sensitivity analysis.
+
+For further information on our interest rate exposures, see “Note 9—Derivative Instruments and Hedging Activities.” 
+
+Foreign Exchange Risk
+
+Foreign exchange risk represents exposure to changes in the values of current holdings and future cash flows denominated in other currencies. We are exposed to foreign exchange risk primarily from the intercompany funding denominated in the pound sterling (“GBP”) and the Canadian dollar (“CAD”) that we provide to our businesses in the U.K. and Canada and net equity investments in those businesses. We are also exposed to foreign exchange risk due to changes in the dollar-denominated value of future earnings and cash flows from our foreign operations and from our Euro (“EUR”)-denominated borrowings.
+
+Our non-dollar denominated intercompany funding and EUR-denominated borrowings expose our earnings to foreign exchange transaction risk. We manage these transaction risks by using forward foreign currency derivatives and cross-currency swaps to hedge our exposures. We measure our foreign exchange transaction risk exposures by applying a 1% U.S. dollar appreciation shock against the value of the non-dollar denominated intercompany funding and EUR-denominated borrowings and their related hedges, which shows the impact to our earnings from foreign exchange risk. Our intercompany funding outstanding was 761 million GBP and 756 million GBP as of December 31, 2019 and 2018, respectively, and 6.6 billion CAD and 6.5 billion CAD as of December 31, 2019 and 2018, respectively. Our EUR-denominated borrowings outstanding were 1.2 billion EUR as of December 31, 2019.
+
+Our non-dollar equity investments in foreign operations expose our balance sheet to translation risk in AOCI and our capital ratios. We manage our AOCI exposure by entering into foreign currency derivatives designated as net investment hedges. We measure these exposures by applying a 30% U.S. dollar appreciation shock, which we believe approximates a significant adverse shock over a one-year time horizon, against the value of the net equity invested in our foreign operations related net investment hedges where applicable. Our gross equity exposures in our U.K. and Canadian operations were 1.6 billion GBP as of both December 31, 2019 and 2018, and 1.4 billion CAD and 1.2 billion CAD as of December 31, 2019 and 2018, respectively.
+
+As a result of our derivative management activities, we believe our net exposure to foreign exchange risk is minimal.
+
+Risk related to Customer Accommodation Derivatives 
+
+We offer interest rate, commodity and foreign currency derivatives as an accommodation to our customers within our Commercial Banking business. We offset the majority of the market risk of these customer accommodation derivatives by entering into offsetting derivatives transactions with other counterparties. We use value-at-risk (“VaR”) as the primary method to measure the market risk in our customer accommodation derivative activities on a daily basis. VaR is a statistical risk measure used to estimate the potential loss from movements observed in the recent market environment. We employ an historical simulation approach using the most recent 500 business days and use a 99 percent confidence level and a holding period of one business day. As a result of offsetting our customer exposures with other counterparties, we believe that our net exposure to market risk in our customer accommodation derivatives is minimal. For further information on our risk related to customer accommodation derivatives, see “Note 9—Derivative Instruments and Hedging Activities.”
+
+London Interbank Offered Rate (“LIBOR”) Transition
+
+On July 27, 2017, the U.K. Financial Conduct Authority, the regulator for the administration of LIBOR, announced that LIBOR would be transitioned as an interest rate benchmark and that it will no longer compel banks to contribute LIBOR data beyond December 31, 2021. It is unclear what rate or rates may develop as accepted alternatives to LIBOR, or what the effect of any such changes may have on the markets for LIBOR-based financial instruments. In the U.S., the Federal Reserve Board and the Federal Reserve Bank of New York established the Alternative Reference Rates Committee (“ARRC”), a group of private market participants and ex-officio members representing banking and financial sector regulators. ARRC has recommended the Secured Overnight Financing Rate (“SOFR”) as the preferred alternative rate for certain U.S. dollar derivative and cash instruments. We have exposures to LIBOR, including loans, derivative contracts, unsecured debt, securitizations, vendor agreements and other instruments with attributes that are either directly or indirectly dependent on LIBOR. To facilitate an orderly transition from LIBOR, 
+
+ 93Capital One Financial Corporation (COF)
+we have established a company-wide, cross-functional initiative to oversee and manage our transition away from LIBOR and other Interbank Offered Rates (“IBORs”) to alternative reference rates. We have made progress on our transition efforts as we:
+
+•implemented a robust governance framework and transition planning;
+
+•completed initial assessment of exposures in products, legal contracts, systems, models and processes; 
+
+•included LIBOR transition language (“fallback language”) for new legal contracts/agreements; and
+
+•issued our first debt security with a SOFR-based floating rate component in January 2020.
+
+We also continue to focus our transition efforts on:
+
+•reviewing existing legal contracts/agreements and assessing fallback language impacts;
+
+•monitoring of our LIBOR exposure;
+
+•assessing internal operational readiness and risk management;
+
+•implementing necessary updates to our infrastructure including systems, models, valuation tools and processes;
+
+•engaging with our clients, industry working groups, and regulators; and 
+
+•monitoring developments associated with LIBOR alternatives and industry practices related to LIBOR-indexed instruments.
+
+For a further discussion of the various risks we face in connection with the expected replacement of LIBOR on our operations, see “Part I—Item 1A. Risk Factors—Uncertainty regarding, and transition away from, LIBOR may adversely affect our business”.
+
+ 94Capital One Financial Corporation (COF)
+SUPPLEMENTAL TABLES
+
+Table A—Loans Held for Investment Portfolio Composition 
+
+[DATA_TABLE_REMOVED]
+
+ 95Capital One Financial Corporation (COF)
+Table B—Performing Delinquencies 
+
+[DATA_TABLE_REMOVED]__________ [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(3) Delinquency rates are calculated by dividing loans in each delinquency status category and geographic region as of the end of the period by the total loan portfolio.
+
+ 96Capital One Financial Corporation (COF)
+Table C—Nonperforming Loans and Other Nonperforming Assets 
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Nonperforming loan rate is calculated based on total nonperforming loans divided by period-end total loans held for investment.
+
+(2) The denominator used in calculating the total nonperforming assets ratio consists of total loans held for investment and total other nonperforming assets.
+
+ 97Capital One Financial Corporation (COF)
+Table D—Net Charge-Offs
+
+[DATA_TABLE_REMOVED]
+
+ 98Capital One Financial Corporation (COF)
+Table E—Summary of Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments 
+
+[DATA_TABLE_REMOVED]
+
+ 99Capital One Financial Corporation (COF)
+Reconciliation of Non-GAAP Measures
+
+The following non-GAAP measures consist of TCE, tangible assets and metrics computed using these amounts, which include tangible book value per common share, return on average tangible assets, return on average TCE and TCE ratio. We consider these metrics to be key financial performance measures that management uses in assessing capital adequacy and the level of returns generated. While these non-GAAP measures are widely used by investors, analysts and bank regulatory agencies to assess the capital position of financial services companies, they may not be comparable to similarly-titled measures reported by other companies. The following table presents reconciliations of these non-GAAP measures to the applicable amounts measured in accordance with GAAP.
+
+Table F—Reconciliation of Non-GAAP Measures
+
+[DATA_TABLE_REMOVED]__________
+
+(1) Includes impact of related deferred taxes.
+
+(2) Tangible common equity (“TCE”) ratio is a non-GAAP measure calculated based on TCE divided by tangible assets.
+
+ 100Capital One Financial Corporation (COF)
+Table G—Selected Quarterly Financial Information 
+
+[DATA_TABLE_REMOVED]
+
+ 101Capital One Financial Corporation (COF)
+Glossary and Acronyms
+
+2019 Stock Repurchase Program: On June 27, 2019, we announced that our Board of Directors authorized the repurchase of up to $2.2 billion of shares of our common stock from the third quarter of 2019 through the end of the second quarter of 2020.
+
+Annual Report: References to our “2019 Form 10-K” or “2019 Annual Report” are to our Annual Report on Form 10-K for the fiscal year ended December 31, 2019. 
+
+Banks: Refers to COBNA and CONA.
+
+Basel Committee: The Basel Committee on Banking Supervision.
+
+Basel III Advanced Approaches: The Basel III Advanced Approaches is mandatory for those institutions with consolidated total assets of $250 billion or more or consolidated total on-balance sheet foreign exposure of $10 billion or more. The Basel III Capital Rule modified the Advanced Approaches version of Basel II to create the Basel III Advanced Approaches.
+
+Basel III Capital Rule: The Federal Banking Agencies issued a rule in July 2013 implementing the Basel III capital framework developed by the Basel Committee as well as certain Dodd-Frank Act and other capital provisions.
+
+Basel III Standardized Approach: The Basel III Capital Rule modified Basel I to create the Basel III Standardized Approach, which requires for Basel III Advanced Approaches banking organizations that have yet to exit parallel run to use the Basel III Standardized Approach to calculate regulatory capital, including capital ratios, subject to transition provisions.
+
+Cabela’s acquisition: On September 25, 2017, we completed the acquisition from Synovus Bank of credit card assets and the related liabilities of World’s Foremost Bank, a wholly-owned subsidiary of Cabela’s Incorporated.
+
+Capital One or the Company: Capital One Financial Corporation and its subsidiaries.
+
+Carrying value (with respect to loans): The amount at which a loan is recorded on the consolidated balance sheets. For loans recorded at amortized cost, carrying value is the unpaid principal balance net of unamortized deferred loan origination fees and costs, and unamortized purchase premium or discount. For loans that are or have been on nonaccrual status, the carrying value is also reduced by any net charge-offs that have been recorded and the amount of interest payments applied as a reduction of principal under the cost recovery method. For credit card loans, the carrying value also includes interest that has been billed to the customer, net of any related reserves. Loans held for sale are recorded at either fair value (if we elect the fair value option) or at the lower of cost or fair value. For PCI loans, carrying value represents the present value of all expected cash flows including interest that has not yet been accrued, discounted at the effective interest rate, including any valuation allowance for impaired loans.
+
+CECL: In June 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2016-13, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. This ASU requires an impairment model (known as the current expected credit loss (“CECL”) model) that is based on expected rather than incurred losses, with an anticipated result of more timely loss recognition. This guidance is effective for us on January 1, 2020.
+
+COBNA: Capital One Bank (USA), National Association, one of our fully owned subsidiaries, which offers credit and debit card products, other lending products and deposit products.
+
+Common equity Tier 1 capital: Calculated as the sum of common equity, related surplus and retained earnings, and accumulated other comprehensive income net of applicable phase-ins, less goodwill and intangibles net of associated deferred tax liabilities and applicable phase-ins, less other deductions, as defined by regulators.
+
+Company: Capital One Financial Corporation and its subsidiaries.
+
+CONA: Capital One, National Association, one of our fully owned subsidiaries, which offers a broad spectrum of banking products and financial services to consumers, small businesses and commercial clients.
+
+Credit risk: The risk of loss from an obligor’s failure to meet the terms of any contract or otherwise fail to perform as agreed.
+
+Cybersecurity Incident: The unauthorized access by an outside individual who obtained certain types of personal information relating to people who had applied for our credit card products and to our credit card customers that we announced on July 29, 2019. 
+
+Derivative: A contract or agreement whose value is derived from changes in interest rates, foreign exchange rates, prices of securities or commodities, credit worthiness for credit default swaps or financial or commodity indices.
+
+ 102Capital One Financial Corporation (COF)
+Discontinued operations: The operating results of a component of an entity, as defined by Accounting Standards Codification (“ASC”) 205, that are removed from continuing operations when that component has been disposed of or it is management’s intention to sell the component.
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”): Regulatory reform legislation signed into law on July 21, 2010. This law broadly affects the financial services industry and contains numerous provisions aimed at strengthening the sound operation of the financial services sector.
+
+Exchange Act: The Securities Exchange Act of 1934, as amended.
+
+eXtensible Business Reporting Language (“XBRL”): A language for the electronic communication of business and financial data.
+
+Federal Banking Agencies: The Federal Reserve, Office of the Comptroller of the Currency and Federal Deposit Insurance Corporation.
+
+Federal Reserve: The Board of Governors of the Federal Reserve System.
+
+FICO score: A measure of consumer credit risk provided by credit bureaus, typically produced from statistical modeling software created by FICO (formerly known as “Fair Isaac Corporation”) utilizing data collected by the credit bureaus.
+
+Foreign currency derivative contracts: An agreement to exchange contractual amounts of one currency for another currency at one or more future dates.
+
+Foreign exchange contracts: Contracts that provide for the future receipt or delivery of foreign currency at previously agreed-upon terms.
+
+GSE or Agency: A government-sponsored enterprise or agency is a financial services corporation created by the United States Congress. Examples of U.S. government agencies include Federal National Mortgage Association (“Fannie Mae”), Federal Home Loan Mortgage Corporation (“Freddie Mac”), Government National Mortgage Association (“Ginnie Mae”) and the Federal Home Loan Banks (“FHLB”).
+
+Impaired loans: A loan is considered impaired when, based on current information and events, it is probable that we will not be able to collect all amounts due from the borrower in accordance with the original contractual terms of the loan.
+
+Interest rate sensitivity: The exposure to interest rate movements.
+
+Interest rate swaps: Contracts in which a series of interest rate flows in a single currency are exchanged over a prescribed period. Interest rate swaps are the most common type of derivative contract that we use in our asset/liability management activities.
+
+Investment grade: Represents Moody’s long-term rating of Baa3 or better; and/or a Standard & Poor’s or DBRS long-term rating of BBB- or better; or if unrated, an equivalent rating using our internal risk ratings. Instruments that fall below these levels are considered to be non-investment grade.
+
+Investor entities: Entities that invest in community development entities (“CDE”) that provide debt financing to businesses and non-profit entities in low-income and rural communities.
+
+LCR Rule: In September 2014, the Federal Banking Agencies issued final rules implementing the Basel III Liquidity Coverage Ratio in the United States. The LCR is calculated by dividing the amount of an institution’s high quality, unencumbered liquid assets by its estimated net cash outflow, as defined and calculated in accordance with the LCR Rule. 
+
+Leverage ratio: Tier 1 capital divided by average assets after certain adjustments, as defined by the regulators. 
+
+Liquidity risk: The risk that the Company will not be able to meet its future financial obligations as they come due, or invest in future asset growth because of an inability to obtain funds at a reasonable price within a reasonable time period.
+
+Loan-to-value (“LTV”) ratio: The relationship, expressed as a percentage, between the principal amount of a loan and the appraised value of the collateral securing the loan.
+
+Managed presentation: A non-GAAP presentation of financial results that includes reclassifications to present revenue on a fully taxable-equivalent basis. Management uses this non-GAAP financial measure at the segment level, because it believes this provides information to enable investors to understand the underlying operational performance and trends of the particular business segment and facilitates a comparison of the business segment with the performance of competitors.
+
+ 103Capital One Financial Corporation (COF)
+Market risk: The risk that an institution’s earnings or the economic value of equity could be adversely impacted by changes in interest rates, foreign exchange rates or other market factors.
+
+Master netting agreement: An agreement between two counterparties that have multiple contracts with each other that provides for the net settlement of all contracts through a single payment in the event of default or termination of any one contract.
+
+Mortgage-backed security (“MBS”): An asset-backed security whose cash flows are backed by the principal and interest payments of a set of mortgage loans.
+
+Mortgage servicing rights (“MSRs”): The right to service a mortgage loan when the underlying loan is sold or securitized. Servicing includes collections for principal, interest and escrow payments from borrowers and accounting for and remitting principal and interest payments to investors.
+
+Net charge-off rate: represents (annualized) net charge-offs divided by average loans held for investment for the period.
+
+Net interest margin: represents (annualized) net interest income divided by average interest-earning assets for the period.
+
+Nonperforming loans: Generally include loans that have been placed on nonaccrual status. We also do not report loans classified as held for sale as nonperforming.
+
+Option-ARM loans: The option-ARM real estate loan product is an adjustable-rate mortgage (“ARM”) loan that initially provides the borrower with the monthly option to make a fully-amortizing, interest-only or minimum fixed payment. After the initial payment option period, usually five years, the recalculated minimum payment represents a fully-amortizing principal and interest payment that would effectively repay the loan by the end of its contractual term.
+
+Other-than-temporary impairment (“OTTI”): An impairment charge taken on a security whose fair value has fallen below the carrying value on the balance sheet and whose value is not expected to recover through the holding period of the security.
+
+Public Funds deposits: Deposits that are derived from a variety of political subdivisions such as school districts and municipalities. 
+
+Purchased credit-impaired (“PCI”) loans: Loans acquired in a business combination that were recorded at fair value at acquisition and subsequently accounted for based on cash flows expected to be collected in accordance with ASC 310-30, Loans and Debt Securities Acquired with Deteriorated Credit Quality.
+
+Purchase volume: Consists of purchase transactions, net of returns, for the period, and excludes cash advance and balance transfer transactions.
+
+Rating agency: An independent agency that assesses the credit quality and likelihood of default of an issue or issuer and assigns a rating to that issue or issuer.
+
+Recorded investment: The amount of the investment in a loan which includes any direct write-down of the investment.
+
+Repurchase agreement: An instrument used to raise short-term funds whereby securities are sold with an agreement for the seller to buy back the securities at a later date. 
+
+Restructuring charges: Charges associated with the realignment of resources supporting various businesses, primarily consisting of severance and related benefits pursuant to our ongoing benefit programs and impairment of certain assets related to business locations and activities being exited.
+
+Risk-weighted assets: On- and off-balance sheet assets that are assigned to one of several broad risk categories and weighted by factors representing their risk and potential for default. 
+
+Securitized debt obligations: A type of asset-backed security and structured credit product constructed from a portfolio of fixed-income assets.
+
+Subprime: For purposes of lending in our Credit Card business, we generally consider FICO scores of 660 or below, or other equivalent risk scores, to be subprime. For purposes of auto lending in our Consumer Banking business, we generally consider FICO scores of 620 or below to be subprime.
+
+Tailoring Rules: In October 2019, the Federal Banking Agencies released final rules that provide for tailored application of certain capital, liquidity, and stress testing requirements across different categories of banking institutions. As a bank holding company with total consolidated assets of at least $250 billion that does not exceed any of the applicable risk-based thresholds, we are a Category III institution under the Tailoring Rules.
+
+ 104Capital One Financial Corporation (COF)
+Tangible common equity: A non-GAAP financial measure. Common equity less goodwill and intangible assets adjusted for deferred tax liabilities associated with non-tax deductible intangible assets and tax deductible goodwill.
+
+Tax Act: The Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 enacted on December 22, 2017.
+
+Troubled debt restructuring (“TDR”): A TDR is deemed to occur when the contractual terms of a loan agreement are modified by granting a concession to a borrower that is experiencing financial difficulty.
+
+Unfunded commitments: Legally binding agreements to provide a defined level of financing until a specified future date.
+
+U.K. PPI Reserve: U.K. payment protection insurance customer refund reserve.
+
+U.S. GAAP: Accounting principles generally accepted in the United States of America. Accounting rules and conventions defining acceptable practices in preparing financial statements in the U.S.
+
+Variable interest entity (“VIE”): An entity that (i) lacks enough equity investment at risk to permit the entity to finance its activities without additional financial support from other parties; (ii) has equity owners that lack the right to make significant decisions affecting the entity’s operations; and/or (iii) has equity owners that do not have an obligation to absorb or the right to receive the entity’s losses or return.
+
+Walmart acquisition: On October 11, 2019, we completed the acquisition of the existing portfolio of Walmart’s cobrand and private label credit card receivables.
+
+ 105Capital One Financial Corporation (COF)
+Acronyms
+
+AWS: Amazon Web Services, Inc.
+
+AML: Anti-money laundering
+
+AOCI: Accumulated other comprehensive income
+
+ARM: Adjustable rate mortgage
+
+ARRC: Alternative Reference Rates Committee
+
+ASU: Accounting Standards Update
+
+ASC: Accounting Standards Codification
+
+BHC: Bank holding company
+
+bps: Basis points
+
+CAD: Canadian dollar
+
+CAP: Compliance assurance process
+
+CCAR: Comprehensive Capital Analysis and Review
+
+CCP: Central Counterparty Clearinghouse, or Central Clearinghouse
+
+CCPA: California Consumer Privacy Act of 2018
+
+CDE: Community development entities 
+
+CECL: Current expected credit loss
+
+CFPB: Consumer Financial Protection Bureau
+
+CFTC: Commodity Futures Trading Commission
+
+CIBC Act: Change in Bank Control Act
+
+CMBS: Commercial mortgage-backed securities
+
+CME: Chicago Mercantile Exchange
+
+COEP: Capital One (Europe) plc
+
+COF: Capital One Financial Corporation
+
+COSO: Committee of Sponsoring Organizations of the Treadway Commission
+
+CRA: Community Reinvestment Act
+
+CVA: Credit valuation adjustment
+
+DCF: Discounted cash flow
+
+DCM: Designated contract market
+
+DDOS: Distributed denial of service
+
+DIF: Deposit insurance fund
+
+DRP: Dividend Reinvestment and Stock Purchase Plan
+
+DRR: Designated reserve ratio
+
+DVA: Debit valuation adjustment
+
+EGRRCPA: Economic Growth, Regulatory Relief, and Consumer Protection Act
+
+EU: European Union
+
+EUR: Euro
+
+Fannie Mae: Federal National Mortgage Association
+
+FASB: Financial Accounting Standards Board
+
+FCA: U.K. Financial Conduct Authority
+
+FCAC: Financial Consumer Agency of Canada
+
+FCM: Futures commission merchant
+
+FDIC: Federal Deposit Insurance Corporation
+
+ 106Capital One Financial Corporation (COF)
+FDICIA: The Federal Deposit Insurance Corporation Improvement Act of 1991
+
+FFIEC: Federal Financial Institutions Examination Council
+
+FHC: Financial holding company
+
+FHLB: Federal Home Loan Banks
+
+FIS: Fidelity Information Services
+
+FinCEN: Financial Crimes Enforcement Network
+
+FIRREA: Financial Institutions Reform, Recovery and Enforcement Act
+
+Fitch: Fitch Ratings
+
+FOS: Financial Ombudsman Service
+
+Freddie Mac: Federal Home Loan Mortgage Corporation
+
+FSOC: Financial Stability Oversight Council
+
+FVC: Fair Value Committee
+
+GAAP: Generally accepted accounting principles in the U.S.
+
+GBP: Great British pound
+
+GDPR: General Data Protection Regulation
+
+Ginnie Mae: Government National Mortgage Association
+
+G-SIBs: Global systemically important banks
+
+GSE or Agency: Government-sponsored enterprise
+
+IBOR: Interbank Offered Rate
+
+IRM: Independent Risk Management
+
+IRS: Internal Revenue Service
+
+LCH: LCH Group
+
+LCR: Liquidity coverage ratio
+
+LIBOR: London Interbank Offered Rate
+
+MDL: Multi-district litigation
+
+Moody’s: Moody’s Investors Service
+
+MSRs: Mortgage servicing rights
+
+NSFR: Net stable funding ratio
+
+NYSE: New York Stock Exchange
+
+OCC: Office of the Comptroller of the Currency 
+
+OCI: Other comprehensive income 
+
+OTC: Over-the-counter 
+
+OTTI: Other-than-temporary impairment
+
+PCA: Prompt corrective action
+
+PCAOB: Public Company Accounting Oversight Board (United States)
+
+PCI: Purchased credit-impaired
+
+PCCR: Purchased credit card relationship
+
+PIPEDA: Personal Information Protection and Electronic Documents Act
+
+PPI: Payment protection insurance
+
+PSU: Performance share unit
+
+RMBS: Residential mortgage-backed securities
+
+RSU: Restricted stock unit
+
+S&P: Standard & Poor’s
+
+SEC: U.S. Securities and Exchange Commission
+
+ 107Capital One Financial Corporation (COF)
+SEF: Swap execution facility
+
+SOFR: Secured Overnight Financing Rate
+
+TCE: Tangible common equity
+
+TDR: Troubled debt restructuring
+
+TILA: Truth in Lending Act
+
+TSYS: Total Systems Services, Inc.
+
+U.K.: United Kingdom
+
+U.S.: United States of America
+
+VAC: Valuations Advisory Committee
+
+ 108Capital One Financial Corporation (COF)
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk

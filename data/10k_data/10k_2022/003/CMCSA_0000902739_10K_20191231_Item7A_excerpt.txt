@@ -1,0 +1,48 @@
+Item 7A: Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk Management 
+
+We maintain a mix of fixed-rate and variable-rate debt and we are exposed to the market risk of adverse changes in interest rates. In order to manage the cost and volatility relating to the interest cost of our outstanding debt, we enter into various interest rate risk management derivative transactions in accordance with our policy.
+
+We monitor our exposure to the risk of adverse changes in interest rates through the use of techniques that include market valuation and sensitivity analyses. We do not engage in any speculative or leveraged derivative transactions.
+
+Our interest rate derivative financial instruments, which primarily include cross currency swaps, represent an integral part of our interest rate risk management program. These cross currency swaps effectively change our current fixed interest rates to different fixed interest rates.
+
+The effect of our interest rate derivative financial instruments to our consolidated interest expense was a decrease of $49 million in 2019, an increase of $2 million in 2018, and a decrease of $5 million in 2017. The effect of NBCUniversal’s interest rate derivative financial instruments was not material to NBCUniversal’s consolidated financial statements for any period presented. Interest rate derivative financial instruments may have a significant effect on consolidated interest expense in the future.
+
+The table below summarizes as of December 31, 2019 by contractual year of maturity the principal amount of our debt, effective rates, and fair values subject to interest rate risk maintained by us.
+
+Comcast 2019 Annual Report on Form 10-K
+
+59 
+[DATA_TABLE_REMOVED]
+
+The average interest rates on our debt in the table above reflect the effects of our derivative financial instruments. We estimate interest rates on variable rate debt and swaps using the relevant average implied forward rates through the year of maturity based on the yield curve in effect on December 31, 2019, plus the applicable borrowing margin. 
+
+Additionally, we have a $5.2 billion variable rate term loan presented separately as a collateralized obligation that will mature in March 2024. We entered into a series of variable-to-fixed rate interest rate swaps on $3.6 billion of this term loan with average pay rate and average receive rate related to these interest rate swaps of 1.23% and 1.80% as of December 31, 2019 and 2018, respectively. As of December 31, 2019, the estimated fair value of the term loan was $5.2 billion and the estimated fair value of the related interest rate swaps was a net asset of $34 million.
+
+See Notes 1, 7 and 10 to Comcast’s and Notes 1 and 9 to NBCUniversal’s consolidated financial statements for additional information on our derivative instruments and hedging activities.
+
+Foreign Exchange Risk Management
+
+We have significant operations in a number of countries outside the United States through Sky and NBCUniversal, and certain of our operations are conducted in foreign currencies. The value of these currencies fluctuates relative to the U.S. dollar. These changes could adversely affect the U.S. dollar equivalent value of our non-U.S. dollar revenue and operating costs and expenses, which could negatively affect our business, financial condition and results of operations in a given period or in specific territories.
+
+As part of our overall strategy to manage the level of exposure to the risk of foreign exchange rate fluctuations, we enter into derivative financial instruments related to a significant portion of our foreign currency exposure for transactions denominated in other than the functional currency. We enter into foreign currency forward contracts that change in value as currency exchange rates fluctuate to protect the functional currency equivalent value of non-functional currency denominated assets, liabilities, commitments, and forecasted non-functional currency revenue and expenses. In accordance with our policy, we hedge forecasted foreign currency transactions for periods generally not to exceed 30 months. As of December 31, 2019 and 2018, we had foreign exchange contracts on transactions other than debt with a total notional value of $6.3 billion and $5.8 billion, respectively, including contracts at NBCUniversal of $1.4 billion and $1.2 billion, respectively. As of December 31, 2019 and 2018, the aggregate estimated fair value of these foreign exchange contracts was not material.
+
+We use cross-currency swaps as cash flow hedges for foreign currency denominated debt obligations when those obligations are denominated in a currency other than the functional currency. Cross-currency swaps effectively convert foreign currency denominated debt to debt denominated in the functional currency, which hedge currency exchange risks associated with foreign currency denominated cash flows such as interest and principal debt repayments. As of both December 31, 2019 and 2018, we had cross-currency swaps designated as cash flow hedges on $3.7 billion of our foreign currency denominated debt. As of December 31, 2019 and 2018, the aggregate estimated fair values of cross-currency swaps designated as cash flow hedges were a net asset of $373 million and $399 million, respectively.
+
+We are also exposed to foreign exchange risk on the consolidation of our foreign operations. We have foreign currency denominated debt and use cross-currency swaps to hedge our net investments in certain of these subsidiaries. Transaction gains and losses resulting from currency movements on debt and changes in fair value of cross-currency swaps designated as net investment hedges are recorded within the currency translation adjustments component of accumulated other comprehensive income (loss). The aggregate amount of our net investment in foreign subsidiaries that have been hedged using cross-currency swaps and foreign currency denominated debt was $14.0 billion and $15.6 billion, as of December 31, 2019 and 2018, respectively. As of December 31, 2019 and 2018, the aggregate estimated fair value of the cross-currency swaps was a net liability of $373 million and $587 million, respectively. As of December 31, 2019 and 2018, there were pre-tax cumulative translation gains of $339 million and pre-tax cumulative translation losses of $4 million, respectively, related to these net investment hedges recorded in accumulated other comprehensive income (loss). 
+
+We have analyzed our foreign currency exposure related to our foreign operations as of December 31, 2019, including our hedging contracts, to identify assets and liabilities denominated in a currency other than their functional currency. For those assets and 
+
+ 60Comcast 2019 Annual Report on Form 10-K
+liabilities, we then evaluated the effect of a hypothetical 10% shift in currency exchange rates, inclusive of the effects of derivatives. The results of our analysis indicate that such a shift in exchange rates would not have a material impact on our 2019 net income attributable to Comcast Corporation.
+
+Counterparty Credit Risk Management
+
+We manage the credit risks associated with our derivative financial instruments through diversification and the evaluation and monitoring of the creditworthiness of counterparties. Although we may be exposed to losses in the event of nonperformance by counterparties, we do not expect such losses, if any, to be significant. We have agreements with certain counterparties that include collateral provisions. These provisions require a party with an aggregate unrealized loss position in excess of certain thresholds to post cash collateral for the amount in excess of the threshold. The threshold levels in our collateral agreements are based on our and the counterparty’s credit ratings. As of December 31, 2019 and 2018, we were not required to post collateral under the terms of these agreements, nor did we hold any collateral under the terms of these agreements.
+
+Comcast 2019 Annual Report on Form 10-K
+
+61 
+Item 8: Comcast Corporation Financial Statements and Supplementary Data

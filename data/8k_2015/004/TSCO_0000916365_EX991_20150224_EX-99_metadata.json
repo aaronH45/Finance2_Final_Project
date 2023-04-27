@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000916365",
+    "sec_company_name": "TRACTOR SUPPLY CO /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150224",
+    "sec_filing_date": "20150224",
+    "sec_changed_date": "20150224",
+    "sec_accepted_date": "20150224170520",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636515000044/0000916365-15-000044-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636515000044/0000916365-15-000044.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\TSCO_0000916365_EX991_20150224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9742 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5913,
+    "endpoints": [
+        "02/24/15 - Store and Margin Ex.99.1   ",
+        "regulations, potential judgments, fines, legal fees and other costs, breach of information systems or theft of customer data, ongoing and potential future legal or regulatory proceedings, management of our information systems, failure to develop and implement new technologies, the failure of customer-facing technology systems, business disruption including from the implementation of new supply chain technologies, effective tax rate changes and results of examination by taxing authorities, the ability to maintain an effective system of internal control over financial reporting, changes in accounting standards, assumptions and estimates. Forward-looking statements made by or on behalf of the Company are based on knowledge of its business and the environment in which it operates, but because of the factors listed above, actual results could differ materially from those reflected by any forward-looking statements. Consequently, all of the forward-looking statements made are qualified by these cautionary statements and those contained in the Company’s Annual Report on Form 10-K and other filings with the Securities and Exchange Commission. There can be no assurance that the results or developments anticipated by the Company will be realized or, even if substantially realized, that they will have the expected consequences to or effects on the Company or its business and operations. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. The Company does not undertake any obligation to release publicly any revisions to these forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TSCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\TSCO_0000916365_EX991_20150224_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:27:35.550320"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912750",
+    "sec_company_name": "NEWFIELD EXPLORATION CO /DE/ (Filer)",
+    "document_type": "EX993",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20180220",
+    "sec_filing_date": "20180223",
+    "sec_changed_date": "20180223",
+    "sec_accepted_date": "20180223060127",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912750/000110465918011497/0001104659-18-011497-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912750/000110465918011497/0001104659-18-011497.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NFX_0000912750_EX993_20180220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "88075 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 43328,
+    "endpoints": [
+        "Exhibit 99.3 ",
+        "Key Definitions GPI – Gross Perforated Interval, which reflects the total feet completed in each horizontal wellbore. IRR – Internal rate of return is a metric used by Company management for capital budgeting and measuring the profitability of potential investments. All IRR’s presented herein were calculated based on $55/bbl and $2.85/mmbtu unless otherwise noted herein. MRMC – Represents Meramec Formation of the Anadarko Basin. OSG – Represents Osage Formation of the Anadarko Basin. Production per Debt Adjusted Share – Estimated production for the year on a total production basis divided by Debt Adjusted Shares calculated utilizing the average closing price of Newfield shares on the NYSE for the month of January. SCMR – Represents the Sycamore Formation of the Anadarko Basin. UB – Uteland Butte Formation of the Uinta Basin. U-CP – Upper Castle Peak Formation of the Uinta Basin. WAS – Wasatch Formation of the Uinta Basin. WDFD – Represents the Woodford Formation of the Anadarko Basin. 49"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NFX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NFX_0000912750_EX993_20180220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:27:53.772385"
+}

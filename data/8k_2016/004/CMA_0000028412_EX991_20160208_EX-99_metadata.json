@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000028412",
+    "sec_company_name": "COMERICA INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160208",
+    "sec_filing_date": "20160208",
+    "sec_changed_date": "20160208",
+    "sec_accepted_date": "20160208164515",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/28412/000002841216000180/0000028412-16-000180-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/28412/000002841216000180/0000028412-16-000180.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CMA_0000028412_EX991_20160208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "26351 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20528,
+    "endpoints": [
+        "creditsuisse2016  ",
+        "566 535 530 513 480 4Q14 1Q15 2Q15 3Q15 4Q15 21 12/31/15 ● 1Other businesses (not included in our Energy business line) that have a sizable portion of their revenue related to energy or could be otherwise disproportionately negatively impacted by prolonged low oil and gas prices. General Middle Market-TX 48% Corp Banking 22% Small Business 13% TLS 10% Other 7% ~110 Energy-related Customers1($ in millions; Period-end) Total$624 780 741 722 614 624 4Q14 1Q15 2Q15 3Q15 4Q15 ~10% ~25% ~40% ~25% Mixed18% ~60 Energy Services Customers($ in millions; Period-end) Proprietary Services & Manufacturing Products Wellsite Service & Equipment Early Stage Services & Commodity Products Pipeline, Refinery & Industrial Uses Total $480Exploration Production Energy Services and Energy-RelatedGranular, contracting portfolios 22 12/31/15 ● 1Source: Mortgage Bankers Association (MBA) Mortgage Finance Forecast as of 1/20/16 ● 2$ in billions; 4Q15 estimated ● 3Based on MBA annual mortgage origination estimates 566 614 923 1,53 5 1,48 3 1,50 7 1,9 96 2,09 4 1,73 7 1,81 5 1,60 5 1,10 9 886 1 ,319 1, 595 1,39 7 1,39 9 2 ,089 2,13 6 1,74 2 200 300 400 500 600 700 800 900 1Q1 1 2Q1 1 3Q1 1 4Q1 1 1Q1 2 2Q1 2 3Q1 2 4Q1 2 1Q1 3 2Q1 3 3Q1 3 4Q1 3 1Q1 4 2Q1 4 3Q1 4 4Q1 4 1Q1 5 2Q1 5 3Q1 5 4Q1 5 Actual MBAMortgageOriginationVolumes Average Loans($ in millions) Mortgage Banker Finance50 Years experience with reputation for consistent, reliable approach MBA Mortgage Originations Forecast1($ in billions) 330 395 381 380 320 372 367 321 1Q15Actual 2Q15Actual 3Q15Actual 4Q15 1Q16 2Q16 3Q16 4Q16 Purchase Refinance 1,2  Provide warehouse financing: bridge from residential mortgage origination to sale to end market  Extensive backroom provides collateral monitoring and customer service  Focus on full banking relationships  Granular portfolio with 100+ relationships  Market share approx. doubled over past five years3  Underlying mortgages are typically related to home purchases as opposed to refinancesAs of 4Q15: • Comerica: ~75% purchase • Industry: 53% purchase1"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CMA_0000028412_EX991_20160208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:56:04.121654"
+}

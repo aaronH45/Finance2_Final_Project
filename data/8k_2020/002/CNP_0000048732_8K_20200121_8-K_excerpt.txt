@@ -1,0 +1,97 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false00011303100000048732CENTERPOINT ENERGY INCCENTERPOINT ENERGY HOUSTON ELECTRIC LLCCommon Stock, $0.01 par valueCNP  0001130310  cnp:NewYorkStockExchangeMember cnp:CenterPointEnergyHoustonElectricLLCMember cnp:A9.15FirstMortgageBondsdue2021Member    2020-01-21 2020-01-21    0001130310  cnp:NewYorkStockExchangeMember us-gaap:CommonStockMember    2020-01-21 2020-01-21    0001130310  cnp:NewYorkStockExchangeMember cnp:DepositarysharesMember    2020-01-21 2020-01-21    0001130310  cnp:ChicagoStockExchangeMember us-gaap:CommonStockMember    2020-01-21 2020-01-21    0001130310  cnp:NewYorkStockExchangeMember cnp:CenterPointEnergyHoustonElectricLLCMember cnp:A6.95GeneralMortgageBondsdue2033Member    2020-01-21 2020-01-21    0001130310  cnp:CenterPointEnergyHoustonElectricLLCMember    2020-01-21 2020-01-21    0001130310   2020-01-21 2020-01-21  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 21, 2020 
+
+_______________________________
+
+CENTERPOINT ENERGY, INC. 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+_______________________________
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+_______________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2). 
+
+Emerging Growth Company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01.  Regulation FD Disclosure. 
+
+As previously disclosed, on April 5, 2019, CenterPoint Energy, Inc. (the “Company” or “CenterPoint Energy”) and CenterPoint Energy Houston Electric, LLC (“Houston Electric”) announced that Houston Electric filed its base rate application with the Public Utility Commission of Texas (“PUCT”) and the cities in its service area to change its rates. On December 20, 2019, Houston Electric informed the PUCT that Houston Electric had reached an agreement in principle (the “Agreement”) with certain parties to Houston Electric’s pending rate case. On January 21, 2020, the Company and Houston Electric announced the key terms of the Agreement and that all parties to the case either support the Agreement or are unopposed to it. Houston Electric will file the final settlement documentation with the PUCT once finalized and executed by the parties, and the settlement will be subject to PUCT approval. A summary of the key terms of the Agreement, among other things, are as follows:
+
+•Overall revenue requirement increase of approximately $13 million;
+
+•Return on equity of 9.4%; 
+
+•Capital structure of 57.5% debt / 42.5% equity;
+
+•A refund of certain excess deferred income taxes (“EDIT”) of $105 million plus carrying costs over approximately 30-36 months; and
+
+•Recovery of all transmission-related costs through Houston Electric’s transmission cost recovery factor.
+
+Although the Company is currently assessing the overall financial impact of the Agreement to Houston Electric, the Company anticipates the following 2020 annualized impacts to Houston Electric:
+
+[DATA_TABLE_REMOVED]
+
+Further, no write offs of rate base are expected to be required. The Agreement does require certain rate case expenses estimated at approximately $12 million to be written off in 2019. Also, Houston Electric would not be required to make a one-time refund of capital recovery from its transmission cost of service (“TCOS”) and distribution cost recovery factor (“DCRF”) mechanisms. Future TCOS filings would take into account both accumulated deferred federal income taxes and EDIT until the final order from Houston Electric’s next base rate proceeding.
+
+Under the terms of the Agreement, Houston Electric would agree to adopt certain ring-fencing measures including provisions related to its credit agreement, maintaining a standalone credit rating, prohibitions on transferring material assets or facilities to affiliates, commingling assets or lending or borrowing money, subject to certain exceptions, among other provisions. However, with respect to any dividend restrictions, the PUCT would determine the application of any such restrictions. The dividend restrictions at issue include the following: (1) a limit on the payment of dividends by Houston Electric to an amount not to exceed its net income (determined in accordance with GAAP), (2) the suspension of dividends to the Company if Houston Electric’s credit rating at any one of the three major rating agencies falls below an established threshold for its senior secured debt and (3) a restriction on the payment of dividends by Houston Electric, except for contractual tax payments, where such dividends would cause Houston Electric to be out of compliance with the PUCT-approved debt-to-equity ratio.
+
+Additionally, Houston Electric would not file a DCRF in 2020, nor would a subsequent separate proceeding with the PUCT be instituted regarding EDIT on Houston Electric’s securitized assets. A base rate application would be required to be filed for Houston Electric no later than four years from the date of the PUCT’s final order. The Company currently anticipates a final order from the PUCT regarding the Agreement during mid-first quarter 2020. 
+
+The Company expects to post future filings associated with Houston Electric’s base rate application to the Regulatory Information subsection of the Investors section of the Company’s website. Based on guidance from the SEC, the Company may use the Investors section of its website (www.centerpointenergy.com) to communicate with investors. It is possible that the financial and other information posted there could be deemed to be material information.
+
+1 As provided on February 28, 2019 on the Company’s Q4 and Full-Year 2018 earnings call.
+
+2 As calculated by rating agencies. 
+
+Cautionary Statements Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based upon assumptions of management which are believed to be reasonable at the time made and are subject to significant risks and uncertainties. Actual events and results may differ materially from those expressed or implied by these forward-looking statements. You can generally identify our forward-looking statements by the words “anticipate,” “believe,” “continue,” “could,” “would,” “estimate,” “expect,” “forecast,” “may,” “plan,” “potential,” “projection,” “should,” “target,” “will,” or other similar words. The absence of these words, however, does not mean that the statements are not forward-looking. Any statements in this Current Report on Form 8-K regarding future financial performance and results of operations, including, but not limited to, the potential financial impacts of the Agreement on the financial statements of the Company and Houston Electric, expectations, beliefs, plans, objectives, goals, strategies, future events, such as future regulatory or legislative actions and decisions and the timing thereof, and underlying assumptions and any other statements that are not historical facts are forward-looking statements. Each forward-looking statement contained in this Current Report on Form 8-K speaks only as of the date of this Current Report on Form 8-K. Factors that could affect actual results include timing and impact of future regulatory and legislative actions and decisions, changes in business plans and other factors discussed in CenterPoint Energy’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, CenterPoint Energy’s Quarterly Reports on Form 10-Q for the quarters ended March 31, 2019, June 30, 2019 and September 30, 2019 and other reports CenterPoint Energy or its subsidiaries may file from time to time with the Securities and Exchange Commission.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

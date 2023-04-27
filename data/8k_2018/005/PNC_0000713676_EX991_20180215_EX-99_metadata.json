@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000713676",
+    "sec_company_name": "PNC FINANCIAL SERVICES GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180215",
+    "sec_filing_date": "20180222",
+    "sec_changed_date": "20180222",
+    "sec_accepted_date": "20180222163523",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367618000024/0000713676-18-000024-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367618000024/0000713676-18-000024.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\PNC_0000713676_EX991_20180215_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2789 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1860,
+    "endpoints": [
+        "a20180222rlsparsleycoo  ",
+        "CONTACTS: MEDIA: Diane Zappas (412) 762-4550 media.relations@pnc.com INVESTORS: Bryan Gill (412) 768-4143 investor.relations@pnc.com PNC NAMES WILLIAM PARSLEY CHIEF OPERATING OFFICER Gagan Singh to Serve as Chief Investment Officer, Randall King as Treasurer PITTSBURGH, Feb. 22, 2018 – The PNC Financial Services Group, Inc. (NYSE: PNC) today announced that E William Parsley III has been named chief operating officer effective immediately. Gagan Singh will succeed Parsley as chief investment officer and continue with his current duties and Randall C. King will succeed Parsley as treasurer and continue with his current duties. Both will continue to report to Parsley. “We’ve named Bill our chief operating officer in recognition of the outstanding work he has done managing our balance sheet for many years through numerous acquisitions and significant economic turmoil. His key responsibilities have included capital and liquidity management, interest rate risk, investments, and internal and regulatory stress testing. More recently, he has also been leading our home lending transformation and streamlining and strengthening our operations in connection with mortgage and home lending as well as retail and consumer lending,” said William S. Demchak, PNC chairman, president and chief executive officer. The PNC Financial Services Group, Inc. is one of the largest diversified financial services institutions in the United States, organized around its customers and communities for strong relationships and local delivery of retail and business banking including a full range of lending products; specialized services for corporations and government entities, including corporate banking, real estate finance and asset-based lending; wealth management and asset management. For information about PNC, visit www.pnc.com. # # #"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\PNC_0000713676_EX991_20180215_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:28.379424"
+}

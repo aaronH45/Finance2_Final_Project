@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001604778",
+    "sec_company_name": "Qorvo, Inc. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210203",
+    "sec_filing_date": "20210203",
+    "sec_changed_date": "20210203",
+    "sec_accepted_date": "20210203161010",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477821000007/0001604778-21-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477821000007/0001604778-21-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\QRVO_0001604778_8K_20210203_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "33116 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2396,
+    "endpoints": [
+        "xml version='1.0' ? rfmd-20210203",
+        "Date: February 3, 2021"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "QRVO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\QRVO_0001604778_8K_20210203_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:08:25.946471"
+}

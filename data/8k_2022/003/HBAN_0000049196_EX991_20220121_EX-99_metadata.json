@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000049196",
+    "sec_company_name": "HUNTINGTON BANCSHARES INC /MD/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220121",
+    "sec_filing_date": "20220121",
+    "sec_changed_date": "20220121",
+    "sec_accepted_date": "20220121073227",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/49196/000004919622000007/0000049196-22-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/49196/000004919622000007/0000049196-22-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\HBAN_0000049196_EX991_20220121_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "577459 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28420,
+    "endpoints": [
+        "Document",
+        "From time to time, revenue, expenses, or taxes are impacted by items judged by management to be outside of ordinary banking activities and/or by items that, while they may be associated with ordinary banking activities, are so unusually large that their outsized impact is believed by management at that time to be infrequent or short term in nature. We refer to such items as “Notable Items.” Management believes it is useful to consider certain financial metrics with and without Notable Items, in order to enable a better understanding of company results, increase comparability of period-to-period results, and to evaluate and forecast those results."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HBAN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\HBAN_0000049196_EX991_20220121_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:02.496951"
+}

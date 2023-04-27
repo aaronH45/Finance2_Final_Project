@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001604778",
+    "sec_company_name": "Qorvo, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K12B",
+    "sec_period_of_report": "20150101",
+    "sec_filing_date": "20150102",
+    "sec_changed_date": "20150102",
+    "sec_accepted_date": "20150102083108",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1604778/000119312515000121/0001193125-15-000121-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1604778/000119312515000121/0001193125-15-000121.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\QRVO_0001604778_EX991_20150101_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8987 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5610,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release includes “forward-looking statements” within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, statements discussing the expected timing of trading on Nasdaq, the tax treatment of the merger, the ownership of Qorvo following closing, the expected timing and magnitude of expected cost synergies to be realized from the merger, and the timing and impact on Qorvo’s non-GAAP earnings per share. Forward-looking statements are not historical facts and typically are identified by use of terms such as “may,” “will,” “should,” “could,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “predict,” “potential,” “continue” and similar words, although some forward-looking statements are expressed differently. You should be aware that the forward-looking statements included herein represent management’s current judgment and expectations, but our actual results, events and performance could differ materially from those expressed or implied by forward-looking statements. We do not intend to update any of these forward-looking statements or publicly announce the results of any revisions to these forward-looking statements, other than as is required under the federal securities laws. Qorvo’s business is subject to numerous risks and uncertainties, including variability in operating results, the inability of certain of our customers or suppliers to access their traditional sources of credit, our industry’s rapidly changing technology, our dependence on a few large customers for a substantial portion of our revenue, our ability to implement innovative technologies, our ability to bring new products to market and achieve design wins, the efficient and successful operation of our wafer fabrication facilities, assembly facilities and test and tape and reel facilities, our ability to adjust production capacity in a timely fashion in response to changes in demand for our products, variability in manufacturing yields, industry overcapacity and current macroeconomic conditions, inaccurate product forecasts and corresponding inventory and manufacturing costs, dependence on third parties and our ability to manage channel partners and customer relationships, lawsuits and claims relating to our products, security breaches and other similar disruptions compromising our information and exposing us to liability, and our ability to integrate the businesses of RFMD and TriQuint. These and other risks and uncertainties, which are described in more detail in Qorvo’s filings with the Securities and Exchange Commission, could cause actual results and developments to be materially different from those expressed or implied by any of these forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "QRVO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\QRVO_0001604778_EX991_20150101_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:26:10.157571"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000049826",
+    "sec_company_name": "ILLINOIS TOOL WORKS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190201",
+    "sec_filing_date": "20190201",
+    "sec_changed_date": "20190201",
+    "sec_accepted_date": "20190201091855",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/49826/000004982619000003/0000049826-19-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/49826/000004982619000003/0000049826-19-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\ITW_0000049826_EX991_20190201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "435681 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9767,
+    "endpoints": [
+        "Exhibit   ",
+        "(1) The 2017 results have been restated to reflect the adoption of new accounting guidance in 2018 related to the presentation of net periodic benefit costs. The adoption of this guidance resulted in the presentation of $4 million and $9 million of other net periodic benefit income in Other income (expense) rather than in Operating Income for the fourth quarter 2017 and full year 2017, respectively, with no change in Net Income."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ITW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\ITW_0000049826_EX991_20190201_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:37:09.428754"
+}

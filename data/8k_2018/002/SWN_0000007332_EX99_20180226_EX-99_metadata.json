@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007332",
+    "sec_company_name": "SOUTHWESTERN ENERGY CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180226",
+    "sec_filing_date": "20180226",
+    "sec_changed_date": "20180226",
+    "sec_accepted_date": "20180226083042",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/7332/000000733218000010/0000007332-18-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/7332/000000733218000010/0000007332-18-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\SWN_0000007332_EX99_20180226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10951 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5403,
+    "endpoints": [
+        "SWN Press Release - Senior Leadership Changes   ",
+        "This news release contains forward-looking statements. Forward-looking statements relate to future events and anticipated results of operations, business strategies, and other aspects of our operations or operating results. In many cases you can identify forward-looking statements by terminology such as “anticipate,” “intend,” “plan,” “project,” “estimate,” “continue,” “potential,” “should,” “could,” “may,” “will,” “objective,” “guidance,” “outlook,” “effort,” “expect,” “believe,” “predict,” “budget,” “projection,” “goal,” “forecast,” “target” or similar words. Statements may be forward looking even in the absence of these particular words. Where, in any forward-looking statement, the Company expresses an expectation or belief as to future results, such expectation or belief is expressed in good faith and believed to have a reasonable basis. However, there can be no assurance that such expectation or belief will result or be achieved. The actual results of operations can and will be affected by a variety of risks and other matters including, but not limited to, changes in commodity prices; changes in expected levels of natural gas and oil reserves or production; operating hazards, drilling risks, unsuccessful exploratory activities; limited access to capital or significantly higher cost of capital related to illiquidity or uncertainty in the domestic or international financial markets; international monetary conditions; unexpected cost increases; potential liability for remedial actions under existing or future environmental regulations; potential liability resulting from pending or future litigation; and general domestic and international economic and political conditions; as well as changes in tax, environmental and other laws applicable to our business. Other factors that could cause actual results to differ materially from those described in the forward-looking statements include other economic, business, competitive and/or regulatory factors affecting our business generally as set forth in our filings with the Securities and Exchange Commission. Unless legally required, Southwestern Energy Company undertakes no obligation to update publicly any forward-looking statements, whether as a result of new information, future events or otherwise."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SWN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\SWN_0000007332_EX99_20180226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:22:46.347405"
+}

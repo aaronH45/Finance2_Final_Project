@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001109357",
+    "sec_company_name": "EXELON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220110",
+    "sec_filing_date": "20220110",
+    "sec_changed_date": "20220110",
+    "sec_accepted_date": "20220110070228",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1109357/000110935722000010/0001109357-22-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1109357/000110935722000010/0001109357-22-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\EXC_0001109357_EX991_20220110_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7644 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6239,
+    "endpoints": [
+        "exc-20220110991   ",
+        " The Analyst Day will feature presentations from the following Exelon executives:  Chris Crane, President & Chief Executive Officer  Calvin Butler, Senior EVP & Chief Operating Officer  Joe Nigro, Senior EVP & Chief Financial Officer  Jeanne Jones, SVP, Corporate Finance  Melissa Lavinson, SVP Federal Governmental and Regulatory Affairs and Public Policy  Tyler Anthony, President & Chief Executive Officer, PHI (ACE, DPL, Pepco)  Michael Innocenzo, President & Chief Executive Officer, PECO  Carim Khouzami, President & Chief Executive Officer, BGE  Gil Quiniones, Chief Executive Officer, ComEd Full biographies of the speakers can be found in the executive profiles section of the Exelon website at exeloncorp.com/leadership-and-governance/executive-profiles. Webcast Information The Exelon event will begin at 12:00 p.m. Central Time, 1:00 p.m. Eastern Time. The webcast and associated materials can be accessed investors.exeloncorp.com/events-and-presentations. # # # About Exelon Exelon Corporation (Nasdaq: EXC) is a Fortune 100 energy company with the largest number of electricity and natural gas customers in the U.S. Exelon does business in 48 states, the District of Columbia and Canada and had 2020 revenue of $33 billion. Exelon serves approximately 10 million customers in Delaware, the District of Columbia, Illinois, Maryland, New Jersey and Pennsylvania through its Atlantic City Electric, BGE, ComEd, Delmarva Power, PECO and Pepco subsidiaries. Exelon is one of the largest competitive U.S. power generators, with more than 31,000 megawatts of nuclear, gas, wind, solar and hydroelectric generating capacity comprising one of the nation’s cleanest and lowest-cost power generation fleets. The company’s Constellation business unit provides energy products and services to approximately 2 million residential, public sector and business customers, including three fourths of the Fortune 100. Follow Exelon on Twitter @Exelon."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EXC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\EXC_0001109357_EX991_20220110_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:26:40.005349"
+}

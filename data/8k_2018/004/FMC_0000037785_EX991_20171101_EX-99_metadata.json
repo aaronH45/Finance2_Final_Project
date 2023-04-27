@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037785",
+    "sec_company_name": "FMC CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20171101",
+    "sec_filing_date": "20180109",
+    "sec_changed_date": "20180109",
+    "sec_accepted_date": "20180109144026",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37785/000003778518000008/0000037785-18-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37785/000003778518000008/0000037785-18-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\FMC_0000037785_EX991_20171101_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "50014 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 38566,
+    "endpoints": [
+        "interimtritiumfinancials  ",
+        " Cereal Broadleaf Herbicides and Chewing Insecticides Business (A Business of E. I. du Pont de Nemours and Company) Condensed Notes to the Interim Special Purpose Combined Financial Statements (Unaudited) (U.S. Dollars in thousands) 16 Service Agreements Effective at closing and pursuant to the terms of the Transaction Agreement, DuPont and FMC entered into manufacturing service agreements which provide both parties with certain operational support services for a specified period of time at cost as well as certain tolling and manufacturing activities for DuPont for up to five years. In addition, DuPont and FMC entered into transition service agreements to provide FMC with certain operational support services for a maximum of 30 months at cost. Impact of Hurricane Maria The Business operates a manufacturing facility located in Manati, Puerto Rico. Management is currently assessing the impact that Hurricane Maria had on this facility and its operations. The parties have agreed that DuPont will pay for the repair and restoration of the damaged site. Site Separation Capital Projects As of the closing of the Transaction on November 1, 2017, certain capital projects related to the physical separation of certain sites shared between the parties were not yet complete. DuPont has agreed to pay for the remaining capital required to complete these projects. As of the date of these Interim Financial Statements, the estimated remaining cost to complete is $849."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "FMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\FMC_0000037785_EX991_20171101_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:31:48.886675"
+}

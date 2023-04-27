@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000849399",
+    "sec_company_name": "NortonLifeLock Inc. (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220204",
+    "sec_filing_date": "20220204",
+    "sec_changed_date": "20220204",
+    "sec_accepted_date": "20220204093035",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/849399/000110465922011747/0001104659-22-011747-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/849399/000110465922011747/0001104659-22-011747.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\SYMC_0000849399_EX9901_20220204_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "53511 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24100,
+    "endpoints": [
+        "Exhibit 99.01 ",
+        "Details of the offeree and offeror companies in respect of whose relevant securities Opening Position Disclosures and Dealing Disclosures must be made can be found in the Disclosure Table on the Panel’s website at http://www.thetakeoverpanel.org.uk, including details of the number of relevant securities in issue, when the Offer Period commenced and when any offeror was first identified. You should contact the Panel’s Market Surveillance Unit on +44 (0)20 7638 0129 if you are in any doubt as to whether you are required to make an Opening Position Disclosure or a Dealing Disclosure."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SYMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\SYMC_0000849399_EX9901_20220204_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:23:33.018119"
+}

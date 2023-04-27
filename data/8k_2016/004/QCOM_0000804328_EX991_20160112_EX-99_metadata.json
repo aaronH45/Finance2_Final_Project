@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000804328",
+    "sec_company_name": "QUALCOMM INC/DE (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160112",
+    "sec_filing_date": "20160113",
+    "sec_changed_date": "20160113",
+    "sec_accepted_date": "20160113060255",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/804328/000119312516428370/0001193125-16-428370-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/804328/000119312516428370/0001193125-16-428370.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\QCOM_0000804328_EX991_20160112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22884 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13056,
+    "endpoints": [
+        "EX-99.1   ",
+        "This material contains forward-looking statements, including projections, plans, policies, management strategies, targets, schedules, understandings, and evaluations about TDK, or its group companies (TDK Group). These forward-looking statements are based on the current forecasts, estimates, assumptions, plans, beliefs, and evaluations of the TDK Group in light of the information currently available to it, and contain known and unknown risks, uncertainties, and other factors. The TDK Group therefore wishes to caution readers that, being subject to risks, uncertainties, and other factors, the TDK Group’s actual results, performance, achievements, or financial position could be materially different from any future results, performance, achievements, or financial position expressed or implied by these forward-looking statements, and the TDK Group undertakes no obligation to publicly update or revise any forward-looking statements after the issue of this material except as provided for in laws and ordinances. The electronics markets in which the TDK Group operates are highly susceptible to rapid changes, risks, uncertainties, and other factors that can have significant effects on the TDK Group including, but not limited to, shifts in technology, fluctuations in demand, prices, interest and foreign exchange rates, and changes in economic environments, conditions of competition, laws and regulations."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "QCOM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\QCOM_0000804328_EX991_20160112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:36.657139"
+}

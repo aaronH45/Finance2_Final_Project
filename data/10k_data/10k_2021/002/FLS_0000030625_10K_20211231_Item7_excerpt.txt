@@ -1,0 +1,483 @@
+ITEM 7.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis is provided to increase the understanding of, and should be read in conjunction with, the accompanying consolidated financial statements and notes. See “Item 1A. Risk Factors” and the section titled “Forward-Looking Information is Subject to Risk and Uncertainty” included in this Annual Report on Form 10-K for the year ended December 31, 2021 ("Annual Report") for a discussion of the risks, uncertainties and assumptions associated with these statements. Unless otherwise noted, all amounts discussed herein are consolidated.
+
+EXECUTIVE OVERVIEW
+
+Our Company
+
+We are a world-leading manufacturer and aftermarket service provider of comprehensive flow control systems. We develop and manufacture precision-engineered flow control equipment integral to the movement, control and protection of the flow of materials in our customers’ critical processes. Our product portfolio of pumps, valves, seals, automation and aftermarket services supports global infrastructure industries, including oil and gas, chemical, power generation and water management, as well as general industrial markets where our products and services add value. Through our manufacturing platform and global network of QRCs, we offer a broad array of aftermarket equipment services, such as installation, advanced diagnostics, repair and retrofitting. As of December 31, 2021, we have approximately 16,000 employees (“associates”) globally and a footprint of manufacturing facilities and QRCs in more than 50 countries.
+
+Our business model is significantly influenced by the capital spending of global infrastructure industries for the placement of new products into service and maintenance spending for aftermarket services for existing operations. The worldwide installed base of our products is an important source of aftermarket revenue, where products are intended to maximize operating time of many key industrial processes. We continue to invest in our aftermarket strategy to provide local support to drive customer investments in our offerings and use of our services to replace or repair installed products. The aftermarket portion of our business also helps provide business stability during various economic periods. The aftermarket business, which is primarily served by our network of 155 QRCs located around the globe, some of which are shared by our two business segments, provides a variety of service offerings for our customers including spare parts, service solutions, product life cycle solutions and other value-added services. It is generally a higher margin business compared to our original equipment business and a key component of our profitable growth strategy. 
+
+Our operations are conducted through two business segments that are referenced throughout this Management’s Discussion and Analysis of Financial Condition and Results of Operations ("MD&A"):
+
+•Flowserve Pump Division ("FPD") for custom, highly-engineered pumps, pre-configured industrial pumps, pump systems, mechanical seals, auxiliary systems and replacement parts and related services; and
+
+•Flow Control Division ("FCD") for engineered and industrial valves, control valves, actuators and controls and related services. 
+
+Our business segments share a focus on industrial flow control technology and have a high number of common customers. These segments also have complementary product offerings and technologies that are often combined in applications that provide us a net competitive advantage. Our segments also benefit from our global footprint, our economies of scale in reducing administrative and overhead costs to serve customers more cost effectively and shared leadership for operational support functions, such as research and development, marketing and supply chain. 
+
+The reputation of our product portfolio is built on more than 50 well-respected brand names such as Worthington, IDP, Valtek, Limitorque, Durco, Argus, Edward, Valbart and Durametallic, which we believe to be one of the most comprehensive in the industry. Our products and services are sold either directly or through designated channels to more than 10,000 companies, including some of the world’s leading engineering, procurement and construction ("EPC") firms, original equipment manufacturers, distributors and end users.
+
+We continue to leverage our QRC network to be positioned as near to customers as possible for service and support in order to capture valuable aftermarket business. Along with ensuring that we have the local capability to sell, install and service our equipment in remote regions, we continuously improve our global operations. Despite recent headwinds caused 
+
+27
+
+by the COVID-19 pandemic as well as recent supply chain disruption and labor constraints, we continue to enhance our global supply chain capability to increase our ability to meet global customer demands and improve the quality and timely delivery of our products over the long-term. Additionally, we continue to devote resources to improving the supply chain processes across our business segments to find areas of synergy and cost reduction and to improve our supply chain management capability to meet global customer demands. We also remain focused on improving on-time delivery and quality, while managing warranty costs as a percentage of sales across our global operations, through the assistance of a focused Continuous Improvement Process ("CIP") initiative. The goal of the CIP initiative, which includes lean manufacturing, six sigma business management strategy and value engineering, is to maximize service fulfillment to customers through on-time delivery, reduced cycle time and quality at the highest internal productivity. 
+
+COVID-19 Update
+
+Our cross-functional crisis management team established during the first quarter of 2020 has continued monitoring and making recommendations to management to help us continue operating as an essential business, while also protecting the health and safety of our associates. We expect that widespread implications of the pandemic worldwide will continue to cause substantial economic uncertainty and challenging operational conditions through 2022. We continue to actively monitor the impacts of the COVID-19 pandemic on all aspects of our business and geographies. 
+
+While we cannot reasonably estimate with certainty the duration and severity of the COVID-19 pandemic or its ultimate impact on the global economy, our business or our financial condition and results, we nonetheless remain committed to providing the critical support, products and services that our customers rely on, and currently believe that we will emerge from these events well positioned for long-term growth.
+
+Health and Safety of Our Associates
+
+The health and safety of our associates, suppliers and customers around the world continues to be a priority as we navigate the COVID-19 pandemic, including recent spikes in cases of the virus and its variants in various geographies in which we operate. These recent spikes caused significant labor availability issues among our associates in the second half of 2021, which contributed to the COVID-19 operational challenges faced during the second half of 2021. We are incredibly proud of the great teamwork exhibited by our global workforce who have demonstrated strong resilience in adapting to continually evolving health and safety guidelines while addressing these challenging times and providing products and services to our customers. 
+
+At the beginning of the pandemic we implemented policies and practices to help protect our workforce so they can safely and effectively carry out their vital work, and we have continued to revise those policies and practices in light of guidance received from local and regional health authorities where appropriate. For employees working in our facilities, including our global headquarters in Irving, Texas, which began a phased reopening during the second quarter of 2021, we continue taking steps, consistent with guidelines from local and global health experts to protect our employees so that we can continue operations and manufacture critical technologies and equipment, including providing face coverings and other personal protective equipment, enhanced cleaning of sites and the implementation of social distancing protocols. 
+
+Our employees and facilities have a key role in keeping essential infrastructure and industries operating, including oil and gas, water, chemical, power generation and other essential industries, such as food and beverage and healthcare. All of our facilities are open and operational as we continue to make essential products and provide services for our customers. The measures described above, combined with continued employee costs and under-absorption of manufacturing costs as a result of temporary closures and work-from-home policies, have had and are expected to continue having an adverse impact on our financial performance throughout the remainder of the pandemic. Despite the increased challenges of labor availability in the second half of 2021, we continue to expect a decline of these adverse impacts as we navigate further through the pandemic in 2022.
+
+Customer Demand
+
+During the year the ongoing effects of the COVID-19 pandemic in global markets have continued to adversely impact our customers, particularly in the oil and gas markets. As a result of the pandemic’s effect (among certain other effects) on oil prices during 2020, many of our large customers reduced capital expenditures and budgets last year. To date, while spending for maintenance and repair projects and aftermarket services have returned close to pre-pandemic levels, project-based customer spending has yet to return to pre-pandemic levels despite some modest improvement during the year. In this regard, we saw an overall increase in bookings of 10.6% during 2021 as compared to the same period in 2020. Despite the modest improvement in customer spending, during the fourth quarter of the year we continued to experience customer-driven delays in the witnessing and inspection necessary to take delivery of equipment, which we 
+
+28
+
+expect will continue as long as we and our customers continue to experience the supply chain and logistics headwinds described below under the heading "Supply Chain Impact."
+
+While many of the repair and maintenance projects that were paused by our customers last year as a result of the pandemic have gone forward in 2021 and others will ultimately need to be completed, the timing will largely depend on the duration of the COVID-19 pandemic and how the virus continues to spread in our customers’ various geographies, given the impact of the pandemic on demand, utilization and required maintenance. While we saw some recovery in capital expenditure budgets in 2021 and, therefore, our bookings during the year, capital spending did not approach pre-pandemic levels in 2021. We expect planned capital spending to increase in 2022 but remain below pre-pandemic levels.
+
+Supply Chain Impact
+
+Since the onset of the pandemic, many of our suppliers have also experienced varying lengths of production and shipping delays related to the COVID-19 pandemic, some of which continue to exist in highly affected countries. Additionally, the global supply chain and logistics constraints that are currently affecting global markets caused additional headwinds in the second half of the year. These conditions have had an adverse effect on the speed at which we can manufacture and ship our products to customers, and have also led to an increase in logistics, transportation and freight costs, requiring that we diversify our supply chain and, in some instances, source materials from new suppliers. Additionally, these conditions have in some cases impacted our ability to deliver products to customers on time, which has in turn led to an increase in backlog at some of our manufacturing sites. These disruptions in our supply chain and their effects have continued and we expect they will continue as the COVID-19 pandemic and ongoing global supply chain and logistics headwinds continue. 
+
+Operational Impacts
+
+We have also engaged in a number of cost savings measures in order to help mitigate certain of the adverse effects of the COVID-19 pandemic on our financial results, including certain realignment activities (further described below under “OUR RESULTS OF OPERATIONS") for the period ended December 31, 2021, reductions in capital expenditures and continued cuts in other discretionary spending due to our response to the effects of COVID-19, which partially offsets the continued costs and operational impacts of the safety protocols and procedures that we have implemented and sustained as described above under the heading "Health and Safety of Our Associates." We continue to evaluate additional cost savings measures in order to reduce the impact of the COVID-19 pandemic on our financial results. 
+
+We continually monitor and assess the spread of COVID-19 and known variants, including in areas that have seen recent increases in cases, and we will continue to adapt our operations to respond the changing conditions as needed. During the fourth quarter, we experienced increased difficulty in maintaining staffing and productivity levels due to both a higher infection rate among associates requiring quarantine and a tighter labor market for new hiring. As we continue to manage our business through this time of uncertainty and market volatility, we will remain focused on the health and safety of our associates, suppliers, customers, and will continue to provide essential products and services to our customers.
+
+Our Markets 
+
+Our products and services are used in several distinct industries: oil and gas, chemical, power generation, water management, and several other industries, such as mining, steel and paper, that are collectively referred to as "general industries."
+
+Oil and Gas 
+
+The oil and gas industry, which represented approximately 35% and 34% of our bookings in 2021 and 2020, respectively, experienced a material decrease in capital spending in 2020 compared to the previous year. The decrease was primarily due to decreased project activity and short cycle investment resulting from the pandemic's negative impact on demand for refined products. Customers' repair and maintenance budgets improved in 2021 where bookings levels returned to roughly pre-pandemic levels, partially offsetting the decreased project activity and short cycle investment. 
+
+The outlook for the oil and gas industry is heavily dependent on the duration of the pandemic and its impact on fuel demand, demand growth from both mature markets and developing geographies as well as changes in the regulatory environment. While we believe that the pandemic will continue to negatively impact our customers' capital investment budgets, we expect 2022 capital investment to increase, but not to pre-pandemic levels. We further believe improved and stable oil prices provide support for increased demand for our aftermarket products and services. We believe the medium and long-term fundamentals for this industry remain attractive and see a stabilized environment with expected increased fuel demand on improved pandemic management, and as the industry works through current excess supply. In addition, we 
+
+29
+
+believe projected depletion rates of existing fields and forecasted long-term demand growth will require additional investments. With our long-standing reputation in providing successful solutions for upstream, mid-stream and downstream applications, along with the advancements in our portfolio of offerings, we believe that we continue to be well-positioned to assist our customers in this improving environment. 
+
+Chemical 
+
+The chemical industry represented approximately 24% and 24% of our bookings in 2021 and 2020, respectively. The chemical industry is comprised of petrochemical, specialty chemical and pharmaceutical products. Capital spending in 2021 decreased primarily due to the pandemic's negative impact on demand for chemical products. Customers' repair and maintenance budgets improved in 2021 where bookings levels returned to roughly pre-pandemic levels. 
+
+The outlook for the chemical industry remains heavily dependent on global economic conditions. As global economies and unemployment conditions improve, a rise in consumer spending should follow. An increase in spending would drive greater demand for petrochemical, specialty chemical and pharmaceutical products supporting improved levels of capital investment. We believe the chemical industry will continue to invest in North America and Middle East capacity additions, maintenance and upgrades for optimization of existing assets and that developing regions will selectively invest in capital infrastructure to meet current and future indigenous demand. We believe our global presence and our localized aftermarket capabilities are well-positioned to serve the potential growth opportunities in this industry.
+
+Power Generation 
+
+The power generation industry represented approximately 12% and 13% of our bookings in 2021 and 2020, respectively. In 2021, the power generation industry continued to experience softness in thermal power generation capital spending in the mature and key developing markets. 
+
+Natural gas-fired combined cycle (“NGCC”) plants increased their share of the energy mix, driven by market prices for gas remaining low and stable (partially due to the increasing global availability of liquefied natural gas (“LNG”)), low capital expenditures, and the ability of NGCC to stabilize unpredictable renewable sources. With the potential of unconventional sources of gas, the global power generation industry is forecasting an increased use of this form of fuel for power generation plants.
+
+Despite fewer new nuclear plants being constructed in recent years, nuclear power remains an important contributor to the global energy mix. We continue to support our significant installed base in the global nuclear fleet by providing aftermarket and life extension products and services. Due to our extensive history, we believe we are well positioned to take advantage of this ongoing source of aftermarket and new construction opportunities.
+
+Global efforts to limit the emissions of carbon dioxide may have some adverse effect on thermal power investment plans depending on the potential requirements imposed and the timing of compliance by country. However, many proposed methods of capturing and limiting carbon dioxide emissions offer business opportunities for our products and services. At the same time, we continue to take advantage of new investments in concentrated solar power generating capacity, where our pumps, valves, and seals are uniquely positioned for both molten salt applications as well as the traditional steam cycle. 
+
+We believe the long-term fundamentals for the power generation industry remain solid based on projected increases in demand for electricity driven by global population growth, growth of urbanization in developing markets and the increased use of electricity driven transportation. We also believe that our long-standing reputation in the power generation industry, our portfolio of offerings for the various generating methods, our advancements in serving the renewable energy market and carbon capture methodologies, as well as our global service and support structure, position us well for the future opportunities in this important industry.
+
+Water Management 
+
+The water management industry represented approximately 3% and 3% of our bookings in 2021 and 2020, respectively. Water management industry activity levels increased in 2021 following the decrease in 2020 primarily due to the pandemic's negative impact on government budgets across the globe. Worldwide demand for fresh water, water treatment and re-use, desalination and flood control are expected to create requirements for new facilities or for upgrades of existing systems, many of which require products that we offer, particularly pumps. With improved management of the pandemic, we expect capital and aftermarket spending to rise in developed and emerging markets with governments and private industry providing funding for critical projects when their priorities shift away from pandemic-management.
+
+30
+
+ The proportion of people living in regions that find it difficult to meet water requirements is expected to double by 2025. We believe that the persistent demand for fresh water during all economic cycles supports continued investments, especially in North America and developing regions.
+
+General Industries 
+
+General industries represented, in the aggregate, approximately 26% and 26% of our bookings in 2021 and 2020, respectively. General industries comprise a variety of different businesses, including mining and ore processing, pulp and paper, food and beverage and other smaller applications, none of which individually represented more than 5% of total bookings in 2021 and 2020. General industries also include sales to distributors, whose end customers operate in the industries we primarily serve. General industry activity levels increased in 2021 primarily due to customers' improved repair and maintenance budgets. 
+
+The outlook for this group of industries is heavily dependent upon the condition of global economies and consumer confidence levels. The long-term fundamentals of many of these industries remain sound, as many of the products produced by these industries are common staples of industrialized and urbanized economies. We believe that our specialty product offerings designed for these industries and our aftermarket service capabilities will provide continued business opportunities.
+
+Outlook for 2022 
+
+As the world continues to make progress against COVID-19 largely through increased vaccinations, we have seen an inflection in our served end-markets as commodity prices and mobility levels increase. With our increased backlog and improved market environment we expect to return to growth in 2022, however the combined effects of the supply chain, logistics and labor availability headwinds are expected to continue into the first half of 2022. Further, we have not seen and do not expect to see an increase in cancellations from our backlog. We therefore expect to continue to deliver on our backlog during 2022, though with a slightly longer cycle time than originally expected. 
+
+Our bookings were $3.8 billion during 2021. Because a booking represents a contract that can be, in certain circumstances, modified or canceled, and can include varying lengths between the time of booking and the time of revenue recognition, there is no guarantee that bookings will result in comparable revenues or otherwise be indicative of future results. Assuming continued progress with the pandemic and other supply chain, logistics and labor availability headwinds, we further expect full-year bookings in 2022 to increase versus 2021 levels.
+
+On December 31, 2021, we had $988.1 million of fixed-rate Senior Notes outstanding. We expect our interest expense in 2022 will be lower compared with amounts incurred in 2021. Our results of operations may also be impacted by unfavorable foreign currency exchange rate movements. See “Item 7A. Quantitative and Qualitative Disclosures about Market Risk” of this Annual Report. 
+
+We expect to generate sufficient cash from operations and have sufficient capacity under our Senior Credit Facility to fund our working capital, capital expenditures, dividend payments, share repurchases, debt payments and pension plan contributions in 2022. The amount of cash generated or consumed by working capital is dependent on our level of revenues, customer cash advances, backlog, customer-driven delays and other factors. We will seek to improve our working capital utilization, with a particular focus on improving the management of accounts receivable and inventory. In 2022, our cash flows for investing activities will be focused on strategic initiatives, information technology infrastructure, general upgrades and cost reduction opportunities and we currently estimate capital expenditures to be between $70 million and $80 million, before consideration of any acquisition activity. 
+
+We currently anticipate that our minimum contribution to our qualified U.S. pension plan will be approximately $20 million, excluding direct benefits paid, in 2022 in order to maintain fully-funded status as defined by applicable law. We currently anticipate that our contributions to our non-U.S. pension plans will be approximately $2 million in 2022, excluding direct benefits paid.
+
+OUR RESULTS OF OPERATIONS
+
+31
+
+The following is the discussion and analysis of changes in the financial condition and results of operations for fiscal year December 31, 2021 compared to fiscal year 2020. The discussion and analysis of changes in the financial condition and results of operations for fiscal year 2020 compared to fiscal year 2019 that are not included in this Form 10-K may be found in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2020, filed with the SEC on February 23, 2021. During the first quarter of 2021, as previously disclosed, we identified an accounting error involving foreign currency transactions beginning with the first quarter of 2020 through the year ended December 31, 2020. These adjustments increased retirement obligations and other liabilities by $1.5 million, retained earnings by $14.1 million and accumulated other comprehensive loss by $15.6 million as of December 31, 2020. We have assessed the above described error and concluded the effects were not material to the period ended December 31, 2020. The December 31, 2020 balances, as presented herein, have been revised. Refer to Note 2 for a detailed discussion related to the impact of the revision to the December 31, 2020 balances.
+
+Throughout this discussion of our results of operations, we discuss the impact of fluctuations in foreign currency exchange rates. We have calculated currency effects on operations by translating current year results on a monthly basis at prior year exchange rates for the same periods.
+
+Realignment Activity
+
+In the second quarter of 2018, we launched and committed resources to our Flowserve 2.0 Transformation, a program designed to transform our business model to drive operational excellence, reduce complexity, accelerate growth, improve organizational health and better leverage our existing global platform, which is further discussed in Note 17 to our consolidated financial statements included in this Quarterly Report. The Flowserve 2.0 Transformation expenses incurred primarily consists of professional services, project management and related travel costs recorded in SG&A expenses. As of December 31, 2020, the Flowserve 2.0 Transformation efforts were substantially complete and resulted in total program expense incurred of approximately $92 million of which approximately $23 million was incurred in 2020. 
+
+In the second quarter of 2020, we identified and initiated certain realignment activities resulting from our Flowserve 2.0 Transformation Program to right-size our organizational operations based on the current business environment, with the overall objective to reduce our workforce costs. We anticipate a total investment in 2020 Realignment Program activities of approximately $95 million and the majority of the charges were incurred in 2020 and 2021. There are certain other realignment activities that are being evaluated, but have not yet been finalized and therefore not included in the total anticipated realignment investment above. Based on the actions initiated with the 2020 Realignment Program, we estimate that we have achieved run-rate cost savings of approximately $106 million as of December 31, 2021, with approximately $56 million of those savings in COS and approximately $50 million SG&A. Upon completion of the 2020 Realignment Program activities, we expect full year run-rate cost savings of approximately $125 million. Actual savings could vary from expected savings, which represent management’s best estimate to date.  
+
+The total charges incurred in 2021 and 2020 related to our 2020 Realignment Program and Flowserve 2.0 Transformation activities by segment are presented in the following tables: 
+
+[DATA_TABLE_REMOVED]
+
+32
+
+[DATA_TABLE_REMOVED]
+
+_________________________
+
+(1) Includes gains from the sales of non-strategic manufacturing facilities that are included in our Realignment Programs.
+
+Bookings and Backlog
+
+[DATA_TABLE_REMOVED]
+
+We define a booking as the receipt of a customer order that contractually engages us to perform activities on behalf of our customer in regard to the manufacture, delivery, and/or support of products or the delivery of service. Bookings recorded and subsequently canceled within the same fiscal period are excluded from reported bookings. Bookings cancelled from the prior fiscal periods are excluded from the reported bookings and represent less than 1% for all periods presented. Bookings of $3.8 billion in 2021 increased by $362.8 million, or 10.6%, as compared with 2020. The increase included currency benefits of approximately $64 million. The increase was driven by increased customer bookings in the oil and gas, chemical, general and water industries, partially offset by decreased bookings in the power generation industry. The increase in customer bookings was driven by both original equipment and aftermarket bookings. 
+
+Backlog represents the aggregate value of booked but uncompleted customer orders and is influenced primarily by bookings, sales, cancellations and currency effects. Backlog of $2.0 billion at December 31, 2021 increased by $148.7 million, or 8.0%, as compared with December 31, 2020. Currency effects provided a decrease of approximately $42 million (currency effects on backlog are calculated using the change in period end exchange rates). Backlog related to aftermarket orders was approximately 38% and 36% of the backlog at December 31, 2021 and 2020, respectively. We expect to recognize revenue on approximately 90% of December 31, 2021 backlog during 2022. Backlog includes our unsatisfied (or partially unsatisfied) performance obligations related to contracts having an original expected duration in excess of one year of approximately $430 million as discussed in Note 3 to our consolidated financial statements included in Item 8 of this Annual Report. 
+
+Sales
+
+[DATA_TABLE_REMOVED]
+
+Sales in 2021 decreased by $187.0 million, or 5.0%, as compared with 2020. The decrease included currency benefits of approximately $66 million. The decrease in sales was driven by original equipment, with decreased sales into North America, the Middle East, Africa and Europe, partially offset by increased sales into Asia Pacific and Latin America. Aftermarket sales represented approximately 52% of total sales, as compared with approximately 49% of total sales for the same period in 2020. 
+
+Sales to international customers, including export sales from the U.S., were approximately 67% of total sales in 2021 and 65% in 2020. Sales into Europe, the Middle East and Africa ("EMA") were approximately 32% of total sales in 2021 
+
+33
+
+and 33% in 2020. Sales into Asia Pacific were approximately 23% of total sales for 2021 and 22% in 2020. Sales into Latin America were approximately 7% of total sales in 2021 and 6% in 2020.
+
+Gross Profit and Gross Profit Margin
+
+[DATA_TABLE_REMOVED]
+
+Gross profit in 2021 decreased by $67.1 million, or 6.0%, as compared with 2020. Gross profit margin in 2021 of 29.6% decreased from 30.0% in 2020. The decrease was primarily due to revenue recognized on lower margin original equipment orders and lower customer sales volumes due to supply chain and logistical impacts related to COVID-19, partially offset by a $15.0 million charge of underutilized capacity manufacturing costs expensed related to the COVID-19 pandemic in 2020 that did not recur, a mix shift to higher margin aftermarket sales and decreased charges and increased savings related to our realignment actions as compared to the same period in 2020. 
+
+SG&A
+
+[DATA_TABLE_REMOVED]
+
+SG&A in 2021 decreased by $81.1 million, or 9.2%, as compared with 2020. Currency effects yielded an increase of approximately $10 million. In 2021, SG&A as a percentage of sales decreased 110 basis points as compared with the same period in 2020. The decrease in SG&A, including currency, was due to decreased charges and increased savings related to our realignment actions, decreased travel-related expenses and lower bad debt expense, partially offset by increased broad-based annual incentive compensation as compared with the same period in 2020.
+
+Net Earnings from Affiliates
+
+[DATA_TABLE_REMOVED]
+
+Net earnings from affiliates represents our net income from investments in six joint ventures (one located in each of Chile, China, India, Saudi Arabia, South Korea and the United Arab Emirates) that are accounted for using the equity method of accounting. Net earnings from affiliates in 2021 increased by $4.5 million, or 38.1%, as compared to the prior year, primarily as a result of increased earnings of our FPD joint venture in South Korea. 
+
+Operating Income
+
+[DATA_TABLE_REMOVED]
+
+Operating income in 2021 increased by $20.5 million, or 8.2%, as compared with 2020. The increase included currency benefits of approximately $8 million. The increase was primarily a result of the $81.1 million decrease in SG&A, partially offset by the $67.1 million decrease in gross profit. 
+
+34
+
+Interest Expense and Interest Income
+
+[DATA_TABLE_REMOVED]
+
+Interest expense in 2021 increased by $1.4 million as compared with 2020. The increase was primarily attributable to interest expense associated with the senior notes issued in the third quarter of 2020. Interest income in 2021 decreased by $1.4 million as compared to 2020. The decrease in interest income was partially due to lower interest rates on our average cash balances compared with same period in 2020. 
+
+Loss on Extinguishment of Debt
+
+[DATA_TABLE_REMOVED]
+
+Loss on extinguishment of debt in 2021 of $46.2 million resulted from the redemption of our 2023 Senior Notes, 2022 Senior Notes and 2022 Euro Senior Notes and the write-off of deferred financing fees due to the amendment and restatement of the previous Senior Credit facility. See Note 13 to our consolidated financial statements included in Item 8 of this Annual Report for additional information on these transactions. 
+
+Other Income (Expense), net
+
+[DATA_TABLE_REMOVED]
+
+Other income (expense), net decreased $41.3 million as compared to 2020, due to a $50.7 million increase in losses from transactions in currencies other than our sites' functional currencies, partially offset by a $13.6 million increase in gains from foreign exchange contracts. The net change was primarily due to the foreign currency exchange rate movements in the Canadian dollar, Emirati dirham, Euro and Japanese yen during the year ended December 31, 2021, as compared with the same period in 2020.
+
+Income Tax and Tax Rate
+
+[DATA_TABLE_REMOVED]
+
+Our effective tax rate of (1.9)% for the year ended December 31, 2021 decreased from 30.4% in 2020 primarily due to the net impact of foreign operations, the reversal of certain deferred tax liabilities as a result of legal entity restructurings, favorable resolution of audits in foreign jurisdictions in 2021 and the establishment of a valuation allowance against certain deferred tax assets in 2020. The 2021 effective tax rate differed from the federal statutory rate of 21% primarily due to the net impact of foreign operations and the reversal of certain deferred tax liabilities as a result of legal entity restructurings. 
+
+35
+
+The 2020 effective tax rate differed from the federal statutory rate of 21% primarily due to the establishment of a valuation allowance against certain deferred tax assets given the current and anticipated impact to the Company's operations resulting from the COVID-19 pandemic and the distressed oil prices.
+
+Our effective tax rate is based upon current earnings and estimates of future taxable earnings for each domestic and international location. Changes in any of these and other factors, including our ability to utilize foreign tax credits and net operating losses or results from tax audits, could impact the tax rate in future periods. As of December 31, 2021, we have foreign tax credits of $86.4 million, expiring in 2026 and 2028-2031 tax years, against which we recorded a valuation allowance of $86.4 million. Additionally, we have recorded other net deferred tax assets of $44.0 million, which relate to net operating losses, tax credits and other deductible temporary differences that are available to reduce taxable income in future periods, most of which do not have a definite expiration. Should we not be able to utilize all or a portion of these credits and losses, our effective tax rate would increase.
+
+Net Earnings and Earnings Per Share
+
+[DATA_TABLE_REMOVED]
+
+Net earnings in 2021 decreased by $4.5 million to $125.9 million, or to $0.96 per diluted share, as compared with 2020. The decrease was primarily attributable to an increase in loss on extinguishment of debt of $45.0 million, a $41.3 million decrease in other income (expense), net and a $2.8 million decrease in interest income (expense), net, partially offset by an increase in operating income of $20.5 million and a $64.0 million decrease in tax expense. 
+
+Other Comprehensive Income (Loss) 
+
+[DATA_TABLE_REMOVED]
+
+Other comprehensive income (loss) in 2021 increased by $69.3 million from a loss of $24.6 million in 2020. The income was primarily due to foreign currency translation adjustments resulting primarily from exchange rate movements of the Euro, Colombian peso and Mexican peso versus the U.S. dollar at December 31, 2021 as compared with 2020. 
+
+Business Segments
+
+We conduct our operations through two business segments based on type of product and how we manage the business. We evaluate segment performance and allocate resources based on each segment’s operating income. See Note 20 to our consolidated financial statements included in Item 8 of this Annual Report for further discussion of our segments. The key operating results for our two business segments, FPD and FCD, are discussed below.
+
+Flowserve Pump Division Segment Results
+
+Our largest business segment is FPD, through which we design, manufacture, pre-test, distribute and service specialty and highly-engineered custom and pre-configured pumps and pump systems, mechanical seals and auxiliary systems (collectively referred to as "original equipment"). FPD includes longer lead time, highly-engineered pump products and mechanical seals that are generally manufactured within shorter lead times. FPD also manufactures replacement parts and related equipment and provides aftermarket services. FPD primarily operates in the oil and gas, petrochemical, chemical, power generation, water management and general industries. FPD operates in 49 countries with 
+
+36
+
+35 manufacturing facilities worldwide, 10 of which are located in Europe, 11 in North America, eight in Asia Pacific and six in Latin America, and we have 134 QRCs, including those co-located in manufacturing facilities and/or shared with FCD.
+
+[DATA_TABLE_REMOVED]
+
+Bookings in 2021 increased by $317.3 million, or 13.5%, as compared with 2020. The increase included currency benefits of approximately $44 million. The increase in customer bookings was driven by increased orders in the oil and gas, chemical, general and water industries, partially offset by decreased bookings in the power generation industry. Increased customer bookings of $172.8 million into North America, $91.5 million into the Middle East, $43.9 million into Europe, $26.5 million into Africa and $44.2 million into Latin America, were partially offset by decreased customer bookings of  $64.9 million into Asia Pacific. The increase in customer bookings was more heavily weighted towards aftermarket bookings. Of the $2.7 billion of bookings in 2021, approximately 39% were from oil and gas, 25% from general industries, 21% from chemical, 10% from power generation and 5% from water management. 
+
+ Sales in 2021 decreased $204.9 million, or 7.7%, as compared with 2020. The decrease included currency benefits of approximately $44 million. The decrease was driven primarily by customer original equipment, resulting from decreased customer sales of $86.3 million into North America, $29.0 million into the Middle East, $56.4 million into Asia Pacific, $20.1 million into Africa and $39.0 million into Europe, partially offset by increased sales of $19.3 million into Latin America. 
+
+Gross profit in 2021 decreased by $51.0 million, or 6.3%, as compared with 2020. Gross profit margin in 2021 of 30.8% increased from 30.3% in 2020. The increase in gross profit margin was primarily attributable to decreased charges and increased savings under our realignment actions as compared to the same period in 2020, a $9.2 million charge of underutilized capacity manufacturing costs expensed related to the COVID-19 pandemic in 2020 that did not recur and a mix shift to higher margin aftermarket sales, partially offset by revenue recognized on lower margin original equipment orders and lower customer sales volumes due to supply chain and logistical impacts related to COVID-19.
+
+SG&A in 2021 decreased by $16.6 million, or 3.0%, as compared with 2020. Currency effects provided an increase of approximately $8 million. The decrease in SG&A, including currency, was due to favorable impacts on SG&A due to a decrease in travel, administrative and selling-related expenses, lower bad debt expense and decreased charges and increased savings under our realignment actions, partially offset by increased broad-based annual incentive compensation as compared to the same period in 2020.
+
+Operating income in 2021 decreased by $27.8 million, or 10.3%, as compared with 2020. The decrease included currency benefits of approximately $6 million. The decrease was due to the $51.0 million decrease in gross profit, partially offset by the $16.6 million decrease in SG&A. 
+
+Backlog of $1.4 billion at December 31, 2021 increased by $132.0 million, or 10.7%, as compared with December 31, 2020. Currency effects provided a decrease of approximately $29 million.  
+
+37
+
+Flow Control Division Segment Results
+
+FCD designs, manufactures, distributes and services a broad portfolio of engineered and industrial valve and automation solutions, including isolation and control valves, actuation, controls and related equipment. FCD leverages its experience and application know-how by offering a complete menu of engineering and project management services to complement its expansive product portfolio. FCD has a total of 45 manufacturing facilities and QRCs in 22 countries around the world, with five of its 19 manufacturing operations located in the U.S., eight located in Europe, five located in Asia Pacific and one located in Latin America. We believe that FCD is the second largest industrial valve supplier in the world.
+
+[DATA_TABLE_REMOVED]
+
+Bookings in 2021 increased $47.0 million, or 4.4%, as compared with 2020. The increase included currency benefits of approximately $20 million. The increase in customer bookings was driven by higher bookings in general, chemical and power generation industries, partially offset by lower bookings in the oil and gas industry. Increased customer bookings of $82.1 million into North America and $8.0 million into Europe, were partially offset by decreased bookings of $28.5 million into Asia Pacific, $6.7 million into the Middle East, $6.6 million into Latin America and $0.3 million into Africa. The increase was driven by original equipment bookings. Of the $1.1 billion of bookings in 2021, approximately 33% were from chemical, 26% were from oil and gas, 26% from general industries and 15% from power generation. 
+
+Sales in 2021 increased by $18.4 million, or 1.7%, as compared with 2020. The increase included currency benefits of approximately $22 million and was driven by increased customer aftermarket sales. Sales increased $65.8 million into Asia Pacific, $2.3 million into the Middle East and $4.2 million into Latin America, partially offset by decreased customer sales of $37.1 million into North America, $5.9 million into Europe and $5.3 million into Africa. 
+
+Gross profit in 2021 decreased by $5.2 million, or 1.6%, as compared with 2020. Gross profit margin in 2021 of 29.4% decreased from 30.4% in 2020. The decrease in gross profit margin was primarily attributable to revenue recognized on lower margin original equipment orders, inflationary cost pressure and lower sales volume due to supply chain and logistical impacts related to COVID-19, partially offset by a mix shift to higher margin aftermarket sales, a $5.8 million charge of underutilized capacity manufacturing costs expensed related to the COVID-19 pandemic in 2020 that did not recur and decreased charges and increased savings under our realignment actions as compared to the same period in 2020. 
+
+SG&A in 2021 increased by $1.1 million, or 0.6% as compared with 2020. Currency effects provided an increase of approximately $3 million. The increase in SG&A was primarily due to increased selling-related costs, partially offset by decreased charges and increased savings related to our realignment actions as compared to the same period in 2020. 
+
+Operating income in 2021 decreased by $5.9 million, or 4.7%, as compared with 2020. The decrease included currency benefits of approximately $3 million. The decrease was primarily due to the $5.2 million decrease in gross profit and the increase in SG&A of $1.1 million. 
+
+Backlog of $639.8 million at December 31, 2021 increased by $16.7 million, or 2.7%, as compared with December 31, 2020. Currency effects provided a decrease of approximately $13 million. 
+
+38
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash Flow Analysis
+
+[DATA_TABLE_REMOVED]
+
+The following is a discussion and analysis of the Company’s liquidity and capital resources for the years ended December 31, 2021 and 2020. A discussion of changes in the Company’s liquidity and capital resources for the year ended December 31, 2020 and 2019 can be found in Part II, “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2020, filed with the SEC on February 23, 2021.
+
+Existing cash, cash generated by operations and borrowings available under our senior credit facility are our primary sources of short-term liquidity. We monitor the depository institutions that hold our cash and cash equivalents on a regular basis, and we believe that we have placed our deposits with creditworthy financial institutions. Our sources of operating cash generally include the sale of our products and services and the conversion of our working capital, particularly accounts receivable and inventories. Our total cash balance at December 31, 2021 was $658.5 million, compared with $1,095.3 million at December 31, 2020.
+
+At December 31, 2021 our cash provided by operating activities was $250.1 million compared to $310.5 million in 2020, which provided cash to support short-term working capital needs. Cash flow provided by working capital increased in 2021 due primarily to cash provided by lower contract assets, net of $74.3 million and higher contract liabilities of $14.2 million, partially offset by cash used by higher inventory, net of $32.1 million, lower accounts payable of $19.5 million and higher accounts receivable, net of $8.7 million.
+
+Increases in accounts receivable used $8.7 million of cash flow in 2021, compared to cash flow provided of $45.6 million in 2020. For the fourth quarter of 2021 our days' sales outstanding ("DSO") was 72 days as compared to 69 days in 2020. We have not experienced a significant increase in customer payment defaults in 2021.
+
+Increases in inventory used $32.1 million of cash flow in 2021 as compared with cash used of $15.3 million in 2020. The cash used from inventory in 2021 was due to an increase in work in process. Inventory turns were 3.8 times at December 31, 2021, as compared with 4.1 times for 2020. Our calculation of inventory turns does not reflect the impact of advanced cash received from our customers. 
+
+Decreases in contract assets provided $74.3 million of cash flow and increases in contact liabilities provided $14.2 million of cash flow in 2021. 
+
+Decreases in accounts payable used $19.5 million of cash flow in 2021 compared with cash used of $22.6 million in 2020. Decreases in accrued liabilities and income taxes payable used $13.9 million of cash flow in 2021 compared to cash flow provided of $50.2 million in 2020.
+
+Cash used by investing activities were $59.5 million in 2021, as compared to $41.7 million in 2020. The increase of cash used in 2021 was primarily due to lower cash proceeds provided from the disposal of assets during the year of $13.0 million and net affiliate investment activity of $7.2 million. Capital expenditures were $54.9 million in 2021, as compared to $57.4 million in 2020. In 2022, we currently estimate capital expenditures to be between $70 million and $80 million, before consideration of any acquisition activity. 
+
+Cash used by financing activities were $599.7 million in 2021 compared to cash flow used of $147.6 million in 2020. Cash outflows during 2021 resulted primarily from the $1,243.5 million in payments on senior notes resulting from the redemption of our 2022 Euro Senior Notes, 2023 Senior Notes and 2022 Senior Notes in 2021, $104.6 million of dividend payments and the repurchase of $17.5 million of our common stock, partially offset by $498.3 million in net proceeds from the issuance of the senior notes due January 15, 2032 ("2032 Senior Notes") and $300.0 million of proceeds related to the unsecured term loan facility draw.
+
+39
+
+ In 2021 we repurchased 440,000 shares of our outstanding common stock for $17.5 million. As of December 31, 2021, we had $96.1 million of remaining capacity under our share repurchase plan previously approved by the Board of Directors. 
+
+Our material cash requirements for the next 12 months, include our estimated 2022 capital expenditures described above, our contractual obligations summarized below under the subheading "--Contractual Obligations", and a one-time tax payment of approximately $29 million associated with accrued withholding taxes related to foreign undistributed earnings. In the aggregate, our cash needs in 2022 are expected to be lower than those of 2021 due to anticipated benefits from working capital reductions and lower long-term debt repayments from financing activities. We believe cash flows from operating activities, combined with availability under our senior credit facility and our existing cash balances, will be sufficient to enable us to meet our cash flow needs for the next 12 months. However, cash flows from operations could be adversely affected by a continued decrease in the rate of general global economic growth and an extended decrease in capital spending of our customers, as well as economic, political and other risks associated with sales of our products, operational factors, competition, regulatory actions, fluctuations in foreign currency exchange rates and fluctuations in interest rates, among other factors. We believe that cash flows from operating activities and our expectation of continuing availability to draw upon our credit agreements are also sufficient to meet our cash flow needs for periods beyond the next 12 months.
+
+Financing
+
+On September 13, 2021 ("Closing Date"), we amended and restated our credit agreement ("Amended and Restated Credit Agreement") under our Senior Credit Facility ("Credit Facility") with Bank of America, N.A. ("Administrative Agent") and the other lenders to provide greater flexibility in maintaining adequate liquidity and access to available borrowings. The Amended and Restated Credit Agreement, (i) retained, from the previous credit agreement, the $800.0 million unsecured Revolving Credit Facility, which includes a $750.0 million sublimit for the issuance of letters of credit and a $30.0 million sublimit for swing line loans ii) provides for an up to $300 million unsecured Term Loan Facility (the "Term Loan"), (iii) extends the maturity date of the agreement to September 13, 2026, (iv) reduces commitment fees, (v) extends net leverage ratio covenant definition through the maturity of the agreement, and (vi) provides the ability to make certain adjustments to the otherwise applicable commitment fee, interest rate and letter of credit fees based on the Company’s performance against to-be-established key performance indicators with respect to certain of the Company’s environmental, social and governance targets. Most other terms and conditions under the previous Credit Facility remained unchanged. 
+
+On the Closing Date, approximately $300.0 million was drawn under the unsecured Term Loan to fund, in part, the previously announced redemption of the Company’s 2022 Senior Notes and 2023 Senior Notes.
+
+The interest rates per annum applicable to the Revolving Credit Facility are unchanged under the Amended and Restated Credit Agreement. The interest rates per annum applicable to the Credit Facility, other than with respect to swing line loans, are LIBOR plus between 1.000% to 1.750%, depending on our debt rating by either Moody’s Investors Service, Inc. ("Moody's") or Standard & Poor’s Financial Services LLC ("S&P"), or, at our option, the Base Rate (as defined in the Amended and Restated Credit Agreement) plus between 0.000% to 0.750% depending on our debt rating by either Moody’s or S&P. At December 31, 2021, the interest rate on the Revolving Credit Facility was LIBOR plus 1.375% in the case of LIBOR loans and the Base Rate plus 0.375% in the case of Base Rate loans. In addition, a commitment fee is payable quarterly in arrears on the daily unused portions of the Credit Facility. The commitment fee will be between 0.080% and 0.250% of unused amounts under the Credit Facility depending on our debt rating by either Moody’s or S&P. The commitment fee was 0.175% (per annum) during the period ended December 31, 2021.
+
+Under the terms and conditions of the Amended and Restated Credit Agreement, interest rates per annum applicable to the Term Loan are stated as LIBOR plus between 0.875% to 1.625%, depending on the Company’s debt rating by either Moody’s or S&P, or, at the option of the Company, the Base Rate plus between 0.000% to 0.625% depending on the Company’s debt rating by either Moody’s or S&P.
+
+ A discussion of our debt and related covenants is included in Note 13 to our consolidated financial statements included in Item 8 of this Annual Report. We were in compliance with the covenants as of December 31, 2021.
+
+ Liquidity Analysis
+
+40
+
+Our cash balance decreased by $436.8 million to $658.5 million as of December 31, 2021 as compared with December 31, 2020. The cash decrease included $1,243.5 million in payments on senior notes, $104.6 million in dividend payments, $54.9 million in capital expenditures and the repurchase of $17.5 million of our common stock, partially offset by $250.1 million in operating cash inflows and $498.3 million in net proceeds from the issuance of the 2032 Senior Notes. 
+
+During 2021 we contributed $20.0 million to our U.S. pension plan, compared to no contributions in 2020. At December 31, 2021 and 2020, as a result of the values of the plan’s assets and our contributions to the plan, our U.S. pension plan was fully-funded as defined by applicable law. As of December 31, 2021 direct benefits paid by the U.S. pension plan were $3.9 million. We continue to maintain an asset allocation consistent with our strategy to maximize total return, while reducing portfolio risks through asset class diversification. 
+
+As of December 31, 2021, we had approximately $1,273 million of liquidity, consisting of cash and cash equivalents of $658 million and $614 million of borrowings available under our Senior Credit Facility. In light of the liquidity currently available to us, and the costs savings measures planned and already in place, we expect to be able to maintain adequate liquidity over the next 12 months as we manage through the current market environment. We do not currently anticipate, nor are we aware of, any significant market conditions or commitments that would change any of our conclusions of the liquidity currently available to us. Additionally, we expect that the costs savings measures planned and already in place will enable us to maintain adequate liquidity over the next 12 months as we manage through the current market environment. We will continue to actively monitor the potential impacts of COVID-19 variants and related events on the credit markets in order to maintain sufficient liquidity and access to capital throughout 2022.
+
+Contractual Obligations 
+
+The following table presents a summary of our contractual obligations at December 31, 2021:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________
+
+(1)Fixed interest payments represent interest payments on the Senior Notes and Term Loan Facility as defined in Note 13 to our consolidated financial statements included in Item 8 of this Annual Report. 
+
+(2)Purchase obligations are presented at the face value of the purchase order, excluding the effects of early termination provisions. Actual payments could be less than amounts presented herein.
+
+(3)Retirement and postretirement benefits represent estimated benefit payments for our U.S. and non-U.S. defined benefit plans and our postretirement medical plans, as more fully described below and in Note 14 to our consolidated financial statements included in Item 8 of this Annual Report.
+
+As of December 31, 2021, the gross liability for uncertain tax positions was $49.9 million. We do not expect a material payment related to these obligations to be made within the next twelve months. We are unable to provide a reasonably reliable estimate of the timing of future payments relating to the uncertain tax positions.
+
+41
+
+The following table presents a summary of our commercial commitments at December 31, 2021:
+
+[DATA_TABLE_REMOVED]
+
+We expect to satisfy these commitments through performance under our contracts.
+
+PENSION AND POSTRETIREMENT BENEFITS OBLIGATIONS
+
+Plan Descriptions
+
+We and certain of our subsidiaries have defined benefit pension plans and defined contribution plans for full-time and part-time employees. Approximately 64% of total defined benefit pension plan assets and approximately 52% of defined benefit pension obligations are related to the U.S. qualified plan as of December 31, 2021. Unless specified otherwise, the references in this section are to all of our U.S. and non-U.S. plans. None of our common stock is directly held by these plans.
+
+Our U.S. defined benefit plan assets consist of a balanced portfolio of equity and fixed income securities. Our non-U.S. defined benefit plan assets include a significant concentration of United Kingdom ("U.K.") fixed income securities, as discussed in Note 14 to our consolidated financial statements included in Item 8 of this Annual Report. We monitor investment allocations and manage plan assets to maintain an acceptable level of risk. At December 31, 2021, the estimated fair market value of U.S. and non-U.S. plan assets for our defined benefit pension plans decreased to $764.2 million from $765.0 million at December 31, 2020. Assets were allocated as follows:
+
+[DATA_TABLE_REMOVED]
+
+42
+
+[DATA_TABLE_REMOVED]
+
+The projected benefit obligation ("Benefit Obligation") for our defined benefit pension plans was $892.6 million and $957.4 million as of December 31, 2021 and 2020, respectively. Benefits under our defined benefit pension plans are based primarily on participants’ compensation and years of credited service. 
+
+We sponsor defined benefit postretirement medical plans covering certain current retirees and a limited number of future retirees in the U.S. These plans provide for medical and dental benefits and are administered through insurance companies. We fund the plans as benefits are paid, such that the plans hold no assets in any period presented. Accordingly, we have no investment strategy or targeted allocations for plan assets. The benefits under the plans are not available to new employees or most existing employees.
+
+The Benefit Obligation for our defined benefit postretirement medical plans was $17.0 million and $18.6 million as of December 31, 2021 and 2020, respectively. 
+
+Accrual Accounting and Significant Assumptions
+
+We account for pension benefits using the accrual method, recognizing pension expense before the payment of benefits to retirees. The accrual method of accounting for pension benefits requires actuarial assumptions concerning future events that will determine the amount and timing of the benefit payments.
+
+Our key assumptions used in calculating our cost of pension benefits are the discount rate, the rate of compensation increase and the expected long-term rate of return on plan assets. We, in consultation with our actuaries, evaluate the key actuarial assumptions and other assumptions used in calculating the cost of pension and postretirement benefits, such as discount rates, expected return on plan assets for funded plans, mortality rates, retirement rates and assumed rate of compensation increases, and determine such assumptions as of December 31 of each year to calculate liability information as of that date and pension and postretirement expense for the following year. See discussion of our accounting for and assumptions related to pension and postretirement benefits in the “Our Critical Accounting Estimates” section of this MD&A.
+
+In 2021, the service cost component of the pension expense for our defined benefit pension plans included in operating income was $32.5 million compared to $32.9 million in 2020. The non-service cost portion of net pension expense (e.g., interest cost, actuarial gains and losses and expected return on plan assets) for our defined benefit pension plans included in other income (expense), net was $(0.2) million in 2021, compared to $4.0 million in 2020. 
+
+43
+
+The following are assumptions related to our defined benefit pension plans as of December 31, 2021:
+
+[DATA_TABLE_REMOVED]
+
+The following provides a sensitivity analysis of alternative assumptions on the U.S. qualified and aggregate non-U.S. pension plans and U.S. postretirement plans.
+
+Effect of Discount Rate Changes and Constancy of Other Assumptions:
+
+[DATA_TABLE_REMOVED]
+
+Effect of Changes in the Expected Return on Assets and Constancy of Other Assumptions:
+
+[DATA_TABLE_REMOVED]
+
+As discussed below, accounting principles generally accepted in the U.S. (“U.S. GAAP”) provide that differences between expected and actual returns are recognized over the average future service of employees or over the remaining expected lifetime for plans with only inactive participants.
+
+At December 31, 2021, as compared with December 31, 2020, we increased our discount rate for the U.S. plan from 2.62% to 3.00% based on an analysis of publicly-traded investment grade U.S. corporate bonds, which had higher yields due to current market conditions. The average discount rate for the non-U.S. plans increased from 1.23% to 1.71% based on analysis of bonds and other publicly-traded instruments, by country, which had higher yields due to market conditions. The average assumed rate of compensation decreased to 3.50% for the U.S. plan and increased to 3.18% from 3.11% for our non-U.S. plans. To determine the 2021 pension expense, the expected rate of return on U.S. plan and non-US plan assets remained constant at 6.00% and 2.37%, respectively, based on our target allocations and expected long-term asset returns. As the expected rate of return on plan assets is long-term in nature, short-term market fluctuations do not significantly impact the rate. For all U.S. plans, we adopted the Pri-2012 mortality tables and the MP-2021 improvement scale published in October 2021. We applied the Pri-2012 tables based on the constituency of our plan population for union and non-union participants. We adjusted the improvement scale to utilize the Proxy SSA Long Term Improvement Rates, consistent with assumptions adopted by the Social Security Administration trustees, based on long-term historical experience. Currently, we believe this approach provides the best estimate of our future obligation. Most plan participants 
+
+44
+
+elect to receive plan benefits as a lump sum at the end of service, rather than an annuity. As such, the updated mortality tables had an immaterial effect on our pension obligation. 
+
+We expect that the net pension expense for our defined benefit pension plans included in earnings before income taxes will be approximately $4.1 million lower in 2022 than the $32.3 million in 2021, primarily due to a decrease in the amortization of net loss with no anticipated special events. We have used discount rates of 3.00%, 1.71% and 2.83% at December 31, 2021, in calculating our estimated 2022 net pension expense for the U.S. pension plans, non-U.S. pension plans and postretirement medical plans, respectively.
+
+The assumed ranges for the annual rates of increase in health care costs were 7.0% for 2021 and 7.0% for 2020 with a gradual decrease to 5.0% for 2029 and future years. If actual costs are higher than those assumed, this will likely put modest upward pressure on our expense for retiree health care.
+
+Plan Funding
+
+Our funding policy for defined benefit plans is to contribute at least the amounts required under applicable laws and local customs. In 2021, we contributed $35.8 million, to our defined benefit plans, compared to $15.9 million in 2020. After consideration of our intent to remain fully-funded based on standards set by law, we currently anticipate that our contribution to our U.S. pension plan in 2022 will be approximately $20 million, excluding direct benefits paid. We expect to contribute approximately $2 million to our non-U.S. pension plans in 2022, excluding direct benefits paid.
+
+For further discussion of our pension and postretirement benefits, see Note 14 to our consolidated financial statements included in Item 8 of this Annual Report.
+
+OUR CRITICAL ACCOUNTING ESTIMATES
+
+The process of preparing financial statements in conformity with U.S. GAAP requires the use of estimates and assumptions to determine reported amounts of certain assets, liabilities, revenues and expenses and the disclosure of related contingent assets and liabilities. These estimates and assumptions are based upon information available at the time of the estimates or assumptions, including our historical experience, where relevant. The most significant estimates made by management include: timing and amount of revenue recognition; deferred taxes, tax valuation allowances and tax reserves; reserves for contingent loss; pension and postretirement benefits; and valuation of goodwill, indefinite-lived intangible assets and other long-lived assets. The significant estimates are reviewed at least annually if not quarterly by management. Because of the uncertainty of factors surrounding the estimates, assumptions and judgments used in the preparation of our financial statements, actual results may differ from the estimates, and the difference may be material.
+
+Our critical accounting policies are those policies that are both most important to our financial condition and results of operations and require the most difficult, subjective or complex judgments on the part of management in their application, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. We believe that the following represent our critical accounting policies. For a summary of all of our significant accounting policies, see Note 1 to our consolidated financial statements included in Item 8 of this Annual Report. Management and our external auditors have discussed our critical accounting estimates and policies with the Audit Committee of our Board of Directors. 
+
+Revenue Recognition
+
+We recognize revenue when (or as) we satisfy a performance obligation by transferring control to a customer. Transfer of control is evaluated based on the customer’s ability to direct the use of and obtain substantially all of the benefits of a performance obligation. Revenue is recognized either over time or at a point in time, depending on the specific facts and circumstances for each contract, including the terms and conditions of the contract as agreed with the customer and the nature of the products or services to be provided. 
+
+Our primary method for recognizing revenue over time is the percentage of completion (“POC”) method, whereby progress towards completion is measured by applying an input measure based on costs incurred to date relative to total estimated costs at completion. If control of the products and/or services does not transfer over time, then control transfers at a point in time. We determine the point in time that control transfers to a customer based on the evaluation of specific indicators, such as title transfer, risk of loss transfer, customer acceptance and physical possession. For a discussion related to revenue recognition refer to Note 3 included in Item 8 of this Annual Report.
+
+45
+
+Deferred Taxes, Tax Valuation Allowances and Tax Reserves 
+
+We recognize valuation allowances to reduce the carrying value of deferred tax assets to amounts that we expect are more likely than not to be realized. Our valuation allowances primarily relate to the deferred tax assets established for certain tax credit carryforwards and net operating loss carryforwards for non-U.S. subsidiaries, and we evaluate the realizability of our deferred tax assets and adjust the amount of the valuation allowances, if necessary. We assess such factors as our forecast of future taxable income and available tax planning strategies that could be implemented to realize the net deferred tax assets in determining the sufficiency of our valuation allowances. Failure to achieve forecasted taxable income in the applicable tax jurisdictions could affect the ultimate realization of deferred tax assets and could result in an increase in our effective tax rate on future earnings. Implementation of different tax structures in certain jurisdictions could, if successful, result in future reductions of certain valuation allowances. 
+
+The amount of income taxes we pay is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Significant judgment is required in determining income tax provisions and evaluating tax positions. We establish reserves for open tax years for uncertain tax positions that may be subject to challenge by various tax authorities. The consolidated tax provision and related accruals include the impact of such reasonably estimable losses and related interest and penalties as deemed appropriate. Tax benefits recognized in the financial statements from uncertain tax positions are measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement.
+
+While we believe we have adequately provided for any reasonably foreseeable outcomes related to these matters, our future results may include favorable or unfavorable adjustments to our estimated tax liabilities. To the extent that the expected tax outcome of these matters changes, such changes in estimate will impact the income tax provision in the period in which such determination is made. For a discussion related to deferred taxes, tax valuation allowances and tax reserves refer to Note 19 included in Item 8 of this Annual Report.
+
+Reserves for Contingent Loss
+
+We are a defendant in a number of lawsuits that seek to recover damages for personal injury allegedly resulting from exposure to asbestos-containing products formerly manufactured and/or distributed by heritage companies of the Company. We have estimated that the liability for pending and future claims not yet asserted, and which are probable and estimable, could be experienced through 2049, which represents the expected end of our asbestos liability exposure with no further ongoing claims expected beyond that date. In light of the uncertainties and variables inherent in the long-term projection of the total asbestos liability, as part of our ongoing review of asbestos claims, each year we will reassess the projected liability of unasserted asbestos claims to be filed through 2049, and we will continually reassess the time horizon over which a reasonable estimate of unasserted claims can be projected. 
+
+In connection with our ongoing review of asbestos-related claims, we have also reviewed the amount of potential insurance coverage for such claims, taking into account the remaining limits of such coverage, the number and amount of claims on our insurance from co-insured parties, ongoing litigation against the Company’s insurers, potential remaining recoveries from insolvent insurers, the impact of previous insurance settlements and coverage available from solvent insurers not party to the coverage litigation. Continuously, we review ongoing insurance coverage available for a significant amount of the potential future asbestos-related claims and in the future could secure additional insurance coverage as deemed necessary. For a discussion pertaining to asbestos claims refer to Note 16 included in Item 8 of this Annual Report.
+
+Liabilities are recorded for various non-asbestos contingencies arising in the normal course of business when it is both probable that a loss has been incurred and such loss is reasonably estimable. Assessments of reserves are based on information obtained from our independent and in-house experts, including recent legal decisions and loss experience in similar situations. The recorded legal reserves are susceptible to changes due to new developments regarding the facts and circumstances of each matter, changes in political environments, legal venue and other factors. Recorded environmental reserves could change based on further analysis of our properties, technological innovation and regulatory environment changes. 
+
+Pension and Postretirement Benefits
+
+We provide pension and postretirement benefits to certain of our employees, including former employees, and their beneficiaries. The assets, liabilities and expenses we recognize and disclosures we make about plan actuarial and financial information are dependent on the assumptions and estimates used in calculating such amounts. The assumptions include 
+
+46
+
+factors such as discount rates, health care cost trend rates, inflation, expected rates of return on plan assets, retirement rates, mortality rates, turnover, rates of compensation increases and other factors.
+
+The assumptions utilized to compute expense and benefit obligations are shown in Note 14 to our consolidated financial statements included in Item 8 of this Annual Report. These assumptions are assessed annually in consultation with independent actuaries and investment advisors as of December 31 and adjustments are made as needed. We evaluate prevailing market conditions and local laws and requirements in countries where plans are maintained, including appropriate rates of return, interest rates and medical inflation (health care cost trend) rates. We ensure that our significant assumptions are within the reasonable range relative to market data. The methodology to set our significant assumptions includes:
+
+•Discount rates are estimated using high quality debt securities based on corporate or government bond yields with a duration matching the expected benefit payments. For the U.S. the discount rate is obtained from an analysis of publicly-traded investment-grade corporate bonds to establish a weighted average discount rate. For plans in the U.K. and the Eurozone we use the discount rate obtained from an analysis of AA-graded corporate bonds used to generate a yield curve. For other countries or regions without a corporate AA bond market, government bond rates are used. Our discount rate assumptions are impacted by changes in general economic and market conditions that affect interest rates on long-term high-quality debt securities, as well as the duration of our plans’ liabilities.
+
+•The expected rates of return on plan assets are derived from reviews of asset allocation strategies, expected long-term performance of asset classes, risks and other factors adjusted for our specific investment strategy. These rates are impacted by changes in general market conditions, but because they are long-term in nature, short-term market changes do not significantly impact the rates. Changes to our target asset allocation also impact these rates.
+
+•The expected rates of compensation increase reflect estimates of the change in future compensation levels due to general price levels, seniority, age and other factors.
+
+Depending on the assumptions used, the pension and postretirement expense could vary within a range of outcomes and have a material effect on reported earnings. In addition, the assumptions can materially affect benefit obligations and future cash funding. Actual results in any given year may differ from those estimated because of economic and other factors. 
+
+We evaluate the funded status of each retirement plan using current assumptions and determine the appropriate funding level considering applicable regulatory requirements, tax deductibility, reporting considerations, cash flow requirements and other factors. We discuss our funding assumptions with the Finance Committee of our Board of Directors.
+
+Valuation of Goodwill, Indefinite-Lived Intangible Assets and Other Long-Lived Assets 
+
+The initial recording of goodwill and intangible assets requires subjective judgments concerning estimates of the fair value of the acquired assets. We test the value of goodwill, indefinite-lived intangible assets and long-lived assets for impairment as of December 31 each year or whenever events or circumstances indicate such assets may be impaired. The test for goodwill impairment involves significant judgment in estimating projections of fair value generated through future performance of each of the reporting units. We did not record a material impairment for goodwill, indefinite-lived intangible assets or long-lived assets in 2021 or 2020. 
+
+Due to uncertain market conditions and potential changes in strategy and product portfolio, it is possible that forecasts used to support asset carrying values may change in the future, which could result in non-cash charges that would adversely affect our financial condition and results of operations. For a discussion pertaining to goodwill, indefinite-lived intangible assets and long-lived assets refer to Note 1 included in Item 8 of this Annual Report.
+
+ACCOUNTING DEVELOPMENTS
+
+We have presented the information about accounting pronouncements not yet implemented in Note 1 to our consolidated financial statements included in Item 8 of this Annual Report.
+
+47
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

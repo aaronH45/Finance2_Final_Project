@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000922864",
+    "sec_company_name": "APARTMENT INVESTMENT & MANAGEMENT CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190301",
+    "sec_filing_date": "20190301",
+    "sec_changed_date": "20190301",
+    "sec_accepted_date": "20190301170711",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/922864/000092286419000011/0000922864-19-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/922864/000092286419000011/0000922864-19-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AIV_0000922864_EX991_20190301_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "47001 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25094,
+    "endpoints": [
+        "investorpresentationciti   ",
+        " FORWARD LOOKING STATEMENTS & OTHER INFORMATION This presentation contains forward-looking statements within the meaning of the federal securities laws, including, without limitation, statements regarding projected results and specifically forecasts of 2019 expectations, including but not limited to: AFFO and selected components thereof; Aimco redevelopment and development investments and projected value creation from such investments; Aimco refinancing activities; and Aimco liquidity and leverage metrics. These forward-looking statements are based on management’s judgment as of this date, which is subject to risks and uncertainties. Risks and uncertainties include, but are not limited to: Aimco’s ability to maintain current or meet projected occupancy, rental rate and property operating results; the effect of acquisitions, dispositions, redevelopments and developments; Aimco’s ability to meet budgeted costs and timelines, and achieve budgeted rental rates related to Aimco redevelopments and developments; and Aimco’s ability to comply with debt covenants, including financial coverage ratios. Actual results may differ materially from those described in these forward-looking statements and, in addition, will be affected by a variety of risks and factors, some of which are beyond Aimco’s control, including, without limitation: • Real estate and operating risks, including fluctuations in real estate values and the general economic climate in the markets in which Aimco operates and competition for residents in such markets; national and local economic conditions, including the pace of job growth and the level of unemployment; the amount, location and quality of competitive new housing supply; the timing of acquisitions, dispositions, redevelopments and developments; and changes in operating costs, including energy costs; • Financing risks, including the availability and cost of capital markets’ financing; the risk that cash flows from operations may be insufficient to meet required payments of principal and interest; and the risk that earnings may not be sufficient to maintain compliance with debt covenants; • Insurance risks, including the cost of insurance, and natural disasters and severe weather such as hurricanes; and • Legal and regulatory risks, including costs associated with prosecuting or defending claims and any adverse outcomes; the terms of governmental regulations that affect Aimco and interpretations of those regulations; and possible environmental liabilities, including costs, fines or penalties that may be incurred due to necessary remediation of contamination of apartment communities presently or previously owned by Aimco. In addition, Aimco’s current and continuing qualification as a real estate investment trust involves the application of highly technical and complex provisions of the Internal Revenue Code and depends on Aimco’s ability to meet the various requirements imposed by the Internal Revenue Code, through actual operating results, distribution levels and diversity of stock ownership. Pursuant to its existing authority to repurchase up to an additional 10.6M shares, the company may make repurchases from time to time in the open market or in privately negotiated transactions at the company’s discretion and in accordance with the requirements of the SEC. The timing and amount of repurchases, if at all, will depend on market pricing as well as other conditions. Readers should carefully review Aimco’s financial statements and the notes thereto, as well as the section entitled “Risk Factors” in Item 1A of Aimco’s Annual Report on Form 10-K for the year ended December 31, 2018, and the other documents Aimco files from time to time with the Securities and Exchange Commission. These forward-looking statements reflect management’s judgment as of this date, and Aimco assumes no obligation to revise or update them to reflect future events or circumstances. This presentation does not constitute an offer of securities for sale. Glossary & Reconciliations of Non-GAAP Financial and Operating Measures Financial and operating measures discussed in this document include certain financial measures used by Aimco management, that are measures not defined under accounting principles generally accepted in the United States, or GAAP. Certain Aimco terms and Non-GAAP measures are defined in the Glossary and Reconciliations of Non-GAAP Financial and Operating Measures included in Aimco’s Fourth Quarter 2018 Earnings Release dated February 4, 2019. 18"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AIV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AIV_0000922864_EX991_20190301_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:40:36.497921"
+}

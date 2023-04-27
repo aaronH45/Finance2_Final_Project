@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000023217",
+    "sec_company_name": "CONAGRA BRANDS INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180220",
+    "sec_filing_date": "20180220",
+    "sec_changed_date": "20180220",
+    "sec_accepted_date": "20180220085121",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/23217/000119312518049661/0001193125-18-049661-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/23217/000119312518049661/0001193125-18-049661.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\CAG_0000023217_EX991_20180220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "63120 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24640,
+    "endpoints": [
+        "EX-99.1   ",
+        " Reconciliation of Adjusted Operating Profit and Adjusted Operating Margin Company operating Profit: Total operating profit for segments consisting of earnings before interest expense and equity method investment earnings, and income taxes. Segment operating Profit: Total operating profit for segments consisting of earnings before general corporate expense, interest expense, equity method investment earnings, and income taxes. 2018 Fiscal Year (dollars in millions) H1 2017 2016 2015 Income from continuing operations before income taxes and equity method investment earnings $556.6 $729.5 $108.8 $584.6 Interest expense, net 74.400000000000006 195.5 295.8 328.2 Company operating profit $631 $925 $404.6 $912.8 General corporate expense 85.1 313.3 818.5 296.60000000000002 Segment operating profit $716.1 $1,238.3 $1,223.999999999999 $1,209.4000000000001 2018 Fiscal Year (dollars in millions) H1 2017 2016 2015 Company operating profit $631 $925 $404.6 $912.8 Adjustment to the gain on sale of Spicetec and J.M. Swank businesses 0 -,197.4 0 0 Net expense related to restructuring plans 18.5 63.6 281.8 47.7 Net expense related to goodwill and intangible impairment charges 0 304.2 50.1 25.7 Net expense related to acquisitions and planned divestitures 8.6 31.4 0 0 Net expense related to early extinguishment of debt 0 93.3 23.9 24.6 Net expense related to salaried Pension Plan Lump Sum Settlement 0 13.8 0 0 Net expense related to pension valuation adjustment 4.0999999999999996 0 348.5 6.9 Net expense (benefit) related to legal matters 0 -5.7 5 -7 Corporate hedging derivative losses (gains) -1.0999999999999996 5.0999999999999996 -16.399999999999999 24.6 Net expense related to integration of former Ralcorp business 0 0 0 5 Adjusted company operating profit $661.1 $1,233.3 $1,097.5 $1,040.3 Adjusted company operating margin 0.16622134969975005 0.15757494462004246 0.12665654575707644 0.11515386318352888"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CAG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\CAG_0000023217_EX991_20180220_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:24:08.604925"
+}

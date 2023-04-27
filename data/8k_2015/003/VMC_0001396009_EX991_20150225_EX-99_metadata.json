@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001396009",
+    "sec_company_name": "Vulcan Materials CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150225",
+    "sec_changed_date": "20150225",
+    "sec_accepted_date": "20150225090033",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1396009/000114420415011798/0001144204-15-011798-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1396009/000114420415011798/0001144204-15-011798.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\VMC_0001396009_EX991_20150225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "87172 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28215,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "76 Aggregates segment gross profit margin as a percentage of freight-adjusted revenues Aggregates Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 (in millions) 2012 2012 2012 2012 2013 2013 2013 2013 2014 2014 Gross profit $ 34.0 $111.8 $124.9 $ 81.3 $ 24.8 $127.1 $149.8 $111.6 $ 38.5 $161.7 Volume 29.5 38.7 39.4 33.4 27.9 39.6 42.8 35.7 29.6 43.6 Freight-adjusted sales price $10.25 $10.38 $10.63 $10.45 $10.72 $10.75 $10.89 $10.82 $10.94 $11.08 Freight-adjusted revenues $301.9 $402.0 $418.6 $349.1 $298.6 $425.3 $465.7 $386.7 $324.1 $483.6 Aggregates Q3 Q4 (in millions) 2014 2014 Gross profit $188.0 $156.0 (0.8) (0.2) $188.8 $156.2 Volume 47.8 41.3 Freight-adjusted sales price $11.12 $11.03 Freight-adjusted revenues $531.6 $455.1 6.2 11.7 Freight-adjusted revenues excluding 2014 acquisitions $525.4 $443.4 Trailing 12 Months Q4 Q1 Q2 Q3 Q4 Aggregates Incremental Margins (Excl. Acq.) 2013 2014 2014 2014 2014 (in millions) Change in gross profit $ 61.2 $ 84.2 $103.5 $117.5 $131.8 Change in freight-adjusted revenues 104.8 133.5 168.5 181.1 200.5 58% 63% 61% 65% 66% Aggregates segment gross profit margin as a percentage of freight-adjusted revenues is not a GAAP measure. We present Aggregates segment gross profit margin as a percentage of freight-adjusted revenues as it is consistent with the basis by which we review our operating results. We believe that this presentation is more meaningful to our investors as it excludes related transportation revenues (a pass-through activity) and other service-related revenues, such as landfill tipping fees. Reconciliation of this metric to its nearest GAAP measure is presented below: Change in gross profit margin as a percentage of freight- adjusted revenues Gross profit for 2014 acquisitions Gross profit excluding 2014 acquisitions Freight-adjusted revenues for 2014 acquisitions Appendix - Reconciliation of Non - GAAP Financial Measures"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\VMC_0001396009_EX991_20150225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:49.859066"
+}

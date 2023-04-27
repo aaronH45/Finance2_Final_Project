@@ -1,0 +1,403 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Our operating results and financial condition have varied in the past and could in the future vary significantly depending on a number of factors. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. See "Note Regarding Forward-Looking Statements" and Part I, Item 1A "Risk Factors" in this Annual Report on Form 10-K for a discussion of certain risks and uncertainties that may cause these differences. 
+
+Overview
+
+Citrix is an enterprise software company focused on helping organizations deliver a consistent and secure work experience no matter where work needs to get done — in the office, at home, or in the field. We do this by delivering a digital workspace solution that gives each employee the resources and space they need to do their best work. Our App Delivery and Security (formerly Networking) solutions, which can be consumed via hardware or software, complement our Workspace solutions by delivering the applications and data employees need across any network with security, reliability and speed. 
+
+Executive Summary 
+
+Our 2020 results reflect continued execution against our strategy – including strong demand for the Citrix Workspace and an acceleration of our customers adopting our cloud offerings to manage their workspace environments. We believe that the COVID-19 pandemic has accelerated the trends driving distributed teams and hybrid-work, emphasizing the importance of an organization’s ability to securely deliver all of the work resources employees need in one unified experience.
+
+As we previously announced, we discontinued broad availability of perpetual licenses for Citrix Workspace beginning on October 1, 2020. Going forward, customers will have the option of acquiring new Citrix Workspace seats in the form of SaaS or on-premises subscription offerings. However, we will continue to support and renew existing maintenance contracts for the foreseeable future.
+
+Through the first half of 2020, many customers focused on near-term business critical needs as their workforces adapted to remote work precipitated by the pandemic. As such, these customers have often chosen on-premises subscriptions rather than immediately migrating their Citrix Workspace deployments directly to the cloud. Primarily as a result of this near-term focus of customers on business critical needs and other cloud migration challenges, the transition of customers from on-premise to our cloud offerings did not progress during the first half of 2020 at the rate we had anticipated at the beginning of the year. To address the challenges in transitioning our customers to the cloud, we continue to invest in innovation and feature development, simplified cloud migration, and performance and reliability, as well as other cloud customer success initiatives. As we exited 2020, the transition of our customers to our cloud offerings had regained momentum.
+
+Longer term, our subscription transition is expected to result in more sustainable, recurring revenue growth over time as less revenue comes from one-time product and licensing streams and more revenue comes from predictable, recurring streams that will be recognized in future periods. We believe that this dynamic is best captured in our Subscription and SaaS Annualized Recurring Revenue, or ARR.
+
+This operating metric represents the contracted recurring value of all termed subscriptions normalized to a one-year period. It is calculated at the end of a reporting period by taking each contract’s recurring total contract value and dividing by the length of the contract. ARR includes only active contractually committed, fixed subscription fees. Our definition of ARR includes contracts expected to recur and therefore excludes contracts with durations of 12 months or less where licenses were issued to address extraordinary business continuity events for our customers. All contracts are annualized, including 30 day offerings where we take monthly recurring revenue multiplied by 12 to annualize. ARR may be influenced by seasonality within the year. ARR should be viewed independently of U.S. GAAP revenue, deferred revenue and unbilled revenue and is not intended to be combined with or to replace those items. ARR is not a forecast of future revenue. As we continue through this business model transition, we believe ARR is a key indicator of the overall health and trajectory of our business. Management uses ARR to monitor the growth of our subscription business.
+
+On February 25, 2020, we issued $750.0 million of unsecured senior notes due March 1, 2030 (the “2030 Notes”). The net proceeds from this offering were approximately $738.1 million, after deducting the underwriting discount and estimated offering expenses payable by us. Net proceeds from this offering were primarily used to repay amounts outstanding under our $1.00 billion term loan credit facility (the “Term Loan Credit Agreement”).
+
+On January 16, 2021, we entered into a definitive agreement to acquire Wrike, a leader in the SaaS collaborative work management space, for $2.25 billion in cash. We expect to fund the transaction with a combination of new debt and existing 
+
+34
+
+cash and investments and have obtained a commitment from JPMorgan Chase Bank, N.A. for a $1.45 billion senior unsecured 364-day bridge loan facility (the “Bridge Facility”). We expect to replace the Bridge Facility prior to the closing of the acquisition of Wrike with permanent financing, which may include the issuance of debt securities and/or one or more senior term loan facilities, including the 2021 Term Loan Credit Agreement as described below. The transaction, which has been unanimously approved by the board of directors of both Citrix and Wrike, is expected to close in the first half of 2021, subject to regulatory approvals and other customary closing conditions. Upon closing of the transaction, we expect a favorable impact to fiscal year 2021 SaaS revenues and SaaS ARR, as well as increases in cost of net revenues and operating expenses. 
+
+On February 5, 2021, we entered into a term loan credit agreement (the “2021 Term Loan Credit Agreement”), which provides us with a facility to borrow a term loan on an unsecured basis in an aggregate principal amount of up to $1.00 billion (the “2021 Term Loan”). The proceeds of borrowings under the 2021 Term Loan Credit Agreement will be used to finance a portion of the purchase price to be paid in connection with the acquisition of Wrike.
+
+On January 19, 2021, we announced that our Board of Directors declared a dividend of $0.37 per share, an increase of $0.02, payable March 26, 2021 to all shareholders of record as of the close of business on March 12, 2021.
+
+Impact of the COVID-19 Pandemic
+
+In March 2020, the World Health Organization declared the outbreak of COVID-19 to be a pandemic, which continues to spread throughout the U.S. and the world. The impact from the rapidly changing market and economic conditions due to the COVID-19 pandemic remains uncertain. It has disrupted the business of our customers and partners, has and will likely continue to impact our business and consolidated results of operations and could impact our financial condition in the future. While we have not incurred significant disruptions thus far from the COVID-19 pandemic, we are unable to accurately predict the full impact that the COVID-19 pandemic will have due to numerous uncertainties, including the potential emergence of new variants of the disease, the duration of the outbreak, actions that may be taken by governmental authorities, the impact to the business of our customers and partners and other factors identified in Part I, Item 1A “Risk Factors” in this Annual Report on Form 10-K. We also believe that our financial resources will allow us to manage the anticipated impact of the COVID-19 pandemic on our business operations for the foreseeable future, which could include reductions in revenue and delays in payments from customers and partners. However, we are continuing to monitor the situation and are reviewing our preparedness plans should we begin to experience material impacts.
+
+Impact of the COVID-19 Pandemic on our Results
+
+To provide a flexible solution to help our customers manage through this period, in the first quarter of 2020, we created a short-term on-premises term subscription license at discounted prices. This limited-use license program was intended to help our customers manage through the shock to the system created by the pandemic. We phased out this short-term license program at the end of April 2020. The contribution from this limited-use license program was not material for the remaining three quarters of 2020.
+
+Impact of the COVID-19 Pandemic on our Outlook and Liquidity
+
+With respect to 2021, the broader toll the COVID-19 pandemic may take on the global economy and the slope of the economic recovery is unknown. We believe that our solutions and our business model are resilient. Longer term, we believe this global health crisis will cause companies and their employees to change the way they think about remote work. We expect business continuity and risk mitigation to rise as areas of importance in boardroom discussions and on IT priority lists. We believe a greater number of employees will expect to continue to be able to work remotely, at least some of the time, even as social distancing restrictions abate.
+
+Cash from operations, accounts receivable and revenues could also be affected by various risks and uncertainties, including, but not limited to, the effects of the COVID-19 pandemic and other risks detailed in Part I, Item 1A titled “Risk Factors” of this Annual Report on Form 10-K. However, based on our current revenue outlook, we believe that existing cash balances, together with funds generated from operations and amounts available under our revolving credit facility, will be sufficient to finance our operations and meet our foreseeable cash requirements through at least the next twelve months. We have availed ourselves of certain tax deferrals allowed pursuant to the Coronavirus Aid, Relief & Economic Security ("CARES") Act in the United States and certain tax deferrals in Switzerland, and may continue to do so in the future. We are evaluating the impact of global COVID-19-related laws and proposed laws, and while there is an impact on the timing of cash flow, no material impact to our financial results is expected as a result of legislation enacted to date. In addition, while the pandemic has not materially impacted our liquidity and capital resources to date, it has led to increased disruption and volatility in capital markets and credit markets which could adversely affect our liquidity and capital resources in the future.
+
+35
+
+Other Impacts of the COVID-19 Pandemic
+
+In March 2020, we directed our global workforce to work from home and severely limited all international and domestic travel. We have extended our paid time-off and sick leave benefits for employees directly impacted by the COVID-19 pandemic or caring for children or a member of their household impacted by the COVID-19 pandemic. We provided $1,000 per employee below the Vice President level to cover expenses related to transitioning to a work from home environment, helping support local restaurants and small businesses or charities, or lessening any other potential hardship. We also offer local employee assistance program resources if needed. Certain of our offices have re-opened and we continue to monitor developments at the local level and follow mandates as required by law. For offices that have re-opened, we have implemented new protocols to ensure the safety of our employees, including face coverings, temperature checks, social distancing and capacity limits.
+
+In response to the COVID-19 pandemic, we held our largest customer and partner event, Synergy, as a series of virtual events, and we may deem it advisable to similarly alter, postpone or cancel additional customer, employee or industry events in the future.
+
+We have also increased funding for corporate citizenship directed donations and created a relief recovery fund for the COVID-19 pandemic, doubled our charitable match for employee donations, continued to pay vendors no longer providing on-site services, and set up virtual volunteering opportunities. 
+
+Summary of Results
+
+For the year ended December 31, 2020 compared to the year ended December 31, 2019, we delivered the following financial performance:
+
+•Subscription revenue increased 71.3% to $1.11 billion; 
+
+•SaaS revenue increased 38.4% to $540.8 million;
+
+•Product and license revenue decreased 23.8% to $444.4 million;
+
+•Support and services revenue decreased 5.6% to $1.68 billion;
+
+•Gross margin as a percentage of revenue remained consistent at 84.6%;
+
+•Operating income increased 13.6% to $608.8 million; 
+
+•Diluted net income per share decreased from $5.03 to $4.00;
+
+•Deferred and unbilled revenue increased $438.0 million to $2.94 billion;
+
+•Subscription ARR increased $461.6 million to $1.20 billion;
+
+•SaaS ARR increased $204.9 million to $724.6 million; and
+
+•Operating cash flows increased $152.7 million to $935.8 million.
+
+Our Subscription revenue increased primarily due to an increase in on-premise license demand from our Workspace offerings and our App Delivery and Security offerings, mostly from pooled capacity. Also contributing to the increase is continued customer adoption of our solutions delivered via the cloud, mostly from our Workspace offerings. Our Product and license revenue decreased primarily due to lower sales of our perpetual App Delivery and Security products and Workspace solutions as customers continue to shift to our subscription offerings. The decrease in Support and services revenue was primarily due to decreased sales of maintenance services across our perpetual App Delivery and Security and Workspace offerings, as more of the revenue is reported in the Subscription revenue line commensurate with our subscription model transition. We currently expect total revenue to decrease when comparing the first quarter of 2021 to the first quarter of 2020, as the first quarter of 2020 included revenue directly attributable to business continuity needs as a result of the COVID-19 pandemic. When comparing the 2021 fiscal year to the 2020 fiscal year, we currently expect total revenue to increase. Gross margin as a percentage of revenue remained consistent. The increase in operating income was primarily due to an increase in gross margin, partially offset by higher operating expenses. The decrease in diluted net income per share was primarily due to an increase in income tax expense as a result of a benefit related to Swiss tax reform in 2019, partially offset by a decrease in the number of weighted average shares outstanding due to share repurchases and an increase in operating income. Both Subscription and SaaS ARR increased due to an increase in subscription sales.
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities. We base these estimates on our historical 
+
+36
+
+experience and on various other assumptions that we believe to be reasonable under the circumstances, and these estimates form the basis for our judgments concerning the carrying values of assets and liabilities that are not readily apparent from other sources. We periodically evaluate these estimates and judgments based on available information and experience. Actual results could differ from our estimates under different assumptions and conditions. If actual results significantly differ from our estimates, our financial condition and results of operations could be materially impacted. 
+
+We believe that the accounting policies described below are critical to understanding our business, results of operations and financial condition because they involve more significant judgments and estimates used in the preparation of our consolidated financial statements. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact our consolidated financial statements. We have discussed the development, selection and application of our critical accounting policies with the Audit Committee of our Board of Directors and our independent auditors, and our Audit Committee has reviewed our disclosure relating to our critical accounting policies and estimates in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 describes the significant accounting policies and methods used in the preparation of our consolidated financial statements. 
+
+Revenue Recognition
+
+We generate all of our revenues from contracts with customers. At contract inception, we assess the solutions or services, or bundles of solutions and services, obligated in the contract with a customer to identify each performance obligation within the contract, and then evaluate whether the performance obligations are capable of being distinct and distinct within the context of the contract. Solutions and services that are not both capable of being distinct and distinct within the context of the contract are combined and treated as a single performance obligation in determining the allocation and recognition of revenue. 
+
+The standalone selling price is the price at which we would sell a promised product or service separately to the customer. For the majority of our software licenses and hardware, CSP and on-premise subscription software licenses, we use the observable price in transactions with multiple performance obligations. For the majority of our support and services, and cloud-hosted subscription offerings, we use the observable price when we sell that support and service and cloud-hosted subscription separately to similar customers. If the standalone selling price for a performance obligation is not directly observable, we estimate it. We estimate the standalone selling price by taking into consideration market conditions, economics of the offering and customers’ behavior. We maximize the use of observable inputs and apply estimation methods consistently in similar circumstances. We allocate the transaction price to each distinct performance obligation on a relative standalone selling price basis.
+
+Revenues are recognized when control of the promised products or services are transferred to customers, in an amount that reflects the consideration that we expect to receive in exchange for those products or services. See Note 2 and Note 3 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for further information on our revenue recognition.
+
+Valuation and Classification of Investments
+
+The authoritative guidance defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (an exit price). Our available-for-sale debt investments are measured to fair value on a recurring basis. In addition, we hold direct investments in privately-held companies which are accounted for at cost, less impairment plus or minus adjustments resulting from observable price changes in orderly transactions for an identical or a similar investment of the same issuer. These investments are periodically reviewed for impairment and when indicators of impairment exist, are measured to fair value as appropriate on a non-recurring basis. We also hold equity interests in certain private equity funds which are accounted for under the net asset value practical expedient. The net asset value of these investments is determined using quarterly capital statements from the funds which are based on our contributions to the funds, allocation of profit and loss and changes in fair value of the underlying fund investments. In determining the fair value of our investments, we are sometimes required to use various alternative valuation techniques. The authoritative guidance establishes a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available.
+
+The authoritative guidance establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value as follows: Level 1, observable inputs such as quoted prices in active markets for identical assets or liabilities, Level 2, 
+
+37
+
+inputs, other than quoted prices in active markets, that are observable either directly or indirectly, and Level 3, unobservable inputs in which there is little or no market data, which requires us to develop our own assumptions. Observable inputs are those that market participants would use in pricing the asset or liability that are based on market data obtained from independent sources, such as market quoted prices. When Level 1 observable inputs for our investments are not available to determine their fair value, we must then use other inputs which may include indicative pricing for securities from the same issuer with similar terms, yield curve information, benchmark data, prepayment speeds and credit quality or unobservable inputs that reflect our estimates of the assumptions market participants would use in pricing the investments based on the best information available in the circumstances. When valuation techniques, other than those described as Level 1 are utilized, management must make estimations and judgments in determining the fair value for its investments. The degree to which management’s estimation and judgment is required is generally dependent upon the market pricing available for the investments, the availability of observable inputs, the frequency of trading in the investments and the investment’s complexity. If we make different judgments regarding unobservable inputs, we could potentially reach different conclusions regarding the fair value of our investments. 
+
+Effective January 1, 2020, we adopted the new credit losses standard which changed the impairment model for available-for-sale debt securities, eliminating the concept of other than temporary impairment and requiring credit losses to be recorded through an allowance for credit losses. The allowance for credit losses on our investments in available-for-sale debt securities is determined using a quantitative discounted cash flow analysis if impairment triggers exist after a qualitative screen is completed. Impairment on available-for-sale debt securities is determined on an individual security basis and the security is subject to impairment when its fair value declines below its amortized cost basis. If the fair value is less than the amortized cost basis, management must then determine whether it intends to sell the security or whether it is more likely than not that it will be required to sell the security before it recovers its value. If we intend to sell the security or will more-likely-than-not be required to sell the impaired security before it recovers its value, a credit loss is recorded to Other income (expense), net in the accompanying consolidated statements of income. If we do not intend to sell the security, nor will we more-likely-than-not be required to sell the security before the security recovers its value, we must then determine whether the loss is due to credit loss or other factors. For impairment indicators due to credit loss factors, we establish an allowance for credit losses with a charge to Other income (expense), net. For impairment indicators due to other factors, we record the loss with a charge to Other comprehensive income in the accompanying consolidated balance sheets. See Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for additional information on the new credit losses standard.
+
+For our investments in privately-held companies accounted for at cost, less impairment plus or minus adjustments resulting from observable price changes in orderly transactions for an identical or a similar investment of the same issuer, we periodically review for impairment and observable price changes on a quarterly basis, and adjust the carrying value accordingly. See Notes 4, 5 and 6 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for more information on our investments.
+
+Intangible Assets
+
+We have product related technology assets and other intangible assets from acquisitions and other third party agreements. We allocate the purchase price of intangible assets acquired through third party agreements based on their estimated relative fair values. We allocate a portion of the purchase price of acquired companies to the product related technology assets and other intangible assets acquired based on their estimated fair values. We typically engage third party appraisal firms to assist us in determining the fair values and useful lives of product related technology assets and other intangible assets acquired. Such valuations and useful life determinations require us to make significant estimates and assumptions. These estimates are based on historical experience and information obtained from the management of the acquired companies and are inherently uncertain. Critical estimates in determining the fair value and useful lives of the product related technology assets include, but are not limited to, future expected cash flows earned from the product related technology and discount rates applied in determining the present value of those cash flows. Critical estimates in valuing certain other intangible assets include, but are not limited to, future expected cash flows from customer contracts, customer retention rates, customer lists, distribution agreements, patents, brand awareness and market position, as well as discount rates. 
+
+Management's estimates of fair value are based upon assumptions believed to be reasonable. Unanticipated events and circumstances may occur which may affect the accuracy or validity of such assumptions, estimates or actual results. 
+
+We monitor acquired intangible assets for impairment on a periodic basis by reviewing for indicators of impairment. If an indicator exists, we compare the estimated net realizable value to the carrying value of the intangible asset as of the reporting period. The recoverability of the intangible assets is primarily dependent upon our ability to commercialize solutions utilizing the acquired technologies, retain existing customers and customer contracts, and maintain brand awareness. The estimated net realizable value of the acquired intangible assets is based on the estimated undiscounted future cash flows derived from such intangible assets. Our assumptions about future revenues and expenses require significant judgment associated with the forecast 
+
+38
+
+of the performance of our solutions, customer retention rates and ability to secure and maintain our market position. Actual revenues and costs could vary significantly from these forecasted amounts. If these solutions are not ultimately accepted by our customers and distributors, and there is no alternative future use for the technology; or if we fail to retain acquired customers or successfully market acquired brands, we could determine that some or all of the remaining $81.5 million carrying value of our acquired intangible assets is impaired. In the event of impairment, we would record an impairment charge to earnings that could have a material adverse effect on our results of operations.
+
+Goodwill
+
+The excess of the fair value of the purchase price over the fair values of the identifiable assets and liabilities from our acquisitions is recorded as goodwill. At December 31, 2020, we had $1.80 billion in goodwill related to our acquisitions under one reportable unit. Our revenues are derived from sales of our Workspace solutions and App Delivery and Security products, and related support. See Note 12 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for additional information regarding our reportable segment. 
+
+We account for goodwill in accordance with the Financial Accounting Standards Board's authoritative guidance, which requires that goodwill and certain intangible assets are not amortized, but are subject to an annual impairment test. We complete our goodwill and certain intangible assets impairment tests on an annual basis, during the fourth quarter of our fiscal year, or more frequently, if changes in facts and circumstances indicate that an impairment in the value of goodwill and certain intangible assets recorded on our balance sheet may exist. 
+
+In the fourth quarter of 2020, we performed a qualitative assessment to determine whether further quantitative impairment testing for goodwill and certain intangible assets is necessary, and we refer to this assessment as the Qualitative Screen. In performing the Qualitative Screen, we are required to make assumptions and judgments including but not limited to the following: the evaluation of macroeconomic conditions as related to our business, industry and market trends, and the overall future financial performance of our reporting unit and future opportunities in the markets in which it operates. If after performing the Qualitative Screen impairment indicators are present, we would perform a quantitative impairment test to estimate the fair value of goodwill and certain intangible assets. In doing so, we would estimate future revenue, consider market factors and estimate our future cash flows. Based on these key assumptions, judgments and estimates, we determine whether we need to record an impairment charge to reduce the value of the goodwill and certain intangible assets carried on our balance sheet to their estimated fair value. Assumptions, judgments and estimates about future values are complex and often subjective and can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy or our internal forecasts. Although we believe the assumptions, judgments and estimates we have made have been reasonable and appropriate, different assumptions, judgments and estimates could materially affect our results of operations. As a result of the Qualitative Screen, no further quantitative impairment test was deemed necessary. There was no impairment of goodwill as a result of the annual impairment tests completed during the fourth quarters of 2020 and 2019. 
+
+Income Taxes 
+
+We are required to estimate our income taxes in each of the jurisdictions in which we operate as part of the process of preparing our consolidated financial statements. At December 31, 2020, we had $383.3 million in net deferred tax assets. The authoritative guidance requires a valuation allowance to reduce the deferred tax assets reported if, based on the weight of the evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized. We review deferred tax assets periodically for recoverability and make estimates and judgments regarding the expected geographic sources of taxable income and gains from investments, as well as tax planning strategies in assessing the need for a valuation allowance. At December 31, 2020, we determined that a $151.8 million valuation allowance relating to deferred tax assets for net operating losses and tax credits was necessary. If the estimates and assumptions used in our determination change in the future, we could be required to revise our estimates of the valuation allowances against our deferred tax assets and adjust our provisions for additional income taxes.
+
+In the ordinary course of global business, there are transactions for which the ultimate tax outcome is uncertain; thus judgment is required in determining the worldwide provision for income taxes. We provide for income taxes on transactions based on our estimate of the probable liability. We adjust our provision as appropriate for changes that impact our underlying judgments. Changes that impact provision estimates include such items as jurisdictional interpretations on tax filing positions based on the results of tax audits and general tax authority rulings. Due to the evolving nature of tax rules combined with the large number of jurisdictions in which we operate, it is possible that our estimates of our tax liability and the realizability of our deferred tax assets could change in the future, which may result in additional tax liabilities and adversely affect our results of operations, financial condition or cash flows.
+
+39
+
+Results of Operations
+
+In this section, we discuss the results of our operations for the year ended December 31, 2020 compared to the year ended December 31, 2019. For a discussion of the year ended December 31, 2019 compared to the year ended December 31, 2018, please refer to Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the year ended December 31, 2019 which was filed with the SEC on February 14, 2020.
+
+The following table sets forth our consolidated statements of income data and presentation of that data as a percentage of change from year-to-year (in thousands other than percentages):
+
+[DATA_TABLE_REMOVED]
+
+* Not meaningful
+
+Revenues
+
+Net revenues include Subscription, Product and license and Support and services revenues. 
+
+Subscription revenue relates to fees for SaaS, which are generally recognized ratably over the contractual term, and non-SaaS, which are generally recognized at a point in time. SaaS primarily consists of subscriptions delivered via a cloud-hosted service whereby the customer does not take possession of the software, hybrid subscription offerings and the related support. Non-SaaS consists primarily of on-premise licensing, hybrid subscription offerings, CSP services and the related support. Our hybrid subscription offerings are allocated between SaaS and non-SaaS. In addition, our CSP program provides subscription-based services in which the CSP partners host software services to their end users. The fees from the CSP program are recognized based on usage and as the CSP services are provided to their end users.
+
+40
+
+Product and license revenue primarily represents fees related to the perpetual licensing of the following major solutions:
+
+•Workspace is primarily comprised of our Application Virtualization solutions, which include Citrix Virtual Apps and Desktops, our unified endpoint management solutions, which include Citrix Endpoint Management, Citrix Content Collaboration, and Citrix Workspace; and
+
+•App Delivery and Security products, which primarily include Citrix ADC and Citrix SD-WAN.
+
+We offer incentive programs to our VADs and VARs to stimulate demand for our solutions. Product and license and Subscription revenues associated with these programs are partially offset by these incentives to our VADs and VARs. 
+
+Support and services revenue consists of maintenance and support fees primarily related to our perpetual offerings and include the following:
+
+•Customer Success Services, which gives customers a choice of tiered support offerings that combine the elements of technical support, product version upgrades, guidance, enablement and proactive monitoring to help our customers and our partners fully realize their business goals. Fees associated with this offering are recognized ratably over the term of the contract; and
+
+•Hardware Maintenance fees for our perpetual App Delivery and Security products, which include technical support and hardware and software maintenance, are recognized ratably over the contract term; and
+
+•Fees from consulting services related to the implementation of our solutions, which are recognized as the services are provided; and 
+
+•Fees from product training and certification, which are recognized as the services are provided.
+
+[DATA_TABLE_REMOVED]
+
+Subscription
+
+Subscription revenue increased during 2020 compared to 2019 primarily due to an increase in on-premise license demand of $314.0 million, mostly from Workspace offerings of $191.7 million and our App Delivery and Security offerings of $122.3 million, mainly from pooled capacity. Also contributing to the increase is continued customer cloud adoption of our solutions delivered via the cloud of $150.0 million, primarily from Workspace offerings. We currently expect our Subscription revenue to increase when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020 due to our continued transition to a subscription-based business model.
+
+Product and license
+
+Product and license revenue decreased during 2020 when compared to 2019 primarily due to a decrease in sales of our perpetual App Delivery and Security products of $110.5 million and a decrease in sales of our perpetual Workspace solutions of $28.5 million as customers continue to shift to our subscription offerings. We currently expect Product and license revenue to decrease when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020 as customers continue to shift to our subscription offerings and away from our App Delivery and Security hardware products, as well as our decision to discontinue offering new perpetual licenses for Citrix Workspace beginning on October 1, 2020. 
+
+41
+
+Support and services
+
+Support and services revenue decreased when comparing 2020 to 2019 primarily due to a decrease in sales of maintenance services across our App Delivery and Security perpetual offerings of $40.2 million and Workspace perpetual offerings of $39.1 million, as more of the revenue is reported in the Subscription revenue line commensurate with our subscription model transition. We currently expect Support and services revenue to decrease when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020 as customers continue to shift to our subscription offerings. 
+
+Deferred Revenue, Unbilled Revenue and Backlog
+
+Deferred revenue is primarily comprised of Support and services revenue from maintenance fees, which include software and hardware maintenance, technical support related to our perpetual offerings and services revenue related to our consulting contracts. Deferred revenue also includes Subscription revenue from our Content Collaboration and cloud-based subscription offerings, as well as on-premise subscription offerings.
+
+Deferred revenue consists of billings or payments received in advance of revenue recognition and is recognized in our consolidated balance sheets and statements of income as the revenue recognition criteria are met. Unbilled revenue primarily represents future billings under our subscription agreements that have not been invoiced and, accordingly, are not recorded in accounts receivable or deferred revenue within our consolidated financial statements. Deferred revenue and unbilled revenue are influenced by several factors, including new business seasonality within the year, the specific timing, size and duration of customer subscription agreements, annual billing cycles of subscription agreements, and invoice timing. Fluctuations in unbilled revenue may not be a reliable indicator of future performance and the related revenue associated with these contractual commitments.
+
+The following table presents the amounts of deferred and unbilled revenue (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+Deferred revenues increased approximately $106.8 million as of December 31, 2020 compared to December 31, 2019 primarily due to an increase from subscription of $223.5 million, mostly from our cloud-based subscription offerings of $127.6 million and on-premise subscription license updates and maintenance of $125.3 million. These increases are partially offset by a decrease in maintenance and support of $117.6 million, mostly from Workspace perpetual software maintenance of $63.1 million and App Delivery and Security perpetual hardware maintenance of $49.7 million. Unbilled revenue as of December 31, 2020 increased $331.2 million from December 31, 2019 primarily due to increased customer adoption of multi-year subscription agreements. 
+
+While it is generally our practice to promptly ship our products upon receipt of properly finalized orders, at any given time, we have confirmed product license orders that have not shipped and are wholly unfulfilled. Backlog includes the aggregate amounts we expect to recognize as point in time revenue in the following quarter associated with contractually committed amounts for on-premise subscription software licenses, as well as confirmed product license orders that have not shipped and are wholly unfulfilled. As of December 31, 2020 and 2019, the amount of backlog was not material. We do not believe that backlog, as of any particular date, is a reliable indicator of future performance.
+
+International Revenues
+
+International revenues (sales outside the United States) accounted for 50.5% and 48.2% of our net revenues for the years ended December 31, 2020 and 2019, respectively. The change in our international revenues as a percentage of our net revenues for the year ended December 31, 2020 as compared to the year ended December 31, 2019 was primarily due to higher revenues in our EMEA region, mainly from Subscription. For detailed information on international revenues, please refer to Note 12 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020.
+
+42
+
+Cost of Net Revenues
+
+[DATA_TABLE_REMOVED]
+
+Cost of subscription, support and services revenues consists primarily of compensation and other personnel-related costs of providing technical support, consulting and cloud capacity costs, as well as the costs related to providing our offerings delivered via the cloud and hardware costs related to certain on-premise subscription offerings. Cost of product and license revenues consists primarily of hardware, shipping expense, royalties, product media and duplication, manuals and packaging materials. Also included in cost of net revenues is amortization and impairment of product related intangible assets.
+
+Cost of subscription, support and services revenues increased during 2020 when compared to 2019 primarily due to an increase in costs related to providing our subscription offerings. We currently expect cost of subscription, support and services revenues to increase when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020, consistent with the expected increases in Subscription revenue as discussed above.
+
+Cost of product and license revenues decreased during 2020 when compared to 2019 primarily due to lower overall sales of our perpetual App Delivery and Security products, which contain hardware components that have a higher cost than our software products. We currently expect cost of product and license revenues to decrease when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020, consistent with the expected decrease in product and license revenue.
+
+Amortization and impairment of product related intangible assets decreased during 2020 as compared to 2019 primarily due to the impairments of certain acquired intangible assets, primarily developed technology, in 2019. 
+
+Gross Margin
+
+Gross margin as a percent of revenue was 84.6% for 2020 and 2019. Gross margin as a percent of revenue remained consistent during 2020 as compared to 2019. 
+
+Operating Expenses
+
+Foreign Currency Impact on Operating Expenses
+
+The functional currency for all of our wholly-owned foreign subsidiaries is the U.S. dollar. A substantial majority of our overseas operating expenses and capital purchasing activities are transacted in local currencies and are therefore subject to fluctuations in foreign currency exchange rates. In order to minimize the impact on our operating results, we generally initiate our hedging of currency exchange risks up to 12 months in advance of anticipated foreign currency expenses. Generally, when the dollar is weak, foreign currency denominated expenses will be higher, and these higher expenses will be partially offset by the gains realized from our hedging contracts. Conversely, if the dollar is strong, foreign currency denominated expenses will be lower. These lower expenses will in turn be partially offset by the losses incurred from our hedging contracts. There is a risk that there will be fluctuations in foreign currency exchange rates beyond the time frame for which we hedge our risk.
+
+Research and Development Expenses 
+
+[DATA_TABLE_REMOVED]
+
+Research and development expenses consist primarily of personnel related costs and facility and equipment costs directly related to our research and development activities. We expensed substantially all development costs included in the research and development of our products. 
+
+43
+
+Research and development expenses increased during 2020 as compared to 2019 primarily due to compensation and other employee-related costs of $12.2 million due to a net increase in headcount, and an increase in professional fees of $4.5 million. 
+
+Sales, Marketing and Services Expenses
+
+[DATA_TABLE_REMOVED]
+
+Sales, marketing and services expenses consist primarily of personnel related costs, including sales commissions, pre-sales support, the costs of marketing programs aimed at increasing revenue, such as brand development, advertising, trade shows, public relations and other market development programs and costs related to our facilities, equipment, information systems and pre-sale demonstration related cloud capacity costs that are directly related to our sales, marketing and services activities.
+
+Sales, marketing and services expenses increased during 2020 compared to 2019 primarily due to the impact from the COVID-19 pandemic, which included an increase in variable compensation of $80.0 million driven by an increase in demand of limited use licenses and ongoing business continuity sales, and an increase in marketing programs of $23.1 million due to our new brand launch. These increases were partially offset by a decrease in costs of $12.6 million related to the cancellation of in-person events in response to the COVID-19 pandemic, including our largest customer and partner event, Synergy, and replacing them with virtual events or postponing to future periods.
+
+General and Administrative Expenses
+
+[DATA_TABLE_REMOVED]
+
+General and administrative expenses consist primarily of personnel related costs and expenses related to outside consultants assisting with information systems, as well as accounting and legal fees.
+
+General and administrative expenses increased during 2020 compared to 2019 primarily due to increases in compensation and other employee-related costs of $18.2 million related to a net increase in headcount, stock-based compensation of $15.8 million, and credit loss expense of $8.5 million. These increases were partially offset by a decrease in professional fees of $7.2 million.
+
+Amortization of Other Intangible Assets
+
+[DATA_TABLE_REMOVED]
+
+Amortization of other intangible assets consists of amortization of customer relationships, trade names and covenants not to compete primarily related to our acquisitions.
+
+The decrease in Amortization of other intangible assets when comparing 2020 to 2019 was primarily due to certain intangible assets becoming fully amortized in 2019.
+
+For more information regarding our intangible assets, see Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+44
+
+Restructuring Expenses
+
+[DATA_TABLE_REMOVED]
+
+Restructuring expenses decreased during 2020 compared to 2019, primarily due to a net decrease in employee severance and related costs of $16.5 million, as well as the consolidation of certain leased facilities of $2.7 million during 2019, partially offset by the impairment of a right-of-use asset related to a restructuring facility of $8.9 million as a result of the COVID-19 pandemic during the year ended December 31, 2020.
+
+For more information regarding our restructuring, see Note 17 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+2021 Operating Expense Outlook
+
+When comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020, we currently expect operating expenses to slightly increase.
+
+Interest income
+
+[DATA_TABLE_REMOVED]
+
+Interest income primarily consists of interest earned on our cash, cash equivalents and investment balances. Interest income decreased during 2020 compared to 2019 primarily due to lower average balances of cash, cash equivalents and investments as a result of the repayment of the outstanding principal balance of our 0.500% Convertible Notes due 2019 (the “Convertible Notes”) on April 15, 2019, as well as lower yields on investments, due to lower interest rates. For more information regarding our investments, see Note 5 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020.
+
+Interest Expense
+
+[DATA_TABLE_REMOVED]
+
+Interest expense primarily consists of interest paid on our 2027 and 2030 Notes, Term Loan Credit Agreement and our credit facility. When comparing 2020 and 2019, the increase is primarily due to interest expense from our outstanding 2030 Notes and Term Loan Credit Agreement of $29.5 million, partially offset by a decrease in interest expense from our Convertible Notes of $10.8 million due to the repayment of the outstanding principal balance on April 15, 2019. We currently expect interest expense to increase when comparing the first quarter of 2021 to the first quarter of 2020 and the fiscal year 2021 to the fiscal year 2020, in anticipation of financing related to the proposed acquisition of Wrike. 
+
+For more information regarding our debt and proposed acquisition, see Note 13 and Note 19, respectively, to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020.
+
+Other income (expense), net
+
+[DATA_TABLE_REMOVED]
+
+45
+
+Other income (expense), net is primarily comprised of gains (losses) from remeasurement of foreign currency transactions, sublease income, realized losses related to changes in the fair value of our investments that have a decline in fair value and recognized gains (losses) related to our investments, which was not material for all periods presented.
+
+The change in Other income (expense), net when comparing 2020 to 2019 is primarily driven by the remeasurement and settlement of foreign currency transactions.
+
+Income Taxes
+
+We are required to estimate our income taxes in each of the jurisdictions in which we operate as part of the process of preparing our consolidated financial statements. We maintain certain strategic management and operational activities in overseas subsidiaries and our foreign earnings are taxed at rates that are generally lower than in the United States.
+
+Our effective tax rate generally differs from the U.S. federal statutory rate primarily due to tax credits and lower tax rates on earnings generated by our foreign operations that are taxed primarily in Switzerland.
+
+Our effective tax rate was approximately 9.1% for the year ended December 31, 2020 and (33.8)% for the year ended December 31, 2019. The increase in the effective tax rate when comparing the year ended December 31, 2020 to the year ended December 31, 2019 was primarily due to tax items unique to the year ended December 31, 2019. The 2019 unique tax items include tax benefits of $112.1 million and $99.9 million attributable to the cantonal and federal impact of the Swiss Federal Act on Tax Reform and AHV Financing ("TRAF"), respectively.
+
+We are subject to tax in the U.S. and in multiple foreign tax jurisdictions. Our U.S. liquidity needs are currently satisfied using cash flows generated from our U.S. operations, borrowings, or both. We also utilize a variety of tax planning strategies in an effort to ensure that our worldwide cash is available in locations in which it is needed. We expect to repatriate a substantial portion of our foreign earnings over time, to the extent that the foreign earnings are not restricted by local laws or result in significant incremental costs associated with repatriating the foreign earnings. See Note 11 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for income tax information.
+
+Liquidity and Capital Resources
+
+During 2020, we generated operating cash flows of $935.8 million. These operating cash flows related primarily to net income of $504.4 million, adjusted for, among other things, non-cash charges, including stock-based compensation expense of $307.7 million and depreciation and amortization expenses of $207.9 million. Partially offsetting these changes was a change in operating assets and liabilities of $88.7 million, net of effects of acquisitions. The change in our net operating assets and liabilities was primarily a result of an outflow in accounts receivable of $151.8 million mostly due to an increase in sales, an outflow in other assets of $119.8 million mostly due to an increase in capitalized commissions from higher subscription sales and an outflow in income taxes, net of $51.5 million. These outflows were partially offset by an inflow in accrued expenses of $161.5 million, primarily due to increases in employee-related accruals and an inflow in deferred revenue of $106.8 million. Our investing activities used $138.3 million of cash consisting primarily of net purchases of investments of $88.3 million and cash paid for the purchase of property and equipment of $41.4 million. Our financing activities used cash of $595.2 million, primarily for stock repurchases of $1.29 billion, cash dividends paid on common stock of $172.0 million and cash paid for tax withholding on vested stock awards of $121.7 million. These outflows are partially offset by net proceeds from the issuance of our 2030 Notes of $738.1 million and net borrowings from our Term Loan Credit Agreement of $248.8 million.
+
+During 2019, we generated operating cash flows of $783.1 million. These operating cash flows related primarily to net income of $681.8 million, adjusted for, among other things, non-cash charges, including stock-based compensation expense of $278.9 million, depreciation and amortization expenses of $139.3 million and amortization of operating lease right-of-use assets of $50.2 million. Partially offsetting these changes was a deferred income tax benefit of $244.9 million and a change in operating assets and liabilities of $190.5 million, net of effects of acquisitions. The change in our net operating assets and liabilities was primarily a result of an outflow in other assets of $74.2 million mostly due to an increase in capitalized commissions from higher subscription sales, an outflow in accounts receivable of $39.0 million mostly due to an increase in sales and changes in deferred revenue of $38.8 million. Our investing activities provided $1.04 billion of cash consisting primarily of net proceeds from investments of $1.10 billion, partially offset by cash paid for the purchase of property and equipment of $63.5 million. Our financing activities used cash of $1.89 billion, primarily for the cash repayment of the outstanding principal balance of our Convertible Notes of $1.16 billion, stock repurchases of $453.9 million, repayment of borrowings under our credit facility of $200.0 million, cash dividends paid on common stock of $182.9 million and cash paid for tax withholding on vested stock awards of $89.2 million. These outflows are partially offset by borrowings from our credit facility of $200.0 million.
+
+46
+
+Term Loan Credit Agreement
+
+On January 21, 2020, we entered into a $1.00 billion Term Loan Credit Agreement, consisting of a $500.0 million 364-day term loan facility (the “364-day Term Loan”), and a $500.0 million 3-year term loan facility (the “3-year Term Loan”). During the year ended December 31, 2020, we used borrowings from the Term Loan Credit Agreement to enter into an aggregate $1.00 billion accelerated share repurchase transaction.
+
+Senior Notes
+
+On February 25, 2020, we issued $750.0 million of unsecured senior notes due March 1, 2030, or the 2030 Notes. The 2030 Notes accrue interest at a rate of 3.300% per annum, which is due semi-annually on March 1 and September 1 of each year, beginning on September 1, 2020. The net proceeds from this offering were $738.1 million.
+
+During the year ended December 31, 2020, we used the net proceeds from the 2030 Notes and cash to repay $500.0 million under the 364-day Term Loan and $250.0 million under the 3-year Term Loan. As of December 31, 2020, $250.0 million was outstanding under the 3-year Term Loan.
+
+On November 15, 2017, we issued $750.0 million of unsecured senior notes due December 1, 2027, or the 2027 Notes. The 2027 Notes accrue interest at a rate of 4.500% per annum, which is due semi-annually on June 1 and December 1 of each year.
+
+Credit Facility
+
+On November 26, 2019, we entered into a $250.0 million five-year unsecured revolving credit facility under an amended and restated credit agreement, or the Credit Agreement. We may elect to increase the revolving credit facility by up to $250.0 million if existing or new lenders provide additional revolving commitments in accordance with the terms of the Credit Agreement. As of December 31, 2020, no amounts were outstanding under the credit facility.
+
+Bridge Facility, Take-Out Facility Commitment Letter and 2021 Credit Facility
+
+On January 16, 2021, we entered into a bridge facility and take-out facility commitment letter (the “Commitment Letter”) pursuant to which JPMorgan Chase Bank, N.A., has (1) committed to provide a senior unsecured 364-day term loan facility in an aggregate principal amount of $1.45 billion to finance the cash consideration for our pending acquisition of Wrike in the event that permanent debt financing is not available on or prior to the closing and (2) agreed to use commercially reasonably efforts to assemble a syndicate of lenders to provide the necessary commitments for the senior term loan facility. We currently expect to replace the bridge facility prior to the closing of the acquisition with permanent financing, which may include the issuance of debt securities and/or one or more senior term loan facilities, including the 2021 Term Loan Credit Agreement as described below; however, such permanent financing may not be available in the timeframe expected or on favorable terms. The commitment is subject to customary terms and conditions precedent for such borrowing as set forth in the Commitment Letter, including, among others, the execution and delivery of definitive documentation consistent with the Commitment Letter. 
+
+On February 5, 2021 (the “Closing Date”), we entered into the 2021 Term Loan Credit Agreement with JPMorgan Chase Bank, N.A., as administrative agent, and the other lenders party thereto from time to time (collectively, the “2021 Lenders”). The 2021 Term Loan Credit Agreement provides us with a facility to borrow a term loan on an unsecured basis in an aggregate principal amount of up to $1.00 billion. The 2021 Term Loan is available to be made by the 2021 Lenders from the Closing Date through July 8, 2021, in a single borrowing, subject to satisfaction of certain conditions set forth in the 2021 Term Loan Credit Agreement. The 2021 Term Loan matures on the date that is three years after the 2021 Term Loan is drawn. The proceeds of borrowings under the 2021 Term Loan Credit Agreement will be used to finance a portion of the purchase price to be paid in connection with the acquisition of Wrike.
+
+See Notes 9, 13 and 19 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for additional details on the accelerated share repurchase, debt agreements, the Commitment Letter and the 2021 Term Loan Credit Agreement, respectively.
+
+Historically, significant portions of our cash inflows were generated by our operations. We currently expect this trend to continue in 2021. We believe that our existing cash and investments together with cash flows expected from operations will be sufficient to meet expected operating and capital expenditure requirements and service our debt obligations for the next 12 months. For additional information, see section titled Impact of COVID-19 Pandemic above. We continue to search for suitable acquisition candidates and could acquire or make investments in companies we believe are related to our strategic objectives. We could from time to time continue to seek to raise additional funds through the issuance of debt or equity securities for larger acquisitions and for general corporate purposes.
+
+47
+
+Cash, Cash Equivalents and Investments
+
+[DATA_TABLE_REMOVED]
+
+The increase in cash, cash equivalents and investments at December 31, 2020 as compared to December 31, 2019, is primarily due to cash received from debt offerings, net of repayments of $987.0 million and cash provided from operating activities of $935.8 million, partially offset by the cash paid for stock repurchases of $1.29 billion, cash dividends paid on common stock of $172.0 million, cash paid for tax withholding on vested stock awards of $121.7 million and purchases of property and equipment of $41.4 million. As of December 31, 2020, $350.7 million of the $891.4 million of cash, cash equivalents and investments was held by our foreign subsidiaries. Under current U.S. federal tax law, the cash, cash equivalents and investments held by our foreign subsidiaries can be repatriated without incurring any additional U.S. federal tax. Upon repatriation of these funds, we could be subject to foreign and U.S. state income taxes, as well as additional foreign withholding taxes. The amount of taxes due is dependent on the amount and manner of the repatriation, as well as the locations from which the funds are repatriated and received. We generally invest our cash and cash equivalents in investment grade, highly liquid securities to allow for flexibility in the event of immediate cash needs. Our short-term and long-term investments primarily consist of interest-bearing securities.
+
+Stock Repurchase Program
+
+Our Board of Directors authorized an ongoing stock repurchase program, of which $1.00 billion was approved in January 2020. We may use the approved dollar authority to repurchase stock at any time until the approved amounts are exhausted. The objective of the stock repurchase program is to improve stockholders’ returns and mitigate earnings per share dilution posed by the issuance of shares related to employee equity compensation awards. At December 31, 2020, $625.6 million was available to repurchase common stock pursuant to the stock repurchase program. All shares repurchased are recorded as treasury stock. 
+
+On January 30, 2020, we used the proceeds from the Term Loan Credit Agreement and entered into accelerated share repurchase (“ASR”) transactions with a group of dealers for an aggregate amount of $1.00 billion. Under the ASR transactions, we received an initial share delivery of 6.5 million shares of its common stock in January 2020 and received delivery of an additional 0.8 million shares of its common stock in August 2020 in final settlement of the ASR Agreement.
+
+In addition to the ASR transactions, during the year ended December 31, 2020, we expended $288.5 million on open market purchases under the stock repurchase program, repurchasing 2.5 million shares of outstanding common stock at an average price of $116.40. We also withheld 893,479 shares from equity awards that vested to satisfy tax withholding obligations that arose on the vesting of equity awards of $121.7 million. These shares are reflected as treasury stock in our consolidated balance sheets included in this Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+See Note 9 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for additional details on the ASR and treasury stock.
+
+Contractual Obligations and Off-Balance Sheet Arrangements
+
+Contractual Obligations
+
+The following table summarizes our significant contractual obligations at December 31, 2020 and the future periods in which such obligations are expected to be settled in cash. Additional details regarding these obligations are provided in the notes to our consolidated financial statements (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+48
+
+(1)The amount above represents the balances to be repaid under our 2027 Notes, 2030 Notes, and Term Loan Credit Agreement. See Note 13 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for further information. 
+
+(2)Purchase obligations represent non-cancelable commitments to purchase inventory ordered before year-end 2021 of approximately $8.8 million and a contingent obligation to purchase inventory of approximately $19.9 million. It also includes a remaining purchase obligation for our use of certain cloud services with one third-party provider of $950.0 million, of which $19.3 million is due in less than one year. See Note 10 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for further information.
+
+(3)Represents transition tax payable on deemed repatriation of deferred foreign income incurred as a result of the 2017 Tax Act. See Note 11 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for further information.
+
+(4)Total contractual obligations do not include agreements where our commitment is variable in nature or where cancellations without payment provisions exist and excludes $74.7 million of liabilities related to uncertain tax positions recorded in accordance with authoritative guidance, because we could not make reasonably reliable estimates of the period or amount of cash settlement with the respective taxing authorities. See Note 11 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2020 for further information.
+
+As of December 31, 2020, we did not have any individually material finance lease obligations or other material long-term commitments reflected on our consolidated balance sheets.
+
+Off-Balance Sheet Arrangements
+
+We do not have any special purpose entities or off-balance sheet financing arrangements.
+
+49
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

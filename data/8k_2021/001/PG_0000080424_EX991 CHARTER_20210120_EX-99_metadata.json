@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "EX991 CHARTER",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210120",
+    "sec_filing_date": "20210120",
+    "sec_changed_date": "20210120",
+    "sec_accepted_date": "20210120100738",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042421000023/0000080424-21-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042421000023/0000080424-21-000023.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\PG_0000080424_EX991 CHARTER_20210120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "232260 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 37663,
+    "endpoints": [
+        "Earnings Release Q2 FY 2021 ResultsJanuary 20, 2021    ",
+        "  ction; (13) the ability to successfully manage regulatory and legal requirements and matters (including, without limitation, those laws and regulations involving product liability, product and packaging composition, intellectual property, labor and employment, antitrust, data protection, tax, environmental, and accounting and financial reporting) and to resolve pending matters within current estimates; (14) the ability to manage changes in applicable tax laws and regulations including maintaining our intended tax treatment of divestiture transactions; (15) the ability to successfully manage our ongoing acquisition, divestiture and joint venture activities, in each case to achieve the Company’s overall business strategy and financial objectives, without impacting the delivery of base business objectives; (16) the ability to successfully achieve productivity improvements and cost savings and manage ongoing organizational changes, while successfully identifying, developing and retaining key employees, including in key growth markets where the availability of skilled or experienced employees may be limited; and (17) the ability to successfully manage the demand, supply, and operational challenges associated with a disease outbreak, including epidemics, pandemics, or similar widespread public health concerns (including the novel coronavirus, COVID-19, outbreak). For additional information concerning factors that could cause actual results and events to differ materially from those projected herein, please refer to our most recent 10-K/A, 10-Q and 8-K reports."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\PG_0000080424_EX991 CHARTER_20210120_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:56:18.321531"
+}

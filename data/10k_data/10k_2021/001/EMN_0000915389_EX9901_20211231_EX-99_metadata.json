@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000915389",
+    "sec_company_name": "EASTMAN CHEMICAL CO (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220225",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224175853",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/915389/000091538922000010/0000915389-22-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/915389/000091538922000010/0000915389-22-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\EMN_0000915389_EX9901_20211231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "709 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 23,
+    "endpoints": [
+        "Document",
+        "Exhibit 99.01"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EMN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\EMN_0000915389_EX9901_20211231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:42:52.429686"
+}

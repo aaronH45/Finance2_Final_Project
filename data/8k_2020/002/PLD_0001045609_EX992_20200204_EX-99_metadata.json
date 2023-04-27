@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001045609",
+    "sec_company_name": "Prologis, Inc. (Filer)",
+    "document_type": "EX992",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20200204",
+    "sec_filing_date": "20200219",
+    "sec_changed_date": "20200219",
+    "sec_accepted_date": "20200219171508",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1045609/000156459020005326/0001564590-20-005326-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1045609/000156459020005326/0001564590-20-005326.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PLD_0001045609_EX992_20200204_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "414650 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 51450,
+    "endpoints": [
+        "pld-ex992_13.htm     ",
+        "19"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PLD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PLD_0001045609_EX992_20200204_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:40:13.686749"
+}

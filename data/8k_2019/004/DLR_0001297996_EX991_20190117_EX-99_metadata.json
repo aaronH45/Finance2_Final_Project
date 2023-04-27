@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001297996",
+    "sec_company_name": "Digital Realty Trust, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190117",
+    "sec_filing_date": "20190122",
+    "sec_changed_date": "20190122",
+    "sec_accepted_date": "20190122163033",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312519014038/0001193125-19-014038-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312519014038/0001193125-19-014038.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16673 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8028,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release contains forward-looking statements which are based on current expectations, forecasts and assumptions that involve risks and uncertainties that could cause actual outcomes and results to differ materially. These risks and uncertainties include, among others, the following: reduced demand for data centers or decreases in information technology spending; decreased rental rates, increased operating costs or increased vacancy rates; increased competition or available supply of data center space; the suitability of our data centers and data center infrastructure, delays or disruptions in connectivity or availability of power, or failures or breaches of our physical and information security infrastructure or services; our dependence upon significant customers, bankruptcy or insolvency of a major customer or a significant number of smaller customers, or defaults on or non-renewal of leases by customers; breaches of our obligations or restrictions under our contracts with our customers; our inability to successfully develop and lease new properties and development space, and delays or unexpected costs in development of properties; the impact of current global and local economic, credit and market conditions; our inability to retain data center space that we lease or sublease from third parties; difficulty acquiring or operating properties in foreign jurisdictions; our failure to realize the intended benefits from, or disruptions to our plans and operations or unknown or contingent liabilities related to, our recent acquisitions; our failure to successfully integrate and operate acquired or developed properties or businesses; difficulties in identifying properties to acquire and completing acquisitions; risks related to joint venture investments, including as a result of our lack of control of such investments; risks associated with using debt to fund our business activities, including re-financing and interest rate risks, our failure to repay debt when due, adverse changes in our credit ratings or our breach of covenants or other terms contained in our loan facilities and agreements; our failure to obtain necessary debt and equity financing, and our dependence on external sources of capital; financial market fluctuations and changes in foreign currency exchange rates; adverse economic or real estate developments in our industry or the industry sectors that we sell to, including risks relating to decreasing real estate valuations and impairment charges and goodwill and other intangible asset impairment charges; our inability to manage our growth effectively; losses in excess of our insurance coverage; environmental liabilities and risks related to natural disasters; our inability to comply with rules and regulations applicable to our company; our failure to maintain our status as a REIT for federal income tax purposes; our operating partnership’s failure to qualify as a partnership for federal income tax purposes; restrictions on our ability to engage in certain business activities; and changes in local, state, federal and international laws and regulations, including related to taxation, real estate and zoning laws, and increases in real property tax rates. For a further list and description of such risks and uncertainties, see the reports and other filings by the company with the U.S. Securities and Exchange Commission, including the company’s Annual Report on Form 10-K for the year ended December 31, 2017 and Quarterly Reports on Form 10-Q for the quarters ended March 31, 2018, June 30, 2018 and September 30, 2018. The company disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:56:07.111254"
+}

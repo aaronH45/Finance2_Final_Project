@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000712515",
+    "sec_company_name": "ELECTRONIC ARTS INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190205",
+    "sec_filing_date": "20190205",
+    "sec_changed_date": "20190205",
+    "sec_accepted_date": "20190205160833",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/712515/000119312519028291/0001193125-19-028291-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/712515/000119312519028291/0001193125-19-028291.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\EA_0000712515_EX991_20190205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "378099 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17779,
+    "endpoints": [
+        "Press Release   ",
+        "1 At the beginning of fiscal year 2019, April 1, 2018, EA adopted FASB ASU 2014-09 (Topic 606) Revenue from Contracts with Customers. EA’s FY19 Unaudited Condensed Consolidated Balance Sheets reflect the effect of the adoption as of April 1, 2018, which had an impact on receivables, net of allowances. Financial data for periods prior to April 1, 2018 has not been restated."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\EA_0000712515_EX991_20190205_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:55:35.446144"
+}

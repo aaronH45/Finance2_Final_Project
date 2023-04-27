@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001122304",
+    "sec_company_name": "AETNA INC /PA/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170131",
+    "sec_changed_date": "20170131",
+    "sec_accepted_date": "20170131064915",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1122304/000112230417000009/0001122304-17-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1122304/000112230417000009/0001122304-17-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\AET_0001122304_EX991_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1556223 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 32498,
+    "endpoints": [
+        "Exhibit   ",
+        "(b) At December 31, 2016, Aetna estimates that it is entitled to receive a total of $465 million from HHS under the three-year ACA risk corridor program for the 2014 through 2016 program years. At December 31, 2016, Aetna did not record any ACA risk corridor receivables related to the 2016 or 2015 program years or any amount in excess of HHS's announced prorated funding amount for the 2014 program year, because payments from HHS are uncertain."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AET",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\AET_0001122304_EX991_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:14:21.056231"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000066740",
+    "sec_company_name": "3M CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20180125",
+    "sec_filing_date": "20180125",
+    "sec_changed_date": "20180125",
+    "sec_accepted_date": "20180125165021",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/66740/000110465918004014/0001104659-18-004014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/66740/000110465918004014/0001104659-18-004014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\MMM_0000066740_EX99_20180125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "62661 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1630,
+    "endpoints": [
+        "Exhibit 99 ",
+        "(b) Net debt is not defined under U.S. GAAP and may not be computed the same as similarly titled measures used by other companies. The Company defines net debt as total debt less the total of cash, cash equivalents and current and long-term marketable securities. 3M believes net debt is meaningful to investors as 3M considers net debt and its components to be an important indicator of liquidity and a guiding measure of capital structure strategy."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MMM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\MMM_0000066740_EX99_20180125_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:21:52.651640"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004281",
+    "sec_company_name": "Arconic Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190122",
+    "sec_filing_date": "20190122",
+    "sec_changed_date": "20190122",
+    "sec_accepted_date": "20190122085511",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4281/000114420419002184/0001144204-19-002184-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4281/000114420419002184/0001144204-19-002184.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\ARNC_0000004281_EX991_20190122_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5847 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3583,
+    "endpoints": [
+        "EXHIBIT 99.1 ",
+        "This release contains statements that relate to future events and expectations and as such constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those containing such words as “anticipates,” “believes,” “could,” “estimates,” “expects,” “forecasts,” “goal,” “guidance,” “intends,” “may,” “outlook,” “plans,” “projects,” “seeks,” “sees,” “should,” “targets,” “will,” “would,” or other words of similar meaning. All statements that reflect Arconic’s expectations, assumptions or projections about the future, other than statements of historical fact, are forward-looking statements. These statements reflect beliefs and assumptions that are based on Arconic’s perception of historical trends, current conditions and expected future developments, as well as other factors Arconic believes are appropriate in the circumstances. Forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and changes in circumstances that are difficult to predict, which could cause actual results to differ materially from those indicated by these statements. Such risks and uncertainties include, but are not limited to: (a) deterioration in global economic and financial market conditions generally; (b) unfavorable changes in the markets served by Arconic; (c) Arconic’s inability to realize expected benefits, in each case as planned and by targeted completion dates, from acquisitions, divestitures, facility closures, curtailments, expansions, or joint ventures; and (d) the other risk factors summarized in Arconic’s Form 10-K for the year ended December 31, 2017 and other reports filed with the U.S. Securities and Exchange Commission. Arconic disclaims any intention or obligation to update publicly any forward-looking statements, whether in response to new information, future events, or otherwise, except as required by applicable law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ARNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\ARNC_0000004281_EX991_20190122_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:38:56.692689"
+}

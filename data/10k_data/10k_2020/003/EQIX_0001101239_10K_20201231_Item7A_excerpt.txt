@@ -1,0 +1,61 @@
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Market Risk 
+
+The following discussion about market risk involves forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements. We may be exposed to market risks related to changes in interest rates and foreign currency exchange rates and fluctuations in the prices of certain commodities, primarily electricity.
+
+The uncertainty that exists with respect to the economic impact of the ongoing COVID-19 pandemic introduced significant volatility in the financial markets. See Part I, Item 1A. Risk Factors for additional information regarding potential risks to our business, financial condition and results of operations related to the ongoing COVID-19 pandemic.
+
+We employ foreign currency forward and option contracts, cross-currency interest rate swaps and interest rate locks for the purpose of hedging certain specifically identified exposures. The use of these financial instruments is intended to mitigate some of the risks associated with fluctuations in currency exchange and interest rates, but does not eliminate such risks. We do not use financial instruments for trading or speculative purposes.
+
+Investment Portfolio Risk
+
+We maintain an investment portfolio of various holdings, types, and maturities that is prioritized on meeting REIT asset requirements. All of our marketable securities are recorded on our consolidated balance sheets at fair value with changes in fair values recognized in net income. We consider various factors in determining whether we should recognize an impairment charge for our securities, including the length of time and extent to which the fair value has been less than our cost basis and our intent and ability to hold the investment for a period of time sufficient to allow for any anticipated recovery. We anticipate that we will recover the entire cost basis of these securities and have determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the year ended December 31, 2020.
+
+As of December 31, 2020, our investment portfolio of cash equivalents and marketable securities consisted of money market funds, certificates of deposits and publicly traded equity securities. The amount in our investment portfolio that could be susceptible to market risk totaled $615.6 million.
+
+Interest Rate Risk 
+
+We are exposed to interest rate risk related to our outstanding debt. An immediate 10% increase or decrease in current interest rates from their position as of December 31, 2020 would not have a material impact on our interest expense due to the fixed coupon rate on the majority of our debt obligations. However, the interest expense associated with our senior credit facility and term loans, that bear interest at variable rates, could be affected. For every 100 basis point change in interest rates, our annual interest expense could increase by a total of approximately $10.9 million or decrease by a total of approximately $0.2 million based on the total balance of our primary borrowings under the Term Loan Facility as of December 31, 2020. As of December 31, 2020, we had no outstanding interest rate derivative hedges against our debt obligations. However, we may enter into interest rate hedging agreements in the future to mitigate our exposure to interest rate risk.
+
+The fair value of our long-term fixed interest rate debt is subject to interest rate risk. Generally, the fair value of fixed interest rate debt will increase as interest rates fall and decrease as interest rates rise. These interest rate changes may affect the fair value of the fixed interest rate debt but do not impact our earnings or cash flows. The fair value of our mortgage and loans payable and 5.000% Infomart Senior Notes, which are not traded in the market, is estimated by considering our credit rating, current rates available to us for debt of the same remaining maturities and the terms of the debt. The fair value of our other senior notes, which are traded in the market, was based on quoted market prices. The following table represents the carrying value and estimated fair value of our mortgage and loans payable and senior notes as of (in thousands):
+
+78
+[DATA_TABLE_REMOVED]
+
+(1)The carrying value is gross of debt issuance cost, debt discount and debt premium.
+
+Foreign Currency Risk 
+
+A significant portion of our revenue is denominated in U.S. dollars, however, approximately 59% of our revenues and 53% of our operating costs are attributable to Brazil, Mexico, Canada, Colombia and the EMEA and Asia-Pacific regions, and a large portion of those revenues and costs are denominated in a currency other than the U.S. dollar, primarily the Euro, British pound, Japanese yen, Singapore dollar, Hong Kong dollar, Australian dollar and Brazilian real. To help manage the exposure to foreign currency exchange rate fluctuations, we have implemented a number of hedging programs, in particular:
+
+•a cash flow hedging program to hedge the forecasted revenues and expenses in our EMEA region;
+
+•a balance sheet hedging program to hedge the remeasurement of monetary assets and liabilities denominated in foreign currencies; and
+
+•a net investment hedging program to hedge the long term investments in our foreign subsidiaries. 
+
+Our hedging programs reduce, but do not entirely eliminate, the impact of currency exchange rate movements on our consolidated balance sheets, statements of operations and statements of cash flows. 
+
+We have entered into various foreign currency debt obligations. As of December 31, 2020, the total principal amount of foreign currency debt obligations was $1.9 billion, including $611.1 million denominated in Euro, $589.7 million denominated in British Pound, $408.5 million denominated in Japanese Yen and $293.9 million denominated in Swedish Krona. As of December 31, 2020, we have designated $1.9 billion of the total principal amount of foreign currency debt obligations as net investment hedges against our net investments in foreign subsidiaries. For a net investment hedge, changes in the fair value of the hedging instrument designated as a net investment hedge are recorded as a component of other comprehensive income (loss) in the consolidated balance sheets. Fluctuations in the exchange rates between these foreign currencies and the U.S. Dollar will impact the amount of U.S. Dollars that we will require to settle the foreign currency debt obligations at maturity. If the U.S. Dollar would have been weaker or stronger by 10% in comparison to these foreign currencies as of December 31, 2020, we estimate our obligation to cash settle the principal of these foreign currency debt obligations in U.S. Dollars would have increased or decreased by approximately $211.5 million and $173.0 million, respectively. 
+
+We also entered into cross-currency interest rate swaps where we receive a fixed amount of U.S. Dollars and pay a fixed amount of Euros. As of December 31, 2020 and 2019, the total notional amounts of U.S. Dollar to Euro cross-currency interest rate swap contracts were $3.3 billion and $750.0 million, respectively. The cross-currency interest rate swaps are designated as hedges of our net investment in European operations and changes in the fair value of these swaps are recorded as a component of accumulated other comprehensive income (loss) in the consolidated balance sheet. If the U.S. Dollar weakened or strengthened by 10% in comparison to Euro, we would have recorded an additional loss of $409.6 million or gain of $337.3 million, respectively, within accumulated other comprehensive income (loss) as of December 31, 2020. 
+
+The U.S. Dollar weakened relative to certain of the currencies of the foreign countries in which we operate during the year ended December 31, 2020. This has impacted our consolidated financial position and results of operations during this period, including the amount of revenues that we reported. Continued strengthening or weakening of the U.S. Dollar will continue to impact us in future periods. 
+
+With the existing cash flow hedges in place, a hypothetical additional 10% strengthening of the U.S. dollar during the year ended December 31, 2020 would have resulted in a reduction of our revenues and operating expenses, including depreciation and amortization expenses, by approximately $171.1 million and $169.7 million, respectively.
+
+79
+With the existing cash flow hedges in place, a hypothetical additional 10% weakening of the U.S. dollar during the year ended December 31, 2020 would have resulted in an increase of our revenues and operating expenses, including depreciation and amortization expenses, by approximately $209.2 million and $207.4 million, respectively.
+
+We may enter into additional hedging activities in the future to mitigate our exposure to foreign currency risk as our exposure to foreign currency risk continues to increase due to our growing foreign operations; however, we do not currently intend to eliminate all foreign currency transaction exposure.
+
+Commodity Price Risk
+
+Certain operating costs incurred by us are subject to price fluctuations caused by the volatility of underlying commodity prices. The commodities most likely to have an impact on our results of operations in the event of price changes are electricity, supplies and equipment used in our IBX data centers. We closely monitor the cost of electricity at all of our locations. We have entered into several power contracts to purchase power at fixed prices in certain locations in the Australia, Brazil, Bulgaria, Canada, China, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, Poland, Portugal, Singapore, Spain, Sweden, Switzerland, the United Kingdom and the U.S..
+
+In addition, as we are building new, or expanding existing, IBX data centers, we are subject to commodity price risk for building materials related to the construction of these IBX data centers, such as steel and copper. In addition, the lead-time to procure certain pieces of equipment, such as generators, is substantial. Any delays in procuring the necessary pieces of equipment for the construction of our IBX data centers could delay the anticipated openings of these new IBX data centers and, as a result, increase the cost of these projects.
+
+We do not currently employ forward contracts or other financial instruments to address commodity price risk other than the power contracts discussed above.
+
+ITEM 8. Financial Statements and Supplementary Data

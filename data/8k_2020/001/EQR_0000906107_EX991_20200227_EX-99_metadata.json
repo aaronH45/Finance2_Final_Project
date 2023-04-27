@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000906107",
+    "sec_company_name": "EQUITY RESIDENTIAL (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200227",
+    "sec_filing_date": "20200227",
+    "sec_changed_date": "20200227",
+    "sec_accepted_date": "20200227170121",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/906107/000119312520052909/0001193125-20-052909-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/906107/000119312520052909/0001193125-20-052909.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\EQR_0000906107_EX991_20200227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4723 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2522,
+    "endpoints": [
+        "EX-99.1   ",
+        "Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500, is focused on the acquisition, development and management of rental apartment properties located in urban and high-density suburban communities where today’s renters want to live, work and play. Equity Residential owns or has investments in 308 properties consisting of 79,826 apartment units, located in Boston, New York, Washington, D.C., Seattle, San Francisco, Southern California and Denver. For more information on Equity Residential, please visit our website at www.equityapartments.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EQR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\EQR_0000906107_EX991_20200227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:35:18.134054"
+}

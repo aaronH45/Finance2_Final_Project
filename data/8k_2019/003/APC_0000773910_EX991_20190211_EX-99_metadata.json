@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000773910",
+    "sec_company_name": "ANADARKO PETROLEUM CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190211",
+    "sec_filing_date": "20190211",
+    "sec_changed_date": "20190211",
+    "sec_accepted_date": "20190211064445",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/773910/000119312519032968/0001193125-19-032968-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/773910/000119312519032968/0001193125-19-032968.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\APC_0000773910_EX991_20190211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "42589 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 29942,
+    "endpoints": [
+        "EX-99.1   ",
+        " Glossary of Abbreviations and Definitions ADJ: Adjusted APC: Anadarko Petroleum Corporation AVG: Average B: Billion Bbl: Barrel BBOE: Billion Barrels of Oil Equivalent BCF/d: Billion Cubic Feet per Day BO: Barrel of Oil BOE: Barrel of Oil Equivalent BOE/d: Barrel of Oil Equivalent per Day BTAX: Before Tax Centrica: Centrica LNG Company Ltd., a subsidiary of Centrica plc CFROIC*: Cash Flow Return on Invested Capital CNOOC: CNOOC Gas and Power Singapore Trading & Marketing Pte. Ltd. Corp: Corporate CPF: Centralized Production Facility CUM: Cumulative DCF: Discretionary Cash Flow DJ: Denver Julesburg E: Expected EdF: Électricité de France, S.A. E&P: Exploration and Production EBITDA: Earnings Before Interest, Tax, Depreciation, and Amortization EBITDAX: Earnings Before Interest, Tax, Depreciation, Amortization, and Exploration Expense EUR: Estimated Ultimate Recovery Expl: Exploration FCF: Free Cash Flow FID: Final Investment Decision Ft: Feet GAAP: Generally Accepted Accounting Principles GOM: Gulf of Mexico H: Half HBNS: Hassi Berkine Sud (South) HH: Henry Hub HLS: Heavy Louisiana Sweet HSE: Health, Safety, and Environment Int’l: International IP: Initial Production KM: Kilometers LLS: Louisiana Light Sweet LNG: Liquefied Natural Gas MBbl/d: Thousand Barrels per Day MBO: Thousand Barrels of Oil MBOE: Thousand Barrels of Oil Equivalent MBOPD: Thousand Barrels of Oil per Day Mcf: Thousand Cubic Feet of Natural Gas MEH: Magellan East Houston MLP: Master Limited Partnership MM: Millions MMBOE: Million Barrels of Oil Equivalent MOF: Marine Offtake Facility MTPA: Million Tonnes per Annum NGL: Natural Gas Liquids NPV10: Net Present Value (Discounted at 10%) NRI: Net Revenue Interest NYSE: New York Stock Exchange OPPL: Overland Pass Pipeline PI: Participation Interest PRB: Powder River Basin PV10: Present Value (Discounted at 10%) Q: Quarter ROR: Rate of Return RSEG: RS Energy Group S&P: Standard & Poor’s Shell: Shell International Trading Middle East Ltd. SPA: Sale and Purchase Agreement TC: Type Curve TEN: Tweneboa, Enyenra, Ntomme Tohoku: Tohoku Electric Power Company, Inc. Tokyo Gas: Tokyo Gas Co., Ltd. TTM: Trailing Twelve Months U.S.: United States of America VS: Versus WC-A: Wolfcamp-A WES: Western Gas Partners, LP WI: Working Interest WTI: West Texas Intermediate YE: Year End (APC Consolidated CFFO – WGP CFFO + WGP distributions to APC) (Stockholders’ Equity + Anadarko Debt) *CFROIC ="
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "APC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\APC_0000773910_EX991_20190211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:50:08.356570"
+}

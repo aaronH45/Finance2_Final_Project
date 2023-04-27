@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001045609",
+    "sec_company_name": "Prologis, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160126",
+    "sec_filing_date": "20160126",
+    "sec_changed_date": "20160126",
+    "sec_accepted_date": "20160126080533",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1045609/000156459016011971/0001564590-16-011971-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1045609/000156459016011971/0001564590-16-011971.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PLD_0001045609_EX991_20160126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "157042 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 127471,
+    "endpoints": [
+        "pld-ex991_6.pptx.htm    ",
+        " Notes and Definitions (continued) 43Prologis share of Same Store is calculated using the underlying building information from the Same Store NOI GAAP and Adjusted Cash calculations and applying our ownership percentage as of September 30, 2015 to the NOI of each building for both periods.In order to derive Same Store- NOI - Adjusted Cash, we adjust Same Store- NOI- GAAP to exclude non-cash items included in our rental income in our GAAP financial statements, including straight line rent adjustments and adjustments related to purchase accounting to reflect leases at fair value at the time of acquisition.Same Store Average Occupancy represents the average occupied percentage of the Same Store portfolio for the period. Stabilization is defined when a property that was developed has been completed for one year or is 90% occupied. Upon stabilization, a property is moved into our Operating Portfolio.Stabilized capitalization rate equals “stabilized NOI” divided by the “total acquisition cost”. Stabilized NOI equals the estimated twelve months of potential gross rental revenue (base rent, including above or below market rents plus operating expense reimbursements) multiplied by 95% to adjust income to a stabilized vacancy factor of 5%, minus estimated operating expenses. The total acquisition cost comprises the purchase price plus 1) transaction closing costs, 2) all due diligence costs, 3) immediate capital expenditures (including two years of property improvements and all leasing commissions and tenant improvements required to stabilize the property), 4) the effects of marking assumed debt to market and 5) the net present value of free rent, if applicable.Strategic Capital NOI represents strategic capital income less strategic capital expenses.Tenant Retention is the square footage of all leases rented by existing tenants divided by the square footage of all expiring and rented leases during the reporting period, excluding the square footage of tenants that default or buy-out prior to expiration of their lease, short-term tenants and the square footage of month-to-month leases.Total Expected Investment (“TEI”) represents total estimated cost of development or expansion, including land, development and leasing costs. TEI is based on current projections and is subject to change. Non-U.S. dollar investments are translated to U.S. dollars using the exchange rate at period end or the date of development start for purposes of calculating development starts in any period.Turnover Costs represent the costs incurred in connection with the signing of a lease, including leasing commissions and tenant improvements. Tenant improvements include costs to prepare a space for a new tenant and for a lease renewal with the same tenant. It excludes costs to prepare a space that is being leased for the first time (i.e. in a new development property). Value-Added Acquisitions are properties we acquire for which we believe the discount in pricing attributed to the operating challenges could provide greater returns post-stabilization than the returns of stabilized properties that are not Value-Added Acquisitions. Value Added Acquisitions must have one or more of the following characteristics: (i) existing vacancy in excess of 20%; (ii) short term lease roll-over, typically during the first two years of ownership; (iii) significant capital improvement requirements in excess of 10% of the purchase price that must be invested within the first two years of ownership. Value-Added Conversions represent the repurposing of industrial properties to a higher and better use, including office, residential, retail, research and development, data center, self storage or manufacturing with the intent to ultimately sell the property once repositioned. Activities required to prepare the property for conversion to a higher and better use may include such activities as re-zoning, re-designing, re-constructing, and re-tenanting. The economic gain on sales of value added conversions represents the amount by which the sales proceeds exceeds the amount included in NAV for the disposed property.Value Creation represents the value that we will create through our development and leasing activities. We calculate value creation by estimating the NOI that the property will generate at Stabilization and applying an estimated stabilized capitalization rate applicable to that property. The value creation is calculated as the amount by which the estimated value exceeds our total expected investment and does not include any fees or promotes we may earn. This can also include realized economic gains from value-added conversion properties.Weighted Average Estimated Stabilized Yield is calculated as NOI assuming stabilized occupancy divided by Acquisition Cost or TEI, as applicable."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PLD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PLD_0001045609_EX991_20160126_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:48:24.751684"
+}

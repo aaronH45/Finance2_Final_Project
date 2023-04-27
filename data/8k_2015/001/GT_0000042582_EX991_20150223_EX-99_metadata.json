@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000042582",
+    "sec_company_name": "GOODYEAR TIRE & RUBBER CO /OH/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150223",
+    "sec_filing_date": "20150224",
+    "sec_changed_date": "20150224",
+    "sec_accepted_date": "20150224101525",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/42582/000129993315000286/0001299933-15-000286-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/42582/000129993315000286/0001299933-15-000286.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\GT_0000042582_EX991_20150223_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4657 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2529,
+    "endpoints": [
+        "EX-99.1     ",
+        "Goodyear is one of the world’s largest tire companies. It employs approximately 67,000 people and manufactures its products in 50 facilities in 22 countries around the world. Its two Innovation Centers in Akron, Ohio and Colmar-Berg, Luxembourg strive to develop state-of-the-art products and services that set the technology and performance standard for the industry. For more information about Goodyear and its products, go to www.goodyear.com/corporate. GT-FN"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\GT_0000042582_EX991_20150223_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:31.782266"
+}

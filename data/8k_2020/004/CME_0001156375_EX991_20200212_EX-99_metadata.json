@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001156375",
+    "sec_company_name": "CME GROUP INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200212",
+    "sec_filing_date": "20200212",
+    "sec_changed_date": "20200212",
+    "sec_accepted_date": "20200212070651",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1156375/000115637520000005/0001156375-20-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1156375/000115637520000005/0001156375-20-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\CME_0001156375_EX991_20200212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "387520 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10830,
+    "endpoints": [
+        "Exhibit  ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CME",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\CME_0001156375_EX991_20200212_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:47:49.621571"
+}

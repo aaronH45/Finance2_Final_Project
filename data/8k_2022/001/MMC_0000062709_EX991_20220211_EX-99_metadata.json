@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000062709",
+    "sec_company_name": "MARSH & MCLENNAN COMPANIES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220211",
+    "sec_filing_date": "20220214",
+    "sec_changed_date": "20220214",
+    "sec_accepted_date": "20220214090307",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/62709/000006270922000005/0000062709-22-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/62709/000006270922000005/0000062709-22-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\MMC_0000062709_EX991_20220211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14529 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3003,
+    "endpoints": [
+        "Document",
+        "Marsh McLennan (NYSE: MMC) is the world’s leading professional services firm in the areas of risk, strategy and people. The Company’s 83,000 colleagues advise clients in 130 countries. With annual revenue of nearly $20 billion, Marsh McLennan helps clients navigate an increasingly dynamic and complex environment through four market-leading businesses. Marsh provides data driven risk advisory services and insurance solutions to commercial and consumer clients. Guy Carpenter develops advanced risk, reinsurance and capital strategies that help clients grow profitably and pursue emerging opportunities. Mercer delivers advice and technology-driven solutions that help organizations redefine the world of work, reshape retirement and investment outcomes, and unlock health and wellbeing for a changing workforce. Oliver Wyman serves as a critical strategic, economic and brand advisor to private sector and governmental clients. For more information, visit marshmclennan.com, follow us on LinkedIn and Twitter or subscribe to BRINK."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\MMC_0000062709_EX991_20220211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:20:19.204910"
+}

@@ -1,0 +1,191 @@
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk.
+
+The following includes "forward-looking statements" that involve risk and uncertainties. Actual results could differ materially from those projected in the forward-looking statements. The discussion of risk is presented separately for Investment Banking, Capital Markets and Asset Management and the balance of our company. Exclusive of Investment Banking, Capital Markets and Asset Management, our market risk arises principally from equity price risk.
+
+Excluding Investment Banking, Capital Markets and Asset Management, Trading assets at fair value include corporate equity securities with an aggregate fair value of $311.8 million at November 30, 2019. Assuming a decline of 10% in market prices, the value of these investments could decrease by approximately $31.2 million.
+
+Investment Banking, Capital Markets and Asset Management
+
+Overview
+
+Risk is an inherent part of our business and activities. The extent to which we properly and effectively identify, assess, monitor and manage each of the various types of risks involved in our activities is critical to our financial soundness, viability and profitability. Accordingly, we have a comprehensive risk management approach, with a formal governance structure and processes to identify, assess, monitor and manage risk. Principal risks involved in its business activities include market, credit, liquidity and capital, operational, legal and compliance, new business and reputational risk.
+
+Risk management is a multifaceted process that requires communication, judgment and knowledge of financial products and markets. Our risk management process encompasses the active involvement of executive and senior management, and also many departments independent of the revenue-producing business units, including Jefferies Group's Risk Management, Operations, Compliance, Legal and Finance Departments. Our risk management policies, procedures and methodologies are flexible in nature and are subject to ongoing review and modification.
+
+In achieving our strategic business objectives, our risk appetite incorporates keeping our clients’ interests at the top of our priority list and ensuring we are in compliance with applicable laws, rules and regulations, as well as adhering to the highest ethical standards. We undertake prudent and conservative risk-taking that protects the capital base and franchise, utilizing risk limits and tolerances that avoid outsized risk-taking. We maintain a diversified business mix and avoid significant concentrations to any sector, product, geography, or activity and sets quantitative concentration limits to manage this risk. We consider contagion, second order effects and correlation in our risk assessment process and actively seeks out value opportunities of all sizes. We manage the risk of opportunities larger than our approved risk levels through risk sharing and risk distribution, sell-down and hedging as appropriate. We have a limited appetite for illiquid assets and complex derivative financial instruments. We maintain the asset quality of our balance sheet through conducting trading activity in liquid markets and generally ensure high turnover of our inventory. We subject less liquid positions and derivative financial instruments to oversight and use a wide variety of specific metrics, limits, and constraints to manage these risks. We protect our reputation and franchise, as well as our standing within the market. We operate a federated approach to risk management with risk oversight responsibilities assigned to those areas of the business that have the appropriate knowledge.
+
+For discussion of liquidity and capital risk management, refer to the "Liquidity and Capital Resources" section herein.
+
+Risk Considerations
+
+We apply comprehensive framework of limits on a variety of key metrics to constrain the risk profile of our business activities. The size of the limits reflects our risk tolerance for a certain activity under normal business conditions. Key metrics included in our risk management framework include inventory position and exposure limits on a gross and net basis, scenario analysis and stress tests, Value-at-Risk ("VaR"), sensitivities, exposure concentrations, aged inventory, amount of Level 3 assets, counterparty exposure, leverage and cash capital.
+
+Market Risk
+
+Market risk is defined as the risk of loss due to fluctuations in the market value of financial assets and liabilities attributable to changes in market variables.
+
+Our market risk principally arises from interest rate risk, from exposure to changes in the yield curve, the volatility of interest rates, and credit spreads, and from equity price risks from exposure to changes in prices and volatilities of individual equities, equity baskets and equity indices. In addition, commodity price risk results from exposure to the changes in prices and volatilities 
+
+53
+
+of individual commodities, commodity baskets and commodity indices, and foreign exchange risk results from changes in foreign currency rates.
+
+Market risk is present in our market-making, proprietary trading, underwriting, specialist and investing activities and is principally managed by diversifying exposures, controlling position sizes, and establishing economic hedges in related securities or derivatives. Due to imperfections in correlations, gains and losses can occur even for positions that are economically hedged. Position limits in trading and inventory accounts are established and monitored on an ongoing basis. Each day, consolidated position and exposure reports are prepared and distributed to various levels of management, which enable management to monitor inventory levels and the results of its trading businesses.
+
+Trader Mandates
+
+Trading is principally managed through front office trader mandates, where each trader is provided a specific mandate in line with our product registry. Mandates set out the activities, currencies, countries and products that the desk is permitted to trade in and set the limits applicable to the desk. Traders are responsible for knowing their trading limits and trading in a manner consistent with their mandate. Trader mandates are reviewed annually and as part of the new business proposal process.
+
+Value-at-Risk
+
+VaR is a statistical estimate of the potential loss from adverse market movements over a specified time horizon within a specified probability (confidence level). It provides a common risk measure across financial instruments, markets and asset classes. We estimate VaR using a model that simulates revenue and loss distributions on its trading portfolios by applying historical market changes to the current portfolio. We calculate a one day VaR using a one year look-back period measured at a 95% confidence level.
+
+As with all measures of VaR, the estimate has inherent limitations due to the assumption that historical changes in market conditions are representative of the future. Furthermore, the VaR model measures the risk of a current static position over a one day horizon and might not capture the market risk over a longer time horizon where moves may be more extreme. Previous changes in market risk factors may not generate accurate predictions of future market movements. While we believe the assumptions and inputs in our risk model are reasonable, we could incur losses greater than the reported VaR. Consequently, this VaR estimate is only one of a number of tools we use in our daily risk management activities.
+
+Average daily VaR increased to $8.79 million for 2019 from $7.56 million for 2018. The increase was primarily due to higher equity price risk, partially offset by lower interest rate volatility and an increase in the diversification benefit. The increase in the average equity price risk was primarily due to the transfer to Investment Banking, Capital Markets and Asset Management by Jefferies, in the fourth quarter of 2018, of investments in certain separately managed accounts and funds.
+
+The following table illustrates each separate component of VaR for each component of market risk by interest rate, equity, currency and commodity products, as well as for our overall trading positions using the past 365 days of historical data. 
+
+[DATA_TABLE_REMOVED]
+
+(1)For the VaR numbers reported above, a one day time horizon, with a one year look-back period, and a 95% confidence level were used.
+
+(2)The diversification effect is not applicable for the maximum and minimum VaR values as the Jefferies Group's firmwide VaR and VaR values for the four risk categories might have occurred on different days during the year.
+
+54
+
+The aggregated VaR presented here is less than the sum of the individual components (i.e., interest rate risk, foreign exchange rate risk, equity risk and commodity price risk) due to the benefit of diversification among the four risk categories. Diversification benefit equals the difference between aggregated VaR and the sum of VaRs for the four risk categories and arises because the market risk categories are not perfectly correlated.
+
+We perform daily back-testing of our VaR model comparing realized revenue and loss with the previous day's VaR. Back-testing results are included in the quarterly business review pack for Jefferies Group's Board of Directors. The primary method used to test the efficacy of the VaR model is to compare actual daily net revenue for those positions included in the VaR calculation with the daily VaR estimate. This evaluation is performed at various levels of the trading portfolio, from the overall level down to specific business lines. For the VaR model, trading related revenue is defined as principal transactions revenues, trading related commissions, revenue from securitization activities and net interest income.
+
+For a 95% confidence one day VaR model (i.e., no intra-day trading), assuming current changes in market value are consistent with the historical changes used in the calculation, net trading losses would not be expected to exceed the VaR estimates more than twelve times on an annual basis (i.e., once in every 20 days). During 2019, results of the evaluation at the aggregate level demonstrated one day when the net trading loss exceeded the 95% one day VaR. There were 33 days with trading losses out of a total of 250 trading days in 2019. 
+
+Other Risk Measures
+
+Certain positions within financial instruments are not included in the VaR model because VaR is not the most appropriate measure of risk. Accordingly, Risk Management has additional procedures in place to assure that the level of potential loss that would arise from market movements are within acceptable levels. Such procedures include performing stress tests, monitoring concentration risk and tracking price target/stop loss levels. The table below presents the potential reduction in net income associated with a 10% stress of the fair value of the positions that are not included in the VaR model at November 30, 2019 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+(1) Includes investments in hedge funds, fund of funds and private equity funds. For additional information on these investments, see Note 5 in our consolidated financial statements.
+
+VaR also excludes the impact of changes in our own credit spreads on our structured notes for which the fair value option was elected. The estimated credit spread risk sensitivity for each one basis point widening in our own credit spreads on financial liabilities for which the fair value option was elected was an increase in value of approximately $1.5 million at November 30, 2019, which is included in Accumulated other comprehensive income (loss).
+
+Stress Tests and Scenario Analysis
+
+Stress tests are used to analyze the potential impact of specific events or extreme market moves on the current portfolio both firm-wide and within business segments. Stress testing is an important part of our risk management approach because it allows us to quantify our exposure to tail risks, highlight potential loss concentrations, undertake risk/reward analysis, set risk controls and overall assess and mitigate its risk.
+
+We employ a range of stress scenarios, which comprise both historical market price and rate changes and hypothetical market environments, and generally involve simultaneous changes of many risk factors. Indicative market changes in our scenarios include, but are not limited to, a large widening of credit spreads, a substantial decline in equities markets, significant moves in selected emerging markets, large moves in interest rates and changes in the shape of the yield curve. 
+
+Unlike VaR, which measures potential losses within a given confidence interval, stress scenarios do not have an associated implied probability. Rather, stress testing is used to estimate the potential loss from market moves that tend to be larger than those embedded in the VaR calculation. Stress testing complements VaR to cover for potential limitations of VaR such as the breakdown in 
+
+55
+
+correlations, non-linear risks, tail risk and extreme events and capturing market moves beyond the confidence levels assumed in the VaR calculations.
+
+Stress testing is performed and reported at least weekly as part of our risk management process and on an ad hoc basis in response to market events or concerns. Current stress tests provide estimated revenue and loss of the current portfolio through a range of both historical and hypothetical events. The stress scenarios are reviewed and assessed at least annually so that they remain relevant and up to date with market developments. Additional hypothetical scenarios are also conducted on a sub-portfolio basis to assess the impact of any relevant idiosyncratic stress events as needed.
+
+Counterparty Credit Risk and Issuer Country Exposure
+
+Counterparty Credit Risk
+
+Credit risk is the risk of loss due to adverse changes in a counterparty's credit worthiness or its ability or willingness to meet its financial obligations in accordance with the terms and conditions of a financial contract. We are exposed to credit risk as a trading counterparty to other broker-dealers and customers, as a direct lender and through extending loan commitments, as a holder of securities and as a member of exchanges and clearing organizations. Credit exposure exists across a wide-range of products, including cash and cash equivalents, loans, securities finance transactions and over-the-counter derivative contracts. The main sources of our credit risk are:
+
+•Loans and lending arising in connection with our investment banking and capital markets activities, which reflects our exposure at risk on a default event with no recovery of loans. Current exposure represents loans that have been drawn by the borrower and lending commitments that are outstanding. In addition, credit exposures on forward settling traded loans are included within our loans and lending exposures for consistency with the balance sheet categorization of these items. Loans and lending also arise in connection with our portion of a Secured Revolving Credit Facility that is with us and Massachusetts Mutual Life Insurance Company, to be funded equally, to support loan underwritings by Jefferies Finance. See Note 11 for additional information on this facility. In addition, Jefferies Group has loans outstanding to certain of its officers and employees (none of whom are executive officers or directors). See Note 26 for additional information on these employee loans.
+
+•Securities and margin financing transactions, which reflect our credit exposure arising from reverse repurchase agreements, repurchase agreements and securities lending agreements to the extent the fair value of the underlying collateral differs from the contractual agreement amount and from margin provided to customers.
+
+•Over-the-counter derivatives, which are reported net by counterparty when a legal right of setoff exists under an enforceable master netting agreement. Over-the-counter derivative exposure is based on a contract at fair value, net of cash collateral received or posted under credit support agreements. In addition, credit exposures on forward settling trades are included within our derivative credit exposures.
+
+•Cash and cash equivalents, which includes both interest-bearing and non-interest-bearing deposits at banks.
+
+Credit is extended to counterparties in a controlled manner and in order to generate acceptable returns, whether such credit is granted directly or is incidental to a transaction. All extensions of credit are monitored and managed as a whole to limit exposure to loss related to credit risk. Credit risk is managed according to the Credit Risk Policy, which sets out the process for identifying counterparty credit risk, establishing counterparty limits, and managing and monitoring credit limits. The policy includes our approach for:
+
+•Client on-boarding and approving counterparty credit limits;
+
+•Negotiating, approving and monitoring credit terms in legal and master documentation;
+
+•Determining the analytical standards and risk parameters for ongoing management and monitoring credit risk books;
+
+•Actively managing daily exposure, exceptions and breaches; and
+
+•Monitoring daily margin call activity and counterparty performance.
+
+Counterparty credit exposure limits are granted within our credit ratings framework, as detailed in the Credit Risk Policy. Jefferies Group's Credit Risk Department assesses counterparty credit risk and sets credit limits at the counterparty master agreement level. Limits must be approved by appropriate credit officers and initiated in our credit and trading systems before trading commences. All credit exposures are reviewed against approved limits on a daily basis.
+
+Jefferies Group's Secured Revolving Credit Facility, which supports loan underwritings by Jefferies Finance, is governed under separate policies other than the Credit Risk Policy and is approved by Jefferies Group's Board of Directors. The loans outstanding to certain of Jefferies Group's officers and employees are extended pursuant to a review by its most senior management.
+
+56
+
+Current counterparty credit exposures are summarized in the tables below and provided by credit quality, region and industry. Credit exposures presented take netting and collateral into consideration by counterparty and master agreement. Collateral taken into consideration includes both collateral received as cash as well as collateral received in the form of securities or other arrangements. Current exposure is the loss that would be incurred on a particular set of positions in the event of default by the counterparty, assuming no recovery. Current exposure equals the fair value of the positions less collateral. Issuer risk is the credit risk arising from inventory positions (for example, corporate debt securities and secondary bank loans). Issuer risk is included in our country risk exposure tables below. 
+
+The amounts in the tables below are for amounts included in the Consolidated Statements of Financial Condition at November 30, 2019 and 2018 (in millions).
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+For additional information regarding credit exposure to over-the-counter derivative contracts, see Note 6 in the consolidated financial statements.
+
+Country Risk Exposure
+
+Country risk is the risk that events or developments that occur in the general environment of a country or countries due to economic, political, social, regulatory, legal or other factors, will affect the ability of obligors of the country to honor their obligations. We define the country of risk as the country of jurisdiction or domicile of the obligor, and monitors country risk resulting from both trading positions and counterparty exposure.
+
+57
+
+The following tables reflect our top exposures to the sovereign governments, corporations and financial institutions in those non-U.S. countries in which we have a net long issuer and counterparty exposure, as reflected in the Consolidated Statements of Financial Condition at November 30, 2019 and 2018 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+We have no material exposure to countries where either sovereign or non-sovereign sectors pose potential default risk as the result of liquidity concerns.
+
+Operational Risk
+
+Operational risk refers to the risk of loss resulting from operations, including, but not limited to, improper or unauthorized execution and processing of transactions, deficiencies in operating systems, business disruptions and inadequacies or breaches in internal control processes. Our businesses are highly dependent on our ability to process, on a daily basis, a large number of transactions across numerous and diverse markets in many currencies. In addition, the transactions we process have become increasingly complex. If our financial, accounting or other data processing systems do not operate properly or are disabled or if there are other shortcomings or failures in its internal processes, people or systems, we could suffer an impairment to its liquidity, financial loss, a disruption of its businesses, liability to clients, regulatory intervention or reputational damage.
+
+58
+
+These systems may fail to operate properly or become disabled as a result of events that are wholly or partially beyond our control, including a disruption of electrical or communications services or the inability to occupy one or more of its buildings. The inability of its systems to accommodate an increasing volume of transactions could also constrain its ability to expand its businesses.
+
+We also face the risk of operational failure or termination of any of the clearing agents, exchanges, clearing houses or other financial intermediaries we use to facilitate our securities transactions. Any such failure or termination could adversely affect our ability to effect transactions and manage exposure to risk. In addition, despite the contingency plans we have in place, our ability to conduct business may be adversely impacted by a disruption in the infrastructure that supports our businesses and the communities in which they are located. This may include a disruption involving electrical, communications, transportation or other services used by us or third parties with which we conduct business.
+
+Our operations rely on the secure processing, storage and transmission of confidential and other information in our computer systems and networks. Although we take protective measures and endeavor to modify them as circumstances warrant, our computer systems, software and networks may be vulnerable to unauthorized access, computer viruses or other malicious code, and other events that could have a security impact. If one or more of such events occur, this potentially could jeopardize our or our clients' or counterparties' confidential and other information processed and stored in, and transmitted through, our computer systems and networks, or otherwise cause interruptions or malfunctions in our, our clients', our counterparties' or third parties' operations. We may be required to expend significant additional resources to modify our protective measures or to investigate and remediate vulnerabilities or other exposures, and may be subject to litigation and financial losses that are either not insured against or not fully covered through any insurance maintained by us.
+
+Our Operational Risk framework includes governance, collection of operational risk incidents, proactive operational risk management, and periodic review and analysis of business metrics to identify and recommend controls and process-related enhancements. Each revenue producing and support department is responsible for the management and reporting of operational risks and the implementation of the Operational Risk policy and processes within the department. Operational Risk policy, framework, infrastructure, methodology, processes, guidance and oversight of the operational risk processes are centralized and
+
+consistent firm wide and also subject to regional operational risk governance.
+
+Model Risk
+
+Model risk refers to the risk of losses resulting from decisions that are based on the output of models, due to errors or weaknesses
+
+in the design and development, implementation, or improper use of models. We use quantitative models primarily to value certain financial assets and liabilities and to monitor and manage our risk. Model risk is a function of the model materiality, frequency of use, complexity and uncertainty around inputs and assumptions used in a given model. Robust model risk management is a core part of our risk management approach and is overseen through our risk governance structure and risk management controls.
+
+Legal and Compliance Risk
+
+Legal and compliance risk includes the risk of noncompliance with applicable legal and regulatory requirements. We are subject to extensive regulation in the different jurisdictions in which we conduct our business. We have various procedures addressing issues such as regulatory capital requirements, sales and trading practices, use of and safekeeping of customer funds, credit granting, collection activities, anti-money laundering and record keeping. These risks also reflect the potential impact that changes in local and international laws and tax statutes have on the economics and viability of current or future transactions. In an effort to mitigate these risks, we continuously review new and pending regulations and legislation and participates in various industry interest groups. We also maintain an anonymous hotline for employees or others to report suspected inappropriate actions by us or by our employees or agents.
+
+New Business Risk
+
+New business risk refers to the risks of entering into a new line of business or offering a new product. By entering a new line of
+
+business or offering a new product, we may face risks that we are unaccustomed to dealing with and may increase the magnitude of the risks we currently face. The New Business Committee reviews proposals for new businesses and new products to determine if we are prepared to handle the additional or increased risks associated with entering into such activities.
+
+Reputational Risk
+
+We recognize that maintaining our reputation among clients, investors, regulators and the general public is an important aspect of minimizing legal and operational risks. Maintaining our reputation depends on a large number of factors, including the selection of our clients and the conduct of our business activities. We seek to maintain our reputation by screening potential clients and by 
+
+59
+
+conducting our business activities in accordance with high ethical standards. Our reputation and business activity can be affected by statements and actions of third parties, even false or misleading statements by them. We actively monitor public comment concerning us and are vigilant in seeking to assure accurate information and perception prevails.
+
+Other Risk 
+
+We are also subject to interest rate risk on our long-term fixed interest rate debt. Generally, the fair market value of debt securities with a fixed interest rate will increase as interest rates fall, and the fair market value will decrease as interest rates rise. The following table represents principal cash flows by expected maturity dates and the related weighted-average interest rate on those maturities for our consolidated long-term debt obligations. For the variable rate borrowings, the weighted-average interest rates are based on the rates in effect at the reporting date. Our market risk with respect to foreign currency exposure on our long-term debt is also shown below. For additional information, see Note 14 to our consolidated financial statements.
+
+[DATA_TABLE_REMOVED]
+
+Item 8.Financial Statements and Supplementary Data.

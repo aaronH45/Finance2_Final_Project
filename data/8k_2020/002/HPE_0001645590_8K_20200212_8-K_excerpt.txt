@@ -1,0 +1,55 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false0001645590Hewlett Packard Enterprise Co,  0001645590   2020-02-12 2020-02-12  
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(650)687-5817
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+☐Emerging growth company
+
+☐If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 2.02Results of Operations and Financial Condition.
+
+ The information contained in this Item 2.02 and in the accompanying Exhibit 99.1 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing.
+
+Effective at the beginning of the first quarter of fiscal 2020, Hewlett Packard Enterprise Company ("HPE") implemented certain organizational changes to align its segment financial reporting more closely with its current business structure. As a result of these organizational changes, HPE eliminated the Hybrid IT reportable segment (and the Compute, Storage and HPE Pointnext business units within it) and created four new financial reporting segments: 
+
+•Compute, 
+
+•High Performance Compute & Mission-Critical Systems ("HPC & MCS"), 
+
+•Storage, and 
+
+•Advisory and Professional Services ("A & PS").
+
+The new Compute segment combines the general purpose server and certain workload optimized server portfolios that were previously a part of the Hybrid IT-Compute business unit and the related operational services business that was previously a part of the Hybrid IT-HPE Pointnext business unit. The HPC & MCS segment consists of high performance compute, mission-critical systems, and edge compute offerings that were previously a part of the Hybrid IT-Compute business unit and the related operational services business that was previously a part of the Hybrid IT-HPE Pointnext business unit. The new Storage segment combines the former Hybrid IT-Storage business unit, the related operational services business that was previously a part of the Hybrid IT-HPE Pointnext business unit and the hyperconverged infrastructure products that were previously a part of the Hybrid IT-Compute business unit. Finally, the A & PS segment consists of the consultative-led services that were previously a part of the Hybrid IT-HPE Pointnext business unit.
+
+In addition, the HPE Aruba Services business unit of the Intelligent Edge segment now includes the Data Center Networking ("DC Networking") operational services business that was previously a part of the Hybrid IT-HPE Pointnext business unit. The DC Networking business, other than operational services, had been transferred to the Intelligent Edge segment in a prior realignment.
+
+The Compute, HPC & MCS, Storage and A & PS segments are structured beneath a broader Hybrid IT Group. While Hybrid IT is no longer a reportable segment, HPE aggregates these segments and provides financial data in order to provide a supplementary view of the Hybrid IT Group.
+
+The Company reflected these changes to its segment information retrospectively to the earliest period presented, which primarily resulted in the transfer of net revenue and operating profit for each of the businesses as described above. These changes had no impact on Hewlett Packard Enterprise’s previously reported consolidated net revenue, net earnings or net earnings per share. As a result of these changes, HPE has released revised quarterly and full year segment results and revised business unit revenue for fiscal 2018 and 2019, which are attached hereto as Exhibit 99.1 and are incorporated herein by reference.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

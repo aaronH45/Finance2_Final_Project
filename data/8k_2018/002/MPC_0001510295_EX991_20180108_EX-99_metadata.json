@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001510295",
+    "sec_company_name": "Marathon Petroleum Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180108",
+    "sec_filing_date": "20180108",
+    "sec_changed_date": "20180108",
+    "sec_accepted_date": "20180108161952",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029518000008/0001510295-18-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029518000008/0001510295-18-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\MPC_0001510295_EX991_20180108_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "126047 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 71642,
+    "endpoints": [
+        "goldmansachs  ",
+        "MPC’s Fully Integrated Downstream System Refining & Marketing  Six-plant refining system with ~1.9 MMBPCD capacity* One biodiesel facility and interest in three ethanol facilities One of the largest wholesale suppliers in our market area One of the largest producers of asphalt in the U.S.  ~5,600 Marathon Brand retail outlets across 20 states and the District of Columbia Owns/operates 20 asphalt/light product terminals, while utilizing third-party terminals at 121 light product and two asphalt locations  2,074 owned/leased railcars, 163 owned transport trucks Speedway  ~2,730 locations in 21 states  Second-largest U.S. owned/operated c-store chain Midstream (including MPLX) Owns, leases or has interest in ~10,800 miles of crude and refined product pipelines  62 light product terminals with ~24 million barrels of storage capacity  18 owned inland waterway towboats with more than 200 barges Owns/operates ~5.9 billion cubic feet per day of gas gathering capacity* Owns/operates ~8.0 billion cubic feet per day of natural gas processing capacity and ~610 MBPD of fractionation capacity* 84 Marketing Area Ethanol Facility Biodiesel Facility Renewable Fuels MPC Interest: Operated by MPLX MPC Owned & Operated MPC Interest: Operated by Others Pipelines Pipelines Used by MPC Water Supplied Terminals Coastal Inland MPC Refineries Light Product Terminals MPC Owned and Part-owned Third Party Asphalt/Heavy Oil Terminals MPC Owned Third Party MarkWest Complex MPLX Terminals: Owned and Part-owned MPLX Pipelines: Owned & Operated MPLX Interest Pipelines: Operated by Others Cavern Barge Dock Tank Farms MPLX Operated Pipelines: Owned by Others As of Sept. 30, 2017 *As of Jan. 1, 2018"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MPC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\MPC_0001510295_EX991_20180108_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:22:09.883676"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000860730",
+    "sec_company_name": "HCA Holdings, Inc. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150109",
+    "sec_filing_date": "20150109",
+    "sec_changed_date": "20150109",
+    "sec_accepted_date": "20150109165205",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312515006592/0001193125-15-006592-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312515006592/0001193125-15-006592.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\HCA_0000860730_8K_20150109_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "13962 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2295,
+    "endpoints": [
+        "8-K   ",
+        " Exhibit 99.1   Press Release, dated January 9, 2015."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HCA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\HCA_0000860730_8K_20150109_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:49.082750"
+}

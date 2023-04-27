@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001164727",
+    "sec_company_name": "NEWMONT MINING CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160217",
+    "sec_filing_date": "20160217",
+    "sec_changed_date": "20160217",
+    "sec_accepted_date": "20160217165551",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1164727/000115752316004624/0001157523-16-004624-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1164727/000115752316004624/0001157523-16-004624.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\NEM_0001164727_EX991_20160217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1182374 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 38584,
+    "endpoints": [
+        "Exhibit 99.1  ",
+        "omar.jabara@newmont.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NEM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\NEM_0001164727_EX991_20160217_EX-99_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:49:46.103645"
+}

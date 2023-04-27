@@ -1,0 +1,201 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+false00000189260000794323true  0000018926   2021-01-13 2021-01-13    0000018926  ctl:Level3ParentLlcMember    2021-01-13 2021-01-13    0000018926  us-gaap:CommonStockMember    2021-01-13 2021-01-13    0000018926  us-gaap:PreferredStockMember    2021-01-13 2021-01-13  
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington D.C. 20549  
+
+FORM 
+
+8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): January 13, 2021  
+
+CenturyLink, Inc.  
+
+(Exact name of registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+Level 3 Parent, LLC  
+
+(Exact name of registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+Registrants’ telephone number, including area code: (318) 
+
+388-9000  
+
+Check the appropriate box below if the Form 
+
+8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:  
+
+ ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)     
+
+ ☐  
+
+Soliciting material pursuant to Rule 
+
+14a-12 under the Exchange Act (17 CFR 
+
+240.14a-12)     
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act:  
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 
+
+12b-2 of the Securities Exchange Act of 1934 (17 CFR 
+
+§240.12b-2).  
+
+Emerging growth company ☐  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+Item 1.01  
+
+Entry into a Material Definitive Agreement.     
+
+Indenture Related to Issuance of Notes  
+
+On January 13, 2021, Level 3 Financing, Inc. (“Level 3 Financing”), a direct wholly-owned subsidiary of Level 3 Parent, LLC (“Parent”) and an indirect wholly-owned subsidiary of Lumen Technologies* (“Lumen,” “us,” “we” or “our”):  
+
+   •    
+
+completed its previously-announced private placement of $900 million aggregate principal amount of its 3.750% Sustainability-Linked Senior Notes due 2029 (the “Sustainability-Linked Notes”); and     
+
+   •    
+
+in connection therewith, entered into an indenture (the “Indenture”) with The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), dated January 13, 2021, which sets forth the terms of the Sustainability-Linked Notes.     
+
+The net proceeds from the sale of the Sustainability-Linked Notes were approximately $889 million, after deducting fees and offering expenses. Level 3 Financing intends to use these net proceeds, together with cash on hand, to redeem all $900 million aggregate principal amount of Level 3 Financing’s outstanding 5.375% Senior Notes due 2024.  
+
+The Sustainability-Linked Notes were sold pursuant to a purchase agreement, dated January 11, 2021 (the “Purchase Agreement”), between Level 3 Financing, Parent and the initial purchasers of the Sustainability-Linked Notes (the “Initial Purchasers”) for resale on the terms described further below. The Purchase Agreement includes customary representations, warranties and covenants of Level 3 Financing and Parent, including customary indemnification and contribution obligations.  
+
+The Sustainability-Linked Notes will mature on July 15, 2029. Interest on the Sustainability-Linked Notes will accrue at the initial rate of 3.750% per annum from January 13, 2021, or from the most recent date to which interest has been paid or provided for, and will be payable on January 15 and July 15 of each year, beginning on July 15, 2021. From and including July 16, 2026, the interest rate payable on the Sustainability-Linked Notes will be increased by +0.1250% to 3.875% per annum, unless Level 3 Financing has notified the Trustee that it has determined, at least 15 days prior to October 15, 2026 (a “Satisfaction Notification”), that Lumen has either:  
+
+   •    
+
+attained one of the Sustainability Performance Targets set forth in the Indenture (the “Sustainability Performance Targets”) but not the other and received a related assurance letter (an “Assurance Letter”) from a third-party assurance or attestation services provider (the “External Verifier”), in which case the interest rate from and including July 16, 2026 shall be increased by +0.0625% to 3.8125% per annum, or     
+
+   •    
+
+attained both of the Sustainability Performance Targets and received a related Assurance Letter from the External Verifier, in which case the interest rate from and including such date shall remain unchanged.     
+
+No Satisfaction Notification will have any legal effect unless it is delivered after December 31, 2022, and is based on a determination of Lumen’s attainment of either or both of the Sustainability Performance Targets reflecting Lumen’s performance through a date on or after December 31, 2022. Lumen plans to annually publish an update regarding its performance with respect to the Sustainability Performance Targets, together with a related Assurance Letter issued by the External Verifier.  
+
+The Sustainability-Linked Notes are unsubordinated, unsecured obligations of Level 3 Financing, ranking equal in right of payment with all existing and future unsecured indebtedness of Level 3 Financing that is not expressly subordinated in right of payment to the Sustainability-Linked Notes and ranking senior in right of payment to all existing and future indebtedness of Level 3 Financing expressly subordinated in right of payment to the Sustainability-Linked Notes. The Sustainability-Linked Notes will be effectively subordinated to all existing and future secured obligations of Level 3 Financing. Parent has guaranteed the Sustainability-Linked Notes on an unsubordinated and unsecured basis. In addition, Parent and Level 3 Financing have agreed to endeavor, in good faith using commercially reasonable efforts, to cause Level 3 Communications, LLC (“Level 3 LLC”), a direct wholly-owned subsidiary of Level 3 Financing, to obtain all material governmental authorizations and consents required to permit Level 3 LLC to guarantee the Sustainability-Linked Notes at the earliest practicable date and to enter into a guarantee of the Sustainability-Linked Notes promptly thereafter.    
+
+2    
+
+The Sustainability-Linked Notes will be subject to redemption at the option of Level 3 Financing, in whole or in part, at any time or from time to time:  
+
+   •    
+
+prior to January 15, 2024, at 100% of the principal amount of Sustainability-Linked Notes so redeemed 
+
+plus (i) the applicable “make-whole” premium set forth in the Indenture and (ii) accrued and unpaid interest thereon (if any) up to, but not including, the redemption date; and     
+
+   •    
+
+on and after January 15, 2024, at redemption prices (expressed as a percentage of principal amount) equal to (i) 101.875%, for redemptions between January 15, 2024 and January 14, 2025, (ii) 100.938%, for redemptions between January 15, 2025 and January 14, 2026, and (iii) 100.000%, for redemptions on or after January 15, 2026; 
+
+plus, in each case, accrued and unpaid interest thereon (if any) up to, but not including, the redemption date.     
+
+In addition, at any time or from time to time on or prior to January 15, 2024, Level 3 Financing may, at its option and subject to certain conditions, redeem up to 40% of the original aggregate principal amount of the Sustainability-Linked Notes at a redemption price equal to 103.750% of the principal amount of the Sustainability-Linked Notes so redeemed, plus accrued and unpaid interest thereon (if any) to the redemption date, with the net cash proceeds from one or more sales of equity by Level 3 Financing or Parent that meet the terms and conditions specified in the Indenture.  
+
+Upon the occurrence of certain specified change of control events, Level 3 Financing will be required, unless it has elected to redeem the Sustainability-Linked Notes as described above, to make an offer to repurchase the Sustainability-Linked Notes at a price in cash equal to 101% of their aggregate principal amount, together with any accrued and unpaid interest to the date of repurchase.  
+
+The Indenture provides for customary events of default, including, among other things, the (i) failure to pay principal, interest or premium (if any) on the Sustainability-Linked Notes when due, subject to certain grace periods; (ii) failure to perform various specified covenants continued for 90 days after written notice with respect thereto to Level 3 Financing by the Trustee or the holders of at least 30% of the aggregate principal amount of such Sustainability-Linked Notes then outstanding; or (iii) occurrence of certain specified defaults, judgments, bankruptcy proceedings, insolvencies or other events relating to Parent, Level 3 Financing or certain of its significant subsidiaries. In addition, subject to the terms and conditions set forth in the Indenture, if certain specified events of default with respect to the Sustainability-Linked Notes occur and are continuing, the Trustee or holders of at least 30% of the aggregate principal amount of the Sustainability-Linked Notes then outstanding may declare the principal of the Sustainability-Linked Notes to be due and payable immediately.  
+
+The Indenture contains certain restrictive covenants that limit the incurrence of additional indebtedness, liens and certain corporate transactions. These covenants are subject to a number of important limitations and exceptions, and are subject to termination upon the occurrence of certain events described in the Indenture.  
+
+Neither the Sustainability-Linked Notes nor the related guarantees have been or will be registered under the Securities Act of 1933, as amended (the “Securities Act”), and the Sustainability-Linked Notes may not be offered or sold in the United States absent registration or an exemption from applicable registration requirements. The Sustainability-Linked Notes were sold by the Initial Purchasers to persons reasonably believed to be “qualified institutional buyers,” as defined in Rule 144A promulgated under the Securities Act, and to 
+
+non-U.S. persons outside the United States under Regulation S promulgated under the Securities Act. The Sustainability-Linked Notes do not have the benefit of registration rights.  
+
+This Current Report does not constitute a notice of redemption with respect to any of Level 3 Financing’s outstanding senior notes.  
+
+The foregoing description of the Indenture does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Indenture and the form of the Sustainability-Linked Notes, copies of each of which are filed as exhibits to this Current Report, and are incorporated by reference herein.    
+
+3    
+
+Other Information  
+
+In reviewing the documents included as exhibits to this Current Report, please note that they are included to provide you with additional information regarding the terms of the Sustainability-Linked Notes and are not intended to provide any other factual or disclosure information about Level 3 Financing, Parent or the other parties thereto. Additional information about Parent may be found elsewhere in its public filings, which are available without charge through the website of the U.S. Securities and Exchange Commission at http://www.sec.gov.  
+
+Additional information about the above-described transactions is included in the press release filed as Exhibit 99.1 hereto.  
+
+Item 2.03  
+
+Creation of a Direct Financial Obligation or an Obligation under an 
+
+Off-Balance Sheet Arrangement of a Registrant.     
+
+The information in Item 1.01 of this Form 
+
+8-K is hereby incorporated by reference into this Item 2.03.  
+
+Item 8.01  
+
+Other Events.     
+
+On January 13, 2021, Lumen Technologies issued a press release announcing that Level 3 Financing had (i) completed its private placement of the Sustainability-Linked Notes and (ii) issued notices to effect the redemption described in Item 1.01 above. That press release is filed as Exhibit 99.1 to this Current Report and is incorporated by reference herein.  
+
+Forward-Looking Statements  
+
+Except for historical and factual information, the matters set forth in this Current Report on Form 
+
+8-K identified by words such as “will,” “should,” “expects,” “anticipates,” “believes,” “plans,” “intends,” and similar expressions are forward-looking statements as defined by the federal securities laws, and are subject to the “safe harbor” protections thereunder. These forward-looking statements are not guarantees of future results and are based on current expectations only, and are subject to various uncertainties. Actual events and results may differ materially from those anticipated by us in those statements for several reasons, including those discussed in Exhibit 99.1. We may change our intentions or plans discussed in our forward-looking statements without notice at any time and for any reason.  
+
+ *  
+
+The Lumen brand was launched on September
+
+ 14, 2020. As a result, CenturyLink, Inc. is referred to as Lumen Technologies, or simply Lumen. The legal name CenturyLink, Inc. is expected to be formally changed to Lumen Technologies, Inc. on January
+
+ 22, 2021. Effective as of January
+
+ 22, 2021, the CUSIP number for the company’s common stock is scheduled to change to 550241 103.     
+
+Item 9.01  
+
+Financial Statements and Exhibits.     
+
+(d) Exhibits:  
+
+  [DATA_TABLE_REMOVED] 
+
+ *  
+
+Filed herewith.     
+
+4    
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, CenturyLink, Inc. and Level 3 Parent, LLC have duly caused this Current Report to be signed on their behalf by the undersigned officer hereunto duly authorized.  
+
+ [DATA_TABLE_REMOVED] 
+
+Dated: January 13, 2021  
+
+5

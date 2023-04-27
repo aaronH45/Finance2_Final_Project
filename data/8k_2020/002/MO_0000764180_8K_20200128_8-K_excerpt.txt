@@ -1,0 +1,107 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+false0000764180  0000764180   2020-01-28 2020-01-28    0000764180  mo:CommonStock1.700NotesDue2025Member    2020-01-28 2020-01-28    0000764180  mo:CommonStock2.200NotesDue2027Member    2020-01-28 2020-01-28    0000764180  mo:CommonStock0.3313ParValueMember    2020-01-28 2020-01-28    0000764180  mo:CommonStock3.125NotesDue2031Member    2020-01-28 2020-01-28    0000764180  mo:CommonStock1.000NotesDue2023Member    2020-01-28 2020-01-28  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ ____________________________________________________________________________________________________________
+
+FORM 8-K 
+
+________________________________________________________________________________________________________________
+
+ CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 28, 2020
+
+________________________________________________________________________________________________________________
+
+ALTRIA GROUP, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+______________________________________________________________________________________________________________
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Registrant’s telephone number, including area code: (804) 274-2200 
+
+_______________________________________________________________________________________________________________
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+As previously disclosed, in December 2018, Altria Group, Inc. (“Altria”) entered into a Stock Purchase Agreement (the “Purchase Agreement”) with JUUL Labs, Inc. (“JUUL”) pursuant to which Altria, through a wholly-owned subsidiary, purchased approximately 35% of the issued and outstanding capital stock of JUUL in the form of newly issued shares of non-voting Class C-1 Common Stock of JUUL (the “JUUL Investment”), which will convert automatically to shares of voting Class C Common Stock upon antitrust clearance (“Share Conversion”). In connection with the JUUL Investment, Altria entered into several other agreements with JUUL and, in certain cases, other stockholders of JUUL, including (i) a relationship agreement (the “Relationship Agreement”) setting forth certain ongoing rights and obligations of the parties, (ii) a services agreement (the “Services Agreement”) pursuant to which Altria agreed to provide JUUL with certain commercial services on a cost plus 3% basis for an initial term of six years and (iii) a voting agreement (the “Voting Agreement”) setting forth board designation and other related governance rights of the parties thereto. Each of the foregoing agreements is described in greater detail in, and copies of the Purchase Agreement and Relationship Agreement are filed as exhibits to, the Current Report on Altria’s Form 8-K filed on December 20, 2018.
+
+On January 28, 2020, the parties entered into amendments to each of the Relationship Agreement and the Purchase Agreement. 
+
+The amendment to the Relationship Agreement provides for, among other things: (i) following antitrust clearance of the JUUL Investment, creation of a Litigation Oversight Committee of the JUUL board of directors, which will include two Altria designated directors (one of whom will chair such committee), that will have oversight authority and review of litigation management for matters in which JUUL and Altria are co-defendants and have or reasonably could have a written joint defense agreement in effect between them and, subject to certain limitations, will recommend to JUUL changes to outside counsel and litigation strategy by majority vote, with disagreements by JUUL’s management being resolved by majority vote of JUUL’s board of directors; and (ii) Altria to have the option to be released from its non-compete obligation (x) in the event JUUL is prohibited as a matter of federal law from selling vapor-based electronic nicotine delivery systems in the U.S. for a continuous period of at least 12 months (subject to tolling of this period in certain circumstances) or (y) if the carrying value of Altria’s investment in JUUL is not more than $1.28 billion (which represents 10% of Altria’s $12.8 billion initial carrying value of the JUUL investment). The foregoing description is only a summary, and is subject to and qualified in its entirety by reference to the amendment to the Relationship Agreement, a copy of which is attached as Exhibit 2.1 and is incorporated by reference in this Current Report on Form 8-K.
+
+Under the revised Purchase Agreement, the earliest date before which Altria could determine to abandon its efforts to obtain antitrust clearance is December 31, 2021 or, if earlier, the date the U.S. Federal Trade Commission (the “FTC”) commences litigation or closes its investigation. The foregoing description is only a summary and is subject to and qualified in its entirety by reference to the amendment to the Purchase Agreement, a copy of which is attached as Exhibit 2.2 and is incorporated by reference in this Current Report on Form 8-K.
+
+In connection with the foregoing, on January 28, 2020, Altria and JUUL also amended certain terms of the Services Agreement and the Voting Agreement, and they entered into a Cooperation Agreement pertaining to certain litigation matters. 
+
+Under the amended terms of the Services Agreement, Altria’s obligation to provide services to JUUL is limited to (i) regulatory affairs support for JUUL’s pursuit of its pre-market tobacco applications (PMTA) and/or its modified risk tobacco products authorization (MRTP) and (ii) retail shelf space through March 31, 2020.
+
+The amendment to the Voting Agreement provides that following antitrust clearance, the JUUL board of directors, which currently has seven members and will have nine members following antitrust clearance, will be restructured to include independent board members. The new structure of the nine-member JUUL board of directors will include (i) three independent directors (one of whom will be designated by Altria and two of whom will be designated by JUUL stockholders other than Altria) unanimously certified as independent by a nominating committee, which will include at least one Altria designee, (ii) two directors designated by Altria, (iii) three directors designated by JUUL stockholders other than Altria and (iv) the JUUL Chief Executive Officer. 
+
+Pursuant to the Cooperation Agreement, Altria and JUUL agreed that for a period of one year they will not pursue any litigation against each other in connection with any conduct that occurred prior to the date of such agreement, with statutes of limitation being tolled during the one-year period. The Cooperation Agreement also provides that with respect to certain litigation in which Altria and JUUL are both defendants against third-party plaintiffs, Altria will not pursue any claims against JUUL for indemnification or reimbursement, except for any non-contractual claims for contribution or indemnity where a judgment has been entered against Altria and JUUL.
+
+2
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On January 30, 2020, Altria issued an earnings press release announcing its financial results for the year ended December 31, 2019. A copy of the earnings press release is attached as Exhibit 99.1 and is incorporated by reference in this Current Report on Form 8-K.
+
+In accordance with General Instruction B.2 of Form 8-K, the information in Item 2.02 of this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section. The information in Item 2.02 of this Current Report on Form 8-K shall not be incorporated by reference into any filing or other document pursuant to the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing or document.
+
+Item 8.01. Other Events.
+
+As previously disclosed, in April 2019 in connection with antitrust review, Altria and JUUL received a request for additional information (commonly referred to as a “second request”) from the FTC. In October 2019, Altria and JUUL certified substantial compliance with the second request. Based on the timing agreement among Altria, JUUL and the FTC staff, Share Conversion will not occur before the end of the 70th calendar day following certification of substantial compliance by Altria and JUUL unless the FTC completes its review prior to that day. This agreement has been subject to extensions for the convenience of the parties; however, Altria believes the FTC will complete its review in the first half of 2020.
+
+Upon antitrust clearance, Altria expects to account for its equity method investment in JUUL using the fair value option. 
+
+Item 9.01. Financial Statements and Exhibits.
+
+[DATA_TABLE_REMOVED]
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]
+
+DATE: January 30, 2020
+
+4

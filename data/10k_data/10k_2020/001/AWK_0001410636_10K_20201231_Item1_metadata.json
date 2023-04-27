@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001410636",
+    "sec_company_name": "American Water Works Company, Inc. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210224",
+    "sec_changed_date": "20210224",
+    "sec_accepted_date": "20210224163218",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1410636/000141063621000101/0001410636-21-000101-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1410636/000141063621000101/0001410636-21-000101.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\AWK_0001410636_10K_20201231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4586193 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 86558,
+    "endpoints": [
+        "PART I",
+        "ITEM 1A. RISK FACTORS"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AWK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\AWK_0001410636_10K_20201231_Item1_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 16:56:46.297211"
+}

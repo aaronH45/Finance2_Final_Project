@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000315293",
+    "sec_company_name": "Aon plc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150206",
+    "sec_filing_date": "20150206",
+    "sec_changed_date": "20150206",
+    "sec_accepted_date": "20150206065343",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/315293/000162828015000497/0001628280-15-000497-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/315293/000162828015000497/0001628280-15-000497.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\AON_0000315293_EX991_20150206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "994685 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24442,
+    "endpoints": [
+        "Ex99.1 Press Release Q4 2014   ",
+        "15"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AON",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\AON_0000315293_EX991_20150206_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:17:17.393741"
+}

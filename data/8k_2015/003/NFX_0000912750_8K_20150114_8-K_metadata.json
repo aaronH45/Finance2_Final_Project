@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912750",
+    "sec_company_name": "NEWFIELD EXPLORATION CO /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150114",
+    "sec_filing_date": "20150114",
+    "sec_changed_date": "20150114",
+    "sec_accepted_date": "20150114164645",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912750/000091275015000003/0000912750-15-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912750/000091275015000003/0000912750-15-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\NFX_0000912750_8K_20150114_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "31450 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4165,
+    "endpoints": [
+        "nfx8-k.htm      ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NFX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\NFX_0000912750_8K_20150114_8-K_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:35.394245"
+}

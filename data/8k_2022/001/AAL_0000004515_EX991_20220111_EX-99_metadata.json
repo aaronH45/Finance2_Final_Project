@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004515",
+    "sec_company_name": "AMERICAN AIRLINES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220111",
+    "sec_filing_date": "20220111",
+    "sec_changed_date": "20220111",
+    "sec_accepted_date": "20220111073029",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620122000004/0000006201-22-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620122000004/0000006201-22-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\AAL_0000004515_EX991_20220111_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "56206 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5843,
+    "endpoints": [
+        "Document",
+        "Certain of the statements contained in this report should be considered forward-looking statements within the meaning of the Securities Act, the Exchange Act and the Private Securities Litigation Reform Act of 1995. These forward-looking statements may be identified by words such as “may,” “will,” “expect,” “intend,” “anticipate,” “believe,” “estimate,” “plan,” “project,” “could,” “should,” “would,” “continue,” “seek,” “target,” “guidance,” “outlook,” “if current trends continue,” “optimistic,” “forecast” and other similar words. Such statements include, but are not limited to, statements about the Company’s plans, objectives, expectations, intentions, estimates and strategies for the future, the continuing availability of borrowings under revolving lines of credit, and other statements that are not historical facts. These forward-looking statements are based on the Company’s current objectives, beliefs and expectations, and they are subject to significant risks and uncertainties that may cause actual results and financial position and timing of certain events to differ materially from the information in the forward-looking statements. These risks and uncertainties include, but are not limited to, those set forth herein as well as in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2021 (especially in Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations and Part II, Item 1A. Risk Factors), and other risks and uncertainties listed from time to time in the Company’s other filings with the Securities and Exchange Commission. In particular, the consequences of the coronavirus outbreak to economic conditions and the travel industry in general and the financial position and operating results of the Company in particular have been material, are changing rapidly, and cannot be predicted. Additionally, there may be other factors of which the Company is not currently aware that may affect matters discussed in the forward-looking statements and may also cause actual results to differ materially from those discussed. The Company does not assume any obligation to publicly update or supplement any forward-looking statement to reflect actual results, changes in assumptions or changes in other factors affecting these forward-looking statements other than as required by law. Any forward-looking statements speak only as of the date hereof or as of the dates indicated in the statement."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\AAL_0000004515_EX991_20220111_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:53.309807"
+}

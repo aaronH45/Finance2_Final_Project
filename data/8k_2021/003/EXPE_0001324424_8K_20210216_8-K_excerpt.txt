@@ -1,0 +1,87 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0001324424 false        0001324424   2021-02-16 2021-02-16     0001324424  us-gaap:CommonStockMember exch:XNGS    2021-02-16 2021-02-16     0001324424  expe:SeniorNotes2.500PercentDue2022Member exch:XNYS    2021-02-16 2021-02-16    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): February 16, 2021 
+
+EXPEDIA GROUP, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+1111 Expedia Group Way W. 
+
+Seattle, Washington 98119 
+
+(Address of Principal Executive Offices, and Zip Code) 
+
+(206) 481-7200 
+
+(Registrant's Telephone Number, Including Area Code) 
+
+Not applicable 
+
+(Former Name or Former Address, if Changed Since Last Report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+   ¨ Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+   ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+   ¨ Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+   ¨ Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 8.01 Other Events. 
+
+On February 16, 2021, Expedia Group, Inc. (the “Company”) issued a press release announcing that it intends to commence (1) an offering (the “Senior Notes Offering”) of senior unsecured notes of the Company (the “Senior Notes”) in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act and to certain non-U.S. persons in accordance with Regulation S under the Securities Act, upon the terms of a preliminary offering memorandum, dated as of February 16, 2021 (the “Senior Notes Offering Memorandum”) and (2) an offering (the “Convertible Notes Offering,” together with the Senior Notes Offering, the “Offerings”) of $825 million aggregate principal amount of convertible unsecured senior notes of the Company (the “Convertible Notes”) in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act, and the related grant to the initial purchasers of the Convertible Notes of an option to purchase up to an additional $100 million aggregate principal amount of Convertible Notes, upon the terms of a preliminary offering memorandum, dated February 16, 2021 (the “Convertible Notes Offering Memorandum”). 
+
+Concurrently with the Offerings, the Company issued a press release announcing that it has commenced a cash tender offer (the “Tender Offer”) to purchase its 6.250% Senior Notes due 2025 for an aggregate purchase price of up to $950 million (the “Maximum Amount”). The Tender Offer is being made exclusively pursuant to the offer to purchase, dated as of February 16, 2021 (the “Offer to Purchase”), which sets forth the terms and conditions of the Tender Offer. The Tender Offer is conditioned upon, among other things, (i) the Company receiving aggregate net proceeds from the Senior Notes Offering and/or the Convertible Notes Offering (after the payment of any fees and expenses related to the Senior Notes Offering and the Convertible Notes Offering, in each case, if consummated) in an amount equal to no less than the sum of the Maximum Amount and the Redemption Price (as defined below) and (ii) the satisfaction of certain customary conditions described in the Offer to Purchase. 
+
+Also on February 16, 2021, the Company issued a conditional notice of redemption (the “Redemption”) for all of the outstanding 7.000% Senior Notes due 2025, which were issued on May 5, 2020 in the aggregate principal amount of $750 million (the “7.000% Notes”) with an expected redemption date of March 3, 2021 (the “Redemption Date”), at a redemption price equal to 100% of the principal amount of the 7.000% Notes to be redeemed, plus the Applicable Premium (as defined in the indenture governing the 7.000% Notes) as of, and accrued and unpaid interest thereon to but excluding, the Redemption Date (the “Redemption Price”). Notwithstanding the foregoing, the Redemption is conditioned on the receipt of aggregate net proceeds (after the payment of any fees and expenses related to the Senior Notes Offering and the Convertible Notes Offering, in each case, if consummated) of the Senior Notes Offering and/or the Convertible Notes Offering in an amount equal to no less than the Redemption Price. 
+
+The press release relating to the Offerings and the Redemption is attached hereto as Exhibit 99.1, the press release relating to the Tender Offer is attached hereto as Exhibit 99.2 and each such exhibit is incorporated herein by reference. 
+
+This report does not constitute an offer to sell or purchase or a solicitation of an offer to purchase or sell any securities nor will there be any sale of these securities in any state in which such offer, solicitation or sale would be unlawful under the securities laws of such state. The Senior Notes Offering will be made only by means of the Senior Notes Offering Memorandum. The Convertible Notes Offering will be made only by means of the Convertible Notes Offering Memorandum. The Tender Offer will be made only by means of the Offer to Purchase. This report is not a notice of redemption or an obligation to issue a notice of redemption with respect to the 7.000% Notes. 
+
+Forward-Looking Statements 
+
+This report, including Exhibits 99.1 and 99.2, contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements reflect the views of our management regarding current expectations and projections about future events and are based on currently available information. Actual results could differ materially from those contained in these forward-looking statements for a variety of reasons, including, but not limited to, those discussed in the section entitled “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2020, as well as those discussed elsewhere in our public filings with the Securities and Exchange Commission (“SEC”). COVID-19, and the volatile regional and global economic conditions stemming from it, and additional or unforeseen effects from the COVID-19 pandemic, could also give rise to or aggravate these risk factors, which in turn could materially adversely affect our business, financial condition, liquidity, results of operations (including revenues and profitability) and/or stock price. Further, COVID-19 may also affect our operating and financial results in a manner that is not presently known to us or that we currently do not consider to present significant risks to our operations. Other unknown or unpredictable factors also could have a material adverse effect on our business, financial condition and results of operations. Accordingly, readers should not place undue reliance on these forward-looking statements. The use of words such as “anticipates,” “believes,” “could,” “estimates,” “expects,” “goal,” “intends,” “likely,” “may,” “plans,” “potential,” “predicts,” “projected,” “seeks,” “should” and “will,” or the negative of these terms or other similar expressions, among others, generally identify forward-looking statements; however, these words are not the exclusive means of identifying such statements. In addition, any statements that refer to expectations, projections or other characterizations of future events or circumstances are forward-looking statements. These forward-looking statements are inherently subject to uncertainties, risks and changes in circumstances that are difficult to predict. We are not under any obligation to, and do not intend to, publicly update or review any of these forward-looking statements, whether as a result of new information, future events or otherwise, even if experience or future events make it clear that any expected results expressed or implied by those forward-looking statements will not be realized. Please carefully review and consider the various disclosures made in this press release and in our reports filed with the SEC that attempt to advise interested parties of the risks and factors that may affect our business, prospects and results of operations. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

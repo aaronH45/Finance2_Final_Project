@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001058290",
+    "sec_company_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180207",
+    "sec_filing_date": "20180207",
+    "sec_changed_date": "20180207",
+    "sec_accepted_date": "20180207061141",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1058290/000105829018000003/0001058290-18-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1058290/000105829018000003/0001058290-18-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\CTSH_0001058290_EX991_20180207_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "454047 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22827,
+    "endpoints": [
+        "Exhibit   ",
+        "(b)In December 2017, we entered into an accelerated share repurchase agreement, or the ASR, with a financial institution under our stock repurchase program. Under the terms of the December ASR and in exchange for up-front payment of $300 million, the financial institution initially delivered 3.6 million shares, a portion of the Company's total expected shares to be repurchased under the ASR. The total number of shares ultimately delivered is determined at the end of the applicable purchase period under the ASR based on the volume-weighted average price of the Company's common stock during that period. The December ASR purchase period is scheduled to end during the first quarter of 2018."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CTSH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\CTSH_0001058290_EX991_20180207_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:28:06.603864"
+}

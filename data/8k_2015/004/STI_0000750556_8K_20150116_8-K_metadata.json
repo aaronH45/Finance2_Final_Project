@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000750556",
+    "sec_company_name": "SUNTRUST BANKS INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150116",
+    "sec_filing_date": "20150116",
+    "sec_changed_date": "20150116",
+    "sec_accepted_date": "20150116060201",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055615000008/0000750556-15-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055615000008/0000750556-15-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\STI_0000750556_8K_20150116_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "28553 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3184,
+    "endpoints": [
+        "8-K Cover Page - 4Q 2014 Earnings   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\STI_0000750556_8K_20150116_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:24.918819"
+}

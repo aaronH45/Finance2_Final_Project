@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190115",
+    "sec_filing_date": "20190115",
+    "sec_changed_date": "20190115",
+    "sec_accepted_date": "20190115161937",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799619000003/0000037996-19-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799619000003/0000037996-19-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_EX99_20190115_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "24948 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8787,
+    "endpoints": [
+        "exhibit99tojanuary152019   ",
+        " Cautionary Note On Forward-Looking Statements Statements included or incorporated by reference herein may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on expectations, forecasts, and assumptions by our management and involve a number of risks, uncertainties, and other factors that could cause actual results to differ materially from those stated, including, without limitation: • Ford’s long-term competitiveness depends on the successful execution of fitness actions; • Industry sales volume, particularly in the United States, Europe, or China, could decline if there is a financial crisis, recession, or significant geopolitical event; • Ford’s new and existing products and mobility services are subject to market acceptance; • Ford’s results are dependent on sales of larger, more profitable vehicles, particularly in the United States; • Ford may face increased price competition resulting from industry excess capacity, currency fluctuations, or other factors; • Fluctuations in commodity prices, foreign currency exchange rates, and interest rates can have a significant effect on results; • With a global footprint, Ford’s results could be adversely affected by economic, geopolitical, protectionist trade policies, or other events; • Ford’s production, as well as Ford’s suppliers’ production, could be disrupted by labor disputes, natural or man-made disasters, financial distress, production difficulties, or other factors; • Ford’s ability to maintain a competitive cost structure could be affected by labor or other constraints; • Pension and other postretirement liabilities could adversely affect Ford’s liquidity and financial condition; • Economic and demographic experience for pension and other postretirement benefit plans (e.g., discount rates or investment returns) could be worse than Ford has assumed; • Ford’s vehicles could be affected by defects that result in delays in new model launches, recall campaigns, or increased warranty costs; • Safety, emissions, fuel economy, and other regulations affecting Ford may become more stringent; • Ford could experience unusual or significant litigation, governmental investigations, or adverse publicity arising out of alleged defects in products, perceived environmental impacts, or otherwise; • Ford’s receipt of government incentives could be subject to reduction, termination, or clawback; • Operational systems, security systems, and vehicles could be affected by cyber incidents; • Ford Credit’s access to debt, securitization, or derivative markets around the world at competitive rates or in sufficient amounts could be affected by credit rating downgrades, market volatility, market disruption, regulatory requirements, or other factors; • Ford Credit could experience higher-than-expected credit losses, lower-than-anticipated residual values, or higher-than-expected return volumes for leased vehicles; • Ford Credit could face increased competition from banks, financial institutions, or other third parties seeking to increase their share of financing Ford vehicles; and • Ford Credit could be subject to new or increased credit regulations, consumer or data protection regulations, or other regulations. We cannot be certain that any expectation, forecast, or assumption made in preparing forward-looking statements will prove accurate, or that any projection will be realized. It is to be expected that there may be differences between projected and actual results. Our forward-looking statements speak only as of the date of their initial issuance, and we do not undertake any obligation to update or revise publicly any forward-looking statement, whether as a result of new information, future events, or otherwise. For additional discussion, see “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2017, as updated by subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. 22"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_EX99_20190115_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:42:52.184174"
+}

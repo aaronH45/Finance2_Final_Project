@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000891024",
+    "sec_company_name": "PATTERSON COMPANIES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210112",
+    "sec_filing_date": "20210112",
+    "sec_changed_date": "20210112",
+    "sec_accepted_date": "20210112080103",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/891024/000119312521006808/0001193125-21-006808-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/891024/000119312521006808/0001193125-21-006808.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\PDCO_0000891024_EX991_20210112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22744 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14808,
+    "endpoints": [
+        "EX-99   ",
+        " Reconciliation of GAAP to non-GAAP Measures A-2 Fiscal quarters ended July 29, 2017 through October 24, 2020 Adjusted Diluted EPS (Unaudited) 1Q 18 2Q 18 3Q 18 4Q 18 1Q 19 2Q 19 3Q 19 4Q 19 1Q 20 2Q 20 3Q 20 4Q 20 1Q 21 2Q 21 GAAP diluted earnings (loss) per share attributable to Patterson Companies, Inc. 0.33 $ 0.43 $ 1.18 $ 0.23 $ (0.05) $ 0.31 $ 0.33 $ 0.30 $ 0.32 $ (0.35) $ 0.24 $ (6.44) $ 0.25 $ 0.56 $ Deal amortization 0.07 0.07 0.08 0.07 0.08 0.08 0.08 0.07 0.07 0.07 0.07 0.07 0.07 0.07 Integration and business restructuring expenses 0.04 0.01 - - - - - - 0.02 0.03 0.06 0.02 - - Legal reserve costs - - - - 0.22 - - - 0.14 0.62 0.02 - - - Accelerated debt-related costs - - - - - - - - - 0.01 0.07 - - - Discrete tax matters - - (0.83) 0.01 - - (0.03) - - - - - - - Investment gain - - - - - - - - (0.28) - - - - - Goodwill impairment - - - - - - - - - - - 6.72 - - Non-GAAP diluted earnings per share attributable to Patterson Companies, Inc.* 0.44 $ 0.51 $ 0.43 $ 0.30 $ 0.26 $ 0.39 $ 0.38 $ 0.37 $ 0.27 $ 0.39 $ 0.47 $ 0.43 $ 0.33 $ 0.63 $ GAAP operating income (loss) as a percent of sales 4.4% 5.2% 3.6% 2.9% 0.3% 2.9% 3.2% 3.2% 1.3% -1.3% 3.0% -47.8% 3.0% 4.7% Non-GAAP operating income as a percent of sales 5.6% 6.0% 4.3% 3.6% 3.2% 3.6% 3.9% 3.9% 3.4% 4.0% 4.3% 5.6% 3.8% 5.3% * May not sum due to rounding and difference in weighted average shares used to calculate diluted earnings (loss) per share."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PDCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\PDCO_0000891024_EX991_20210112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:56:28.464386"
+}

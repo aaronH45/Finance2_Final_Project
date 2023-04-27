@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001071739",
+    "sec_company_name": "CENTENE CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200121",
+    "sec_filing_date": "20200122",
+    "sec_changed_date": "20200121",
+    "sec_accepted_date": "20200121215331",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1071739/000107173920000020/0001071739-20-000020-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1071739/000107173920000020/0001071739-20-000020.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CNC_0001071739_EX991_20200121_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "36346 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 16199,
+    "endpoints": [
+        "Exhibit  ",
+        "This list of important factors is not intended to be exhaustive. Centene discusses certain of these matters more fully, as well as certain other factors that may affect Centene’s business operations, financial condition and results of operations, in Centene’s filings with the Securities and Exchange Commission (the “SEC”), including the registration statement on Form S-4 filed by Centene with the SEC on May 23, 2019, and Centene’s Annual Report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, Centene cannot give assurances with respect to Centene’s future performance, including without limitation Centene’s ability to maintain adequate premium levels or Centene’s ability to control its future medical and selling, general and administrative costs."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CNC_0001071739_EX991_20200121_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:43:52.718577"
+}

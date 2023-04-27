@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001158449",
+    "sec_company_name": "ADVANCE AUTO PARTS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150212",
+    "sec_filing_date": "20150212",
+    "sec_changed_date": "20150212",
+    "sec_accepted_date": "20150212084527",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844915000023/0001158449-15-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844915000023/0001158449-15-000023.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AAP_0001158449_EX991_20150212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "613112 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18945,
+    "endpoints": [
+        "Exhibit 99.1_Q4_2014   ",
+        "(a) These financial measures for the thirteen and fifty-three weeks ended January 3, 2015 have been reported on a GAAP basis which includes the impact of a 53rd week of operations, BWP integration costs of $0.8 million and $9.0 million, respectively, General Parts integration costs of $36.0 million and $73.2 million, respectively, and General Parts amortization of acquired intangible assets of $9.9 million and $42.7 million, respectively. These financial measures for the twelve and fifty-two weeks ended December 28, 2013 have been reported on a GAAP basis which includes transaction expenses related to our General Parts acquisition of $21.9 million and $27.0 million, respectively, and the impact of BWP integration costs of $3.1 million and $8.0 million, respectively. Included in the transaction costs in each period presented is $2.0 million that is classified as interest expense. These financial measures should be read in conjunction with our financial measures presented on a comparable basis earlier in this press release. Management believes the reporting of financial results on a non-GAAP basis to remain comparable is important in assessing the overall performance of the business and is therefore useful for investors and prospective investors."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\AAP_0001158449_EX991_20150212_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:19:55.908378"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000916365",
+    "sec_company_name": "TRACTOR SUPPLY CO /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190301",
+    "sec_filing_date": "20190301",
+    "sec_changed_date": "20190301",
+    "sec_accepted_date": "20190301172927",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636519000038/0000916365-19-000038-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636519000038/0000916365-19-000038.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\TSCO_0000916365_8K_20190301_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "44801 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5521,
+    "endpoints": [
+        "Document   ",
+        "Form of Change in Control Agreement by and between Tractor Supply Company and each of Steve K. Barbarick, Kurt D. Barton, Benjamin F. Parrish, Jr., Robert D. Mills and Chad M. Frazell."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TSCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\TSCO_0000916365_8K_20190301_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:55:25.268674"
+}

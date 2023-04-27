@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000028385",
+    "sec_company_name": "DTE Electric Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180227",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180227",
+    "sec_accepted_date": "20180227161614",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634018000086/0000936340-18-000086-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634018000086/0000936340-18-000086.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\DTE_0000028385_EX991_20180227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "36541 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20776,
+    "endpoints": [
+        "bamlpresentationfinalfor  ",
+        "29 Use of Operating Earnings Information – Operating earnings exclude non-recurring items, certain mark-to- market adjustments and discontinued operations. DTE Energy management believes that operating earnings provide a more meaningful representation of the company’s earnings from ongoing operations and uses operating earnings as the primary performance measurement for external communications with analysts and investors. Internally, DTE Energy uses operating earnings to measure performance against budget and to report to the Board of Directors. In this presentation, DTE Energy provides guidance for future period operating earnings. It is likely that certain items that impact the company’s future period reported results will be excluded from operating results. A reconciliation to the comparable future period reported earnings is not provided because it is not possible to provide a reliable forecast of specific line items (i.e. future non-recurring items, certain mark-to- market adjustments and discontinued operations). These items may fluctuate significantly from period to period and may have a significant impact on reported earnings. Reconciliation of reported to operating earnings (non-GAAP)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DTE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\DTE_0000028385_EX991_20180227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:25:17.821091"
+}

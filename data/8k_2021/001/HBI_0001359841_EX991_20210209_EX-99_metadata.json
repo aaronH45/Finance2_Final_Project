@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001359841",
+    "sec_company_name": "Hanesbrands Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210209",
+    "sec_filing_date": "20210209",
+    "sec_changed_date": "20210209",
+    "sec_accepted_date": "20210209063117",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984121000072/0001359841-21-000072-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984121000072/0001359841-21-000072.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HBI_0001359841_EX991_20210209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "684874 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24602,
+    "endpoints": [
+        "Document",
+        "1The company expects approximately 353 million diluted weighted average shares outstanding for the quarter ended April 3, 2021."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HBI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\HBI_0001359841_EX991_20210209_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:45.224385"
+}

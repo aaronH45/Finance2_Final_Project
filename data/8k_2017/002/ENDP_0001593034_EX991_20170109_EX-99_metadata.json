@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001593034",
+    "sec_company_name": "Endo International plc (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170109",
+    "sec_filing_date": "20170109",
+    "sec_changed_date": "20170109",
+    "sec_accepted_date": "20170109105608",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1593034/000119312517005328/0001193125-17-005328-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1593034/000119312517005328/0001193125-17-005328.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\ENDP_0001593034_EX991_20170109_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22344 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13171,
+    "endpoints": [
+        "EX-99.1   ",
+        " Endo International plc 35th Annual J.P. Morgan Healthcare Conference January 9, 2017 ©2017 Endo Pharmaceuticals Inc. All rights reserved."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ENDP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\ENDP_0001593034_EX991_20170109_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:07:57.824968"
+}

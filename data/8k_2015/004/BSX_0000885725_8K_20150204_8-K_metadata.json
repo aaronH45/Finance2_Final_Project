@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000885725",
+    "sec_company_name": "BOSTON SCIENTIFIC CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150204",
+    "sec_filing_date": "20150204",
+    "sec_changed_date": "20150204",
+    "sec_accepted_date": "20150204070746",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/885725/000088572515000002/0000885725-15-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/885725/000088572515000002/0000885725-15-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\BSX_0000885725_8K_20150204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "27173 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2538,
+    "endpoints": [
+        "Q4 2014 Earnings Release   ",
+        "99.1Press Release issued by Boston Scientific Corporation dated February 4, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BSX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\BSX_0000885725_8K_20150204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:27:27.534984"
+}

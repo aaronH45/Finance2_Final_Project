@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000350698",
+    "sec_company_name": "AUTONATION, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210119",
+    "sec_filing_date": "20210122",
+    "sec_changed_date": "20210122",
+    "sec_accepted_date": "20210122160448",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/350698/000035069821000026/0000350698-21-000026-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/350698/000035069821000026/0000350698-21-000026.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\AN_0000350698_8K_20210119_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "37006 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2977,
+    "endpoints": [
+        "xml version='1.0' ? an-20210119",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\AN_0000350698_8K_20210119_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:47.868990"
+}

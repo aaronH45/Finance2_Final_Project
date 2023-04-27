@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180226",
+    "sec_filing_date": "20180226",
+    "sec_changed_date": "20180226",
+    "sec_accepted_date": "20180226170827",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968418000018/0001039684-18-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968418000018/0001039684-18-000018.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\OKE_0001039684_EX991_20180226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "59994 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 43235,
+    "endpoints": [
+        "okeq42017earningsreled72  ",
+        " ONEOK Announces Higher Fourth-quarter and Full-year 2017 Operating Income and Adjusted EBITDA Feb. 26, 2018 Page 17 ONEOK, Inc. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES Three Months Ended Years Ended December 31, December 31, (Unaudited) 2017 2016 2017 2016 (Thousands of dollars, except per share amounts) Reconciliation of Income from Continuing Operations to Adjusted EBITDA and Distributable Cash Flow Income from continuing operations $ 64,812 $ 194,761 $ 593,519 $ 745,550 Interest expense, net of capitalized interest 124,190 114,188 485,658 469,651 Depreciation and amortization 103,769 99,310 406,335 391,585 Income taxes 251,369 54,870 447,282 212,406 Impairment charges — — 20,240 — Noncash compensation expense 3,631 11,811 13,421 31,981 Other noncash items and equity AFUDC (a) (52 ) (880 ) 20,398 (1,255 ) Adjusted EBITDA (b) 547,719 474,060 1,986,853 1,849,918 Interest expense (124,190 ) (114,188 ) (485,658 ) (469,651 ) Maintenance capital (67,184 ) (46,039 ) (147,157 ) (112,364 ) Equity in net earnings from investments; excluding noncash impairment charges (40,293 ) (39,249 ) (159,278 ) (139,690 ) Distributions received from unconsolidated affiliates 50,020 47,318 196,114 196,717 Other (58 ) (3,652 ) (6,213 ) (2,644 ) Distributable cash flow (b) $ 366,014 $ 318,250 $ 1,384,661 $ 1,322,286 Dividends paid to preferred shareholders (275 ) — (627 ) — Distributions paid to public limited partners — (135,480 ) (270,959 ) (541,919 ) Distributable cash flow to shareholders $ 365,739 $ 182,770 $ 1,113,075 $ 780,367 Dividends paid per share $ 0.745 $ 0.615 $ 2.720 $ 2.460 Dividend coverage ratio (b) 1.28 1.41 1.34 1.51 Number of shares used in computation (thousands) 383,439 210,523 304,435 210,216 (a) Full-year 2017 totals include ONEOK’s April 2017 contribution to the ONEOK Foundation of 20,000 shares of Series E Preferred Stock, with an aggregate value of $20 million. (b) Full-year 2017 amounts include transaction-related pretax cash costs of approximately $30 million, or 0.04 times dividend coverage, associated with the ONEOK and ONEOK Partners merger transaction."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\OKE_0001039684_EX991_20180226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:26:14.733280"
+}

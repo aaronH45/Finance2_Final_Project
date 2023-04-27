@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000050863",
+    "sec_company_name": "INTEL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211225",
+    "sec_filing_date": "20220127",
+    "sec_changed_date": "20220126",
+    "sec_accepted_date": "20220126183453",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/50863/000005086322000007/0000050863-22-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/50863/000005086322000007/0000050863-22-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\INTC_0000050863_EX991_20211225_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "7587 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 142,
+    "endpoints": [
+        "Document",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\INTC_0000050863_EX991_20211225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:40:30.931610"
+}

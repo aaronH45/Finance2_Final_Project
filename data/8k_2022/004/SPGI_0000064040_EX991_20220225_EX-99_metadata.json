@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000064040",
+    "sec_company_name": "S&P Global Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220225",
+    "sec_filing_date": "20220225",
+    "sec_changed_date": "20220225",
+    "sec_accepted_date": "20220225085403",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312522053496/0001193125-22-053496-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312522053496/0001193125-22-053496.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\SPGI_0000064040_EX991_20220225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14771 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10040,
+    "endpoints": [
+        "EX-99.1   ",
+        " regarding the accounting and tax treatments of the proposed transaction; (xv) the outcome of the previously announced offers to exchange any and all outstanding notes issued by IHS Markit for new notes to be issued by the Company and the solicitations of consents to adopt certain proposed amendments to each of the indentures governing the IHS Markit notes; and (xvi) those additional risks and factors discussed in reports filed with the Securities and Exchange Commission by the Company and IHS Markit from time to time, including those discussed under the heading “Risk Factors” in their respective most recently filed Annual Reports on Form 10-K. While the list of factors presented here is considered representative, this list should not be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on the Company’s or IHS Markit’s consolidated financial condition, results of operations, credit rating or liquidity. Except to the extent required by applicable law or regulation, each of the Company and IHS Markit disclaims any duty to update any forward-looking statements contained in this communication or to otherwise update any of the above-referenced factors."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPGI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\SPGI_0000064040_EX991_20220225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:31:04.293275"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000940944",
+    "sec_company_name": "DARDEN RESTAURANTS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160111",
+    "sec_filing_date": "20160111",
+    "sec_changed_date": "20160111",
+    "sec_accepted_date": "20160111062013",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/940944/000094094416000092/0000940944-16-000092-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/940944/000094094416000092/0000940944-16-000092.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\DRI_0000940944_EX991_20160111_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "51155 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 31363,
+    "endpoints": [
+        "fy16investorpresentat799  ",
+        "44 Per Share Fiscal 2015 Adjusted Diluted Net EPS from Continuing Operations $2.63 Remove 53rd Week Impact in Fiscal 2015 (In Q4) (0.07) Fiscal 2015 52 Week Adjusted Diluted Net EPS from Continuing Operations $2.56 Fiscal 2015 Annual* Reported Diluted Net EPS from Continuing Operations $1.51 Debt Retirement Costs 0.42 Strategic Action Plan and Other Costs 0.70 Adjusted Diluted Net EPS from Continuing Operations $2.63 * Reflects the additional operating week vs Fiscal 2014 GAAP to Non-GAAP Reconciliations"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DRI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\DRI_0000940944_EX991_20160111_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:43:09.013636"
+}

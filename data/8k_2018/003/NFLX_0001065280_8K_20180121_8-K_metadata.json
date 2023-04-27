@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065280",
+    "sec_company_name": "NETFLIX INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180121",
+    "sec_filing_date": "20180124",
+    "sec_changed_date": "20180124",
+    "sec_accepted_date": "20180124172153",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065280/000106528018000056/0001065280-18-000056-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065280/000106528018000056/0001065280-18-000056.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NFLX_0001065280_8K_20180121_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23656 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4346,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NFLX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\NFLX_0001065280_8K_20180121_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:26:33.259293"
+}

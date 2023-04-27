@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150114",
+    "sec_filing_date": "20150116",
+    "sec_changed_date": "20150116",
+    "sec_accepted_date": "20150116160341",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968415000006/0001039684-15-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968415000006/0001039684-15-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\OKE_0001039684_EX991_20150114_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "12389 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4459,
+    "endpoints": [
+        "OKE Q4 2014 Dividend NR   ",
+        "###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\OKE_0001039684_EX991_20150114_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:24:02.546107"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000277135",
+    "sec_company_name": "W.W. GRAINGER, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220216",
+    "sec_filing_date": "20220216",
+    "sec_changed_date": "20220216",
+    "sec_accepted_date": "20220216170140",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/277135/000110465922024311/0001104659-22-024311-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/277135/000110465922024311/0001104659-22-024311.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\GWW_0000277135_EX991_20220216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4443 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2017,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "W.W. Grainger, Inc., with 2021 sales of $13.0 billion, is a leading broad line distributor with operations primarily in North America, Japan and the United Kingdom. Grainger achieves its purpose, We Keep the World Working®, by serving more than 4.5 million customers worldwide with a wide range of product categories that keep customer operations running and their people safe. The Company also delivers services and solutions, such as technical support and inventory management, to provide tangible value and save customers time and money. Grainger offers more than 2 million maintenance, repair and operating (MRO) products in its High-Touch Solutions assortment and more than 30 million products through its expanding Endless Assortment offering. For more information, visit www.grainger.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GWW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\GWW_0000277135_EX991_20220216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:26.814728"
+}

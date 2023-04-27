@@ -1,0 +1,37 @@
+ITEM 7A—Quantitative and Qualitative Disclosures about Market Risk.
+
+The following table presents the aggregate carrying value of our mortgage notes payable, net, unsecured senior notes, net, unsecured line of credit and our corresponding estimate of fair value as of December 31, 2021. As of December 31, 2021, approximately $12.8 billion of these borrowings bore interest at fixed rates and therefore the fair value of these instruments is affected by changes in the market interest rates. As of December 31, 2021, the weighted-average interest rate on our variable rate debt was LIBOR plus 0.775% (0.87%) per annum. The following table presents our aggregate debt obligations with corresponding weighted-average interest rates sorted by maturity date. 
+
+The table below does not include our unconsolidated joint venture debt. For a discussion concerning our unconsolidated joint venture debt, see Note 6 to the Consolidated Financial Statements and “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations—Capitalization—Off-Balance Sheet Arrangements—Joint Venture Indebtedness.”
+
+[DATA_TABLE_REMOVED]
+
+At December 31, 2021, the weighted-average coupon/stated rates on the fixed rate debt stated above was 3.32% per annum. At December 31, 2021, our outstanding variable rate debt based on LIBOR totaled
+
+approximately $145.0 million. At December 31, 2021, the coupon/stated rate on our variable rate debt was
+
+approximately 0.87% per annum. If market interest rates on our variable rate debt had been 100 basis points greater, total interest expense would have increased approximately $1.5 million, on an annualized basis, for the year ended December 31, 2021. 
+
+The fair value amounts were determined solely by considering the impact of hypothetical interest rates on our financial instruments. Due to the uncertainty of specific actions, we may undertake to minimize possible effects of market interest rate increases, this analysis assumes no changes in our financial structure.
+
+On March 5, 2021, the Financial Conduct Authority (“FCA”) announced that USD LIBOR will no longer be published after June 30, 2023. This announcement has several implications, including setting the spread that may be used to automatically convert contracts from LIBOR to the Secured Overnight Financing Rate (“SOFR”). Additionally, banking regulators are encouraging banks to discontinue new LIBOR debt issuances by December 31, 2021.
+
+We anticipate that LIBOR will continue to be available at least until June 30, 2023. Any changes adopted by the FCA or other governing bodies in the method used for determining LIBOR may result in a sudden or prolonged increase or decrease in reported LIBOR. If that were to occur, our interest payments could change. In addition, uncertainty about the extent and manner of future changes may result in interest rates and/or payments that are higher or lower than if LIBOR were to remain available in its current form.
+
+We and our unconsolidated joint ventures have contracts that are indexed to LIBOR and we are monitoring and evaluating the related risks. These risks arise in connection with transitioning contracts to an alternative rate, including any resulting value transfer that may occur, and are likely to vary by contract. The value of loans, securities, or derivative instruments tied to LIBOR, as well as interest rates on our unconsolidated joint ventures current or future indebtedness, may also be impacted if LIBOR is limited or discontinued. For some instruments the 
+
+102
+method of transitioning to an alternative reference rate may be challenging, especially if we cannot agree with the respective counterparty about how to make the transition.
+
+While we expect LIBOR to be available in substantially its current form until at least the end of June 30, 2023, it is possible that LIBOR will become unavailable prior to that point. This could result, for example, if sufficient banks decline to make submissions to the LIBOR administrator. In that case, the risks associated with the transition to an alternative reference rate will be accelerated and magnified.
+
+Alternative rates and other market changes related to the replacement of LIBOR, including the introduction of financial products and changes in market practices, may lead to risk modeling and valuation challenges, such as adjusting interest rate accrual calculations and building a term structure for an alternative rate. 
+
+The introduction of an alternative rate also may create additional basis risk and increased volatility as alternative rates are phased in and utilized in parallel with LIBOR. 
+
+Adjustments to systems and mathematical models to properly process and account for alternative rates will be required, which may strain the model risk management and information technology functions and result in substantial incremental costs for us.
+
+Additional disclosure about market risk is incorporated herein by reference from “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Market Risk.”
+
+103
+Item 8. Financial Statements and Supplementary Data.

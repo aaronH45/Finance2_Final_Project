@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000701985",
+    "sec_company_name": "L Brands, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180208",
+    "sec_filing_date": "20180209",
+    "sec_changed_date": "20180209",
+    "sec_accepted_date": "20180209164802",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/701985/000070198518000007/0000701985-18-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/701985/000070198518000007/0000701985-18-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\LB_0000701985_EX991_20180208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "177558 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9169,
+    "endpoints": [
+        "Exhibit   ",
+        " Three Limited Parkway Columbus, OH 43230 www.LB.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\LB_0000701985_EX991_20180208_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:31:37.406432"
+}

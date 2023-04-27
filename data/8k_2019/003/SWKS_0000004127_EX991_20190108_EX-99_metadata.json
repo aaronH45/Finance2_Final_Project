@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004127",
+    "sec_company_name": "SKYWORKS SOLUTIONS, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190108",
+    "sec_filing_date": "20190108",
+    "sec_changed_date": "20190108",
+    "sec_accepted_date": "20190108163414",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412719000002/0000004127-19-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4127/000000412719000002/0000004127-19-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\SWKS_0000004127_EX991_20190108_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "20590 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9429,
+    "endpoints": [
+        "Exhibit   ",
+        "Note to Editors: Skyworks and the Skyworks symbol are trademarks or registered trademarks of Skyworks Solutions, Inc. or its subsidiaries in the United States and other countries. Third-party brands and names are for identification purposes only, and are the property of their respective owners."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SWKS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\SWKS_0000004127_EX991_20190108_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:55:16.215788"
+}

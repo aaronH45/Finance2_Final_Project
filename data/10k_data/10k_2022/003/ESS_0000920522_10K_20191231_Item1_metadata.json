@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920522",
+    "sec_company_name": "ESSEX PROPERTY TRUST, INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220160745",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920522/000092052220000026/0000920522-20-000026-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920522/000092052220000026/0000920522-20-000026.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\ESS_0000920522_10K_20191231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8772743 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 20586,
+    "endpoints": [
+        "Item 1. Business",
+        "ITEM 1A: RISK FACTORS"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ESS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\003\ESS_0000920522_10K_20191231_Item1_excerpt.txt",
+    "time_elapsed": 1.9,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:20:06.080537"
+}

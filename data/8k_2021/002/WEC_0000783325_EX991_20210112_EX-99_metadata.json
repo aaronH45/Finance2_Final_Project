@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000783325",
+    "sec_company_name": "WEC ENERGY GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210112",
+    "sec_filing_date": "20210112",
+    "sec_changed_date": "20210112",
+    "sec_accepted_date": "20210112161532",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781521000052/0000107815-21-000052-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781521000052/0000107815-21-000052.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\WEC_0000783325_EX991_20210112_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "38359 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24159,
+    "endpoints": [
+        "january2021   ",
+        "45 Reconciliation of Reported EPS (GAAP) to Adjusted EPS (Non-GAAP) 2014 2015 2016 2017 Reported EPS – GAAP basis $2.34 $2.59 $ 2.96 $ 3.79 Acquisition Costs $0.39 $0.06 $ 0.01 – Integrys Earnings $(0.47) Impact of Additional Shares $0.47 Tax benefit related to Tax Cuts and Jobs Act of 2017 – – – $ (0.65) Adjusted EPS – Non-GAAP basis* $2.73 $2.65 $ 2.97 $ 3.14 * WEC Energy Group has provided adjusted earnings per share (non-GAAP earnings per share) as a complement to, and not as an alternative to, reported earnings per share presented in accordance with GAAP. Adjusted earnings per share exclude, as applicable, (1) a one-time reduction in income tax expense related to a revaluation of our deferred taxes as a result of the Tax Cuts and Jobs Act of 2017; (2) costs related to the acquisition of Integrys Energy Group; (3) the results of operations of Integrys and its subsidiaries; and (4) the additional shares of WEC Energy Group common stock that were issued as part of the acquisition. None of these items are indicative of WEC Energy Group’s operating performance. Therefore, WEC Energy Group believes that the presentation of adjusted earnings per share is relevant and useful to investors to understand the company’s operating performance. Management uses such measures internally to evaluate the company’s performance and manage its operations."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WEC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\WEC_0000783325_EX991_20210112_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:01:31.984920"
+}

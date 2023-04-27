@@ -1,0 +1,91 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Interest Rate Exposure
+
+Our interest income and expense are sensitive to changes in the general level of interest rates. In this regard, changes in interest rates affect the interest earned or paid on our marketable securities and debt, as well as the fair value of our investments and debt.
+
+Based on the $500.0 million of our floating rate debt outstanding as of October 30, 2021, our annual interest expense would change by approximately $5.0 million for each 100 basis point increase in interest rates. 
+
+In certain instances, we utilize interest rate derivatives to manage interest rate exposure on both outstanding debt as well as future issuances. As of October 30, 2021, we had no outstanding interest rate derivative instruments. As of October 31, 2020, for each 100 basis point decrease in the ten-year U.S. Treasury rate, the fair value of our outstanding derivative instruments would have changed by approximately $102.0 million.
+
+Based on our marketable securities outstanding as of October 30, 2021 and October 31, 2020, our annual interest income would change by approximately $19.7 million and $10.6 million, respectively, for each 100 basis point increase in interest rates.
+
+To provide a meaningful assessment of the interest rate risk associated with our investment portfolio, we performed a sensitivity analysis to determine the impact a change in interest rates would have on the value of our investment portfolio assuming a 100 basis point parallel shift in the yield curve. Based on investment positions as of October 30, 2021 and October 31, 2020, a hypothetical 100 basis point increase in interest rates across all maturities would not materially impact the fair market value of the portfolio in either period. If significant, such losses would only be realized if we sold the investments prior to maturity.
+
+As of October 30, 2021, we had $6.8 billion in principal amount of senior unsecured notes outstanding, with a fair value of $7.1 billion. The fair value of our notes is subject to interest rate risk, market risk, and other factors. Generally, the fair value of our notes will increase as interest rates fall and decrease as interest rates rise. The fair values of our notes as of October 30, 2021 and October 31, 2020, assuming a hypothetical 100 basis point increase in market interest rates, are as follows:
+
+[DATA_TABLE_REMOVED]
+
+41
+
+Foreign Currency Exposure
+
+As more fully described in Note 2i, Derivative and Hedging Agreements, of the Notes to Consolidated Financial Statements contained in Item 8 of this Annual Report on Form 10-K, we regularly hedge our non-U.S. dollar-based exposures by entering into forward foreign currency exchange contracts. The terms of these contracts are for periods matching the duration of the underlying exposure and generally range from one to twelve months. Currently, our largest foreign currency exposure is the Euro, primarily because our European operations have the highest proportion of our local currency denominated expenses. Relative to foreign currency exposures existing at October 30, 2021 and October 31, 2020, a 10% unfavorable movement in foreign currency exchange rates over the course of the year would result in approximately $39.5 million of losses and $18.5 million of losses, respectively, in changes in earnings or cash flows.
+
+The market risk associated with our derivative instruments results from currency exchange rates that are expected to offset the market risk of the underlying transactions, assets and liabilities being hedged. The counterparties to the agreements relating to our foreign exchange instruments consist of a number of major international financial institutions with high credit ratings. Based on the credit ratings of our counterparties as of October 30, 2021, we do not believe that there is significant risk of nonperformance by them. While the contract or notional amounts of derivative financial instruments provide one measure of the volume of these transactions, they do not represent the amount of our exposure to credit risk. The amounts potentially subject to credit risk (arising from the possible inability of counterparties to meet the terms of their contracts) are generally limited to the amounts, if any, by which the counterparties’ obligations under the contracts exceed our obligations to the counterparties.
+
+The following table illustrates the effect that a 10% unfavorable or favorable movement in foreign currency exchange rates, relative to the U.S. dollar, would have on the fair value of our forward exchange contracts as of October 30, 2021 and October 31, 2020:[DATA_TABLE_REMOVED]
+
+The calculation assumes that each exchange rate would change in the same direction relative to the U.S. dollar. In addition to the direct effects of changes in exchange rates, such changes typically affect the volume of sales or the foreign currency sales price as competitors’ products become more or less attractive. Our sensitivity analysis of the effects of changes in foreign currency exchange rates does not factor in a potential change in sales levels or local currency selling prices.
+
+42
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Board of Directors and Shareholders 
+
+Analog Devices, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Analog Devices, Inc. (the Company) as of October 30, 2021 and October 31, 2020, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended October 30, 2021, and the related notes and financial statement schedule listed in the Index at Item 15(a)(2) (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at October 30, 2021 and October 31, 2020, and the results of its operations and its cash flows for each of the three years in the period ended October 30, 2021, in conformity with U.S. generally accepted accounting principles. 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of October 30, 2021, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated December 3, 2021 expressed an unqualified opinion thereon.
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Revenue Recognition – Measuring Variable Consideration
+
+Description of the MatterAs described in Note 2 to the consolidated financial statements, the Company's sales contracts provide certain distributors with credits for price protection and rights of return, which results in variable consideration. During 2021, sales to distributors were $4.6 billion net of expected price protection discounts and rights of return for which the liability balance as of October 30, 2021 was $664.2 million.
+
+Auditing the Company's measurement of variable consideration under distributor contracts involved especially challenging judgment because the calculation involves subjective management assumptions about estimates of expected price protection discounts and returns. For example, estimated variable consideration included in the transaction price reflects management's evaluation of contractual terms, historical experience and assumptions about future economic conditions. Changes in those assumptions can have a material effect on the amount of variable consideration recognized.
+
+43
+
+How We Addressed the Matter in Our AuditWe obtained an understanding over the Company's process to calculate the variable consideration. With the exception of the portion of the balance that related to Maxim Integrated Products, Inc., we also evaluated the design and tested the operating effectiveness of the relevant controls. For example, we tested controls over the appropriateness of assumptions management used as well as controls over the completeness and accuracy of the data underlying estimates of expected price protection discounts and returns.
+
+Our audit procedures included, among others, inspecting contractual terms in distributor agreements and testing the underlying data used in management’s calculation for completeness and accuracy as well as evaluating the significant assumptions used in the estimation of variable consideration. We evaluated the Company’s methods and assumptions used in the estimates, which included comparing the assumptions to historical trends. We inspected and tested the results of the Company's retrospective review analysis of actual returns and price protection discounts claimed by distributors, evaluated the estimates made based on historical experience and performed sensitivity analyses of the Company’s significant assumptions to assess the impact on the variable consideration. We also evaluated whether the Company appropriately considered new information that could significantly change the estimated future price protection discounts or returns.
+
+Accounting for Acquisitions – Valuation of Identified Intangibles 
+
+Description of the Matter
+
+During 2021, the Company completed its acquisition of Maxim Integrated Products, Inc. (Maxim) for total consideration of $27.9 billion, as disclosed in Note 6 to the consolidated financial statements. The transaction was accounted for as a business combination.
+
+Auditing the Company's accounting for its acquisition of Maxim was complex due to the significant estimation uncertainty in the Company’s determination of the fair value of identifiable intangible assets of $12.4 billion, which principally consisted of developed technology and customer relationships. The significant estimation uncertainty was primarily due to the sensitivity of the respective fair values to underlying assumptions about the future performance of the acquired business. The Company used discounted cash flow models to measure the developed technology and customer relationship intangible assets. The significant assumptions used to estimate the fair value of the intangible assets included discount rates and certain assumptions that form the basis of the forecasted results (e.g., annual revenue growth rates, developed technology obsolescence rates and customer attrition rates). These significant assumptions are forward looking and could be affected by future economic and market conditions. 
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company's accounting for acquisitions process. For example, we tested controls over the appropriateness of the valuation model, assumptions management used as well as controls over the completeness and accuracy of the data underlying the valuation of the developed technology and customer relationship intangible assets.
+
+To test the estimated fair value of the developed technology and customer relationship intangible assets, our audit procedures included, among others, assessing methodologies and testing the significant assumptions discussed above and the underlying data supporting the significant assumptions and estimates used by the Company in the valuation. We tested significant assumptions through a combination of procedures, as applicable for each assumption, including comparing them to current and forecasted industry and economic trends, as well as to the historical results of the acquired business and other guideline companies within the same industry. With the assistance of our valuation specialists, we evaluated the methodology used by the Company and significant assumptions included in the fair value estimates. 
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1967. 
+
+Boston, Massachusetts
+
+December 3, 2021 
+
+44
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

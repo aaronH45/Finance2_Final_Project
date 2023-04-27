@@ -1,0 +1,81 @@
+xml version="1.0" ? f-20210121
+
+0000037996False00000379962021-01-212021-01-210000037996f:FPRBMember2021-01-212021-01-210000037996f:FPRCMember2021-01-212021-01-21
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of 
+
+the Securities Exchange Act of 1934
+
+Date of Report: January 21, 2021 
+
+(Date of earliest event reported)
+
+FORD MOTOR COMPANY
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+(State or other jurisdiction of incorporation)
+
+[DATA_TABLE_REMOVED]
+
+Registrant’s telephone number, including area code 313-322-3000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act 
+
+ (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act 
+
+ (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 7.01. Regulation FD Disclosure.
+
+Takata Field Service Action
+
+Ford Motor Company will be conducting a field service action to replace Takata airbag inflators in certain model year 2006 through 2012 vehicles, including Ford Ranger (MY 2007-2011), Fusion (MY 2006-2012), Edge (MY 2007-2010), Lincoln MKZ/Zephyr (MY 2006-2012), MKX (MY 2007-2010), and Mercury Milan (MY 2006-2011) vehicles. The action will affect approximately 2.7 million vehicles in the United States and approximately 0.3 million vehicles in Canada and other locations. The cost of the action is estimated to be about $610 million and will be reflected in our fourth quarter 2020 results. Consistent with our corporate policy, which considers the magnitude of individual field service actions, the expense will be treated as a special item. Accordingly, it will not impact our total Company adjusted EBIT or adjusted earnings per share.
+
+This field service action applies to the PSDI-5 design desiccated Takata inflators, which are different in design and performance from earlier-recalled non-desiccated Takata inflators. When NHTSA extended a finding of defect in 2017 to these desiccated inflators, we retained technical experts to conduct a comprehensive technical study and testing protocol. In addition to confirming the absence of any field failures of this family of inflators, the study concluded that the PSDI-5 desiccated inflators did not evidence degradation that would lead to a risk of future failures warranting a recall. 
+
+We filed a Petition for Inconsequentiality with NHTSA in July 2017, seeking exemption from the recall requirements of the Safety Act because the risks identified were so remote that they were inconsequential to safety. Our petition was denied on January 19, 2021.  
+
+Accounting for Pension and OPEB Plans
+
+Ford Motor Company uses the mark-to-market method of accounting for pension and other postretirement employee benefits (OPEB). Under this method, we recognize pension and OPEB remeasurement gains and losses in income when incurred rather than amortizing them over time as a component of net periodic benefit cost. The remeasurement gains and losses are reported as special items since we believe they are not reflective of our ongoing operating results.
+
+We expect to record a pre-tax remeasurement loss in our fourth quarter 2020 results of approximately $1.5 billion related to our pension and OPEB plans. This includes a $350 million loss associated with pension plans in the United States, a $650 million loss associated with pension plans outside the United States, and a $500 million loss associated with OPEB plans globally. Overall, the remeasurement loss is driven by lower discount rates compared with year-end 2019, offset partially by asset returns in excess of our assumptions. On an after-tax basis, the remeasurement loss is expected to reduce our net income by about $1.2 billion. Because the remeasurement loss is a special item, it will not impact our total Company adjusted EBIT or adjusted earnings per share. The remeasurement loss did not have an impact on our cash in 2020, and does not change our expectations for pension contributions in 2021. 
+
+Including the impact of remeasurement gains and losses during 2020, we expect the underfunded status for our pension and OPEB plans to be about $6.7 billion and $6.6 billion, respectively, at year-end 2020, compared with $6.8 billion and $6.1 billion, respectively, at year-end 2019. The change to the underfunded status of our plans in the aggregate primarily reflects the impact of lower discount rates on unfunded plans. 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

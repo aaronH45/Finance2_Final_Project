@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001281761",
+    "sec_company_name": "REGIONS FINANCIAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150120",
+    "sec_filing_date": "20150120",
+    "sec_changed_date": "20150120",
+    "sec_accepted_date": "20150120062552",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1281761/000128176115000007/0001281761-15-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1281761/000128176115000007/0001281761-15-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\RF_0001281761_EX991_20150120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "190619 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24983,
+    "endpoints": [
+        "RF-2014.12.31-Exhibit 99.1    ",
+        " See page 14 of the supplement to this earnings release for the reconciliation of select annualized net charge-offs as a percentage of average loans ratios (GAAP) to select adjusted annualized net charge-offs as a percentage of average loans ratios (non-GAAP). See pages 18-20 of the supplement to this earnings release for 1) a reconciliation of average and ending stockholders’ equity (GAAP) to average and ending tangible common stockholders’ equity (non-GAAP), 2) computation of return on average tangible common stockholders’ equity (non-GAAP), 3) computation of Basel III common equity Tier1 (non-GAAP) 4) a reconciliation of total assets (GAAP) to tangible assets (non-GAAP), 5) computation of tangible common stockholders’ equity (non-GAAP) to tangible assets (non-GAAP) and tangible common book value per share (non-GAAP), 6) a reconciliation of stockholders’ equity (GAAP) to Tier 1 common equity (non-GAAP), 7) computation of Tier 1 common and Basel III common equity Tier1 risk-based ratios (non-GAAP), 8) a reconciliation of non-interest expense (GAAP) to adjusted non-interest expense (non-GAAP),9) a reconciliation of non-interest income (GAAP) to adjusted non-interest income (non-GAAP), and 10) a computation of the adjusted efficiency and fee income ratios (non-GAAP)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RF",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\RF_0001281761_EX991_20150120_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:16:15.438202"
+}

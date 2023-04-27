@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000851968",
+    "sec_company_name": "MOHAWK INDUSTRIES INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150113",
+    "sec_filing_date": "20150116",
+    "sec_changed_date": "20150116",
+    "sec_accepted_date": "20150116171059",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/851968/000162828015000153/0001628280-15-000153-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/851968/000162828015000153/0001628280-15-000153.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\MHK_0000851968_8K_20150113_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "29081 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5883,
+    "endpoints": [
+        "MHK 1-16-2015 8K   ",
+        "99.1Press Release of Mohawk Industries, Inc., issued on January 13, 2015."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MHK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\MHK_0000851968_8K_20150113_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:31:13.960821"
+}

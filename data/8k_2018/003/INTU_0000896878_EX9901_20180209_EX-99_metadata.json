@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896878",
+    "sec_company_name": "INTUIT INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180209",
+    "sec_filing_date": "20180209",
+    "sec_changed_date": "20180209",
+    "sec_accepted_date": "20180209165253",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687818000030/0000896878-18-000030-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687818000030/0000896878-18-000030.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\INTU_0000896878_EX9901_20180209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "99406 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20499,
+    "endpoints": [
+        "Exhibit   ",
+        "The reconciliations of the forward-looking non-GAAP financial measures to the most directly comparable GAAP financial measures in Table 1 include all information reasonably available to Intuit at the date of this press release. This table includes adjustments that we can reasonably predict. Events that could cause the reconciliation to change include acquisitions and divestitures of businesses, goodwill and other asset impairments, sales of available-for-sale debt securities and other investments, and disposals of businesses and long-lived assets."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\INTU_0000896878_EX9901_20180209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:28:09.894484"
+}

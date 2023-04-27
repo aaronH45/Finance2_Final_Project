@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001133421",
+    "sec_company_name": "NORTHROP GRUMMAN CORP /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170126",
+    "sec_filing_date": "20170126",
+    "sec_changed_date": "20170126",
+    "sec_accepted_date": "20170126064531",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1133421/000113342117000004/0001133421-17-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1133421/000113342117000004/0001133421-17-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\NOC_0001133421_8K_20170126_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "33775 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1912,
+    "endpoints": [
+        "Document   ",
+        "Exhibit 99 Furnished — Earnings Release dated January 26, 2017"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NOC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\NOC_0001133421_8K_20170126_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:14:11.812909"
+}

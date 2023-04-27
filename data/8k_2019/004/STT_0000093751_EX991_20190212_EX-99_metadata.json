@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190212",
+    "sec_filing_date": "20190212",
+    "sec_changed_date": "20190212",
+    "sec_accepted_date": "20190212093836",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375119000022/0000093751-19-000022-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375119000022/0000093751-19-000022.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\STT_0000093751_EX991_20190212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "70537 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 41057,
+    "endpoints": [
+        "exhibit991csconferencede   ",
+        "Definitions AUC/A Assets under custody and/or administration AUM Assets under management Bps Basis points, with one basis point representing one hundredth of one percent CCAR Comprehensive Capital Analysis and Review CRD Charles River Development Diluted earnings per share (EPS) Net income available to common shareholders divided by diluted average common shares outstanding for the noted period ETF Exchange-traded fund Fee operating leverage Rate of growth of total fee revenue less the rate of growth of expenses, relative to the successive prior year period, as applicable FX Foreign exchange FY Full year GAAP Generally accepted accounting principles in the United States Medium-term targets Financial targets defined as targets to be met by year-end 2021 Net interest income (NII) Income earned on interest bearing assets less interest paid on interest bearing liabilities. Net interest income was disclosed as net interest revenue prior to 1Q17 nm Not meaningful Operating leverage Rate of growth of total revenue less the rate of growth of total expenses, relative to the successive prior year period, as applicable Pre-tax operating margin Income before income tax expense divided by total revenue %P ts Percentage points is the difference from one percentage value subtracted from another Quarter-over-quarter (QoQ) Sequential quarter comparison Return on equity (ROE) Net income less dividends on preferred stock divided by average common equity UCITS Undertakings for Collection Investment in Transferable Securities Year-over-year (YoY) Current period compared to the same period a year ago Year-to-date (YTD) The cumulative amount of time within a fiscal year up to the end of the quarter indicated (i.e., 4Q18YTD is equivalent to the twelve months ended December 31, 2018) 20"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\STT_0000093751_EX991_20190212_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:02:14.297196"
+}

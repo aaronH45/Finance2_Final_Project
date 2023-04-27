@@ -1,0 +1,381 @@
+xml version="1.0" ? chk-20210209
+
+0000895126false--12-3100008951262021-02-092021-02-09
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 9, 2021 
+
+[DATA_TABLE_REMOVED]
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.☐
+
+Explanatory Note:
+
+As previously disclosed on June 28, 2020, Chesapeake Energy Corporation (“Chesapeake” or the “Company”) and certain of its subsidiaries (together with Chesapeake, the “Debtors”) filed voluntary petitions for reorganization under Chapter 11 of the Bankruptcy Code (the “Chapter 11 Cases”) in the United States Bankruptcy Court for the Southern District of Texas (the “Bankruptcy Court”). The Company’s Chapter 11 Cases were jointly administered under the caption In re Chesapeake Energy Corporation, et al., No. 20-33233 (DRJ).
+
+On January 16, 2021, the Bankruptcy Court entered an order (the “Confirmation Order”) confirming the Fifth Amended Joint Chapter 11 Plan of Reorganization of Chesapeake Energy Corporation and Its Debtor Affiliates (the “Plan”). The Confirmation Order, to which the Plan is attached as Exhibit A, was previously filed as Exhibit 2.1 to the Company’s Current Report on Form 8-K filed with the U.S. Securities and Exchange Commission (the “Commission”) on January 19, 2021, and is hereby incorporated by reference as Exhibit 2.1 to this Current Report on Form 8-K (this “Current Report”).
+
+On February 9, 2021 (the “Effective Date”), the Plan became effective in accordance with its terms and the Debtors emerged from the Chapter 11 Cases.
+
+Item 1.01 Entry Into a Material Definitive Agreement.
+
+Exit Credit Facility
+
+On the Effective Date, pursuant to the terms of the Plan, the Company, as borrower, entered into a reserve-based credit agreement (the “Credit Agreement”) with the lenders party thereto (the “Lenders”), MUFG Bank, Ltd., as administrative agent (in such capacity, the “Administrative Agent”), MUFG Union Bank, N.A., as collateral agent, and acknowledged and agreed to by certain of the Company’s subsidiaries, as guarantors (the “Guarantors”), providing for a reserve-based credit facility (the “Exit Credit Facility”) with an initial borrowing base of $2.5 billion. The borrowing base will be redetermined semiannually on or around May 1 and November 1 of each year, with one interim “wildcard” redetermination available to each of the Company and the Administrative Agent, at the direction of certain lenders, between scheduled redeterminations. The next scheduled redetermination will be on or about October 1, 2021. The aggregate initial elected commitments of the lenders under the Exit Credit Facility will be $1.75 billion of revolving Tranche A Loans (the “Tranche A Loans”) and $0.22 billion of fully funded Tranche B Loans (the “Tranche B Loans”) on the Effective Date.
+
+The Exit Credit Facility provides for a $200.0 million sublimit of the aggregate commitments that are available for the issuance of letters of credit. The Exit Credit Facility bears interest at the ABR (alternate base rate) or LIBOR, at our election, plus an applicable margin (ranging from 2.25–3.25% per annum for ABR loans and 3.25–4.25% per annum for LIBOR loans, subject to a 1.00% LIBOR floor), depending on the percentage of the borrowing base then being utilized. The Tranche A Loans mature 3 years after the Effective Date and the Tranche B Loans mature 4 years after the Effective Date. The Tranche B Loans can be repaid if no Tranche A Loans are outstanding.
+
+The Credit Agreement contains financial covenants that require the Company and its Guarantors, on a consolidated basis, to maintain (i) a first lien leverage ratio of not more than 2.75 to 1:00, (ii) a total leverage ratio of not more than 3.50 to 1:00, (iii) a current ratio of not less than 1.00 to 1:00 and (iv) except when testing is not required under the Credit Agreement, an asset coverage ratio of not less than 1.50 to 1:00.
+
+The Company is required to pay a commitment fee of 0.50% per annum on the average daily unused portion of the current aggregate commitments under the Tranche A Loans. The Company is also required to pay customary letter of credit and fronting fees.
+
+The Credit Agreement also contains customary affirmative and negative covenants, including, among other things, as to compliance with laws (including environmental laws and anti-corruption laws), delivery of quarterly and annual financial statements, conduct of business, maintenance of property, maintenance of insurance, restrictions on the incurrence of liens, indebtedness, asset dispositions, fundamental changes, restricted payments, and other customary covenants.
+
+Additionally, the Credit Agreement contains customary events of default and remedies for credit facilities of this nature. If the Company does not comply with the financial and other covenants in the Credit 
+
+Agreement, the Lenders may, subject to customary cure rights, require immediate payment of all amounts outstanding under the Credit Agreement and any outstanding unfunded commitments may be terminated.
+
+This summary of the Credit Agreement does not purport to be complete and is subject to, and qualified in its entirety by reference to, the full text of the Credit Agreement, which is filed as Exhibit 10.1 to this Current Report and incorporated herein by reference.
+
+Guarantee and Security of the Exit Credit Facility
+
+The obligations under the Exit Credit Facility are guaranteed by the Company and the Guarantors (collectively, the “Loan Parties”) and secured by substantially all of the Loan Parties’ assets (subject to customary exceptions), including mortgages on not less than 90% of the PV-10 of proven reserves set forth on the reserve report and a guaranty and collateral agreement pursuant to which the Loan Parties granted a first lien security interest in all of the collateral described therein and the Guarantors guaranteed the payment and performance of all indebtedness and liabilities arising pursuant to, or in connection with, the Credit Agreement.
+
+Senior Unsecured Notes Indenture
+
+On February 2, 2021, Chesapeake Escrow Issuer LLC (the “Escrow Issuer”) an indirect wholly-owned subsidiary of the Company, issued $500 million aggregate principal amount of its 5.500% senior notes due 2026 (the “2026 Notes”) and $500 million aggregate principal amount of its 5.875% senior notes due 2029 (the “2029 Notes” and, together with the 2026 Notes, the “Notes”).
+
+The offering of the Notes is part of a series of exit financing transactions being undertaken in connection with the Debtors’ Chapter 11 Cases and pursuant to the terms of the Plan as approved by the Bankruptcy Court on January 16, 2021.
+
+The Notes are guaranteed on a senior unsecured basis by each of the Company’s subsidiaries that guarantee the Exit Credit Facility. The gross proceeds from the offering of the Notes were deposited into a segregated escrow account (the “Escrow Account”) and will be released upon satisfaction of certain escrow release conditions (the “Escrow Conditions”), including the occurrence of the Effective Date. Prior to the satisfaction of the Escrow Conditions, the Notes are secured by a lien on amounts deposited into the Escrow Account.
+
+If the Escrow Conditions are not met, the notes are subject to a special mandatory redemption at a special mandatory redemption price of 100% of the principal amount of such series of notes offered hereby, plus accrued and unpaid interest up to, but not including, the date of redemption. On the Effective Date, the Company assumed the Notes and the obligations of the Escrow Issuer under the Notes and the Indenture (as defined below). The term “Issuer” refers to (a) prior to the Effective Date, the Escrow Issuer, and (b) from and after the Effective Date, the Company.
+
+The Notes were issued pursuant to an indenture, dated as of February 5, 2021 (the “Indenture”), among the Issuer, the Guarantors and Deutsche Bank Trust Company Americas, as trustee.
+
+Maturity and Interest Rate Payments
+
+The 2026 Notes will mature on February 1, 2026.
+
+The 2029 Notes will mature on February 1, 2029.
+
+Interest on the Notes will be payable semi-annually, on February 1st and August 1st of each year, commencing on August 1, 2021, to holders of record on the immediately preceding January 15th and July 15th, as the case may be.
+
+Ranking
+
+The Notes are the Company’s senior unsecured obligations. Accordingly, they rank (i) equal in right of payment to all existing and future senior indebtedness, including borrowings under the Exit Credit Facility, (ii) effectively subordinate in right of payment to all of existing and future secured indebtedness, including indebtedness 
+
+under the Exit Credit Facility, to the extent of the value of the collateral securing such indebtedness, (iii) structurally subordinate in right of payment to all existing and future indebtedness and other liabilities of any future subsidiaries that do not guarantee the notes and any entity that is not a subsidiary that does not guarantee the notes and (iv) senior in right of payment to all future subordinated indebtedness. Each guarantee of the notes by a guarantor is a general, unsecured, senior obligation of such guarantor. Accordingly, the guarantees (i) rank equally in right of payment with all existing and future senior indebtedness of such guarantor (including such guarantor’s guarantee of indebtedness under the Exit Credit Facility), (ii) are subordinated to all existing and future secured indebtedness of such guarantor, including such guarantor’s guarantee of indebtedness under our Exit Credit Facility, to the extent of the value of the collateral of such guarantor securing such secured indebtedness, (iii) are structurally subordinated to all indebtedness and other liabilities of any future subsidiaries of such guarantor that do not guarantee the notes and (iv) rank senior in right of payment to all future subordinated indebtedness of such guarantor.
+
+Covenants
+
+The Indenture contains covenants limiting the Issuer’s and certain restricted subsidiaries’ ability to (i) incur additional debt and issue preferred stock, (ii) incur or create liens, (iii) pay dividends or distributions in respect of certain equity interests or redeem, repurchase or retire certain equity interests or subordinated indebtedness, (iv) make certain investments, (v) engage in specified sales of assets, (vi) enter into transactions with affiliates, (vii) engage in consolidation, mergers and acquisitions and (viii) create unrestricted subsidiaries. These covenants contain important exceptions, limitations and qualifications. At any time that the Notes are rated investment grade, certain covenants will be terminated and cease to apply.
+
+Optional Redemption
+
+The Issuer may redeem some or all of the 2026 Notes at any time prior to February 5, 2023 at a price equal to 100% of the principal amount of the 2026 Notes redeemed plus a “make-whole” premium, plus accrued and unpaid interest, if any, to the date of redemption. The Issuer may redeem some or all of the 2026 Notes at any time on or after February 5, 2023 at the redemption price set forth in the Indenture. In addition, at any time prior to February 5, 2023, up to 35% of the original aggregate principal amount of the 2026 Notes may be redeemed with the net proceeds of certain equity offerings, at the redemption price specified in the Indenture.
+
+The Issuer may redeem some or all of the 2029 Notes at any time prior to February 5, 2024 at a price equal to 100% of the principal amount of the 2029 Notes redeemed plus a “make-whole” premium, plus accrued and unpaid interest, if any, up to the date of redemption. The Issuer may redeem some or all of the 2029 Notes at any time on or after February 5, 2024 at the redemption price set forth in the Indenture. In addition, at any time prior to February 5, 2024, up to 35% of the original aggregate principal amount of the 2029 Notes may be redeemed with the net proceeds of certain equity offerings, at the redemption price specified in the Indenture.
+
+Change of Control
+
+Upon the occurrence of a change of control, the Issuer must offer to purchase the Notes at 101% of the aggregate principal amount of such Notes, plus accrued and unpaid interest, if any, up to the date of repurchase.
+
+Events of Default
+
+The Indenture also provides for customary events of default which, if certain of them occur: (i) would make all outstanding Notes due and payable immediately; or (ii) would allow the trustee or the holders of at least 25% in aggregate principal amount of the then outstanding Notes to declare the principal of and accrued and unpaid interest, if any, on all the Notes to be due and payable by notice in writing to the Issuer and, upon such declaration, such principal and accrued and unpaid interest, if any, will be due and payable immediately.
+
+Registration Rights Agreement
+
+Pursuant to the Plan, on the Effective Date, the Company entered into a Registration Rights Agreement (the “Registration Rights Agreement”) with certain stockholders (the “Holders”). The Registration Rights Agreement provides resale registration rights for the Holders’ Registrable Securities (as defined in the Registration Rights Agreement).
+
+Pursuant to the Registration Rights Agreement, the Company is required to file or confidentially submit a Resale Shelf Registration Statement (as defined in the Registration Rights Agreement) with respect to the Registrable Securities within 30 days of the Effective Date, or within 90 days of the Effective Date if “fresh start” accounting is required. The Company is required to maintain the effectiveness of any such registration statement until the Registrable Securities covered by the registration statement are no longer Registrable Securities or the Registrable Securities issued to the Holders may be sold in a single transaction without limitation under Rule 144. Additionally, the Holders have customary demand, underwritten offering and piggyback registration rights, subject to the limitations set forth in the Registration Rights Agreement.
+
+These registration rights are subject to certain conditions and limitations, including the right of underwriters to limit the number of shares to be included in a registration statement and the Company’s right to delay or withdraw a registration statement under certain circumstances. The Company will generally pay all registration expenses in connection with its obligations under the Registration Rights Agreement, regardless of whether a registration statement is filed or becomes effective. The registration rights granted in the Registration Rights Agreement are subject to customary indemnification and contribution provisions.
+
+The obligations to register the Registrable Securities under the Registration Rights Agreement will terminate with respect to the Company and each Holder on the first date upon which such Holder no longer owns any Registrable Securities.
+
+The description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Registration Rights Agreement, which is filed as Exhibit 10.2 to this Current Report and incorporated herein by reference.
+
+Warrant Agreements
+
+On the Effective Date and pursuant to the Plan, the Company entered into (i) a Warrant Agreement (the “Class A Warrant Agreement”) with Equiniti Trust Company, a New York limited trust company, as warrant agent (the “Warrant Agent”), which provides for the Company’s issuance of up to an aggregate of 11,111,111 Class A warrants (the “Class A Warrants”) to purchase the common stock of the Company, par value $0.01 per share, as reorganized pursuant to and under the Plan (the “New Common Stock”) to former holders of the Company’s Second Lien Notes (as defined below) on the Effective Date in accordance with the terms of the Plan, the Confirmation Order and the Class A Warrant Agreement, (ii) a Warrant Agreement (the “Class B Warrant Agreement”) with the Warrant Agent, which provides for the Company’s issuance of up to an aggregate of 12,345,679 Class B warrants (the “Class B Warrants”) to purchase New Common Stock to former holders of the Company’s Second Lien Notes on the Effective Date in accordance with the terms of the Plan, the Confirmation Order and the Class B Warrant Agreement and (iii) a Warrant Agreement (the “Class C Warrant Agreement” and, together with the Class A Warrant Agreement and the Class B Warrant Agreement, the “Warrant Agreements”) with the Warrant Agent, which provides for the Company’s issuance of up to an aggregate of 13,717,420 Class C warrants (the “Class C Warrants” and, together with the Class A Warrants and the Class B Warrants, the “Warrants”) to purchase New Common Stock to former holders of the Company’s Second Lien Notes and Unsecured Notes (as defined below) on the Effective Date in accordance with the terms of the Plan, the Confirmation Order and the Class C Warrant Agreement.
+
+The Warrants are exercisable from the date of issuance until the earlier of the 5th anniversary of the Effective Date and the consummation of a Liquidity Event (as defined in the Warrant Agreements), at which time all unexercised Warrants will expire, and the rights of the holders of such expired Warrants to purchase New Common Stock will terminate. The Class A Warrants are initially exercisable for one share of New Common Stock per Class A Warrant at an initial exercise price of $27.63 per Class A Warrant (the “Class A Exercise Price”), the Class B Warrants are initially exercisable for one share of New Common Stock per Class B Warrant at an initial exercise price of $32.13 per Class B Warrant (the “Class B Exercise Price”) and the Class C Warrants are initially exercisable for one share of New Common Stock per Class C Warrant at an initial exercise price of $36.18 per Class C Warrant (the “Class C Exercise Price” and, together with the Class A Exercise Price and Class B Exercise Price, the “Exercise Prices”), in each case subject to the cashless exercise provisions contained in the Warrant Agreements and subject to adjustment in certain circumstances.
+
+Pursuant to the Warrant Agreements, no holder of a Warrant, by virtue of holding or having a beneficial interest in a Warrant, will have the right to vote, receive dividends, receive notice as stockholders with respect to any 
+
+meeting of stockholders for the election of the Company’s directors or any other matter, or exercise any rights whatsoever as a stockholder of the Company unless, until and only to the extent such holders become holders of record of shares of New Common Stock issued upon settlement of Warrants.
+
+The number of shares of New Common Stock for which a Warrant is exercisable, and the Exercise Prices, are subject to customary adjustments from time to time upon the occurrence of certain events, including: (1) stock splits, reverse stock splits or stock dividends to holders of New Common Stock or (2) a reclassification in respect of the New Common Stock.
+
+The foregoing description of the Warrant Agreements does not purport to be complete and is subject to, and qualified in its entirety by reference to, the full text of the Warrant Agreements, which are filed as Exhibits 10.3, 10.4 and 10.5 respectively, to this Current Report and incorporated by reference herein.
+
+Item 1.02. Termination of Material Definitive Agreement.
+
+Equity Interests
+
+In accordance with the Plan, all agreements, instruments and other documents evidencing, relating to or otherwise connected with any of the Company’s equity interests outstanding prior to the Effective Date were cancelled, released and extinguished without any distribution.
+
+Debt Securities
+
+In accordance with the Plan, on the Effective Date, all outstanding obligations under the following notes issued by the Company and the related registration rights were cancelled and the indentures governing such obligations were cancelled, except to the limited extent expressly set forth in the Plan:
+
+•$2,330 million in outstanding aggregate principal amount of the 11.500% Senior Notes due 2025 (the “Second Lien Notes”) issued pursuant to the indenture dated December 19, 2019, by and among the Company, the subsidiary guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee and collateral trustee;
+
+•$176 million in outstanding aggregate principal amount of the 6.625% Senior Notes due 2020 (the “6.625% Senior Notes”), issued pursuant to the indenture dated August 2, 2010, by and among the Company, the subsidiary guarantors party thereto and The Bank of New York Trust Company, N.A., as trustee;
+
+•$74 million in outstanding aggregate principal amount of the 6.875% Senior Notes due 2020 (the “6.875% 2020 Senior Notes”), issued pursuant to the indenture dated November 8, 2005, by and among the Company, the subsidiary guarantors party thereto and The Bank of New York Trust Company, N.A., as trustee;
+
+•$166 million in outstanding aggregate principal amount of the 6.125% Senior Notes due 2021 (the “6.125% Senior Notes”), issued pursuant to the indenture dated February 11, 2011, by and among the Company, the subsidiary guarantors party thereto and The Bank of New York Trust Company, N.A., as trustee;
+
+•$127 million in outstanding aggregate principal amount of the 5.375% Senior Notes due 2021 (the “5.375% Senior Notes”), issued pursuant to the indenture dated April 1, 2013, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$272 million in outstanding aggregate principal amount of the 4.875% Senior Notes due 2022 (the “4.875% Senior Notes”), issued pursuant to the indenture dated April 24, 2014, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$168 million in outstanding aggregate principal amount of the 5.750% Senior Notes due 2023 (the “5.750% Senior Notes”), issued pursuant to the indenture dated April 1, 2013, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$623 million in outstanding aggregate principal amount of the 7.000% Senior Notes due 2024 (the “7.000% Senior Notes”), issued pursuant to the indenture dated September 27, 2018, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$246 million in outstanding aggregate principal amount of the 8.000% Senior Notes due 2025 (the “8.000% 2025 Senior Notes”), issued pursuant to the indenture dated December 20, 2016, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$46 million in outstanding aggregate principal amount of the 8.000% Senior Notes due 2026 (the “8.000% 2026 Senior Notes”), issued pursuant to the indenture dated April 3, 2019, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$119 million in outstanding aggregate principal amount of the 7.500% Senior Notes due 2026 (the “7.500% Senior Notes”), issued pursuant to the indenture dated September 27, 2018, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$253 million in outstanding aggregate principal amount of the 8.000% Senior Notes due 2027 (the “8.000% 2027 Senior Notes”), issued pursuant to the indenture dated June 6, 2017, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee;
+
+•$1,064 million in outstanding aggregate principal amount of the 5.500% Convertible Senior Notes due 2026 (the “5.500% Convertible Senior Notes”), issued pursuant to the indenture dated October 5, 2016, by and among the Company, the subsidiary guarantors party thereto and Wilmington Savings Fund Society, FSB, as trustee; and 
+
+•$2 million in outstanding aggregate principal amount of the 6.875% Senior Notes due 2025 (the “6.875% 2025 Senior Notes” and, collectively with the 6.625% Senior Notes, the 6.875% 2020 Senior Notes, the 6.125% Senior Notes, the 5.375% Senior Notes, the 4.875% Senior Notes, the 5.750% Senior Notes, the 7.000% Senior Notes, the 8.000% 2025 Senior Notes, the 8.000% 2026 Senior Notes, the 7.500% Senior Notes, the 8.000% 2027 Senior Notes and the 5.500% Convertible Senior Notes, the “Unsecured Notes”), issued pursuant to the indenture dated February 1, 2017, by and among the Company, the subsidiary guarantors party thereto and U.S. Bank National Association, as trustee.
+
+In accordance with the Plan, the claims against and interests in the Company were treated as follows:
+
+•each holder of the Second Lien Notes received its pro rata share of (i) 12% of the New Common Stock (subject to certain dilutions as described in the Plan), (ii) the non-certificated rights that enable the holders thereof to purchase shares of New Common Stock at an aggregate purchase price of $67.5 million at a price per share of $9.47, (iii) the Class A Warrants, (iv) the Class B Warrants, and (v) 50% of the Class C Warrants; and
+
+•each holder of the Unsecured Notes received its pro rata share of (i) 12% of the New Common Stock (subject to certain dilutions as described in the Plan) and (ii) 50% of the Class C Warrants (together with the preceding clause (i), the “Unsecured Claims Recovery”)
+
+FLLO Facility
+
+Pursuant to the Plan, on the Effective Date, the term loan agreement, dated as of December 19, 2019, by and among the Company, as borrower, GLAS USA LLC, as administrative agent, and the several lenders from time to time parties thereto (the “FLLO Term Loan Facility”) was terminated, and each holder of obligations under the FLLO Term Loan Facility received its pro rata share of (i) 76% of the New Common Stock (subject to certain dilutions as described in the Plan) and (ii) the non-certificated rights that enable the holders thereof to purchase shares of New Common Stock at an aggregate purchase price of $382.5 million at a price per share of $9.47.
+
+General Unsecured Claims
+
+Except as otherwise provided in the Plan, all agreements, instruments and other documents evidencing, relating to or otherwise connected with any General Unsecured Claim (as defined in the Plan) outstanding prior to the Effective Date were cancelled and all such interests have no further force or effect after the Effective Date. Pursuant to the Plan, each holder of an allowed General Unsecured Claim will receive its pro rata share of the Unsecured Claims Recovery; except that if such holder elected to have its allowed General Unsecured Claim treated as a Convenience Claim (as defined in the Plan), such holder will receive its pro rata share of $10,000,000, which pro rata share shall not exceed 5 percent of such Convenience Claim.
+
+Prepetition RBL Facility
+
+Pursuant to the Plan, on the Effective Date, the Amended and Restated Credit Agreement, dated as of September 12, 2018 (as amended prior to the date hereof, the “Prepetition RBL Facility”), by and among the Company, as borrower, the several lenders from time to time parties thereto, and MUFG Union Bank, N.A., as administrative agent, was terminated and the holders of obligations under the Prepetition RBL Facility each received, in accordance with such holder’s prior determined allocation, either (i) Tranche A Loans or (ii) Tranche B Loans, on a dollar-for-dollar basis. Claims on account of accrued but unpaid Existing RBL Adequate Protection Payments (as defined in the Plan) were paid in full in Cash. On the Effective Date, all liens and security interests granted to secure such obligations were automatically terminated and are of no further force and effect.
+
+Debtor-in-Possession Facility
+
+Pursuant to the Plan, on the Effective Date, the Senior Secured Super-Priority Debtor-in-Possession Credit Agreement, dated as of July 1, 2020, among the Company, as borrower, certain other debtors, as guarantors, MUFG Union Bank, N.A., as the agent, and the several lenders from time to time parties thereto (as amended prior to the date hereof, the “DIP Facility”), was terminated and the holders of obligations under the DIP Facility received payment in full in cash; provided that to the extent such lender under the DIP Facility is also a lender under the Exit Revolver, such lender’s Allowed DIP Claims (as defined in the Plan) were first reduced dollar-for-dollar and satisfied by the amount of its Exit RBL Loans provided as of the Effective Date. On the Effective Date, all liens and security interests granted to secure such obligations were automatically terminated and are of no further force and effect.
+
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The description of the Credit Agreement set forth in Item 1.01 of this Current Report is incorporated herein by reference.
+
+3.02 Unregistered Sales of Equity Securities.
+
+On the Effective Date, pursuant to the Plan and subject to applicable rounding:
+
+•all previously issued and outstanding equity interests in the Company were cancelled;
+
+•23,022,307 shares of New Common Stock were issued pro rata to holders of the obligations under the FLLO Term Loan Facility;
+
+•(i) 3,635,118 shares of New Common Stock, (ii) 11,111,111 Class A Warrants to purchase 11,111,111 shares of New Common Stock, (iii) 12,345,679 Class B Warrants to purchase 12,345,679 shares of New Common Stock and (iv) 6,858,710 Class C Warrants to purchase 6,858,710 shares of New Common Stock were issued pro rata to holders of the Second Lien Notes;
+
+•(i) 1,311,089 shares of New Common Stock and (ii) 2,473,757 Class C Warrants to purchase 2,473,757 shares of New Common Stock were issued pro rata to holders of the Unsecured Notes;
+
+•(i) 231,112 shares of New Common Stock and (ii) 436,060 Class C Warrants to purchase 436,060 shares of New Common Stock were issued pro rata to holders of General Unsecured Claims;
+
+•6,337,031 shares of New Common Stock were issued to the Backstop Parties under the Backstop Commitment Agreement (each as defined in the Plan) in respect of the Put Option Premium; 
+
+•442,991 shares of New Common Stock were issued to the Backstop Parties under the Backstop Commitment Agreement in connection with their backstop obligation thereunder to purchase unsubscribed shares of New Common Stock; and
+
+•62,927,320 shares of New Common Stock were issued to participants in the Rights Offering (as defined in the Plan) extended by the Company to the applicable classes under the Plan (including to the Backstop Parties party to the Backstop Commitment Agreement).
+
+As of the Effective Date, there were 97,906,968 shares of New Common Stock issued and outstanding, subject to applicable rounding, 2,092,917 shares of New Common Stock and 3,948,893 Class C Warrants were reserved for future issuance in respect of claims and interests filed, pending the determination of the allowed portion of any disputed General Unsecured Claims and Unsecured Notes Claims. The Company has reserved (i) 6,800,000 shares of New Common Stock for issuance pursuant to the LTIP (as defined below) and (ii) 37,174,210 shares of New Common Stock for issuance upon exercise of the Warrants.
+
+With the exception of the unsubscribed shares of New Common Stock issued to the Backstop Parties pursuant to the Backstop Commitment Agreement, the New Common Stock and Warrants issued pursuant to the Plan were issued pursuant to the exemption from the registration requirements of the Securities Act of 1933, as amended (the “Securities Act”), under Section 1145 of the Bankruptcy Code. The unsubscribed shares of New Common Stock issued to the Backstop Parties pursuant to the Backstop Commitment Agreement were issued under the exemption from registration requirements of the Securities Act provided by Section 4(a)(2) thereunder. 
+
+3.03 Material Modifications to Rights of Security Holders.
+
+As provided in the Plan, all notes, equity, agreements, instruments, certificates and other documents evidencing any claim against or interest in the Debtors were cancelled on the Effective Date and the obligations of the Debtors thereunder or in any way related thereto were fully released. The securities to be cancelled on the Effective Date include all of the equity interests in the Company existing as of the date on which the Debtors commended the Chapter 11 Cases (the “Existing Equity Interests”), the obligations under the FLLO Term Loan Facility, the Second Lien Notes and the Unsecured Notes. For further information, see the Explanatory Note and Items 1.02 and 5.03 of this Current Report, which are incorporated herein by reference.
+
+5.01 Changes in Control of Registrant.
+
+As previously disclosed, on the Effective Date, all of the Existing Equity Interests, the obligations under the FLLO Term Loan Facility, the Second Lien Notes and the Unsecured Notes were cancelled, and the Company issued 76% of the New Common Stock to holders of the obligations under the FLLO Term Loan Facility, 12% of the New Common Stock to the holders of the Second Lien Notes and approximately 12% of the New Common Stock to holders of the Unsecured Notes and General Unsecured Claims pursuant to the Plan. For further information, see Items 1.02, 3.02 and 5.02 of this Current Report, which are incorporated herein by reference.
+
+5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Departure of Directors
+
+As of the Effective Date, the terms of the prior members of the board of directors (the “Board”) of Chesapeake expired and the new directors and officers were appointed.
+
+Appointment of Directors
+
+As of the Effective Date, by operation of and in accordance with the Plan:
+
+•The Board consists of seven members;
+
+•Robert D. Lawler, the Company’s President and Chief Executive Officer, will continue to serve as a director; and
+
+•Michael Wichterich, Timothy Duncan, Benjamin Duster, IV, Sarah Emerson, Matthew Gallagher and Brian Steck (together with Robert Lawler, the “New Directors”) were appointed to the Board.
+
+Successor directors will be elected annually by the holders of the New Common Stock.
+
+The current committees of the Board and directors appointed to each committee are as follows:
+
+•Audit Committee: Benjamin Duster, IV (Chair), Matthew Gallagher and Michael Wichterich.
+
+•Compensation Committee: Brian Steck (Chair), Benjamin Duster, IV and Timothy Duncan.
+
+•Nominating and Governance Committee: Matthew Gallagher (Chair), Sarah Emerson and Michael Wichterich.
+
+•Environmental, Safety & Governance Committee: Sarah Emerson (Chair), Timothy Duncan and Brian Steck.
+
+ In connection with their appointment, the New Directors and the New Officers (as defined below) will each enter into an indemnification agreement with the Company providing for indemnification to the fullest extent permitted by law for claims relating to their service to the Company or its subsidiaries. This summary is qualified in its entirety by reference to the full text of the Company’s form of indemnification agreement, which is attached hereto as Exhibit 10.6 and incorporated by reference herein.
+
+There is no other arrangement or understanding between the New Directors and any other persons pursuant to which they were appointed as members of the Board. The New Directors do not have any family relationship with any director or executive officer of the Company. There is no relationship between the New Directors and the Company that would require disclosure pursuant to Item 404(a) of Regulation S-K.
+
+Appointment of Officers
+
+On the Effective Date and pursuant to the Plan, Robert D. Lawler was appointed to the position of President and Chief Executive Officer of the Company, Domenic J. Dell’Osso, Jr. was appointed to the position of Executive Vice President and Chief Financial Officer of the Company, Frank J. Patterson was appointed to the position of Executive Vice President – Exploration and Activities, James R. Webb was appointed to the position of Executive Vice President – General Counsel and Corporate Secretary, and William M. Buergler was appointed to the position of Senior Vice President and Chief Accounting Officer of the Company (collectively, the “New Officers”). Each of these individuals served in the same capacity at the Company prior to the Chapter 11 Cases. 
+
+Robert D. Lawler has been a director and the President and Chief Executive Officer of Chesapeake Energy Corporation since June 2013. Before joining Chesapeake, Mr. Lawler served in multiple engineering and leadership positions at Anadarko Petroleum Corporation, including as Senior Vice President, International and 
+
+Deepwater Operations and member of Anadarko’s Executive Committee. Mr. Lawler began his career with Kerr-McGee Corporation in 1988 and joined Anadarko following its acquisition of Kerr-McGee in 2006. Mr. Lawler holds a bachelor’s degree in petroleum engineering from the Colorado School of Mines and an M.B.A. from Rice University.
+
+Domenic J. Dell’Osso, Jr. was appointed Executive Vice President and Chief Financial Officer in November 2010. Prior to that time, he served as Vice President – Finance and Chief Financial Officer of Chesapeake’s wholly-owned midstream subsidiary Chesapeake Midstream Development, L.P. from August 2008 to November 2010. Before joining Chesapeake, Mr. Dell’Osso was an energy investment banker with Jefferies & Co. from 2006 to 2008 and Banc of America Securities from 2004 to 2006. He graduated from Boston College in 1998 and from the University of Texas at Austin in 2003.
+
+Frank J. Patterson was appointed Executive Vice President – Exploration and Production in August 2016, before that serving as Executive Vice President – Exploration and Northern Division since April 2016 and Executive Vice President – Exploration, Technology & Land from the time he joined Chesapeake in May 2015. Before coming to Chesapeake, Mr. Patterson served in various roles at Anadarko Petroleum Corporation from 2006 to 2015, most recently as Senior Vice President – International Exploration. Prior to that, he was Vice President – Deepwater Exploration at Kerr-McGee and Manager – Geology at Sun E&P/Oryx Energy. Mr. Patterson holds a Bachelor of Science in geology from the University of Oklahoma and serves on the Board of Visitors at the University of Oklahoma’s Mewbourne College of Earth and Energy.
+
+James R. Webb was appointed Executive Vice President – General Counsel and Corporate Secretary in January 2014. Mr. Webb joined Chesapeake in October 2012 as Senior Vice President – Legal and General Counsel. Before joining Chesapeake, he worked in private practice with the law firm of McAfee & Taft from February 1995 to October 2012 and practiced with the law firm of Gorsuch Kirgis from 1993 to 1995. Mr. Webb graduated from Austin College in 1989 and from the School of Law at Washington University in St. Louis in 1993.
+
+William M. Buergler was appointed Senior Vice President and Chief Accounting Officer in August 2017. Mr. Buergler joined Chesapeake in 2014 serving as Vice President – Tax. Before joining Chesapeake, he worked for Ernst & Young LLP, where he served as a Partner from 2009 to 2014 and as a Senior Manager from 2002 to 2008, and Arthur Andersen LLP, where he served from 1996 to 2002. Mr. Buergler is a licensed certified public accountant and holds a Bachelor of Science and a Master of Science degree in accounting from Oklahoma State University.
+
+Incentive Plan
+
+Effective as of the Effective Date, the Board adopted the 2021 Long Term Incentive Plan (the “LTIP”) with a share reserve equal to 6,800,000 shares of New Common Stock (the “LTIP Pool”). The LTIP provides for the grant of restricted stock units, restricted stock awards, stock options, stock appreciation rights, performance awards and other stock awards to the Company’s employees and non-employee directors. The description of the LTIP does not purport to be complete and is qualified in its entirety by reference to the full text of the LTIP, a copy of which is filed herewith as Exhibit 10.7 and is incorporated herein by reference.
+
+Employment Agreements
+
+Each executive officer of the Company has entered into a waiver agreement pursuant to which the executive officer has waived any rights to the acceleration or enhancement of payments (including severance payments), vesting, benefits or other rights under the executive officer’s employment agreement upon a termination of employment by the Company without “cause” or resignation by the executive officer for “good reason” within the 24-month period following a change of control resulting from the transactions contemplated by the Plan. Each waiver was executed in accordance with the Plan to ensure the assumption of the executive officer’s employment agreement in accordance with the terms of the Plan.
+
+5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On the Effective Date, pursuant to the Plan, the Company filed the Second Amended and Restated Certificate of Incorporation (the “Certificate of Incorporation”) with the Oklahoma Secretary of State. Also on the 
+
+Effective Date, in accordance with the Plan, the Company adopted the Second Amended and Restated Bylaws (the “Bylaws”).
+
+Each holder of shares of New Common Stock, as such, shall be entitled to one vote for each share of New Common Stock held of record by such holder on all matters on which stockholders generally are entitled to vote. 
+
+Subject to the rights of any then-outstanding shares of preferred stock, the holders of New Common Stock may receive such dividends as the Board may declare in its discretion out of legally available funds. Holders of New Common Stock will be entitled to receive all of the remaining assets of the Corporation available for distribution to its shareholders, ratably in proportion to the number of shares of New Common Stock held by them. 
+
+Preferred Stock
+
+Shares of preferred stock may be issued in one or more series from time to time, with each such series to consist of such number of shares and to have such voting powers, full or limited, or no voting powers, and such designations, preferences and relative, participating, optional or other special rights, and the qualifications, limitations or restrictions thereof, as shall be stated in the resolution or resolutions providing for the issuance of such series adopted by the Board and included in a certificate of designations (hereinafter referred to as the “Certificate of Designation”) filed pursuant to the Oklahoma General Corporation Act.
+
+Subject to the rights of the holders of any series of preferred stock pursuant to the terms of the Certificate of Incorporation, the number of authorized shares of preferred stock may be increased or decreased (but not below the number of shares thereof then outstanding) to the extent permitted by the Oklahoma General Corporation Act and the Certificate of Designation.
+
+Anti-Takeover Provisions
+
+Some provisions of Oklahoma law, the Certificate of Incorporation and the Bylaws summarized below could make certain change of control transactions more difficult, including acquisitions of the Company by means of a tender offer, proxy contest or otherwise, as well as removal of the incumbent directors. These provisions may have the effect of preventing changes in management. It is possible that these provisions would make it more difficult to accomplish or deter transactions that a stockholder might consider in his or her best interest, including those attempts that might result in a premium over the market price for the New Common Stock.
+
+Number and Election of Directors
+
+The Bylaws provide that the Board shall be comprised of no less than three and no more than ten directors, with the number of directors to be fixed from time to time by resolution adopted by the Board.
+
+Calling of Special Meeting of Stockholders
+
+The Bylaws provide that special meetings of stockholders may be called only by (i) the chairman of the Board, (ii) the chief executive officer of the Company, (iii) the chief executive officer or the president of the Company, (iv) the Board acting pursuant to a resolution adopted by a majority of the directors of the Board then in office or (v) the secretary of the Company upon the delivery of a written request to the Company by the holders of at least 35% of the voting power of the Company’s then outstanding capital stock in the manner provided in the Bylaws.
+
+Amendments to the Bylaws
+
+Subject to certain restrictions set forth in the Certificate of Incorporation, the Bylaws may be amended or repealed or new bylaws may be adopted (i) by action of the Board or (ii) without action of the Board, by the affirmative vote of the holders of a majority of the voting power of all outstanding shares of New Common Stock entitled to vote generally in the election of directors.
+
+Other Limitations on Stockholder Actions
+
+Advance notice is required for stockholders to nominate directors or to submit proposals for consideration at meetings of stockholders. These procedures provide that notice of stockholder proposals must be timely given in writing to the corporate secretary prior to the meeting at which the action is to be taken. Generally, to be timely, notice must be received at the principal executive offices not less than 90 days nor more than 120 days prior to the anniversary of the immediately preceding annual meeting of stockholders. The Bylaws specify in detail the requirements as to form and content of all stockholder notices. These requirements may preclude stockholders from bringing matters before the stockholders at an annual or special meeting. The Bylaws also describe certain criteria for when stockholder-requested meetings need not be held.
+
+Directors may be removed from office at any time by the affirmative vote of holders of at least a majority of the outstanding shares of New Common Stock entitled generally to vote in the election of directors.
+
+Newly Created Directorships and Vacancies on the Board
+
+Under the Bylaws, any newly created directorships resulting from any increase in the number of directors and any vacancies on the Board for any reason may be filled by a majority vote of the directors then in office, even if less than a quorum, and the directors so chosen shall hold office until the next annual meeting of shareholders and until his or her successor is duly elected and qualified, or until his or her earlier resignation or removal.
+
+Authorized but Unissued Shares
+
+The Company’s authorized but unissued shares of New Common Stock are available for future issuance. The Company may use these additional shares of New Common Stock for a variety of corporate purposes, including future public offerings to raise additional capital, acquisitions and employee benefit plans. The existence of authorized but unissued shares of New Common Stock could render more difficult or discourage an attempt to obtain control of the Company by means of a proxy contest, tender offer, merger or otherwise.
+
+Exclusive Forum
+
+The Certificate of Incorporation provides that, unless the Company consents in writing to the selection of an alternative forum, the state courts within the State of Oklahoma (or, if no such state court has jurisdiction, the United States District Court for the Western District of Oklahoma) will be the sole and exclusive forum for (i) any derivative action or proceeding brought on the Company’s behalf, (ii) any action asserting a claim of breach of a fiduciary duty owed by any current or former directors, officers, other employees or stockholders to the Company or to the stockholders, (iii) any action asserting a claim arising pursuant to any provision of the Oklahoma General Corporation Act, the Certificate of Incorporation or the Bylaws (as each may be amended from time to time), or (iv) any action asserting a claim related to or involving the Company that is governed by the internal affairs doctrine.
+
+The foregoing descriptions of the Certificate of Incorporation and Bylaws do not purport to be complete and are qualified in their entirety by reference to the Certificate of Incorporation and Bylaws, copies of which are attached hereto as Exhibits 3.1 and 3.2 and incorporated herein by reference.
+
+Elimination of Shareholders Rights Plan
+
+In connection with the adoption of the Rights Agreement, on April 23, 2020, the Company filed a Certificate of Designations of Series B Preferred Stock with the Secretary of State of the State of Oklahoma setting forth the rights, powers, and preferences of the Series B Preferred Stock issuable upon exercise of the Rights (the “Preferred Shares”). On the Effective Date, the Company filed a Certificate of Elimination (the “Certificate of Elimination”) with the Secretary of State of the State of Oklahoma eliminating the Preferred Shares and returning them to authorized but undesignated shares of the Company’s preferred stock.
+
+The foregoing is a summary of the terms of the Certificate of Elimination. The summary does not purport to be complete and is qualified in its entirety by reference to the Certificate of Elimination, a copy of which is attached as Exhibit 3.3 hereto and incorporated herein by reference.
+
+7.01 Regulation FD Disclosure.
+
+On February 9, 2021, the Company issued a press release announcing the consummation of the Plan and emergence from the Chapter 11 Cases on the Effective Date as disclosed herein, a copy of which is furnished as Exhibit 99.2 hereto.
+
+The information contained in this Item 7.01 and the exhibit hereto shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and shall not be incorporated by reference into any filings made by the Company under the Securities Act or the Exchange Act, except as may be expressly set forth by specific reference in such filing.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K includes “forward-looking statements” within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. Forward looking statements are statements other than statements of historical fact. They are generally identified by the words the words “believe,” “expect,” “anticipate,” “estimate,” “intend,” “plan,” “may,” “should,” “could,” “will,” “would,” and “will be,” and variations of such words and similar expressions, although not all forward-looking statements contain these identifying words. They include statements regarding our current expectations or forecasts of future events, including matters relating to the continuing effects of the COVID-19 pandemic and the impact thereof on our business, financial condition and results of operations; actions by, or disputes among or between, members of OPEC+; market factors, market prices; our ability to meet debt service requirements; our expectations regarding the borrowing base under our revolving credit facility; our evaluation of strategic alternatives, cost-cutting measures, reductions in capital expenditures, refinancing transactions, capital exchange transactions, asset divestitures, operational efficiencies, future impairments, cost savings due to operational and capital efficiencies related to the WildHorse Merger; the operation or effects of the Section 382 Rights Plan and the use of net operating losses to offset future taxable income. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed in, or implied by, such statements. Although we believe the expectations and forecasts reflected in the forward-looking statements are reasonable, we can give no assurance they will prove to have been correct. They can be affected by inaccurate or changed assumptions or by known or unknown risks and uncertainties. These risks and uncertainties include, but are not limited to: the impact of the COVID-19 pandemic and its effect on our business, financial condition, employees, contractors, vendors and the global demand for oil and natural gas and U.S. and world financial markets; the effects of the Chapter 11 Cases on the Company’s liquidity or results of operations or business prospects; the effects of the Chapter 11 Cases on the Company’s business and the interests of various constituents; the Company’s ability to comply with the covenants under our revolving credit facility and other indebtedness and the related impact on our ability to continue as a going concern; the volatility of oil, natural gas and NGL prices, which are affected by general economic and business conditions, as well as increased demand for (and availability of) alternative fuels and electric vehicles; uncertainties inherent in estimating quantities of oil, natural gas and NGL reserves and projecting future rates of production and the amount and timing of development expenditures; the Company’s ability to replace reserves and sustain production; drilling and operating risks and resulting liabilities; the Company’s ability to generate profits or achieve targeted results in drilling and well operations; the limitations the Company’s level of indebtedness may have on our financial flexibility; the Company’s inability to access the capital markets on favorable terms; the availability of cash flows from operations and other funds to finance reserve replacement costs or satisfy the Company’s debt obligations; adverse developments or losses from pending or future litigation and regulatory proceedings, including royalty claims; legislative and regulatory initiatives addressing environmental concerns, including initiatives addressing the impact of global climate change or further regulating hydraulic fracturing, methane emissions, flaring or water disposal; terrorist activities and/or cyber-attacks adversely impacting the Company’s operations; effects of acquisitions and dispositions, including the Company’s acquisition of WildHorse and its ability to realize related synergies and cost savings; effects of purchase price adjustments and indemnity obligations; and other important risks, assumptions and other important factors that could cause actual results to differ materially from those expressed in the forward-looking statements and which are described under “Risk Factors” in Item 1A of Chesapeake’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019 and any updates to those factors set forth in Chesapeake’s subsequent quarterly reports on Form 10-Q or current reports on Form 8-K. Chesapeake undertakes no obligation to release publicly any revisions to any forward looking statements, to report events or to report the occurrence of unanticipated events.
+
+9.01. Financial Statements and Exhibits.
+
+(d) Exhibits. 
+
+[DATA_TABLE_REMOVED]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CHESAPEAKE ENERGY CORPORATION
+
+By: /s/ JAMES R. WEBB
+
+James R. Webb
+
+Executive Vice President — General Counsel and Corporate Secretary
+
+Date: February 9, 2021

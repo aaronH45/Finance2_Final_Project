@@ -1,0 +1,141 @@
+xml version='1.0' encoding='UTF-8'?      U
+
+0000831001false00008310012020-02-132020-02-130000831001us-gaap:CommonStockMember2020-02-132020-02-130000831001c:VelocitySharesShortLIBORETNsDueAugust162032OfCGMHIMember2020-02-132020-02-130000831001c:VelocitySharesLongLIBORETNsDueAugust162032OfCGMHIMember2020-02-132020-02-130000831001c:VelocityShares3xLongCrudeOilETNsLinkedToTheSPGSCICrudeOilIndexERDueDecember152031OfCGMHIMember2020-02-132020-02-130000831001c:VelocityShares3xInverseCrudeOilETNsLinkedToTheSPGSCICrudeOilIndexERDueDecember152031OfCGMHIMember2020-02-132020-02-130000831001c:SixPointEightTwoNinePercentFixedRateFloatingRateEnhancedTrustPreferredSecuritiesOfCitigroupCapitalXVIIIMember2020-02-132020-02-130000831001c:SevenPointSixTwoFivePercentTrustPreferredSecuritiesOfCitigroupCapitalIIIMember2020-02-132020-02-130000831001c:SevenPointEightSevenFivePercentFixedRateFloatingRateTrustPreferredSecuritiesOfCitigroupCapitalXIIIMember2020-02-132020-02-130000831001c:MediumTermSeniorNotesSeriesNCallableStepUpCouponNotesDueMarch312036OfCGMHIMember2020-02-132020-02-130000831001c:MediumTermSeniorNotesSeriesGCallableFixedRateNotesDueJanuary132027Member2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.JPYIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.GBPIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.EURIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.CHFIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.AUDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongJPYVs.USDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongGBPVs.USDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongEURVs.USDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongCHFVs.USDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongAUDVs.USDIndexDueDecember152032OfCGMHIMember2020-02-132020-02-130000831001c:DepositorySharesRepresenting11000thInterestInShareOf7.125NoncumulativePreferredStockSeriesJMember2020-02-132020-02-130000831001c:DepositorySharesRepresenting11000thInterestInAShareOf6.875NoncumulativePreferredStockSeriesKMember2020-02-132020-02-130000831001c:DepositorySharesRepresenting11000thInterestInAShareOf6.300NoncumulativePreferredStockSeriesSMember2020-02-132020-02-130000831001c:CTracksExchangeTradedNotesOnTheMillerHowardMLPFundamentalIndexSeriesBDueJuly132026Member2020-02-132020-02-130000831001c:CTracksExchangeTradedNotesMillerHowardStrategicDividendReinvestorDueSeptember162024Member2020-02-132020-02-130000831001c:CTracksExchangeTradedNotesBasedOnThePerformanceOfTheMillerHowardMLPFundamentalIndexDueSeptember282023Member2020-02-132020-02-13
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+​
+
+CURRENT REPORT
+
+​
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+​
+
+Date of Report (Date of earliest event reported) February 13, 2020
+
+Citigroup Inc.
+
+(Exact name of registrant as specified in its charter)
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+(212) 559-1000
+
+(Registrant's telephone number,
+
+including area code)
+
+​
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+​
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+​
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+​
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934 formatted in Inline XBRL: See Exhibit 99.01
+
+​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). 
+
+Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+
+​
+
+​ 
+
+CITIGROUP INC.
+
+Current Report on Form 8-K
+
+Item 8.01. Other Events.
+
+On February 13, 2020 (the Grant Date), the Personnel and Compensation Committee of the Citigroup Inc. Board of Directors (the Compensation Committee) approved incentive compensation awards for 2019 performance to Citi CEO Michael L. Corbat and other senior executives. In determining executive incentive compensation awards for 2019, the Compensation Committee noted that Citi’s 2019 results reflected steady progress toward improving its profitability and returns, despite an uncertain revenue environment, as strong client engagement drove balanced growth across businesses and geographies.
+
+ØFor 2019, Citi reported net income of $19.4 billion on revenues of $74.3 billion, compared to net income of $18.0 billion on revenues of $72.9 billion in 2018.
+
+ØCiti’s earnings per share were $8.04 for 2019, up 20% from the prior year, compared to $6.68 per share for 2018.
+
+ØCiti’s return on tangible common equity improved to 12.1%(1) in 2019. This exceeded the 12% target for the year.
+
+ØCiti’s revenues increased 2% from the prior year, or 4% excluding the impact of previously disclosed gains on sale in 2018 as well as the impact of foreign exchange (FX) translation(2), reflecting balanced performance across Global Consumer Banking and the Institutional Clients Group.
+
+ØIn 2019, Citi returned $22.3 billion of capital to common stockholders through share repurchases and dividends. Citi repurchased approximately 264 million shares contributing to a 9% reduction in average outstanding common shares from the prior year.
+
+In addition to Citi’s positive operating results, the Compensation Committee considered market levels of pay for the CEO role at peer institutions as well as its assessment of Mr. Corbat’s leadership under Citi’s balanced scorecard approach to determining executive compensation.
+
+(1)Return on tangible common equity, or RoTCE, is a non-GAAP financial measure. For further information, including the components of the calculation, see footnote 2 and appendix A of Citi’s fourth quarter of 2019 earnings press release available on Citi’s investor relations website.
+
+(2)Results in 2018 included a pre-tax gain of approximately $150 million on the sale of the Hilton portfolio recorded in North America Global Consumer Banking (GCB), a pre-tax gain of approximately $250 million on the sale of an asset management business in Latin America GCB and the impact of FX translation. In 2018, Citi’s revenues were $72,854 million on an as reported basis compared to $71,959 million excluding the impact of FX translation. Citi’s results of operations excluding the impact of gains-on-sale and impact of FX translation are non-GAAP financial measures.
+
+​
+
+​ 
+
+The Compensation Committee determined that Mr. Corbat’s annual compensation for 2019 is $24 million, consisting of his previously established base salary of $1.5 million and a total incentive award of $22.5 million, which is the same as his annual compensation for 2018. As in past years, the CEO total incentive award was delivered in a mix of cash, deferred stock awarded under Citi’s Capital Accumulation Program (CAP), and Performance Share Units (PSUs).[DATA_TABLE_REMOVED]
+
+​
+
+Consistent with prior years, the number of shares of deferred stock granted was determined by dividing the nominal amount awarded in deferred stock by the average of the closing prices of Citi common stock in the five business days immediately preceding the Grant Date ($78.912). The target number of PSUs was also determined by dividing the nominal amount awarded as PSUs by the same five-day average price.
+
+Additional information regarding Citi’s incentive compensation programs, including an explanation of the material elements of the compensation for 2019 awarded to Mr. Corbat and the other named executive officers, will be presented in Citi’s 2020 Proxy Statement, which is expected to be filed with the U.S. Securities and Exchange Commission in March 2020.
+
+​
+
+​ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits[DATA_TABLE_REMOVED]
+
+​
+
+​
+
+​
+
+​ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.[DATA_TABLE_REMOVED]
+
+​
+
+​
+
+​
+
+​

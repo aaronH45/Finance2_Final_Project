@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001103982",
+    "sec_company_name": "Mondelez International, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200218",
+    "sec_filing_date": "20200218",
+    "sec_changed_date": "20200218",
+    "sec_accepted_date": "20200218130251",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1103982/000119312520040010/0001193125-20-040010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1103982/000119312520040010/0001193125-20-040010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MDLZ_0001103982_EX991_20200218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15707 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7307,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release contains a number of forward-looking statements. Words, and variations of words, such as “will,” “expect,” “plan,” “deliver,” “target,” “outlook” and similar expressions are intended to identify the company’s forward-looking statements, including, but not limited to, statements about: the company’s future performance, including its future revenue growth, earnings per share and cash flow; the company’s strategic initiatives and growth opportunities; the company’s investments and execution; dividends; the company’s long-term financial targets; and the company’s outlook, including 2020 Organic Net Revenue growth, Adjusted EPS growth and Free Cash Flow. These forward-looking statements are subject to a number of risks and uncertainties, many of which are beyond the company’s control, which could cause the company’s actual results to differ materially from those indicated in the company’s forward-looking statements. Such factors include, but are not limited to, risks from operating globally including in emerging markets; changes in currency exchange rates, controls and restrictions; continued volatility of commodity and other input costs; weakness in economic conditions; weakness in consumer spending; pricing actions; tax matters including changes in tax rates and laws, disagreements with taxing authorities and imposition of new taxes; use of information technology and third party service providers; unanticipated disruptions to the company’s business, such as the malware incident, cyberattacks or other security breaches; competition; protection of the company’s reputation and brand image; the company’s ability to innovate and differentiate its products; legal, regulatory, tax or benefit law changes, claims or actions; the restructuring program and the company’s other transformation initiatives not yielding the anticipated benefits; and changes in the assumptions on which the restructuring program is based. Please also see the company’s risk factors, as they may be amended from time to time, set forth in its filings with the SEC, including the company’s most recently filed Annual Report on Form 10-K. Mondelēz International disclaims and does not undertake any obligation to update or revise any forward-looking statement in this press release, except as required by applicable law or regulation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MDLZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MDLZ_0001103982_EX991_20200218_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:37:47.331654"
+}

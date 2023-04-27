@@ -1,0 +1,97 @@
+xml version="1.0" ? akam-20220218
+
+0001086222false00010862222022-02-182022-02-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+_________________
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report: February 18, 2022 
+
+(Date of earliest event reported) 
+
+AKAMAI TECHNOLOGIES, INC. 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+145 Broadway 
+
+Cambridge, MA 02142 
+
+(617) 444-3000 
+
+(Address, Including Zip Code, and Telephone Number,
+
+Including Area Code, of Registrant’s Principal Executive Offices)
+
+______________________________________________ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+On February 18, 2022, the Talent, Leadership & Compensation Committee of the Board of Directors (the “Committee”) of Akamai Technologies, Inc. (“Akamai” or the “Company”) adopted bonus and equity compensation programs for 2022 for the following individuals (Akamai’s principal executive officer, principal financial officer and Akamai’s other currently serving named executive officers): F. Thomson Leighton, Chief Executive Officer; Edward McGowan, Chief Financial Officer; Robert Blumofe, Chief Technology Officer; and Adam Karon, Chief Operating Officer and General Manager of the Edge Technology Division (each, an “Executive” and collectively, the “Executives”).
+
+Each Executive is eligible to participate in a 2022 bonus program that provides for payment to the extent designated corporate performance objectives are met. Such amounts will be paid in shares of vested common stock issued under the Amended and Restated Akamai Technologies, Inc. 2013 Stock Incentive Plan (the “Plan”), in lieu of cash; the number of shares to be issued, if any, will be calculated by dividing the bonus value achievement by the closing sale price of the Company’s common stock on the date that financial results for 2022 are certified by the Committee (the “2022 Certification Date”). For each of the Executives, the performance objectives consist of and are weighted as follows: 50% based on Akamai’s achievement of a specified revenue target for fiscal year 2022 and 50% based on Akamai’s achievement of a specified adjusted operating income target for fiscal year 2022. Calculation of performance against the revenue and adjusted operating income targets will take into account the impact of foreign currency fluctuations. In addition, the bonus is subject to a modifier based on designated environmental, social and governance objectives for 2022 established by the Committee. If management exceeds the goals, the bonus earned based on the financial metrics above will be increased by up to 10%; if management fails to meet the goals, the bonus earned on the financial metrics above will be decreased by up to 10%.
+
+For Mr. Leighton, his 2022 base salary will be $1.00, with a target bonus value of $1,500,000 and maximum value of $3,300,000. For Mr. Blumofe, his 2022 base salary will be $505,000, with a target bonus equal to 80% of his 2022 salary earnings and a maximum bonus equal to 176% of his 2022 salary earnings. For Mr. Karon, his 2022 base salary will be $550,000, with a target bonus equal to 100% of his 2022 salary earnings and a maximum bonus equal to 220% of his 2022 salary earnings. For Mr. McGowan, his 2022 base salary will be $515,000, with a target bonus equal to 85% of his 2022 salary earnings and a maximum bonus equal to 187% of his 2022 salary earnings. 
+
+As described in the table below, the Committee also approved grants to the Executives of restricted stock units (“RSUs”) under the Plan, consisting of annual vesting RSUs, corporate performance-based RSUs and stock performance-based RSUs as follows:
+
+[DATA_TABLE_REMOVED]
+
+All RSUs will be granted on March 7, 2022 (the “Grant Date”), with the number of RSUs calculated by dividing the dollar value set forth above by the closing sale price of one share of the Company’s common stock on the Grant Date (in the case of performance-based RSUs, the number will be based off of the maximum deliverable). Each RSU represents the right to receive one share of Akamai common stock upon vesting.
+
+RSUs with annual vesting vest as follows: 1/3 on each of the first, second and third anniversaries of the date of grant.
+
+Vesting of corporate performance-based RSUs is subject to the Company’s performance against equally weighted revenue and non-GAAP earnings per share targets over fiscal years 2022, 2023 and 2024, taking into account the impact of foreign currency fluctuations. The Committee has established, or will establish, annual revenue and earnings per share goals at the beginning of each of fiscal years 2022, 2023 and 2024; each year’s performance will be equally weighted in determining the aggregate number of RSUs earned. Performance at 100% of target will earn the target number of RSUs. Eligible vesting commences if the Company exceeds 90% of the target; 110% performance against target will earn the maximum number of RSUs issuable. Performance between such levels will be proportionately awarded on a straight-line interpolation. Earned RSUs will vest on the date that the Company’s fiscal 2024 financial results are certified.
+
+Vesting of stock performance-based RSUs is based on the total shareholder return (“TSR”) of the Company’s common stock relative to companies in the S&P 500 Information Technology Index (the “Index Group”) over calendar years 2022, 2023 and 2024 (the “Performance Period”). TSR will be calculated as the average closing price of the Company’s stock over the last 90 trading days of 2024 plus the aggregate value of dividends per share issued by the Company during the Performance Period minus the average closing price of the Company’s stock over the 90 trading days prior to January 1, 2022, divided by the average closing price of the Company’s stock over the 90 trading days prior to January 1, 2022. If the Company’s TSR over the Performance Period is at the 50th percentile when ranked against the TSRs of companies in the Index Group, 100% of the target number of RSUs will be eligible to vest. For every percentile by which the Company’s TSR ranking within the Index Group exceeds the 50th percentile, the number of RSUs eligible to vest will increase by 3.33% of target, up to a maximum of 200% of target if the Company’s TSR ranking is at the 80th percentile. For every percentile by which the Company’s TSR ranking within the Index Group is below the 50th percentile, the number of RSUs eligible to vest will decrease by 3%, with no payout if the Company’s TSR ranking is below the 25th percentile. Earned RSUs will vest on the date that the Company’s fiscal 2024 financial results are certified.
+
+In addition, on February 18, 2022, the Committee approved a new form of change in control and severance agreement (the “CIC Agreement”) for its executive officers (excluding the Chief Executive Officer) and other members of senior management. It is anticipated that all of such individuals will enter into a CIC Agreement with the Company to replace prior change in control and severance agreements terminated by the Company effective as of December 2021.
+
+The new form of CIC Agreement provides for substantially the same severance payments and benefits as the prior change in control agreements that terminated in December 2021 but the new form of CIC Agreement has been revised to, among other things, provide that if the employee is employed by the Company as of the date of a Change in Control Event (as defined in the CIC Agreement), then the treatment of any then-unvested equity awards held by the employee, including equity awards subject to performance-based vesting, upon the Change in Control Event or upon a subsequent termination of employment shall be as set forth in the grant agreements entered into with the Company governing such awards. The foregoing description of the CIC Agreement is qualified in its entirety by the full text of the CIC Agreement set forth in Exhibit 99.1 and incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits
+
+ (d) Exhibits
+
+[DATA_TABLE_REMOVED]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 25, 2022AKAMAI TECHNOLOGIES, INC.
+
+By:/s/ Aaron Ahola
+
+Aaron Ahola, Executive Vice President, General Counsel and Corporate Secretary

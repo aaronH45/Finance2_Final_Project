@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200212",
+    "sec_filing_date": "20200212",
+    "sec_changed_date": "20200212",
+    "sec_accepted_date": "20200212084031",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000190/0000072971-20-000190-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000190/0000072971-20-000190.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3142 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2456,
+    "endpoints": [
+        "exhibit991serieskredempt   ",
+        "Exhibit 99.1 News Release | February 12, 2020 Wells Fargo & Company Announces Redemption of its Series K Preferred Stock SAN FRANCISCO – February 12, 2020 – Wells Fargo & Company (NYSE: WFC) today announced that on March 16, 2020, it will redeem the remaining 1,802,000 shares (the “Redeemed Shares”) of its Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series K (the “Series K Preferred Stock”). The redemption price will be equal to $1,000.00 per Redeemed Share. After giving effect to the redemption, no shares of the Series K Preferred Stock will remain outstanding. Because the redemption date is also a dividend payment date for the Series K Preferred Stock, the redemption price does not include declared and unpaid dividends. Regular quarterly dividends in the amount of $14.3164 per share of Series K Preferred Stock will be paid separately in the customary manner on March 16, 2020 to holders of record at the close of business on February 29, 2020. All regulatory requirements relating to the redemption of the Redeemed Shares have been satisfied by Wells Fargo & Company. The redemption agent is Equiniti Trust Company, 1110 Centre Pointe Curve, Suite 101, Mendota Heights, Minnesota 55120. Payment of the redemption price for the Redeemed Shares will be sent to holders by the redemption agent on the redemption date. About Wells Fargo Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, investment and mortgage products and services, as well as consumer and commercial finance, through 7,400 locations, more than 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 32 countries and territories to support customers who conduct business in the global economy. With approximately 260,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 29 on Fortune’s 2019 rankings of America’s largest corporations. Contact Information Media Ancel Martinez, 415-222-3858 Ancel.Martinez@wellsfargo.com Investor Relations John Campbell, 415-396-0523 John.M.Campbell@wellsfargo.com ### US.125284179.06 © 2020 Wells Fargo Bank, N.A. All rights reserved."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200212_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:49:29.834357"
+}

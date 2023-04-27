@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001156375",
+    "sec_company_name": "CME GROUP INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150105",
+    "sec_filing_date": "20150106",
+    "sec_changed_date": "20150106",
+    "sec_accepted_date": "20150106153353",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1156375/000119312515002795/0001193125-15-002795-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1156375/000119312515002795/0001193125-15-002795.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\CME_0001156375_8K_20150105_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "21942 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 9530,
+    "endpoints": [
+        "8-K   ",
+        " 99.1   Joint Press release issued by CME Group Inc. and GFI Group Inc., dated January 5, 2015."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CME",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\CME_0001156375_8K_20150105_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:31:26.234817"
+}

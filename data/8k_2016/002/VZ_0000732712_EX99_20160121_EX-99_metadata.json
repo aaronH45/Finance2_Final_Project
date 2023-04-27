@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000732712",
+    "sec_company_name": "VERIZON COMMUNICATIONS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160121",
+    "sec_filing_date": "20160121",
+    "sec_changed_date": "20160121",
+    "sec_accepted_date": "20160121071036",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/732712/000119312516433999/0001193125-16-433999-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/732712/000119312516433999/0001193125-16-433999.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\VZ_0000732712_EX99_20160121_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "575250 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 21333,
+    "endpoints": [
+        "EX-99   ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\VZ_0000732712_EX99_20160121_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:48:31.791232"
+}

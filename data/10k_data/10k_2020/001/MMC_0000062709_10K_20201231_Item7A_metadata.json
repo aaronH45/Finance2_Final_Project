@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000062709",
+    "sec_company_name": "MARSH & MCLENNAN COMPANIES, INC. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217170713",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/62709/000006270921000008/0000062709-21-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/62709/000006270921000008/0000062709-21-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\MMC_0000062709_10K_20201231_Item7A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4672474 chars",
+    "document_group": "10-K",
+    "section_name": "Item7A",
+    "section_n_characters": 4797,
+    "endpoints": [
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+        "Item 8. Financial Statements and Supplementary Data"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MMC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\MMC_0000062709_10K_20201231_Item7A_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 16:51:20.248223"
+}

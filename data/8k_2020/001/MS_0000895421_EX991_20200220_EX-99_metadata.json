@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895421",
+    "sec_company_name": "MORGAN STANLEY (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200220",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220105314",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895421/000095010320003007/0000950103-20-003007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895421/000095010320003007/0000950103-20-003007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MS_0000895421_EX991_20200220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "34023 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17610,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "of the acquisition that could affect Morgan Stanley’s and/or E*TRADE’s financial performance, (x) certain restrictions during the pendency of the acquisition that may impact Morgan Stanley’s or E*TRADE’s ability to pursue certain business opportunities or strategic transactions, (xi) unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities, as well as management’s response to any of the aforementioned factors, (xii) dilution caused by Morgan Stanley’s issuance of additional shares of its common stock in connection with the proposed transaction, (xiii) the possibility that the transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events, (xiv) those risks described in Item 1A of Morgan Stanley’s most recently filed Annual Report on Form 10-K and subsequent reports on Forms 10-Q and 8-K, (xv) those risks described in Item 1A of E*TRADE’s most recently filed Annual Report on Form 10-K and subsequent reports on Forms 10-Q and 8-K and (xvi) those risks that will be described in the proxy statement/prospectus on Form S-4 available from the sources indicated above. These risks, as well as other risks associated with the proposed acquisition, will be more fully discussed in the proxy statement/prospectus that will be included in the registration statement on Form S-4 that will be filed with the SEC in connection with the proposed acquisition. While the list of factors presented here is, and the list of factors to be presented in the registration statement on Form S-4 will be, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on Morgan Stanley’s or E*TRADE’s consolidated financial condition, results of operations, credit rating or liquidity. Neither Morgan Stanley nor E*TRADE assumes any obligation to publicly provide revisions or updates to any forward-looking statements, whether as a result of new information, future developments or otherwise, should circumstances change, except as otherwise required by securities and other applicable laws."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MS_0000895421_EX991_20200220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:34:13.064793"
+}

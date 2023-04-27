@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000048465",
+    "sec_company_name": "HORMEL FOODS CORP /DE/ (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220121",
+    "sec_filing_date": "20220127",
+    "sec_changed_date": "20220127",
+    "sec_accepted_date": "20220127070420",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/48465/000004846522000003/0000048465-22-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/48465/000004846522000003/0000048465-22-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\HRL_0000048465_EX99_20220121_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3568 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2880,
+    "endpoints": [
+        "a1-27x22release   ",
+        " FOR IMMEDIATE RELEASE Contact: Media Relations 507-434-6352 media@hormel.com Hormel Foods Announces Advancement of Paul Kuehneman to Vice President and Controller AUSTIN, Minn. (Jan. 27, 2022) -- Hormel Foods Corporation (NYSE: HRL), a Fortune 500 global branded food company, today announced that Paul Kuehneman has advanced to the position of vice president and controller. Kuehneman succeeds Jana Haynes, who recently announced her departure from Hormel Foods. “We thank Jana for the many contributions she has made to Hormel Foods and wish her the best,” said Jim Snee, chairman of the board, president and chief executive officer of Hormel Foods. “Paul is ideally positioned to assume the role of vice president and controller, with more than 25 years of finance, accounting and audit experience with Hormel Foods. He is highly regarded and has in-depth knowledge of our business and exceptional financial acumen.” As vice president and controller, Kuehneman is responsible for financial policies, internal controls, and financial reporting, as well as the general accounting, cost and business-unit accounting functions of the company. He will report to Jacinth Smiley, executive vice president and chief financial officer of Hormel Foods. Most recently, Kuehneman was assistant controller, a role he assumed in November of 2020, after several years as vice president and chief financial officer for Jennie-O Turkey Store, a Hormel Foods subsidiary. Kuehneman joined Hormel Foods in 1993 and has held various accounting, finance and internal audit roles with the company. Kuehneman earned his bachelor’s degree in accounting from Northwest Missouri State University and is a Certified Public Accountant (CPA). He is active in numerous community organizations. About Hormel Foods – Inspired People. Inspired Food.™ Hormel Foods Corporation, based in Austin, Minn., is a global branded food company with over $11 billion in annual revenue across more than 80 countries worldwide. Its brands include Planters®, SKIPPY®, SPAM®, Hormel® Natural Choice®, Applegate®, Justin’s®, Wholly®, Hormel® Black Label®, Columbus® and more than 30 other beloved brands. The company is a member of the S&P 500 Index and the S&P 500 Dividend Aristocrats, was named on the “Global 2000 World’s Best Employers” list by Forbes magazine for three years, is one of Fortune magazine’s most admired companies, has appeared on Corporate Responsibility Magazine’s “The 100 Best Corporate Citizens” list for 12 years, and has received numerous other awards and accolades for its corporate responsibility and community service efforts. The company lives by its purpose statement — Inspired People. Inspired Food.™ — to bring some of the world’s most trusted and iconic brands to tables across the globe. For more information, visit www.hormelfoods.com and http://csr.hormelfoods.com/."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HRL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\HRL_0000048465_EX99_20220121_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:22:20.397206"
+}

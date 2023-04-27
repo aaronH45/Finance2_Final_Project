@@ -1,0 +1,147 @@
+Exhibit   
+
+FOR IMMEDIATE RELEASE:
+
+NVIDIA Announces Financial Results for the Fourth Quarter and Fiscal 2016
+
+•Record quarterly revenue of $1.40 billion, up 12 percent from a year earlier
+
+•Record full-year revenue of $5.01 billion, up 7 percent from fiscal 2015
+
+•Growth across all market platforms - Gaming, Professional Visualization, Datacenter, Automotive 
+
+•Sharply growing customer engagements in deep learning 
+
+SANTA CLARA, Calif.-Feb. 17, 2016-NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 31, 2016, of $1.40 billion, up 12 percent from $1.25 billion a year earlier, and up 7 percent from $1.30 billion in the previous quarter. 
+
+Revenue for fiscal 2016 was a record $5.01 billion, up 7 percent from $4.68 billion a year earlier. 
+
+GAAP earnings per diluted share for the quarter were $0.35, inclusive of a restructuring charge of $0.04 per diluted share. Non-GAAP earnings per diluted share were $0.52, up 21 percent from $0.43 a year earlier and up 13 percent from $0.46 in the previous quarter.
+
+GAAP earnings per diluted share for the full year were $1.08, inclusive of restructuring charges of $0.15 per diluted share. Non-GAAP earnings per diluted share were $1.67, up 18 percent from $1.42 a year earlier. 
+
+“We had another record quarter, capping a record year,” said Jen-Hsun Huang, co-founder and chief executive officer, NVIDIA. “Our strategy is to create specialized accelerated computing platforms for large growth markets that demand the 10x boost in performance we offer. Each platform leverages our focused investment in building the world’s most advanced GPU technology.
+
+“NVIDIA is at the center of four exciting growth opportunities - PC gaming, VR, deep learning, and self-driving cars. We are especially excited about deep learning, a breakthrough in artificial intelligence algorithms that takes advantage of our GPU’s ability to process data simultaneously. 
+
+“Deep learning is a new computing model that teaches computers to find patterns and make predictions, extracting powerful insights from massive quantities of data. We are working with thousands of companies that are applying the power of deep learning in fields ranging from life sciences and financial services to the Internet of Things,” he said.
+
+Capital Return
+
+During the fourth quarter, NVIDIA paid $62 million in cash dividends and received 4.3 million shares in connection with an accelerated share repurchase agreement that it had entered into in the quarter. During fiscal 2016, the company returned to shareholders $800 million in quarterly cash dividends and share repurchases. 
+
+For fiscal 2017, NVIDIA intends to return approximately $1.0 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
+
+NVIDIA will pay its next quarterly cash dividend of $0.115 per share on March 23, 2016, to all shareholders of record on March 2, 2016.
+
+Q4 FY2016 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+FY2016 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+NVIDIA’s outlook for the first quarter of fiscal 2017 is as follows:
+
+•Revenue is expected to be $1.26 billion, plus or minus two percent.
+
+•GAAP and non-GAAP gross margins are expected to be 57.2 percent and 57.5 percent, respectively, plus or minus 50 basis points.
+
+•GAAP operating expenses are expected to be approximately $500 million. Non-GAAP operating expenses are expected to be approximately $445 million.
+
+•GAAP and non-GAAP tax rates for the first quarter of fiscal 2017 are both expected to be 19 percent, plus or minus one percent.
+
+•Capital expenditures are expected to be approximately $35 million to $45 million.
+
+Fourth Quarter Fiscal 2016 Highlights 
+
+During the fourth quarter, NVIDIA achieved progress in each of its platforms.
+
+Gaming: 
+
+•Announced the GeForce® GTX VR Ready program - in conjunction with PC companies, notebook makers and add-in card providers - to help users discover systems that will provide great virtual reality experiences. 
+
+•Released NVIDIA GameWorks™ VR, a software development kit for developers of VR software and headsets for gaming.
+
+Professional Visualization:
+
+[DATA_TABLE_REMOVED]
+
+•Released NVIDIA DesignWorks™ VR, a software development kit for developers of VR software and headsets for enterprise.
+
+Datacenter:
+
+•Introduced an end-to-end hyperscale datacenter deep learning platform - consisting of two accelerators, the NVIDIA Tesla® M40 and NVIDIA Tesla M4 - that lets web-services companies accelerate deep learning workloads. 
+
+•Revealed new breakthroughs from leading web-services groups using NVIDIA GPUs: 
+
+◦Facebook is using the NVIDIA Tesla accelerated computing platform to power Big Sur, its next-generation computing system for machine learning applications. 
+
+◦Alibaba’s AliCloud cloud computing business is working with NVIDIA to promote China’s first GPU-accelerated, cloud-based, high performance computing platform.
+
+◦IBM is adding support for NVIDIA GPU accelerators to its Watson cognitive computing platform.
+
+◦Google is open-sourcing its TensorFlow deep-learning framework, which can be accelerated on GPUs.
+
+◦Microsoft’s Computational Network Toolkit was integrated with Azure GPU Lab, enabling neural nets for speech recognition that are up to 10x faster than their predecessors. 
+
+Auto:
+
+•Launched NVIDIA DRIVE™ PX 2, a powerful engine for in-vehicle artificial intelligence. 
+
+•Announced that Volvo will use DRIVE PX 2 to power a fleet of 100 Volvo XC90 SUVs that will appear on the road next year in the car manufacturer’s Drive Me autonomous-car pilot program.
+
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at http://investor.nvidia.com/. 
+
+Conference Call and Webcast Information
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2016 financial results and current financial prospects today at 2 p.m. Pacific Time (5 p.m. Eastern Time). To listen to the conference call, dial (212) 231-2927; no password is required. A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, http://investor.nvidia.com, and at www.streetevents.com. The webcast will be recorded and available for replay until the company’s conference call to discuss its financial results for its first quarter of fiscal 2017.
+
+Non-GAAP Measures 
+
+To supplement NVIDIA’s Condensed Consolidated Statements of Income and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP other income (expense), net, non-GAAP income tax expense, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, non-GAAP diluted shares, per diluted share impact of restructuring and other charges, and free cash flow. In order for NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation, product warranty charge, acquisition-related costs, restructuring and other charges, gains and losses from non-affiliated investments, interest expense related to amortization of debt discount, and the associated tax impact of these items, where applicable. Weighted average shares used in the non-GAAP diluted net income per share computation includes the anti-dilution impact of the company’s Note Hedge. Per diluted share impact of restructuring and other charges is calculated as restructuring and other charges, net of income tax, divided by GAAP diluted shares. Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and its non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+Keep Current on NVIDIA
+
+Subscribe to the NVIDIA blog, follow us on Facebook, Google+, Twitter, LinkedIn and Instagram, and view NVIDIA videos on YouTube and images on Flickr.
+
+About NVIDIA
+
+Since 1993, NVIDIA (NASDAQ: NVDA) has pioneered the art and science of visual computing. With a singular focus on this field, the company offers specialized platforms for the gaming, professional visualization, datacenter and automotive markets. Its products, services and software power amazing new experiences in virtual reality, artificial intelligence and autonomous cars. More information at http://nvidianews.nvidia.com.
+
+###
+
+For further information, contact:
+
+[DATA_TABLE_REMOVED]
+
+Certain statements in this press release including, but not limited to statements as to: the company’s strategy of creating specialized accelerated computing platforms for large growth markets; the 10x boost in performance the company offers; the company being at the center of four exciting growth opportunities; the impact of deep learning; the company’s intended fiscal 2017 capital return; the company’s next quarterly cash dividend; the company’s financial outlook for the first quarter of fiscal 2017; the company’s tax rates for the first quarter of fiscal 2017; the impact of the GeForce GTX VR Ready program; the benefits of NVIDIA Iray plugins; the impact of the company’s hyperscale datacenter deep learning platform; breakthroughs from web-services groups leveraging NVIDIA GPUs and Volvo’s use of DRIVE PX 2 are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 25, 2015. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. 
+
+© 2016 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, Tesla, Iray, NVIDIA DesignWorks, NVIDIA DRIVE, NVIDIA GameWorks, and SHIELD are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+
+NVIDIA CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

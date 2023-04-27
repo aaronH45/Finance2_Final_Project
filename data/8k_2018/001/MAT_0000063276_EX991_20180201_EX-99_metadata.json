@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000063276",
+    "sec_company_name": "MATTEL INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180201",
+    "sec_filing_date": "20180201",
+    "sec_changed_date": "20180201",
+    "sec_accepted_date": "20180201160518",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/63276/000162828018000845/0001628280-18-000845-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/63276/000162828018000845/0001628280-18-000845.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\MAT_0000063276_EX991_20180201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "792443 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 32339,
+    "endpoints": [
+        "Exhibit   ",
+        "7 For the three months ended December 31, 2017, the amount includes a benefit of approximately $105 million related to the estimated impact of U.S. Tax Reform. For the twelve months ended December 31, 2017, the amount includes a net expense of approximately $457 million related to the valuation allowance on deferred tax assets and an estimate of the impact of U.S. Tax Reform."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MAT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\001\MAT_0000063276_EX991_20180201_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:19:09.342866"
+}

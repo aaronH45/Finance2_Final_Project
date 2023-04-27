@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001297996",
+    "sec_company_name": "DIGITAL REALTY TRUST, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200227",
+    "sec_filing_date": "20200228",
+    "sec_changed_date": "20200228",
+    "sec_accepted_date": "20200228074253",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312520054204/0001193125-20-054204-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312520054204/0001193125-20-054204.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\DLR_0001297996_EX991_20200227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "20755 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13369,
+    "endpoints": [
+        "EX-99.1   ",
+        "Digital Realty cautions that statements in this communication that are forward-looking, and provide other than historical information, involve risks, contingencies and uncertainties that may impact actual results of operations of Digital Realty, InterXion and the combined company. These forward-looking statements include, among other things, statements about the exchange offer and completion of the proposed transactions contemplated by the purchase agreement between them. Although we believe the expectations reflected in those forward-looking statements are reasonable, we can give no assurance that those expectations will prove to have been correct. Those statements are made by using various underlying assumptions and are subject to numerous risks, contingencies and uncertainties, including, among others: the ability of Digital Realty and InterXion to obtain the regulatory approvals necessary to complete the anticipated combination, on the anticipated timeline or at all; the risk that a condition to the closing of the anticipated combination may not be satisfied, on the anticipated timeline or at all or that the anticipated combination may fail to close; the outcome of any legal proceedings, regulatory proceedings or enforcement matters that may be instituted relating to the anticipated combination; the costs incurred to consummate the anticipated combination; the possibility that the expected synergies from the anticipated combination will not be realized, or will not be realized within the expected time period; difficulties related to the integration of the two companies; disruption from the anticipated combination making it more difficult to maintain relationships with customers, employees, regulators or suppliers; the diversion of management time and attention on the anticipated combination; adverse changes in the markets in which Digital Realty and InterXion operate or credit markets; and changes in the terms, scope or timing of contracts, contract cancellations, and other modifications and actions by customers and other business counterparties of Digital Realty and InterXion. If one or more of these risks materialize, or if underlying assumptions prove incorrect, actual results may vary materially from those expected. You should not place undue reliance on forward-looking statements. For a more complete discussion of these and other risk factors, please see (i) Digital Realty’s filings with the SEC, including its annual report on Form 10-K for the year ended December 31, 2018 and subsequent quarterly reports on Form 10-Q and (ii) InterXion’s filings with the SEC, including its annual report on Form 20-F for the year ended December 31, 2018 and its subsequent reports on Form 6-K. This communication reflects the views of Digital Realty’s management as of the date hereof. Except to the extent required by applicable law, Digital Realty undertakes no obligation to update or revise any forward-looking statement."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\DLR_0001297996_EX991_20200227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:46:05.536259"
+}

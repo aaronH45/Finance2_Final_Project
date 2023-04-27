@@ -1,0 +1,93 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): February 23, 2016  
+
+Juniper Networks, Inc.  
+
+(Exact name of Registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+1133 Innovation Way  
+
+Sunnyvale, California 94089  
+
+(Address, including zip code, of principal executive offices)  
+
+(408) 745-2000  
+
+(Registrant’s telephone number, including area code)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+ Item 1.01. Entry into a Material Definitive Agreement.  
+
+Underwriting Agreement  
+
+On February 23, 2016, Juniper Networks, Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with Barclays Capital Inc., Citigroup Global Markets Inc., and J.P. Morgan Securities LLC as managers of the several underwriters listed in Schedule II thereto (the “Underwriters”), relating to the issuance and sale by the Company of $350 million aggregate principal amount of its 3.125% Senior Notes due 2019 and $150 million aggregate principal amount of its 4.500% Senior Notes due 2024 pursuant to the Company’s Registration Statement on Form S-3 (No. 333-190491) (the “Registration Statement”), including the prospectus contained therein, filed by the Company with the Securities and Exchange Commission (“the Commission”) under the Securities Act of 1933, as amended, as supplemented by the preliminary prospectus supplement filed with the Commission on February 23, 2016 and the prospectus supplement filed with the Commission on February 24, 2016.  
+
+The Underwriting Agreement includes customary representations, warranties and covenants by the Company. Under the terms of the Underwriting Agreement, the Company has agreed to indemnify the Underwriters against certain liabilities.  
+
+The description of the Underwriting Agreement contained herein is qualified in its entirety by reference to the Underwriting Agreement attached as Exhibit 1.1 to this Current Report on Form 8-K and incorporated herein by reference.  
+
+Indenture  
+
+On February 26, 2016, the Company entered into a Fourth Supplemental Indenture (the “Fourth Supplemental Indenture”), between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), relating to the issuance by the Company of $350 million aggregate principal amount of its 3.125% Senior Notes due 2019 (the “2019 Notes”), and a Fifth Supplemental Indenture, dated as of February 26, 2016, between the Company and the Trustee that supplements the Second Supplemental Indenture dated as of March 4, 2014, with respect to the issuance of the Company’s outstanding $350 million aggregate principal amount of 4.500% Senior Notes due 2024 (the “Fifth Supplemental Indenture”) (such Fifth Supplemental Indenture, together with the Second Supplemental Indenture and the Fourth Supplemental Indenture, the “Supplemental Indentures”), relating to the issuance by the Company of $150 million aggregate principal amount of its 4.500% Senior Notes due 2024 (the “2024 Notes” and, together with the 2019 Notes, the “Notes”), each of the Supplemental Indentures supplementing that certain Indenture, dated as of March 3, 2011 (the “Base Indenture” and, together with the Supplemental Indentures, the “Indenture”), between the Company and the Trustee.  
+
+The 2019 Notes bear interest at a rate of 3.125% per annum on the principal amount and the 2024 Notes bear interest at a rate of 4.500% per annum on the principal amount. Interest on the 2019 Notes as described in such series of 2019 Notes is payable semi-annually in arrears in cash on February 26 and August 26 of each year, beginning on August 26, 2016 and interest on the 2024 Notes as described in such series of 2024 Notes is payable semi-annually on March 15 and September 15 of each year, beginning on March 15, 2016 for interest accrued from September 15, 2015 as described in such series of 2024 Notes. The 2019 Notes will mature on February 26, 2019, and the 2024 Notes will mature on March 15, 2024, in each case, subject to earlier repurchase or redemption, as described below. The 2024 Notes will be consolidated, form a single series and be fully fungible with the Company’s outstanding $350 million aggregate principal amount of 4.500% Senior Notes due 2024. After giving effect to the issuance of the 2024 Notes, there will be $500 million aggregate principal amount of 4.500% Senior Notes due 2024 outstanding.  
+
+The Notes are the Company’s senior unsecured and unsubordinated obligations, ranking equally in right of payment to all of the Company’s existing and future senior unsecured and unsubordinated indebtedness and senior in right of payment to any of the Company’s future indebtedness that is expressly subordinated to the Notes. The Notes are effectively subordinated to any of the Company’s secured indebtedness to the extent of the value of the collateral securing such indebtedness and are structurally subordinated to all existing and future liabilities of the Company’s subsidiaries (including trade payables but excluding intercompany liabilities and liabilities of a type not required to be reflected in a balance sheet in accordance with generally accepted accounting principles).  
+
+The Company may redeem either series of Notes at any time, in whole or from time to time in part, for cash at the applicable redemption price described in the Indenture for such series of Notes.  
+
+Upon the occurrence of a change of control repurchase event, as defined in the Indenture, holders may require the Company to repurchase some or all of their Notes for cash at a price equal to 101% of the principal amount of the Notes being repurchased, plus accrued and unpaid interest, if any.  
+
+The Indenture includes certain customary covenants that limit the ability of the Company and its wholly-owned U.S. subsidiaries to, among other things: create specified liens; enter into certain sale and leaseback transactions for the sale and leasing back of property; and consolidate or merge with or into other companies or sell all or substantially all of the Company’s assets. The restricted covenants are subject to a number of important exceptions and qualifications set forth in the Indenture.  
+
+The Indenture provides for customary events of default, including payment defaults, breaches of covenants, certain payment defaults at final maturity or acceleration of other indebtedness and certain events of bankruptcy, insolvency and reorganization with respect to the Company. If any event of default with respect to the Notes occurs and is continuing, subject to the terms of the Indenture, the Trustee or the holders of not less than 25% in aggregate principal amount of the then outstanding Notes may, by a notice in writing to the Company (and to the Trustee if given by the holders), declare to be due and payable immediately the principal of, and accrued and unpaid interest if any, on the Notes. In the case of an event of default resulting from certain events of bankruptcy, insolvency or reorganization with respect to the Company, such amounts with respect to the Notes will be due and payable immediately without any declaration or other act on the part of the Trustee or any holder of the Notes.  
+
+The description of the Indenture and the Notes is qualified in its entirety by reference to (i) the text of the Base Indenture, which was filed as Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 4, 2011 and is incorporated herein by reference, (ii) the Second Supplemental Indenture, which was filed as Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 4, 2014 and is incorporated herein by reference and (iii) the Fourth Supplemental Indenture, the Fifth Supplemental Indenture and the forms of the 2019 Notes and the 2024 Notes, which are filed as Exhibits 4.1, 4.2, 4.3, and 4.4 respectively, to this Current Report on Form 8-K and incorporated herein by reference.  
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information set forth under Item 1.01, “Entry into a Material Definitive Agreement,” is incorporated herein by reference.  
+
+ Item 9.01. Financial Statements and Exhibits.  
+
+(d) Exhibits.  
+
+The following exhibits are filed herewith:  
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED] 
+
+Exhibit Index  
+
+  [DATA_TABLE_REMOVED]

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000028385",
+    "sec_company_name": "DTE Electric Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150219",
+    "sec_filing_date": "20150219",
+    "sec_changed_date": "20150219",
+    "sec_accepted_date": "20150219070553",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634015000018/0000936340-15-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/936340/000093634015000018/0000936340-15-000018.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\DTE_0000028385_EX991_20150219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "49656 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 29818,
+    "endpoints": [
+        "dtebusinessupdatefeb19fi  ",
+        "Use of Operating Earnings Information – DTE Energy management believes that operating earnings provide a more meaningful representation of the company’s earnings from ongoing operations and uses operating earnings as the primary performance measurement for external communications with analysts and investors. Internally, DTE Energy uses operating earnings to measure performance against budget and to report to the Board of Directors. In this presentation, DTE Energy provides guidance for future period operating earnings. It is likely that certain items that impact the company’s future period reported results will be excluded from operating results. A reconciliation to the comparable future period reported earnings is not provided because it is not possible to provide a reliable forecast of specific line items. These items may fluctuate significantly from period to period and may have a significant impact on reported earnings. For comparative purposes, 2009 through 2012 operating earnings exclude the Unconventional Gas Production segment that was classified as a discontinued operation on 12/31/2012. Reconciliation of Other Reported to Operating Earnings 45"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DTE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\DTE_0000028385_EX991_20150219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:23:02.393112"
+}

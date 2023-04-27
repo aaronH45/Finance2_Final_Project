@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000750556",
+    "sec_company_name": "SUNTRUST BANKS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170207",
+    "sec_filing_date": "20170207",
+    "sec_changed_date": "20170206",
+    "sec_accepted_date": "20170206174735",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055617000015/0000750556-17-000015-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/750556/000075055617000015/0000750556-17-000015.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\STI_0000750556_EX991_20170207_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "40510 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 26343,
+    "endpoints": [
+        "creditsuissefebruary2017  ",
+        "20 FOOTNOTES Slide #3: 1. Assets, loans, deposits, client, and teammate data as of December 31, 2016; market capitalization as of February 3, 2017 2. Rank is amongst U.S. bank holding companies and excludes non-traditional banks. Asset and loan rankings are sourced via bank holding company regulatory filings (Y-9C) and are as of September 30, 2016. Deposit rankings are sourced via FDIC deposit market share data, and are as of June 30, 2016, pro-forma for completed and pending mergers and acquisitions 3. Represents full-time equivalent employees 4. Source: SNL Financial, as of June 30, 2016, based on top 10 MSAs (by deposits) for each institution, pro-forma for completed and pending mergers and acquisitions. Numerator is company’s total deposits in its top 10 MSAs and denominator is total deposits in those 10 MSAs Note: Peer group includes BBT, CMA, COF, FITB, KEY, MTB, PNC, RF, USB, WFC Slide #4: 1. source: Bureau of Labor Statistics. Represents the MSAs with the highest job growth percentages from FY 2009 to September 2016 2. Source: https://bea.gov/scb/pdf/2016/07%20July/0716_gdp_by_state.pdf. Represents GDP in 2015 as % of total US GDP for GA, FL, NC, SC, TN, MD, VA, DC, KY 3. Source: SNL Financial and Nielsen. Demographic data is provided by Nielsen based primarily on US Census data. For non-census year data, Nielsen uses samples and projections to estimate the demographic data. SNL performs calculations on the underlying data provided by Nielsen for some of the data Slide #10: 1. LightStream portfolio average balances for 4Q 15 and 4Q 16 2. For the three months ended December 31, 2016. Rates range from 1.74% to 14.99% depending on loan purpose, amount, term and credit profile Slide #13: 1. Data as of December 31, 2016. Consumer Lending includes consumer direct loans (other than student guaranteed), consumer indirect loans and consumer credit cards. Guaranteed includes guaranteed student loans and guaranteed residential mortgages. Construction includes both commercial and residential construction. Note: totals may not foot due to rounding 2. Return on average common shareholders’ equity was 6.3% and 8.0% for 2013 and 2016, respectively. The effect of excluding intangible assets, excluding MSRs, was 3.1%and 2.9% for 2013 and 2016, respectively 3. Not including real estate loans which are classified as C&I 4. Represents weighted average score as of December 31, 2016. Includes consumer loans, home equity, and residential mortgage. Excludes guaranteed loans Slide #15: 1. Please see Appendix slide #19 to reconcile to GAAP CET1 ratio 2. Represents the difference between the starting and minimum Basel III Common Equity Tier 1 Ratios resulting from the Federal Reserve’s 2016 CCAR severely adverse scenario 3. CCAR 2016 Traditional Banks include BAC, BANCW, BBT, BBVA, BMO, C, CFG, CMA, FITB, HBAN, JPM, KEY, MTB, PNC, RF, STI, TD, USB, WFC, ZION 4. Payout Ratio = (Common Stock Dividends and Share Repurchases) / Net Income Available to Common Shareholders"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\STI_0000750556_EX991_20170207_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:53.189210"
+}

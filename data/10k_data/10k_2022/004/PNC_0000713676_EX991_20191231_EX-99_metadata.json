@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000713676",
+    "sec_company_name": "PNC FINANCIAL SERVICES GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20191231",
+    "sec_filing_date": "20200302",
+    "sec_changed_date": "20200228",
+    "sec_accepted_date": "20200228190536",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367620000042/0000713676-20-000042-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367620000042/0000713676-20-000042.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\004\PNC_0000713676_EX991_20191231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "286724 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 176728,
+    "endpoints": [
+        "blackrockfinancialsforup   ",
+        " 29. Subsequent Events In January 2020, the Company issued $1 billion in aggregate principal amount of 2.40% senior unsecured and unsubordinated notes maturing on April 30, 2030 (the “2030 Notes”). The net proceeds of the 2030 Notes will be used for general corporate purposes. Interest of approximately $24 million per year will be payable semi-annually on April 30 and October 30 of each year, commencing April 30, 2020. The 2030 Notes may be redeemed prior to January 30, 2030 in whole or in part at any time, at the option of the Company, at a “make-whole” redemption price or at 100% of the principal amount of the 2030 Notes thereafter. The discount and debt issuance costs will be amortized over the term of the 2030 Notes. On January 29, 2020, the Board of Directors approved BlackRock’s quarterly dividend of $3.63 per share to be paid on March 23, 2020 to stockholders of record at the close of business on March 5, 2020. On February 13, 2020, BlackRock announced the establishment of The BlackRock Foundation (the “Foundation”) and the contribution of its remaining stake in PennyMac Financial Services, Inc. to the new Foundation and the BlackRock Charitable Fund, which BlackRock established in 2013. The contribution will result in an operating expense of $589 million, which is expected to be offset by an approximately $125 million noncash, nonoperating pre-tax gain on the contributed shares and a tax benefit of approximately $241 million. The contribution will provide long-term funding for BlackRock’s philanthropic investments and partnerships. The Company conducted a review for additional subsequent events and determined that no subsequent events had occurred that would require accrual or additional disclosures. F-44"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\004\PNC_0000713676_EX991_20191231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:24:36.912579"
+}

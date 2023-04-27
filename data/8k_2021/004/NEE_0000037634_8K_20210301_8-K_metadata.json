@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037634",
+    "sec_company_name": "FLORIDA POWER & LIGHT CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210301",
+    "sec_filing_date": "20210301",
+    "sec_changed_date": "20210301",
+    "sec_accepted_date": "20210301113544",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/753308/000075330821000070/0000753308-21-000070-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/753308/000075330821000070/0000753308-21-000070.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\NEE_0000037634_8K_20210301_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "53405 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3161,
+    "endpoints": [
+        "xml version='1.0' ? nee-20210301",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "NEE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\NEE_0000037634_8K_20210301_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:11:26.546009"
+}

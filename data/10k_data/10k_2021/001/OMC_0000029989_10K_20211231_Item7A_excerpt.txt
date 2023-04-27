@@ -1,0 +1,33 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We manage our exposure to foreign exchange rate risk and interest rate risk through various strategies, including the use of derivative financial instruments. We use forward foreign exchange contracts as economic hedges to manage the cash flow volatility arising from foreign exchange rate fluctuations. We do not use derivatives for trading or speculative purposes. Using derivatives exposes us to the risk that counterparties to the derivative contracts will fail to meet their contractual obligations. We manage that risk through careful selection and ongoing evaluation of the counterparty financial institutions based on specific minimum credit standards and other factors.
+
+We evaluate the effects of changes in foreign currency exchange rates, interest rates and other relevant market risks on our derivatives. We periodically determine the potential loss from market risk on our derivatives by performing a value-at-risk, or VaR, analysis. VaR is a statistical model that uses historical currency exchange rate data to measure the potential impact on future earnings of our derivative financial instruments assuming normal market conditions. The VaR model is not intended to represent actual losses but is used as a risk estimation and management tool. Based on the results of the model, we estimate with 95% confidence a maximum one-day change in the net fair value of our derivative financial instruments at December 31, 2021 was not significant.
+
+Foreign Currency Exchange Risk
+
+In 2021, our international operations represented approximately 49% of our revenue. Changes in the value of foreign currencies against the U.S. Dollar affect our results of operations and financial position. For the most part, because the revenue and expenses of our foreign operations are denominated in the same local currency, the economic impact on operating margin is minimized. The effects of foreign currency exchange transactions on our results of operations are discussed in Note 2 to the consolidated financial statements.
+
+We operate in all major international markets including the Euro Zone, the U.K., Australia, Brazil, Canada, China and Japan. Our agencies transact business in more than 50 different currencies. As an integral part of our global treasury operations, we centralize our cash and use notional multicurrency pools to manage the foreign currency exchange risk that arises from imbalances between subsidiaries and their respective treasury centers. In addition, there are circumstances where revenue and expense transactions are not denominated in the same currency. In these instances, amounts are either promptly settled or hedged with forward foreign exchange contracts. To manage this risk, at December 31, 2021 and 2020, we had outstanding forward foreign exchange contracts with an aggregate notional amount of $77.3 million and $169.6 million, respectively. At December 31, 2021 and 2020, the net fair value of the forward foreign contracts was not material (see Note 20 to the consolidated financial statements).
+
+Foreign currency derivatives are designated as economic hedges; therefore, any gain or loss in fair value incurred on those instruments is generally offset by decreases or increases in the fair value of the underlying exposure. By using these financial instruments, we reduce financial risk of adverse foreign exchange changes by foregoing any gain which might occur if the markets move favorably. The terms of our forward foreign exchange contracts are generally less than 90 days.
+
+Interest Rate Risk
+
+We may use interest rate swaps to manage our interest cost and structure our long-term debt portfolio to achieve a mix of fixed rate and floating rate debt. During 2021, there were no interest rate swaps and, at December 31, 2021, long-term debt consisted entirely of fixed-rate debt.
+
+Credit Risk
+
+We provide advertising, marketing and corporate communications services to several thousand clients that operate in nearly every sector of the global economy and we grant credit to qualified clients in the normal course of business. Due to the diversified nature of our client base, we do not believe that we are exposed to a concentration of credit risk as our largest client represented 3.2% of revenue in 2021. However, during periods of economic downturn, the credit profiles of our clients could change.
+
+In the normal course of business, our agencies enter into contractual commitments with media providers and production companies on behalf of our clients at levels that can substantially exceed the revenue from our services. These commitments are included in accounts payable when the services are delivered by the media providers or production companies. If permitted by local law and the client agreement, many of our agencies purchase media and production services for our clients as an agent for a 
+
+27
+
+disclosed principal. In addition, while operating practices vary by country, media type and media vendor, in the United States and certain foreign markets, many of our agencies’ contracts with media and production providers specify that our agencies are not liable to the media and production providers under the theory of sequential liability until and to the extent we have been paid by our client for the media or production services.
+
+Where purchases of media and production services are made by our agencies as a principal or are not subject to the theory of sequential liability, the risk of a material loss as a result of payment default by our clients could increase significantly and such a loss could have a material adverse effect on our business, results of operations and financial position.
+
+In addition, our methods of managing the risk of payment default, including obtaining credit insurance, requiring payment in advance, mitigating the potential loss in the marketplace or negotiating with media providers, may be insufficient, less available, or unavailable during a severe economic downturn.
+
+Item 8. Financial Statements and Supplementary Data

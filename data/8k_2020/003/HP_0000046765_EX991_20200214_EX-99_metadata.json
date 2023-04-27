@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000046765",
+    "sec_company_name": "Helmerich & Payne, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200214",
+    "sec_filing_date": "20200214",
+    "sec_changed_date": "20200214",
+    "sec_accepted_date": "20200214163208",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/46765/000110465920021889/0001104659-20-021889-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/46765/000110465920021889/0001104659-20-021889.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\HP_0000046765_EX991_20200214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "56893 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25099,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "  Helmerich & Payne, Inc. Thank you for your interest in H&P. Our stock is traded on the NYSE, ticker symbol - HP For more information please visit our website at www.hpinc.com or contact: Dave Wilson, CFA, CPA Director of Investor Relations 918-588-5190, investor.relations@hpinc.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\HP_0000046765_EX991_20200214_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:43:12.962420"
+}

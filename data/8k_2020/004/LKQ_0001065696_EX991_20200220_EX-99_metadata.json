@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065696",
+    "sec_company_name": "LKQ CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200220",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220065118",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569620000005/0001065696-20-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569620000005/0001065696-20-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\LKQ_0001065696_EX991_20200220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "996446 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 29810,
+    "endpoints": [
+        "Exhibit  ",
+        "We have presented adjusted gross margin solely as a supplemental disclosure that offers investors, securities analysts and other interested parties useful information to evaluate the operating performance of our continuing business across reporting periods and in analyzing our historical operating results. We calculate adjusted gross margin as gross margin plus restructuring expenses recorded in cost of goods sold. Adjusted gross margin provides insight into our operating performance and provides useful information to management and investors concerning our gross margins. We believe adjusted gross margin is used by investors, securities analysts and other interested parties in evaluating the operating performance of other companies, many of which present adjusted gross margin when reporting their results. Adjusted gross margin should not be construed as an alternative to gross margin, as determined in accordance with accounting principles generally accepted in the United States. In addition, not all companies that report adjusted gross margin information calculate adjusted gross margin in the same manner as we do and, accordingly, our calculation is not necessarily comparable to similarly-named measures of other companies and may not be an appropriate measure for performance relative to other companies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LKQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\LKQ_0001065696_EX991_20200220_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:47:51.358044"
+}

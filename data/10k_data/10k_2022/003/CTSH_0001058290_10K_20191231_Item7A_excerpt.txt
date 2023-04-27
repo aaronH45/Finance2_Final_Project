@@ -1,0 +1,35 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Foreign Currency Risk
+
+We are exposed to foreign currency exchange rate risk in the ordinary course of doing business as we transact or hold a portion of our funds in foreign currencies, particularly the Indian rupee. Additionally, the United Kingdom's exit from the European Union and its effect on the British pound may subject us to increased volatility in foreign currency exchange rate movements. Accordingly, we periodically evaluate the need for hedging strategies, including the use of derivative financial instruments, to mitigate the effect of foreign currency exchange rate fluctuations and expect to continue to use such instruments in the future to reduce foreign currency exposure to appreciation or depreciation in the value of certain foreign currencies. All hedging transactions are authorized and executed pursuant to regularly reviewed policies and procedures.
+
+Revenues from our clients in the United Kingdom, Continental Europe and Rest of World represented 7.8%, 10.1% and 6.3%, respectively, of our 2019 revenues, and are typically denominated in currencies other than the U.S. dollar. Accordingly, our operating results may be affected by fluctuations in the exchange rates, primarily the British pound and the Euro, as compared to the U.S. dollar.
+
+A significant portion of our costs in India are denominated in the Indian rupee, representing approximately 20.7% of our global operating costs during 2019, and are subject to foreign currency exchange rate fluctuations. These foreign currency exchange rate fluctuations have an impact on our results of operations.
+
+We have entered into a series of foreign exchange forward contracts that are designated as cash flow hedges of certain Indian rupee denominated payments in India. These U.S. dollar / Indian rupee hedges are intended to partially offset the impact of movement of exchange rates on future operating costs. As of December 31, 2019, the notional value and weighted average contract rates of these contracts were as follows:
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2019, the net unrealized gain on our outstanding foreign exchange forward contracts designated as cash flow hedges was $31 million. Based upon a sensitivity analysis at December 31, 2019, which estimates the fair value of the contracts based upon market exchange rate fluctuations, a 10.0% change in the foreign currency exchange rate against the U.S. dollar with all other variables held constant would have resulted in a change in the fair value of our foreign exchange forward contracts designated as cash flow hedges of approximately $232 million.
+
+A portion of our balance sheet is exposed to foreign currency exchange rate fluctuations, which may result in non-operating foreign currency exchange gains or losses upon remeasurement. In 2019, we reported foreign currency exchange losses, exclusive of hedging gains, of approximately $73 million, which were primarily attributed to the remeasurement of net monetary assets and liabilities denominated in currencies other than the functional currencies of our subsidiaries. As of December 31, 2019, we had $2,414 million in cash, cash equivalents and short-term investments denominated in Indian rupees. Based upon a sensitivity analysis, a 10.0% change in the Indian rupee exchange rate against the U.S. dollar, with all other variables held constant, would have resulted in a change in the U.S. dollar reported value of these balances and a corresponding non-operating foreign currency exchange gain or loss of approximately $244 million.
+
+We use foreign exchange forward contracts to provide an economic hedge against balance sheet exposure to certain monetary assets and liabilities denominated in currencies other than the functional currency of the subsidiary. We entered into a series of foreign exchange forward contracts scheduled to mature in 2020. At December 31, 2019, the notional value of these outstanding contracts was $702 million and the net unrealized gain was $2 million. Based upon a sensitivity analysis of our foreign exchange forward contracts at December 31, 2019, which estimates the fair value of the contracts based upon market exchange rate fluctuations, a 10.0% change in the foreign currency exchange rate against the U.S. dollar with all other variables held constant would have resulted in a change in the fair value of approximately $18 million.
+
+37
+
+Table of Contents 
+
+Interest Rate Risk
+
+We have a Credit Agreement providing for a $750 million unsecured Term Loan and a $1,750 million unsecured revolving credit facility, which are due to mature in November 2023. We are required under the Credit Agreement to make scheduled quarterly principal payments on the Term Loan. 
+
+The Credit Agreement requires interest to be paid, at our option, at either the ABR or the Eurocurrency Rate (each as defined in the Credit Agreement), plus, in each case, an Applicable Margin (as defined in the Credit Agreement). Initially, the Applicable Margin is 0.875% with respect to Eurocurrency Rate loans and 0.00% with respect to ABR loans. Subsequently, the Applicable Margin with respect to Eurocurrency Rate loans may range from 0.75% to 1.125%, depending on our public debt ratings (or, if we have not received public debt ratings, from 0.875% to 1.125%, depending on our Leverage Ratio, which is the ratio of indebtedness for borrowed money to Consolidated EBITDA, as defined in the Credit Agreement). Under the Credit Agreement, we are required to pay commitment fees on the unused portion of the revolving credit facility, which vary based on our public debt ratings (or, if we have not received public debt ratings, on the Leverage Ratio). Thus, our debt exposes us to market risk from changes in interest rates. We performed a sensitivity analysis to determine the effect of interest rate fluctuations on our interest expense. A 10.0% change in interest rates, with all other variables held constant, would have an immaterial effect on our reported interest expense. 
+
+In addition, our held-to-maturity investment securities are subject to market risk from changes in interest rates. As of December 31, 2019, the fair market value of our held-to-maturity portfolio was $287 million. As of December 31, 2019, a 10% change in interest rates, with all other variables held constant, would have an immaterial effect on the fair market value of our held-to-maturity investment securities. We typically invest in highly rated securities and our policy generally limits the amount of credit exposure to any one issuer. Our investment policy requires investments to be investment grade with the objective of minimizing the potential risk of principal loss. 
+
+Information provided by the sensitivity analysis of foreign currency risk and interest rate risk does not necessarily represent the actual changes that would occur under normal market conditions.
+
+Item 8. Financial Statements and Supplementary Data

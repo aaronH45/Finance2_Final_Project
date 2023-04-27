@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000885639",
+    "sec_company_name": "KOHLS Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210217",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217083039",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/885639/000156459021006206/0001564590-21-006206-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/885639/000156459021006206/0001564590-21-006206.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\KSS_0000885639_EX991_20210217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16215 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5592,
+    "endpoints": [
+        "kss-ex991_7.htm     ",
+        "2"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "KSS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\KSS_0000885639_EX991_20210217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:03:38.666158"
+}

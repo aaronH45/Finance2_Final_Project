@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001365135",
+    "sec_company_name": "Western Union CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190207",
+    "sec_filing_date": "20190207",
+    "sec_changed_date": "20190207",
+    "sec_accepted_date": "20190207161144",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1365135/000155837019000460/0001558370-19-000460-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1365135/000155837019000460/0001558370-19-000460.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\WU_0001365135_EX991_20190207_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3220527 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 40361,
+    "endpoints": [
+        "wu_Ex99_1   ",
+        "   (jj)    On January 1, 2018, the Company adopted an accounting pronouncement that requires the non-service costs of a defined benefit pension plan to be presented outside a subtotal of income from operations, with adoption retrospective for periods previously presented. The adoption of this standard resulted in increases to operating income in the amount of $0.6 million for each quarter of 2017, $2.4 million for the year ended December 31, 2017, $0.8 million for each of the first, second, and fourth quarters of 2016, $0.9 million for the third quarter of 2016, and $3.3 million for the year ended December 31, 2016."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\WU_0001365135_EX991_20190207_EX-99_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:41:03.306970"
+}

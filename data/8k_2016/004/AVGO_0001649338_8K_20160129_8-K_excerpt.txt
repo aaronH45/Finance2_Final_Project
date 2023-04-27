@@ -1,0 +1,181 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): January 29, 2016  
+
+Broadcom Limited  
+
+(Exact name of registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+1 Yishun Avenue 7 
+
+Singapore 768923   N/A 
+
+ (Address of principal executive offices)   (Zip Code)  
+
+Registrant’s telephone number, including area code: (65) 6755-7888  
+
+(N/A)  
+
+(Former name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Introductory Note  
+
+On February 1, 2016, pursuant to the Agreement and Plan of Merger (as amended, the “Merger Agreement”) by and among Avago Technologies Limited, a limited company organized under the laws of the Republic of Singapore (“Avago”), Broadcom Corporation, a California corporation (“Broadcom”), Broadcom Limited, a limited company organized under the laws of the Republic of Singapore (f/k/a Pavonia Limited) (“Holdco”), Broadcom Cayman L.P., an exempted limited partnership organized under the laws of the Cayman Islands and a subsidiary of Holdco (f/k/a Safari Cayman L.P.) (the “Partnership”), Avago Technologies Cayman Holdings Ltd., a company organized under the laws of the Cayman Islands and a direct wholly-owned subsidiary of the Partnership (“Intermediate Holdco”), Avago Technologies Cayman Finance Limited, a company organized under the laws of the Cayman Islands and a direct wholly-owned subsidiary of Intermediate Holdco (“Finance Holdco”), Buffalo CS Merger Sub, Inc., a California corporation and wholly-owned subsidiary of Finance Holdco (“Cash/Stock Merger Sub”), and Buffalo UT Merger Sub, Inc., a California corporation and wholly-owned subsidiary of Finance Holdco (“Unit Merger Sub”), (i) Holdco acquired Avago pursuant to a Scheme of Arrangement (the “Avago Scheme”) under Singapore law in accordance with Section 210 of the Companies Act (Chapter 50) of Singapore, (ii) thereafter, Cash/Stock Merger Sub merged with and into Broadcom, with Broadcom as the surviving corporation (the “Cash/Stock Merger”) and (iii) following the consummation of the Cash/Stock Merger, Unit Merger Sub merged with and into Broadcom, with Broadcom as the surviving corporation (the “Unit Merger” and together with the Cash/Stock Merger, the “Broadcom Merger” and together with the Avago Scheme, the “Transactions”). Following the consummation of the Transactions, each of Avago and Broadcom became indirect subsidiaries of Holdco.  
+
+This Current Report on Form 8-K should be read in conjunction with the other Current Report on Form 8-K filed by Holdco on February 1, 2016.  
+
+ Item 1.01 Entry into a Material Definitive Agreement.  
+
+On February 1, 2016, three subsidiaries of Holdco, specifically Intermediate Holdco, Finance Holdco and BC Luxembourg S.à r.l., a Luxembourg private limited liability company (société à responsabilité limitée), having its registered office at 17 Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg, registered with the Luxembourg Register of Commerce and Companies under registration number B 201613 (“BC Luxco” and, together with Finance Holdco, the “Borrowers”) entered into that certain Credit Agreement (the “Credit Agreement”), by and among Intermediate Holdco, Finance Holdco, BC Luxco, the lenders named therein and Bank of America, N.A., as administrative agent and collateral agent. The Credit Agreement provides for a Term A loan facility in the aggregate principal amount of U.S.$4,400,000,000, a Term B-1 dollar loan facility in the aggregate principal amount of U.S.$9,750,000,000, a Term B-1 euro loan facility in the aggregate principal amount of €900,000,000, a Term B-2 loan facility in the aggregate principal amount of U.S.$500,000,000 and a revolving credit facility that permits the Borrowers to borrow loans from time to time in an aggregate principal amount of up to U.S.$500,000,000, for general corporate purposes, for swingline loans of up to U.S.$150,000,000 in the aggregate and for the issuance of letters of credit of up to U.S.$100,000,000 in the aggregate, which, in the case of swingline loans and letters of credit, reduce the available borrowing capacity under the revolving credit facility on a dollar for dollar basis. The Borrowers’ obligations under the Credit Agreement are guaranteed by Intermediate Holdco and certain of its subsidiaries (such subsidiaries, the “Subsidiary Guarantors”) and are secured, subject to certain exceptions, by all the assets of Intermediate Holdco, each Borrower, and each Subsidiary Guarantor. The Term A loan facility has a term of five years, the Term B-1 loan facilities have a term of seven years, the Term B-2 loan facility has a term of one year and the revolving credit facility has a term of five years.  
+
+Loans under the Credit Agreement will bear interest at a floating rate which can be, at the Borrowers’ option, either (i) an alternate base rate plus an applicable margin or (ii) the Adjusted LIBOR Rate (as defined in the Credit Agreement) for a specified interest period plus an applicable margin, in either case, subject to a LIBOR floor of 0.75% or a base rate floor of 1.75% for the Term B facilities. The applicable margins with respect to the Term B-2 facility will be 1.75% for eurocurrency loans and 0.75% for base rate loans. The applicable margins with respect to the Term B-1 facilities will initially be 3.50% for eurocurrency loans and 2.50% for base rate loans, subject to one 0.25% step-down adjustment based on a total leverage ratio of less than or equal to 1.75:1.00. The applicable margins with respect to the Term A facility and the revolving credit facility will vary based on the applicable public ratings assigned to the senior secured, long-term indebtedness for borrowed money of AT Finance by Moody’s Investors Service, Inc., Standard & Poor’s Financial Services LLC and any successor to each such rating agency business  
+
+The Credit Agreement includes (i) financial covenants requiring Intermediate Holdco to, at any time the Term A loan facility remains outstanding or at any time the revolving credit facility (other than undrawn letters of credit, whether or not cash collateralized, and any guarantees and performance or similar bonds issued under the revolving credit facility) is drawn by more than 35%, maintain a maximum first lien leverage ratio; (ii) customary restrictive covenants (subject, in each case, to certain exceptions and amounts) that limit Intermediate Holdco and its subsidiaries’ ability to, among other things, incur indebtedness, create liens, merge or consolidate with and into other persons, make acquisitions and sell assets; (iii) customary events of default, upon the occurrence of which, after  
+
+ any applicable grace period, the lenders will have the ability to accelerate all outstanding loans thereunder and terminate the commitments; and (iv) customary representations and warranties. In addition, subject to certain conditions (including the receipt of sufficient commitments for such increase from the lenders), Intermediate Holdco has the ability, at any time after the initial borrowing date under the Credit Agreement, to increase the aggregate term loans and/or revolving credit commitments under the Credit Agreement by an aggregate amount equal to (i) a dollar amount equal to the greater of (x) U.S.$6,000,000,000 and (y) Consolidated EBITDA (as defined in the Credit Agreement) for the last four fiscal quarters ended prior to such date for which financial statements have been provided under the Credit Agreement at such date, plus (ii) an unlimited amount so long as on a pro forma basis the first lien leverage ratio (as set forth in the Credit Agreement) does not exceed to 3.00 to 1.00, plus (iii) an amount equal to all voluntary prepayments of term loans borrowed under the Credit Agreement (other than any such prepayments with the proceeds of long-term indebtedness) and revolving loans under the Credit Agreement (other than any such prepayments with the proceeds of long-term indebtedness) to the extent accompanied by a corresponding, permanent reduction in the commitments therefor. The Borrowers have agreed to pay the lenders a commitment fee at a rate per annum that varies based on the applicable public ratings assigned to the senior secured, long-term indebtedness for borrowed money of Finance Holdco by Moody’s Investors Service, Inc., Standard & Poor’s Financial Services LLC and any successor to each such rating agency business.  
+
+The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by reference to the Credit Agreement, a copy of which is attached hereto as Exhibit 10.1 and incorporated herein by reference.  
+
+ Item 1.02 Termination of a Material Definitive Agreement.  
+
+In connection with the consummation of the Transactions and simultaneous with entering into the Credit Agreement, that certain Credit Agreement, dated as of May 6, 2014, by and among Avago Technologies Finance Pte. Ltd., Avago Technologies Cayman Ltd., Avago Technologies Holdings Luxembourg S.à.r.l., the lenders named therein and Deutsche Bank AG New York Branch, as administrative agent, (the “2014 Credit Agreement”), was terminated. There were no outstanding loan borrowings under the 2014 Credit Agreement at the time of its termination.  
+
+ Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this item 2.03.  
+
+ Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.  
+
+Departure of Directors  
+
+In connection with the Transactions, on February 1, 2016, Patricia H. McCall and Pe-Wynn Kin resigned as members of Holdco’s board of directors (the “Board”).  
+
+Appointment of Directors  
+
+In connection with the Transactions, on February 1, 2016, the following individuals were appointed as members of Holdco’s board of directors: Bruno Guilmart, Kenneth Y. Hao, Justine F. Lien, Donald Macleod, Peter J. Marks, Hock E. Tan, Henry Samueli, Ph.D. and Eddy W. Hartenstein, in addition to James V. Diller and Lewis C. Eggebrecht, who were elected to the Board on October 19, 2015. Mr. Diller has been designated as Chairman of Holdco’s board of directors.  
+
+Pursuant to the terms of the Merger Agreement, the directors of Avago immediately before the time the Avago Scheme became effective were appointed to the Board immediately after such effective time (other than Messrs. Diller and Eggebrecht who were elected to the Board on October 19, 2015), and two directors of Broadcom, designated by Avago prior to such effective time to be Dr. Henry Samueli, Broadcom’s co-founder, chairman of the board of directors and Chief Technical Officer, and Eddy W. Hartenstein, were also appointed to the Board immediately following the effective time of the Broadcom Merger. There are no arrangements or understandings between any director and any other person pursuant to which the director was selected as a director, other than the provisions of the Merger Agreement.  
+
+Effective February 1, 2016, the committees of Holdco’s board of directors were constituted as listed below.  
+
+  [DATA_TABLE_REMOVED] 
+
+James V. Diller was the chairman of the board of directors of Avago from March 2010 until the consummation of the Transactions. Mr. Diller was a founder of PMC-Sierra, Inc., serving as PMC’s Chief Executive Officer from 1983 to July 1997 and President from 1983 to July 1993. Mr. Diller also served as a director of PMC from its formation in 1983 until December 2013. Mr. Diller was Chairman of PMC’s board of directors from July 1993 until February 2000, and was its Vice Chairman from February 2000 until December 2013. Mr. Diller serves as a director of Intersil Corporation and served as Intersil’s interim President and Chief Executive Officer from December 2012 to March 2013.  
+
+Lewis C. Eggebrecht served on the board of directors of Avago from April 2014 until the consummation of the Transactions. Mr. Eggebrecht was Vice President and Chief Scientist of Integrated Circuit Systems, Inc. (“ICS”) from 1998 through May 2003. Mr. Eggebrecht has held various other technical and executive management positions for more than 30 years, including as Chief Multimedia Architect at Phillips Semiconductor Manufacturing Inc., as Graphics Architect at S3 Graphics Limited, and Vice President of Research and Development at Commodore International Limited, and as a small systems architect for 15 years at International Business Machines Corporation (“IBM”). While at IBM, Mr. Eggebrecht was the Chief Architect and Design Team Leader on the original IBM PC. He has also previously served on the board of directors of a number of public and private companies, including, most recently, as a director of Integrated Device Technology Inc., where he served as a director from 2005 to 2012, and as a director of ICS from 2003 to 2005. Mr. Eggebrecht holds six patents on the IBM PC and has authored two books on PC architecture, over 20 IBM Technical Disclosure Bulletins and trade press articles. Mr. Eggebrecht also serves on the board of directors of a number of private companies.  
+
+Bruno Guilmart served on the board of directors of Avago from June 2013 until the consummation of the Transactions. Mr. Guilmart served as President, Chief Executive Officer and a director of Kulicke & Soffa Industries, Inc. (“K&S”), from September 2010 until his retirement in October 2015. Mr. Guilmart has also been a member of the board of the Singapore Economic Development Board since February 2014. Prior to joining K&S, Mr. Guilmart was President and Chief Executive Officer of Lattice Semiconductor from 2008 until 2010. From 2003 until 2007, he was President and Chief Executive Officer of Advanced Interconnect Technologies (“AIT”), a TPG-Newbridge company. Mr. Guilmart subsequently became Chief Executive Officer of Unisem Group BhD (“Unisem”) after AIT was acquired by Unisem in 2007, where he served until July 2008. Prior to Unisem/AIT, Mr. Guilmart was senior vice president of worldwide sales and marketing at Chartered Semiconductor Manufacturing. He also held senior management and engineering positions with Cadence Design Systems, Temic Semiconductors and Hewlett-Packard Company.  
+
+Kenneth Y. Hao served on the board of directors of Avago from September 2005 until the consummation of the Transactions. Mr. Hao is a Managing Partner and Managing Director of Silver Lake Partners (“Silver Lake”). Prior to joining Silver Lake in 2000, Mr. Hao was an investment banker with Hambrecht & Quist for 10 years, most recently serving as a Managing Director in the Technology Investment Banking group. Mr. Hao has spent his career investing in and advising technology companies. Mr. Hao also serves on the board of directors of a number of private companies.  
+
+Eddy W. Hartenstein served on the board of directors of Broadcom from June 2008 until the consummation of the Transactions. Mr. Hartenstein was the publisher and Chief Executive Officer of the Los Angeles Times from August 2008 to August 2014. In addition, he served as co-President of the Tribune Company from October 2010 to May 2011 and as President and Chief Executive Officer from May 2011 to January 2013, during which time he oversaw the restructuring of the company through its Chapter 11 bankruptcy protection in December 2008 and subsequent emergence from bankruptcy in December 2012. Previously, Mr. Hartenstein was Vice Chairman and a member of the board of directors of The DIRECTV Group Inc. (formerly Hughes Electronics Corp.), from December 2003 until his retirement in December 2004. He served as Chairman and Chief Executive Officer of DIRECTV Inc. from late 2001 through 2004 and as President from its inception in 1990 to 2001. Prior to those roles, he served in various capacities for Hughes Communications Inc., Equatorial Communications Services Co., and NASA’s Jet Propulsion  
+
+ Laboratory. Mr. Hartenstein is a member of the National Academy of Engineering, was inducted into the Broadcasting and Cable Hall of Fame in 2002, received an Emmy® Award for lifetime achievement from the National Academy of Television Arts and Sciences in 2007 and was inducted into the Consumer Electronics Hall of Fame in 2008. He currently serves on the board of SanDisk Corp., where he also serves on the nominating and governance committee and as chairman of the compensation committee; as Chairman and lead independent director of the board of SIRIUS XM Radio Inc., where he also serves as chairman of the compensation committee; as non-executive chairman of the board of Tribune Publishing Company; and as a director on the board of Rovi Corporation, where he also serves on the strategic committee.  
+
+Justine F. Lien served on the board of directors of Avago from June 2008 until the consummation of the Transactions. Ms. Lien served as the Chief Financial Officer, Vice President of Finance, Treasurer, and Secretary of Integrated Circuit Systems, Inc., from May 1999 to September 2005 when ICS merged with Integrated Device Technologies, Inc. (“IDT”), following which Ms. Lien retired. She joined ICS in 1993, holding titles including Director of Finance and Administration and Assistant Treasurer. Ms. Lien serves as a director and chairperson of the Audit Committee of SunEdison Semiconductor Limited, and served as a director of Techwell, Inc. from January 2006 until July 2010, where she also served as the chairperson of the audit committee. Ms. Lien holds a B.A. degree in accounting from Immaculata College and an M.T. degree in taxation from Villanova University.  
+
+Donald Macleod served on the board of directors of Avago from November 2007 until the consummation of the Transactions. Mr. Macleod joined National Semiconductor Corporation in February 1978 and served as its President and Chief Executive Officer from November 2009 to September 2011, when National Semiconductor Corporation was acquired by Texas Instruments Incorporated. He served as National Semiconductor Corporation’s President and Chief Operating Officer from the beginning of 2005 until November 2009, and before that he held various other executive and senior management positions at the company including Executive Vice President and Chief Operating Officer and Executive Vice President, Finance and Chief Financial Officer. Mr. Macleod served as the Chairman of the board of directors of National Semiconductor Corporation from May 2010 to September 2011. Mr. Macleod serves as the Chairman of the board of directors of Intersil Corporation and also serves as a director of Knowles Corporation. Mr. Macleod also serves on the board of directors of a number of private companies and business organizations.  
+
+Peter J. Marks served on the board of directors of Avago from December 2013 until the consummation of the Transactions. Mr. Marks is the Chief Executive Officer of Executive Consultant, which he founded in 2013, where he advises business leaders on leadership. Prior to this, Mr. Marks served in various senior management roles with Robert Bosch GmbH, which he originally joined in 1977 and where he remained until December 2011. Most recently, from 2006 until his departure in December 2011, Mr. Marks served as Chairman, President and Chief Executive Officer of Robert Bosch LLC, where he managed all of its business sectors in the Americas, and as a member of Board of Management of Robert Bosch GmbH, with responsibility for worldwide coordination for manufacturing and capital investment. Prior to that he also served as a senior executive of Robert Bosch GmbH responsible for various divisions; automotive electronics, semiconductors, body electronics/electric drivers and energy systems.  
+
+Henry Samueli, Ph.D. served as chairman of the board of directors of Broadcom from May 2011 until the consummation of the Transactions. Dr. Samueli was a co-founder of Broadcom and served as its Chief Technical Officer from its inception in 1991 to May 2008 and from December 2009 through January 2016. Dr. Samueli also served as Broadcom’s Vice President of Research and Development from 1991 to May 2003 and as a technology advisor from May 2008 to December 2009. Dr. Samueli has also been a Distinguished Adjunct Professor in the Electrical Engineering and Computer Science Department at the University of California, Irvine since 1985 (on leave of absence since 1995). He has also been a Distinguished Adjunct Professor in the Electrical Engineering and Computer Science Department of the University of California, Irvine since 2003. Prior to Broadcom, he was the Chief Scientist and one of the founders of PairGain Technologies. From 1980 until 1985, he was employed in various engineering management positions in the Electronics and Technology Division of TRW, Inc. Dr. Samueli is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a Fellow of the American Academy of Arts and Sciences, and a Member of the National Academy of Engineering. Dr. Samueli served as Chairman or Co-Chairman of the board of directors of Broadcom from 1991 to May 2008 and from May 2011 to January 2016. He received a B.S., M.S. and Ph.D. in Electrical Engineering from the University of California, Los Angeles. He is a named inventor in 74 U.S. patents.  
+
+Hock E. Tan was President, Chief Executive Officer and a director of Avago from March 2006 until the consummation of the Transactions. From September 2005 to January 2008, he served as Chairman of the board of directors of IDT. Prior to becoming chairman of IDT, Mr. Tan was the President and Chief Executive Officer of ICS from June 1999 to September 2005. Prior to ICS, Mr. Tan was Vice President of Finance with Commodore International, Ltd. from 1992 to 1994, and previously held senior management positions with PepsiCo, Inc. and General Motors Corporation. Mr. Tan served as managing director of Pacven Investment, Ltd., a venture capital fund in Singapore from 1988 to 1992, and served as managing director for Hume Industries Ltd. in Malaysia from 1983 to 1988.  
+
+On February 1, 2016, Mr. Guilmart advised Holdco that he does not intend to seek re-election to the board of directors of Holdco at Holdco’s 2016 Annual General Meeting of Shareholders.  
+
+Appointment of Executive Officers  
+
+In connection with the Transactions, on February 1, 2016, the following individuals were appointed as the executive officers of Holdco:  
+
+  [DATA_TABLE_REMOVED] 
+
+Hock E. Tan was appointed President and Chief Executive Officer, in addition to his appointment to the Board.  
+
+Anthony E. Maslowski was appointed Senior Vice President and is currently serving as Chief Financial Officer. Mr. Maslowski served as Chief Financial Officer of Avago from September 2013 until the consummation of the Transactions and had served as its interim Chief Financial Officer since March 2013. Prior to that Mr. Maslowski served as Vice President and Controller of Avago since 2008, having joined the Company in 2006 as Vice President of Internal Audit. Prior to joining Avago, Mr. Maslowski served as the Chief Financial Officer for Allegro Manufacturing Pte Ltd from 2002 to 2006 and prior to that, he held senior finance management positions at Lam Research Corporation and Hitachi Data Systems Corporation.  
+
+Henry Samueli, Ph.D. was appointed Chief Technical Officer, in addition to his appointment to the Board. Mr. Samueli will remain Chief Technical Officer of Broadcom.  
+
+Bryan T. Ingram was appointed Senior Vice President and General Manager, Wireless Semiconductor Division. Mr. Ingram served as Senior Vice President and General Manager, Wireless Semiconductor Division for Avago from November 2, 2015 until the consummation of the Transactions. Prior to that, Mr. Ingram served as Avago’s Senior Vice President and Chief Operating Officer since April 2013. Mr. Ingram previously served as Avago’s Senior Vice President and General Manager, Wireless Semiconductor Division since November 2007 and as Vice President of that division since December 2005. Prior to the closing of Avago’s acquisition of the Semiconductor Products Group (“SPG”) of Agilent Technologies, Inc., Mr. Ingram was the Vice President and General Manager, Wireless Semiconductor Division of SPG. He has held various other positions with Hewlett-Packard Company and Agilent Technologies, Inc. Mr. Ingram joined Hewlett-Packard Company in 1990.  
+
+Charlie B. Kawwas was appointed Senior Vice President and Chief Sales Officer. Dr. Kawwas was Senior Vice President and Chief Sales Officer for Avago since June 2015 until the consummation of the Transactions and served as Senior Vice President, Worldwide Sales for Avago’s subsidiary, LSI Corporation (“LSI”), since May 2014. Prior to Avago’s acquisition of LSI, Dr. Kawwas served as Senior Vice President of Sales for LSI since 2010, having joined LSI in 2007 as Vice President of Marketing through its acquisition of Agere Systems. Prior to joining Agere Systems in 2005, he served as the leader of product line management for optical Ethernet and multiservice edge portfolio at Nortel Networks.  
+
+Patricia H. McCall was appointed Vice President and General Counsel. Ms. McCall was Vice President and General Counsel of Avago from March 2007 until the consummation of the Transactions. She served as Director of Litigation at Adobe Systems from 2006 to 2007. Prior to this, Ms. McCall served as Senior Vice President, General Counsel and Secretary of ChipPAC Inc. from January 2003 to August 2004, when ChipPAC Inc. merged with ST Assembly Test Services Ltd. in August 2004. Ms. McCall served as the Senior Vice President Administration, General Counsel and Secretary of ChipPAC Inc. from November 2000 to January 2003. From November 1995 to November 2000, Ms. McCall was at National Semiconductor Corporation, most recently as Associate General Counsel, and prior to that was a partner at the law firm of Pillsbury, Madison & Sutro. Ms. McCall is also a Barrister in England.  
+
+Avago Technologies Limited 2009 Equity Award Plan  
+
+On February 1, 2016, Holdco assumed the Avago Technologies Limited 2009 Equity Incentive Award Plan, including any addendums thereto (the “Avago 2009 Plan”), effective immediately upon the consummation of the Transactions. A description of the material terms of the Avago 2009 Plan is included in Avago’s Registration Statement on Form S-1, filed with the SEC on August 3, 2009, which description is incorporated herein by reference.  
+
+Upon the consummation of the Transactions, Holdco assumed the Broadcom Equity Plans, including any addendums under the Broadcom 2012 Plan (as amended by the Broadcom Plan Amendments (as defined below)) and assumed each outstanding and unvested Broadcom stock option and restricted stock unit (with appropriate adjustments to the number of shares subject to, and the exercise price of, such awards). The assumed awards will continue to have substantially the same terms and conditions that applied to the underlying Broadcom awards prior to the consummation of the Transactions.  
+
+Amended Broadcom Corporation Equity Award Plans  
+
+On February 1, 2016, Holdco’s board of directors approved amendments (the “Broadcom Plan Amendments”) to the Broadcom Corporation 2012 Stock Incentive Plan (the “Broadcom 2012 Plan”), the Broadcom Corporation 1998 Stock Incentive Plan (the “Broadcom 1998 Plan”) and together with the Broadcom 2012 Plan, the “Broadcom Equity Plans”), which became effective immediately upon consummation of the Transactions. The Broadcom Plan Amendments amend the Broadcom Equity Plans to provide that the securities issuable in connection with awards thereunder cover Holdco Ordinary Shares (rather than common stock of Broadcom Corporation). In addition, the Broadcom Plan Amendments amend the Broadcom 2012 Plan to adjust the share reserve thereunder to reflect the consummation of the Transactions, and to remove the provisions relating to automatic grants of awards thereunder to non-employee directors.  
+
+Upon the consummation of the Transactions, Holdco assumed the Broadcom Equity Plans (as amended by the Broadcom Plan Amendments) and assumed each outstanding and unvested Broadcom stock option and restricted stock unit (with appropriate adjustments to the number of shares subject to, and the exercise price of, such awards) and to provide that the securities issuable in connection with the awards thereunder are Holdco Ordinary Shares. The assumed awards will continue to have substantially the same terms and conditions that applied to the underlying Broadcom awards prior to the consummation of the Transactions.  
+
+Amended Avago Equity Award Plans  
+
+On February 1, 2016, Holdco’s board of directors approved amendments (the “Avago Amendments”) to the LSI Corporation 2003 Equity Incentive Plan (the “LSI Equity Plan”), the Amended and Restated Equity Incentive Plan for Executive Employees of Avago Technologies Limited and Subsidiaries (the “Avago Executive Plan”), and the Amended and Restated Equity Incentive Plan for Senior Management Employees of Avago Technologies Limited and Subsidiaries (the “Avago Management Plan” and together with the LSI Equity Plan, and the Avago Executive Plan, the “Avago Equity Plans”), which became effective immediately upon consummation of the Transactions. The Avago Amendments amend the Avago Equity Plans to provide that the securities issuable in connection with awards thereunder cover Holdco Ordinary Shares (rather than Avago Ordinary Shares).  
+
+Upon the consummation of the Transactions, Holdco assumed the Avago Equity Plans (as amended by the Avago Amendments) and assumed each outstanding Avago share option and restricted share unit. The assumed awards will continue to have substantially the same terms and conditions that applied to the underlying Avago awards prior to the consummation of the Transactions.  
+
+Amended and Restated Employee Share Purchase Plan  
+
+On February 1, 2016, Holdco assumed the Amended and Restated Avago Technologies Limited Employee Share Purchase Plan (the “ESPP”), effective immediately upon the consummation of the Transactions, and provided that the securities issuable in connection with purchase rights thereunder cover Holdco Ordinary Shares (rather than Avago Ordinary Shares). On February 1, 2016, Holdco’s board of directors also approved the Second Amended and Restated Broadcom Limited Employee Share Purchase Plan (the “Second Amended and Restated ESPP”), which will become effective on March 15, 2016. In addition, the Second Amended and Restated ESPP has two components in order to give Holdco increased flexibility in the granting of purchase rights under the Second Amended and Restated ESPP to U.S. and to non-U.S. employees. Specifically, the Second Amended and Restated ESPP authorizes the grant of purchase rights that are intended to qualify for favorable U.S. federal tax treatment (the “Section 423 Component”) under Section 423 of the U.S. Internal Revenue Code of 1986, as amended (the “Code”). To facilitate participation for employees located outside of the United States in light of non-U.S. law and other considerations, the Second Amended and Restated ESPP also provides for the grant of purchase rights that are not intended to be tax-qualified under Code Section 423 (the “Non-Section 423 Component”). The plan administrator will designate offerings made under the Non-Section 423 Component and the Section 423 Component and the Non-Section 423 Component generally will be operated and administered in the same manner. A description of the material terms of the ESPP (prior to the foregoing assumption and amendment and restatement) is included in Avago’s Registration Statement on Form S-1, filed with the SEC on August 3, 2009, which description is incorporated herein by reference.  
+
+The preceding description of the Second Amended and Restated ESPP does not purport to be complete and is qualified in its entirety by reference to the complete text of the Second Amended and Restated ESPP, which is filed as Exhibit 10.2 hereto and incorporated herein by reference.  
+
+Avago Severance Benefits Agreements  
+
+On February 1, 2016, Holdco’s board of directors assumed the following agreements: (i) the Severance Benefit Agreement by and between Avago and Hock E. Tan, dated January 23, 2014; (ii) the Severance Benefit Agreement by and between Avago and Anthony E. Maslowski, dated January 24, 2014; (iii) the Severance Benefit Agreement by and between Avago and Charlie Kawwas, dated June 3, 2015; (iv) the Severance Benefit Agreement by and between Avago and Bryan T. Ingram, dated January 30, 2014; (v) the Severance Benefit Agreement by and between Avago and Patricia H. McCall, dated January 24, 2014; and (vi) the Offer of Continuing Employment by and between Avago and Mr. Ingram, dated October 16, 2015 (collectively, the “Executive Severance Agreements”).  
+
+In connection with the consummation of the Transactions, the Executive Severance Agreements will be deemed amended to the extent necessary so that all references to compensatory equity or equity-linked awards covering Avago ordinary shares shall mean and refer to compensatory equity or equity-linked awards covering shares of Holdco. The Executive Severance Agreements are attached as Exhibits 10.3, 10.4, 10.5, 10.6, 10.7 and 10.8 hereto and incorporated herein by reference.  
+
+ Item 5.07 Submission of Matters to a Vote of Security Holders.  
+
+On January 31, 2016, Patricia McCall, as the sole shareholder of Holdco, approved certain matters necessary for the consummation of the Transactions.  
+
+ Item 9.01 Financial Statements and Exhibits.  
+
+(d) Exhibits.  
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.  
+
+Date: February 2, 2016  
+
+ [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  [DATA_TABLE_REMOVED]

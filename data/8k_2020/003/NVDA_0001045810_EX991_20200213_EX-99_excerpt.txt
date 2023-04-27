@@ -1,0 +1,139 @@
+Exhibit  
+
+FOR IMMEDIATE RELEASE:
+
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2020 
+
+SANTA CLARA, Calif.-Feb. 13, 2020- NVIDIA (NASDAQ: NVDA) today reported revenue for the fourth quarter ended Jan. 26, 2020, of $3.11 billion, up 41 percent from $2.21 billion a year earlier, and up 3 percent from $3.01 billion in the previous quarter.
+
+GAAP earnings per diluted share for the quarter were $1.53, up 66 percent from $0.92 a year ago, and up 6 percent from $1.45 in the previous quarter. Non-GAAP earnings per diluted share were $1.89, up 136 percent from $0.80 a year earlier, and up 6 percent from $1.78 in the previous quarter.
+
+For fiscal 2020, revenue was $10.92 billion, down 7 percent from $11.72 billion a year earlier. GAAP earnings per diluted share were $4.52, down 32 percent from $6.63 a year earlier. Non-GAAP earnings per diluted share were $5.79, down 13 percent from $6.64 a year earlier.
+
+“Adoption of NVIDIA accelerated computing drove excellent results, with record data center revenue,” said Jensen Huang, founder and CEO of NVIDIA. “Our initiatives are achieving great success.
+
+“NVIDIA RTX ray tracing is reinventing computer graphics, driving powerful adoption across gaming, VR and design markets, while opening new opportunities in rendering and cloud gaming. NVIDIA AI is enabling breakthroughs in language understanding, conversational AI and recommendation engines - the core algorithms that power the internet today. And new NVIDIA computing applications in 5G, genomics, robotics and autonomous vehicles enable us to continue important work that has great impact. 
+
+“We are well positioned for the greatest technology trends of our time,” he said. 
+
+NVIDIA will pay its next quarterly cash dividend of $0.16 per share on March 20, 2020, to all shareholders of record on Feb. 28, 2020. 
+
+Q4 Fiscal 2020 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2020 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+NVIDIA’s outlook for the first quarter of fiscal 2021 does not include any contribution from the pending acquisition of Mellanox Technologies, Ltd. Discussions with China’s regulatory agency, the State Administration for Market Regulation, are progressing, and NVIDIA believes the acquisition will likely close in the early part of calendar 2020.
+
+While the ultimate effect of the coronavirus is difficult to estimate, the company has reduced its revenue outlook for the first quarter of fiscal 2021 by $100 million to account for its potential impact.
+
+•Revenue is expected to be $3.00 billion, plus or minus 2 percent.
+
+•GAAP and non-GAAP gross margins are expected to be 65.0 percent and 65.4 percent, respectively, plus or minus 50 basis points.
+
+•GAAP and non-GAAP operating expenses are expected to be approximately $1.05 billion and $835 million, respectively. 
+
+•GAAP and non-GAAP other income and expense are both expected to be income of approximately $25 million.
+
+•GAAP and non-GAAP tax rates are both expected to be 9 percent, plus or minus 1 percent, excluding any discrete items. GAAP discrete items include excess tax benefits or deficiencies related to stock-based compensation, which are expected to generate variability on a quarter by quarter basis.
+
+Highlights 
+
+Since the end of the third quarter of fiscal 2020, NVIDIA has achieved progress in these areas:
+
+Gaming 
+
+•Grew momentum for ray tracing with the launch of such RTX-enabled games as Deliver Us The Moon, Wolfenstein: Youngblood and Bright Memory.
+
+•Brought its GeForce NOW™ cloud gaming service out of beta, opening up PC gaming to hundreds of millions of consumers who can now add a virtual GeForce® graphics card to their device and play games they own, as well as free-to-play games. 
+
+•Brought its number of gaming laptops to a record 125 models, including the world’s first 14-inch GeForce RTX™ laptop, the ASUS ROG Zephyrus G14.
+
+•Continued to build G-SYNC® momentum at CES, with the launch of the ASUS ROG Swift 360, the world’s fastest monitor, with a 360Hz refresh rate; and with LG adopting G-SYNC in its new lineup of OLED TVs. 
+
+Data Center and Edge Computing
+
+•Unveiled the first scalable GPU-accelerated supercomputer in the cloud with Microsoft Azure, with access to up to 800 NVIDIA® V100 Tensor Core GPUs.
+
+•Announced that it is powering the world’s most powerful industrial supercomputer, HPC5, which has 7,280 NVIDIA V100 GPUs and is operated by Italian energy company Eni.
+
+•Announced that Alibaba’s and Baidu’s recommendation engines run on NVIDIA AI, boosting inference by orders of magnitude beyond CPUs.
+
+•Joined forces with AWS, using NVIDIA T4 Tensor Core GPUs to power AWS Outposts, bringing Amazon EC2 G4 instances to customers’ data centers. 
+
+•Collaborated with Arm, Ampere Computing, Fujitsu and Marvell on a new reference design platform for GPU-accelerated Arm-based servers, and with Red Hat to bring GPU acceleration to Arm for HPC applications.
+
+•Introduced NVIDIA TensorRT™ 7, an inference software development kit, paving the way to smarter and faster conversational AI.
+
+•Unveiled NVIDIA Clara™ Federated Learning, a reference application that preserves patient privacy while improving global model accuracy, already in use by the American College of Radiology and UCLA Health.
+
+•Introduced Magnum IO, a software suite for data scientists and high performance computing researchers that is optimized to eliminate storage and input/output bottlenecks.
+
+•Released a new version of the NVIDIA Isaac™ software development kit, a unified robotic development platform to accelerate the development and testing of robots.
+
+Professional Visualization
+
+•Brought RTX technology to new desktops and laptops from Acer and joined forces with Adobe to provide a complimentary three-month Adobe Creative Cloud membership with new RTX Studio purchases.
+
+•Introduced RTX capabilities to Autodesk’s Maya 2020, Dassault’s Catia 2020 and Siemens Ray-Trace Studio with the release of a new NVIDIA Quadro® Driver and NVIDIA Studio Driver.
+
+•Expanded the reach of RTX technology into Chaos Group’s V-Ray, Autodesk’s Arnold and Blender’s Cycles, enabling designers to create complex 3D visuals, accurate reflections and more.
+
+Automotive
+
+•Announced DRIVE AGX Orin™, an advanced software-defined platform for autonomous vehicles capable of achieving 200 TOPS, nearly 7x that of the previous generation SoC.
+
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at http://investor.nvidia.com/.
+
+Conference Call and Webcast Information
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2020 financial results and current financial prospects today at 2:30 p.m. Pacific time (5:30 p.m. Eastern time). A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, http://investor.nvidia.com. The webcast will be recorded and available for replay until NVIDIA’s conference call to discuss its financial results for its first quarter of fiscal 2021.
+
+Non-GAAP Measures
+
+To supplement NVIDIA’s condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income, non-GAAP income tax expense, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, non-GAAP diluted shares, and free cash flow. In order for NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation expense, legal settlement costs, acquisition-related and other costs, gains and losses from non-affiliated investments, interest expense related to amortization of debt discount, and the associated tax impact of these items, where applicable. Free cash flow is calculated as GAAP net cash provided by operating activities less purchase of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and the company’s non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+About NVIDIA
+
+NVIDIA’s (NASDAQ: NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI - the next era of computing - with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at http://nvidianews.nvidia.com/.
+
+###
+
+For further information, contact:
+
+[DATA_TABLE_REMOVED]
+
+Certain statements in this press release including, but not limited to, statements as to: our initiatives achieving great success; the impacts of NVIDIA RTX ray tracing, NVIDIA AI and new NVIDIA computing applications in 5G, genomics, robotics, and autonomous vehicles; NVIDIA’s positioning for the greatest technology trends of our time; NVIDIA’s next quarterly cash dividend; the status of the China regulatory approval process and the expected timing of closing of the Mellanox acquisition; the ultimate effect of the coronavirus; NVIDIA’s financial outlook for the first quarter of fiscal 2021; NVIDIA’s expected tax rates for the first quarter of fiscal 2021; NVIDIA’s expectation to generate variability from excess tax benefits or deficiencies; and the benefits and impact of: GeForce NOW, Alibaba’s and Baidu’s recommendation engines running on NVIDIA AI, NVIDIA TensorRT7, NVIDIA Clara Federated Learning, Magnum IO, the new version of the NVIDIA Isaac software development kit, expanding the reach of RTX technology into Chaos Group’s V-Ray, Autodesk’s Arnold and Blender’s Cycles, and DRIVE AGX Orin are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+© 2020 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, Quadro, DRIVE AGX Orin, GeForce NOW, GeForce RTX, G-SYNC, NVIDIA Clara, NVIDIA Isaac, NVIDIA RTX, and TensorRT are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+
+NVIDIA CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

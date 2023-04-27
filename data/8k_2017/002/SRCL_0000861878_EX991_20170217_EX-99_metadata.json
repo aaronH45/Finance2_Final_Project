@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000861878",
+    "sec_company_name": "STERICYCLE INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170217",
+    "sec_filing_date": "20170217",
+    "sec_changed_date": "20170217",
+    "sec_accepted_date": "20170217164725",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/861878/000156459017001784/0001564590-17-001784-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/861878/000156459017001784/0001564590-17-001784.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\SRCL_0000861878_EX991_20170217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7032 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3280,
+    "endpoints": [
+        "srcl-ex991_6.htm     ",
+        "to our foreign operations, impairments of goodwill or other indefinite-lived intangibles, variability in the demand for services we provide on a project or non-recurring basis, exposure to environmental liabilities, fluctuations in the price we receive for the sale of paper, disruptions in or attacks on our information technology systems, compliance with existing and future legal and regulatory requirements, as well as other factors described in our filings with the U.S. Securities and Exchange Commission, including our most recently filed Annual Report on Form 10-K. As a result, past financial performance should not be considered a reliable indicator of future performance, and investors should not use historical trends to anticipate future results or trends. We make no commitment to disclose any subsequent revisions to forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SRCL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\SRCL_0000861878_EX991_20170217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:55.861242"
+}

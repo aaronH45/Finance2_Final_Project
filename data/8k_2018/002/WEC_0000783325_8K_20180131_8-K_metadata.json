@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000783325",
+    "sec_company_name": "WEC ENERGY GROUP, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180131",
+    "sec_filing_date": "20180131",
+    "sec_changed_date": "20180131",
+    "sec_accepted_date": "20180131072929",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781518000107/0000107815-18-000107-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781518000107/0000107815-18-000107.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\WEC_0000783325_8K_20180131_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "26901 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1247,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WEC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\WEC_0000783325_8K_20180131_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:23:54.659444"
+}

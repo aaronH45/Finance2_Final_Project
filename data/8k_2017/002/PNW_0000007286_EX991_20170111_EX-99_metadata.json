@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007286",
+    "sec_company_name": "ARIZONA PUBLIC SERVICE CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170111",
+    "sec_filing_date": "20170111",
+    "sec_changed_date": "20170111",
+    "sec_accepted_date": "20170111162936",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462217000002/0000764622-17-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462217000002/0000764622-17-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\PNW_0000007286_EX991_20170111_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "55602 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 33368,
+    "endpoints": [
+        "investormeetingsjanuary1  ",
+        "Powering Growth, Delivering Value34 INVESTOR RELATIONS CONTACTS Paul J. Mountain, CFA General Manager, Investor Relations & Audit Services (602) 250-4952 paul.mountain@pinnaclewest.com Ted Geisler Director, Investor Relations (602) 250-3200 ted.geisler@pinnaclewest.com Chalese Haraldsen (602) 250-5643 chalese.haraldsen@pinnaclewest.com Pinnacle West Capital Corporation P.O. Box 53999, Mail Station 9998 Phoenix, Arizona 85072-3999 Visit us online at: www.pinnaclewest.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\PNW_0000007286_EX991_20170111_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:25.181729"
+}

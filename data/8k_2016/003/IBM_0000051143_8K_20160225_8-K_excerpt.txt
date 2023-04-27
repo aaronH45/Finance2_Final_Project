@@ -1,0 +1,247 @@
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report: February 25, 2016 
+
+(Date of earliest event reported) 
+
+INTERNATIONAL BUSINESS MACHINES
+
+ CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+ [DATA_TABLE_REMOVED]  
+
+  ARMONK, NEW YORK       10504   
+
+  (Address of principal executive offices)       (Zip Code)     
+
+914-499-1900 
+
+(Registrant’s telephone number) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Item 7.01 (Regulation FD Disclosure) 
+
+Attachment I contains presentation materials for the morning session of IBM’s Investor Briefing on February 25, 2016. 
+
+These materials may contain forward-looking statements under the Private Securities Litigation Reform Act of 1995, which statements involve numerous factors that could cause actual results to differ materially. Additional information about those factors is contained in IBM’s filings with the SEC, available from the SEC, IBM’s web site or IBM’s Investor Relations. 
+
+IBM’s web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted. 
+
+2 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+3 
+
+ATTACHMENT I 
+
+Introduction Patricia Murphy Vice President, Investor Relations 
+
+2016 Segment Structure Cognitive Solutions & Industry Services Systems Hardware Operating Systems Global Technology Services Integration Software Technology Services & Cloud Platforms Cognitive Solutions Systems Global Financing 2016 Structure Solutions Software Transaction Processing Software Global Business Services Global Technology Services Key Branded Middleware Other Middleware Operating Systems Global Business Services Software Systems Hardware Global Financing 2015 Structure Solutions Software Transaction Processing Software Integration Software Operating Systems Software Software value shifting to new areas 
+
+Topic Lead Presenters 8:30 – 12:30 Strategic Overview Ginni Rometty Cognitive Solutions John E. Kelly III Global Business Services Bridget van Kralingen Technology Services and Cloud Platforms Robert LeBlanc, Martin Jetter Q&A 12:30 – 1:30 Networking Lunch 1:30 – 3:30 Systems Tom Rosamilia Research Arvind Krishna Financial Discussion Martin Schroeter Q&A 3:30 – 4:00 Reception Agenda 
+
+Certain comments made during this event and in the presentation materials may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance. These statements by their nature address matters that are uncertain to different degrees. Any forward-looking statement made during this event or in these presentation materials speaks only as of the date on which it is made. The company assumes no obligation to update or revise any forward-looking statements. Those statements involve a number of factors that could cause actual results to differ materially, including the following: a downturn in economic environment and client spending budgets; the company’s failure to meet growth and productivity objectives, a failure of the company’s innovation initiatives; risks from investing in growth opportunities; a failure of the company’s intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; cybersecurity and privacy considerations; fluctuations in financial results, impact of local legal, economic, political and health conditions; adverse effects from environmental matters, tax matters and the company’s pension plans; ineffective internal controls; the company’s use of accounting estimates; the company’s ability to attract and retain skilled personnel and its reliance on critical skills; impacts of relationships with critical suppliers; product quality issues; impacts of business with government clients; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; reliance on third party distribution channels and ecosystems; the company’s ability to successfully manage acquisitions, alliances and dispositions; risks from legal proceedings; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company’s Form 10-Qs, Form 10-K and in the company’s other filings with the U.S. Securities and Exchange Commission (SEC) or in materials incorporated therein by reference. Additional information concerning these factors is contained in the Company's filings with the SEC. Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations. 
+
+These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0216.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Form 8-K dated January 19, 2016 and Attachment I to the company’s Form 8-K dated February 25, 2016. 
+
+[LOGO] 
+
+IBM Emerging as a Cognitive Solutions and Cloud Platform Company 2016 Segment Structure Financing Global Financing Sales $1.8B 2015 Revenue Systems Operating Systems Systems Hardware $9.5B 2015 Revenue Global Business Services Consulting Application Management $17.2B 2015 Revenue Global Process Services Cognitive Solutions $17.8B 2015 Revenue Solutions Software Technology Services & Cloud Platforms Infrastructure Services Technical Support Services $35.1B 2015 Revenue Cognitive Solutions and Industry Services 2015 Revenue IBM Strategic Imperatives Cloud as-a-Service run rate $81.7B $28.9B $10.2B $5.3B Integration Software Transaction Processing Software 
+
+[LOGO] 
+
+Cognitive Solutions Dr. John E. Kelly III Senior Vice President, Cognitive Solutions and Research 
+
+Cognitive Solutions Transformation Progress Created integrated units with industry orientation Analytics, Security, Commerce Expanded Watson Platform (2-3x) API’s, languages, clients, partners, global footprint Built Watson Health Platform 4 acquisitions, 30+ partners Established Watson IoT Platform Acquired The Weather Company $17.8B 2015 Revenue $7.2B 2015 Pre-tax Income 
+
+The way to find information The way to make better decisions 
+
+~$12B For a deep water project in the Gulf of Mexico >$1T Inaccurate retail sales forecasting ~$2T Wasteful healthcare spend 
+
+Cognitive opens new opportunities on top of traditional IT Opportunity for decision-making support 2025 ~$2T Decision Support ~$1.2T Traditional global IT spend 2016 Productivity Data center systems Client relationship management Process automation Enterprise resource planning Infrastructure Note 1 
+
+Cognitive is having an impact across industries 
+
+Innovation platform for Cognitive Business Ecosystem and partnerships Industry solutions Client solutions Public Filings Patents Medical Journals U.S. Geological Survey Apple Twitter Medtronic Johnson & Johnson Thomson Reuters Under Armour IBM Provided Data Private Client Data Publically Sourced Data Partner Provided Data Representative sample of data 
+
+Cognitive solutions bring about new revenue streams Data access / Pay-per-Insight Subscription (number of users) Shared value with partners Revenue share (ecosystem) Global partners (licensing)  
+
+IBM’s advantage in the Cognitive era Most powerful and scalable cognitive platform Largest cognitive ecosystem Most essential industry datasets Deep domain expertise Ecosystem and partnerships Industry solutions Client solutions IBM Provided Data Private Client Data Publically Sourced Data Partner Provided Data 
+
+David Kenny General Manager, IBM Watson Platform Deborah DiSanzo General Manager, IBM Watson Health Harriet Green General Manager, IBM Watson IoT, Commerce and Education 
+
+IBM Watson David Kenny General Manager, IBM Watson 
+
+100TB ingested per day 2.2B locations 15 – 26B API requests per day © 2016 IBM Corporation 12 
+
+Expertise Learning Cognitive Business Services Domain Expertise Trust and Security IBM Watson differentiation 
+
+Watson-as-a-Service IBM owned applications Ecosystem applications IBM Provided Data Private Client Data Publically Sourced Data Partner Provided Data 
+
+Scaling IBM Watson Ecosystem Partners 300%+ growth Yr/Yr Clients 72% growth Yr/Yr 
+
+Mike Turillo Co-Founder and Chairman of the Board Inno360 © 2016 IBM Corporation 16 
+
+Before Watson After Watson Client sales cycle 6 - 9 months PoC pricing per seat Standard Time to “upsell” to full license Average 6 months Pricing on standard license $100–150k / year Client sales cycle 3 weeks - 2 months PoC pricing per seat 2x higher with Cognitive Time to “upsell” to full license 1 month Pricing on standard license $500k–$2M 
+
+© 2016 IBM Corporation 18 
+
+Decision making Expertise Availability Expertise and historical references isolated with the most experienced engineers Cultural transformation Knowledge base lost with employee retirement Decision making In seconds, evidence-weighted insights from over 20K documents Expertise Availability Over 30 years of expertise at the fingertips of 1000+ engineers/staff Cultural transformation Corporate memory and legacy of experts emerged with open access for all Before Watson After Watson Days of manual keyword searches through thousands of documents 
+
+Scale Science Simplify 
+
+Building out Watson Health Deborah DiSanzo General Manager, Watson Health 
+
+Healthcare disruption is underway $47 trillion Global economic impact of five leading chronic diseases by 20304 50% Expected alternative payments from the Centers of Medicare and Medicaid by 20185 150+ exabytes Amount of U.S. healthcare data3 75%+ Percentage of patients expected to use digital health services in the future6 Notes 2–5 
+
+The data and cognitive opportunity is significant Health solutions Life Sciences solutions Global healthcare spending ~$8T Waste in healthcare spending ~$2T IBM addressable market ~$200B Note 6 
+
+Watson Health Cloud: A platform for innovation Oncology / Genomics Life Sciences Imaging Care Management and Population Health Payments and Value Analytics / Insights Platform Image Analytics Cognitive Knowledge Platform IBM Watson Health Cloud 30B+ images 1.2M+ medical abstracts 200M+ lives 100M+ patient records 
+
+Watson Health is well-positioned to lead in the health market Capabilities / Assets / Positions Competitors Cloud and Security Claims Data Clinical Data Cognitive Insights Data Analytics Cloud Providers Keys to ecosystem success Full circle = Leadership capability Empty circle = Minimal / no capability Watson Health 
+
+Watson oncology solutions use cognitive computing to help doctors make evidence-based treatment decisions © 2016 IBM Corporation 26 
+
+© 2016 IBM Corporation 27 Dr. Craig B. Thompson President & Chief Executive Officer Memorial Sloan Kettering Cancer Center Oncology is evolving, providing opportunity for cognitive technology MSKCC trained Watson in the field of Oncology Watson is a “learned colleague” to support physicians 
+
+© 2016 IBM Corporation 28 Dr. James S. Miser Chief Medical Information Officer Bumrungrad International Hospital 
+
+Around the world, the number of people suffering from a chronic disease is increasing. Watson Health is working with leading organizations to build global offerings that address unmet health needs. © 2016 IBM Corporation 29 
+
+© 2016 IBM Corporation 30 Jeff Ruiz Vice President, Diabetes Service & Solutions Medtronic 
+
+© 2016 IBM Corporation 31 
+
+Watson Health capturing the market Data Insights Ecosystem 
+
+IBM Watson Internet of Things (IoT) Harriet Green General Manager, IBM Watson IoT, Commerce and Education 
+
+The Opportunity $1.7 Trillion In value added by the IoT to the global economy in 20194 29 Billion Connected devices by 2020 90% Data never acted upon $400+ Billion IBM addressable market by 20195 Notes 7–8 
+
+Watson IoT leading the market 4,000+ IoT clients 750+ IoT patents 10,000+ Security clients 1,700+ Partners 30+ Industry solutions © 2016 IBM Corporation 35 Note 9 
+
+Boosting operational efficiency Transforming the customer experience Disrupting industries 
+
+Digitization of the physical world © 2016 IBM Corporation 37 
+
+IBM addressable IoT industry market opportunity by 2019 © 2016 IBM Corporation 38 Manufacturing $142B Opportunity Transportation $37B Opportunity Consumer $43B Opportunity 
+
+Aircraft manufacturers, suppliers, airlines, and airport operators Watson IoT transforming air transportation © 2016 IBM Corporation 39 
+
+Connecting the air transportation ecosystem Design Operate Maintain Manufacture 
+
+Clients pioneering transformation Operate Maintain Manufacture Design 
+
+Scaling IoT solutions across industries Invent new business models Develop differentiated solutions Improve operational efficiency Drive better customer engagement Utilize IBM innovation 
+
+Watson IoT growing momentum Watson IoT Global Headquarters Munich, Germany Munich Centre global headquarters 67,000 square meters of pure potential 8 global experience centers 1,000 researchers, developers, designers New Watson APIs Client focused leadership Acquisition of the Weather Company © 2016 IBM Corporation 43 
+
+[LOGO] 
+
+Big, incremental opportunity Highly differentiated platform Cognitive solutions are here now. Cognitive solutions: An engine for growth 
+
+[LOGO] 
+
+Source: GMV 1H16, McKinsey Global Institute, May 2013 Institute of Health Technology Transformation Source: World Economic Forum Source: U.S. Health & Human Services Source: McKinsey & Company Source: Health Affairs, Team analysis Business Insider, “The 'Internet of Things’ will be the world's most massive device market and save companies billions of dollars,” John Greenough, April 14, 2015. IDC's spend projections for Software and Services technology groups for IoT, from IDC Worldwide Semiannual Internet of Things Spending Guide, published November, 2015 Source: IDC's spend projections for Software and Services technology groups for IoT, from IDC Worldwide Semiannual Internet of Things Spending Guide, published November, 2015 Footnotes 
+
+These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0216.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Form 8-K dated January 19, 2016 and Attachment I to the company’s Form 8-K dated February 25, 2016. 
+
+IBM Investor Briefing 2016 Growth in the Cognitive Era Global Business Services Bridget van Kralingen Senior Vice President, Global Business Services 
+
+Transformation Progress Launched the Industry’s first Cognitive practice, 1,000+ consultants and data scientists Assembled 120,000+ industry-focused resources Built unique digital design capability: #1 digital agency, 10,000 consultants and designers Apple partnership; 100+ apps, $1B signings Improved offshore mix by 6 pts over the past two years Added 30,000 resources to Strategic Imperatives in last 2 years $17.2B $2.6B 2015 Revenue 2015 Pre-tax Income Global Business Services 2014 2015 Strategic Imperatives Core Content 70% 55% 30% 45% Revenue Mix 
+
+GBS will lead the market for cognitive solutions Led by line of business, aimed at core business model Reengineering of core industry processes Grounded in trusted relationships Across industries, CEOs see cognitive as imperative The Path to Cognitive Business: 84% of Healthcare C-Suite think cognitive will play a disruptive role 89% of Telco C-Suite thinks cognitive will have critical impact 94% of Retail, Healthcare and Insurance C-Suite plan to invest in cognitive Cognitive Solutions 2025 Traditional IT 2016 ~$2T ~$1.2T 
+
+Extending our lead: Cognitive Transformation Cognitive Solution: Demand Insight Cognitive consultants Powered by analytics Inception Custom Solution Scaling JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC World’s first and only cognitive consulting practice 1,000 cognitive consultants today – 3,000 by year end Powered by 20,000 analytics consultants High margin work GBS driving every Watson implementation Client momentum is accelerating 
+
+SAO PAULO SANTIAGO JOHANNESBURG DUBAI WARSAW PRAGUE DALIAN BEIJING SHANGHAI BANGALORE TOKYO MELBOURNE MADRID PARIS GRONINGEN HAMBURG LONDON SAN FRANCISO CHICAGO TORONTO BOSTON NEW YORK ATLANTA AUSTIN MEXICO CITY #1 digital agency with unique global scale Driving the consumer grade enterprise Unique design capability co-developed with Apple 25 design studios Extending our lead: Consumer-grade Business Process and Customer Design 100 Apps // $1B Signings JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC 
+
+Extending our lead: Industry solutions GBS leads industry for IBM 120,000 industry resources Portfolio of 123 industry cognitive solutions Built on IBM cloud and software of Top 10 Oil & Gas Companies 9 of Top 10 Telecom Companies 10 of Top 10 Insurers 10 of Top 10 Banks 10 
+
+Modernizing our core business: Enterprise Applications and Business Process Services 5,700+ Core practitioners trained in IBM Design for Services 11 Major analyst rankings identified IBM as a leader in BPS 61% Growth in Business Process Services signings in 2015 1-2 strategic partnerships Broad range of strategic partnerships ERP providing real time mobile analytics by many Business Process Services lift and shift process Consult to operate–analytically driven and delivered as-a-service ERP controlling processes for the few 
+
+Modernizing our core business: Application Development & Management 100% Of consultants trained on Bluemix by YE 2016 23% Onshore mix by 2018 30% Reduction in test time using cognitive analytics and test automation Labor based cost curve Cognitive and automation bend cost curve Modern Agile and DevOps platform Northern hemisphere out Global Centers out Application management Recognized Market Leader by Gartner & IDC in: Application Modernization for Digital Transformation SAP ADM Oracle ADM Testing 
+
+Summary Execution Scaling new capabilities while improving cost competiveness Strategy Differentiate IBM and GBS through cognitive, design thinking and industry Portfolio Accelerated industry-based cognitive solutions while modernizing the core 
+
+[LOGO] 
+
+These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0216.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Form 8-K dated January 19, 2016 and Attachment I to the company’s Form 8-K dated February 25, 2016. 
+
+Technology Services & Cloud Platforms Robert LeBlanc Senior Vice President, IBM Cloud Martin Jetter Senior Vice President, Global Technology Services 
+
+Enterprises Realize New Value with Hybrid Cloud Robert LeBlanc Senior Vice President, IBM Cloud 
+
+Transformation Progress Built full as-a-service cloud stack across IaaS, PaaS, SaaS, BPaaS—over $5B run-rate Expanded cloud footprint with 46 cloud data centers worldwide Scaled Bluemix platform to over 1M developers Acquired 7 cloud companies in 2015, more than 20 over the last 5 years 100% of relevant IBM Software is now on the IBM Cloud IBM Cloud $10.2B $5.3B 2015 Revenue as-a-Service exit run rate $0 $2 $4 $6 $8 $10 2010 2015 IBM Cloud Revenue 
+
+30% of large enterprises will be impacted by business model disruption by 20171 +80% of enterprises will commit to Hybrid Cloud architectures by 20173 New business models Digital business transformation Hybrid Cloud is the enabler 75% of large enterprises will have digital transformation at the center of corporate strategy in the next two years2 Cloud is enabling new value for enterprises Notes 1–3 
+
+Hybrid Cloud is the fastest growing piece of the cloud opportunity, outpacing contraction in Traditional IT by more than 200%.4 Hybrid Cloud is the ‘fast path’ to new value for Enterprises $402B Hybrid Cloud 2018 Oppty $692B Total Cloud 2018 Oppty Hybrid Cloud Definition The connection of one or more clouds to on-premises systems and/or the connection of one or more clouds to other clouds. IBM Cloud Guiding Principles Choice with Consistency Hybrid Integration Powerful, Accessible Analytics DevOps Productivity Cognitive Solutions 33% CAGR ‘15-’18 21% CAGR ‘15-’18 
+
+65 new cloud services in 2015 8 new datacenters, 46 in total +20,000 new developers per week on Bluemix Strategic relationships with 10 major GSIs IBM Cloud progress in 2015 Recent acquisitions: Data & Analytics Cloud Technology Video 100% of relevant IBM software is now on IBM Cloud Assets from: 
+
+Unlocking Billions of Value in Enterprise Applications & Data: We have also made several key announcements this week. Speeding Development & Innovation: Enabling 11 million Apple SWIFT mobile developers to unleash creativity on the IBM Cloud. IBM and GitHub deliver first dedicated GitHub Enterprise as-a-service IBM delivers Blockchain as-a-service to speed DevOps Many new capabilities, including new Internet of Things, Data and Watson Services. Strategic relationship with VMware—enabling a half million VMware customers to extend their virtual machines to the IBM cloud WebSphere Connect—developers can enrich cloud services with enterprise data and applications leveraging Websphere install base of 235M active instances 
+
+Enterprises Realize New Value with Hybrid Cloud Don Rippert GM Strategy and Technology, IBM Cloud 
+
+IBM differentiates with a focus on Enterprise customers Supporting enterprise performance, security and data localization requirements. Providing new value for enterprises with +235M active instances of IBM Websphere 100% of relevant IBM software on IBM Cloud The open cloud for enterprises 46 data centers on six continents Native support for industry-leading OpenStack and Cloud Foundry IBM named a Leader in Hybrid Cloud management IBM maintained its position as #1 Hybrid Cloud provider in 2015 – Forrester Research – Synergy Research Group A rich portfolio of Data, Context and Insight services for developers, data engineers and data scientists. Cognitive solution-ready data and analytics 
+
+Create: New cloud apps connect to WebSphere Java, Node.js and Swift Runtimes Mobile & Application Services Whisk – Connect Serverless Applications to Websphere IBM is helping Websphere clients to unlock billions in new value. Connect: WebSphere apps use cloud services API, App & Data Connect Services Cognitive Services Blockchain Services Optimize: WebSphere apps deployed on cloud Websphere App Server on Cloud WebSphere Docker Container WebSphere VM 
+
+Open by Design Leading open source technology on a common platform that allows developers to scale their apps Data Science in Action Portfolio of analytics services and available data for data scientists to create deeper insights Hybrid Data Services Integrated solutions that connect and move data across the enterprise, on-premises and in the cloud Support for popular open source databases dashDB and DataWorks for next generation data warehousing on cloud DB2 on Cloud and PostgreSQL for scaling transaction applications Analytics using Apache projects such as Spark Watson Analytics for smart data discovery Graph for connecting IoT and Social data Diverse range of data from The Weather Company, Twitter, and over 150 open data sources The most comprehensive cloud analytics platform 
+
+IBM’s hybrid capability is resonating with existing and new customers. New Clients Existing Clients Westpac is launching a service revolution to act like a 200-year-old startup. IBM technology brokers and orchestrates 100% of Westpac’s hybrid cloud. Etihad is transforming their infrastructure into a flexible and agile cloud platform. IBM was chosen for its hybrid cloud hosting capability and outsourcing terms. Thomson Reuters is building new revenue-generating cognitive apps. Thomson Reuters chose IBM for our Watson technology advantage and hybrid hosting options. 
+
+70% Westpac plans to migrate 70% of its applications to hybrid cloud. The Challenge: delivering on digital transformation and being an agile 200-year old company. Public Cloud Westpac is using IBM’s Hybrid Cloud to deliver its Digital Transformation – Richard Holmes, Westpac General of Infrastructure Manager Traditional Infrastructure Private Cloud Westpac datacenter “We knew our transformation wasn’t about upgrading hardware or designing better apps; but about something larger and strategic. We use IBM to outthink limits.” 
+
+Transforming Global Technology Services for Continued Leadership Martin Jetter Senior Vice President, Global Technology Services 
+
+Transforming our business – from systems integration to services integration Reinvented the portfolio for hybrid and as-a-service Re-engineered delivery model through cognitive, analytics and automation Continued market share leadership of 2x vs. our nearest competitor Signed large, transformative business: 70% feature hybrid Captured new growth opportunities through multi-vendor services Technology Services and Cloud Platforms Services Backlog* Services Revenue* * Services revenue and backlog growth at constant currency and excluding divested businesses $35.1B $5.7B 2015 Revenue 2015 Pre-tax Income 
+
+Large deals characterized by “asset takeover” “Break-fix” maintenance Global centers and supply chain optimization Practitioners deployed to address automated maintenance alerts Hybrid and service automation / analytics Vendor agnostic maintenance GTS continues to transform as our industry goes through waves of change 1980s Centralized Mainframes 2016+ Cognitive Era 2000s E-Business 1990s Distributed Computing 2010s Smarter Planet Balance sheet and technical know-how Global resources and process excellence New Enterprise IT and cognitive computing Infrastructure Services Technical Support Services Cognitive Cloud Social Business Mobile Big Data & Analytics Internet Client/Server Personal Computer Systems Integration Services Integration 
+
+*Source: “Growing up hybrid: Accelerating digital transformation,” IBM Center for Applied Insights, 1Q 2016 Enterprises are shifting from traditional to hybrid environments -8% Traditional +34% Hybrid Hybrid is the “New Norm” GTS Opportunity Growth 7 in 10 GTS Market Opportunity (Anticipated CAGR 2015 to 2018) Decision-makers report they will always have a blend of traditional IT and cloud * Infrastructure Services $344B GTS Market (2018) Technical Support Services +1% Total GTS 
+
+We are reinventing the GTS Services model – shifting from a Systems Integration to a Services Integration approach to IT in the Enterprise From: Systems Integration To: Services Integration IT Management Network Server Security Mainframe Brokerage Security, Analytics, Automation and DevOps Traditional IT Strategic Outsourcing (SO) Integrated Technology Services (ITS) Maintenance Infrastructure Services (IS) Technical Support Services (TSS) IT as a Service IBM Services 3rd Party Services Orchestration Private Cloud Public Cloud Storage 
+
+We are transforming our portfolio for Hybrid and “as a Service” to drive growth by aligning GTS to our clients’ consumption preferences Examples Multi-Vendor Services (over 30,000 IBM and non-IBM technologies) Brokerage Services (Hybrid Cloud) Disaster Recovery as a Service (Cloud-based resiliency) Mobility Services Our offerings are built for hybrid to address the needs of forward-thinking Enterprises Systems Services Networking Services Resiliency Services Technical Support Services Mac at Work (Managed Mobility Services) 
+
+Simplification and Optimization Continuous streamlining of structure and processes to increase agility and improve outcomes Investments in cognitive, automation, analytics, talent and simplification initiatives improve the quality and productivity of our services delivery Up to 50% faster problem identification Up to 90% improvement in incident resolution 99.7% Service Level Agreements (SLAs) met or exceeded >20% productivity improvement in select processes Cognitive, Analytics and Automation End-to-end automation of service execution and analytics to solve problems before they happen Talent Investment in our practitioners to enhance their expertise in solving increasingly complex problems 
+
+One billion dollar long-term partnership to help enterprises in Nordic countries to accelerate Cloud adoption and business transformation EVRY—a leading IT services company headquartered in Oslo, Norway Running EVRY’s IT services on IBM’s flexible and scalable hybrid cloud infrastructure to support the mission-critical workloads of EVRY’s clients Leveraging both legacy and SoftLayer-based public cloud, coupled with resiliency and security capabilities to meet the workload demands Faster time-to-market for EVRY’s customers across industries ©2016 IBM Corporation 20 
+
+Mr. Björn Ivroth CEO, EVRY ©2016 IBM Corporation 21 
+
+Execution Scaling an ecosystem and continuing to transform to a next-generation services model from systems integration to services integration Summary Strategy Investing to enable new and existing clients to scale their digital transformations through Hybrid Cloud convergence of cloud and traditional IT in the enterprise Portfolio Offering the full value of IBM’s capabilities through the cloud for consumption “as a Service” e.g., Watson, analytics, key software, brokerage 
+
+[LOGO] 
+
+IDC Futurescape, Worldwide Social Business 2016 Predictions IDC FutureScape: Worldwide IT Industry 2016 Top 10 Predictions Economist Intelligence Unit, The cloud grows up, Feb 2015 1. Opportunity Data: IBM Market Development & Insights - Planning Annual Cloud Market View including Hybrid Expansion. Footnotes 
+
+These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0216.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Form 8-K dated January 19, 2016 and Attachment I to the company’s Form 8-K dated February 25, 2016.

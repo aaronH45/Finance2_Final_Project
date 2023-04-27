@@ -1,0 +1,305 @@
+ITEM 7.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated financial statements and accompanying notes included in Item 8. "Financial Statements and Supplementary Data."
+
+Nature of Operations
+
+We design, develop and market programmable devices and associated technologies, including advanced ICs in the form of PLDs, boards, software design tools and predefined system functions delivered as IP. In addition to our programmable platforms, we provide design services, customer training, field engineering and technical support. Our PLDs include FPGAs, CPLDs and programmable SoCs. These devices are standard products that our customers program to perform desired logic functions. Our products are designed to provide high integration and quick time-to-market for electronic equipment manufacturers in end markets such as Aerospace & Defense (A&D), Industrial Test and Measurement and Emulation (TME), Automotive, Broadcast and Consumer, Wired and Wireless and Data Center. We sell our products globally through an independent domestic and foreign distributor channel and through direct sales to OEMs by selected independent sales representative firms and by a direct sales management organization.
+
+Impact of COVID-19
+
+In March 2020, the World Health Organization declared the outbreak of COVID-19 a pandemic, and various governmental authorities throughout the U.S. and the world have implemented numerous measures to contain the virus, including travel bans and restrictions, quarantines, shelter-in-place orders, and business limitations and shutdowns. Currently we are unable to accurately predict the full impact that COVID-19 will have on our future results from operations, financial condition, liquidity and cash flows due to numerous uncertainties, including the duration and severity of the pandemic and containment measures. Our compliance with these measures has impacted, and could continue to impact, our business and operations, as well as those of our key customers, suppliers (including contract manufacturers) and other counterparties, for an indefinite period of time. To support the health and well-being of our employees, customers, partners and communities, almost all of our employees have been working remotely since March 16, 2020. In addition, employees of many of our customers are also working remotely, which may delay the timing of some orders and deliveries expected in fiscal 2021.
+
+We believe these disruptions are likely to be temporary logistical challenges and that our business would eventually resume
+
+some degree of normalcy if the pandemic is contained and social distancing requirements are eased. However, our business may continue to be adversely impacted as a result of the pandemic’s global economic impact, and we will continue to closely monitor the associated effects, such as our ability to collect receivables from those customers significantly impacted by COVID-19 related closures and disruptions as well as changes in orders in a given period likely to affect our revenues in future periods, particularly if experienced on a sustained basis. We will continue to monitor and evaluate the nature and extent of the impact of COVID-19 to our business.
+
+We currently expect that current cash and cash equivalent balances and cash flows that are generated from operations will be sufficient to meet our domestic and international working capital needs and other capital and liquidity requirements in the foreseeable future.
+
+32
+Critical Accounting Policies and Estimates
+
+The methods, estimates and judgments we use in applying our most critical accounting policies have a significant impact on the results we report in our consolidated financial statements. The SEC has defined critical accounting policies as those that are most important to the portrayal of our financial condition and results of operations and require us to make our most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. Based on this definition, our critical accounting policies include: valuation of marketable securities, which impacts losses on debt and equity securities when we record impairments; revenue recognition, which impacts the recording of revenues; and valuation of inventories, which impacts cost of revenues and gross margin. Our critical accounting policies also include: the assessment of impairment of long-lived assets, which impacts their valuation; the assessment of the recoverability of goodwill, which impacts goodwill impairment; accounting for income taxes, which impacts the provision or benefit recognized for income taxes, as well as the valuation of deferred tax assets recorded on our consolidated balance sheet; and accounting for business combinations, which impacts the valuation of tangible and intangible assets recognized and liabilities assumed. Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting.
+
+Due to the COVID-19 pandemic, there has been uncertainty and disruption in the global economy and financial markets. We are not currently aware of any specific event or circumstance that would require an update to our estimates or judgments or a revision of the carrying value of our assets or liabilities as of March 28, 2020. These estimates may change, as new events occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions.
+
+Revenue Recognition
+
+Revenue from sales to our distributors is recognized upon the transfer of control, which typically occurs at shipment, and is reduced by estimated allowances for distributor price adjustments and rights of return. The distributor price adjustments are estimated using the expected value method based on an analysis of actual and forecasted ship and debit claims, at the distributor and part level to account for current pricing and business trends. For fiscal 2020, approximately 53% of our net revenues were from products sold to distributors primarily for subsequent resale to OEMs or their subcontract manufacturers. 
+
+Revenue from sales to our non-distributor customers is recognized net of sales incentives (if any) upon transfer of control to the customer, which typically occurs at shipment. Sales returns and allowances on product sales are recorded as a reduction of revenue. 
+
+Revenue from software license agreements and renewals is recognized at commencement date. Revenue from support services is recognized when the service is performed. Revenue from software licenses and support services was approximately 1% or less of net revenues for all of the periods presented.
+
+Valuation of Inventories
+
+Inventories are stated at the lower of actual cost (determined using the first-in, first-out method) or market (estimated net realizable value). The valuation of inventory requires us to estimate excess or obsolete inventory as well as inventory that is not of salable quality. We review and set standard costs quarterly to approximate current actual manufacturing costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of actual spending over actual volumes. Given the cyclicality of the market, the obsolescence of technology and product lifecycles, we write down inventory based on forecasted demand and technological obsolescence. These forecasts are developed based on inputs from our customers, including bookings and extended but uncommitted demand forecasts, and internal analyses such as customer historical purchasing trends and actual and anticipated design wins, as well as market and economic conditions, technology changes, new product introductions and changes in strategic direction. These factors require estimates that may include uncertain elements. The estimates of future demand that we use in the valuation of inventory are the basis for our published revenue forecasts, which are also consistent with our short-term manufacturing plans. The differences between our demand forecast and the actual demand in the recent past have not resulted in any material write down in our inventory. If our demand forecast for specific products is greater than actual demand and we fail to reduce manufacturing output accordingly, we could be required to write down additional inventory, which would have a negative impact on our gross margin.
+
+Valuation of Marketable Securities and Non-marketable Securities
+
+Our short-term and long-term investments consist of primarily marketable debt, and to a lesser extent, equity securities. As of March 28, 2020, we had marketable debt securities with a fair value of $1.48 billion.
+
+33
+We determine the fair values for marketable debt and equity securities using industry standard pricing services, data providers and other third-party sources and by internally performing valuation testing and analysis. See "Note 3. Fair Value Measurements" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for details of the valuation methodologies. In determining if and when a decline in value below the adjusted cost of marketable debt securities is other than temporary, we evaluate on an ongoing basis the market conditions, trends of earnings, financial condition, credit ratings, any underlying collateral and other key measures for our investments. We did not record any other-than-temporary impairment for marketable debt securities in fiscal 2020, 2019 or 2018. Marketable equity securities are measured and recorded at fair value on a recurring basis with changes in fair value, whether realized or unrealized, recorded through the consolidated statements of income beginning in fiscal 2019 after the adoption of Accounting Standards Update (ASU) 2016-01. 
+
+Our investments in non-marketable equity securities of private companies are accounted for under the measurement alternative upon the adoption of ASU 2016-01. The carrying value is measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer. Determining whether an observed transaction is similar to a security within our portfolio requires judgment based on the rights and obligations of the securities. Our periodic assessment of impairment is made by considering available evidence, including the general market conditions in the investee’s industry, the investee’s product development status and subsequent rounds of financing and the related valuation and/or our participation in such financings. We also assess the investee’s ability to meet business milestones and the financial condition and near-term prospects of the individual investee, including the rate at which the investee is using its cash, the investee’s need for possible additional funding at a lower valuation and any bona fide offer to purchase the investee from a prospective acquirer. The valuation methodology for determining the fair value of non-marketable equity securities is based on the factors noted above which require management judgment and are Level 3 inputs. See “Note 3. Fair Value Measurements” to our consolidated financial statements, included in Item 8. “Financial Statements and Supplementary Data,” for additional information. When a decline in value is deemed to be other than temporary, we recognize an impairment loss in the current period’s operating results to the extent of the decline. The impairments loss for non-marketable equity securities were not material during all periods presented.
+
+Impairment of Long-Lived Assets
+
+Long-lived assets to be held and used are reviewed for impairment if indicators of potential impairment exist. Impairment indicators are reviewed on a quarterly basis. Assets are grouped and evaluated for impairment at the lowest level of identifiable cash flows. 
+
+When indicators of impairment exist and assets are held for use, we estimate future undiscounted cash flows attributable to the related assets groups. In the event such cash flows are not expected to be sufficient to recover the recorded value of the assets, the assets are written down to their estimated fair values based on the expected discounted future cash flows attributable to the asset group or based on appraisals. Factors affecting impairment of assets held for use include the ability of the specific assets to generate separately identifiable positive cash flows. 
+
+When assets are removed from operations and held for sale, we estimate impairment losses as the excess of the carrying value of the assets over their fair value. Market conditions are amongst the factors affecting impairment of assets held for sale. Changes in any of these factors could necessitate impairment recognition in future periods for assets held for use or assets held for sale. 
+
+Long-lived assets such as property, plant and equipment are considered non-financial assets, and are only measured at fair value when indicators of impairment exist.
+
+Goodwill
+
+Goodwill is not amortized but is subject to impairment tests on an annual basis, or more frequently if indicators of potential impairment exist, and goodwill is written down when it is determined to be impaired. We perform an annual impairment review in the fourth quarter of each fiscal year and compare the fair value of the reporting unit in which the goodwill resides to its carrying value. If the carrying value exceeds the fair value, the goodwill of the reporting unit is potentially impaired. For purposes of impairment testing, Xilinx operates as a single reporting unit. We use the quoted market price method to determine the fair value of the reporting unit. Based on the impairment review performed during the fourth quarter of fiscal 2020, there was no impairment of goodwill in fiscal 2020. Unless there are indicators of impairment, our next impairment review for goodwill will be performed and completed in the fourth quarter of fiscal 2021. To date, no impairment indicators have been identified.
+
+34
+Accounting for Income Taxes
+
+Xilinx is a multinational corporation operating in multiple tax jurisdictions. We must determine the allocation of income to each of these jurisdictions based on estimates and assumptions and apply the appropriate tax rates for these jurisdictions. We undergo routine audits by taxing authorities regarding the timing and amount of deductions and the allocation of income among various tax jurisdictions. Tax audits often require an extended period of time to resolve and may result in income tax adjustments if changes to the allocation are required between jurisdictions with different tax rates. 
+
+In determining income for financial statement purposes, we must make certain estimates and judgments. These estimates and judgments occur in the calculation of certain tax liabilities and in the determination of the recoverability of certain deferred tax assets, which arise from temporary differences between the tax and financial statement recognition of revenue and expense. Additionally, we must estimate the amount and likelihood of potential losses arising from audits or deficiency notices issued by taxing authorities. The taxing authorities' positions and our assessment can change over time resulting in a material effect on the provision for income taxes in periods when these changes occur. 
+
+We must also assess the likelihood that we will be able to recover our deferred tax assets. If recovery is not likely, we must increase our provision for taxes by recording a reserve in the form of a valuation allowance for the deferred tax assets that we estimate will not ultimately be recoverable. 
+
+We perform a two-step approach to recognize and measure uncertain tax positions relating to accounting for income taxes. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being ultimately realized. 
+
+Business Combinations
+
+We use the acquisition method of accounting and allocate the fair value of purchase consideration to the assets acquired and liabilities assumed from the acquiree based on their respective fair values as of the acquisition date. The excess of the fair value of purchase consideration over the fair value of these assets acquired and liabilities assumed is recorded as goodwill. When determining the fair values of assets acquired and liabilities assumed, we make significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth and margins, future changes in technology, expected cost and time to develop in-process research and development, brand awareness and discount rates. Fair value estimates are based on the assumptions that we believe a market participant would use in pricing the asset or liability.
+
+Results of Operations
+
+The following table sets forth statement of income data as a percentage of net revenues for the fiscal years indicated.
+
+35
+[DATA_TABLE_REMOVED]
+
+Net Revenues
+
+[DATA_TABLE_REMOVED]
+
+Net revenues in fiscal 2020 were $3.16 billion, an increase of 3% as compared to fiscal 2019. Revenues from Advanced Products increased 15% in fiscal 2020 but were offset by declines from our Core Products. The increase in Advanced Products was due to higher Advanced Products sales across several end markets, particularly in Data Center. Net revenues in fiscal 2019 were $3.06 billion, an increase of 24% as compared to fiscal 2018. Revenues from Advanced Products increased 43% in fiscal 2019 while revenues from our Core Products remained relatively stable. The fiscal 2019 increase in Advanced Products was due to higher Advanced Products sales across all end markets, particularly in Wired and Wireless. See also "Net Revenues by Product" and "Net Revenues by End Markets" below for more information on our product and end market categories.
+
+Except for Avnet, no other distributor or end customer accounted for more than 10% of net revenues for any of the periods presented.
+
+Net Revenues by Product
+
+We sell our products to global manufacturers of electronic products in end markets such as A&D, Industrial and TME, Automotive, Broadcast and Consumer, Wired and Wireless and Data Center. The vast majority of our net revenues are generated from sales of our semiconductor products, but we also generate sales from support products. We classify our product offerings into two categories: Advanced Products and Core Products:
+
+•Advanced Products are our most recent product offerings and include the UltraScale+, UltraScale and 7-series product families, and our Alveo boards business.
+
+•Core Products are all other product families.
+
+These product categories are modified on a periodic basis to better reflect the maturity of the products and advances in technology. The most recent modification was made on April 3, 2016, which was the beginning of our fiscal 2017, whereby we reclassified our product categories to be consistent with how these categories are analyzed and reviewed internally. Specifically, we have grouped the products manufactured at the 28nm, 20nm and 16nm nodes into a category named Advanced Products while all other products are included in a category named Core Products. 
+
+Net revenues by product categories for the fiscal years indicated were as follows:
+
+36
+[DATA_TABLE_REMOVED]
+
+Net revenues from Advanced Products increased in fiscal 2020 driven by strong sales growth in 16nm product families but were partially offset by declines in sales from our 20nm and 28nm products families. Sales from our 16nm products were over $1.08 billion, while sales from our 20nm and 28nm products exceeded $300.0 million and $800.0 million, respectively, during fiscal 2020. In fiscal 2019, net revenues from Advanced Products increased significantly driven by sales growth in 28nm, 20nm and, in particular, 16nm product families. Sales from our 16nm products were over $500.0 million, while sales from our 20nm and 28nm products exceeded $400.0 million and $900.0 million, respectively, during fiscal 2019. We expect sales of Advanced Products to continue to grow as more customer programs enter into volume production with our 16nm products. 
+
+Net revenues from Core Products decreased in fiscal 2020 while net revenues were flat in fiscal 2019 from the comparable prior year periods. The decrease in fiscal 2020 was largely driven by the decline in sales from our Virtex-6, Spartan-6 and Virtex-5 product families. 
+
+Net Revenues by End Markets
+
+Our end market revenue data is derived from our understanding of our end customers’ primary markets, which is based on reports provided by distributors and our internal records. To provide additional visibility, starting March 31, 2019, we classify our end markets into businesses with similar market drivers: A&D, Industrial and TME; Automotive, Broadcast and Consumer; Wired and Wireless and Data Center. Additionally, we classify revenue recognized from shipments to distributors but not yet subsequently sold to the end markets as Channel Revenue. The Channel Revenue in the table below represents the difference between the shipments to distributors and what the distributors subsequently sold to the end customers within the same period. The percentage change calculation in the table below represents the year-to-year dollar change in each end market.
+
+Net revenues by end markets for fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+*not meaningful
+
+Net revenues from A&D, Industrial and TME increased, in terms of absolute dollars, in both fiscal 2020 and 2019 from the comparable prior year periods. The increases in fiscal 2020 and 2019 were primarily due to higher sales from A&D business.
+
+Net revenues from Automotive, Broadcast & Consumer increased, in terms of absolute dollars, in both fiscal 2020 and 2019 from the comparable prior year periods. The increases in fiscal 2020 and 2019 were primarily due to higher sales from Automotive business. However, we started seeing revenue negatively impacted by the COVID-19 pandemic midway through the fourth quarter of fiscal 2020. The impact on revenue was more pronounced in our Automotive business, as car sales in China and around the globe declined significantly. We also experienced lower than expected growth in Broadcast and China channel businesses in the fourth quarter of fiscal 2020.
+
+Net revenues from Wired and Wireless decreased in fiscal 2020 from the comparable prior year period. The decrease was due to lower sales from Wired business, but was partially offset by the increase from Wireless business with particular strength coming from the continued deployment of 4G Long Term Evolution (LTE) networks and the accelerated global deployment ramp of 5G wireless networks. In fiscal 2019, net revenues from Wired and Wireless increased in fiscal 2019 from the comparable prior year period. The increase was primarily due to higher sales from all sub-markets, with particular strength coming from Wireless business driven by both the continued deployment of 4G LTE networks and the accelerated global deployment ramp of 5G wireless networks. 
+
+37
+Net revenues from Data Center increased, in terms of absolute dollars, in both fiscal 2020 and 2019 from the comparable prior year periods. The increases in both fiscal 2020 and 2019 were due to higher sales from networking business.
+
+Channel revenue represents the net change in distribution inventory and was immaterial for all of the periods presented. 
+
+Net Revenues by Geography
+
+Geographic revenue information reflects the geographic location of the distributors, OEMs or contract manufacturers who purchased our products. This may differ from the geographic location of the end customers. Net revenues by geography for the fiscal years indicated were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Net revenues in North America increased in both fiscal 2020 and 2019 from the comparable prior year periods. The increase in fiscal 2020 was primarily due to higher sales from A&D and TME businesses, while the increase in fiscal 2019 was primarily due to higher sales from Data Center and Wired businesses. 
+
+Net revenues in Asia Pacific increased in both fiscal 2020 and 2019 from the comparable prior year periods. The increase in fiscal 2020 was primarily due to higher sales from Wireless business, and to a lesser extent, from TME business, while the increase in fiscal 2019 was primarily driven by higher sales from Wireless business, and to a lesser extent from Industrial, Scientific and Medical business.
+
+Net revenues in Europe decreased in fiscal 2020 but increased in fiscal 2019 from the comparable prior year periods. In fiscal 2020, the decrease was primarily due to lower sales from TME business, while the increase in fiscal 2019 was driven by higher sales from Automotive business. 
+
+Net revenues in Japan were flat in fiscal 2020, while increased in 2019 from the comparable prior year periods. The increase in fiscal 2019 was primarily driven by higher sales in TME and Audio, Video and Broadcast businesses.
+
+Gross Margin 
+
+[DATA_TABLE_REMOVED]
+
+Gross margin was lower by 1.9 percentage points in fiscal 2020 and lower by 1.1 percentage points in fiscal 2019, from the comparable prior year periods. The decrease in gross margin in fiscal 2020 was primarily due to end-market mix, as the percentage of revenue derived from Wireless business (which has relatively lower gross margin) increased significantly. Lower gross margin was also affected, to a lesser extent, by higher amortization of acquisition-related intangibles as we continued to acquire more businesses during fiscal 2020.The decrease in gross margin in fiscal 2019 was primarily due to end-market mix, as the percentage of revenue derived from Wireless business (which has relatively lower gross margin) increased significantly.
+
+Gross margin may be affected in the future due to multiple factors, including but not limited to, those set forth above in "Risk Factors," included in Part I of this Form 10-K, shifts in the mix of customers and products, COVID-19 pandemic, competitive-pricing pressure, manufacturing-yield issues and wafer pricing. While we expect to mitigate any adverse impacts from these factors by continuing to improve yields on our Advanced Products, improve manufacturing efficiencies and improve average selling price management, continuing growth in Wireless driven by both the continued deployment of 4G Long Term Evolution (LTE) networks and the ramp up global deployment of 5G wireless networks would negatively impact gross margin in the future.
+
+38
+In order to compete effectively, we pass manufacturing cost reductions to our customers in the form of reduced prices to the extent that we can maintain acceptable margins. Price erosion is common in the semiconductor industry, as advances in both product architecture and manufacturing process technology permit continual reductions in unit cost. We have historically been able to offset much of this revenue decline in our mature products with increased revenues from newer products.
+
+Research and Development
+
+[DATA_TABLE_REMOVED]
+
+R&D spending increased by $110.6 million or 15% during fiscal 2020, and by $103.2 million or 16% during fiscal 2019, from the comparable prior year periods. The increases were primarily attributable to higher employee compensation (including stock-based compensation), as we increased headcount to support the development of new products during fiscal 2020 and 2019.
+
+The COVID-19 pandemic that began in March 2020 did not have any significant impact on our R&D activities and efforts in fiscal 2020. Although almost all of our employees have been working remotely since March 16, 2020, we have long had a business continuity plan and invested in technologies and tools that would enable the employees to work effectively and remotely. These investments have helped to minimize disruptions but may not be sufficient to eliminate them. Nevertheless, we currently do not believe our R&D activities and efforts would be severely impacted by the COVID-19 pandemic.
+
+We plan to continue to selectively invest in R&D efforts in areas such as new products and more advanced process development, IP cores and software development environments. We may also consider acquisitions to complement our strategy for technology leadership and engineering resources in critical areas.
+
+Selling, General and Administrative
+
+[DATA_TABLE_REMOVED]
+
+SG&A expenses increased by $33.9 million or 9% during fiscal 2020, and by $36.1 million or 10% during fiscal 2019, from the comparable prior year periods. The increase in fiscal 2020 was primarily due to higher employee compensation (including stock-based compensation) from increased headcount, as well as expenses related to merger and acquisition activities. The increase in fiscal 2019 was primarily due to higher variable spending associated with higher revenue and operating margin such as sales commission and incentive compensation expense, as well as expenses related to merger and acquisition activities. 
+
+The COVID-19 pandemic that began in March 2020 did not have any material effect on our SG&A expenses in fiscal 2020. If the pandemic is not contained and our revenue is adversely impacted, our variable spending, such as sales commission and incentive compensation expenses, may decline.
+
+Restructuring Charges and Executive Transition Costs
+
+During the fourth quarter of fiscal 2020, we announced cost-saving measures designed to drive structural operating efficiencies across the Company, including a targeted global workforce reduction in force. This impacted approximately 238 positions, or 5% of our global workforce, in various geographies and functions worldwide. The reorganization plan is expected to be substantially completed by the end of the first quarter of fiscal 2021. We recorded total restructuring charges of $28.4 million in fiscal 2020, primarily related to severance pay expenses and separately presented on the consolidated statements of income. As of the end of fiscal 2020, there was a $13.5 million accrual for severance and other benefits that are expected to be paid during fiscal 2021.
+
+The COVID-19 pandemic did not influence our decision to execute these cost-savings measures as these measures were already planned and announced in January 2020, before the pandemic declared in March 2020.
+
+39
+The following table summarizes the restructuring accrual activity for fiscal 2020:
+
+[DATA_TABLE_REMOVED]
+
+During the fourth quarter of fiscal 2018, we announced the transition of our President and Chief Executive Officer position, whereby Moshe Gavrielov resigned from those roles and Victor Peng assumed these roles. Additionally, we also implemented restructuring measures to realign resources and drive overall operating efficiencies, which impacted approximately 60 positions in various geographies and functions worldwide. We recorded total transition charges of $33.4 million in the fourth quarter of fiscal 2018, primarily related to severance pay expenses and other benefits. As of the end of fiscal 2020 and 2019, the remaining accrual balance for severance and other benefits was immaterial.
+
+Stock-Based Compensation
+
+[DATA_TABLE_REMOVED]
+
+*not meaningful
+
+Excluding the restructuring charges and executive transition costs portion, stock-based compensation increased by $38.6 million and $10.7 million in fiscal 2020 and 2019, respectively, as compared to the prior year periods. The increases were primarily related to higher expenses associated with restricted stock units, which had a higher fair value in the recent years. 
+
+Interest and Other Income (Expense), Net
+
+[DATA_TABLE_REMOVED]
+
+Net interest and other income were $42.1 million in fiscal 2020 as compared to $11.5 million in fiscal 2019. The increase was primarily due to higher gains from the investment portfolio, and to a lesser extent, lower interest expenses from the maturity of the $500.0 million principal amount of 2.125% Notes issued in March 2014. Net interest and other income were $11.5 million in fiscal 2019 as compared to $5.4 million in fiscal 2018. The increase was primarily due to higher interest income from the investment portfolio. 
+
+Provision for Income Taxes
+
+[DATA_TABLE_REMOVED]
+
+The difference between the U.S. federal statutory tax rate of 21% and our effective tax rate in fiscal 2020 and 2019 was primarily due to the favorable impact of income earned in lower tax rate jurisdictions, which was partially offset by tax on the global intangible low-taxed income (GILTI) of foreign subsidiaries.
+
+40
+The decrease in the effective tax rate for fiscal 2020 compared with fiscal 2019 was primarily due to an increase in excess tax benefits with respect to stock-based compensation. 
+
+The decrease in the effective tax rate for fiscal 2019 compared with fiscal 2018 was primarily due to the U.S. federal one-time transition tax of $590.2 million recognized in fiscal 2018, partially offset by the reversal of deferred tax liabilities related to U.S. federal income tax on a portion of unremitted foreign earnings that had been accrued through fiscal 2017 in the amount of $381.7 million. 
+
+On December 22, 2017, the TCJA was enacted into law. It made significant tax law changes and modifications including the reduction of the U.S. federal corporate income tax rate from 35% to 21%, the requirement for companies to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred and the creation of a GILTI tax on foreign subsidiaries. Some provisions of the TCJA began to impact us in fiscal 2018, while other provisions impacted us beginning in fiscal 2019. 
+
+Staff Accounting Bulletin (SAB) 118 allowed companies to record provisional amounts and recognize the effect of the tax law changes during a measurement period. We recorded provisional income tax expense of $214.7 million in our fiscal 2018 results. During fiscal 2019, we recorded income tax expense of $2.4 million as measurement period adjustments to the provisional amounts recorded in fiscal 2018. The measurement period ended in the third quarter of fiscal 2019. 
+
+On July 27, 2015, the United States Tax Court (Tax Court) issued an opinion in Altera Corp. v. Commissioner, and, in a 15-0 decision, concluded that related parties in a cost sharing arrangement are not required to share expenses related to stock-based compensation. The Commissioner appealed the Tax Court decision to the Ninth Circuit Court of Appeals (Ninth Circuit). The Ninth Circuit overturned the Tax Court’s decision in an opinion issued on July 24, 2018, but subsequently withdrew it. After rehearing the arguments on October 16, 2018, the Ninth Circuit issued a subsequent opinion on June 7, 2019. In a 2-1 decision, the Ninth Circuit overturned the Tax Court’s decision. On July 22, 2019, Altera filed a petition for an en banc rehearing with the Ninth Circuit. On November 12, 2019, the Ninth Circuit issued an order denying Altera's petition. On February 10, 2020, Altera filed a writ of certiorari with the U.S. Supreme Court for review of the case. As such, the decision is not final. We have concluded that the law is unsettled and continue to record tax benefits as we exclude stock-based compensation costs from our cost sharing arrangement. As of March 28, 2020, the cumulative potential impact of a final adverse decision to the consolidated statement of income was $55 million to $60 million for taxes and interest. We will continue to monitor developments in the Altera case and the potential effect on our consolidated financial statements.
+
+We have manufacturing operations in Singapore for which we have been granted "Pioneer Status" effective through fiscal 2021. The Pioneer Status reduces our local tax on Singapore income from a statutory rate of 17% to zero percent. Without obtaining a further Singapore incentive, the tax rate on Singapore income would increase to 17% beginning in fiscal 2022. During the quarter ended September 28, 2019, we received awards from the Singapore Economic Development Board for a Development and Expansion Incentive that will reduce our local tax on Singapore income from a statutory rate of 17% to 5%, effective for fiscal years 2022 through 2031.
+
+Financial Condition, Liquidity and Capital Resources
+
+We have historically used a combination of cash flows from operations and equity and debt financing to support ongoing business activities, acquire or invest in critical or complementary technologies, purchase facilities and capital equipment, repurchase our common stock and debentures under our repurchase program, pay dividends and finance working capital. Additionally, our investments in debt securities are liquid and available for future business needs.
+
+To date, COVID-19 has not had a significant impact on our liquidity, cash flows or capital resources. However, the continued spread of COVID-19 has led to disruption and volatility in the global capital markets, which, depending on future developments, could impact our capital resources and liquidity in the future.
+
+Fiscal 2020 Compared to Fiscal 2019 
+
+Cash, Cash Equivalents and Short-term and Long-term Investments
+
+The combination of cash, cash equivalents and short-term and long-term investments as of March 28, 2020 and March 30, 2019 totaled $2.27 billion and $3.23 billion, respectively. As of March 28, 2020, we had cash, cash equivalents and short-term investments of $2.27 billion and working capital of $1.82 billion. As of March 30, 2019, cash, cash equivalents and short-term investments were $3.18 billion and working capital was $3.42 billion.
+
+41
+As of March 28, 2020, we had $986.8 million of cash, cash equivalents and short-term investments held by our non-U.S. entities. Substantially all $986.8 million of cash, cash equivalents and short-term investments held by our non-U.S. entities will be available for use in the U.S. without incurring additional U.S. federal income taxes. 
+
+During fiscal 2020, our operations generated net cash flow of $1.19 billion, which was $99.6 million higher than the $1.09 billion generated during fiscal 2019. The net cash flow from operations generated during fiscal 2020 was primarily from net income as adjusted for non-cash related items and decreases in accounts receivable, inventory and income taxes payable. These items were partially offset by decreases in accrued liabilities and accounts payable. 
+
+Net cash provided by investing activities was $680.2 million during fiscal 2020 as compared to net cash used in investing activities of $690.5 million in fiscal 2019. Net cash provided by investing activities during fiscal 2020 consisted of $1.29 billion of net proceeds of available-for-sale and equity securities, which were partially offset by $454.7 million of net cash paid in connection with the acquisitions, $129.3 million of purchases of property, plant and equipment and software and $27.8 million of other investing activities.
+
+Net cash used in financing activities was $1.64 billion in fiscal 2020, as compared to $1.04 billion in fiscal 2019. Net cash used in financing activities during fiscal 2020 consisted of $1.21 billion of payment to repurchase common stock, $371.8 million of dividend payments to stockholders and $80.7 million of taxes paid related to net share settlement of restricted stock units, which were partially offset by $53.3 million from issuance of common stock under employee stock plans.
+
+Accounts Receivable
+
+Accounts receivable decreased by $62.1 million and days sales outstanding (DSO) decreased to 31 days at March 28, 2020 from 40 days at March 30, 2019. The decrease in accounts receivable was primarily due to strong collections during the year as well as timing of customer shipments. Our accounts receivable was primarily current. 
+
+Inventories
+
+Inventories decreased to $304.3 million as of March 28, 2020 from $315.4 million as of March 30, 2019, while inventory days at Xilinx decreased to 106 days at March 28, 2020 from 120 days at March 30, 2019. We attempt to maintain sufficient levels of inventory in various product, package and speed configurations in order to keep lead times short and to meet forecasted customer demand as well as address potential supply constraints. Conversely, we also attempt to minimize the handling costs associated with maintaining higher inventory levels and to fully realize the opportunities for cost reductions associated with architecture and manufacturing process advancements. We continually strive to balance these two objectives to provide excellent customer response at a competitive cost.
+
+Property, Plant and Equipment and Software
+
+During fiscal 2020, we invested $129.3 million in property, plant and equipment and other intangibles, as compared to $89.0 million in fiscal 2019. Primary investments in fiscal 2020 were for machinery and equipment, building improvements, software, computer equipment and equipment related to the support of our new products development and infrastructures.
+
+Current Liabilities
+
+Current liabilities increased to $1.09 billion at the end of fiscal 2020 from $475.0 million at the end of fiscal 2019. The changes were primarily due to the reclassification of the short-term portion of the long-term debt, as our 2021 Notes of $499.3 million will mature in March 2021, as well as an increase of $135.1 million in our other accrued liabilities. These increases were partially offset by decreases of $15.8 million in accrued payroll and related liabilities and $15.4 million in accounts payable.
+
+42
+Stockholders' Equity
+
+Stockholders' equity decreased $546.5 million to $2.32 billion during fiscal 2020 from $2.86 billion in fiscal 2019. The decrease was primarily due to repurchase of common stock of approximately $1.21 billion and $371.8 million of payment of dividends to stockholders, partially offset by $792.7 million in net income for fiscal 2020, $186.7 million of stock-based compensation and $81.9 million of additional tax benefit recognized relating to fiscal 2014 redemption of convertible debt.
+
+Fiscal 2019 Compared to Fiscal 2018
+
+For discussion related to the results of operations and liquidity and capital resources for fiscal 2019 compared to fiscal 2018, please refer to Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" included in our Form 10-K for the year ended March 30, 2019 filed with the SEC.
+
+Liquidity and Capital Resources
+
+To date, COVID-19 has not had a significant impact on our liquidity, cash flows or capital resources. However, the continued spread of COVID-19 has led to disruption and volatility in the global capital markets, which, depending on future developments, could impact our capital resources and liquidity in the future. 
+
+Cash generated from operations is used as our primary source of liquidity and capital resources. Our investment portfolio is also available for future cash requirements as is our $400.0 million revolving credit facility entered into in December 2016 (expiring in December 2021). We are not aware of any lack of access to the revolving credit facility; however, we can provide no assurance that access to the credit facility will not be impacted by adverse conditions in the financial markets. Our credit facility is not reliant upon a single bank. There have been no borrowings to date under our existing revolving credit facility.
+
+We repurchased 12.9 million shares of our common stock for approximately $1.21 billion during fiscal 2020. During fiscal 2019, we repurchased 2.4 million shares of common stock for approximately $161.6 million. During fiscal 2020, we paid $371.8 million in cash dividends to stockholders, representing $1.48 per common share. During fiscal 2019, we paid $364.2 million in cash dividends to stockholders, representing $1.44 per common share. On April 20, 2020, our Board of Directors declared a cash dividend of $0.38 per common share for the first quarter of fiscal 2021. The dividend is payable on June 3, 2020 to stockholders of record as of May 13, 2020. Our common stock and debentures repurchase program and dividend policy could be impacted by, among other items, our views on potential future capital requirements relating to R&D, investments and acquisitions, legal risks, principal and interest payments on our debentures and other strategic investments.
+
+We anticipate that existing sources of liquidity and cash flows from operations will be sufficient to satisfy our cash needs for the foreseeable future. We will continue to evaluate opportunities for investments to obtain additional wafer capacity, to procure additional capital equipment and facilities, to develop new products, and to potentially acquire technologies or businesses that could complement our business. However, certain risks and other factors, including those discussed in Item 1A and below, could affect our cash positions adversely. 
+
+Contractual Obligations
+
+The following table summarizes our significant contractual obligations as of March 28, 2020 and the effect such obligations are expected to have on our liquidity and cash flows in future periods. 
+
+43
+[DATA_TABLE_REMOVED]
+
+(1)Due to the nature of our business, we depend entirely upon subcontractors to manufacture our silicon wafers and provide assembly and some test services. The lengthy subcontractor lead times require us to order the materials and services in advance, and we are obligated to pay for the materials and services when completed. We expect to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications.
+
+[DATA_TABLE_REMOVED]
+
+(3)Operating lease obligations represent undiscounted lease payments under non-cancelable leases as of March 28, 2020. See "Note 8. Leases and Commitments" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about our operating lease obligations.
+
+(4)For purposes of this table we have assumed the outstanding principal of our debentures will be paid on maturity dates, March 15, 2021 for the 2021 Notes and June 1, 2024 for the 2024 Notes. See "Note 12. Debt and Credit Facility" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for additional information about our debentures.
+
+(5)Other long-term liabilities primarily represent future fixed and non-cancellable cash payments associated with software license contracts, including the payments due within the next 12 months.
+
+(6)Tax obligations represent future cash payments related to the one-time transition tax that resulted from the enactment of the TCJA. See “Note 14. Income Taxes” to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data.” 
+
+As of March 28, 2020, $447.4 million of liabilities were classified as long-term income taxes payable in the consolidated balance sheets. Of the $447.4 million, $410.2 million was the estimated long-term portion of the one-time transition tax that resulted from the enactment of the TCJA offset by $3.7 million of adjustments from amended returns. The remaining $40.9 million of the long-term income taxes payable was for uncertain tax positions and related interest and penalties. 
+
+Off-Balance-Sheet Arrangements
+
+As of March 28, 2020, we did not have any significant off-balance-sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
+
+Recent Accounting Pronouncements
+
+See "Note 2. Summary of Significant Accounting Policies and Concentrations of Risk" to our consolidated financial statements, included in Item 8. "Financial Statements and Supplementary Data," for information about recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements.
+
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

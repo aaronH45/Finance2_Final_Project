@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000908255",
+    "sec_company_name": "BORGWARNER INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180116",
+    "sec_filing_date": "20180117",
+    "sec_changed_date": "20180117",
+    "sec_accepted_date": "20180117090141",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/908255/000090825518000007/0000908255-18-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/908255/000090825518000007/0000908255-18-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\BWA_0000908255_EX991_20180116_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "25117 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4824,
+    "endpoints": [
+        "Exhibit   ",
+        "Statements contained in this news release may contain forward-looking statements as contemplated by the 1995 Private Securities Litigation Reform Act that are based on management’s current expectations, estimates and projections. Words such as “outlook,” 'expects,' 'anticipates,' 'intends,' 'plans,' 'believes,' 'estimates,' variations of such words and similar expressions are intended to identify such forward-looking statements. Forward-looking statements are subject to risks and uncertainties, many of which are difficult to predict and generally beyond our control, that could cause actual results to differ materially from those expressed, projected or implied in or by the forward-looking statements. Such risks and uncertainties include: fluctuations in domestic or foreign vehicle production, the continued use of outside suppliers, fluctuations in demand for vehicles containing our products, changes in general economic conditions, and other risks detailed in our filings with the Securities and Exchange Commission, including the Risk Factors, identified in our most recently filed Annual Report on Form 10-K. We do not undertake any obligation to update any forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BWA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\BWA_0000908255_EX991_20180116_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:23.946417"
+}

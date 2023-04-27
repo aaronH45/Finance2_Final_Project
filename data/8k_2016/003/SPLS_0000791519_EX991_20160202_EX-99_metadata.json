@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000791519",
+    "sec_company_name": "STAPLES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160202",
+    "sec_filing_date": "20160202",
+    "sec_changed_date": "20160202",
+    "sec_accepted_date": "20160202172459",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/791519/000110465916093302/0001104659-16-093302-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/791519/000110465916093302/0001104659-16-093302.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\SPLS_0000791519_EX991_20160202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15930 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7436,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Statements in this document regarding the proposed transaction between Staples and Office Depot, the expected timetable for satisfying conditions to the merger, including receiving regulatory approvals, and completing the transaction, future financial and operating results, benefits and synergies of the transaction, future opportunities for the combined company and any other statements about Staples or Office Depot managements’ future expectations, beliefs, goals, plans or prospects constitute forward looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any statements that are not statements of historical fact (including statements containing “believes,” “anticipates,” “plans,” “expects,” “may,” “will,” “would,” “intends,” “estimates” and similar expressions) should also be considered to be forward looking statements. There are a number of important factors that could cause actual results or events to differ materially from those indicated by such forward looking statements, including: the ability to consummate the transaction; the risk that regulatory approvals required for the merger are not obtained or are obtained after delays or subject to conditions that are not anticipated; the risk that the financing required to fund the transaction is not obtained; the risk that the other conditions to the closing of the merger are not satisfied; potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement or completion of the merger; uncertainties as to the timing of the merger; competitive responses to the proposed merger; response by activist shareholders to the merger; uncertainty of the expected financial performance of the combined company following completion of the proposed transaction; the ability to successfully integrate Staples’ and Office Depot’s operations and employees; the ability to realize anticipated synergies and cost savings; unexpected costs, charges or expenses resulting from the merger; litigation relating to the merger; the outcome of pending or potential litigation or governmental investigations; the inability to retain key personnel; any changes in general economic and/or industry specific conditions; and the other factors described in Staples’ Annual Report on Form 10-K for the year ended January 31, 2015 and Office Depot’s Annual Report on Form 10-K for the year ended December 27, 2014 and their most recent Quarterly Reports on Form 10-Q each filed with the SEC. Staples and Office Depot disclaim any intention or obligation to update any forward looking statements as a result of developments occurring after the date of this document."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPLS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\SPLS_0000791519_EX991_20160202_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:49:01.155273"
+}

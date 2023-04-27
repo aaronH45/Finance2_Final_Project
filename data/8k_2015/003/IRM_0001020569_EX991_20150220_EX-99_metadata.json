@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001020569",
+    "sec_company_name": "IRON MOUNTAIN INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150220",
+    "sec_filing_date": "20150220",
+    "sec_changed_date": "20150220",
+    "sec_accepted_date": "20150220060454",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1020569/000110465915012310/0001104659-15-012310-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1020569/000110465915012310/0001104659-15-012310.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\IRM_0001020569_EX991_20150220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "102531 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 60842,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "     Appendix 35 Definitions (continued) Lease Adjusted Leverage Ratio – The calculation for this ratio is EBITDA plus rent expense divided by net debt including the capitalized value of lease obligations. Net Volume Growth – New Records Management storage volume from existing customers, plus volume from new customers and volume from acquisitions, offset by volume related to destructions, permanent withdrawals and customer terminations. Quarterly percentages are calculated by dividing the trailing four quarters’ total activity by the ending balance of the same prior-year period. Non-Cash Rent Expense – Calculated as rent expense less cash paid for rent. Permanent Withdrawal Rate – Calculated by dividing the total number of cubic feet of records removed from inventory due to permanent withdrawals in a one-year period divided by the total number of cubic feet of records in storage at the beginning of the period. Permanent withdrawals occur when records are permanently removed from inventory by customers for reasons other than the customer terminating its relationship. Racking Investment – The cumulative sum of investment to date for all approved racking projects in progress. REIT Costs – Includes costs associated with our 2011 proxy contest, the previous work of the former Strategic Review Special Committee of the board of directors and costs associated with the Company’s conversion to a REIT, excluding REIT compliance costs beginning January 1, 2014 which we expect to recur in future periods. REIT Countries – Countries where we operate that have been converted into a Qualified REIT Subsidiary and Taxable REIT Subsidiary structure, the group includes the following: Australia, Canada, Germany, Ireland, Mexico, Netherlands, Spain, United Kingdom and the United States. Regional NOI / CF or DPU – The average expected NOI for a specific region (NA, Europe, Latin America, Asia Pac) and product (Records Management or Data Protection). Tangible Assets – Includes PP&E, cash and cash equivalents, restricted cash, accounts receivable, deferred income taxes, and prepaid expenses. Volume Retention Rate – One minus the result of dividing the total number of cubic feet of records removed from inventory due to customer terminations in a one-year period by the total number of cubic feet of records in storage at the beginning of the period."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IRM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\IRM_0001020569_EX991_20150220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:44.102137"
+}

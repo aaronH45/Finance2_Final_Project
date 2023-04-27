@@ -1,0 +1,69 @@
+xml version="1.0" encoding="ASCII"?        
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+ FORM 8-K 
+
+ CURRENT REPORT 
+
+ Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ Date of Report: February 25, 2022 
+
+ (Date of earliest event reported) 
+
+ [DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+  ☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)   
+
+  ☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)   
+
+  ☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+  ☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))   
+
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+ [DATA_TABLE_REMOVED]
+
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+ [DATA_TABLE_REMOVED]
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+   PG&E Corporation     ☐    
+
+   Pacific Gas and Electric Company     ☐    
+
+ Item 8.01 Other Events 
+
+On February 25, 2022, Pacific Gas and Electric Company (the “Utility”), a subsidiary of PG&E Corporation, submitted supplemental testimony (the “Supplemental Testimony”) for its 2023 General Rate Case (“GRC”) application to reflect the Utility’s integrated wildfire mitigation strategy, including the Utility’s proposals for the initial phase of undergrounding 10,000 miles of electric distribution powerlines in high fire risk areas throughout the Utility’s service area, the Enhanced Powerline Safety Settings (“EPSS”) program, and its vegetation management program. The Supplemental Testimony amends the revenue requirement request in the Utility’s original 2023 GRC application, which was filed on June 30, 2021 (the “Original Application”). 
+
+ The Utility’s updated revenue requirement request for the 2023 test year reduced its prior request from $15.46 billion to $15.34 billion. The following table compares the requested revenue requirement increase in the Supplemental Testimony with the requested revenue requirement increase in Original Application for the period of 2023 to 2026: 
+
+ [DATA_TABLE_REMOVED]
+
+ In the Supplemental Testimony, the Utility requested that the CPUC approve an additional $6.93 billion in undergrounding capital expenditures over the period of 2023 to 2026. The Supplemental Testimony also included a request for $572 million in expense over the period of 2023 to 2026 for the EPSS program, which was not included in the Original Application. Additionally, the Supplemental Testimony reduced the Original Application’s request for vegetation management program expenses by approximately $1.0 billion over the period of 2023 to 2026. The revised revenue requirement sought in the Supplemental Testimony excludes certain recorded costs for wildfire mitigation and gas safety work that the Utility intends to seek in a second track of this proceeding.  
+
+ The following table compares the requested weighted-average rate base in the Supplemental Testimony with the requested weighted-average rate base in Original Application for the period of 2023 to 2026: 
+
+ [DATA_TABLE_REMOVED]
+
+ SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrants have duly caused this report to be signed on their behalf by the undersigned thereunto duly authorized. 
+
+ [DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+  false 0001004980 0000075488 false false false false     0001004980   2021-12-06 2021-12-06    0001004980  pcg:PacificGasAndElectricCompanyMember    2021-12-06 2021-12-06    0001004980  pcg:CommonStockNoParValueMember    2021-12-06 2021-12-06    0001004980  pcg:EquityUnitsMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5SeriesARedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5RedeemableMember     2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare480RedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare450RedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare436SeriesARedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare6NonredeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare550NonredeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5NonredeemableMember    2021-12-06 2021-12-06

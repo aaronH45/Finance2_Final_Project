@@ -1,0 +1,103 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+   false 0000732717        0000732717   2021-02-25 2021-02-25     0000732717  us-gaap:CommonStockMember    2021-02-25 2021-02-25     0000732717  us-gaap:SeriesAPreferredStockMember    2021-02-25 2021-02-25     0000732717  us-gaap:SeriesCPreferredStockMember    2021-02-25 2021-02-25     0000732717  t:AttInc.1.875GlobalNotesDueDecember420206Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.650GlobalNotesDueDecember1720211Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.450GlobalNotesDueJune1202210Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.500GlobalNotesDueMarch152023Member17Member    2021-02-25 2021-02-25     0000732717  t:ATTInc2750GlobalNotesDueMay192023Member    2021-02-25 2021-02-25     0000732717  t:ATTIncFloatingRateGlobalNotesDueSeptember52023Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.050GlobalNotesDueSeptember52023Member25Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.300GlobalNotesDueSeptember5202318Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.950GlobalNotesDueSeptember15202319Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.400GlobalNotesDueMarch15202411Member    2021-02-25 2021-02-25     0000732717  t:AttInc.3.500GlobalNotesDueDecember1720252Member    2021-02-25 2021-02-25     0000732717  t:AttInc.0.250GlobalNotesDueMarch4202612Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.800GlobalNotesDueSeptember5202620Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.900GlobalNotesDueDecember420263Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.350GlobalNotesDueSeptember5202921Member    2021-02-25 2021-02-25     0000732717  t:AttInc.4.375GlobalNotesDueSeptember14202922Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.600GlobalNotesDueDecember1720294Member    2021-02-25 2021-02-25     0000732717  t:AttInc.0.800GlobalNotesDueMarch4203013Member    2021-02-25 2021-02-25     0000732717  t:AttInc.3.550GlobalNotesDueDecember1720325Member    2021-02-25 2021-02-25     0000732717  t:AttInc.5.200GlobalNotesDueNovember182033Member27Member    2021-02-25 2021-02-25     0000732717  t:AttInc.3.375GlobalNotesDueMarch15203414Member    2021-02-25 2021-02-25     0000732717  t:AttInc.2.450GlobalNotesDueMarch15203515Member    2021-02-25 2021-02-25     0000732717  t:AttInc.3.150GlobalNotesDueSeptember4203623Member    2021-02-25 2021-02-25     0000732717  t:AttInc.1.800GlobalNotesDueSeptember14203924Member    2021-02-25 2021-02-25     0000732717  t:ATTInc7000GlobalNotesDueApril302040Member    2021-02-25 2021-02-25     0000732717  t:AttInc.4.250GlobalNotesDueJune120437Member    2021-02-25 2021-02-25     0000732717  t:AttInc.4.875GlobalNotesDueJune120448Member    2021-02-25 2021-02-25     0000732717  t:AttInc.4.000GlobalNotesDueJune120499Member    2021-02-25 2021-02-25     0000732717  t:AttInc.4.250GlobalNotesDueMarch1205016Member    2021-02-25 2021-02-25     0000732717  t:AttInc.5.350GlobalNotesDueNovember1206626Member    2021-02-25 2021-02-25     0000732717  t:ATTInc5625GlobalNotesDueAugust12067Member    2021-02-25 2021-02-25      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of report (Date of earliest event reported): February 25, 2021 
+
+AT&T INC. 
+
+(Exact Name of Registrant as Specified in Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code (210) 821-4105 
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities Registered Pursuant to Section 12(b) of the Act 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ ITEM 1.01  
+
+Entry into a Material Definitive Agreement.  
+
+On February 25, 2021, AT&T Inc. (the “Company”) announced that AT&T Services, Inc., a Delaware corporation and a wholly owned subsidiary of the Company (“Services”), entered into an Agreement of Contribution and Subscription, dated February 25, 2021 (the “Contribution Agreement”), among (i) Services, (ii) V HoldCo LLC, a Delaware limited liability company and a wholly owned subsidiary of the Company (“AT&T HoldCo”), (iii) V OpCo LLC, a Delaware limited liability company (“New DTV”) and (iv) TPG VIII Merlin Investment Holdings, L.P., a Delaware limited partnership (“Investor”).  
+
+Pursuant to, and subject to the terms and conditions set forth in, the Contribution Agreement, among other matters, Services will cause the contribution of the U.S. video business unit of the Company and its subsidiaries, consisting of the DIRECTV, AT&T TV and U-verse video services (but excluding U-verse network assets) (collectively, the “Video Business”), to New DTV for $4.25 billion of junior preferred units (with a 6.5% payment-in-kind coupon), an additional distribution preference of $4.2 billion and a 70% economic interest in common units of New DTV. Services will receive $7.6 billion in cash from New DTV at closing, of which $5.8 billion will be funded by committed debt financing taken on by New DTV. Investor will contribute cash in an amount of $1.8 billion to New DTV, subject to customary purchase price adjustments, in exchange for $1.8 billion of senior preferred units (with a 10% cash coupon) and a 30% economic interest in common units of New DTV. In addition, approximately $200 million of existing public debt of the Video Business will remain with New DTV. The Company has agreed, as between the Company and New DTV, to pay net losses under the NFL Sunday Ticket contract following closing up to a cap of $2.5 billion over the remaining period of the contract.  
+
+The Contribution Agreement contains customary representations and warranties of Services, AT&T HoldCo, New DTV and the Video Business, generally subject to materiality qualifiers. Additionally, the Contribution Agreement provides for customary pre-closing covenants of New DTV and the Video Business, including covenants relating to the conduct of the Video Business in the ordinary course consistent with past practice and to refrain from taking certain actions without Investor’s consent and covenants not to solicit proposals relating to alternative transactions.  
+
+Consummation of the transaction is subject to various conditions as set forth in the Contribution Agreement. Services’ obligation to consummate the transaction is conditioned on specified regulatory clearances (“Regulatory Approvals”) without any condition or restriction that would, among other things, result in a NewCo Substantial Detriment or an AT&T Substantial Detriment (each as defined in the Contribution Agreement). Investor’s obligation to consummate the transaction is conditioned on the receipt of Regulatory Approvals without any condition or restriction that would, among other things, result in a NewCo Substantial Detriment or an Investor Substantial Detriment (each as defined in the Contribution Agreement) and the Video Business not having suffered a Material Adverse Effect (as defined in the Contribution Agreement). Further, the obligation of each party to consummate the transaction is also conditioned upon (i) the receipt of proceeds of the committed debt financing (which is subject to customary conditions precedent) and (ii) the other party’s representations and warranties being true and correct (subject to certain materiality exceptions) and the other party having performed in all material respects its obligations under the Contribution Agreement. The committed debt financing contemplates (i) a senior secured term loan facility of up to $4 billion, (ii) a senior secured revolving facility of up to $500 million and (iii) a senior secured bridge facility of up to $2.2 billion to New DTV.  
+
+The Contribution Agreement also provides for certain termination rights of Services and Investor, including the right of either party to terminate the Contribution Agreement if the transaction is not consummated by November 25, 2021, subject to extension in certain cases to a date no later than May 25, 2022.  
+
+The foregoing summary of the Contribution Agreement does not purport to be complete and is qualified in its entirety by the full text of the Contribution Agreement, which is attached hereto as Exhibit 10.1, and is incorporated herein by reference.  
+
+The Contribution Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about the Company, Investor, their respective subsidiaries or affiliates. The representations, warranties and covenants contained in the Contribution Agreement were made only for purposes of the Contribution Agreement and as of specific dates, were solely for the benefit of the parties to the Contribution Agreement, may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Contribution Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under the Contribution Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Contribution Agreement, which subsequent information may or may not be fully reflected in the Company’s public disclosures.  
+
+ ITEM 8.01  
+
+Other Events.   
+
+On February 25, 2021, the Company and Investor issued a joint press release announcing the execution of the Contribution Agreement and the transactions contemplated thereby. A copy of such press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.   
+
+CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS  
+
+Information set forth in this filing contains forward-looking statements that are subject to risks and uncertainties, including statements relating to the transaction. A discussion of factors that may affect future results is contained in the Company’s filings with the Securities and Exchange Commission.  
+
+The Company disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise.  
+
+ ITEM 9.01  
+
+Financial Statements and Exhibits.  
+
+(d) Exhibits  
+
+ 10.1   Agreement of Contribution and Subscription, dated February 25, 2021, among Services, HoldCo, New DTV and Investor  
+
+ 99.1   Press Release, dated February 25, 2021, jointly issued by the Company and Investor  
+
+ 104   Cover Page Interactive Data File (embedded within the Inline XBRL document)   
+
+Signature  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

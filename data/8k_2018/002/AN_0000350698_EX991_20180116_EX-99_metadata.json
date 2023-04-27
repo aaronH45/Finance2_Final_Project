@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000350698",
+    "sec_company_name": "AUTONATION, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180116",
+    "sec_filing_date": "20180116",
+    "sec_changed_date": "20180116",
+    "sec_accepted_date": "20180116062554",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/350698/000035069818000023/0000350698-18-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/350698/000035069818000023/0000350698-18-000023.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\AN_0000350698_EX991_20180116_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14746 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6789,
+    "endpoints": [
+        "Exhibit   ",
+        "This news release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements. Words such as “anticipates,” “expects,” “intends,” “goals,” “plans,” “believes,” “continues,” “may,” “will,” “could,” and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements regarding the impact of tax reform in the United States and our expectations for future results, as well as other statements that describe our objectives, goals, or plans, are forward-looking statements. Our forward-looking statements reflect our current expectations concerning future results and events, and they involve known and unknown risks, uncertainties, and other factors that are difficult to predict and may cause our actual results, performance or achievements to be materially different from any future results, performance, and achievements expressed or implied by these statements. These risks, uncertainties and other factors include, among others: economic conditions, including conditions in the credit markets and changes in interest rates; new and used vehicle margins; the success and financial viability and the incentive and marketing programs of vehicle manufacturers and distributors with which we hold franchises; our ability to successfully implement, and customer adoption of, our brand extension strategies; our ability to identify, acquire, and build out suitable locations in a timely manner; our ability to maintain and enhance our retail brands and reputation and to attract consumers to our own digital channels; new or increased taxes or tariffs; changes in rules affecting deferred tax assets or liabilities; the preliminary nature of the Company’s forecasts; our ability to integrate successfully acquired and awarded franchises and to attain planned sales volumes within our expected time frames; restrictions imposed by vehicle manufacturers and our ability to obtain manufacturer approval for acquisitions; natural disasters and other adverse weather events; the resolution of legal and administrative proceedings; regulatory factors affecting our business, including fuel economy requirements; the announcement of safety recalls; factors affecting our goodwill and other intangible asset impairment testing; and other factors described in our news releases and filings made under the securities laws, including, among others, our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K. Forward-looking statements contained in this news release speak only as of the date of this news release, and we undertake no obligation to update these forward-looking statements to reflect subsequent events or circumstances."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\AN_0000350698_EX991_20180116_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:21:32.575845"
+}

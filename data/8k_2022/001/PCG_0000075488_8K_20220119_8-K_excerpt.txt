@@ -1,0 +1,65 @@
+xml version="1.0" encoding="ASCII"?        
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+ FORM 8-K 
+
+ CURRENT REPORT 
+
+ Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ Date of Report: January 19, 2022 
+
+ (Date of earliest event reported) 
+
+ [DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+   ☐      Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)    
+
+   ☐      Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)    
+
+   ☐      Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)    
+
+   ☐      Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))    
+
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+ [DATA_TABLE_REMOVED]
+
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+ [DATA_TABLE_REMOVED]
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+   PG&E Corporation     ☐    
+
+   Pacific Gas and Electric Company     ☐    
+
+ Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers 
+
+On January 19, 2022, the People and Compensation Committee of the PG&E Corporation Board of Directors (the “Committee”) adopted the PG&E Corporation Short-Term Incentive Plan (the “STIP”), under which officers and employees of PG&E Corporation and Pacific Gas and Electric Company (the “Utility”) (together, the “Companies”) and their subsidiaries are eligible to receive incentive-based cash compensation based on selected metrics that are designed to align their interests with those of PG&E Corporation and the Utility. Pursuant to the STIP, the Committee or its delegate will have the discretionary authority to administer the STIP, including granting awards consistent with the terms of the STIP to the Companies’ executive officers. The STIP sets parameters for the Committee (or its delegates) to determine, among other things, eligibility to participate in the STIP, the payout value of STIP awards, and the treatment of STIP awards upon various termination events.
+
+ Item 9.01 Financial Statements and Exhibits  
+
+ The following exhibits are filed with this Current Report on Form 8-K: 
+
+ [DATA_TABLE_REMOVED]
+
+ SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrants have duly caused this report to be signed on their behalf by the undersigned thereunto duly authorized. 
+
+ [DATA_TABLE_REMOVED]
+
+ [DATA_TABLE_REMOVED]
+
+  false 0001004980 0000075488     0001004980   2021-12-06 2021-12-06    0001004980  pcg:PacificGasAndElectricCompanyMember    2021-12-06 2021-12-06    0001004980  pcg:CommonStockNoParValueMember    2021-12-06 2021-12-06    0001004980  pcg:EquityUnitsMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5SeriesARedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5RedeemableMember     2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare480RedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare450RedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare436SeriesARedeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare6NonredeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare550NonredeemableMember    2021-12-06 2021-12-06    0001004980  pcg:FirstPreferredStockCumulativeParValue25PerShare5NonredeemableMember    2021-12-06 2021-12-06

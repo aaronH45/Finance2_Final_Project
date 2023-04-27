@@ -1,0 +1,235 @@
+ITEM 1. BUSINESS
+
+Changes From Prior Periodic Reports
+
+In this report we have complied with the disclosures required by the Securities and Exchange Commission ("SEC") release No. 33-10825 "Modernization of Regulation S-K Items 101, 103, and 105" and we have early adopted the changes in disclosure standards included in SEC release No. 33-10890 "Management's Discussion and Analysis, Selected Financial Data, Supplementary Financial Information."
+
+Modernization of Regulation S-K Items 101, 103 and 105
+
+Effective as of November 9, 2020, the SEC issued Release No. 33-10825, “Modernization of Regulation S-K Items 101, 103, and 105”. This release was adopted to modernize the description of business, legal proceedings, and risk factor disclosures that registrants are required to make pursuant to Regulation S-K. Specifically, this release requires registrants to provide disclosures relating to their human capital resources and to restructure their risk factor disclosures. Additionally, the release increases the threshold for disclosure of environmental proceedings to which the government is a party.
+
+These changes are required for any annual period subsequent to the effective date of November 9, 2020. As such, we have adopted these changes in this report.
+
+5
+
+Management’s Discussion and Analysis, Selected Financial Data, and Supplementary Financial Information
+
+In November 2020, the SEC issued Release No. 33-10890, “Management’s Discussion and Analysis, Selected Financial Data, and Supplementary Financial Information” which will become fully effective on August 9, 2021, with voluntary compliance permitted on or after February 10, 2021. This release was adopted to modernize, simplify, and enhance certain financial disclosure requirements in Regulation S-K. Specifically, the SEC eliminated the requirement for selected financial data, only requiring quarterly disclosure when there are retrospective changes affecting comprehensive income, and amending the matters required to be presented under Management’s Discussion and Analysis (“MD&A”) to, among other things, eliminate the requirement of the contractual obligations table.
+
+With our early adoption of this release, we have eliminated from this document the items discussed above that are no longer required. Information on our contractual obligations is still disclosed in a narrative within the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7 of Part II of this report.
+
+Overview
+
+We are an international facilities-based technology and communications company focused on providing our customers with a broad array of integrated services and solutions necessary to fully participate in our rapidly evolving digital world, which we believe is undergoing the “Fourth Industrial Revolution” or simply the “4IR”. As a part of Lumen Technologies, our platform empowers our customers to rapidly adjust digital programs to meet immediate demands, create efficiencies, accelerate market access, and reduce costs – allowing customers to rapidly evolve their information, communications and technology (ICT) programs to address dynamic changes without distraction from their core competencies. Our specific products and services are detailed below under the heading "Operations - Products and Services."
+
+Our terrestrial and subsea fiber optic long-haul network throughout North America, Europe, Latin America and Asia Pacific connects to metropolitan fiber networks that we operate. We provide services in over 60 countries, with most of our revenue being derived in the United States ("U.S."). We believe our and Lumen's secure global platform plays a central role in facilitating communications worldwide.
+
+In September 2020, Lumen launched its “Lumen Technologies” brand signaling our heightened focus on delivering digital experiences to our customers designed to drive their success. We and Lumen believe the 4IR will usher in unprecedented opportunity to leverage digital interactions to enhance business outcomes. The demands brought on by the COVID-19 pandemic underscored the urgency for digital transformation across our customer base, and further heightened the need for reliable, secure services. Lumen’s new brand communicates our and Lumen’s commitment to support our customers' needs, and reflects a fiber platform that is secure, reliable and fast. Our capabilities are grounded in our extensive global fiber infrastructure and our innovation efforts are centered around accelerating our and Lumen’s platform’s capabilities to anticipate and address those needs.
+
+We were incorporated under the laws of the State of Delaware in 1941. Our principal executive offices are located at 1025 Eldorado Boulevard, Broomfield, CO 80021 and our telephone number is (720) 888-1000.
+
+For a discussion of certain risks applicable to our business, see "Risk Factors" in Item 1A of Part I of this report. The summary financial information in this Item 1 should be read in conjunction with, and is qualified by reference to, our consolidated financial statements and notes thereto in Item 8 of Part II of this report and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report.
+
+6
+
+Financial Highlights
+
+The following table summarizes the results of our consolidated operations:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+(1)During the years ended December 31, 2020, 2019 and 2018, we incurred Lumen Technologies integration and transformation expenses of $117 million, $82 million and $121 million, respectively.
+
+(2)During 2019, we recorded a non-cash, non-tax-deductible goodwill impairment charge of $3.7 billion. For additional information, see Note 2—Goodwill, Customer Relationships and Other Intangible Assets to our consolidated financial statements in Item 8 of Part II of this report.
+
+(3)The enactment of the Tax Cuts and Jobs Act in December 2017 resulted in a re-measurement of our deferred tax assets and liabilities at the new federal corporate tax rate of 21%. The re-measurement resulted in a tax expense of $92 million for 2018.
+
+The following table summarizes certain selected financial information from our consolidated balance sheets:
+
+[DATA_TABLE_REMOVED]
+
+_______________________________________________________________________________
+
+(1)For additional information on our long-term debt, see Note 6—Long-Term Debt to our consolidated financial statements in Item 8 of Part II of this report. For information on our total obligations, see "Management's Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Future Contractual Obligations" in Item 7 of Part II of this report.
+
+We estimate that during 2020, approximately 19% of our consolidated revenue was derived from providing telecommunications, colocation and hosting services outside the United States. The summary financial information appearing above should be read in conjunction with, and is qualified by reference to, our consolidated financial statements and notes thereto in Item 8 of Part II of this report and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7 of Part II of this report.
+
+Operations
+
+Products and Services
+
+While most of our customized interactions with customers involve multiple integrated technologies and services, we organize our products and services according to the core technologies that drive them. At December 31, 2020, we categorized our services as follows: IP and data services, transport and infrastructure, voice and collaboration, other revenue and affiliate revenue.
+
+IP and Data Services
+
+•VPN Data Network. Built on our extensive fiber-optic network, we create private networks tailored to our customers’ needs. These technologies enable service providers, enterprises and government entities to streamline multiple networks into a single, cost-effective solution that simplifies the transmission of voice, video, and data over a single secure network; 
+
+7
+
+•Ethernet. We deliver a robust array of networking services built on Ethernet technology. Ethernet services include point-to-point and multi-point equipment configurations that facilitate data transmissions across metropolitan areas and larger enterprise-class wide area networks. Our Ethernet technology is also used by wireless service providers for data transmission via our fiber-optic cables connected to their towers;
+
+•Internet Protocol ("IP"). Our IP services provide global internet access over a high performance, diverse network with connectivity in more than 60 countries; and
+
+•Content Delivery. Our content delivery services provide our customers with the ability to meet their streaming video and far-reaching digital content distribution needs through our Content Delivery Network ("CDN") services and our Vyvx Broadcast Solutions.
+
+Transport and Infrastructure
+
+•Wavelength. We deliver high bandwidth optical networks to firms requiring an end-to-end transport solution with Ethernet technology by contracting for a scalable amount of bandwidth connecting sites or providing high-speed access to cloud computing resources; 
+
+•Colocation and Data Center Services. We provide different options for organizations’ data center needs. Our data center services range from dedicated hosting and cloud services to more complex managed solutions, including disaster recovery, business continuity, applications management support and security services to manage mission critical applications; 
+
+•Dark Fiber. We possess an extensive array of unlit optical fiber, known as “dark fiber.” Many large enterprises are interested in building their networks with this high-bandwidth, highly secure optical technology. We provide professional services to engineer these networks, and in some cases manage them for customers;
+
+•Private Line. We deliver private line services, a direct circuit or channel specifically dedicated for connecting two or more organizational sites. Private line service offers a high-speed, secure solution for frequent transmission of large amounts of data between sites, including wireless backhaul transmissions; and
+
+•Professional Services. Our experts deliver a robust array of consulting services to organizations either as part of a larger engagement or as stand-alone services. This category includes network management, installation and maintenance of data equipment and the building of proprietary fiber-optic broadband networks for government and business customers.
+
+Voice and Collaboration
+
+•Voice. We offer our customers a complete portfolio of traditional Time Division Multiplexing (TDM) voice services including Primary Rate Interface (PRI) service, local inbound service, switched one-plus, toll free, long distance and international services;
+
+•Voice Over Internet Protocol (VoIP). We deliver a broad range of local and enterprise voice and data services built on VoIP technology, including VoIP enhanced local service, national and multinational SIP Trunking, Hosted VoIP, support of PRI service, long distance service, and toll-free service; and
+
+•Collaboration. We deliver collaboration capabilities partnered with leading technology providers, including Cisco, Microsoft, and Amazon. Collaboration elements (audio, video, web) are seamlessly integrated providing a simple solution that is easy to manage as businesses grow and change. Our expertise and ongoing partnership with technology leaders provides enterprises with the flexibility to select and adopt the right solution and latest innovation.
+
+8
+
+Other revenue
+
+•Other. Other revenue includes sublease rental income, information technology (IT) services and managed services, which may be purchased in conjunction with our other network services.
+
+Affiliate revenue
+
+•Affiliate Services. We provide our affiliates certain telecommunication services that we also provide to external customers. Please see our products and services listed above for further description of these services. 
+
+From time to time, we may change the categorization of our products and services.
+
+Our Network 
+
+Our and Lumen's network, through which we provide most of our products and services primarily consists of our fiber-optic cables. We operate part of our network with leased assets, and a substantial portion of our equipment with licensed software. 
+
+We and Lumen view our network as one of our most critical assets. We and Lumen have devoted, and plan to continue to devote, substantial resources to (i) simplify and modernize our network and legacy systems and (ii) expand our network to address demand for enhanced or new products.
+
+Although we or Lumen own most of our network, we lease a substantial portion of our core fiber network from several other communication companies under arrangements that will periodically need to be renewed or replaced to support our current network operations.
+
+Like other large communications companies, we are a constant target of cyber-attacks of various degrees, and from time to time in the ordinary course of our business we experience disruption in our services.
+
+For additional information regarding our systems, network assets, network risks, capital expenditure requirements and reliance upon third parties, see "Risk Factors" in Item 1A of Part I of this report.
+
+Sales and Marketing
+
+Our enterprise sales and marketing approach revolves around solving complex customer problems with advanced technology and network solutions - striving to make core networks services compatible with digital tools. We also rely on our call center personnel and a variety of channel partners to promote sales of services that meet the needs of our customers. To meet the needs of different customers, our offerings include both stand-alone services and bundled services designed to provide a complete offering of integrated services.
+
+Our sales and marketing approach to our business customers includes a commitment to provide comprehensive communications and IT solutions for business, wholesale and government customers of all sizes, ranging from small business offices to the world’s largest global enterprises customers. Our marketing plans include marketing our products and services primarily through direct sales representatives, inbound call centers, telemarketing and third parties, including telecommunications agents, system integrators, value-added resellers and other telecommunications firms. We support our distribution through digital advertising, events, television advertising, website promotions and public relations. Either we or Lumen maintain local offices in most major and secondary markets within the U.S. and many of the primary markets of the more than 60 countries in which we provide services.
+
+Competition and Market Overview
+
+Organizations across the globe are competing to capitalize on opportunities created by emerging technologies. The need for data-intensive and latency-sensitive emerging technologies continues to grow. Helping businesses address these needs requires a platform that integrates essential technology services such as hybrid networking; connected security services that monitor, prevent and remediate threats; and edge computing services ranging from compute and storage to hosting and collocation services on the cloud edge.
+
+9
+
+Competition
+
+We compete in a dynamic and highly competitive market, and we expect continued intense competition from a wide variety of sources under these evolving market conditions. In addition to competition from large international communications providers, we are increasingly facing competition from systems integrators, cloud service providers, software companies, infrastructure companies, cable companies, device providers, resellers and smaller niche providers, among others.
+
+Our ability to compete hinges upon effectively enhancing and better integrating our existing products, introducing new products on a timely and cost-effective basis, meeting changing customer needs, providing high-quality information security to build customer confidence and combat cyber-attacks, extending our core technology into new applications and anticipating emerging standards, business models, software delivery methods and other technological changes. Depending on the applicable market and requested services, competition can be intense, especially if one or more competitors in the market have network assets better suited to the customer’s needs, are offering faster transmission speeds or lower prices, or in certain overseas markets, are national or regional incumbent communications providers that have a longer history of providing service in the market.
+
+Additional information about competitive pressures is located under the heading “Risk Factors—Business Risks” in Item 1A of Part I of this report.
+
+Market Overview
+
+Understanding and anticipating market trends drives our investment in developing the products and services we believe will be well received by our customers. We expect edge computing services demand to significantly increase over the next several years serving multiple verticals, including finance, healthcare, retail, manufacturing and other industries. As these use cases continue to emerge, we expect secure network services will increase in importance as consumers require holistic solutions with the flexibility necessary to help accelerate the convergence of computing and communications capabilities with digital content. We believe we and Lumen have a world-class set of global fiber assets that positions us to deliver a highly-competitive suite of cloud connectivity, low latency edge computing, and integrated network services.
+
+We generally market our business services to members of in-house IT departments or other highly-sophisticated customers with deep technological experience. These individuals typically can satisfy their IT requirements by contracting with us or a rapidly evolving group of competitors, or by deploying in-house solutions. We expect our market competition to continue to increase as technology evolves and enables our customers to seek solutions from multiple sources.
+
+We compete to provide services to business customers based on a variety of factors, including the comprehensiveness and reliability of our network, our data transmission speeds, price, the latency of our available intercity and metro routes, the scope of our integrated offerings, the reach and peering capacity of our IP network, and customer service.
+
+Research, Development & Intellectual Property
+
+Due to the dynamic nature of our industry, we prioritize investing in developing new products, improving existing products and licensing third party intellectual property rights to anticipate and meet our customers’ evolving needs. 
+
+As of December 31, 2020, we had approximately 1,400 patents and patent applications in the U.S. and other countries. We have also received licenses to use patents held by others. Patent licenses give us the freedom to operate our business without the risk of interruption from the holder of the patented technology. We plan to continue to file new patent applications as we enhance and develop products and services, and we plan to continue to seek opportunities to expand our patent portfolio through strategic acquisitions and licensing.
+
+In addition to our patent rights, we have rights in various trade names, trademarks, copyrights and other intellectual property that we use to conduct our business. Our services often use the intellectual property of others, including licensed software. We also occasionally license our intellectual property to others as we deem appropriate.
+
+10
+
+For information on various litigation risks associated with owning and using intellectual property rights, see “Risk Factors—Business Risks” in Item 1A of Part I of this report, and Note 16—Commitments, Contingencies and Other Items to our consolidated financial statements in Item 8 of Part II of this report.
+
+Regulations
+
+Our domestic operations are regulated by the Federal Communications Commission (the “FCC”), by various state utility commissions and occasionally by local agencies. Our non-domestic operations are regulated by supranational groups (such as the European Union, or EU), national agencies and, frequently, state, provincial or local bodies. Generally, we must obtain and maintain operating licenses from these bodies in most areas where we offer regulated services. For information on the risks associated with the regulations discussed below, see “Risk Factors—Legal and Regulatory Risks” in Item 1A of Part I of this report.
+
+Changes in the composition and leadership of the FCC, state commissions and other agencies that regulate our business could have significant impacts on our revenue, expenses, competitive position and prospects. Changes in the composition and leadership of these agencies are often difficult to predict, which makes future planning more difficult. The following description discusses some of the major regulations affecting our operations, but others could have a substantial impact on us as well. For additional information, see “Risk Factors” in Item 1A of Part 1 of this report.
+
+Federal Regulation of Domestic Operations
+
+General
+
+The FCC regulates the interstate services we provide, including the business data service charges we bill for wholesale network transmission and intercarrier compensation. Additionally, the FCC regulates several aspects of our business related to international communications services, privacy, public safety and network infrastructure, including our access to and use of local telephone numbers and our provision of emergency 911 services. Level 3 provides competitive services that are generally not subject to regulation to the same degree as incumbent local exchange carriers (“ILECs”).
+
+Many of the FCC’s regulations adopted in recent years remain subject to judicial review and additional rulemakings, thus increasing the difficulty of determining the ultimate impact of these changes on us and our competitors.
+
+Broadband Regulation
+
+In February 2015, the FCC adopted an order classifying Broadband Internet Access Services (“BIAS”) under Title II of the Communications Act of 1934 and applying new regulations. In December 2017, the FCC voted to repeal most of those regulations and the classification of BIAS as a Title II service and to preempt states from imposing substantial regulations on broadband. Opponents of this change appealed this action in federal court. Several states have also opposed the change and have initiated state executive orders or introduced legislation focused on state-specific Internet service regulation. In October 2019, the federal court upheld the FCC’s classification decision but vacated a part of its preemption ruling. The court also requested the FCC to make further findings relating to its classification decision. Numerous parties have appealed this decision, which remain pending. In addition, members of the Biden Administration and various consumer interest groups have advocated in favor of reclassifying BIAS under Title II. The ultimate impact of these pending judicial appeals and calls for additional regulation are currently unknown to us, although the imposition of heightened regulation of our Internet operations could potentially hamper our ability to operate our data networks efficiently, restrict our ability to implement network management practices necessary to ensure quality service, increase the cost of operating, maintaining and upgrading our network, and otherwise negatively impact our current operations.
+
+11
+
+State Regulation of Domestic Operations
+
+State regulatory agencies have jurisdiction when our facilities and services are used to provide intrastate telecommunications services. Level 3 provides competitive services that are generally not subject to state regulation to the same degree as ILECs. 
+
+Data Privacy Regulations 
+
+Various foreign, federal and state laws govern our storage, maintenance and use of customer data, including a wide range of consumer protection, data protection, privacy, intellectual property and similar laws. Data privacy regulations are complex and vary across jurisdictions. As a global company, we must comply with various jurisdictional data privacy regulations, including the General Data Protection Regulation (“GDPR”) in the EU and similar laws adopted by various other jurisdictions in certain of our domestic and overseas markets. The application, interpretation and enforcement of these laws are often uncertain, and may be interpreted and applied inconsistently from jurisdiction to jurisdiction. These regulations require careful handling of personal and customer data. We have data handling policies and practices to comply with global data privacy requirements, including GDPR and similar regulations and have resources dedicated to complying with changing data privacy regulations.
+
+Anti-Bribery and Corruption Regulations
+
+As a global company we must comply with complex foreign and U.S. laws and regulations governing business ethics and practices, such as the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and other local laws prohibiting corrupt payments to governmental officials, and anti-competition regulations. We have compliance policies, programs and training to prevent non-compliance with such anti-corruption regulations in the U.S. and other jurisdictions. We monitor pending and proposed legislation and regulatory changes that may impact our business and develop strategies to address the changes and incorporate them into existing compliance programs.
+
+International Regulations
+
+Our subsidiaries operating outside of the U.S. are subject to various regulations in the markets where service is provided. The scope of regulation varies from country to country. The communications regulatory regimes in certain of our non-domestic markets are in the process of development. Many issues, including the pricing of services, have not been addressed fully, or even at all.
+
+The United Kingdom ("UK") recently terminated its membership in the EU (“Brexit”), subject to the negotiation of additional separation agreements with the EU regarding data sharing, financial services and other matters. Several factors which are currently unknown will influence Brexit’s ultimate impact on our business. We operate a staging facility in the UK, where certain core network elements and customer premises equipment is configured before being shipped to both UK and EU locations. The UK is currently also a central repository of our spare parts for use in our European operations. However, we have also established a third party sparing facility in Amsterdam which we believe will help mitigate potential disruptions resulting from any impediments to the free movement of goods between the EU and the UK. Given the small percentage of our global personnel that are UK or EU nationals, we do not anticipate any adverse impact from Brexit on our workforce. We are currently monitoring Brexit developments, reviewing our supply chain alternatives, and assessing the short and long-term implications of Brexit on our operations. Nonetheless, based on current information, we do not anticipate Brexit will have a substantial impact on our business.
+
+Our overseas operations are subject to various U.S. export and sanctions laws and regulations. Our deconsolidated Venezuelan affiliate conducts operations in Venezuela, which is currently subject to certain U.S. sanctions.
+
+Other Regulations
+
+Our networks are subject to numerous federal, state and local regulations, including environmental compliance and remediation expenses. We are subject to codes that regulate our trenching and construction operations or that require us to obtain permits, licenses or franchises to operate. Such regulations are enacted by municipalities, counties, state, federal or other regional governmental bodies, and can vary widely from jurisdiction to jurisdiction as a result. Such regulations may also require us to pay substantial fees.
+
+12
+
+Seasonality
+
+Overall, our business is not materially impacted by seasonality. Our network-related operating expenses are, however, generally higher in the second and third quarters of the year. From time to time, weather related problems have resulted in increased costs to repair our network and respond to service calls in some of our markets. The amount and timing of these costs are subject to the weather patterns of any given year, but have generally been highest during the third quarter and have been related to damage from severe storms, including hurricanes, tropical storms and tornadoes in our markets along the Atlantic and Gulf of Mexico coastlines.
+
+Employees
+
+As of December 31, 2020, we had approximately 11,900 employees.
+
+Additional Information
+
+For further information on regulatory, technological and competitive factors that could impact our revenue, see "Regulations" under Item 1, above, and "Competition" under this Item 1, above, and "Risk Factors" under Item 1A below. For more information on the financial contributions of our various services, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Item 7 of Part II of this report. For additional information about us and our ultimate parent, Lumen Technologies, please refer to the periodic reports filed by Lumen Technologies with the SEC, which can be accessed by visiting the websites listed below under “Website Access and Important Investor Information.”
+
+Website Access and Important Investor Information
+
+Lumen's and our website is www.lumen.com. We routinely post important investor information in the "Investor Relations" section of our website at ir.lumen.com. The information contained on, or that may be accessed through, our website is not part of this report or any other periodic reports that we file with the SEC. You may obtain free electronic copies of annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports in the "Investor Relations" section of our website (ir.lumen.com) under the heading "FINANCIALS" and subheading "SEC Filings." These reports are also available on the SEC's website at www.sec.gov. From time to time we also use our website to webcast our earnings calls and certain of our meetings with investors or other members of the investment community.
+
+In connection with filing this report, our chief executive officer and chief financial officer made the certifications regarding our financial disclosures required under the Sarbanes-Oxley Act of 2002, and its related regulations.
+
+As a large complex organization, we are from time to time subject to litigation, disputes, governmental or internal investigations, consent decrees, service outages, security breaches or other adverse events. We typically publicly disclose these occurrences (and their ultimate outcomes) only when we determine these disclosures to be material to investors or otherwise required by applicable law.
+
+We typically disclose material non-public information by disseminating press releases, making public filings with the SEC, or disclosing information during publicly accessible meetings or conference calls. Nonetheless, from time to time we have used, and intend to continue to use, our website and social media accounts to augment our disclosures.
+
+Lenders should also be aware that while we do, at various times, answer questions raised by securities analysts, it is against our policy to disclose to them selectively any material non-public information or other confidential information. Accordingly, lenders should not assume that we agree with any statement or report issued by an analyst with respect to our past or projected performance. To the extent that reports issued by securities analysts contain any projections, forecasts or opinions, such reports are not our responsibility.
+
+13
+
+Unless otherwise indicated, information contained in this report and other documents filed by us under the federal securities laws concerning our views and expectations regarding the technology or communications industries are based on estimates made by us using data from industry sources and on assumptions made by us based on our management’s knowledge and experience in the markets in which we operate and our industry generally. You should be aware that we have not independently verified data from industry or other third-party sources and cannot guarantee its accuracy or completeness.
+
+ITEM 1A. RISK FACTORS

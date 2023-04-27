@@ -1,0 +1,417 @@
+Exhibit   
+
+THOMSON REUTERS STREETEVENTS
+
+EDITED TRANSCRIPT
+
+ILMN - Illumina Inc at JPMorgan Healthcare Conference
+
+EVENT DATE/TIME: JANUARY 09, 2017 / 10:00PM GMT 
+
+CORPORATE PARTICIPANTS
+
+ Francis deSouza Illumina Inc - President & CEO
+
+CONFERENCE CALL PARTICIPANTS
+
+ Tycho Peterson JP Morgan - Analyst
+
+ PRESENTATION
+
+ Tycho Peterson  - JP Morgan - Analyst 
+
+ Good afternoon. We're going to go ahead and get started. I'm Tycho Peterson from the Life Science, Tools and Diagnostics team. It's my pleasure to introduce our next Company this afternoon, Illumina. We'll do a breakout right after in the Georgia Room. So with that let me turn it over to Francis.
+
+ Francis deSouza  - Illumina Inc - President & CEO 
+
+Great. Thank you, Tycho. Good afternoon, everyone. I'm delighted to be here. My talk this afternoon has three parts. First, I'll give you a preview of our fourth quarter, our 2016 full year financial results and our 2017 guidance. Second, I'll update you on our progress in our key markets. And lastly, I'll cover some exciting innovations that you can expect to see from us in 2017. But first, I'll be making some forward-looking statements today, so I refer you to our Safe Harbor statement as well as our SEC filings for additional information. Also, the numbers I'm about to share are unaudited and represent our current best estimates.
+
+2016 had its challenges but ended on a strong note. Fourth quarter revenue exceeded our guidance, coming in at approximately $619 million. That's up $12 million sequentially and 5% year-over-year. As a result, 2016 revenue was approximately $2.4 billion, up 8% from 2015. Sequencing consumables were the star performer, growing 23% to approximately $1.3 billion. What drove this growth? Two things; our expanding installed base, which grew to around 9,700 instruments by the end of 2016, and an increase in the utilization of HiSeq X and NextSeq, both of which grew by more than 50%.
+
+Moving to instruments. MiniSeq had a solid launch as its ease of use and $50,000 price opened up new customer segments. MiSeq exceeded our plan with lower-than-expected cannibalization from MiniSeq. And MiSeqDx continued to build momentum as a leading clinical-grade sequencer. It's now cleared in over 20 countries, representing most of the developed world. We're making progress on Dx designation from MiSeq in China, the last remaining major market.
+
+NextSeq and HiSeq X had another strong year, while HiSeq had lower-than-expected placements. As the HiSeq architecture enters its eighth year of production and approaches the end of its life cycle, customers have been opting for newer desktop architectures or the HiSeq X. HiSeq X has now generated more than $750 million in revenue since its launch, a substantial return on investment.
+
+Now let's turn to arrays. Despite the perception that the array business is challenged, sample numbers have continued to grow each year, and in 2016 reached approximately $9.5 million. As a result, array shipments hit almost $400 million, a new record. Demand from the consumer market doubled in 2016, enabled by unique capabilities and prices of our arrays.
+
+Our strategic planning process identified an emerging, large but price sensitive market in agriculture, which required a low cost per sample, high-throughput genotyping solution. This vision led to the creation of the Infinium XT and that has been a huge success. We've received more than $75 million of orders to be delivered over the next few years. These trends will fuel continued growth even from 2016 record levels.
+
+Now to guidance. In 2017, we expect 10% to 12% revenue growth, including modest contributions from GRAIL and Helix. GAAP EPS is expected to be $3.25 to $3.35. Non-GAAP EPS is expected to be between $3.60 and $3.70, including $0.18 of Helix dilution. This guidance includes only $0.08 of GRAIL dilution since their Series B is expected to close by the end of Q1.
+
+Looking longer term, we believe genomics will transform human health in an unprecedented way. As a leader in our field, our challenge is to create, develop, and accelerate these markets. We approached this through launching innovative business models like GRAIL and Helix, by incubating and investing in early-stage companies through Illumina Ventures and our Accelerator, through forging strategic partnerships that extend the power and the value of our sequencing offerings, through catalyzing markets especially in oncology and reproductive health, and by powering all of these with technology innovation. These are the key growth levers for Illumina and I'll provide an update on each.
+
+Over time consumer genomics will become deeply embedded in our lives. Helix's innovative "sequence once, query often" business model, is poised to unlock the consumer genomics opportunity in health, fitness, nutrition and entertainment across tens of millions of consumers. Helix successfully introduced its first product with National Geographic, has announced close to 10 partners and is on track for a major launch in mid-2017.
+
+We announced GRAIL a year ago, with the mission to develop a blood test that leverages ultra-deep sequencing to identify cancer early, when it can be cured. The team set ambitious goals for 2016 and achieved them. They launched the Circulating Cell-free Genome Atlas study to elucidate spectrum of variations present in the blood, providing the basis for clinical interpretation of liquid biopsies. The size of this study is unprecedented as 10,000 patients will be sequenced to aid in the development and tuning of the GRAIL's test. GRAIL's opportunity and progress has attracted approximately $1 billion of capital commitments for its Series B. GRAIL brings enormous value to Illumina by becoming one of our largest customers over time and providing royalties on their tests.
+
+Last year this conference, we previewed Firefly, an exciting low-cost sequencer based on SBS chemistry and CMOS detection. Firefly will be the easiest to use and most reliable NGS system available. The sequencer is on track to ship at year-end, with the library prep box to follow in 2018.
+
+Today we have more than 50 instruments up and running in our labs. And in total, we have run over 2,000 samples. We've demonstrated onboard clustering and paired-end sequencing with error rates of less than 1%. The low cost of this sequencer combined with the unique capabilities of this system will allow us to serve many smaller labs beyond Illumina's traditional customer base.
+
+Last year, we announced a partnership with Bio-Rad to develop the market-leading single cell solution. It's clear that even small cell populations are heterogeneous, and that single cell analysis is critical to the study of the diversity of gene expression, and can generate significant insights in cancer research, immunology, developmental biology and neurology. With Bio-Rad's single cell isolator and our new SureCell library prep kit, we'll deliver a scalable, integrated, and robust single cell method that delivers the entire workflow, as well as analysis and data visualization, all seamlessly integrated into BaseSpace. We will begin shipments in the next few weeks.
+
+Speaking of analysis, we're making good progress delivering an integrated genomics data platform. More than 50% of our instruments are connected to BaseSpace, which holds 10 petabytes of data from more than approximately 4 million samples, up 60% from a year ago. Now delivering genomics tests at population scale requires accurate, reliable and rapid interpretation. Today, pathologists can take over a week to review tumor sequencing data. This process does not scale to populations. We've announced today a partnership with IBM's Watson genomics to address this bottleneck. Watson's cognitive algorithms have trained with over 20 top tier cancer institutes on over 20 million oncology publications. Watson can analyze genetic alteration files in minutes to identify driver mutations, it's like which driver mutations are actionable and identify potential therapeutic options. This partnership makes powerful interpretation available to all hospitals.
+
+We're also excited to announce our partnership with Philips, leveraging their footprint and channel into hospitals. This partnership integrates our TruSight genomic data with other diagnostic data, radiology, immunohistochemistry and clinical chemistry in IntelliSpace to provide integrated informatics. We will jointly promote the integrated technology solutions, which result from these partnerships while each company sells our respective components.
+
+Turning to the clinical markets. We've prioritized our market development activities to accelerate noninvasive prenatal testing or NIPT, and oncology adoption with medical society guidelines, reimbursement in products that meet customer needs for ease of use, reliability and cost. Guidelines are now in place for NIPT globally and the Chinese government has opened up the test to all labs that meet their standards. Around 100 million lives in the US are now covered for average risk NIPT reimbursement. And CMS price coats specific for NIPT with states expected to follow in time.
+
+In Europe, National Health Systems are beginning to provide access to testing, and in China, pricing is now established across all the major provinces. Last week, we announced the coalition for access to prenatal screening, an alliance with labs to promote NIPT awareness and ensure that is accessible to all women. This coalition will help form legislation, policy and reimbursement, and has already influenced CPT pricing decisions.
+
+Our NIPT assays are accelerating adoption beyond the US. Through our partners, we've received approval in China for our NextSeq NIPT workflow and in Europe, we're on track for our Q1 launch of VeriSeq NIPT, which will be followed by full workflow solution.
+
+Like NIPT, the early oncology market has been led by translational research. A large number of labs and commercial enterprises have created novel approaches to tackling oncology, such as targeted genomic panels, NGS-based IVDs, liquid biopsy and immuno-oncology. These customers account for the majority of our oncology revenue today, which represents more than 10% of our total revenue and grew 20% in 2016. To further accelerate this market, our product strategy has been built around three areas of focus; continued innovation of our instruments and reagents, to access hard to sequence samples, improved workflows and further reduce sequencing costs, fixed content panels, such as TST15, and the recently launched TST170, which will provide researchers with the most common gene sets in simple, repeatable workflows.
+
+In Q4, we will register TST170 as an IUO product that will enable pharma and CROs to select patients for clinical trials, an activity that it is now starting to be reimbursed, and open platforms, based on our TST170 assay that can be used by partners to create IBDs. We'll file a Class 1 registration for solid tumor applications in early 2018. These products are extensible to liquid biopsy and immuno-oncology, and we are pursuing several collaborations to advance these new markets. The evolution of oncology will be similar to NIPT with the gestation period in translational research followed by support from key opinion leaders, ultimately leading to guidelines and reimbursement.
+
+Oncology is also one of the primary catalysts for population sequence studies like the Genomics England 100,000 patient study. And 2016 was a breakout year for population sequencing expanding beyond GEL. Four of the six largest economies, the US, UK, China and France, collectively committed billions of dollars over the next five years to national scale precision medicine Initiatives. And we're engaged with 20 additional countries, including Australia, Canada and Brazil that are accessing large scale sequencing programs. It is only with our high throughput sequencers that programs like this are even possible.
+
+The innovations that I've just described have successfully accelerated the respective markets. But we have only just scratched the surface. The more we understand the biology the more we realize that we have more work to do to understand mysteries and complexities. We need to sequence broader by accessing and interpreting the entire human genome, not just looking at the exonic regions. We need to sequence single cells at enormous scale to understand heterogeneity. We need to sequence deeper for needle in the haystack applications, such as liquid biopsy, tumor normal sequencing and cancer screening, often requiring coverage depths of 50,000x. And we need to provide this capability as broadly as possible to the market. The HiSeq architecture has served the market well over its lifetime. But it's time to do much more. For the last five years we have been hard at work developing the core technologies that will enable the next profound leap in sequencing.
+
+Today, I'm excited to introduce NovaSeq, a brand new architecture that delivers the most powerful, most flexible sequencer ever created. The design goals of NovaSeq are; first, to provide a scalable architecture with an order of magnitude of runway in throughput and cost; second, to dramatically improve the customer ease of use; and third, to provide every high throughput customer access to the technology. To achieve these goals, we incorporated over 70 major innovations. And I'd like to walk you through some of the most significant ones.
+
+The first challenge was to figure out how to pack many more genomes into every run by increasing the density of DNA on our flow cells. This required a higher density flow cell than the pattern flow cells on the HiSeq X. Working with key technology partners, we developed a nanofabrication technique to easily make flow cells at any density, produce them economically and at wafer scale. This is the first use of this technology in biological applications.
+
+The increased cluster density delivers proportionally higher throughput with reduced flow cell costs while maintaining the required accuracy. Implementing the new fabrication technology required a full redesign of the surface chemistry of the flow cell to enable higher cluster densities. We are now on a throughput roadmap where flow cell density is no longer a limiting factor.
+
+The next challenge was how to detect these smaller features accurately without compromising runtime. This required a complete redesign of every lens and optical component in the system. We developed a new lens alignment system that allows us to achieve uniform, diffraction-limited imaging across an extended field of view. Scan speeds increased four times to a rate equivalent of a human genome every hour. To keep up with these scanning speeds, we have to scale up laser power and ensure clusters were sufficiently bright. We need a custom lasers and cameras to achieve the required performance and had to design a new focus tracking system with nanometer precision. The optics module is the next-generation from the HiSeq X, which has 40 degrees of alignment freedom. NovaSeq has six. This results in simpler manufacturing and greater stability during installation and field service. The result is the fastest scan speeds and highest image resolution we have ever achieved and a fully modular optics bench. These optics allow us to advance system performance by tracking increasingly dense flow cells.
+
+Challenge three was the classic signal to noise ratio problem. Smaller features in the flow cell means fewer molecules, fewer photons and thereby a lower signal, potentially impacting data quality. To solve this problem, we developed the next generation of our two channel chemistry that grows brighter clusters and enables onboard clustering. And we re-engineered the dyes in our nucleotides to improve their quantum yield to ensure we exceeded HiSeq X performance. As a result, the NovaSeq platform can use higher densities and faster scan times without compromising data quality.
+
+Finally, the fast scan rates of NovaSeq require a robust data architecture, allowing customers to seamlessly stream data through the cloud for sharing and analysis. This required a complete re-architecture of the primary analysis software to keep pace with the system without a dedicated server rack per instrument. We included faster computer hardware and developed algorithms to enable the system to handle five times increase in real-time data throughput. All of this was accomplished while exceeding Illumina's goal standard for high quality sequencing.
+
+While we were focused on overcoming the technical challenges, we were also dedicated to improving the ease of use for our customers. In addition to the numerous ergonomic features we've incorporated into the touchscreen, keyboard, mouse, doors and other human interaction components, we also added elements that both save time and boost performance through enhanced reproducibility and lower user error. First, the ability to run one or two flow cells and mix and match different types; second, the load and go reagents and onboard cluster generation reduced hands on time and prevent misloading, the cartridges designed to feel comfortable, seat correctly every time, and provide both visual and physical cues to the user. We also added RFID coding to the flow cells and cartridges to enable traceability and compatibility.
+
+We will be launching two configurations of the NovaSeq system. The first is the NovaSeq 6000, which will ship initially in limited quantities later this quarter. The list price is $985,000, with four different flow cell formats. The S2 will be the first flow cell format available at launch and will deliver up to 2T per run in 40 hours. The S1, S3 and S4 flow cells will be available over the course of 2017. With S1, we will deliver 1T of output in the equivalent of rapid run mode. The S3 and S4 flow cells will deliver run outputs of 4T and 6T, respectively, in about 2.5 days. The NovaSeq 5000 will ship over this summer at a price of $850,000 and will run the S1 and S2 flow cells only. The system will be field upgradable to a 6000. There are no application coverage or species constraints on the NovaSeq, flow cells or instruments.
+
+The NovaSeq will create a multi-year replacement cycle of our HiSeq installed base. For an existing HiSeq 2500 customer, NovaSeq delivers greater than 50% reduction in price per Gb and 100% more output, per run even on the S2 flow cell. For 4000 customers, NovaSeq delivers greater than 45% reduction in price per Gb, and 2.5 times the output based on the S3 flow cell. And for X customers, NovaSeq will be 20% more economical while they are delivering more than three times the throughput. Over the past few days, we've shown NovaSeq to six customers and in every case, they're in the process of purchasing NovaSeq.
+
+In addition to the economics and the power of the machine, they love its ease of use and vastly simplified workflow, which directly translates into operational savings. We are thrilled that among others, the Broad, HLI, Novagene, Regeneron, Baylor and the Chan Zuckerberg Biohub, will soon be sequencing on NovaSeq. These customers intend to purchase 49 instruments, which is close to double what we can manufacture and ship in Q1.
+
+Every high throughput platform that we've introduced has enabled new applications. And we expect that NovaSeq will be no different. We'll see population sequencing studies, tumor normal analyses, liquid biopsies and genomes, all become broadly accessible. The eight-year trajectory of the HiSeq architecture moved us from the $10,000 genome to the $1,000 genome. The launch of NovaSeq is an example of Illumina's innovation engine at its finest, delivering an architecture that will one day deliver the $100 genome. Thank you.
+
+JANUARY 09, 2017 / 10:30PM GMT, ILMN - Illumina Inc at JPMorgan Healthcare Conference - Q&A Session
+
+CORPORATE PARTICIPANTS
+
+ Omead Ostadan Illumina, Inc. - EVP, Operations, Products & Strategy
+
+ Francis deSouza Illumina, Inc. - President & CEO
+
+ Marc Stapley Illumina, Inc. - EVP, Chief Administrative Officer
+
+ PRESENTATION
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Great. Thank you, Tycho. Let me start by introducing Marc and Omead on the panel up here with me. I think, nearly all of you know Marc Stapley. Marc is our Executive Vice President and Chief Administrative Officer. He is responsible for finance and all the other administrative functions. So legal, HR, IT facilities and was our CFO before. Omead Ostadan is our Executive Vice President responsible for our strategy planning, our product, our operations and our quality groups. Omead has -- I think he is new to a lot of you, but has been at Illumina through the Solexa acquisition. And so he has been in sequencing now for a couple of decades first at Applied Biosystems, then Solexa then through the acquisition at Illumina. So Omead and Marc.
+
+So let me start by recapping the NovaSeq introduction, for those of you that weren't in the main session. So NovaSeq is our new high throughput instrument. It is the most powerful, most flexible sequencer ever launched and the intent for us is to really push the envelope beyond where we were with HiSeq line, which is now entering its eighth year of operations and even upgrade the HiSeq X customers.
+
+We start shipping the NovaSeq this quarter with the NovaSeq 6000 that will ship towards the end of this quarter, in limited quantities and scaling up. There will be another instrument as part of the same series the NovaSeq 5000 that will ship in the summer. We will have four flow cells S1 through S4 that give you output from 1T, 2T, 4T and 6T respectively. All four flow cells will run on the 6000 only the S1 and S2 will run in the 5000. The intent is that, this is the instrument that our high-throughput customers can all buy, so there is no restriction in terms of how many units you have to buy, unlike the X you can buy single units and there is no restriction on the coverage you can run, the species you can run or application you can run. So it's a general purpose, high-throughput instrument. The focus is going to be to work on our HiSeq installed base and we have about 800 customers representing about 1,900 instruments that are out in the field that we'll be looking to catalyze and upgrade for. So that's the announcement we made. So with that let's jump into questions.
+
+QUESTION AND ANSWER
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ The intent is to give customers that are talking to us about the X or in our backlog for the X the option to buy NovaSeq as well. There will be a lot of those customers that move from having a backlog of an X with us to buying the NovaSeq and we will allow them to do that. They will still keep their full spend with us, but they can redirect that spend to NovaSeq. There are some customers that will continue to run the X and they'll do that, because they already have an X fleet, they have got operational readiness around or they will want to do that because until the S4, they can get good economics on the X as well. If you play this out though over several years, the intent is for NovaSeq to be the platform that customers who are buying the X today would buy in the future.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So this is a two-channel chemistry and so we've built on -- the question was what are the changes in the chemistry from the previous versions of HiSeq and what is the change in read lengths. NovaSeq is based on our two-channel chemistry, and so it builds on the work we've done previously on NextSeq. You could say, new chemistry compared to what we have been running historically in the HiSeq. And so that's a difference, but it's chemistry that we've been working on now for several years and we're putting the bulk of our development focus behind this chemistry.
+
+Having said that, it really does represent almost in every way the next generation of this chemistry. So almost every component of the chemistry we've had to work on to get us where we needed to get to with NovaSeq. The read length is about 2x150s is what we're targeting NovaSeq.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Yes. So the NovaSeq 6000 comes in at $985,000 and then the 5000 is in the $800,000 plus range. And then unlike with the X, the intent of this instrument is to target a broad set of customers. So, if you remember the X, altogether we have 35 customers of the X and we have 800 customers of the HiSeq. And so as we thought about how to price NovaSeq, we are going to go with a pricing model that we believe scales to that volume of customers and so we're going with a pricing model that allows discounting based on volume purchases and allows uplifts for different geographies. And so, our usual broad-scale model is being applied to NovaSeq rather than the model we used for the X given its very specific customer target.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Yes. What we have seen is that, and this is true I think going back decades and maybe Omead, you can provide color on this too. What we have seen is that every time we launched a high throughput instrument, it opens up new application. So yes it provides an upgrade cycle and a replacement cycle, but it opens up new applications and that was true from the GA moving to the HiSeq and you keep going, right. And there are a number of areas where we feel NovaSeq could open up new applications. One is it could really drive the movement from exomes to genomes in a really big way, right. What we saw with the X was that we started to see people do genomes in a much bigger way than they've ever done before. So before the X for example, there were only 65,000 genomes that had ever been done. And since we launched the X in 2014, we're now at 0.5 million genomes. So, it rapidly accelerated people doing genomes, but you needed an X to do that, and only 35 customers in the world really have the X. And so by making NovaSeq more broadly available, we think it'll catalyze this movement from exomes to genomes because people know there is more value in doing a genome, they couldn't justify the big price jumps. I think NovaSeq will accelerate that.
+
+We also see other applications that people have been wanting to do. Maybe, for example, doing much more deep sequencing in tumor/normal sequencing, liquid biopsies. We also see applications like single-cell, where people have wanted to do very, very large experiments and frankly they were gated by not having the right high-throughput instrument to match the size of those experiments. If you look what the Human Cell Atlas teams was talking about for example, so when they look at the 20 plus trillion cells in the body, they wanted to do a map of the body, they were hoping for was to do a 500 million cell experiment. That's a giant experiment. And frankly great idea, but didn't have the high-throughput instrument to match that need.
+
+And so there are applications like those that I think now become accessible much more broadly.
+
+Unidentified Participant 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ I think we'll be playing that out over the course of the whole year. So certainly in Q1, we will have a couple of dozen instruments that we are shipping into the field and we are sort of building that up. As I mentioned in my talk, almost every part of this instrument from the flow cell to the optics, every part of it effectively is new. And so we are standing up the supply chain and volume, building the operational procedures internally to manufacture at scale. And so I think that will be something that plays out over the course of 2017.
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ And this is, Tycho, very different from the HiSeq X launch where again we were manufacturing constrained when we launched, but we were able to get up to speed much more quickly there, because it was an evolution of an existing platform, so that helped both the manufacturing as Francis mentioned, the installation, the servicing in the field and so on. But this is all new. So very, very different profile and ramp-up period for this compared to HiSeq X.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ It's really early for us to provide any guidance at this point. We'll have to get the instrument out there and sort of start to see the data as it's coming in, normalizing for the transition phase at the beginning. So we'll be collecting that data and as soon as we have numbers that we think represent more of a steady state, we'll start to bring them out.
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ And of course the way the formula works is always happens this way that in the early few, call it four or five quarters the calculation is very biased towards the upside, because you've got very small installed base and those new customers are starting to buy consumables at an increasing rate. So Francis is dead-right. We'll have to see how it goes through the rest of this year and talk about that next year.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ I think we'll see some of that happen in the academic cancer centers and the translational side where there is a big appetite forming to do, broader sequencing, much deeper sequencing, liquid biopsies. So I think we'll see that happen in that part of the market. I think the other part of the market, the big part of the market is actually looking for say more like the TST170, so more standard panel tell us which genes to look at, tell us how they're actionable. And so I think, the TST170 is going to be instrumental in opening up that big part of the market that is looking for a standard time, standard interpretation. But to your point, I think on the translational side, this opens up really exciting areas of research.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So the question is how long is the sequencing time and how does that compare with the X. So easy answer is it's faster than the X. On the X you've got 1.8T in 2.7 days. And if you look at what you're getting on NovaSeq, depending on the flow cell you use the time ranges from the lower end, one day to two and a half days. So even at the very high at 60 you are at two and a half days. So you are getting much more throughput at a much faster time.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Yes. Maybe I'll start and then Omead, you can chime in too. But certainly when we first came out with NextSeq, there was a difference in data quality between the two channel chemistry and the four channel chemistry. But actually soon after that as we reroute the chemistry, we were able to close that gap. And so at this point even actually before NovaSeq, I feel pretty good about the quality being very comparable between two channel and four channel. And I think NovaSeq actually raises that bar. So we did a lot of work to drive very high quality output through NovaSeq.
+
+ Omead Ostadan  - Illumina, Inc. - EVP, Operations, Products & Strategy 
+
+ Yes, maybe just adding on that a little bit. Overall the data quality of NovaSeq, which we feel quite frankly is going to be the best data quality of any platform we've ever had and early runs that we've done comparing same sample on an X, 2500, 4000 and NovaSeq give us -- we actually get generally better secondary metrics on NovaSeq even at this stage than we do on any of those platforms. And that's partly function of the overall ground up re-architecting of that system, everything from the optics to the surface of the flow cell, to the chemistry itself has been designed to give us optimal data quality and that is in fact what we see. And we're now on the third generation actually of (inaudible) chemistry over the course of last four years. So we feel really quite good about the outcome of data quality on NovaSeq.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Omead Ostadan  - Illumina, Inc. - EVP, Operations, Products & Strategy 
+
+ No. That's not -- safe to say that Firefly for example uses a slightly different architecture, chemistry. I think, one of the nice things about SBS that has been and will continue to be incredibly powerful for us is that it gives us tremendous flexibility in architecting systems. And so now, if you will, in our bag of arsenal, we have one channel, a two-channel and a four-channel and we'll be able to leverage those moving forward to give the best architecture for whatever the platform's intended use is.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ Yes. Just to repeat the question is around guidance. When we guided revenue growth for 2017 of 10% to 12%, obviously that incorporates everything you heard about today, including the NovaSeq and GRAIL. To your question first on GRAIL that's a quick and easy one. It's a very moderate revenue from GRAIL in 2017. Remember, we were expecting the Series B to happen by the end of Q1. So that would incorporate Q2 to Q4 and it's less than 1% of our revenue is our current expectation baked into guidance. NovaSeq is baked in obviously as well, Tycho. But I think, we got to remember is in a year of a launch of a major new platforms like this one that addresses our entire high throughput portfolio, our existing installed base, and if you think about our total sequencing instrument revenue, almost half of that is high throughput.
+
+So that entire revenue stream of customers are going to be thinking about what is the right platform for me going forward, is it say on HiSeq 4000 or X path, do I move to NovaSeq, when do I move to NovaSeq and then we've got those aforementioned manufacturing supply chain ramp-up periods that we're taking into 
+
+account. So our guidance assumes that slow ramp throughout the year. It obviously would be heavily weighted towards the back half compared to the first half given the transition we're going through.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ So the question, breakdown of our revenue for 2016 by market. That's something we would cover on our upcoming earnings call as we normally do.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ We don't provide that level of breakdown. What can I give you in terms of proxy?
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ I think customers typically think about a depreciation cycle of three to five years. And so you can probably use that as some proxy.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Sure. We will and we always have. So what we will do is, if you bought actually an X or HiSeq in the last two quarters, we have a program that allows you to exchange that and then get partial value for your purchase and apply that to a NovaSeq. In addition, if you have put in an order with us and that order is in backlog, we allow you to use that to purchase a NovaSeq instead.
+
+Unidentified Participant 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ No, we would give more commentary on the 4Q results of the earnings call, Tycho.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So the question is, how do we think about the timing of our platform launches. Is it every three years, is it every four years and how do we overlay analyst days on that? The reality is, the timing of our platform launches is driven by the intersection of two things. One, do we see a market opportunity, and two, do we have the technologies that are ready at that time. And so, honestly, there is very little connection between that and us feeling like platform has been on the market for X number of years and it's time to refresh. So the HiSeq architecture has been now entering its eighth year in production, but we felt the time was right now, rather than earlier. And so that's sort of how it works.
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ Of course, if you look back at the history of the HiSeq in that period of 8 times, the amount of innovations that we've launched on that platform and with that architecture have kept it very fresh throughout that period of time as well. And our innovation engine is setup exactly to do that.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ I think it's in that range, in sort of where the prices are and I think they are stabilizing. So it's unlikely, it's not moving as much as it was before. But it is in that range.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So I think we don't obviously know the specific time frame. We do know that some of the major payers that didn't update their coverage last year are looking at it in the first half of the year and they tend to do it on an annual cycle. So we'll see a wave of evaluations happening over the next few months.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So very broadly speaking, and there is sort of two ways to look at this. One is the margin profile at launch and then at steady state. Obviously at launch, it's slightly worse than it's going to end up at steady state. Once we get to steady state, you can think of the NovaSeq margin profile as being better than our bench-top instruments, but not quite as good as our high throughput instruments and so somewhere in that range.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So the question is around does the new platform give us capabilities around things like long reads, and it doesn't really address that directly. We still work through our partners to get the link long reads.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So we are seeing good growth in both. So we talked about in oncology [testing] we saw 20% growth last year, [and driven primarily by the translational research part of the market] (corrected by company after the call) it's already 10% of our revenue. So both there are good growth drivers for us in the long term. With NIPT, it's -- we're at the stage now where we are in the US certainly gated by reimbursement decisions. And so, it will be a bit of a step function as you get new payers to come online. And so, the timing of that is up to the payers more than up to us, although we're doing a lot of work with the payers to make sure that they understand the value of NIPT and the economic value of NIPT. In the very long term oncology is a much bigger market, but it's a more complex market to get to.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ NovaSeq is probably the most deeply integrated instrument with the cloud compared to any instrument we've had before. I'll start by saying that but we give you the option. So you can use the cloud and you can use the cloud to monitor the health of NovaSeq. So it's highly instrumented. So you can get log files from different parts of NovaSeq and we are merging those log files in the cloud to do proactive monitoring in maintenance of NovaSeq and/or you can use the cloud to store the data. And so base is tuned to be able to get the data at the throughput signal the Seq runs and do that in a seamless way. Having said that, there are some customers for whom either their own cloud or their own on-prem equipment is where they want to go and NovaSeq allows you to configure that too.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ That's something we are targeting with this architecture. And so what I said in there is what we personally are hugely excited about is that we can see what it would take to get there. Now there is a lot of work to do from here to there. But for the first time, as we look at all the different components, we feel that every component we have in the system has enough headroom that we can see a path to get there. Now, we have to do the work to get there and so that will take time and we've got to do the market analysis to say when is the market ready for $100 genome. And so that puts it still out in front of us a ways, but we see what it would take to get there for the first time.
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ Just to be clear, getting to the $100 genome is not a kind of technology challenge around flow cells on the instruments that we'll be selling very shortly. It is a continued evolution of both the instrument that the whole architecture and the flow cell on the technology and the chemistry that goes with it. So it's not; I don't want anyone walking away thinking the current incarnation of the instruments gets you there, it's the architecture.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So you should think about it as being about 20% reduction to what you're getting on the X. So if you run the S4 flow cell, which is the 6T flow cell, so depending on if you're getting a $1000 genome and you can think about it as a 20% reduction depending on what you are running it at.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ With S4, yes.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ So the S2 ships in this quarter. The other flow cells are towards the back half of this year.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ The question is, can I comment on the competitive landscape and how they line up against our product lines. I think that with NovaSeq, we are in the strongest competitive position I think we've ever, ever been in the high throughput part of the portfolio. I think we were already in a very strong position, but NovaSeq is such a giant step forward that I feel really good about the competitive landscape in the high throughput part of the portfolio. I think, at the low end of the portfolio, where Firefly is going to play in MiniSeq's place. There are a number of players out there, including some of the Nanopore players, and it's a vibrant competitive environment. And that market still has to emerge, but there are a lot of players in that space.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Similarly, I feel really good about our competitive position against the BGI offerings. I guess I don't have much more to say beyond that.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ Yes, we talked about this on the Q3 earnings call. We've put in place of a short-term project to look at some of the immediate things we could do around our visibility and that worked well for us and part of the changes we can make. But it's kind of a two-phased approach and we're continuing with the second phase now, which is more around tools and systems, enhancements, so that will take us through 2017. I'll give periodic updates on that when we've made progress on our second phase.
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ When you say catch-up spending --?
+
+Unidentified Audience Member 
+
+ (Inaudible - Microphone inaccessible)
+
+ Marc Stapley  - Illumina, Inc. - EVP, Chief Administrative Officer 
+
+ Well, let me give you a more general EPS directional statement. We put out our EPS guidance today. There are really five things and I will cover them very quickly. But you got to remember in EPS, the first three we've quantified and that is the variable compensation accrual going back to 100%, we called that out to $0.22. We called out Helix dilution today of $0.18 compared to our guide in Q3 of $0.10. And we called out GRAIL dilution today at $0.08 compared to our guide in Q3 2016 of $0.30. So you can see the difference those three make to in one direction one and the other. Then the other the fourth element is obviously the revenue growth, 10-12% revenue growth doesn't all flow to the bottom line, there is obviously significant investment particularly in sales and marketing in generating that revenue growth. And then finally there is our investments that we made in 2016. Our new spend in 2017 investments that we're planning to make and then our stock-based compensation was very significantly benefiting in 2016 from some cancellations higher than expected. So that'll be a headwind for 2017.
+
+ Francis deSouza  - Illumina, Inc. - President & CEO 
+
+ Thank you.
+
+ Omead Ostadan  - Illumina, Inc. - EVP, Operations, Products & Strategy 
+
+ Thank you.
+
+Disclaimer 
+
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+
+© 2017 Thomson Reuters. All Rights Reserved.

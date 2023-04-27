@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001090012",
+    "sec_company_name": "DEVON ENERGY CORP/DE (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217110204",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1090012/000156459021006239/0001564590-21-006239-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1090012/000156459021006239/0001564590-21-006239.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\DVN_0001090012_EX99_20201231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "33577 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13674,
+    "endpoints": [
+        "dvn-ex99_7.htm     ",
+        "LaRoche Petroleum Consultants, Ltd."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DVN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\DVN_0001090012_EX99_20201231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:07:22.156149"
+}

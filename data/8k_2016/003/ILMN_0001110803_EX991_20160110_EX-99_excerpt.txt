@@ -1,0 +1,513 @@
+Exhibit   
+
+JANUARY 10, 2016 / 11:00PM GMT, ILMN - Illumina Inc Investor Conference Call
+
+THOMSON REUTERS STREETEVENTS
+
+EDITED TRANSCRIPT
+
+ILMN - Illumina Inc Investor Conference Call
+
+EVENT DATE/TIME: JANUARY 10, 2016 / 11:00PM GMT
+
+OVERVIEW:
+
+ILMN announced GRAIL, a new co. formed to enable cancer screening from a simple blood test. 4Q15 revenue was approx. $590m. Expects 2016 revenue growth to be 16% and non-GAAP EPS attributable to ILMN shareholders to be $3.55-3.65. In 1Q16, Co. expects flat to slightly higher revenue sequentially.
+
+CORPORATE PARTICIPANTS
+
+ Rebecca Chambers Illumina Inc. - Vice President, Investor Relations and Treasury
+
+ Jay Flatley Illumina Inc. - CEO
+
+ Marc Stapley Illumina Inc. - EVP, CFO and CAO
+
+CONFERENCE CALL PARTICIPANTS
+
+ Bill Quirk Piper Jaffray & Co. - Analyst
+
+ Tycho Peterson JPMorgan - Analyst
+
+ Doug Schenkel Cowen and Company - Analyst
+
+ Derik de Bruin BofA Merrill Lynch - Analyst
+
+ Dan Arias Citibank - Analyst
+
+ Jon Groberg UBS - Analyst
+
+ Ross Muken Evercore ISI - Analyst
+
+ Amanda Murphy William Blair & Co. - Analyst
+
+ Isaac Ro Goldman Sachs - Analyst
+
+ Miro Minkova Stifel Nicolaus - Analyst
+
+ PRESENTATION
+
+Operator 
+
+ Good day, ladies and gentlemen, and welcome to the Illumina investor conference call. My name is Tracy and I will be your operator for today. At this time all participants are in listen-only mode and later we will conduct a Q&A session. (Operator Instructions).
+
+I would now like to turn the conference over to your host for today, Rebecca Chambers. Please proceed.
+
+ Rebecca Chambers  - Illumina Inc. - Vice President, Investor Relations and Treasury 
+
+ Thank you, Tracy, and good afternoon, everyone. Thank you for joining us on a Sunday ahead of a busy week. During the call today Jay Flatley, Chief Executive Officer, will offer commentary on GRAIL, and Marc Stapley, EVP, CAO and CFO, will discuss the financial impact of this new venture, review our preliminary Q4 2015 results and provide 2016 guidance. We will be taking questions after our prepared remarks.
+
+This call is being recorded and the audio portion will be archived in the investor section of our website. It is our intent that all forward-looking statements regarding our expected financial results and commercial activity made during today's call will be protected under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties. Actual events or results may differ materially from those projected or discussed.
+
+All forward-looking statements are based upon current information available and Illumina assumes no obligation to update these statements. To better understand the risks and uncertainties that could cause actual results to differ, we refer you to the documents that Illumina files with the Securities and Exchange Commission including Illumina's most recent Forms 10-Q and 10-K.
+
+With that I will now turn the call over to Jay.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Thanks, Rebecca, and good afternoon everyone. By now I hope many of you have seen our announcement of GRAIL, a new company formed by Illumina. Today I would like to share with you why we felt it imperative to create an entity to develop and implement a universal cancer screening test.
+
+To begin, it is important to understand the challenges that GRAIL is intended to target. There are over 14 million new cases of cancer each year around the world with over 8 million deaths annually, a global burden that is expected to increase 70% by 2030. It is a top cause of death for those over 40 in the US who at least half of cancer is detected in stages III and IV.
+
+Despite a multi-decade war on cancer, mortality rates have not substantially changed. Where they have, survival rate improvements are correlated to early detection when cancer can be treated more successfully. When effective, screening has been shown to stage shift cancer diagnosis. Since their implementation, screening tests for colorectal cancer via colonoscopy and cervical cancer via the Pap smear have driven a decline in mortality of 48% and 60% respectively. Yet there are other cancer screening programs in place today that are not as effective primarily because of problems with current biomarkers and methods.
+
+The first problem is a lack of sensitivity leading to missed diagnoses or false negatives and the second is a lack of specificity which results in false positives. GRAIL's mission is to enable the detection of cancer in asymptomatic individuals through a simple blood screen with a goal to massively decrease global cancer mortality.
+
+GRAIL will create an entrepreneurial environment with a focused speed and agility needed to succeed. We have recruited a world-class scientific advisory board and expect to attract and retain best-in-class employees from around the world with a compelling mission based on quality science, a startup culture and appropriate equity rewards.
+
+GRAIL will be well-funded to ensure its ability to move quickly, accelerate the market and establish a unique clinical brand. In short, we are creating the environment for quality science, breakthrough innovation and ultimately success.
+
+Nearly all cancers screens today measure indirect surrogate markers that are associated with the presence of cancer but do not define the cancer itself such as PSA and prostate cancer or a shadow on a x-ray in mammography. There simply is no screening program for the vast majority of cancers including pancreatic and ovarian so these diseases are detected when the patient becomes symptomatic which is typically in later stages with a resulting poor prognosis.
+
+There is strong evidence both from Illumina and published literature that most if not all tumors shed nucleic acids into the bloodstream commonly called circulating tumor DNA or ctDNA. ctDNA provides a direct measurement to the cancer via its genetic material and as a result we believe it will prove to be superior to traditional biomarkers.
+
+However, this is a needle in the haystack problem as the fraction of ctDNA in the blood in early stages is a very small percent of the total molecules. To reliably detect ctDNA across cancer types with the needed specificity and sensitivity requires ultra-deep sequencing, thousands or more times the depth and breadth and has been used routinely in clinical settings to date.
+
+With our technology, the cost points and performance are just now at the level required to enable a broadly deployable screening test. As you can see on slide six, only with deep sequencing can a mutation be reliably detected as present even at 1% concentration in the blood. At 150 times coverage, the ability to detect such a mutation is challenged by signal-to-noise. This improves at 1500X but still detection is a qualitative call. Only at 15,000X in this example is the MET mutation clearly detectable.
+
+Cancer is genetically heterogeneous requiring a test that can look for multiple changes. To detect cancer at the earliest stages, the amount of ctDNA in the blood can be as low 0.01% and a test must be able to determine tissue of origin and to distinguish lethal from nonlethal cancers that may not progress.
+
+The power to solve this problem is enhanced with the ability to detect multiple mutations as shown in the first graph on slide seven as sampling a greater number of genes increases the number of detectable mutations which of course requires a great deal of sequencing.
+
+Additionally with one tube of blood and a requirement to have at least three supporting error corrected reads, our data show that test sensitivity increases as more of a tumor's mutation can be detected. In combination, the more mutations that are targeted the deeper those get sequenced and the more mutations present in the tumor that can be detected collectively drive up the test performance to the level required for screening.
+
+We expect the clinical trials required to show statistical significance here could require sequencing between 100,000 and 300,000 genomes at 60X depth or the equivalent of two whole human genomes per sample implying a project that could be as large as 6 times the scope of Genomic England.
+
+Only Illumina can sequence at the price points necessary to enable the required trials and ultimately marketed tests that is sensitive and economical across global populations.
+
+Today I'm pleased to share with you early data from our ctDNA research in lung cancer patients. As you can see in the table on slide nine, we have developed an assay that can pick up 88% of oncogenic mutations present in sequenced tumor tissue samples including SNVs, insertions and deletions, copy number variations and rearrangements all from a single tube of blood.
+
+This early data collected during a blinded and prospective study indicates a clinical sensitivity that is superior to other results reported to date most of which show a sensitivity to tumor mutations around 65% to 75%. GRAIL will have a first mover advantage to address the cancer screening market the size of which is dependent on how sensitive a measure ctDNA proves to be. Based on our assumptions if this marker is able to detect stage 2 across a broad range of cancer types including breast, colon, prostate, ovarian, pancreatic and lung cancer, we believe the market addressable via GRAIL will be in the range of $20 billion to $40 billion. This market expands dramatically if ctDNA proves to be able to detect cancer at stage 1 as well as determine tumor of origin or tissue of origin which would lead to a developed market opportunity of $100 billion to $200 billion.
+
+These market sizes are additive to the $20 billion TAM that we discussed at our last investor day and are based on assumptions detailed on slide 10. We believe a successful screening test must be priced below $1000 and perhaps as low as $500. Additionally, we took a conservative position on frequency at which testing occurs with screening performed every two years.
+
+The combination of Illumina and GRAIL will be uniquely positioned to both develop and scale such a test to millions globally. This market represents the single largest opportunity for sequencing today.
+
+As a new company controlled, the majority owned by Illumina, GRAIL will take on the bold mission of asymptomatic screening with Illumina's existing ctDNA program's transferred to GRAIL to efficiently leverage talent and momentum.
+
+GRAIL has been funded through a Series A round of more than $100 million with Illumina and ARCH Venture Partners with participating investments from Bezos Expeditions, Bill Gates and Sutter Hill Ventures. With this funding, Grail will be focused on technology development over the course of the next year as well as rapidly building and scaling a CLIA laboratory with end-to-end workflows and full-scale automation leveraging Illumina's deep understanding of sequencing.
+
+Beginning in 2017, we will initiate the extensive clinical studies that I described earlier with the goal of launching a pan cancer asymptomatic screen in 2019. Between 2017 and 2019, we may launch an early version of the test that will target specific subtypes of cancer.
+
+GRAIL will exclusively utilize sequencing instruments and consumables from Illumina based on a long-term supply agreement. Additionally Illumina will receive a significant royalty on GRAIL sales for access to discounted pricing on reagents and instruments. All IP discovered by GRAIL with applicability outside of cancer screening will be transferred back to Illumina.
+
+With Illumina's sequencing technology, we believe we can create a molecular stethoscope that will enable population scale screening. GRAIL will leverage new knowledge about the information found in circulating nucleic acids, the innovative capabilities of affordable ultra-deep sequencing and the extraordinary power of deep learning bioinformatics to create a universal pan cancer blood test. This creates an amazing opportunity to jump start the market, advance science and create a massive impact on human health with a $20 billion to $200 billion potential market.
+
+We believe we will have the right management team, scientific advisory board and structure in place to capitalize on this opportunity.
+
+Our prediction is that in the future asymptomatic men and women will have access to a simple blood test that will detect the most frequent types of cancer at an early stage. This is the promise of GRAIL.
+
+I will now turn the call over to Marc.
+
+ Marc Stapley  - Illumina Inc. - EVP, CFO and CAO 
+
+ Thanks, Jay. To begin I would like to share with you details on the financial impact of GRAIL. We believe the investment we are making in this area is critically important to ensure the asymptomatic screening market is developed and captured by Illumina. We will quickly ramp a team, build a lab and begin sequencing samples in 2016 and as a result we project GRAIL to be approximately $0.15 dilutive to this year's non-GAAP EPS attributable to Illumina shareholders.
+
+Depending on the pace and scale of the clinical trials Jay discussed, dilution will continue over the next four years until we fully commercialize the screening test. Given our majority ownership position and a controlling interest, the impact of GRAIL will be fully consolidated into our P&L going forward and we will be transparent about the financial impact each quarter.
+
+Moving now to our fourth-quarter result and 2015 results, I would like to remind you that the financial results I'm about to share represent unaudited number and are currently our best estimates.
+
+We closed 2015 with strong momentum as booked orders exceeded our expectations. Q4 revenue grew 15% to approximately $590 million and on a constant currency basis revenue grew 18% versus the fourth quarter of 2015.
+
+We have not yet completed our financial close process and as a result we do not have any earnings per share figure to announce today but we do expect quarterly non-GAAP EPS attributable to Illumina shareholders to come in above the guidance range provided, commensurate with the revenue beat. This stronger than expected Q4 result was due to strength in benchtop instruments as MiSeq orders approached record levels and NextSeq orders were the highest in any quarter to date as we delivered on our strong pipeline that we referenced in Q3.
+
+Demand for the HiSeq family remained strong as we shipped in the range of 20 to 30 HiSeq X instruments and HiSeq 2500 and 4000 both exceeded our expectations. This strong instrument result was bolstered by sequencing consumable shipments which grew approximately 30% year-over-year to exceed $280 million with particular strength seen in NextSeq consumables comfortably exceed pull-through range of $100,000 to $125,000. We were also pleased with microarray orders and shipments in Q4, both of which exceeded our expectations.
+
+As a result of this better than expected Q4 performance, we have exceeded the full-year revenue guidance provided on the third quarter call. In fiscal 2015, revenue grew 19% versus the prior year and on a constant currency basis revenue grew 23%.
+
+Turning now to our expectations for 2016, we are projecting approximately 16% revenue growth driven by strength in sequencing consumables while sequencing instruments are expected to be relatively flat year-over-year. This guidance assumes constant currency rates and hence a 100 basis point headwind compared to the prior year. In the first quarter we are projecting flat to slightly higher revenue sequentially as a result of the stronger than anticipated Q4 result.
+
+Non-GAAP EPS attributable to Illumina shareholders is expected to be $3.55 to $3.65. The assumptions underlying this guidance include approximately 73% gross margin, a full-year pro forma tax rate of 26% and full-year weighted average non-GAAP diluted shares outstanding of 149 million. For modeling purposes we expect a net loss attributable to non-controlling interest of approximately $30 million.
+
+The important investments we are making in GRAIL and Helix which account for approximately $0.15 and $0.10 of dilution in 2016 respectively, are critical to ensuring Illumina's leadership position in the cancer screening and consumer markets. Adding back these items for comparability, core Illumina earnings per share would be approximately [$3.80 to $3.90] (corrected by company after the call), and core operating margins would be expected to exceed 35%. The core operating margin will be at the low-end of our target range as 2016 will be a year where we continue to make investments to ensure that we balance short-term profitability with investing appropriately to continue to drive long-term revenue growth. Jay will share details on some of our 2016 core investments at the JPMorgan conference tomorrow.
+
+Thank you for your time. We will now move to the Q&A session. Operator, we will now open the line.
+
+ QUESTION AND ANSWER
+
+Operator 
+
+ (Operator Instructions). Bill Quirk, Piper Jaffray.
+
+ Bill Quirk  - Piper Jaffray & Co. - Analyst 
+
+ Great. Thanks and good afternoon, everybody. I guess first off, congratulations on introducing GRAIL. I guess a two-part question. First is helping us think a little bit about the key milestones to watch as we proceed towards the 2019 launch. And then also Jay, just curious, you have Helix within Illumina but decided to set GRAIL up outside of Illumina and so maybe you could just help elaborate there. Thank you.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Sure. The key milestone is really moved along the path that I described a bit in my text. 2016 will really be a year where we are focused on developing the underlying technology and building the infrastructure to conduct large-scale clinical trials. That will also include arranging sample access at quite a large scale. We are working on multiple assay methods now and they all work slightly differently and during the course of the year our expectation is that we will down select to the kind of winning assay method or perhaps one or two that may be used either in parallel or sequentially.
+
+2017 will be the year where we begin to scale up the clinical trials and those trials will last over several years and our hope is that if things go the way -- the technology progresses and the biology cooperates that we have an opportunity before the pan cancer test comes to market in 2019 to offer the same technology for more targeted cancers and candidates would include those cancers such as lung and breast cancer, in particular places where existing screening modalities are not very effective.
+
+So those are the patterns -- that is the pattern of how this will all develop. What we actually decide to announce publicly at various time points will be decided into the future.
+
+With respect to Helix, this one is fully consolidated into our financials and Illumina made a financial investment into this company which is slightly different than what we did with Helix. So the financial treatment is a bit different in this case. But Helix is still a separate company that we spun out. It has its own Board of Directors and so from the direction of how the company itself is set up, it is not too dissimilar.
+
+ Bill Quirk  - Piper Jaffray & Co. - Analyst 
+
+ Got it. Thank you.
+
+Operator 
+
+ Tycho Peterson, JPMorgan.
+
+ Tycho Peterson  - JPMorgan - Analyst 
+
+ Thanks. Can you, Jay, talk on a reimbursement strategy for GRAIL? At what point do you need to start talking to payers and can you talk at all as to how you think about pricing for the (multiple speakers)?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Sure. We will be involved with payers and the regulatory agencies from day one. So we will be working very directly with them. Obviously we need to show the health economic benefits of this test and part of what we will be doing over 2017 and 2018 is developing the supporting data to show that this test obviously improves outcomes but also can affect the economics of overall care.
+
+Exactly when reimbursement comes is not totally under the control of GRAIL but this is an area of tremendous focus for us.
+
+Now having said that, one of the intents of GRAIL is to be global quite quickly so the market outside the US will be very substantial for this test. And so we will be dealing with different payer systems and different regulatory systems simultaneously and obviously there are a number of potentially very large markets to go after outside the US.
+
+In terms of pricing, we think to fully enable a screening market you have to have a price point that is $1000 or below and clearly the lower you could make it the more accessible the test becomes. So it is clearly the ambition to continue to push the technology in ways that allows this test to be offered at increasingly economical price points. But for the moment, we are thinking -- start at $1000 and then probably a curve down from that price point.
+
+ Tycho Peterson  - JPMorgan - Analyst 
+
+ And then can you talk on what happens to your current liquid biopsy initiatives like the one with Sloan-Kettering?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Yes. That is all transferring into GRAIL so the Memorial Sloan-Kettering arrangement is transferring in. We will be transferring employees who were working on that presuming they decide to go. So that is obviously their choice. But we are going to be talking to a number of employees, quite a number of employees through over the next few weeks and moving quite a few of them over to GRAIL. And our existing programs internally that we are working on in ctDNA will move over to Grail as well.
+
+That is all done because the methodology that GRAIL is developing we think is exactly the same as what Illumina will need for ultimately launching RUO products and enabling researchers to use circulating tumor DNA. So those methods will come back to Illumina from the work that is done at GRAIL and all be deleveraged because it will be the same kind of work and the same kind of clinical exploration.
+
+ Tycho Peterson  - JPMorgan - Analyst 
+
+ Okay. Then just one last one on the 4Q comments. You talked about benchtop turning around. Can you maybe just elaborate on what you have seen on the benchtop side of the market?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Yes, we don't have all our numbers in and all the analytics yet, Tycho, from our field force. We are working on all of that but in general we saw as we said, a slight softening in Q3 and this quarter was quite strong. I think some of it is normal quarter to quarter variation, some of it may be seasonality in Europe because of the summer buying cycles. As we tried to point out in Q3 and we try to point out generally there is probably a little over-analysis of the small variations that happened between quarter to quarter. And so we had a strong pipeline coming out of Q3 as we mentioned on our call and that pipeline came to fruition in Q4.
+
+ Tycho Peterson  - JPMorgan - Analyst 
+
+ Got it. Okay. Thank you.
+
+Operator 
+
+ Doug Schenkel.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Sorry about that. The new company creation model demonstrated with Helix and now GRAIL, is this one we should expect to be repeated in the future? If so, what is the criteria that drives this type of venture, the decision to pursue this type of venture versus going in-house?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ I would say it is possible that we would do others I mean this is not I would say something that is fundamental to Illumina's strategy. Probably the first criteria that we look at is what is the business of the resulting company. If you look at Helix, it is it in a very different business than Illumina is in and if you look at GRAIL, depending upon how the business model evolves, it is quite likely that the business that GRAIL will be in is quite different than what Illumina does.
+
+So in both of these cases, we thought they were best set up as third-party standalone companies. Obviously Illumina has an interest in the success of these companies and has made special economic arrangements with these companies to help them be successful.
+
+We also in some cases look at the degree to which these companies are doing something brand-new in revolutionary ways, brand-new and when that is the case considering doing these as startups makes a lot of sense. And that was frankly the case in both Helix and GRAIL. If we were looking at just an extension of an application for example in sequencing, that would not make sense for us to spin out.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Thank you for that. From a development perspective, how much of Grail's R&D focus would you say is going to be on clinical work, clinical studies versus technological advancement?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Well, it will depend on what timeframe you are talking about. In 2016 it will be mostly on technological advancement with preparation for clinical studies. If you got into 2017 perhaps, late 2017, if you looked at the actual relative expenses, there is probably going to be at least as much spent on clinical work as there is on development work by that time.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Okay. And then I guess last one, the $0.15 dilution related to Grail, on the surface if we just take that, multiply it by share count and tax affected I think that comes out to $30 million to $35 million at the pretax income line. I guess where I am a little unclear just doing that basic math is how do we recognize or factor in the fact that you are already spending on liquid biopsy initiatives, you don't own all of GRAIL. There is a scenario where if I keep kind of pursuing the logic where you could say GRAIL is actually going to be spending close to $75 million to $100 million trying to advance this initiative, is that the right way to think about it?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Let me try to answer your question, Doug, and let me know if I get to what you are asking here. The work that we are currently doing in ctDNA is going to move into GRAIL so it will be part of the cash burn that GRAIL will have is essentially replacing the work that we are doing internally since that is moving over to GRAIL.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Yes, so that is kind of what I'm getting at is that wouldn't be incremental dilution. So you are already spending something on cell free DNA work in cancer, that moves over but that is not incremental dilution. You talk about $0.15 in incremental dilution and you don't own all of it so I'm just trying to get at exactly how much GRAIL is going to be spending this year? Using all of that logic, it seems like it could be close to $100 million.
+
+ Marc Stapley  - Illumina Inc. - EVP, CFO and CAO 
+
+ Doug, one of the challenges, you can't quite do the math the simple math the way you did it because with all of these things and it is the same with Helix, the tax is a nuance so you can't just apply the Illumina tax rate because you are making losses in the earlier years and it depends on many factors as to what extent those get tax benefits or not. So you can't quite do the math.
+
+I see how you are doing it and how you get that number, that number is too high. It is less than that but it is clearly a lot more than Illumina is currently spending. We are going to ramp significantly.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Okay, that is great. Thanks guys and congratulations.
+
+Operator 
+
+ Derik de Bruin, Bank of America.
+
+ Derik de Bruin  - BofA Merrill Lynch - Analyst 
+
+ So on the liquid biopsy particularly using it for a screen application like this, I mean typically there is an issue in the fact that there is mutations all the time. I guess how do you sort of get the confidence, what are your endpoints for thinking about getting confidence on making sure that you are just not going to get noise in the system, that you are actually doing to get something that is detectable? I am just curious in terms of how you are thinking about the biology at this point.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Sure. It is stuff we've thought very deeply about as you can imagine. The first thing that is the case is that if you are looking at a very small number of mutations that sampling problems get in your way because there is so few molecules in one vial of blood or two vials of blood that if you are looking for four mutations for example to look for some signature, that you will have tremendous noise in the system. So that pushes you to look across a very broad number of mutations to ensure that you identify a sufficient number of them to be able to have confidence in your call.
+
+At the same time you need to sequence each of those quite deeply to make sure that you are not dealing or that you are overcoming the fundamental signal to noise problem in the system. So both of those factors are what push you to have to sequence very deeply.
+
+Now the follow-up question of course is when you find a signature and if you find it early, how do you find the tissue of origin and this will obviously be more of a factor as this test becomes more successful. If we get back to stage 1, you would clearly begin to image that person and to go look for a tumor and then what may be the case is that you would put people on monitoring programs where you would run this test perhaps three months later or six months later and measure the rate of change of the overall mutation load in the blood. And it could be that rate of change of the mutation load that determines when you need to begin treating it or if you ever need to begin treating it because in some cases these mutations exist and the body is handling it and the cancer will never become lethal.
+
+ Derik de Bruin  - BofA Merrill Lynch - Analyst 
+
+ Great. A little bit more mundane question on 2016. So 16% constant currency growth, 15% reported, did I hear that correctly?
+
+ Rebecca Chambers  - Illumina Inc. - Vice President, Investor Relations and Treasury 
+
+ 16% total company including 100 basis points headwind from currency.
+
+ Derik de Bruin  - BofA Merrill Lynch - Analyst 
+
+ Got it. Including it, okay, including it. Thank you. Thanks for clarifying. So flattish instruments for 2016. I guess what is your thinking in terms of the different platforms -- I mean what are the deltas in sort of having above more placements? What is the biggest driver in 2016 for the instrument number?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ We are going to give a lot more color on all of that at the earnings call at the end of the month once we have the analytics done from Q4. So I think I'm going to defer that question to then, Derik, when we have more data on what happened and what our commercial teams look -- as we are looking out at the market can tell us about that.
+
+ Rebecca Chambers  - Illumina Inc. - Vice President, Investor Relations and Treasury 
+
+ And we said flat in our prepared comments (multiple speakers).
+
+ Derik de Bruin  - BofA Merrill Lynch - Analyst 
+
+ Okay, no problem. Great. I will just wait until then. Thanks.
+
+Operator 
+
+ Dan Arias, Citigroup.
+
+ Dan Arias  - Citibank - Analyst 
+
+ Good afternoon, guys. Thanks. Jay, just one for me. Do you envision the test staying on the current SBS chemistry and the current lineup of instruments that we have now? The reason I ask is it seems like two or three years from the chances that you guys are starting to embrace some sort of new technical paradigm is decent and so I am just wondering what your thought is on the way in which the technology and the field progresses from a platform perspective?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Well, the first thing I would say there is that one thing that is imperative for this to be successful is that you have incredibly accurate sequencing so that implies that this is going to be on SBS for a long, long time. Having said that, GRAIL of course has access to the technology that we have available today but clearly one of the motivations for putting this together was the fact that we know what our roadmap looks like over the next three to five years and we can anticipate with reasonable certainty where the technology will move over that timeframe and GRAIL will have access to future technology that Illumina develops.
+
+ Dan Arias  - Citibank - Analyst 
+
+ Okay. Thanks very much.
+
+Operator 
+
+ Jon Groberg, UBS.
+
+ Jon Groberg  - UBS - Analyst 
+
+ Great. Good evening and congratulations. I guess Jay, my big question -- obviously liquid biopsy, the concept has been around for a bit. There are some companies who have already embarked on this initiative, maybe not with such a distinct ambition of doing pan -- kind of an early stage kind of pan cancer screen. But as you looked internally, what kind of was the process in terms of deciding to build versus buy?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Bill versus buy, by buy you mean buy some other company?
+
+ Jon Groberg  - UBS - Analyst 
+
+ Yes, buy one of these companies who has already kind of made a lot of progress, one of your customers per se.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ There is no one that has made real progress on screenings. So I should be very clear to draw a distinction here. What our customers are doing with maybe one or two very small exceptions is working on molecular profiling of tumors for people who are diagnosed with cancer for potentially monitoring recurrence or predicting recurrence in measuring minimum residual disease. That is not the market for GRAIL and GRAIL is going after a much more daunting technology, scientific and biological problem that none of those companies to our knowledge at least have even begun to address. The scale of what we are trying to do with this company I think is distinct from anything we know about anywhere else.
+
+ Jon Groberg  - UBS - Analyst 
+
+ Okay. And then, Marc, from a financial disclosure standpoint, are you just going to call out kind of the EPS impact each quarter? Are we going to get more transparency around specifically Helix and GRAIL and then kind of the core Illumina?
+
+ Marc Stapley  - Illumina Inc. - EVP, CFO and CAO 
+
+ Certainly for GRAIL, we intend to provide the transparent financials behind that. Definitely EPS impact. I mean clearly it is really in the early years going to be expense so there is not much more detail behind the P&L than that and that is what drives most of the EPS impact. We have yet to fully ascertained exactly how this is going to get disclosed in our filings so we will work through that in more detail over the coming weeks. And you will see that for the time as we get through the press release and then the normal filing of the K. Obviously you won't see any impact until this year but you will start to see that over time.
+
+ Jon Groberg  - UBS - Analyst 
+
+ Okay, great. Thanks.
+
+Operator 
+
+ Ross Muken, Evercore.
+
+ Ross Muken  - Evercore ISI - Analyst 
+
+ Good afternoon, guys. So maybe Jay, just sort of a practical question on sort of how this will work with GRAIL. So you talked about I think in the base case over 70 million people screened. Can you just help us think through like from a physician and oncologist perspective one, the education that needs to get done here? But two, practically what an individual is sort of selected or I guess it would be their managed-care provider who will decide that individual given some sort of history needs to get screened. I'm just trying to understand functionally how you kind of see all of it working in terms of the physician and the payer and other clinicians, etc. that serve the individual in terms of how the whole process you see kind of playing out ultimately?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Sure. Let's go up to the ultimate timeframe and then we will work backwards, Ross. So the hope here is that this becomes ultimately inexpensive enough and the performance is good enough that it gets bundled into what happens when people just do their physicals whether that is every two years or every year or whatever it is that this is just like today when you get your PSA done, this becomes what happens as a way to screen people for cancer. And that is the goal of this.
+
+Now that is not going to happen day one for sure and so it will take us awhile to build toward that. But clearly this is not going to be something that is driven through oncologists because people only see oncologists once they have been diagnosed. So this would be driven much more through your general practitioner or ultimately potentially through consumers themselves and this is something we are still looking at and debating inside the company and there will be great work done in the next year or two to figure this out about whether this is something probably in conjunction with the physician that consumers just call up and say hey I want to have this done and I think it is important for me and they either ask their physician to do that or do it directly. And so those are issues that are open ones and may in fact vary geographically because the regulatory systems and the paying systems are different in different countries. The goal of course is to get this reimbursed because that increases the adoption rate dramatically and clearly will increase the market size. So we will be working as I mentioned with payers and regulators very early on as part of this endeavor to ensure that we are doing to appropriate studies to convince the payers that this test is one that should be reimbursed.
+
+ Ross Muken  - Evercore ISI - Analyst 
+
+ Got it and maybe just as we think about next year, I think you said you are expecting instruments to be flattish and then you had by all accounts a very strong end of the year particularly it seems like on the instrument side. I guess, how should we sort of put that in the sort of implied Q1 in context? Just is it more a function that if maybe Q3 had sort of gone smoother you would have felt better about sort of extrapolating the trend in the quarter. Is it based on what you are just seeing in your bookings in backlog because just on the surface it seem a big conservative give what you just shared with us?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Well GRAIL won't have a real impact on instrumentation and there won't be any revenue from GRAIL in 2016 so that is not going to have any impact. What we said on the instruments is flat to slightly up and I think let's defer to the quarter call the analytics around the instruments and we will provide much more color on what we are seeing in the market and what we think the trends across the instrument line will look like in 2016.
+
+ Ross Muken  - Evercore ISI - Analyst 
+
+ Got it. I am guessing not but is there any way you can share to us what GRAIL was valued at based on your equity contribution?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ No, all we are saying is that we raised in Series A in excess of $100 million.
+
+ Ross Muken  - Evercore ISI - Analyst 
+
+ Got it. Okay, thank you.
+
+Operator 
+
+ Amanda Murphy, William Blair.
+
+ Amanda Murphy  - William Blair & Co. - Analyst 
+
+ Good afternoon. So I just had a follow-up to I guess it is more evening, but anyway, a follow-up to Dan's question on the pricing dynamics that you laid out in the bull and bear case. Curious if you can comment on whether you can get to those prices in both cases via the current of sequencers is the first question.
+
+And then secondly just thinking about other factors into that cost calculation. How do we think about those in both the bull and base case going forward and how do those decline over time?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ We have obviously included into our internal business plan some assumptions about what could happen to the cost sequencing over time so that is one sort of behind the scenes component that goes into our math here of course.
+
+There are a lot of unknowns here, Amanda, on the ultimate pricing because the biology that underlies this is still largely uncharted territory and so exactly how deep we need to sequence and exactly how broad we need to sequence is something that we are going to be working intensely on over the next year and you can imagine if we have to sequence it 10,000X steps across 80 genes, that is one cost point. If we have to sequence it 30,000X across 500 genes, that will be a very different price point. Those answers are unknown at this point and there is a chance at least that there would be more than one component to this text that you could run two perhaps in parallel or you could maybe run two sequentially. So if you get a positive you might want to run a second sequential test.
+
+All of that will feed into the economics but I think the assumption that it has to be sort of at $1000 to open up a screening market is the one we feel pretty confident about that if we are much above that, it will be a thin veneer of the screening market and not widely adopted.
+
+ Amanda Murphy  - William Blair & Co. - Analyst 
+
+ Got it. Okay. Just one more on that same line of questioning. In terms of the bull case, I know it is obviously early but have you done the analysis so the $1000 is kind of where the screening market opens up but in terms of where the consumer market opens up, do you have any initial thoughts on what the price point might look like there, where reimbursement becomes less of an issue or a gating factor?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ It is an interesting question and we have not done yet deep market analysis of this but we certainly will. You can imagine that if we offered this test today at $1000 that there is a large consumer market. You'd have a lot of people who would raise their hand and say I will pay $1000, maybe not every year, maybe every five years to run this test. Of the total fraction of the people around the globe who could take it, that is still a small number but it is a big market.
+
+So the consumer will be much like our other consumer companies have found, there is a market at various price points when you get into the small number of hundreds then the consumer market gets very, very large particularly for something that is as devastating as cancer as a disease and we have seen reasonable consumer markets at a few hundred dollars when what people are learning about is traits and potential prediction of disease where here you are actually screening for it.
+
+I think if you are in the $500 range you are going to have a pretty big consumer market.
+
+ Amanda Murphy  - William Blair & Co. - Analyst 
+
+ Got it. Thank you very much.
+
+Operator 
+
+ Isaac Ro, Goldman Sachs.
+
+ Isaac Ro  - Goldman Sachs - Analyst 
+
+ Good afternoon. Thank you. Maybe a question to start on management, you mentioned in the press release that you guys are actively looking for a CEO and I was curious if number one you could talk a little bit about the characteristics and qualities for a CEO that you are looking for?
+
+And then maybe secondly, if we look let's say six or 12 months down the road, what kind of a commercial team or team in general what you hope to have in place at GRAIL?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ In terms of the CEO, we are certainly looking for someone that is deeply passionate about this area for sure. That person will either need to come from the high-tech world or deep in the life sciences world. This company will have deep informatics involved in it so there will be quite a lot of information and IT capabilities in this company and that will require a CEO who at least understands or appreciates that dimension of what we are trying to accomplish.
+
+I don't think we mentioned it in the script but we are going to base this company in the Bay area so that we have access to the best and brightest talent and we are going to be looking for someone who can bring very, very strong leadership to this, a global perspective in what we do and how we deploy it and appreciation for the clinical and technical challenges that we are embarking on.
+
+I don't think we are going to need a commercial team at the beginning of 2017. What we will be doing is forming what is probably more aptly called a BD team that will be working on partnership relationships for GRAIL partly around sample access which is going to be one of our core challenges in 2016 is lining up enough people to put through these large-scale clinical trials. Also potentially some strategic corporate relationships that may be possible. So at least through the 2017, probably 2018 timeframe there won't be much of a commercial team, pure commercial team the way we think about it.
+
+ Isaac Ro  - Goldman Sachs - Analyst 
+
+ That is great. And then maybe you mentioned in your earlier comments all the work that you have done trying to think about the size of the market and I appreciate the idea of going after a pan cancer screening test. That is obviously a huge potential market so curious how you thought about the kind of clinical data you need and how many studies or duration? It just seems like if we pick even just the 10 most prevalent cancer types you are going after a number of different conditions and so I'm curious how you think about structuring a trial of how long it would take?
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ Yes, the idea -- and of course there is still a lot to be learned about this and we will be working on the trial design over the course of next year, but the size is going to be in this range of 100,000 to 300,000 genomes that we have talked about at great depth, on average we think in the range of 60X depth.
+
+What we are going to attempt to show in the clinical trial is that we can achieve what we are calling a stage shift and by that we mean if you think about 50,000 people perhaps getting sequenced at time zero and you have an average rate of cancer that today's statistics show of about one in 1000, you would detect cancer in about 50 people. Those cancers would be spread out across a broad set of stages, 4 all the way to 1 if the test works the way we hope. And so you could calculate an average stage of detection in let's call that for lack of a better number 3.3 is the average stage that you have detected cancer.
+
+Then if you sequenced the remaining population, those who had cancer get pulled out, a year later or two years later what you want to see and show is that the average stage now that you detect cancer is earlier than when you did it the first time. And so maybe now it is 2.8 or 2.5. And if you can begin to show that you are actually changing the stage at which cancer is detected, you have a very powerful argument that this is in fact impacting the ability to find cancer at early stages.
+
+ Isaac Ro  - Goldman Sachs - Analyst 
+
+ Got it. All right. Thanks very much. Appreciate that.
+
+Operator 
+
+ Miro Minkova, Stifel.
+
+ Miro Minkova  - Stifel Nicolaus - Analyst 
+
+ Thank you for taking my question. Maybe sort of venturing a little bit of a different direction but you have Helix on the consumer side, you have GRAIL in oncology. How do you manage these seemingly growing lists of projects, Jay? For us on the outside, how do we track your progress with these?
+
+Secondly, this is usually the time of year when you unveil your new products for the year. You haven't said anything yet. Do we just need to be more patient or is the focus now shifting towards these new initiatives? Thank you.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ One of these reasons these became spin-outs is because they are different businesses focused in different areas, different markets, to some extent require different talent. I mean if you think of Helix, Illumina is not fundamentally a consumer company and Helix needs to have a consumer mentality. Illumina is not a clinical testing company and so GRAIL is going to have depending on how the business model evolves is going to be focused on clinical testing. And so one of the ways we are leveraging Illumina's capabilities is to do things like Helix and GRAIL and to set up separate companies with separate Boards of Directors and separate governance to be able to go off and scale this with Illumina maintaining an interest.
+
+Now announcing GRAIL today and our earnings today, we will be presenting tomorrow at the J.P. Morgan conference and so you should just stay tuned to what other things we are going to talk about for 2016 if you are interested in other things we are working on.
+
+ Miro Minkova  - Stifel Nicolaus - Analyst 
+
+ Okay. And maybe your oncology strategy broadly, does the announcement today change anything in terms of your plans for the onco panels or how you would go about that portion of your oncology screening market? And maybe update us on the timelines for these products.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ I plan to give you an update on where we are in the oncology BU tomorrow.
+
+ Miro Minkova  - Stifel Nicolaus - Analyst 
+
+ Okay, thank you very much.
+
+Operator 
+
+ Doug Schenkel, Cowen and Company.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ So just I guess a multi-part follow-up. You indicated earlier on the call that most of your customers are focused on developing liquid biopsy tests, those that are in that area that they are focused on developing tests for patients who have already been diagnosed with cancer, not for screening cancer in asymptomatic patients. But many of us on the line have heard from existing Illumina customers that they do have aspirations to move into liquid biopsy-based screening.
+
+So with that in mind, one, how will you manage customer reaction to this? Two, have you proactively already reached out to customers to stay in front of concerns? And if so, can you share any feedback?
+
+Three, sort of related to my original question, is the decision to move forward in this area indicative of you concluding that efforts by others to advance liquid biopsy screening efforts are proceeding at the pace you think they should and this is an instance where Illumina needs to take the lead and create a business to make this happen on a more acceptable timeframe with the right clinical rigor? Thank you.
+
+ Jay Flatley  - Illumina Inc. - CEO 
+
+ A great set of questions, Doug. I would say you are right that many of our customers probably have some theoretical aspirations of getting into screening. After the extensive work we have done in this field, it was our conclusion that none of our customers have the ability to do the required clinical trials at the scale and scope that are needed and to bring a test that is responsible and economic to the market anytime in the next five years. And that is just based upon what we think will happen to the price of sequencing in the marketplace and the underlying science of what it is going to take to do screening.
+
+And so kind of jumping ahead to the last part of your question, that is what compelled us to do GRAIL now is because we think we have the technology in hand to do it but it took a special structure for us to be able to enable someone to do this and do it quickly. Our goal here clearly is to accelerate the availability to test in the market because it is great for patients and we have the potential within a very short number of years to begin to save millions of lives doing this and so we didn't want to wait around for five or six or seven years for the price of sequencing in the open market to get to the point where clinical trials at this scale could be conducted.
+
+So that is really what our motivation was and why we formed this company the way we did.
+
+We are reaching out to our key customers and that is happening as we speak. We talked to a few thought leaders this morning, logical people you might expect. And we are in discussions with quite a number of customers. It is too early for us to have a specific feedback here. Of course the logical question any customer would ask is why don't you just price your product to us the same way you priced it to GRAIL? And of course if somebody gave us the kind of money and the interest in their company, percentage interest in their company that we have in GRAIL, then we would have thought about that but this is really a unique situation and one where time is of the essence to start saving lives and we think we have the ability to do that and do it now.
+
+ Doug Schenkel  - Cowen and Company - Analyst 
+
+ Okay, thank you.
+
+Operator 
+
+ Ladies and gentlemen, that concludes today's conference. Thank you for your participation, you may now disconnect. Have a good day.
+
+DISCLAIMER 
+
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+
+© 2016 Thomson Reuters. All Rights Reserved. 
+
+1

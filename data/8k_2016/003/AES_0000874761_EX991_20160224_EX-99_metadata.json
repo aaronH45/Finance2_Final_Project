@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000874761",
+    "sec_company_name": "AES CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160224",
+    "sec_filing_date": "20160224",
+    "sec_changed_date": "20160224",
+    "sec_accepted_date": "20160224060819",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/874761/000087476116000079/0000874761-16-000079-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/874761/000087476116000079/0000874761-16-000079.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\AES_0000874761_EX991_20160224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1011534 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 37991,
+    "endpoints": [
+        "Exhibit   ",
+        "(4) Free Cash Flow is reconciled above. Free cash flow (a non-GAAP financial measure) is defined as net cash from operating activities less maintenance capital expenditures (including non-recoverable environmental capital expenditures), net of reinsurance proceeds from third parties. AES believes that free cash flow is a useful measure for evaluating our financial condition because it represents the amount of cash provided by operations less maintenance capital expenditures as defined by our businesses, that may be available for investing or for repaying debt."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AES",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\AES_0000874761_EX991_20160224_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:49:17.285494"
+}

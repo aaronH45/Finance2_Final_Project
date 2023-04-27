@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001645590",
+    "sec_company_name": "Hewlett Packard Enterprise Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210204",
+    "sec_filing_date": "20210204",
+    "sec_changed_date": "20210204",
+    "sec_accepted_date": "20210204162009",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1645590/000164559021000004/0001645590-21-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1645590/000164559021000004/0001645590-21-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\HPE_0001645590_EX991_20210204_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "940256 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4219,
+    "endpoints": [
+        "Document",
+        "(b) Effective at the beginning of the first quarter of fiscal 2021, the Company excluded stock-based compensation expense from its segment earnings from operations results and excluded stock-based compensation expense from non-GAAP results. The Company has reflected this change retrospectively to the fiscal 2019 and 2020 financial results. This change had no impact on Hewlett Packard Enterprise's previously reported consolidated GAAP results. However, the Company reflected the change resulting from the reclassification of its stock-based compensation expense by restating its consolidated non-GAAP gross profit, non-GAAP gross profit margin, non-GAAP earnings from operations, non-GAAP operating profit margin, non-GAAP net earnings and non-GAAP net earnings per share. Each restated non-GAAP measure has been reconciled to the most directly comparable GAAP measure herein."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HPE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\HPE_0001645590_EX991_20210204_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:05:02.752454"
+}

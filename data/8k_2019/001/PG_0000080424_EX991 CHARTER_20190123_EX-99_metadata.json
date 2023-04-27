@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "EX991 CHARTER",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190123",
+    "sec_filing_date": "20190123",
+    "sec_changed_date": "20190123",
+    "sec_accepted_date": "20190123101205",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042419000011/0000080424-19-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042419000011/0000080424-19-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\PG_0000080424_EX991 CHARTER_20190123_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "164402 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25959,
+    "endpoints": [
+        "Earnings ReleaseQ2 FY 2019 ResultsJanuary 23, 2019  ",
+        "** Adjustments for each year are as follows: 2012- net of gain on Snacks divestiture and after-tax Braun impairment charge, 2013- net of gain on buyout of Iberian joint venture and Salon impairment charges, 2015- Batteries impairment and Venezuela deconsolidation charges , 2016- net of gain on Battery business divestiture and Batteries impairment charge, 2017- net of loss on early debt extinguishment and gain on Beauty brands divesture, 2018- transitional impact of the U.S Tax Act and loss on early debt extinguishment."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\PG_0000080424_EX991 CHARTER_20190123_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:38:16.231274"
+}

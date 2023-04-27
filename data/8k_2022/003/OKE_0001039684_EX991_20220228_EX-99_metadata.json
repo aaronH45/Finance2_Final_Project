@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220228",
+    "sec_filing_date": "20220228",
+    "sec_changed_date": "20220228",
+    "sec_accepted_date": "20220228163905",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968422000010/0001039684-22-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968422000010/0001039684-22-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\OKE_0001039684_EX991_20220228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "49001 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 40063,
+    "endpoints": [
+        "okeq42021earningsrelease   ",
+        " ONEOK Announces Higher Full-year 2021 Earnings and 2022 Financial Guidance Feb. 28, 2022 Page 18 ONEOK, Inc. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES 2022 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of net income to adjusted EBITDA Net income $ 1,550 - $ 1,830 Interest expense, net of capitalized interest 705 - 685 Depreciation and amortization 655 - 655 Income tax expense 495 - 575 Noncash compensation expense 55 - 35 Equity AFUDC and other noncash items 10 - (10) Adjusted EBITDA $ 3,470 - $ 3,770 2022 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of segment adjusted EBITDA to adjusted EBITDA Segment Adjusted EBITDA: Natural Gas Liquids $ 2,110 - $ 2,300 Natural Gas Gathering and Processing 960 - 1,040 Natural Gas Pipelines 400 - 430 Adjusted EBITDA $ 3,470 - $ 3,770"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\OKE_0001039684_EX991_20220228_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:27:30.234547"
+}

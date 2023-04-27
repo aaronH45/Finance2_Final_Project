@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001297996",
+    "sec_company_name": "Digital Realty Trust, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190205",
+    "sec_filing_date": "20190205",
+    "sec_changed_date": "20190205",
+    "sec_accepted_date": "20190205165427",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1297996/000129799619000024/0001297996-19-000024-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1297996/000129799619000024/0001297996-19-000024.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3874943 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 68391,
+    "endpoints": [
+        "Exhibit   ",
+        "41"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\DLR_0001297996_EX991_20190205_EX-99_excerpt.txt",
+    "time_elapsed": 2.6,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:56:06.638726"
+}

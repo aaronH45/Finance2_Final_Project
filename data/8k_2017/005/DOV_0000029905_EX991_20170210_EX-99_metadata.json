@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000029905",
+    "sec_company_name": "DOVER Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170210",
+    "sec_filing_date": "20170210",
+    "sec_changed_date": "20170210",
+    "sec_accepted_date": "20170210083523",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990517000009/0000029905-17-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990517000009/0000029905-17-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DOV_0000029905_EX991_20170210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9512 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2444,
+    "endpoints": [
+        "Exhibit   ",
+        "Dover is a diversified global manufacturer with annual revenue exceeding $7 billion. We deliver innovative equipment and components, specialty systems and support services through four major operating segments: Energy, Engineered Systems, Fluids, and Refrigeration & Food Equipment. Dover combines global scale with operational agility to lead the markets we serve. Recognized for our entrepreneurial approach for over 60 years, our team of 29,000 employees takes an ownership mindset, collaborating with customers to redefine what's possible. Headquartered in Downers Grove, Illinois, Dover trades on the New York Stock Exchange under 'DOV.' Additional information is available at www.dovercorporation.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DOV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\DOV_0000029905_EX991_20170210_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:37.172531"
+}

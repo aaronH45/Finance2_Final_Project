@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000820027",
+    "sec_company_name": "AMERIPRISE FINANCIAL INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210127",
+    "sec_filing_date": "20210127",
+    "sec_changed_date": "20210127",
+    "sec_accepted_date": "20210127162054",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002721000003/0000820027-21-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002721000003/0000820027-21-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AMP_0000820027_EX991_20210127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "41725 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 32869,
+    "endpoints": [
+        "nr-xamp4q20xxfinal   ",
+        " 17 NM Not Meaningful – variance equal to or greater than 100% Ameriprise Financial, Inc. Consolidated GAAP Results (in millions, unaudited) Year Ended December 31, % Over/ (Under) 2020 2019 Revenues Management and financial advice fees $ 7,368 $ 7,015 5 % Distribution fees 1,661 1,919 (13 %) Net investment income 1,251 1,463 (14 %) Premiums, policy and contract charges 1,395 2,224 (37 %) Other revenues 283 269 5 % Gain on Disposal of Business — 213 N M Total revenues 11,958 13,103 (9 %) Banking and deposit interest expense 59 136 (57 %) Total net revenues 11,899 12,967 (8 %) Expenses Distribution expenses 4,059 3,810 (7 %) Interest credited to fixed accounts 644 669 4 % Benefits, claims, losses and settlement expenses 1,806 2,576 30 % Amortization of deferred acquisition costs 277 179 (55 %) Interest and debt expense 162 214 24 % General and administrative expense 3,120 3,287 5 % Total expenses 10,068 10,735 (6 %) Pretax income 1,831 2,232 (18 %) Income tax provision 297 339 12 % Net income $ 1,534 $ 1,893 (19%)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AMP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AMP_0000820027_EX991_20210127_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:00:28.093390"
+}

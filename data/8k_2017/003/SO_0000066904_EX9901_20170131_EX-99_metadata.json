@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000066904",
+    "sec_company_name": "MISSISSIPPI POWER CO (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170131",
+    "sec_changed_date": "20170131",
+    "sec_accepted_date": "20170131162218",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92122/000009212217000004/0000092122-17-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92122/000009212217000004/0000092122-17-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\SO_0000066904_EX9901_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "18538 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 295,
+    "endpoints": [
+        "Exhibit   ",
+        " 8 of 8"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\SO_0000066904_EX9901_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:11:46.025041"
+}

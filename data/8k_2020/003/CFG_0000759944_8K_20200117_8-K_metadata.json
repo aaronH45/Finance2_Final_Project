@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000759944",
+    "sec_company_name": "CITIZENS FINANCIAL GROUP INC/RI (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200117",
+    "sec_filing_date": "20200117",
+    "sec_changed_date": "20200117",
+    "sec_accepted_date": "20200117064545",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/759944/000119312520009469/0001193125-20-009469-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/759944/000119312520009469/0001193125-20-009469.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CFG_0000759944_8K_20200117_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "35247 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3501,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   Form 8-K    ",
+        "Date: January 17, 2020"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "CFG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CFG_0000759944_8K_20200117_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:47.524770"
+}

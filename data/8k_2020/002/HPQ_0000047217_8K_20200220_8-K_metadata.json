@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000047217",
+    "sec_company_name": "HP INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200220",
+    "sec_filing_date": "20200220",
+    "sec_changed_date": "20200220",
+    "sec_accepted_date": "20200220171454",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/47217/000093041320000467/0000930413-20-000467-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/47217/000093041320000467/0000930413-20-000467.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\HPQ_0000047217_8K_20200220_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "36986 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 9105,
+    "endpoints": [
+        "xml version='1.0' encoding='US-ASCII'?         ",
+        "  false --10-31 0000047217      0000047217   2020-02-20 2020-02-20"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "HPQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\HPQ_0000047217_8K_20200220_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:40:32.173716"
+}

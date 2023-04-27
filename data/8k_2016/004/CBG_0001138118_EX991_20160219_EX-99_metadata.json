@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001138118",
+    "sec_company_name": "CBRE GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160219",
+    "sec_filing_date": "20160219",
+    "sec_changed_date": "20160219",
+    "sec_accepted_date": "20160219170035",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1138118/000110465916098522/0001104659-16-098522-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1138118/000110465916098522/0001104659-16-098522.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CBG_0001138118_EX991_20160219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "48558 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 24066,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Footnotes Slide 16 Excludes global securities business. As of December 31, 2015. Slide 21 As of December 31 for each year presented. In Process figures include Long-Term Operating Assets (LTOA) of $0.1 billion for Q4 2015, $0.3 billion for Q4 2014, $0.9 billion for Q4 2013, $1.2 billion for Q4 2012 and $1.5 billion for Q4 2011. LTOA are projects that have achieved a stabilized level of occupancy or have been held 18-24 months following shell completion or acquisition. Pipeline deals are those projects we are pursuing which we believe have a greater than 50% chance of closing or where land has been acquired and the projected construction start is more than twelve months out. Slide 9 The base purchase price was $1.475 billion in cash plus approximately $36 million in estimated net adjustments for working capital and other items. Such net adjustments took into account approximately $45 million in cash acquired by CBRE in the acquisition. The purchase price is subject to post-closing adjustments as outlined in the purchase agreement for the transaction. Deal costs are excluded from the purchase price. Multiple based on GWS adjusted EBITDA as calculated by GWS (when owned by Johnson Controls) and using GWS’s methodologies (when owned by Johnson Controls) as well as previously announced run-rate cost synergies of approximately $50 million, which are expected to be fully realized in 2017. Slide 10 Other includes Development Services (1% in both 2006 and pro-forma 2015) and Other (1% in both 2006 and pro-forma 2015). Capital Markets includes Sales (33% in 2006 and 20% in pro-forma 2015) and Commercial Mortgage Services (4% in 2006 and 5% in pro-forma 2015). Contractual Revenues include Occupier Outsourcing and Asset Services (7% in 2006 and 32% in pro-forma 2015; excludes associated sales and lease revenues, most of which are contractual), Global Investment Management (6% in 2006 and 5% in pro-forma 2015), and Valuation (8% in 2006 and 6% in pro-forma 2015). Fee Revenue is gross revenue less client reimbursed costs largely associated with our employees that are dedicated to client facilities and subcontracted vendor work performed for clients. Contractual plus leasing revenues are 64% of 2006 GAAP revenue and 78% of 2015 GAAP revenue. Slide 6 Normalized EBITDA excludes cost containment expenses, integration and other costs related to acquisitions and certain carried interest incentive compensation expense (to align with timing of associated revenue). Adjusted EPS excludes cost containment expenses (net of tax), amortization expense related to certain intangible assets attributable to acquisitions (net of tax), integration and other costs related to acquisitions (net of tax), certain carried interest incentive compensation expense (net of tax) and the write-off of financing costs (net of tax). Excludes the net impact of mark-to-market hedges and exchange rate transaction impact. NOTE: Local currency percent changes versus prior year is a non-GAAP financial measure noted on slides 6 and 11. These percent changes are calculated by comparing current year results versus prior year results, in each case at prior year exchange rates. Slide 11 We regard leasing revenue as largely recurring because unlike most other transaction businesses, leasing activity normally takes place when leases expire. The average lease expires in five to six years. This means that, on average, in a typical year approximately 17% to 20% of leases roll over and a new leasing decision must be made. When a lease expires in the ordinary course, we expect it to be renewed, extended or the tenant to vacate the space to lease another space in the market. In each instance, a transaction is completed. If there is a downturn in economic activity, some tenants may seek a short term lease extension, often a year, before making a longer term commitment. In this scenario, that delayed leasing activity tends to be stacked on top of the normal activity in the following year. Thus, we characterize leasing as largely recurring because we expect an expiration of a lease, in the ordinary course, to lead to an opportunity for a leasing commission from such completed transaction. Occupier Outsourcing and Asset Services revenue excludes associated leasing and sales revenue, most of which is contractual. Fee revenue is gross revenue less both client reimbursed costs largely associated with employees that are dedicated to client facilities and subcontracted vendor work performed for clients."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CBG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CBG_0001138118_EX991_20160219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:54:05.806669"
+}

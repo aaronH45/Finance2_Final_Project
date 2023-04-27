@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210223",
+    "sec_changed_date": "20210223",
+    "sec_accepted_date": "20210223165804",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297121000197/0000072971-21-000197-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297121000197/0000072971-21-000197.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\WFC_0000072971_EX99_20201231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "4328 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2866,
+    "endpoints": [
+        "Document",
+        "(2) On February 1, 2006, Wachovia Capital Trust III issued 5.80% Fixed-to-Floating Rate Wachovia Income Trust Securities (the Wachovia Trust Securities) and used the proceeds to purchase from Wachovia Remarketable Junior Subordinated Notes due 2042 (the Wachovia Notes). In connection with the issuance of the Wachovia Trust Securities, the Trust and Wachovia entered into a forward stock purchase contract that obligated the Trust to purchase Wachovia’s Non-Cumulative Perpetual Class A Preferred Stock, Series I (the Series I Preferred Stock) and obligated Wachovia to make payments to the Trust of 0.60% per annum through the stock purchase date, March 15, 2011 (the Series I Stock Purchase Date). Prior to the Series I Stock Purchase Date, the Trust was required to remarket and sell the Wachovia Notes to third party investors to generate cash proceeds to satisfy its obligation to purchase the Series I Preferred Stock. When it issued the Wachovia Notes, Wachovia entered into a Declaration of Covenant (the Wachovia Covenant) in which it agreed for the benefit of the holders of Wachovia’s Floating Rate Junior Subordinated deferrable Interest Debentures due January 15, 2027 that it will repurchase the Wachovia Trust Securities or redeem or repurchase shares of the Series I Preferred Stock only if and to the extent that the total redemption or repurchase price is equal to or less than the net cash proceeds of the issuance of certain qualified securities as described in the Wachovia Covenant. In connection with the Wachovia acquisition, the Parent assumed all of Wachovia’s obligations under the Wachovia Covenant. For more information, refer to the Wachovia Covenant, which was filed as Exhibit 99.1 to Wachovia’s Current Report on Form 8-K filed February 1, 2006."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\WFC_0000072971_EX99_20201231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:17:00.428955"
+}

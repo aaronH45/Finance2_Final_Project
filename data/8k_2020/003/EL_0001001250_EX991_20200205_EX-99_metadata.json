@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001001250",
+    "sec_company_name": "ESTEE LAUDER COMPANIES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200205",
+    "sec_filing_date": "20200206",
+    "sec_changed_date": "20200206",
+    "sec_accepted_date": "20200206105215",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1001250/000110465920011697/0001104659-20-011697-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1001250/000110465920011697/0001104659-20-011697.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\EL_0001001250_EX991_20200205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "500993 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34213,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "  Page 19 of 19"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\EL_0001001250_EX991_20200205_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:46:00.673122"
+}

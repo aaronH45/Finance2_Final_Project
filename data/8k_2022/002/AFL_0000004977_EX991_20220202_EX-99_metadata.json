@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004977",
+    "sec_company_name": "AFLAC INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220202",
+    "sec_filing_date": "20220202",
+    "sec_changed_date": "20220202",
+    "sec_accepted_date": "20220202164431",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4977/000000497722000005/0000004977-22-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4977/000000497722000005/0000004977-22-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\AFL_0000004977_EX991_20220202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "339096 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 31310,
+    "endpoints": [
+        "Document",
+        "Media contact - Ines Gutzmer, 762.207.7601 or igutzmer@aflac.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AFL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\AFL_0000004977_EX991_20220202_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:26:22.244522"
+}

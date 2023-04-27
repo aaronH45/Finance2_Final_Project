@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001564708",
+    "sec_company_name": "NEWS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220128",
+    "sec_filing_date": "20220131",
+    "sec_changed_date": "20220131",
+    "sec_accepted_date": "20220131065538",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1564708/000156470822000038/0001564708-22-000038-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1564708/000156470822000038/0001564708-22-000038.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\NWSA_0001564708_EX991_20220128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10659 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8579,
+    "endpoints": [
+        "a012822appendix3cclassa   ",
+        "Appendix 3C Notification of buy-back + See chapter 19 for defined terms 5 June 2021 Page 4 Part 4 – Daily buy-back notification Answer the questions in this part if your response to Q 2.1 is “Employee share scheme buy-back”, “On-market buy-back”, “Equal access share scheme buy-back” or “Other buy-back”) and you are giving a daily buy-back notification under listing rule 3.8A. A daily buy-back notification must be submitted for these types of buy-backs at least half an hour before the commencement of trading on the business day after any day on which securities are bought back (per listing rule 3.8A). 4.1 *Date of this notification 4.2 *Previous day on which +securities were bought back Before previous day On previous day 4.3 *Total number of +securities bought back, or in relation to which acceptances have been received 2,337,503 46,164 4.4 *Total consideration paid or payable for the +securities US$51,842,823.86 US$982,748.46 4.5 *Highest price paid Answer these questions if your response to Q 2.1 is “On-market buy-back”. US$24.30 *Date highest price was paid: 9/11/2021 US$21.62 4.6 *Lowest price paid Answer these questions if your response to Q 2.1 is “On-market buy-back”. US$20.59 *Date lowest price was paid: 20/12/2021 US$20.93 4.8 *If the entity has disclosed an intention to buy back a maximum number of +securities, the remaining number of +securities to be bought back as at the end of the previous day Note: ASX has calculated this number for you based on previous notifications. If it is not correct, please amend it to the correct number and consider whether any updates need to be made to previous notifications. The company is authorized to acquire up to an aggregate of US$1 billion of the Company’s Nasdaq- listed Class A common stock and Class B common stock. To date, the company has purchased approximately US$79,473,390.59 worth of Class A and Class B shares (based on total consideration paid). Introduced 05/06/21 31/01/2022 28/01/2022"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NWSA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\NWSA_0001564708_EX991_20220128_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:26:03.334655"
+}

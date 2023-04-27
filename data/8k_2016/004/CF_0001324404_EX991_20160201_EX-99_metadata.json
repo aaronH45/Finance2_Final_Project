@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001324404",
+    "sec_company_name": "CF Industries Holdings, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160201",
+    "sec_filing_date": "20160201",
+    "sec_changed_date": "20160201",
+    "sec_accepted_date": "20160201092058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1324404/000110465916092743/0001104659-16-092743-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1324404/000110465916092743/0001104659-16-092743.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CF_0001324404_EX991_20160201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "34650 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 17786,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "CF Industries and New CF and their respective directors and executive officers and OCI and its executive directors and non-executive directors may be deemed to be participants in the solicitation of proxies from the stockholders of CF Industries in connection with the proposed transaction. Information regarding the directors and executive officers of CF Industries is contained in CF Industries’ proxy statement for its 2015 annual meeting of stockholders, filed with the SEC on April 2, 2015, and CF Industries’ Current Report on Form 8-K filed with the SEC on June 25, 2015. Information about the executive directors and non-executive directors of OCI is contained in OCI’s annual report for the year ended December 31, 2014, available on OCI’s web site at www.oci.nl. Other information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the stockholders of CF Industries in connection with the proposed transaction, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in the preliminary proxy statement/prospectus filed with the SEC by New CF."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CF",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\CF_0001324404_EX991_20160201_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:53:33.269704"
+}

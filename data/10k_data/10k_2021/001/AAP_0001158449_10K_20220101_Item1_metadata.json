@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001158449",
+    "sec_company_name": "ADVANCE AUTO PARTS INC (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20220101",
+    "sec_filing_date": "20220215",
+    "sec_changed_date": "20220215",
+    "sec_accepted_date": "20220215162002",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844922000037/0001158449-22-000037-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844922000037/0001158449-22-000037.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\AAP_0001158449_10K_20220101_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1942840 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 18151,
+    "endpoints": [
+        "PART I",
+        "Item 1A. Risk Factors."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\AAP_0001158449_10K_20220101_Item1_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:42:48.989206"
+}

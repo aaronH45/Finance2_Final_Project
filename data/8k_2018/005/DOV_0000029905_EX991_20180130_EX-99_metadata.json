@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000029905",
+    "sec_company_name": "DOVER Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180130",
+    "sec_filing_date": "20180130",
+    "sec_changed_date": "20180130",
+    "sec_accepted_date": "20180130065151",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990518000005/0000029905-18-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990518000005/0000029905-18-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\DOV_0000029905_EX991_20180130_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "930282 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22096,
+    "endpoints": [
+        "Exhibit   ",
+        "This press release includes Wellsite's projected pro forma EBITDA, or earnings before interest, taxes, depreciation and amortization before public company expenses, a measure that is not defined under GAAP. A reconciliation of this non-GAAP measure to the most closely comparable measure calculated in accordance with GAAP is not available without unreasonable effort due to the unavailability of certain information needed to calculate certain reconciling items, including interest expense and income tax expense."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DOV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\DOV_0000029905_EX991_20180130_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:44.236898"
+}

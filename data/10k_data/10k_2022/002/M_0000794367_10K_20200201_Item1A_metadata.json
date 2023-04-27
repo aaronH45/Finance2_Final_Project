@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000794367",
+    "sec_company_name": "Macy's, Inc. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20200201",
+    "sec_filing_date": "20200330",
+    "sec_changed_date": "20200330",
+    "sec_accepted_date": "20200330165841",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/794367/000079436720000040/0000794367-20-000040-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/794367/000079436720000040/0000794367-20-000040.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\002\M_0000794367_10K_20200201_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4934553 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 42228,
+    "endpoints": [
+        "Item 1A.Risk Factors.",
+        "Item 2.Properties."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "M",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\002\M_0000794367_10K_20200201_Item1A_excerpt.txt",
+    "time_elapsed": 1.1,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:14:06.008469"
+}

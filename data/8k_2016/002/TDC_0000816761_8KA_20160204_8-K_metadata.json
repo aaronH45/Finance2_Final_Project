@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000816761",
+    "sec_company_name": "TERADATA CORP /DE/ (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20160204",
+    "sec_filing_date": "20160204",
+    "sec_changed_date": "20160204",
+    "sec_accepted_date": "20160204093628",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/816761/000081676116000039/0000816761-16-000039-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/816761/000081676116000039/0000816761-16-000039.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\TDC_0000816761_8KA_20160204_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "29713 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7848,
+    "endpoints": [
+        "8-K   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TDC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\TDC_0000816761_8KA_20160204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:48:00.004653"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001120193",
+    "sec_company_name": "NASDAQ, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211160610",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1120193/000119312521038410/0001193125-21-038410-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1120193/000119312521038410/0001193125-21-038410.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\NDAQ_0001120193_EX991_20210211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13965 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8755,
+    "endpoints": [
+        "EX-99.1   ",
+        "Further information on these and other risk and uncertainties relating to Nasdaq can be found in its reports filed on Forms 10-K, 10-Q and 8-K and in other filings Nasdaq makes with the SEC from time to time and available at www.sec.gov. These documents are also available under the Investor Relations section of Nasdaq’s website at http://ir.nasdaq.com/investor-relations. The forward-looking statements included in this communication are made only as of the date hereof. Nasdaq disclaims any obligation to update these forward-looking statements, except as required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NDAQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\NDAQ_0001120193_EX991_20210211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:52:35.526096"
+}

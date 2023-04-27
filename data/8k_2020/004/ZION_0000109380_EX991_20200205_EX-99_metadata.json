@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000109380",
+    "sec_company_name": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200205",
+    "sec_filing_date": "20200206",
+    "sec_changed_date": "20200205",
+    "sec_accepted_date": "20200205185550",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/109380/000010938020000041/0000109380-20-000041-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/109380/000010938020000041/0000109380-20-000041.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\ZION_0000109380_EX991_20200205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "405369 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 117901,
+    "endpoints": [
+        "a2020investordaypresenta   ",
+        "GAAP to Non-GAAP Reconciliation $ In millions except per share amounts 4Q19 3Q19 2Q19 1Q19 4Q18 Pre-Provision Net Revenue (PPNR) (a) Total noninterest expense (1) $472 $415 $424 $430 $420 LESS adjustments: Severance costs 22 2 1 - 2 Other real estate expense - (2) - (1) - Debt extinguishment cost - - - - - Amortization of core deposit and other intangibles - - - - - Restructuring costs 15 - - - - Pension termination-related expense - - - - - (b) Total adjustments 37 - 1 (1) 2 (a-b)=(c) Adjusted noninterest expense $435 $415 $423 $431 $418 (d) Net interest income 559 567 569 576 576 (e) Fully taxable-equivalent adjustments 7 7 7 6 6 (d+e)=(f) Taxable-equivalent net interest income (TENII) 566 574 576 582 582 (g) Noninterest Income 152 146 132 132 140 (f+g)=(h) Combined Income $718 $720 $708 $714 $722 LESS adjustments: Fair value and nonhedge derivative income (loss) 6 (6) (6) (3) (3) Securities gains (losses), net 2 2 (3) 1 2 (i) Total adjustments 8 (4) (9) (2) (1) (h-i)=(j) Adjusted revenue $710 $724 $717 $716 $723 (j-c) Adjusted pre-provision net revenue (PPNR) $275 $309 $294 $285 $305 Net Earnings Applicable to Common Shareholders (NEAC) (k) Net earnings applicable to common 174 214 189 205 217 (l) Diluted Shares 178,718 181,870 189,089 195,241 199,048 GAAP Diluted EPS 0.97 1.17 0.99 1.04 1.08 PLUS Adjustments: Adjustments to noninterest expense 37 - 1 (1) 2 Adjustments to revenue 8 (4) (9) (2) (1) Tax effect for adjustments (25% for 2019, 38% prior periods) (11) (1) (2) (1) - Preferred stock redemption - - - - - (m) Total adjustments 34 (5) (10) (4) 1 (k+m)=(n) Adjusted net earnings applicable to common (NEAC) 210 209 179 201 218 (n)/(l) Adjusted EPS 1.18 1.15 0.95 1.03 1.10 (o) Average assets 69,575 70.252 69,855 68,584 67,025 (p) Average tangible common equity 5,852 5,988 5,974 5,991 5,923 Profitability (n)/(o) Adjusted Return on Assets (Annualized) 1.20% 1.18% 1.03% 1.19% 1.29% (n)/(p) Adjusted Return on Tangible Common Equity (Annualized) 14.4% 13.8% 12.0% 13.6% 14.6% (c)/(j) Efficiency Ratio 61.3% 57.3% 59.0% 60.2% 57.8% 140"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ZION",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\ZION_0000109380_EX991_20200205_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:46:53.154406"
+}

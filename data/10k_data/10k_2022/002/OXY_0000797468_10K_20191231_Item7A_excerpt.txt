@@ -1,0 +1,85 @@
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+COMMODITY PRICE RISK
+
+GENERAL
+
+Occidental’s results are sensitive to fluctuations in oil, NGL and natural gas prices. Price changes at current global prices and levels of production affect Occidental’s pre-tax annual income by approximately $260 million for a $1 per barrel change in oil prices and $90 million for a $1 per barrel change in NGL prices. If domestic natural gas prices varied by $0.50 per Mcf, it would have an estimated annual effect on Occidental’s pre-tax income of approximately $185 million. These price-change sensitivities include the impact of PSC and similar contract volume changes on income. If production levels change in the future, the sensitivity of Occidental’s results to prices also will change. Marketing results are sensitive to price changes of oil, natural gas and, to a lesser degree, other commodities. These sensitivities are additionally dependent on marketing volumes and cannot be predicted reliably.
+
+Occidental’s results are also sensitive to fluctuations in chemical prices. A variation in chlorine and caustic soda prices of $10 per ton would have a pre-tax annual effect on income of approximately $10 million and $30 million, respectively. A variation in PVC prices of $0.01 per lb. would have a pre-tax annual effect on income of approximately $30 million. Historically, over time, product price changes have tracked raw material and feedstock product price changes, somewhat mitigating the effect of price changes on margins. 
+
+Occidental uses derivative instruments, including a combination of short-term futures, forwards, options and swaps, to obtain the average prices for the relevant production month and to improve realized prices for oil and gas. 
+
+RISK MANAGEMENT
+
+Occidental conducts its risk management activities for marketing and trading under the controls and governance of its risk control policies. The controls under these policies are implemented and enforced by a risk management group which monitors risk by providing an independent and separate evaluation and check. Members of the risk management group report to the Corporate Vice President and Treasurer. Controls for these activities include limits on value at risk, limits on credit, limits on total notional trade value, segregation of duties, delegation of authority, daily price verifications, reporting to senior management on various risk measures and a number of other policy and procedural controls. 
+
+FAIR VALUE OF MARKETING DERIVATIVE CONTRACTS
+
+Occidental carries derivative contracts it enters into in connection with its marketing activities at fair value. Fair values for these contracts are derived from Level 1 and Level 2 sources. The fair values in future maturity periods are insignificant. 
+
+The following table shows the fair value of Occidental’s derivatives (excluding collateral), segregated by maturity periods and by methodology of fair value estimation:
+
+[DATA_TABLE_REMOVED]
+
+50OXY 2019 FORM 10-K
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES 
+
+CASH-FLOW HEDGES
+
+Occidental’s marketing operations, from time to time, store natural gas purchased from third parties at Occidental’s North American leased storage facilities. As of December 31, 2019, and 2018, Occidental had approximately 6 Bcf and 5 Bcf of natural gas held in storage, respectively, and had cash-flow hedges for the forecast sales, to be settled by physical delivery, of approximately 3 Bcf and 4 Bcf of stored natural gas, respectively.
+
+QUANTITATIVE INFORMATION
+
+Occidental uses value at risk to estimate the potential effects of changes in fair values of commodity contracts used in trading activities. This measure determines the maximum potential negative one day change in fair value with a 95% level of confidence. Additionally, Occidental uses complementary trading limits including position and tenor limits and maintains liquid positions as a result of which market risk typically can be neutralized or mitigated on short notice. As a result of these controls, Occidental believes that the market risk of its trading activities is not reasonably likely to have a material adverse effect on its performance. 
+
+INTEREST RATE RISK
+
+GENERAL
+
+Occidental acquired interest rate swap contracts in the Acquisition. Occidental pays a fixed interest rate and receives a floating interest rate indexed to three-month LIBOR. The swaps have an initial term of 30 years with mandatory termination dates in September 2020 through 2023 and a total notional amount of $1.475 billion as of December 31, 2019. In October 2019, $125 million of notional interest rate swaps were terminated. As of December 31, 2019, the fair value of the swaps of negative $1.4 billion net liability was offset by $104 million in posted cash collateral, resulting in a net $1.3 billion liability. A 25-basis point decrease in implied LIBOR rates over the term of the swaps would result in an additional liability of approximately $101 million on these swaps. In January and February 2020, Occidental extended September 2020 mandatory termination dates to September 2021 and September 2022 for swaps with a notional value of $500 million and $150 million, respectively. 
+
+As of December 31, 2019, Occidental had $4.5 billion of variable-rate debt outstanding. A 25-basis point increase in LIBOR interest rates would increase gross interest expense approximately $11 million per year.
+
+As of December 31, 2019, Occidental had $34.3 billion of fixed-rate debt outstanding. A 25-basis point change in Treasury rates would change the fair value of the fixed-rate debt approximately $680 million.
+
+TABULAR PRESENTATION OF INTEREST RATE RISK
+
+The table below provides information about Occidental’s debt obligations. Debt amounts represent principal payments by maturity date including amounts assumed from the Acquisition except WES debt.
+
+[DATA_TABLE_REMOVED]
+
+(a) Excluded net unamortized debt premiums of $914 million and debt issuance cost of $125 million.
+
+FOREIGN CURRENCY RISK
+
+Occidental’s international operations have limited currency risk. Occidental manages its exposure primarily by balancing monetary assets and liabilities and limiting cash positions in foreign currencies to levels necessary for operating purposes. A vast majority of international oil sales are denominated in United States dollars. Additionally, all of Occidental’s consolidated international oil and gas subsidiaries have the United States dollar as the functional currency. As of December 31, 2019, the fair value of foreign currency derivatives used in the marketing operations was immaterial. The effect of exchange rates on transactions in foreign currencies is included in periodic income.
+
+OXY 2019 FORM 10-K51
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES 
+
+CREDIT RISK
+
+The majority of Occidental’s counterparty credit risk is related to the physical delivery of energy commodities to its customers and their inability to meet their settlement commitments. Occidental manages credit risk by selecting counterparties that it believes to be financially strong, by entering into netting arrangements with counterparties and by requiring collateral or other credit risk mitigants, as appropriate. Occidental actively evaluates the creditworthiness of its counterparties, assigns appropriate credit limits, and monitors credit exposures against those assigned limits. Occidental also enters into future contracts through regulated exchanges with select clearinghouses and brokers, which are subject to minimal credit risk as a significant portion of these transactions settle on a daily margin basis. 
+
+Certain over-the-counter derivative instruments contain credit-risk-contingent features, primarily tied to credit ratings for Occidental or its counterparties, which may affect the amount of collateral that each party would need to post. The aggregate fair value of derivative instruments with credit-risk-contingent features for which a net liability position existed at December 31, 2019 was $787 million (net of $169 million collateral), primarily related to acquired interest-rate swaps, and $68 million (net of $1 million of collateral) existed at December 31, 2018.
+
+As of December 31, 2019, the substantial majority of the credit exposures were with investment grade counterparties. Occidental believes its exposure to credit-related losses at December 31, 2019, was not material and losses associated with credit risk have been insignificant for all years presented.
+
+DERIVATIVE INSTRUMENTS HELD FOR NON-TRADING PURPOSES
+
+As of December 31, 2019, Occidental had derivative instruments in place to reduce the price risk associated with future oil production of 350 thousand barrels per day. As of December 31, 2019, these derivative instruments were at a $68 million net derivative liability position. 
+
+The following table shows a sensitivity analysis based on both a 5% and 10% change in commodity prices and their effect on the net derivative liability position of $68 million at December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+52OXY 2019 FORM 10-K
+
+FINANCIAL STATEMENTS
+
+INDEX
+
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

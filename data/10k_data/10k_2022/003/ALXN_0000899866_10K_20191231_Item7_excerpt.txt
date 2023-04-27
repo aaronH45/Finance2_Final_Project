@@ -1,0 +1,621 @@
+Item 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+(amounts in millions, except percentages and per share data)
+
+In addition to historical information, this report contains forward-looking statements that involve risks and uncertainties which may cause our actual results to differ materially from expectations, plans and anticipated results discussed in forward-looking statements. We encourage you to review the risks and uncertainties, discussed in the section entitled item 1A “Risk Factors”, and the “Note Regarding Forward-Looking Statements”, included at the beginning of this Annual Report on Form 10-K. The risks and uncertainties can cause actual results to differ significantly from those forecasted in forward-looking statements or implied in historical results and trends.
+
+The following discussion should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K.
+
+Overview
+
+Alexion is a global biopharmaceutical company focused on serving patients and families affected by rare diseases through the discovery, development and commercialization of life-changing therapies.
+
+As the global leader in complement biology and inhibition for more than 20 years, Alexion has developed and commercializes two approved complement inhibitors to treat patients with paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS), as well as the first and only approved complement inhibitor to treat anti-acetylcholine receptor (AChR) antibody-positive generalized myasthenia gravis (gMG) and neuromyelitis optica spectrum disorder (NMOSD) in patients who are anti-aquaporin-4 (AQP4) antibody positive. Alexion also has two highly innovative enzyme replacement therapies and the first and only approved therapies for patients with life-threatening and ultra-rare metabolic disorders, hypophosphatasia (HPP) and lysosomal acid lipase deficiency (LAL-D).
+
+In addition to our marketed therapies, we have a diverse pipeline resulting from internal innovation and business development. Alexion focuses its research efforts on novel molecules and targets in the complement cascade and its development efforts on the core therapeutic areas of hematology, nephrology, neurology, metabolic disorders and cardiology.
+
+Recent Developments 
+
+In November 2019, Japan’s Ministry of Health, Labour and Welfare (MHLW) approved the extension of the current marketing authorization of SOLIRIS® (eculizumab) to include the prevention of relapse in patients with anti-aquaporin-4 (AQP4) 
+
+antibody-positive neuromyelitis optica spectrum disorder (NMOSD), including neuromyelitis optica.
+
+In December 2019, we exercised our option for exclusive rights to two additional targets within the complement pathway under an existing agreement with Dicerna Pharmaceuticals, Inc, which expands Alexion’s existing research collaboration and license agreement with Dicerna to include a total of four targets within the complement pathway. In connection with the option exercise, we paid Dicerna $20.0 in the fourth quarter 2019.
+
+In December 2019, following FDA feedback which resulted in the redesign and expansion of Caelum’s planned clinical development program for CAEL-101, we amended the terms of our existing option agreement with Caelum. The amendment modified the terms of the option to acquire the remaining equity in Caelum based on data from the expanded Phase II/III trials. The amendment also modified the development-related milestone events associated with the initial $30.0 in contingent payments, provided for an additional $20.0 in upfront funding, as well as funding of $60.0 in exchange for an additional equity interest at fair value upon achievement of a specific development-related milestone event. 
+
+On January 28, 2020, we completed the acquisition of Achillion Pharmaceuticals, Inc. (Achillion). Achillion is a clinical-stage biopharmaceutical company focused on the development of oral Factor D inhibitors. Achillion is developing oral small molecule Factor D inhibitors to treat complement alternative pathway-mediated rare diseases, such as PNH and C3 glomerulopathy (C3G). The company currently has two clinical stage medicines in development. Phase 3 development is being initiated for danicopan as an add-on therapy for PNH patients with extravascular hemolysis and danicopan is also in Phase 2 development for C3G, and ACH-5228 is in Phase 2 development for PNH. Under the terms of the agreement, we acquired all outstanding common stock of Achillion for $6.30 per share, or approximately $926.0, inclusive of the settlement of Achillion’s outstanding equity awards. The acquisition was funded with cash on hand. The transaction includes the potential for additional consideration in the form of non-tradeable contingent value rights (CVRs), which will be paid to Achillion shareholders if certain clinical and regulatory milestones are achieved within specified periods. These include $1.00 per share for the U.S. FDA approval of danicopan and $1.00 per share for the initiation of Phase 3 in ACH-5228.
+
+66
+
+Critical Accounting Policies and Estimates
+
+The significant accounting policies and basis of preparation of our consolidated financial statements are described in Note 1, “Business Overview and Summary of Significant Accounting Policies” of the Consolidated Financial Statements included in this Annual Report on Form 10-K. The preparation of these financial statements in conformity with GAAP requires that management make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and other related disclosures. Some of those judgments can be subjective and complex, and therefore, actual results could differ materially from those estimates under different assumptions or conditions.
+
+We believe the judgments, estimates and assumptions associated with the following critical accounting policies have the greatest potential impact on our consolidated financial statements:
+
+•Revenue recognition;
+
+•Contingent liabilities;
+
+•Share-based compensation;
+
+•Valuation of goodwill, acquired intangible assets and in-process research and development (IPR&D);
+
+•Valuation of contingent consideration; and
+
+•Income taxes.
+
+Revenue Recognition
+
+Our principal source of revenue is product sales. Our contracts with customers generally contain a single performance obligation and we recognize revenue from product sales when we have satisfied our performance obligation by transferring control of the product to our customers. Control of the product generally transfers to the customer upon delivery. In certain countries, we sell to distributors on a consignment basis and record revenue when control of the product transfers to the customer upon sale to the end user.
+
+Revenue is recognized at the amount to which we expect to be entitled in exchange for the sale of our products. This amount includes both fixed and variable consideration and excludes amounts that are collected from customers and remitted to governmental authorities, such as value-added taxes in foreign jurisdictions. 
+
+Variability in the transaction price for our products pursuant to our contracts with customers primarily arises from the following:
+
+Discounts and Rebates: We offer discounts and rebates to certain distributors and customers under our arrangements. In many cases, these amounts are fixed at the time of sale and the transaction price is reduced accordingly. We also provide for rebates under certain governmental programs, including Medicaid in the U.S. 
+
+and other programs outside the U.S., which are payable based on actual claim data. We estimate these rebates based on an analysis of historical claim patterns and estimates of customer mix to determine which sales will be subject to rebates and the amount of such rebates. Generally, the length of time between product sale and the processing and reporting of the rebates is three to six months.
+
+Volume-Based Arrangements: We have entered into volume-based arrangements with governments in certain countries and other customers in which reimbursement is limited to a contractual amount. Under this type of arrangement, amounts billed in excess of the contractual limitation are repaid to the customer as a rebate. We estimate incremental discounts resulting from these contractual limitations, based on forecasted sales during the limitation period, and we apply the discount percentage to product shipments as a reduction of revenue. Our calculations related to these arrangements require estimation of sales during the limitation period.
+
+We believe the methodology used to accrue for discounts and rebates is reasonable and appropriate given current facts and circumstances, but actual results may differ.
+
+We have provided balances and activity in the rebates payable account for the years ended December 31, 2019, 2018 and 2017 as follows:
+
+[DATA_TABLE_REMOVED]
+
+(1) Included in the adjustments related to prior years is an accrual recorded in 2019 related to the PMPRB matter. See Note 11, Commitments and Contingencies for additional information.
+
+Current provisions relating to sales in the current year increased by $87.3 in 2019 compared to 2018 and $41.6 in 2018 compared to 2017. The increase in 2019 and 2018 was primarily due to increased unit volumes in the U.S. which were subject to rebates as well as increases in rebate rates in the U.S. on certain product sales. The increase in 2017 was attributable to 
+
+67
+
+increased unit volumes in the U.S. and Europe, which were subject to rebates, as well as to increases in rebate rates in certain geographical regions and on certain product sales as compared to the prior year.
+
+Contingent liabilities
+
+We are currently involved in various claims and legal proceedings. On a quarterly basis, we review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim, asserted or unasserted, or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and the determination as to whether an exposure is reasonably estimable. Because of uncertainties related to claims and litigation, accruals are based on the best information available at the time of our assessment including the legal facts and circumstances of the case, status of the proceedings, applicable law and the likelihood of settlement, if any. On a periodic basis, as additional information becomes available, or based on specific events such as the outcome of litigation or settlement of claims (and our offers of settlement), we may reassess the potential liability related to these matters and may revise these estimates, when facts and circumstances indicate the need for any change.
+
+Share-Based Compensation
+
+The Company recognizes compensation expense associated with the issuance of equity instruments that may be granted to our directors, officers, employees and consultants or advisors of the Company or any subsidiary. To date, share-based compensation issued consists of incentive and non-qualified stock options, restricted stock and restricted stock units, including restricted stock units with market and non-market performance conditions, and shares issued under our ESPP. 
+
+Compensation expense for our share-based awards is recognized based on the estimated fair value of the awards on the grant date. Compensation expense reflects an estimate of the number of awards expected to vest and is primarily recognized on a straight-line basis over the requisite service period of the individual grants, which typically equals the vesting period. Compensation expense for awards with performance conditions is recognized using the graded-vesting method. 
+
+Significant judgments and assumptions are used in estimating compensation cost for restricted stock units containing market-based performance conditions as well as non-market performance conditions relating to the achievement of operational metrics. We use payout simulation models to estimate the grant date fair value of awards with market-based performance conditions. The payout simulation models assume 
+
+volatility of our common stock and the common stock of a comparator group of companies, as well as correlations of returns of the price of our common stock and the common stock prices of the comparator group. For our non-market performance-based awards, we estimate the anticipated achievement of the performance targets, including forecasting the achievement of future financial targets. These estimates are revised periodically based on the probability of achieving the performance targets and adjustments are made throughout the performance period as necessary. Changes in estimates and probability of achieving the performance targets could have a material impact on our results of operations.
+
+Valuation of Goodwill, Acquired Intangible Assets and In-Process Research and Development (IPR&D)
+
+We have recorded goodwill and acquired intangible assets related to our business combinations. When identifiable intangible assets, including IPR&D, are acquired, we determine the fair values of the assets as of the acquisition date. Discounted cash flow models are typically used in these valuations if quoted market prices are not available, and the models require the use of significant estimates and assumptions including but not limited to: 
+
+•timing and costs to complete the in-process projects;
+
+•timing and probability of success of clinical events or regulatory approvals;
+
+•estimated future cash flows from product sales resulting from completed products and in-process projects; and
+
+•discount rates.
+
+We may also utilize a cost approach, which estimates the costs that would be incurred to replace the assets being purchased. Significant inputs into the cost approach include estimated rates of return on historical costs that a market participant would expect to pay for these assets.
+
+Intangible assets with definite useful lives are amortized to their estimated residual values over their estimated useful lives and reviewed for impairment if triggering events occur.
+
+As of December 31, 2019, the net book value of our purchased technology includes $2,992.4 associated with the KANUMA intangible asset, which we acquired in the acquisition of Synageva BioPharma Corp. As part of our standard procedures, we reviewed the KANUMA asset as of December 31, 2019 and determined that there were no indicators of impairment. Cash flow models used in our assessments are based on our commercial experience to date with KANUMA and require the use of significant estimates, which include, but are not limited to, long-range pricing expectations and patient-related assumptions, including patient identification, 
+
+68
+
+conversion and retention rates. We will continue to review the related valuation and accounting of this asset as new information becomes available to us.
+
+Goodwill represents the excess of purchase price over fair value of net assets acquired in a business combination and is not amortized. Goodwill is subject to impairment testing at least annually or when a triggering event occurs that could indicate a potential impairment. We are organized and operate as a single reporting unit and therefore the goodwill impairment test is performed using our overall market value, as determined by our traded share price, compared to our book value of net assets. 
+
+Valuation of Contingent Consideration
+
+We record contingent consideration resulting from a business combination at its fair value on the acquisition date. We determine the fair value of the contingent consideration based primarily on the following factors:
+
+•timing and probability of success of clinical events or regulatory approvals;
+
+•timing and probability of success of meeting commercial milestones, such as estimated future sales levels of a specific compound; and
+
+•discount rates.
+
+Our contingent consideration liabilities arose in connection with our business combinations. On a quarterly basis, we revalue these obligations and record increases or decreases in their fair value as an adjustment to operating earnings. Changes to contingent consideration obligations can result from adjustments to discount rates, accretion of the discount rates due to the passage of time, changes in our estimates of the likelihood or timing of achieving development or commercial milestones, changes in the probability of certain clinical events or changes in the assumed probability associated with regulatory approval. 
+
+The assumptions related to determining the value of contingent consideration include a significant amount of judgment, and any changes in the underlying estimates could have a material impact on the amount of contingent consideration expense recorded in any given period.
+
+Income Taxes
+
+We utilize the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on the difference between the financial statement carrying amounts and tax basis of assets and liabilities using enacted tax rates in effect for years in which the temporary differences are expected to reverse. 
+
+On December 22, 2017, the Tax Cuts and Jobs Act (Tax Act) was enacted into law. The Tax Act decreased 
+
+the U.S. statutory corporate tax rate for years beginning after December 31, 2017, and included other domestic and international tax provisions that affect the measurement of our deferred tax assets and liabilities. As a result, we revalued our deferred tax assets and liabilities as of December 31, 2017 and recorded a deferred tax benefit of $292.4. We recorded other impacts of the Tax Act on a provisional basis in 2017. As of December 22, 2018, our accounting for the impact of the Tax Act was complete. See Note 12, Income Taxes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information.
+
+If our estimate of the tax effect of reversing temporary differences is not reflective of actual outcomes, is modified to reflect new developments or interpretations of the tax law, revised to incorporate new accounting principles, or changes in the expected timing or manner of the reversal our results of operations could be materially impacted. 
+
+We follow the authoritative guidance regarding accounting for uncertainty in income taxes, which prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. These unrecognized tax benefits relate primarily to issues common among multinational corporations in our industry. We apply a variety of methodologies in making these estimates which include studies performed by independent economists, advice from industry and subject experts, evaluation of public actions taken by the IRS and other taxing authorities, as well as our own industry experience. We provide estimates for unrecognized tax benefits which may be subject to material adjustments until matters are resolved with taxing authorities or statutes expire. If our estimates are not representative of actual outcomes, our results of operations could be materially impacted.
+
+We continue to maintain a valuation allowance against certain deferred tax assets where realization is not certain. We periodically evaluate the likelihood of the realization of deferred tax assets and reduce the carrying amount of these deferred tax assets by a valuation allowance to the extent we believe a portion will not be realized. We consider many factors when assessing the likelihood of future realization of deferred tax assets, including our recent cumulative earnings experience by taxing jurisdiction, expectations of future taxable income, carryforward periods available to us for tax reporting purposes, various income tax strategies and other relevant factors. Significant judgment is required in making this assessment and, to the extent future expectations change, we would assess the recoverability of our deferred tax assets at that time. If we determine that the deferred tax assets are not realizable in a future period, we would record 
+
+69
+
+adjustments to income tax expense in that period, and such adjustments may be material.
+
+During the fourth quarter of 2013, in connection with the centralization of our global supply chain and technical operations in Ireland, our U.S. parent company became a direct partner in a captive foreign partnership. Our corporate structure, which derives income from multiple jurisdictions, requires us to interpret the related tax laws and regulations within those jurisdictions and develop estimates and assumptions regarding significant future events, such as the amount, timing and character of deductions and the applicability of foreign tax credits. From time to time, we execute intercompany transactions that may impact the valuation of the captive foreign partnership and the corresponding interest allocated to each partner, resulting in a change to deferred taxes. The transactions and related valuations require the application of transfer pricing guidelines issued by the relevant taxing authorities. Significant estimates and assumptions within discounted cash flow models are also required to calculate the valuations. These estimates and assumptions include, but are not limited to, estimated future operating cash flows, revenue growth rate assumptions, long-range pricing expectations, patient-related assumptions and other significant inputs such as discount rates and rates of return. 
+
+New Accounting Pronouncements
+
+Accounting Standards Update (ASU) 2016-13, “Measurement of Credit Losses on Financial Instruments”: In June 2016, the Financial Accounting Standards Board (FASB) issued a new standard intended to improve reporting requirements specific to loans, receivables and other financial instruments. The new standard requires that credit losses on financial assets measured at amortized cost be determined using an expected loss model, instead of the current incurred loss model, and requires that credit losses related to available-for-sale debt securities be recorded through an allowance for credit losses and limited to the amount by which carrying value exceeds fair value. The new standard also requires enhanced disclosure of credit risk associated with financial assets. The standard is effective for interim and annual periods beginning after December 15, 2019 with early adoption permitted.
+
+We adopted the new standard on January 1, 2020 and have substantially completed our assessment of the standard based on the composition of our portfolio of financial instruments and current and forecasted economic conditions as of January 1, 2020. We are continuing to finalize our calculations for credit losses and to establish processes and internal controls that may be required to comply with the new credit loss standard and related disclosure requirements. We do not expect the adoption of this standard to have a significant impact on our consolidated financial statements.
+
+ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract”: In August 2018, the FASB issued a new standard on a customer's accounting for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement (CCA) that aligns the requirements for capitalizing implementation costs in a CCA service contract with existing internal-use software guidance. The standard also provides classification guidance on these implementation costs as well as additional quantitative and qualitative disclosures. The standard is effective for interim and annual periods beginning after December 15, 2019, with early adoption permitted, and can be adopted prospectively or retrospectively. 
+
+We adopted the new standard on January 1, 2020 on a prospective basis and are continuing to establish new processes and internal controls that may be required to comply with the new cloud computing standard. We do not expect the adoption of this standard to have a significant impact on our financial statements; however, the adoption of this standard will result in an increase in capitalized assets related to qualifying CCA implementation costs incurred after the adoption date.
+
+ASU 2019-12, “Income Taxes: Simplifying the Accounting for Income Taxes”: In December 2019, the FASB issued a new standard intended to simplify the accounting for income taxes by eliminating certain exceptions related to the approach for intraperiod tax allocation, the methodology for calculating income taxes in an interim period and the recognition of deferred tax liabilities for outside basis differences. The new guidance also simplifies aspects of the accounting for franchise taxes and enacted changes in tax laws or rates and clarifies the accounting for transactions that result in a step-up in the tax basis of goodwill. The standard is effective for annual periods beginning after December 15, 2020 and interim periods within, with early adoption permitted. Adoption of the standard requires certain changes to primarily be made prospectively, with some changes to be made retrospectively. We are currently assessing the impact of this standard on our financial condition and results of operations.
+
+ASU 2020-01, “Investments - Equity Securities, Investments - Equity Method and Joint Ventures, and Derivatives and Hedging - Clarifying the Interactions Between Topic 321, Topic 323, and Topic 815”: In January 2020, the FASB issued a new standard intended to clarify the interactions between ASC 321, ASC 323 and ASC 815. The new standard addresses accounting for the transition into and out of the equity method and measurement of certain purchased options and forward contracts to acquire investments. The standard is effective for annual and interim 
+
+70
+
+periods beginning after December 15, 2020, with early adoption permitted. Adoption of the standard requires changes to be made prospectively. We are currently assessing the impact of this standard on our financial condition and results of operations.
+
+Recently Adopted Accounting Pronouncements
+
+ASU 2016-02, “Leases”: In February 2016, the FASB issued a new standard that requires lessees to recognize leases on-balance sheet and disclose key information about leasing arrangements. The new standard establishes a right of use (ROU) model that requires a lessee to recognize a ROU asset and lease liability on the balance sheet for all leases with a term longer than 12 months. Leases will be classified as financing or operating, with classification affecting the pattern and classification of expense recognition in the statement of operations. 
+
+We adopted the new standard on January 1, 2019 using the modified retrospective approach. We have elected to apply the transition method that allows companies to continue applying the guidance under the lease standard in effect at that time in the comparative periods presented in the consolidated financial statements and recognize a cumulative-effect adjustment to the opening balance of retained earnings on the date of adoption. We also elected the “package of practical expedients”, which permits us not to reassess under the new standard our prior conclusions about lease identification, lease classification and initial direct costs. 
+
+Results for reporting periods beginning on or after January 1, 2019 are presented under the new standard, 
+
+while prior period amounts are not adjusted and continue to be reported under the accounting standards in effect for the prior period. Upon adoption of the new lease standard, on January 1, 2019, we derecognized $472.8 of property, plant and equipment and other assets and $372.2 of facility lease obligations associated with previously existing build-to-suit arrangements. We capitalized ROU assets of $326.1, inclusive of opening adjustments of $70.8 primarily related to prepaid rent existing at transition, and $255.3 of lease liabilities, within our consolidated balance sheets upon adoption. At transition, we recorded a decrease of $90.3 to retained earnings, net of tax, primarily related to our derecognition of previously recorded build-to-suit arrangements.
+
+ ASU 2018-02, “Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income”: In February 2018, the FASB issued a new standard that permits entities to make a one-time reclassification from accumulated other comprehensive income (AOCI) to retained earnings for the stranded tax effects resulting from the newly enacted corporate tax rates under the Tax Cuts and Jobs Act (the Tax Act) that was effective for the year ended December 31, 2017. We adopted the new standard on January 1, 2019 and elected not to reclassify the income tax effects of the Tax Act from AOCI to retained earnings. We continue to release disproportionate income tax effects from AOCI based on the aggregate portfolio approach. The adoption of this standard did not have an impact on our consolidated financial statements.
+
+71
+
+Results of Operations
+
+The following table sets forth consolidated statements of operations data for the periods indicated. This information has been derived from the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. 
+
+[DATA_TABLE_REMOVED]
+
+72
+
+Comparison of the Years Ended December 31, 2019, 2018, and 2017 
+
+Net Product Sales
+
+Net product sales by product and significant geographic region are as follows:
+
+[DATA_TABLE_REMOVED]
+
+** Percentages not meaningful
+
+73
+
+Net Product Sales (consolidated) 
+
+ United States Asia Pacific
+
+ Europe Rest of World
+
+SOLIRIS net product sales
+
+ United States Asia Pacific
+
+ Europe Rest of World
+
+ULTOMIRIS net product sales
+
+ United States Asia Pacific
+
+ Europe Rest of World
+
+STRENSIQ net product sales
+
+ United States Asia Pacific
+
+ Europe Rest of World
+
+74
+
+KANUMA net product sales
+
+ United States Asia Pacific
+
+ Europe Rest of World
+
+The increase in net product sales for fiscal year 2019, as compared to fiscal year 2018, was primarily due to an increase in unit volumes. This increase in unit volumes was primarily due to increased global demand for SOLIRIS therapy, with sales to patients with gMG being the largest driver, as well as ULTOMIRIS volumes due to the loading doses required in a patient's first year on therapy. Partially offsetting the SOLIRIS increase was the conversion of PNH patients from SOLIRIS to ULTOMIRIS. While ULTOMIRIS contributed to 2019, the ULTOMIRIS volumes were primarily attributable to PNH patient conversion from SOLIRIS in the U.S. Additional unit volume increases were due to increased demand of STRENSIQ and KANUMA during 2019 as a result of our continued efforts to identify and reach more patients with HPP and LAL-D globally.
+
+The increase in net product sales for fiscal year 2019, as compared to fiscal year 2018, was partially offset by price decreases of which the largest driver was $29.8, or 0.7%, as a result of a judicial order issued in the second quarter 2019 related to SOLIRIS pricing in Canada. The decision led to a reduction of revenue in the second quarter of 2019 and further reductions in all subsequent quarters until the appeals process concludes. The reduction of revenue recorded for the year ended December 31, 2019 includes the impact for the period from September 2017 to December 2019.
+
+As a result of patient conversion from SOLIRIS to ULTOMIRIS, we expect variability in our revenues in future quarters due to the extended ULTOMIRIS dosing interval and infusion timing which may result in either one or two infusions in a quarter. ULTOMIRIS loading doses for PNH patients will result in increased revenues during a patient’s first year on therapy. The ULTOMIRIS annual maintenance dose for PNH and aHUS requires 
+
+fewer vials as compared to the annual dose for SOLIRIS. Due to the decision to price ULTOMIRIS lower than SOLIRIS on an annual basis, we anticipate U.S. revenues will be unfavorably impacted by the lower annual cost per patient in maintenance years, with the impact more pronounced for aHUS due to the greater decrease in vials for aHUS ULTOMIRIS patients.
+
+As a result of strategic pricing decisions implemented for STRENSIQ in the U.S. that limit annual treatment costs given weight based dosing, we expect price to be unfavorably impacted for STRENSIQ in the U.S. in future periods as compared to prior periods.
+
+The increase in net product sales for fiscal year 2018, as compared to fiscal year 2017, was primarily due to an increase in unit volumes. This increase in unit volumes is primarily due to increased global demand for SOLIRIS therapy, including sales to patients with gMG, which received regulatory approval in the second half of 2017. Additional unit volume increases were due to increased sales of STRENSIQ and KANUMA during 2018 as a result of our continued efforts to identify and reach more patients with HPP and LAL-D globally.
+
+The increase in net product sales for fiscal year 2018, as compared to fiscal year 2017, was partially offset by price decreases of 3.9% due, in part, to a price change in Turkey resulting from a formalized reimbursement agreement, subsequent to marketing authorization, in the third quarter of 2018. In addition, rebates in the U.S. and reimbursement agreements outside the U.S. for our metabolic products also contributed to this decrease in net product sales.
+
+Cost of Sales
+
+Cost of sales includes manufacturing costs, actual and estimated royalty expenses associated with sales of our products, and amortization of licensing rights. 
+
+The following table summarizes cost of sales for the years ended December 31, 2019, 2018 and 2017:
+
+ Cost of Sales
+
+●Cost of sales as a percentage of net product sales
+
+The decrease in cost of sales as a percentage of net product sales for the year ended December 31, 2019, as compared to the same periods in 2018 and 
+
+75
+
+2017, was primarily due to decreases in royalty expenses due to a contract expiration that occurred in the fourth quarter 2018. Additionally, cost of sales for the year ended December 31, 2018 and December 31, 2017 included asset related charges of $5.8 and $152.1, respectively, associated with the closure of the ARIMF facility announced in the third quarter of 2017 (this facility was sold in 2018). These charges primarily relate to accelerated depreciation and the impairment of manufacturing assets.
+
+Exclusive of the items mentioned above, cost of sales as a percentage of net product sales was 8.7%, 8.9% and 8.5% for the years ended December 31, 2019, 2018 and 2017, respectively.
+
+Research and Development Expense
+
+ Research and Development Expense (R&D)
+
+●R&D as a % of net product sales
+
+Our research and development expense includes personnel, facility and direct costs associated with the research and development (R&D) of our product candidates, as well as product development costs. For additional information on our development programs, please refer to Product and Development Programs in Item I Business of this Annual Report on Form 10-K.
+
+R&D expenses are comprised of costs paid for clinical development, product development and discovery research, as well as costs associated with certain strategic licensing agreements and R&D-related asset purchase agreements we have entered into with third parties. Clinical development costs are comprised of costs to conduct and manage clinical trials related to eculizumab, ALXN1210 and other product candidates. Product development costs are those incurred in performing duties related to manufacturing development and regulatory functions, including manufacturing of material for clinical and research activities and other administrative costs incurred during product development. Discovery research costs are incurred in conducting laboratory studies and performing preclinical research for other uses of our products and other product candidates. Upfront payments include upfront payments related to strategic licensing agreements and R&D-related asset purchase 
+
+agreements. Subsequent milestone payments incurred under such agreements which relate to R&D activities are classified as clinical, discovery or product development costs based on the nature of the underlying milestone event. Clinical development costs have been accumulated and allocated to each of our programs, while product development and discovery research costs have not been allocated.
+
+Other R&D expenses consist of costs to compensate personnel, to maintain our facilities and equipment, and other occupancy costs associated with our research and development efforts. These costs relate to efforts on our clinical and preclinical products, our product development and our discovery research efforts. These costs have not been allocated directly to each program.
+
+The following graph provides information regarding research and development expenses: 
+
+[DATA_TABLE_REMOVED]
+
+During the year ended December 31, 2019, we incurred R&D expenses of $886.0, an increase of $155.6, or 21.3%, versus the $730.4 incurred during the year ended December 31, 2018. The increase was primarily related to the following:
+
+•Increase of $76.7 in upfront payments primarily related to the license payments made in connection with the arrangements we entered into with Zealand Pharma A/S (Zealand), Affibody AB (Affibody), Eidos Therapeutics, Inc. (Eidos) and Stealth BioTherapeutics Corp. (Stealth) in 2019. Upfront payments made in 2018 related to the agreement entered into with Dicerna Pharmaceuticals Inc. (Dicerna).
+
+76
+
+•Increase of $37.1 in payroll and benefits primarily related to headcount increases.
+
+•Increase of $34.8 in discovery mainly driven by target option exercise fees and research milestones associated with our agreement with Dicerna.
+
+•Increase of $23.6 in direct clinical development expenses related primarily to increases in various studies (see graph on following page summarizing expenses related to our clinical development programs).
+
+•Decrease of $18.2 in direct product development expenses related primarily to a decrease in costs associated with the manufacturing of material for ALXN1210, partially offset by an increase for material related to ALXN1830 and ALXN1840.
+
+During the year ended December 31, 2018, we incurred research and development expenses of $730.4, a decrease of $148.0, or 16.8%, versus the $878.4 incurred during the year ended December 31, 2017. The decrease was primarily related to the following:
+
+•Decrease of $70.9 in direct clinical development expenses related primarily to decreases in various eculizumab clinical studies, offset by expansion of studies for ALXN1210.
+
+•Increase of $13.0 in direct product development expenses related primarily to an increase in costs associated with the manufacturing of material for ALXN1210 offset by a decrease in ALXN6000 clinical research activities (the ALXN6000 program has been discontinued).
+
+•Decrease of $22.2 in upfront payments due to the nature and timing of licensing agreements executed in 2018 compared to 2017.
+
+•Decrease of $12.9 in discovery primarily related to de-prioritized preclinical arrangements with Moderna Therapeutics and Blueprint Medicines. We no longer conduct development efforts with these entities.
+
+•Decrease of $26.0 in payroll and benefits primarily related to headcount reductions resulting from restructuring activities initiated in 2017.
+
+•Decrease of $29.0 in facilities and other related expenses primarily related to decreased facilities expenses primarily resulting from the impact of the 2017 restructuring.
+
+The following graph summarizes expenses related to our clinical development programs: 
+
+ 2019 2018 2017
+
+77
+
+The following graph summarizes accumulated direct expenses related to our clinical development programs from January 1, 2006 to December 31, 2019:
+
+(a) From 1992 through 2006, substantially all research and development expenses were related to two products, eculizumab and pexelizumab. We obtained approval in the U.S. for eculizumab for PNH in 2007 and for aHUS in 2010, and we ceased development of pexelizumab in 2006.
+
+(b) Unallocated costs shared across various development programs.
+
+The successful development of our drug candidates is uncertain and subject to a number of risks. We cannot guarantee that results of clinical trials will be favorable or sufficient to support regulatory approvals for any of our product development programs. We could decide to abandon development or be required to spend considerable resources not otherwise contemplated. For additional discussion regarding the risks and uncertainties regarding our research and development programs, please refer to Item 1A “Risk Factors” in this Annual Report on Form 10-K.
+
+We expect our research and development expenses to increase as a percentage of sales in 2020 as compared to 2019. 
+
+Selling, General and Administrative Expense
+
+ Selling General and Administrative Expense (SG&A)
+
+●SG&A as a % of net product sales
+
+Our selling, general and administrative expense includes commercial and administrative personnel, corporate facility and external costs required to support the marketing and sales of our commercialized products. These selling, general and administrative costs include: corporate facility operating expenses and depreciation; marketing and sales operations in support of our products; human resources; finance, legal, information technology and support personnel expenses; and other corporate costs such as telecommunications, insurance, audit, government affairs and our global corporate compliance program.
+
+The table below provides information regarding selling, general and administrative expense:
+
+ Salary, benefits and other labor expense
+
+ External selling, general and administrative expense
+
+During the year ended December 31, 2019, we incurred selling, general and administrative expenses of $1,261.1, an increase of $149.3, or 13.4%, versus the $1,111.8 incurred during the year ended December 31, 2018. The increase was primarily related to the following:
+
+78
+
+•Increase in salary, benefits and other labor expenses of $112.3. The increase was primarily related to headcount increases driven by an increase in commercial activities related to SOLIRIS for gMG and increased staff costs associated with commercial support activities including NMOSD pre-launch efforts. Employee related costs associated with our share-based compensation plans also increased.
+
+•Increase in external selling, general and administrative expenses of $37.0. The increase was primarily driven by an increase in charitable contributions and professional services.
+
+During the year ended December 31, 2018, we incurred selling, general and administrative expenses of $1,111.8, an increase of $17.4, or 1.6%, versus the $1,094.4 incurred during the year ended December 31, 2017. The increase was primarily related to the following:
+
+•Increase in external selling, general and administrative expenses of $20.2. The increase was primarily due to an increase in professional services and asset related charges associated with previously announced restructuring programs. These increases were partially offset by decreased distribution expenses as compared to the same period in 2017.
+
+We expect our selling, general and administrative expenses to decrease as a percentage of sales in 2020 as compared to 2019.
+
+Acquired In-Process Research and Development
+
+ For the year ended December 31, 2019, we recorded a benefit of $4.1 to acquired in-process research and development (IPR&D) associated with previously acquired IPR&D related to the Syntimmune acquisition as a result of the agreement of the final working capital adjustment in the second quarter 2019. 
+
+For the year ended December 31, 2018, we recorded acquired IPR&D expense of $1,183.0 related to the Wilson Therapeutics acquisition completed in the second quarter of 2018 and the Syntimmune acquisition 
+
+completed in the fourth quarter of 2018. The IPR&D assets associated with each of these acquisitions, which were the principal assets acquired in each transaction, had not reached technological feasibility and had no alternative future use as of the acquisition date and were therefore expensed in 2018. 
+
+Amortization of Purchased Intangible Assets
+
+Amortization expense associated with purchased intangible assets was $309.6, $320.1 and $320.1 for the years ended December 31, 2019, 2018 and 2017, respectively. Amortization expense is primarily associated with intangible assets related to STRENSIQ and KANUMA. 
+
+During the third quarter 2019, the U.S. patent term extension to a composition of matter patent for STRENSIQ was granted, which resulted in an increase in the estimated useful life of the STRENSIQ intangible asset and will result in lower amortization expense in future periods.
+
+Change in Fair Value of Contingent Consideration
+
+For the years ended December 31, 2019, 2018 and 2017, the change in fair value of contingent consideration expense associated with our prior business combinations was $11.6, $116.5 and $41.0, respectively. The change in the fair value of contingent consideration will fluctuate based on the timing of recognition of changes in the probability of achieving contingent milestones and the expected timing of milestone payments in connection with previous acquisitions.
+
+79
+
+For the year ended December 31, 2019, changes in the fair value of contingent consideration expense include the impact of changes in the expected timing of achieving contingent milestones, in addition to the interest component related to the passage of time.
+
+In September 2018, we amended the terms of certain contingent milestone payments due under our prior merger agreement with Enobia Pharma Corp. (Enobia), dated December 28, 2011. The agreement removed our obligations with respect to a regulatory milestone and redistributed the contingent payment associated with this milestone to various sales milestones. As a result of this agreement and the probability of achieving the various sales milestones, our contingent consideration liability increased by $48.7 in the third quarter 2018.
+
+For the year ended December 31, 2018, changes in the fair value of contingent consideration expense primarily reflect the impact of the agreement with Enobia to amend milestones and changes in the expected timing of payments of contingent consideration, as well as the interest component of contingent consideration related to the passage of time.
+
+Restructuring Expenses
+
+For the years ended December 31, 2019, 2018 and 2017, we recorded $12.0, $25.5 and $104.6, respectively, in restructuring expenses. The charges for the year ended December 31, 2019 relate to restructuring activities initiated in the first quarter 2019 to re-align our international commercial organization.
+
+The charges for the year ended December 31, 2018 were mainly attributable to the relocation of our corporate headquarters from New Haven, Connecticut to Boston, Massachusetts and other related costs. The charges for the year ended 2017 were mainly attributable to employee separation costs in connection with the 2017 restructuring. In the first quarter of 2017, we initiated a company-wide restructuring designed to help position the Company for sustainable, long-term growth that we believe will further allow us to fulfill our mission of serving patients and families with rare diseases. The initial restructuring activities primarily focused on a reduction of the Company's global workforce. In September 2017, we committed to an 
+
+operational plan to re-align the global organization with our refocused corporate strategy. The re-alignment focused investments in priority growth areas to maximize leadership in complement and grow the rare disease business. The re-alignment also included the relocation of the Company's headquarters to Boston, Massachusetts in 2018. Our New Haven, Connecticut site continues to support employees working in the research and process development laboratories, the clinical supply and quality teams, patient support program and a number of important enterprise business services. The 2017 restructuring plan reduced the Company's global workforce by approximately 20.0%. The restructuring achieved cost savings by focusing the development portfolio, simplifying business structures and processes across the Company's global operations, and closing of multiple Alexion sites, including ARIMF and certain regional and country-based offices.
+
+Impairment of Intangible Assets
+
+In the second quarter 2017, due to clinical results, we recognized an impairment charge of $31.0 related to our SBC-103 acquired in-process research and development asset to write-down the asset to fair value, which was determined to be de minimis.
+
+As of December 31, 2019, we reviewed the KANUMA asset for impairment and determined that there were no indicators of impairment. We will continue to review the related valuation and accounting of this asset in future quarters as new information becomes available to us. Changes to assumptions used in our net cash flow projections may result in impairment charges in subsequent periods. The net book value of the KANUMA intangible asset as of December 31, 2019 is $2,992.4.
+
+80
+
+Other Income and (Expense)
+
+The following table provides information regarding other income and expense:
+
+ Investment Income
+
+ Interest Expense
+
+ Other Income (expense)
+
+For the years ended December 31, 2019 and 2018, we recognized other income of $35.9 and $5.5, respectively. The increase in other income is primarily related to a gain of $32.0 resulting from an amendment to the terms of our option agreement with Caelum in the fourth quarter of 2019.
+
+For the years ended December 31, 2019, 2018 and 2017, we recognized investment income of $100.3, $65.3 and $18.5, respectively. The increase is primarily related to unrealized gains and losses on our strategic equity investments recorded at fair value. During the year ended December 31, 2019, we recorded unrealized gains of $26.9 on our strategic equity investments and recognized a net realized gain of $32.8 related to the sale of our Moderna Therapeutics Inc. (Moderna) equity investment. For the year ended December 31, 2018, we recorded unrealized gains of $43.0 on our strategic equity investments, primarily related to our Moderna equity investment. 
+
+For the years ended December 31, 2019, 2018 and 2017, we recorded $77.8, $98.2 and $98.4, respectively, in interest expense. The decrease in interest expense is driven by the derecognition of certain previously recorded build-to-suit arrangements in the first quarter 2019 due to the adoption of the new lease accounting standard.
+
+Income Taxes 
+
+ Income tax (benefit) expense
+
+●Effective Tax Rate
+
+The income tax (benefit) expense for the years ended December 31, 2019, 2018 and 2017 is attributable to the U.S. federal, state and foreign income taxes on our profitable operations. During the year ended December 31, 2019, we recorded a income tax benefit of $225.5 and an effective tax rate of (10.3)%, compared to an income tax expense of $164.6 and $104.5 and an effective tax rate of 68.0% and 19.1% for the years ended December 31, 2018 and 2017, respectively. 
+
+For the year ended December 31, 2019, we recognized certain one-time deferred tax benefits including $95.7and $30.3 associated with a tax election made with respect to intellectual property of Wilson Therapeutics and a valuation allowance release and corresponding recognition of net operating losses, respectively. These deferred tax benefits are offset by income tax expense of $10.2 associated with the July 1, 2019 integration of the Wilson Therapeutics intellectual property into the Alexion corporate structure. 
+
+We completed a comprehensive analysis of our prior year estimate related to our foreign-derived intangible income (“FDII”) based on additional guidance provided in the proposed regulations issued by the U.S. Treasury Department in 2019. The analysis resulted in income tax benefit of $17.0 related to the prior year, which was recorded as a change in estimate in income tax expense in our 2019 consolidated statements of operations, resulting in a decrease of approximately 0.8% to our effective tax rate.
+
+During the fourth quarter 2019, we completed an intra-entity asset transfer of certain intellectual property to an Irish subsidiary within our captive foreign partnership. We recognized deferred tax benefits of $2,221.5 which represents the difference between the 
+
+81
+
+basis of the intellectual property for financial statement purposes and the basis of the intellectual property for tax purposes, applying the appropriate enacted statutory tax rates. We will receive future tax deductions associated with amortization of the intellectual property, and any amortization not deducted for tax purposes will be carried forward indefinitely under Irish tax law. An offsetting deferred tax expense of $1,839.3 has been recognized to reflect the reduction of future foreign tax credits associated with the foreign local tax amortization deductions. These net deferred tax benefits resulted in a decrease of approximately 17.5% to our effective tax rate.
+
+The income tax expense for the year ended December 31, 2018 includes an increase in the effective tax rate of 102.6% attributable to the acquisitions of Syntimmune and Wilson Therapeutics. Absent successful clinical results and regulatory approval, there is no alternative future use for the in-process research assets we acquired in these acquisitions. Accordingly, the value of the assets acquired of $1,183.0 were expensed as acquired in-process research and development, for which no tax benefit has been recognized. 
+
+In December 2017, the Tax Act was enacted into law. The Tax Act decreased the U.S. federal corporate tax rate to 21.0%, imposed a minimum tax on foreign earnings and incorporated a one-time transition tax on previously unremitted foreign earnings. We incorporated the impact of the Tax Act in our results of operations or calculated provisional amounts for the tax effects of the Tax Act that could be reasonably estimated for the year ended December 31, 2017. We recorded adjustments to this provisional accounting during 2018, which resulted in a decrease to tax expense of $56.5. We completed our accounting for the Tax Act in the fourth quarter 2018. 
+
+The Tax Act resulted in an increase to tax expense for the year ended December 31, 2017 of $45.8. This increase included a transition tax expense of $177.9 and deferred tax expense related to the new GILTI minimum tax of $165.4, partially offset by the $297.5 benefit of re-measuring balance sheet taxes to the new 21.0% US federal tax rate. The re-measurement benefit included $292.4 related to decreases to our net deferred tax liability and $5.1 related to decreases to income taxes payable. The deferred tax expense related to the GILTI minimum tax included incremental deferred tax of $236.9, net of a related $71.5 decrease for uncertain tax positions. In addition, conclusion of the IRS examination of our 2013 and 2014 tax years resulted in a decrease to our 2017 effective tax rate of approximately 3.6%.
+
+We continue to maintain a valuation allowance against certain other deferred tax assets where realization is not certain. We periodically evaluate the likelihood of realizing deferred tax assets and reduce 
+
+the carrying amount of these deferred tax assets by a valuation allowance to the extent we believe a portion will not be realized.
+
+Financial Condition, Liquidity and Capital Resources 
+
+The following table summarizes the components of our financial condition as of December 31, 2019 and 2018:
+
+[DATA_TABLE_REMOVED]
+
+The aggregate increase in cash and cash equivalents and marketable securities of $1,185.7 at December 31, 2019 as compared to December 31, 2018 was primarily attributable to cash generated from operations, net proceeds from the issuance of common stock under share-based compensation arrangements and proceeds received from the sale of our investment in Moderna Therapeutics, Inc. Partially offsetting these increases was cash utilized to repurchase shares of common stock, payments on our revolving credit facility and term loan facility, upfront payments related to licensing agreements, payment of a sales-based milestone to Enobia Pharma Corp. and purchases of property, plant, and equipment. 
+
+Excluding the impact of any significant future asset acquisitions, licenses or collaboration agreements, we expect our annual operating expenses to increase as a percentage of sales in 2020 as compared to 2019. We also expect reduced capital investment in 2020 as compared to 2019. We anticipate that cash generated from operations and our existing available cash, cash equivalents and marketable securities should provide us adequate resources to fund our operations as currently planned for at least the next twelve months. 
+
+We have financed our operations and capital expenditures primarily through positive cash flows from operations. We expect to continue to be able to fund our operations, including principal and interest payments on our Amended and Restated Credit Agreement and contingent payments associated with our in-licenses and acquisitions principally through our cash flows from operations. We may, from time to time, also seek additional funding through a combination of equity or debt financings or from other sources, if necessary for future acquisitions or other strategic 
+
+82
+
+purposes. New sources of financing through equity and/or debt financing(s) may not always be available on acceptable terms, or at all, and we may be required to obtain certain consents in connection with completing such financings.
+
+Financial Instruments
+
+Until required for use in the business, we may invest our cash reserves in money market funds, bank deposits, and high quality marketable debt securities in accordance with our investment policy. The stated objectives of our investment policy are to preserve capital, provide liquidity consistent with forecasted cash flow requirements, maintain appropriate diversification and generate returns relative to these investment objectives and prevailing market conditions.
+
+Financial instruments that potentially expose us to concentrations of credit risk are cash equivalents, marketable securities, accounts receivable and our derivative contracts. At December 31, 2019, four customers accounted for 66.9% of the accounts receivable balance, with these individual customers accounting for 11.6% to 20.3% of the accounts receivable balance. At December 31, 2018, three customers accounted for 48.7% of the accounts receivable balance, with these individual customers accounting for 14.0% to 19.1% of the accounts receivable balance.
+
+For the year ended December 31, 2019, four customers accounted for 56.4% of our net product sales with these individual customers accounting for 10.0% to 16.8% of our net product sales. For the year ended December 31, 2018, four customers accounted for 50.3% of our net product sales with these individual customers accounting for 10.0% to 16.4% of our net product sales. For the year ended December 31, 2017, three customers accounted for 37.0% of our net product sales with these individual customers accounting for 10.8% to 15.0% of our net product sales. 
+
+We continue to monitor economic conditions, including volatility associated with international economies and the associated impacts on the financial markets and our business. Substantially all of our accounts receivable are due from wholesale distributors, public hospitals and other government entities. We monitor the financial performance of our customers so that we can appropriately respond to changes in their credit worthiness. We operate in certain jurisdictions where weakness in economic conditions can result in extended collection periods. We continue to monitor these conditions and assess their possible impact on our business. To date, we have not experienced any significant losses with respect to collection of our accounts receivable.
+
+We manage our foreign currency transaction risk and interest rate risk within specified guidelines through the use of derivatives. All of our derivative instruments 
+
+are utilized for risk management purposes, and we do not use derivatives for speculative trading purposes. As of December 31, 2019, we had foreign exchange forward contracts with notional amounts totaling $3,078.5. These outstanding foreign exchange forward contracts had a net fair value asset of $2.8, of which $30.5 is included in other current assets and noncurrent assets and $27.7 is included in other current liabilities and noncurrent liabilities. As of December 31, 2019, we had interest rate swap contracts with notional amounts totaling $1,750.0. These outstanding interest rate swap contracts had a net fair value liability of $61.4, which is included in other current liabilities and noncurrent liabilities. The counterparties to these contracts are large domestic and multinational commercial banks, and we believe the risk of nonperformance is not material.
+
+At December 31, 2019, our financial assets and liabilities were recorded at fair value. We have classified our financial assets and liabilities as Level 1, 2 or 3 within the fair value hierarchy. Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities. Our Level 1 assets consist of mutual fund investments and equity securities. Level 2 inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the asset or liability, either directly or indirectly through market corroboration, but substantially the full term of the financial instrument. Our Level 2 assets consist primarily of money market funds, commercial paper, municipal bonds, U.S. and foreign government-related debt, corporate debt securities, certificates of deposit, equity securities subject to holding period restrictions and derivative contracts. Our Level 2 liabilities consist also of derivative contracts. Level 3 inputs are unobservable inputs based on our own assumptions used to measure assets and liabilities at fair value. Our Level 3 liabilities consist of contingent consideration related to business acquisitions and derivative liabilities associated with other contingent payments.
+
+Business Combinations and Contingent Consideration Obligations
+
+At December 31, 2019, the purchase agreements for our business combinations include contingent payments totaling up to $602.0 that will become payable if and when certain development and commercial milestones are achieved. Of these milestone amounts, $367.0 and $235.0 of the contingent payments relate to development and commercial milestones, respectively. We do not expect these amounts to have a significant impact on our liquidity in the near-term, and, during the next 12 months, we do not expect to make milestone payments associated with our prior business combinations. 
+
+As additional future payments become probable, we will evaluate methods of funding payments, which could be made from available cash and marketable 
+
+83
+
+securities, cash generated from operations or proceeds from the sale of equity securities or debt.
+
+On January 28, 2020, we completed the acquisition of Achillion. Under the terms of the agreement, we acquired all outstanding common stock of Achillion for $6.30 per share, or approximately $926.0, inclusive of the settlement of Achillion’s outstanding equity awards. The acquisition was funded with cash on hand. The transaction includes the potential for additional consideration in the form of non-tradeable contingent value rights (CVRs), which will be paid to Achillion shareholders if certain clinical and regulatory milestones are achieved within specified periods. These include $1.00 per share for the U.S. FDA approval of danicopan and $1.00 per share for the initiation of Phase 3 in ACH-5228.
+
+Asset Acquisitions and In-License Agreements
+
+In December 2017, we entered into a collaboration and license agreement with Halozyme Therapeutics, Inc. that allows us to use drug-delivery technology in the development of subcutaneous formulations for our portfolio of products for up to four targets. Under the terms of the agreement, we made an upfront payment of $40.0 during the fourth quarter 2017. In addition, as of December 31, 2019, we could be required to pay an additional $160.0 for each target developed, subject to achievement of specified development, regulatory and sales-based milestones, as well as royalties on commercial sales.
+
+In October 2018, we entered into a collaboration agreement with Dicerna that provides us with exclusive worldwide licenses and development and commercial rights for two preclinical RNA interference (RNAi) subcutaneously delivered molecules for complement-mediated diseases, as well as an exclusive option for other preclinical RNAi molecules for two additional targets within the complement pathway. In addition to the collaboration agreement, we made an equity investment in Dicerna. Under the terms of the agreements, we made an upfront payment of $37.0 for the exclusive licenses and the equity investment. In December 2019, we exercised our option for exclusive rights to two additional targets within the complement pathway under an existing agreement with Dicerna, which expands Alexion’s existing research collaboration and license agreement with Dicerna to include a total of four targets within the complement pathway. In connection with the option exercise, we paid Dicerna $20.0 in the fourth quarter 2019. As of December 31, 2019, we could be required to pay up to $629.1 for amounts due upon the achievement of specified research, development, regulatory and commercial milestones on the four licensed targets, as well as royalties on commercial sales.
+
+In January 2019, we entered into an agreement with Caelum, a biotechnology company that is developing CAEL-101 for AL amyloidosis. Under the 
+
+terms of the agreement, we acquired a minority equity interest in Caelum and an exclusive option to acquire the remaining equity in Caelum based on Phase II data, for pre-negotiated economics. We paid $30.0 in the first quarter 2019 and agreed to pay up to an additional $30.0 in contingent development milestones. Following discussions with the FDA, Caelum changed the design of its clinical development program and now plans to initiate expanded Phase II/III trials in the second quarter 2020. In December 2019, we amended the terms of the agreement with Caelum to modify the option to acquire the remaining equity in Caelum based on data from the expanded Phase II/III trials. The amendment also modified the development-related milestone events associated with the initial $30.0 in contingent payments, provided for an additional $20.0 in upfront funding, which we accrued as of December 31, 2019, as well as funding of $60.0 in exchange for an additional equity interest at fair value upon achievement of a specific development-related milestone event. The agreement also provides for potential additional payments, in the event Alexion exercises the purchase option, for up to $500.0 which includes an upfront option exercise payment and potential regulatory and commercial milestone payments.
+
+ In March 2019, we entered into an agreement with Zealand that provides us with exclusive worldwide licenses, as well as development and commercial rights for preclinical peptide therapies subcutaneously delivered for up to four complement pathway targets. Zealand will lead the joint discovery and research efforts through the preclinical stage, and Alexion will lead development efforts beginning with investigational new drug filing and Phase I studies. In addition to the agreement, we made an equity investment in Zealand. Under the terms of the agreement, we made an upfront payment of $40.0 for an exclusive license to the lead target and the equity investment, as well as for preclinical research services to be performed by Zealand in relation to the lead target. We could be required to pay up to $610.0 for the lead target, upon the achievement of specified development, regulatory and commercial milestones, as well as royalties on commercial sales. In addition, we could be required to pay up to an additional $115.0 in development and regulatory milestones if both a long-acting and short-acting product are developed with respect to the lead target. Each of the three subsequent targets can be selected for an option fee of $15.0 and has the potential for additional development, regulatory and commercial milestones, as well as royalty payments, at a reduced price to the lead target.
+
+In March 2019, we entered into an agreement with Affibody that provides us with an exclusive worldwide license, as well as development and commercial rights to ABY-039, a bivalent antibody-mimetic that targets the neonatal Fc receptor (FcRn) and is currently in Phase 1 development. The agreement with Affibody was subject 
+
+84
+
+to clearance under the Hart-Scott Rodino Antitrust Improvements Act and, following receipt of such approval, closed in April 2019. Pursuant to the agreement, Alexion will lead the clinical development and commercial activities for ABY-039 in rare Immunoglobulin G (IgG)-mediated autoimmune diseases. Affibody has the option to co-promote ABY-039 in the U.S. and will lead clinical development of ABY-039 in an undisclosed indication. Under the terms of the agreement, we made an upfront payment of $25.0 for the exclusive license to ABY-039. As of December 31, 2019, we could also be required to pay up to $625.0 for amounts due upon achievement of specific development, regulatory, and commercial milestones, as well as royalties on commercial sales.
+
+In September 2019, we entered into an agreement with Eidos that provides us with an exclusive license to develop and commercialize AG10 in Japan. AG10 is an orally administered small molecule designed to bind and stabilize TTR in the blood. In addition, we made an equity investment in Eidos. Under the terms of the agreement, we made an upfront payment of $50.0 for an exclusive license to AG10 in Japan and the equity investment. As of December 31, 2019, we could also be required to pay $30.0 upon achievement of a Japanese-based regulatory milestone as well as royalties on commercial sales.
+
+In October 2019, we entered into an option agreement with Stealth under which Alexion received an exclusive option to co-develop subcutaneous elamipretide in the U.S. as well as to obtain exclusive rights to develop and commercialize subcutaneous elamipretide outside the U.S based on the final results from the Phase III study in PMM. Under the terms of the agreement, we made an upfront payment of $30.0 for the option and an equity investment in Stealth. In December 2019, Stealth announced that based on top-line data from the Phase III study in PMM, the study did not meet its primary endpoints. Following review of the Phase III data released in December 2019, we notified Stealth that we will not exercise the co-development option agreement.
+
+In connection with our prior acquisition of Syntimmune, a clinical-stage biotechnology company developing an antibody therapy targeting the neonatal Fc receptor (FcRn), we could be required to pay up to $800.0 upon the achievement of specified development, regulatory and commercial milestones.
+
+ In addition, as of December 31, 2019, we have other license and collaboration agreements under which we may be required to pay up to an additional $54.0 for currently licensed targets, if certain development, regulatory and commercial milestones are met. Additional amounts may be payable if we elect to acquire licenses to additional targets, as applicable, under the terms of these agreements. 
+
+We do not expect the payments associated with milestones under our asset acquisitions and licensing agreements to have a significant impact on our liquidity in the near-term. During the next 12 months, we may make milestone payments related to these arrangements of approximately $220.0, excluding milestones which were accrued as of December 31, 2019.
+
+As additional future payments become probable, we will evaluate methods of funding payments, which could be made from available cash and marketable securities, cash generated from operations or proceeds from the sale of equity securities or debt.
+
+Operating and Financing Lease Liabilities
+
+Operating and financing lease liabilities are recorded at lease commencement based on the present value of fixed, or in substance fixed, lease payments over the expected lease term. Lease liabilities are amortized over the lease term. 
+
+At December 31, 2019, we have $261.0 of total financing and operating lease liabilities recorded on our consolidated balance sheets. The total undiscounted lease commitments as of December 31, 2019 were $323.8, of which $34.4 is payable during the next 12 months. Refer to Note 10, Leases for a summary of the maturity of our lease liabilities by year. We do not expect the payments associated with the maturity of lease liabilities to have a significant impact on our liquidity in the near-term.
+
+Long-term Debt
+
+On June 7, 2018, Alexion entered into an Amended and Restated Credit Agreement (the Credit Agreement) with Bank of America N.A. as administrative agent. The Credit Agreement amended and restated our credit agreement dated as of June 22, 2015 (the Prior Credit Agreement). 
+
+The Credit Agreement provides for a $2,612.5 term loan facility and a $1,000.0 revolving facility. Borrowings can be used for working capital requirements, acquisitions and other general corporate purposes. Beginning with the quarter ending June 30, 2019, we are required to make amortization payments of 5.00% of the aggregate original principal amount of the term loan facility annually, payable in equal quarterly installments. 
+
+As of December 31, 2019, we had $2,514.5 outstanding on the term loan. As of December 31, 2019, we had open letters of credit of $1.0 that offset our borrowing availability on the revolving facility. In January 2019 we paid the outstanding revolving credit facility of $250.0 in full and we had no outstanding borrowings under the revolving credit facility as of December 31, 2019.
+
+85
+
+Manufacturing Obligations
+
+We have supply agreements with Lonza relating to the manufacture of SOLIRIS, STRENSIQ and ULTOMIRIS which requires payments to Lonza at the inception of the contract and upon the initiation and completion of product manufactured. On an ongoing basis, we evaluate our plans for future levels of manufacturing by Lonza, which depends upon our commercial requirements and the progress of our clinical development programs. 
+
+We have various agreements with Lonza, with remaining total non-cancellable commitments of approximately $1,099.9 through 2030. Certain commitments may be canceled only in limited circumstances. If we terminate certain supply agreements with Lonza without cause, we will be required to pay for product scheduled for manufacture under our arrangement. Under an existing arrangement with Lonza, we also pay Lonza a royalty on sales of SOLIRIS that was manufactured at Alexion Rhode Island Manufacturing Facility (ARIMF) prior to its sale and a payment with respect to sales of SOLIRIS manufactured at Lonza facilities. We also pay Lonza a royalty on the sales of ULTOMIRIS.
+
+In addition to Lonza, we have non-cancellable commitments of approximately $60.6 through 2020 with other third party manufacturers.
+
+Taxes
+
+We have recorded tax on the undistributed earnings of our controlled foreign corporation (CFC) subsidiaries. To the extent CFC earnings may not be repatriated to the U.S. as a dividend distribution due to limitations imposed by law, we have not recorded the related potential withholding, foreign local, and U.S. state income taxes.
+
+Common Stock Repurchase Program
+
+In November 2012, our Board of Directors authorized a share repurchase program. In February 2017, our Board of Directors increased the amount that we are authorized to expend on future repurchases to $1,000.0 under the repurchase program, which superseded all prior repurchase programs. On October 22, 2019, the Board of Directors approved an additional share repurchase authorization of up to $1,000.0. The repurchase program does not have an expiration date and we are not obligated to acquire a particular number of shares. The repurchase program may be discontinued at any time at our discretion. Under the program, we repurchased 3.8 and 0.7 shares of our common stock at a cost of $416.0 and $85.0 during the years ended December 31, 2019 and 2018, respectively. As of December 31, 2019, there is a total of $1,035.5 remaining for repurchases under the program. 
+
+Subsequent to December 31, 2019, we repurchased an immaterial number of shares of our common stock under our repurchase program at a cost of $1.6. As of January 29, 2020, there is a total of $1,033.9 remaining for repurchases under the repurchase program.
+
+Cash Flows
+
+ The following summarizes our net change in cash and cash equivalents:
+
+[DATA_TABLE_REMOVED]
+
+Operating Activities
+
+Cash flows provided by operations in 2019 was $2,084.9 compared to $426.0 in 2018. The increase in cash provided by operating activities was primarily due to the acquisition of Wilson Therapeutics and Syntimmune in 2018, higher cash payments for restructuring in 2018 and increases due to the timing of cash receipts, payments and other changes in working capital during 2019 as compared to 2018. This increase was partially offset by upfront and option 
+
+payments made in connection with our agreements with Zealand, Affibody, Eidos, Stealth and Dicerna and payment of a sales-based milestone to Enobia Pharma Corp.
+
+Investing Activities
+
+Cash provided by investing activities in 2019 was $9.7 compared to $470.5 in 2018. The decrease in cash provided by investing activities as compared to the prior year was primarily attributable to purchases and 
+
+86
+
+sales of available-for-sale debt securities, which resulted in a net cash inflow of $142.0 in 2019 compared to a net cash inflow of $690.8 in 2018. Purchases of strategic equity investments for Zealand, Caelum, Eidos and Stealth resulted in $73.3 in cash outflows during 2019 as compared to $10.3 in cash outflows during 2018 for Dicerna. In addition, we received net cash proceeds of $114.7 in connection with the sale of our Moderna investment. Partially offsetting these impacts were decreases in purchases of property, plant and equipment during 2019 as compared to 2018.
+
+Financing Activities
+
+Cash flows used in financing activities in 2019 was $739.1 compared to $102.4 in 2018. The increase in cash used for financing activities was primarily due to a decrease in payments on our term loan of $195.8 as well as $250.0 of proceeds from our revolving credit facility in 2018 which were repaid in the current year. Additionally, there was an increase of $331.0 in common stock repurchases in 2019 as compared to 2018.
+
+Contractual Obligations
+
+The following table summarizes our contractual obligations at December 31, 2019 and the effect such obligations and commercial commitments are expected to have on our liquidity and cash flow in future fiscal years. These do not include potential milestone payments and assume non-termination of agreements. 
+
+These obligations, commitments and supporting arrangements represent payments based on current operating forecasts at December 31, 2019, which are subject to change:
+
+[DATA_TABLE_REMOVED]
+
+The contractual obligations table above does not include contingent royalties and other contingent contractual payments we may owe to third parties in the future because such payments are contingent on future sales of our products and the existence and scope of 
+
+third party intellectual property rights and other factors described in Item 1A, Risk Factors and Note 11, Commitments and Contingencies to the Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K.
+
+87
+
+The liability for unrecognized tax benefits related to various federal, state and foreign income tax matters of $133.8 at December 31, 2019 was not included within the table above. The timing of the settlement of these amounts was not reasonably estimable at December 31, 2019. 
+
+Contingent payments related to business acquisitions, asset acquisitions, option or in-license agreements are not included within the table above, as the satisfaction of the contingent consideration obligations and if satisfied, the timing of payment for these amounts is uncertain at December 31, 2019. Contingent payments associated with these business combinations total up to $602.0, which will become payable if and when certain development and commercial milestones are achieved. During the next 12 months, we do not expect to make milestone payments associated with our prior business combinations. Commitments related to asset acquisitions, option and in-license agreements include contingent payments that will become payable if and when certain development, regulatory and commercial milestones are achieved. During the next 12 months, we may make milestone payments related to our asset acquisitions and license agreements of approximately $220.0, excluding milestones accrued as of December 31, 2019.
+
+Future obligations related to our defined benefit plans are not included within the table above, as the timing and amounts of these payments was not reasonably estimable as of December 31, 2019. The total unfunded obligation on our defined benefit plans as of December 31, 2019 was $27.7. Our unfunded obligation can be impacted by changes in the laws and regulations, interest rates, investment returns, and other variables.
+
+Credit Facilities
+
+On June 7, 2018, we entered into an Amended and Restated Credit Agreement (the Credit Agreement), with Bank of America N.A. as administrative agent. The Credit Agreement amends and restates our agreement dated as of June 22, 2015 (the Prior Agreement). 
+
+The Credit Agreement provides for a $1,000.0 revolving credit facility and a $2,612.5 term loan facility. The revolving credit facility and term loan facility mature on June 7, 2023. Beginning with the quarter ending June 30, 2019, we are required to make amortization payments of 5.00% of the aggregate original principal amount of the term loan facility annually, payable in equal quarterly installments.
+
+Loans under the Credit Agreement bear interest, at our option, at either the base rate or a Eurodollar rate, in each case plus an applicable margin. Under the Credit Agreement, the applicable margins on base rate loans range from 0.25% to 1.00% and the applicable margins on Eurodollar loans range from 1.25% to 2.00% in each 
+
+case based on our consolidated net leverage ratio (as calculated in accordance with the Credit Agreement). Our obligations under the Credit Agreement are guaranteed by certain of our foreign and domestic subsidiaries and secured by liens on certain of our subsidiaries’ equity interests, subject to certain exceptions. Under the terms of the Credit Agreement, we must maintain a ratio of total net debt to EBITDA of 3.50 to 1.00 (subject to certain limited adjustments) and EBITDA to cash interest expense ratio of at least 3.50 to 1.00, in each case as calculated in accordance with the Credit Agreement. We were in compliance with all applicable covenants under the Credit Agreement as of December 31, 2019. 
+
+The Credit Agreement contains certain representations and warranties, affirmative and negative covenants and events of default. The negative covenants in the Credit Agreement restrict Alexion’s and its subsidiaries’ ability, subject to certain baskets and exceptions, to (among other things) incur liens or indebtedness, make investments, enter into mergers and other fundamental changes, make dispositions or pay dividends. The restriction on dividend payments includes an exception that permits us to pay dividends and make other restricted payments regardless of dollar amount so long as, after giving pro forma effect thereto, we have consolidated net leverage ratio, as defined in the Credit Agreement, within predefined ranges, subject to certain increases following designated material acquisitions.
+
+Operating and Financing Leases
+
+Our operating and financing leases are principally for facilities and equipment. We currently lease office space in the U.S. and foreign countries to support our operations as a global organization.
+
+We believe that our administrative office space is adequate to meet our needs for the foreseeable future. We also believe that our research and development facilities and our manufacturing facilities, together with third party manufacturing facilities, will be adequate for our on-going activities. 
+
+In addition to the minimum rental commitments on our operating leases we may also be required to pay amounts for taxes, insurance, maintenance and other operating expenses.
+
+88
+
+Commercial Commitments
+
+Our commercial commitments consist of research and development, license, operational, clinical development, and manufacturing cost commitments, along with anticipated supporting arrangements, subject to certain limitations and cancellation clauses. The timing and level of our commercial scale manufacturing costs, which may or may not be realized, are contingent upon the progress of our clinical development programs and our commercialization plans. Our commercial commitments are represented principally by our supply agreements with Lonza described above. Our commitments with Lonza do not include amounts for estimated consumer price index, or CPI, adjustments which we are obligated to pay to Lonza.
+
+89
+
+Item 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.

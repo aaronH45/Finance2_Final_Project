@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220119",
+    "sec_filing_date": "20220121",
+    "sec_changed_date": "20220121",
+    "sec_accepted_date": "20220121102702",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968422000006/0001039684-22-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968422000006/0001039684-22-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\OKE_0001039684_EX991_20220119_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4038 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3305,
+    "endpoints": [
+        "a1-19x22okedividendnr   ",
+        "### News ONEOK Declares Quarterly Dividend TULSA, Okla. – Jan. 19, 2022 – The board of directors of ONEOK, Inc. (NYSE: OKE) today declared a quarterly dividend of 93.5 cents per share, unchanged from the previous quarter, resulting in an annualized dividend of $3.74 per share. The dividend is payable Feb. 14, 2022, to shareholders of record at the close of business Jan. 31, 2022. ------------------------------------------------------------------------------------------------------------------- ONEOK, Inc. (pronounced ONE-OAK) (NYSE: OKE) is a leading midstream service provider and owner of one of the nation's premier natural gas liquids (NGL) systems, connecting NGL supply in the Rocky Mountain, Mid-Continent and Permian regions with key market centers and an extensive network of natural gas gathering, processing, storage and transportation assets. ONEOK is a FORTUNE 500 company and is included in the S&P 500. For the latest news about ONEOK, find us at www.oneok.com or on LinkedIn, Facebook, Twitter and Instagram. Some of the statements contained and incorporated in this news release are forward-looking statements as defined under federal securities laws. The forward-looking statements relate to our anticipated financial performance (including projected levels of quarterly and annual dividends), liquidity, market conditions and other matters. We make these forward-looking statements in reliance on the safe harbor protections provided under federal securities laws and other applicable laws. Forward-looking statements include the items identified in the preceding paragraph, the information concerning possible or assumed future results of our operations and other statements contained or incorporated in this news release identified by words such as 'anticipate,' 'believe,' 'continue,' 'could,' 'estimate,' 'expect,' 'forecast,' 'goal,' 'guidance,' 'intend,' 'may,' 'might,' 'plan,' 'potential,' 'project,' 'scheduled,' 'should,' 'will,' 'would' and other words and terms of similar meaning. One should not place undue reliance on forward-looking statements. Known and unknown risks, uncertainties and other factors may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by forward-looking statements. Those factors may affect our operations, markets, products, services and prices. These and other risks are described in greater detail in Item 1A, Risk Factors, in our most recent Annual Report on Form 10-K and in the other filings that we make with the Securities and Exchange Commission (SEC), which are available on the SEC’s website at www.sec.gov. All forward- looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by these factors. Any such forward-looking statement speaks only as of the date on which such statement is made, and, other than as required under securities laws, we undertake no obligation to update publicly any forward-looking statement whether as a result of new information, subsequent events or change in circumstances, expectations or otherwise. January 19, 2022 Analyst Contact: Megan Patterson 918-561-5325 Media Contact: Brad Borror 918-588-7582 Exhibit 99.1"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\OKE_0001039684_EX991_20220119_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:27:31.323952"
+}

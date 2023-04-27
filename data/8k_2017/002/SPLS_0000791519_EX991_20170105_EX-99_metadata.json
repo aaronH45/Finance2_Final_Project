@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000791519",
+    "sec_company_name": "STAPLES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170105",
+    "sec_filing_date": "20170105",
+    "sec_changed_date": "20170105",
+    "sec_accepted_date": "20170105081618",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/791519/000079151917000003/0000791519-17-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/791519/000079151917000003/0000791519-17-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\SPLS_0000791519_EX991_20170105_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7566 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2665,
+    "endpoints": [
+        "Exhibit   ",
+        "Staples helps small business customers make more happen by providing a broad assortment of products, expanded business services and easy ways to shop - in stores, online, via mobile or through social apps. Staples Business Advantage, the business-to-business division, caters to mid-market, commercial and enterprise-sized customers by offering a one-source solution for the products and services they need, combined with best-in-class customer service, competitive pricing and a state-of-the-art ecommerce site. Headquartered outside of Boston, Staples, Inc. operates throughout North and South America, Europe, Asia, Australia and New Zealand. More information about Staples (NASDAQ: SPLS) is available at www.staples.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPLS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\SPLS_0000791519_EX991_20170105_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:08:01.937804"
+}

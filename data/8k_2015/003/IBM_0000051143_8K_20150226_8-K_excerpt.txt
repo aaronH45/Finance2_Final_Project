@@ -1,0 +1,211 @@
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report: February 26, 2015 
+
+(Date of earliest event reported) 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+ [DATA_TABLE_REMOVED]  
+
+  ARMONK, NEW YORK       10504   
+
+  (Address of principal executive offices)       (Zip Code)     
+
+914-499-1900 
+
+(Registrant’s telephone number) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Item 7.01 (Regulation FD Disclosure) 
+
+Attachment I contains presentation materials for IBM’s Investor Briefing on February 26, 2015. Attachment II (Non-GAAP Supplementary Materials) contains supplementary materials about non-GAAP financial measures in certain presentation materials for this event. 
+
+As part of the Investor Briefing, IBM’s senior executives are prepared to provide the following information, which is hereby filed: 
+
+· The company continues to expect to deliver $15.75 to $16.50 of operating earnings per share in 2015 ($14.35 to $15.10 from continuing operations on a GAAP basis), as well as free cash flow consistent with 2014 levels. 
+
+· Based on February 25, 2015 spot rates, the company expects currency to impact revenue growth by over 7 points for the first quarter of 2015, and over 6 points for the full year. This is greater than the impact previously provided based on January 16 spot rates. In addition, the company continues to expect a 4 point impact to revenue growth in each of the first three quarters of 2015 due to the divestiture of the System x business. 
+
+These materials may contain forward-looking statements under the Private Securities Litigation Reform Act of 1995, which statements involve numerous factors that could cause actual results to differ materially. Additional information about those factors is contained in IBM’s filings with the SEC, available from the SEC, IBM’s web site or IBM’s Investor Relations. 
+
+IBM’s web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted. 
+
+2 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+3 
+
+Attachment I 
+
+     PATRICIA MURPHY VICE PRESIDENT, INVESTOR RELATIONS INTRODUCTION     
+
+     Agenda 9:00 – 11:00 11:20 – 12:30 12:30 – 1:15 1:15 – 3:00 Topic Presenter Strategic Overview Ginni Rometty Financial Overview Martin Schroeter Q&A Ginni Rometty & Martin Schroeter Hybrid Cloud Robert LeBlanc Partnerships & Ecosystems John Kelly & Steve Mills Q&A All Networking Lunch Innovation Gallery & Watson Tours     
+
+     Certain comments made during this event and in the presentation materials may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance. These statements by their nature address matters that are uncertain to different degrees. Any forward-looking statement made during this event or in these presentation materials speaks only as of the date on which it is made. The company assumes no obligation to update or revise any forward-looking statements. Those statements involve a number of factors that could cause actual results to differ materially, including the following: a downturn in economic environment and client spending budgets; the company’s failure to meet growth and productivity objectives, a failure of the company’s innovation initiatives; risks from investing in growth opportunities; a failure of the company’s intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; cybersecurity and privacy considerations; fluctuations in financial results, impact of local legal, economic, political and health conditions; adverse effects from environmental matters, tax matters and the company’s pension plans; ineffective internal controls; the company’s use of accounting estimates; the company’s ability to attract and retain skilled personnel and its reliance on critical skills; impacts of relationships with critical suppliers and business with government clients; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; reliance on third party distribution channels; the company’s ability to successfully manage acquisitions, alliances and dispositions; risks from legal proceedings; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company’s Form 10-Qs, Form 10-K and in the company’s other filings with the U.S. Securities and Exchange Commission (SEC) or in materials incorporated therein by reference. Additional information concerning these factors is contained in the Company's filings with the SEC. Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations.      
+
+     These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0215.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Forms 8-K dated January 20, 2015 and February 26, 2015.     
+
+     MARTIN SCHROETER SENIOR VICE PRESIDENT AND CHIEF FINANCIAL OFFICER FINANCIAL OVERVIEW      
+
+     1 2 3 4 Portfolio Strategic Imperatives Core Portfolio Longer-term financial model Data, Cloud and Engagement Scaling businesses Deep client relationships, solutions based Innovation drives value Segment models Capital deployment and Free Cash Flow Well positioned to deliver value in enterprise IT Differentiation driven growth and value High value, essential client IT Agenda      
+
+     PORTFOLIO — Well positioned to deliver value in enterprise IT      
+
+     Strategic Imperatives Data, Cloud and Engagement Recurring Core Franchises Annuity businesses in Services, Software and Financing Highly recurring portions of our Hardware, Software and Services transactional businesses High Value Transactional Businesses Divested Content Customer Care BPO, System x and Discontinued Microelectronics These areas of the portfolio cut across all business segments IBM Portfolio includes:      
+
+     Signposts 2014 Performance Strategic Imperatives Double-digit Revenue growth Revenue up 16% yr/yr Cloud +60% Analytics +7% Mobile > 200% Security +19% Maintain high mix of Software Software mix > overall IBM Recurring Core Franchises Stable Revenue Margin Expansion Revenue down ~3% yr/yr PTI Margin down modestly Impacted by currency and mainframe cycle High Value Transactional Maintain Margins Optimize Business Model GP Margin remains attractive at > 40% Reposition Systems to higher value, including Power 8/OpenPOWER Divested Divested content represents Customer Care BPO, System x and Discontinued Microelectronics Portfolio Performance Note 1      
+
+     PORTFOLIO — Well positioned to deliver value in enterprise IT Strategic Imperatives Continued momentum with strong double digit-growth Shifting $4 billion of spending, investments continue to be focused on Imperatives Solution units focused on specific markets and industries Partnerships and ecosystems Recurring Core Franchises Next generation mainframe Strategic Outsourcing backlog positioned to deliver stable performance High Value Transactional Businesses High End Power 8 launched Divested Content Announced divestiture of Microelectronics in 4Q’14 Completed sale of the x86 business in 4Q’14 Completed sale of the Customer Care BPO business in 1Q’14      
+
+     STRATEGIC IMPERATIVES — Differentiation driven growth and value      
+
+     2014 Segment mix Strategic Imperatives performance High software content drives value Services ~40% Software ~50% Hardware ~10% 2014 Revenue of $25 billion with mix more than doubling since 2010 Revenue growth above market $25B 13% 27% IBM / Market Strategic Imperative Revenue growth Note 2 Strategic Imperative Revenue mix      
+
+     Data 15,000 Consultants and 400 mathematicians >$26B Invested in Big Data & Analytics capabilities 500+ Analytics patents generated each year Watson $1B investment Cloud 18 Acquired companies including SoftLayer 80% Of Fortune 500 companies use IBM’s Cloud capabilities $8B Invested to date to build Cloud capabilities 46 Cloud data centers planned by the end of 2015 Engagement Strategic Imperatives capabilities and investments Mobile & Social Partnerships Transforming enterprise mobility with Apple 6,000 Mobile specialists 2,800 Social business specialists 30+ Mobile solutions in the cloud marketplace Security Scale 15B Security events monitored daily across 130 countries 6,000 Security specialists 9/10 Top banks use IBM Security solutions 27 Security Labs globally Differentiators: Understanding Workflow, Hybrid, Security Intelligence Differentiators: Hybrid, Security, Designed for Data Differentiators: Domain Expertise, Real-Time, Structured and Unstructured      
+
+     2014 “as-a-Service” Segment Revenue Mix Cloud Offerings — Public, Private and Hybrid Hybrid, Security, Designed for Data IBM is ranked #1 for current hybrid cloud implementations June 2014 2014 Cloud Revenue $7B, +60% Yr/Yr Growth ahead of market Annual “as-a-Service” run rate ~$3.5B /Yr IBM is ranked as the #1 hybrid and private cloud provider for the enterprise February 2015 2018 Market Opportunity ~$400B, 23% CAGR IBM Cloud Services ~70% Software ~30% IT INFRASTRUCTURE PUBLIC Value Driver: Standardization, Scale PRIVATE Value Driver: Customization HYBRID Value Driver: Innovation      
+
+     Analytics Offerings Domain Expertise, Real-Time, Structured and Unstructured 2014 Segment Revenue Mix IBM Analytics Services ~35% Software ~55% Hardware ~10% IBM ranked a leader in Gartner Magic Quadrant for Advanced Analytics Platforms & Data Integration tools July 2014 IBM is a leader in the Forrester wave for business intelligence professional services market November 2014 2018 Market Opportunity ~$315B, 7% CAGR 2014 Analytics Revenue $17B, +7% Yr/Yr Growth ahead of market Analytics Platform Internet of Things Insight as a Service Analytics Consulting Services Cloud Data Services Industry Solutions      
+
+     Engagement 2014 Segment Revenue Mix Engagement Offerings Understanding Workflow, Hybrid, Security Intelligence IBM Mobile IBM MobileFirst — Cross IBM mobile initiative Platform Protect Solutions IBM Social IBM Verse IBM Smarter Workforce IBM Connections IBM Security Incident Forensics and Analytics Data Security Advanced Fraud Protection 2014 Engagement Revenue Mobile ~$1B, Social ~$1B Security >$1.5B Revenue Growth >35% Yr/Yr Growth ahead of market For the fifth consecutive year, IDC ranked IBM number one in worldwide market share for enterprise social software April 2014 IBM is #1 in market share for Security Intelligence & is the only leader in the magic quadrant for managed mobility services July 2014 2018 Market Opportunity ~$290B, 10% CAGR Services ~35% Software ~65%      
+
+     Strategic Imperatives grow to ~$40 billion by 2018 Mix increases to more than 40% of IBM Continued double-digit revenue growth longer-term $4B spending shift in 2015 drives growth 13% 27% >40% ~$40B $25B Double Digits Note 2      
+
+     Strategic Imperatives — Differentiation driven growth and value Long-term model reflects double-digit growth in Strategic Imperatives with high software content Innovation and recent partnerships drive growth Watson Strategic Imperatives have scaled rapidly Cloud 2014 annual ‘as-a-Service’ revenue run-rate of $3.5B ~100% CAGR over last four years Mobile 2014 Revenue: >200% Yr/Yr ~$50M to $1B of revenue over last four years Security 2014 Revenue: >$1.5B, +19% Yr/Yr ~$700M of growth over last four years Core portfolio provides a broad platform for scaling businesses ~80% of IBM revenue is from clients who have deployed cross-IBM solutions of Services, Software and Hardware 2H’14 Partnerships      
+
+     CORE PORTFOLIO — High value, essential client IT      
+
+     More than 90 of the top 100 banks worldwide use IBM solutions to run their business 9 of the top 10 oil and gas companies in the world are IBM clients IBM serves 9 of the top 10 electronics companies in the world 80% of the global top 50 retailers run their business on IBM IT systems More than 225 state and local governments worldwide rely on an IBM Mainframe to support police and fire departments, utilities, sanitation, parks and hospitals 22 of the top 25 consumer product companies use IBM products to run their IT system IBM serves 9 of the top 10 telecom companies in the world 92 of the world’s top 100 healthcare organizations work with IBM The scope of what we manage for clients spans many industries      
+
+     5 of the top banks in China use IBM to run their daily banking operations 4 of the top 5 retailers in Brazil use IBM technology In the UK, 1/3 of the FTSE 100 use IBM mainframes, as do the top 8 retail banks and the top 5 supermarkets 49 of the top 50 healthcare organizations in the US work with IBM IBM serves the top 3 telecommunications companies in India 17 out of the 22 banks in Nigeria run all their core banking applications on IBM Power platforms and geographies      
+
+     Revenue Gross Profit z10 (’08-’09) Baseline 100% 100% z196 (’10-’12) 102% 103% z12 (’12-’14) 99% 101% Re-inventing the Core: Banking example Re-invention of Mainframe drives consistent performance Mainframe capacity deployment continues to grow Banking transactions growth of ~10% CAGR over ten years Historical Performance Eight quarters following announcement IBM Mainframe Banking Transactions 2005 2014 Notes 3 and 4 In Billions      
+
+     Mainframe ~2000 Linux on Mainframe Data Encryption Standards Current Advanced Analytics Accelerator Enterprise Cloud Server; Accelerated Encryption Built for mobile ~2010 Multi-site business continuity solutions Capacity on Demand Client Example WebSphere / App-Server ~2000 Distributed App server environment for web applications — fully scalable Current Cloud and mobile ready for flexible deployment anywhere with enterprise strength security ~2010 Deployment in any virtualized environment for optimized usage of physical resources Re-inventing the Core: Mainframe and Application Middleware Citi and Arc is a registered service mark of Citigroup Inc.      
+
+     Client environment evolution across industries In Billions Travel Telecommunications Banking US Mobile and Desktop travel bookings Mobile data traffic Banking transactions Total (uplink + downlink) monthly traffic (PetaBytes) In Billions $ Notes 3, 5 and 6      
+
+     Strategic Outsourcing ~2000 Global delivery centers established in multiple countries serving clients in different regions Current Cloud — Public / Hybrid / Private Automation and integration of systems ~2010 Process standardization Integrated service management Client Example Power ~2000 Virtualized, scalable UNIX Server Double the performance at half the price of SUN SPARC/Solaris Current Designed for Big Data OpenPOWER — Platform & Ecosystem for cloud Linux optimization on Power ~2010 Large scale UNIX system — server consolidation benefits Outsourcing agreements with Bharti Airtel in 2004. Similar agreements signed with Vodafone India and Idea Cellular (2007) Covers ~550 million subscribers, over half of the mobile telecom population in India Re-inventing the Core: Strategic Outsourcing and Power Complete Infrastructure services, Application Development and Management for clients during period of rapid growth Compute capacity is primarily Power Expanded Airtel relationship to provide infrastructure outsourcing services across Africa since 2010      
+
+     Core Portfolio — High value, essential client IT The scope of what we manage for clients across industries and geographies is essential Portfolio constantly re-invented to address evolving client needs around core IT processes and systems High value to clients and IBM Ongoing investment shifts to the Strategic Imperatives Continued innovation in the core portfolio Long-term model reflects continued high value and moderating revenue declines Market not expected to grow      
+
+     Segment Models and Capital Deployment      
+
+     Revenue Growth GTS Leverage cloud investments, continue to expand security and mobility offerings Core offerings simplified and redesigned as end-to-end solutions for hybrid environments GBS Lead new client agenda, applying big data/analytics for individual engagement, including partnerships Modernize core business, differentiating with ‘Agile’ and ‘DevOps’ approaches Margin Expansion Advanced automation through analytics and intellectual property deployment Expected efficiency in managing servers Rebalancing delivery capabilities to global centers Alternate labor models to provide flexibility Continued scale in “as-a-service” offerings Services Segments Longer-term financial model Low single-digit Revenue growth Mid single-digit Pre-tax income growth      
+
+     Revenue Growth Software Annuity content at ~70% growing low single-digits Overall Software revenue impacted by the flexibility offered to our largest clients Absorbs available capacity Maintains client commitment to the IBM platform Solutions units bring together IBM skills and capabilities and improve speed to market Software Segment 2014 Revenue Mix Annuity ~70% Transactional ~30% Longer-term financial model Low single-digit Revenue growth Mid single-digit Pre-tax income growth Annuity Revenue ’10 –’14 CAGR: ~3% @ CC S&S / MLC: 2% CAGR SaaS: >70% CAGR      
+
+     Revenue Growth New products across the portfolio drive growth in 2015 Next generation Mainframe (z13) Power 8 High-End Power for Linux, OpenPOWER, Software defined Storage Hardware Segment Profitability 2014 actions stabilized profit performance Profit performance tied to product cycle dynamics New profit streams from intellectual property opportunities like OpenPOWER IBM Mainframe Mission Critical Workloads Built for Mobile IBM Storage Software Defined Systems and Flash Technology IBM Power Open Integration Built for Data Longer-term financial model Stable, profitable and contributes to IBM Model      
+
+     Longer-term financial model Grow asset base Maintain high Return on Equity Client Financing — Leases and loans to IBM clients Commercial Financing — Working capital for IBM Business Partners Global Asset Recovery Services — Used equipment sales and asset disposition services Global Financing Segment 2014 Performance 37% return on equity $29B debt (71% of IBM) $4B equity $39B total assets      
+
+     Build on existing competencies Create new markets RETURNS ’10 –’14 INVESTMENTS MODEL Address shorter-term portfolio gaps Leverage IBM scale for growth Leverage mutual strengths to address client needs Expand industry and client base EXAMPLES Organic Research and Development, Capital Expenditures Acquisitions Partnerships and Ecosystems High Well above Cost of Capital High Capital Deployment $48B $15B Shift in run rate spending Limited capital required      
+
+     Historical Free Cash Flow performance Free Cash Flow Realization in the 90%’s longer-term Historical Free Cash Flow realization in the 90%’s adjusting for book/cash tax differential and cash from gains Free Cash Flow realization below 100% driven by the impact of Pensions Investments Note 7      
+
+     Free Cash Flow realization supports model Longer-Term 75% - 85% of Free Cash Flow returned to shareholders Last 5 Years Over 100% of Free Cash Flow returned to shareholders Double-digit dividend increases ~6% annual share reduction 101% Free Cash Flow 75% - 85% Free Cash Flow Share Repurchase (net) Dividends Return to Shareholders Free Cash Flow / Net Income: 90%’s Free Cash Flow / Net Income: 97% Longer-term financial model: Continued dividend increases, 2%-3% annual share reduction Notes 7 and 8      
+
+     LONGER TERM Revenue Low single-digit growth Double-digit Strategic Imperative growth — Opportunity, Investments, Partnerships Continuous re-invention drives Core Portfolio performance moderation Pre-Tax Income Mid single-digit growth Services margin expansion — Automation, Global delivery, Flexible labor model Software content drives margin expansion Spending growth supports investments Earnings Per Share High single-digit growth 2% – 3% annual share count reduction Free Cash Flow Realization in the 90%’s 75% – 85% of Free Cash Flow returned to shareholders Includes annual dividend increases IBM Financial Model      
+
+     Summary Portfolio Strategic Imperatives Core Portfolio Well positioned to deliver value in enterprise IT Differentiation driven growth and value High value, essential client IT      
+
+     [LOGO]     
+
+     Notes      
+
+     These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0215.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Forms 8-K dated January 20, 2015 and February 26, 2015.      
+
+     [LOGO]     
+
+     ROBERT LEBLANC SENIOR VICE PRESIDENT, IBM CLOUD DRIVING CLIENT VALUE THROUGH HYBRID CLOUD      
+
+     2014 “as-a-Service” Segment Revenue Mix Cloud Offerings — Public, Private and Hybrid IBM is ranked #1 for current hybrid cloud implementations June 2014 2014 Cloud Revenue $7B, +60% Yr/Yr Growth ahead of market Annual “as-a-Service” run rate ~$3.5B /Yr IBM is ranked as the #1 hybrid and private cloud provider for the enterprise February 2015 2018 Market Opportunity ~$400B, 23% CAGR IBM Cloud Services ~70% Software ~30% IT INFRASTRUCTURE PUBLIC Value Driver: Standardization, Scale PRIVATE Value Driver: Customization HYBRID Value Driver: Innovation      
+
+     Enabling business transformation Business Process as a Service Marketplace of high value consumable business applications Software as a Service Composable and integrated application development platform Platform as a Service Enterprise class, optimized infrastructure Infrastructure as a Service IBM Smarter Workforce IBM Analytics IBM Commerce IBM Watson Cloud Managed Services Infrastructure Services Public. Private. Hybrid. IBM has an enterprise-driven cloud portfolio      
+
+     In 2014, IBM made significant advancements in core cloud offerings JANUARY 2014 Strategic Signings Multi-year enterprise cloud signings: Lufthansa, WPP, Thomson Reuters, ABN Amro $1.2B Global cloud center expansion commitment of 40 centers worldwide $1B Multi-year commitment for Bluemix app development platform DECEMBER 2014 Cloudant Acquisition Database-as-a-Service capability Cloud Security Using proven analytics to give companies a clear line of sight into the security status of their entire business 2014 IBM CLOUD REVENUE: $7B, 60% YTY INCREASE      
+
+     IBM is helping a broad range of clients transition to hybrid cloud IBM: #1 hybrid and private cloud provider for the enterprise Synergy Research, February 2015 Accelerate app development of digital services and guest offers Rapidly launch a new service for connected devices across 30 countries in Europe Improve racers’ decision-making and safety; enhance the fan experience Increase customers’ ability to run core business apps securely in the cloud      
+
+     Each hybrid cloud mix is based on workload characteristics Through 2020, the most common use of cloud services will be a hybrid model combining on-premises and external cloud services.* Hybrid Cloud Definition The connection of one or more clouds to on-premises systems and/or the connection of one or more clouds to other clouds Hybrid Cloud Key Attributes Integration Security Visibility & Control Data Services & Localization Seamless Delivery DevOps PRIVATE PUBLIC ON-PREMISES IT *Source: Gartner, Cloud Computing Innovation Key Initiative Overview, July 2014      
+
+     In 2015, IBM continues to deliver strategic hybrid cloud capabilities 1Q 2015 Announcements Dedicated IBM Cloud unit Kaltura and IBM Cloud to power Turner Latin America’s new Cloud-TV service Turner’s new multi-screen TV Everywhere Service debuted on February 22nd with the streaming of the Academy Awards ceremony Integration Enterprise Containers Developer Productivity Bluemix Local Secure Passport Gateway API Harmony Control, Visibility and Security IBM DataWorks Collaborative Operations Orchestration Security “IBM is providing a robust cloud infrastructure and powerful dev platform to enable customers to do great things.” @alanlepo Alan Lepofsky, Constellation Research, Feb 24, 2015      
+
+     IBM cloud delivers core infrastructure and applications as well as key hybrid cloud capabilities for early adopters high low BUSINESS VALUE OF CLOUD CLOUD MATURITY high Infrastructure Compute/Storage Dev/Test Peak overflow Composable Business Services API discovery Portability/Containers Data sprawl Federated business processes Federated Business Processes Cognitive Data as a Service Data for sale Hybrid data in analytics Applications Mobile Web sites Shifting business processes Open Standards-based platform      
+
+     Summary Clients value IBM’s unique strengths in business process transformation and hybrid cloud technology IBM’s approach to hybrid cloud enables clients to put data to work for better decision making and competitive advantage IBM is ideally-positioned to satisfy end-to-end enterprise requirements for the growing hybrid cloud: infrastructure, application development, data, security, visibility and control      
+
+     [LOGO]     
+
+     These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0215.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Forms 8-K dated January 20, 2015 and February 26, 2015.      
+
+     [LOGO]     
+
+     JOHN KELLY SENIOR VICE PRESIDENT, SOLUTIONS PORTFOLIO AND RESEARCH STEVE MILLS EXECUTIVE VICE PRESIDENT, SOFTWARE AND SYSTEMS PARTNERSHIPS AND ECOSYSTEMS      
+
+     Brings enterprise strength to open source Accelerates platform innovation Drives adoption of standards Enables choice Open partnerships and ecosystems Benefits to clients Benefits to IBM The Linux Foundation, Apache and Eclipse logos are owned by their respective organizations. Accelerates tech adoption and growth Opens new markets Brings complementary offerings to deals Embeds our intellectual property      
+
+     Cloud, platforms and infrastructure A new generation of ecosystem partners Social, mobile and analytics SAP Tencent OpenPOWER IBM Bluemix Apple Twitter IBM Watson      
+
+     Clients in 24 countries, 17 industries 3 new languages open new markets 160 ecosystem partners, with 3,800+ pending Two Year Growth Results 3 4 5 6 10 23 50 109 Client Acquisition 0 0 0 0 11 45 100 162 Partner Acquisition      
+
+     Relative similarity between genes based on their text content chek2 chek1 pik3ca cdk2 p53 braf      
+
+     [LOGO]     
+
+     SIGNIFICANT PROGRESS in building a new ecosystem around OpenPOWER      
+
+     Charter Members Open development alliance based on IBM’s POWER microprocessor POWER hardware and software available for open development, POWER IP licensable Alliance members develop advanced server, networking, storage and GPU-acceleration technology Foundation      
+
+     From five to 101 members Chip / SOC Boards / Systems I/O / Storage / Acceleration System / Integration Software Implementation / HPC / Research      
+
+     Solidified OpenPOWER Strategy Launched Development Projects with new partners Google, Rackspace, Inspur, China Mobile, Zoom Networks, Suzhou PowerCore, NVIDIA / Mellanox / US Government Announced Products and Offerings GPU-accelerated S824L (NVIDIA), NoSQL Solution (Altera), CAPI DevKit (Nallatech), OSS Firmware (Google), Customer Reference System (Tyan), etc. Tyan Delivers OpenPOWER Reference Server Cloud Computing Scale Out Infrastructure China First Drive POWER into Domestic IT Agendas Technical Computing IBM, NVIDIA and Mellanox Awarded Contract by US Government to build World’s Fastest Supercomputer Significant progress in building a new ecosystem      
+
+     Partnering extends IBM’s reach to more clients with enhanced offerings/services Partnerships and ecosystems influence and support many billions of IBM revenue IBM is the “go-to company” for partners to reach the enterprise New solution partners see IBM as the pathway to enterprise access Summary      
+
+     [LOGO]     
+
+     These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0215.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Forms 8-K dated January 20, 2015 and February 26, 2015.      
+
+     [LOGO]     
+
+Attachment II 
+
+     NON-GAAP SUPPLEMENTAL MATERIALS      
+
+     In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company also discusses, in its earnings press release and earnings presentation materials, the following Non-GAAP information which management believes provides useful information to investors. Operating (Non-GAAP) Earnings Per Share and Related Income Statement Items Management presents certain financial measures from continuing operations excluding the effects of certain acquisition-related charges, non-operating retirement-related costs and any related tax impacts. Management uses the term "operating" to describe this view of the company's financial results and other financial information. For acquisitions, these measures exclude the amortization of purchased intangible assets and acquisition-related charges such as in-process research and development, transaction costs, applicable restructuring and related expenses, and tax charges related to acquisition integration. For retirement-related costs, the company has characterized certain items as operating and others as non-operating. The company includes service cost, amortization of prior service cost and the cost of defined contribution plans in its operating results. Non-operating retirement-related costs include interest cost, expected return on plan assets, amortized actuarial gains/losses, the impacts of any plan curtailments/settlements, multi-employer plan costs, pension insolvency costs, and other costs. Non-operating costs primarily relate to changes in pension plan assets and liabilities which are tied to market performance, and management considers these costs to be outside the operational performance of the business. Management’s calculation of these operating measures, as presented, may differ from similarly titled measures reported by other companies. Overall, management believes that providing investors with an operating view as described above provides increased transparency and clarity into both the operational results of the business and the performance of the company’s pension plans, improves visibility to management decisions and their impacts on operational performance, enables better comparison to peer companies, and allows the company to provide a long term strategic view of the business going forward. For its earnings per share guidance, the company is utilizing an operating view to establish its objectives and track its progress. The company’s segment financial results and performance reflect operating earnings, consistent with the company’s management and measurement system. Non-GAAP Supplemental Materials      
+
+     Constant Currency Management refers to growth rates at constant currency or adjusting for currency so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of the company's business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior year period’s currency conversion rate. This approach is used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates. Cash Flow Management uses a free cash flow measure to evaluate the company’s operating results, plan share repurchase levels, evaluate strategic investments and assess the company’s ability and need to incur and service debt. The entire free cash flow amount is not necessarily available for discretionary expenditures. The company defines free cash flow as net cash from operating activities less the change in Global Financing receivables and net capital expenditures, including the investment in software. A key objective of the Global Financing business is to generate strong returns on equity, and increasing receivables is the basis for growth. Accordingly, management considers Global Financing receivables as a profit-generating investment, not as working capital that should be minimized for efficiency. Therefore, management includes presentations of both free cash flow and cash flow from operations that exclude the effect of Global Financing receivables. Non-GAAP Supplemental Materials      
+
+     Non-GAAP Supplemental Materials At Actual Rate At Constant Currency 2010 2011 2012 2013 2014 20% 23% 18% 17% 16% 19% 19% 20% 19% 19% *Historical information on strategic imperatives revenue which has been measured on a consistent basis. The above serves to reconcile the Non-GAAP financial information contained in the slides entitled “Strategic Imperatives Performance ” in the “Financial Overview” presentation. See the third slide in these supplemental materials for additional information on the use of these Non-GAAP financial measures. Reconciliation of Strategic Imperatives Revenue Growth*      
+
+      2010 2011 2012 2013 2014 Free Cash Flow (excluding GF Receivables)* $16.3 $16.6 $18.2 $15.0 $12.4 Less: Taxes and Gains Taxes** 1.8 1.2 2.4 (0.7) (1.5) Gains on assets sales and other*** (0.8) (0.3) (0.7) (0.2) (1.5) Free Cash Flow (excluding GF Receivables, adjusted for Taxes and Gains) 15.3 15.7 16.5 15.9 15.4 Non-GAAP Supplemental Materials * Free Cash Flow (excluding GF Receivables) for reconciliation and other information concerning these items refer to page 66 of the company’s 2014 Annual Report, which is Exhibit 13 to the Form 10-K submitted to the SEC on February 24, 2015. ** Taxes (Continuing Operations Provision for Income Taxes less Income Taxes paid.) *** Net gains on asset sales and other. The above serves to reconcile the Non-GAAP financial information contained in “Historical Free Cash Flow performance” and ” Free Cash Flow realization supports our Model “ contain in the “Financial Overview” presentation. See the third slide in these supplemental materials for additional information on the use of these Non-GAAP financial measures. Reconciliation of Free Cash Flow (excluding GF Receivables, adjusted for Taxes and Gains) $ in Billions      
+
+     IBM Investor Briefing

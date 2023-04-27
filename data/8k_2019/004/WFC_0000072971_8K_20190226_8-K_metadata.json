@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190226",
+    "sec_filing_date": "20190226",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226062335",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297119000225/0000072971-19-000225-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297119000225/0000072971-19-000225.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\WFC_0000072971_8K_20190226_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "36084 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4361,
+    "endpoints": [
+        "Document   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\WFC_0000072971_8K_20190226_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:01:42.167821"
+}

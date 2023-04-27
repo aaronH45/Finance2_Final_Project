@@ -1,0 +1,151 @@
+Document   
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 16, 2018
+
+RYDER SYSTEM, INC.
+
+(Exact name of registrant as specified in its charter) 
+
+[DATA_TABLE_REMOVED]
+
+11690 NW 105th Street
+
+Miami, Florida33178
+
+(Address of principal executive offices)(Zip Code)
+
+Registrant’s telephone number, including area code: (305) 500-3726
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+oWritten communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+oSoliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+oPre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+oPre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ¨
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Item 2.02 Results of Operations and Financial Condition
+
+On February 16, 2018, we issued a press release reporting our financial results for the three and twelve months ended December 31, 2017 (the “Press Release”). We will also host a conference call and webcast on February 16, 2018 during which we will make a presentation on our financial results for the three and twelve months ended December 31, 2017 (the “Presentation”). The Press Release and the Presentation are available on our website at http://investors.ryder.com. 
+
+The Press Release includes information regarding non-GAAP financial measures, as defined by SEC regulations, as well as a reconciliation of each non-GAAP financial measure to the nearest GAAP measure in the tables following the press release. Set forth in the table below is an explanation of each non-GAAP financial measure and why management believes that presentation of each measure provides useful information to investors:
+
+Non-GAAP Financial Measures
+
+Operating Revenue Measures:  
+
+Operating Revenue
+
+FMS Operating Revenue
+
+DTS Operating Revenue
+
+SCS Operating Revenue
+
+FMS EBT as a % of FMS Operating Revenue
+
+DTS EBT as a % of DTS Operating Revenue
+
+SCS EBT as a % of SCS Operating Revenue
+
+Operating revenue is defined as total revenue for Ryder System, Inc. or each business segment (FMS, DTS and SCS), respectively, excluding any (1) fuel and (2) subcontracted transportation. We believe operating revenue provides useful information to investors as we use it to evaluate the operating performance of our core businesses and as a measure of sales activity at the consolidated level for Ryder System, Inc., as well as for each of our business segments. We also use segment EBT as a percentage of segment operating revenue for each business segment for the same reason. Note: FMS EBT, DTS EBT and SCS EBT, our primary measures of segment performance, are not non-GAAP measures.
+
+Fuel: We exclude FMS, DTS and SCS fuel from the calculation of our operating revenue measures, as fuel is an ancillary service that we provide our customers, which is impacted by fluctuations in market fuel prices, and the costs are largely a pass-through to our customers, resulting in minimal changes in our profitability during periods of steady market fuel prices. However, profitability may be positively or negatively impacted by rapid changes in market fuel prices during a short period of time, as customer pricing for fuel services is established based on trailing market fuel costs.
+
+Subcontracted transportation: We also exclude subcontracted transportation from the calculation of our operating revenue measures, as these services are also typically a pass-through to our customers and, therefore, fluctuations result in minimal changes to our profitability. While our DTS and SCS business segments subcontract certain transportation services to third party providers, our FMS business segment does not engage in subcontracted transportation and, therefore, this item is not applicable to FMS.
+
+Operating Revenue Growth Excluding Foreign Exchange
+
+Operating revenue growth excluding foreign exchange is calculated by dividing the results for the current and prior year periods by the exchange rates in effect on December 31, 2016, which was the last day of the prior year period, rather than the actual exchange rates in effect as of December 31, 2017. Ryder's period-over-period operating revenue growth excluding foreign exchange excludes the effects of changes in foreign currency exchange rates from our operating revenue financial measures. Due to the variability of foreign exchange rates from period to period, we believe operating revenue growth excluding foreign exchange is useful to investors to evaluate period-over-period operating performance.
+
+Comparable Earnings Measures:  
+
+Comparable Earnings Before Tax (EBT)
+
+Comparable Earnings
+
+Comparable Earnings per Diluted Common Share (EPS)
+
+Comparable EPS
+
+Forecast
+
+Comparable Tax Rate
+
+Comparable EBT, comparable earnings, comparable EPS, comparable EPS forecast and comparable tax rate are defined, respectively, as GAAP EBT, earnings, EPS, EPS forecast and effective tax rate, all from continuing operations, excluding (1) non-operating pension costs and (2) any other significant items that are not representative of our business operations. We believe these comparable earnings measures provide useful information to investors and allow for better year-over-year comparison of operating performance.
+
+Non-Operating Pension Costs: Our comparable earnings measures exclude non-operating pension costs, which include the amortization of net actuarial loss and prior service cost, interest cost and expected return on plan assets components of pension and postretirement benefit costs. We exclude non-operating pension costs because we consider these to be impacted by financial market performance and outside the operational performance of our business.
+
+Other Significant Items: Our comparable earnings measures also exclude other significant items that are not representative of our business operations. These other significant items vary from period to period and, in some periods, there may be no such significant items. In this reporting period and comparable periods, we exclude the following other significant items from our comparable earnings measures in this Form 8-K:
+
+(1) Restructuring charges and fees, net (in the full year of 2017 and full year of 2016). In the second quarter of 2017, we recorded restructuring credits related to the gains on sale of certain UK facilities. We also recorded consulting fees associated with a cost-savings program in the third and fourth quarter of 2017. During the fourth quarter of 2017 and 2016, we approved plans to reduce our workforce in multiple locations as a result of cost containment actions.
+
+(2) Tax reform related adjustments, net (in the full year of 2017). In the fourth quarter of 2017, the Tax Cuts and Jobs Act was signed into law. We recognized a benefit during the fourth quarter associated with the adoption of tax reform. In addition, we awarded a one-time bonus in connection with the benefit of Tax Reform to all U.S.-based non-incentive eligible employees of the Company as of December 31, 2017.
+
+(3) Operating tax adjustment (in the full year of 2017). In the first quarter of 2017, we recorded a one-time charge related to operating tax expenses that had not been recognized in prior period earnings.
+
+(4) Pension related adjustment (in the full year of 2017 and full year of 2016). In the third quarter of 2017, we recorded an estimated pension settlement charge for the exit from a U.S. multi-employer pension plan. In the second quarter of 2016, it was determined that certain pension benefit improvements made in 2009 were not fully reflected in our projected benefit obligation, resulting in a charge to reflect those pension benefits.
+
+(5) Gain on sale of property (in the full year of 2017). In the fourth quarter of 2017, we recorded a gain on the sale of a SCS property.
+
+(6) Tax law changes (in the full year of 2017). In the third quarter of 2017, the state of Illinois enacted changes to their tax system, which increased the provision for income taxes.
+
+Calculation of comparable tax rate: The comparable provision for income taxes is computed using the same methodology as the GAAP provision for income taxes. Income tax effects of non-GAAP adjustments are calculated based on the statutory tax rates of the jurisdictions to which the non-GAAP adjustments relate.
+
+Adjusted Return on
+
+Average Capital
+
+(ROC)
+
+Adjusted ROC Spread
+
+Adjusted ROC: Adjusted ROC is defined as adjusted net earnings divided by average adjusted total capital and represents the rate of return generated by the capital deployed in our business. The adjustments represent the comparable items described above which are excluded, as applicable, from the calculation of net earnings and average shareholder's equity (a component of average total capital).
+
+Adjusted ROC Spread: Adjusted ROC spread is defined as the difference between adjusted ROC and the weighted average cost of capital. We use adjusted ROC and adjusted ROC spread as internal measures of how effectively we use the capital invested (borrowed or owned) in our operations.
+
+[DATA_TABLE_REMOVED]
+
+Additional information regarding non-GAAP financial measures can be found in the Press Release and our most recent Form 10-K and Form 10-Q filed with the SEC.
+
+The information in this Report, including Exhibit 99.1, is being furnished pursuant to Item 2.02 of Form 8-K and General Instruction B.2 thereunder and shall not be deemed to be incorporated by reference in any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as expressly set forth by specific reference to such filing.
+
+Item 7.01 Regulation FD Disclosure
+
+The Company is hosting a conference call and webcast on February 16, 2018 during which we will make a presentation on our financial results for the three and twelve months ended December 31, 2017 (the Presentation). The Presentation has been made available on our website at http://investors.ryder.com.
+
+Item 9.01(d) Exhibits
+
+The following exhibit is furnished as part of this report on Form 8-K:
+
+Exhibit 99.1Press release, dated February 16, 2018, relating to Ryder System, Inc.’s financial results for the three and twelve months ended December 31, 2017.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000814453",
+    "sec_company_name": "NEWELL BRANDS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190219",
+    "sec_filing_date": "20190219",
+    "sec_changed_date": "20190219",
+    "sec_accepted_date": "20190219091432",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/814453/000119312519043609/0001193125-19-043609-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/814453/000119312519043609/0001193125-19-043609.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\NWL_0000814453_EX991_20190219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "142296 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8165,
+    "endpoints": [
+        "EX-99.1   ",
+        "The Company determined the tax effect of the items excluded from normalized results by applying the estimated effective rate for the applicable jurisdiction in which the pre-tax items were incurred, and for which realization of the resulting tax benefit, if any, is expected. In certain situations in which an item excluded from normalized results impacts income tax expense, the Company uses a “with” and “without” approach to determine normalized income tax expense."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NWL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\NWL_0000814453_EX991_20190219_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:38:32.876285"
+}

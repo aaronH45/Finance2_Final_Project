@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000013372",
+    "sec_company_name": "NSTAR ELECTRIC CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220216",
+    "sec_filing_date": "20220216",
+    "sec_changed_date": "20220216",
+    "sec_accepted_date": "20220216161834",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72741/000110465922024270/0001104659-22-024270-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72741/000110465922024270/0001104659-22-024270.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\ES_0000013372_8K_20220216_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "67131 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4214,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?                ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ES",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\ES_0000013372_8K_20220216_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:24:11.220882"
+}

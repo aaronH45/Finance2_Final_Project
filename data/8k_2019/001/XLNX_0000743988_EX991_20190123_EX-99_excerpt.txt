@@ -1,0 +1,125 @@
+Exhibit   
+
+Exhibit 99.1
+
+Investor Relations Contact: 
+
+Suresh Bhaskaran 
+
+Xilinx, Inc.
+
+(408) 879-4784 
+
+ir@xilinx.com
+
+XILINX REPORTS RECORD REVENUES AND EPS IN FISCAL THIRD QUARTER
+
+Revenue growth of 34% year over year driven by strength across all primary end markets
+
+SAN JOSE, Calif., January 23, 2019 -- Xilinx, Inc. (Nasdaq: XLNX) today announced record revenues of $800 million for the third quarter of fiscal year 2019, up 7% from the prior quarter and up 34% year over year. GAAP net income for the December quarter was $239 million, or $0.93 per diluted share. Non-GAAP net income for the December quarter was $237 million, or $0.92 per diluted share. 
+
+The Xilinx Board of Directors declared a quarterly cash dividend of $0.36 per outstanding share of common stock payable on February 21, 2019 to all stockholders of record at the close of business on February 6, 2019. 
+
+Additional third quarter of fiscal year 2019 comparisons are represented in the charts below. Due to the adoption of the new revenue recognition standard in the first quarter of fiscal year 2019, all fiscal 2018 results have been restated to conform to the new standard:
+
+Q3 2019 Financial Highlights 
+
+(In millions, except EPS) 
+
+[DATA_TABLE_REMOVED]
+
+*No adjustment between GAAP and Non-GAAP
+
+“I am very excited to report yet another record revenue and earnings quarter. During the third fiscal quarter, we delivered revenues of $800 million, representing 34% year over year growth. Based on the guidance we are providing for the fiscal fourth quarter, we expect to exceed $3 billion in annual revenues for the first time in our history. In addition to the robust revenue growth, we also demonstrated strong profitability by posting over 60% growth in non-GAAP operating income and over 40% growth in non-GAAP diluted earnings per share year over year. We continue to execute to our strategy and drive growth across our portfolio,” said Victor Peng, President and Chief Executive Officer.
+
+Net Revenues by Geography:
+
+[DATA_TABLE_REMOVED]
+
+Net Revenues by End Market:
+
+[DATA_TABLE_REMOVED]
+
+Net Revenues by Product:
+
+[DATA_TABLE_REMOVED]
+
+Products are classified as follows:
+
+Advanced Products: Alveo, UltraScale+, Ultrascale and 7-series products. 
+
+Core Products: Virtex-6, Spartan-6, Virtex‐5, CoolRunner‐II, Virtex-4, Virtex-II, Spartan-3, Spartan-2, XC9500 products, configuration solutions, software & support/services.
+
+Key Statistics:  
+
+(Dollars in millions)
+
+[DATA_TABLE_REMOVED]
+
+*Return on equity calculation: Annualized year to date net income/average stockholders’ equity
+
+Product and Financial Highlights - Fiscal Third Quarter 2019 
+
+•Data Center and Test, Measurement & Emulation (TME) revenues grew 14% year over year driven primarily by the Data Center business (ex-Cryptocurrency) and TME business, which both experienced double digit growth during the quarter. Xilinx continued its strong design win momentum in Data Center across multiple applications including big data acceleration, machine learning inference, video transcoding, network acceleration and storage controllers. The Company also has won designs for SmartNIC applications with multiple hyperscalers. Further developing its platform ecosystem, the Company significantly increased the cumulative number of Xilinx community developers trained on SDAccel to over 2,250. FaaS engagement momentum continued to build with Amazon, Alibaba, Huawei and other hyperscalers. TME revenues were strong across both the Test & Measurement area and Emulation & Prototyping, reflecting strong product leadership position in those markets.
+
+•Communications revenues increased 41% year over year, driven by strength in the Wireless Communications business. Wireless Communications benefitted from 5G deployment in South Korea and preparation for 5G deployment in both China and North America as well as ongoing LTE upgrades. Wireless Communications also saw continued momentum across both radio and baseband applications with OEM customers across multiple geographies. Wired business grew year over year with strength from Optical/Data Center Interconnect applications.
+
+•Xilinx continued engagement momentum with several leading automotive customers during the quarter with the goal of enabling their roadmap toward automated driving. During the Xilinx Developer Forum in Frankfurt, Daimler showcased its AI solution in the new Mercedes GLE Sport Utility Vehicle that is powered by Xilinx machine learning algorithms and MPSoCs. In addition, ZF Friedrichshafen AG, a global leader and Tier-1 automotive supplier, recently announced a strategic collaboration in which Xilinx 
+
+technology will power their highly-advanced AI based automotive control unit to enable automated driving applications.
+
+•The Advanced Products category increased 51% year over year during the quarter. Revenue from 16nm products continued its strong ramp with broad-based adoption, increasing approximately 4x during the same period. Zynq-based revenues, grew approximately 80% year over year driven by a broad set of applications across multiple end markets, served in particular by MPSoC. Zynq MPSoC revenues grew over 3x compared to fiscal third quarter 2018. 
+
+•Extending its significant technology leadership, Xilinx taped out Versal - the industry's first Adaptive Compute Acceleration Platform (ACAP) at the end of fiscal third quarter. Built on TSMC's 7nm FinFET process technology, the Versal portfolio is the first platform to combine software programmability with domain-specific hardware acceleration and the adaptability essential for today’s rapid pace of innovation. 
+
+Business Outlook - Fiscal Fourth Quarter 2019 
+
+The following statements are based on current expectations, and as indicated, are presented on a GAAP and non-GAAP basis. These statements are forward-looking and actual results may differ materially, as a result of, among other things, the important factors discussed at the end of this release. 
+
+Fiscal Fourth Quarter 2019  
+
+[DATA_TABLE_REMOVED]
+
+Notes regarding Non-GAAP Adjustments: 
+
+(1)Excludes an estimated amount of $5 million in M&A related expenses and amortization of acquisition related intangibles
+
+Conference Call
+
+A conference call will be held today at 2:00 p.m. Pacific Time to discuss the December quarter financial results and management's outlook for the March quarter. The webcast and subsequent replay will be available in the investor relations section of the Company's web site at www.investor.xilinx.com. A telephonic replay of the call may be accessed later in the day by calling (855) 859-2056 and referencing confirmation code 6696387. The telephonic replay will be available for two weeks following the live call. 
+
+Non-GAAP Financial Information
+
+Fiscal third quarter 2019 results and business outlook for the March quarter include financial measures which are not determined in accordance with the United States generally accepted accounting principles (GAAP), as indicated. Non-GAAP measures should not be considered as a substitute for, or superior to, financial measures determined in accordance with GAAP. The presentation of non-GAAP financial measures has been reconciled, in each case, to the most directly-comparable GAAP measure, as indicated in the accompanying tables. The Company’s calculation of such non-GAAP measures may not be comparable to similarly-titled measures used by other companies.
+
+Management uses the non-GAAP financial measures disclosed herein to evaluate the Company's financial results from continuing operations (excluding the impact of acquisitions) and compare to operating performance in past periods. Similarly, Management believes presentation of these non-GAAP measures is useful to investors because it enables investors and analysts to evaluate operating expenses of the Company's core business, excluding the impact of non-core business expenses such as acquisition-related amortization and non-recurring items.
+
+M&A related expenses: These expenses mainly consist of legal and consulting fees associated with due diligence review of acquired companies. We believe that these costs do not reflect the Company’s current operating performance. Consequently, the non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Amortization of acquisition-related intangibles: Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology acquired in connection with business combinations. The non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Gains on investment related to acquisition: The Company excludes the accounting gain resulting from revaluation of its prior minority investment in DeePhi Tech. The Company believes excluding this gain will facilitate a comparable evaluation of its current operating performance to its past operating performance.
+
+Income taxes: The Company excludes the income tax effects of non-GAAP adjustments reflected in Operating Expenses and Other Income, as detailed above. It also excludes U.S. tax reform related items. The Company believes excluding U.S. tax reform related items will facilitate a comparable evaluation of its current performance to its past performance. The fourth quarter of fiscal 2019 outlook does not reflect other tax related items which we are not able to predict without unreasonable efforts due to their inherent uncertainty.
+
+Forward Looking Statements
+
+This release contains forward-looking statements and projections. Forward-looking statements and projections can often be identified by the use of forward-looking words such as “expect,” “believe,” “may,” “will,” “could,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” or other similar expressions. Statements that refer to or are based on projections, uncertain events or assumptions also identify forward-looking statements. Such forward 
+
+looking statements include, but are not limited to, statements related to the semiconductor market, the growth and acceptance of our products, expected revenue growth, the demand and growth in the markets we serve, opportunity for expansion into new markets, and our expectations regarding our business outlook for the March quarter. Undue reliance should not be placed on such forward-looking statements and projections, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including customer acceptance of our new products, current global economic conditions, the health of our customers and the end markets in which they participate, our ability to forecast end customer demand, a high dependence on turns business, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to successfully manage production at multiple foundries, variability in wafer pricing, costs and liabilities associated with current and future litigation, our ability to realize the goals contemplated by our acquisitions and strategic investments, the impact of current and future legislative and regulatory changes, the impact of new accounting pronouncements and tax laws, including the U.S. Tax Cuts and Jobs Act, and interpretations thereof, and other risk factors described in our most recent Forms 10-Q and 10-K.
+
+About Xilinx 
+
+Xilinx develops highly flexible and adaptive processing platforms that enable rapid innovation across a variety of technologies - from the endpoint to the edge to the cloud. Xilinx is the inventor of the FPGA, hardware programmable SoCs and the ACAP, designed to deliver the most dynamic processor technology in the industry and enable the adaptable, intelligent and connected world of the future. For more information, visit www.xilinx.com.
+
+Xilinx, the Xilinx logo, Artix, ISE, Kintex, Spartan, Virtex, Zynq, Vivado, Alveo, Versal and other designated brands included herein are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+
+XLNX-F
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

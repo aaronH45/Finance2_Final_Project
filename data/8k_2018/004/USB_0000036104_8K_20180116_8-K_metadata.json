@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000036104",
+    "sec_company_name": "US BANCORP \DE\ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180116",
+    "sec_filing_date": "20180116",
+    "sec_changed_date": "20180116",
+    "sec_accepted_date": "20180116164119",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/36104/000129993318000043/0001299933-18-000043-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/36104/000129993318000043/0001299933-18-000043.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\USB_0000036104_8K_20180116_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "11557 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3272,
+    "endpoints": [
+        "U.S. Bancorp (Form: 8-K)      ",
+        "    Top of the Form"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "USB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\USB_0000036104_8K_20180116_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:41.727273"
+}

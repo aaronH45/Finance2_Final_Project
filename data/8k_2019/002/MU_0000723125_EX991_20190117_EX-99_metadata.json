@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000723125",
+    "sec_company_name": "MICRON TECHNOLOGY INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190117",
+    "sec_filing_date": "20190122",
+    "sec_changed_date": "20190122",
+    "sec_accepted_date": "20190122164343",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/723125/000072312519000005/0000723125-19-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/723125/000072312519000005/0000723125-19-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\MU_0000723125_EX991_20190117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "158548 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 87835,
+    "endpoints": [
+        "Exhibit   ",
+        "stockholders or the Board of Directors if notice of such alteration, amendment, repeal or adoption of new Bylaws be contained in the notice of such special meeting. If the power to adopt, amend or repeal Bylaws is conferred upon the Board of Directors by the Certificate of Incorporation it shall not divest or limit the power of the stockholders to adopt, amend or repeal Bylaws."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\MU_0000723125_EX991_20190117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:41:27.645760"
+}

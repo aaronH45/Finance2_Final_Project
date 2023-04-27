@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000032604",
+    "sec_company_name": "EMERSON ELECTRIC CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210202",
+    "sec_filing_date": "20210202",
+    "sec_changed_date": "20210202",
+    "sec_accepted_date": "20210202065440",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/32604/000003260421000002/0000032604-21-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/32604/000003260421000002/0000032604-21-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\EMR_0000032604_8K_20210202_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "50193 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4561,
+    "endpoints": [
+        "xml version='1.0' ? emr-20210202",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "EMR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\EMR_0000032604_8K_20210202_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:01:26.547703"
+}

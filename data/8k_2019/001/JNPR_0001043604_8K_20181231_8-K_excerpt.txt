@@ -1,0 +1,81 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, DC 20549  
+
+FORM 8-K 
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d) of  
+
+the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): December 31, 2018  
+
+JUNIPER NETWORKS, INC.  
+
+(Exact name of Registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (408) 745-2000 
+
+Not Applicable  
+
+(Former Name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  
+
+Emerging growth company ☐  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement.  
+
+On December 31, 2018, Juniper Networks, Inc. (the “Registrant” or the “Company”) entered into a Master Services Agreement (the “Master Agreement”) with International Business Machines Corporation (“IBM”). Concurrently with the execution of the Master Agreement, the Company and IBM executed certain Statements of Work incorporated into the Master Agreement (such Statements of Work, together with the Master Agreement, the “Agreement”). The Master Agreement is designed to allow for additional statements of work for additional projects and services to be added in the future.  
+
+Under the Agreement, IBM will provide the Company with a broad range of information technology services, such as applications, including support, development and maintenance; infrastructure management and support, including for servers, storage and network devices; and end user support including service desk. There will be a transition period in connection with IBM’s assumption of responsibility for these operations. As a result of the Agreement, the Company expects that certain of its or its subsidiaries’ employees will become employees of IBM (or one of its affiliates or subcontractors), and that such transferred employees will become part of the team providing services to the Company under the Agreement. Upon expiration or termination of the Agreement, the Company will have rights to hire certain IBM personnel, including those former Company employees that transferred to IBM under the terms of the Agreement.  
+
+The services will be provided at the Company’s facilities and also at IBM’s facilities, both inside and outside of the United States. The Agreement has minimum performance-related service level commitments that IBM must meet or exceed. Failure to meet these minimum service levels, in certain circumstances, will result in service level credits to the Company as described in the Agreement, without limiting other rights and remedies.  
+
+The Agreement will continue while there are Statements of Work in place. The initial terms of each of the Statements of Work for infrastructure and for end user support will commence on signing and will extend through July 31, 2026. The Statement of Work for applications will commence on signing and will extend through April 30, 2026. The Company will have the right to extend the initial term for each of the Statements of Work for one optional extension period of one year by giving notice to IBM no less than 90 days prior to the end of the then-current term. Further, the Company has additional rights to for up to an additional 18 months as part of IBM’s termination assistance obligations; this extension right applies to any expiration or early termination of the Agreement.  
+
+The Company will pay IBM through a combination of fixed and variable fees, with the variable fees fluctuating based on the Company’s actual need for such services. Based on the currently projected usage of services over the Initial Term, the Company expects to pay IBM approximately $325 million, including for transition services. The Company may elect to pay undisputed monthly fees in two installments of 50% each with the first installment being due on the third month after invoice and the second installment being due on the ninth month after invoice.  
+
+The Master Agreement contains customary representations and warranties and indemnity provisions. The Agreement contains both general and specific liability caps that limit the Company’s liability and IBM’s liability under the Agreement.  
+
+The Company may terminate the Master Agreement and Statements of Work for, among other things, cause, convenience, certain specific performance failures, breach of warranties by IBM, failure to transition, failure to transform, changes in law, force majeure, or a change in the control of either IBM or the Company. Depending on both the type and timing of a termination, the Company may be required to pay certain termination amounts to IBM. IBM’s only right to terminate the Agreement is based on the Company’s failure to pay certain amounts after certain notice periods or Company’s failure to comply with certain terms applying to disputed payments.  
+
+The Company expects to file a copy of the Master Agreement, redacted as to certain confidential information, as an exhibit to its Form 10-K for the year ended December 31, 2018.  
+
+Forward-Looking Statements  
+
+This report on Form 8-K contains forward-looking statements within the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements other than those that are purely historical are forward-looking statements. Words such as “expect,” “anticipate,” “believe,” “estimate,” “will”, “intend,” “plan,” and similar expressions are intended to identify such forward-looking statements. Forward-looking statements include, without limitation, statements concerning the transition of responsibility for providing the Company’s information technology infrastructure and related services to IBM, the timing and transition costs involved, future capabilities of IBM to satisfy the Company’s requirements, the transfer of Company employees to IBM, the total costs of services under the Agreement, the duration of the Agreement and any expected cost savings. Forward-looking statements are only predictions, and are subject to and involve a number of uncertainties and risks.   
+
+Actual results or events could differ materially from those anticipated in those forward-looking statements as a result of several factors, including, without limitation: IBM’s ability to provide information technology services to meet the Company’s needs; the ability of IBM to maintain the security and integrity of Company data maintained by IBM as under the Agreement; the Company’s and IBM’s ability to effectively transition technology infrastructure operations (including personnel) on a timely basis and potential financial statement impacts of the transition, any of which could impact costs or expenses, and the effect of the Agreement on the adequacy and effectiveness of the Company’s internal controls over financial reporting and disclosure controls and procedures; and other factors listed in Juniper Networks’ most recent report on Form 10-Q or Form 10-K filed with the Securities and Exchange Commission. All statements made in this Form 8-K are made only as of the date of this report. Juniper Networks undertakes no obligation to update the information made in this report in the event facts or circumstances subsequently change after the date of this report.   
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

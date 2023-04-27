@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001037646",
+    "sec_company_name": "METTLER TOLEDO INTERNATIONAL INC/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190208",
+    "sec_filing_date": "20190208",
+    "sec_changed_date": "20190208",
+    "sec_accepted_date": "20190208095837",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1037646/000103764619000007/0001037646-19-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1037646/000103764619000007/0001037646-19-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\MTD_0001037646_EX991_20190208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5075 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2514,
+    "endpoints": [
+        "Exhibit   ",
+        "METTLER TOLEDO (NYSE: MTD) is a leading global supplier of precision instruments and services. We have strong leadership positions in all of our businesses and believe we hold global number-one market positions in most of them. We are recognized as an innovation leader and our solutions are critical in key R&D, quality control, and manufacturing processes for customers in a wide range of industries including life sciences, food, and chemicals. Our sales and service network is one of the most extensive in the industry. Our products are sold in more than 140 countries and we have a direct presence in approximately 40 countries. With proven growth strategies and a focus on execution, we have achieved a long-term track record of strong financial performance. For more information, please visit www.mt.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MTD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\MTD_0001037646_EX991_20190208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:58:40.088980"
+}

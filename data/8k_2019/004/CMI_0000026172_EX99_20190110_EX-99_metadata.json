@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000026172",
+    "sec_company_name": "CUMMINS INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190110",
+    "sec_filing_date": "20190111",
+    "sec_changed_date": "20190111",
+    "sec_accepted_date": "20190111172000",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/26172/000089706919000023/0000897069-19-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/26172/000089706919000023/0000897069-19-000023.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CMI_0000026172_EX99_20190110_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8322 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3755,
+    "endpoints": [
+        "Contact: ",
+        "Cummins Inc., a global power leader, is a corporation of complementary business segments that design, manufacture, distribute and service a broad portfolio of power solutions. The company's products range from diesel and natural gas engines to hybrid and electric platforms, as well as related technologies, including battery systems, fuel systems, controls, air handling, filtration, emission solutions and electrical power generation systems. Headquartered in Columbus, Indiana (U.S.A.), since its founding in 1919, Cummins currently employs approximately 58,600 people committed to powering a more prosperous world. Cummins serves customers in about 190 countries and territories through a network of some 500 company-owned and independent distributor locations and approximately 7,500 dealer locations. Cummins earned about $1 billion on sales of $20.4 billion in 2017. Press releases can be found on the Web at www.cummins.com. Follow Cummins on Twitter at www.twitter.com/cummins and on YouTube at www.youtube.com/cumminsinc."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\CMI_0000026172_EX99_20190110_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:00:57.278984"
+}

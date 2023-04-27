@@ -1,0 +1,121 @@
+xml version="1.0" encoding="US-ASCII"?         
+
+UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT
+
+ PURSUANT TO SECTION 13 OR 15 (d) OF
+
+ THE SECURITIES EXCHANGE ACT OF 1934  
+
+February 20, 2020
+
+ Date of Report (Date of earliest event reported)  
+
+ HP Inc.  
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] [DATA_TABLE_REMOVED] 
+
+(650) 857-1501
+
+ (Registrant’s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: 
+
+  [DATA_TABLE_REMOVED] 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2). 
+
+Emerging growth company o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o  
+
+ Item 1.01. Entry into a Material Definitive Agreement.  
+
+Item 3.03 below is incorporated herein by reference. 
+
+ Item 3.03. Material Modification to Rights of Security Holders.  
+
+On February 20, 2020, the Board of Directors (the “Board”) of HP Inc. (“HP”), a Delaware corporation, declared a dividend of one preferred share purchase right (Right) for each outstanding share of common stock, par value $0.01 per share, of HP (“HP Common Stock”), and adopted a shareholder rights plan, as set forth in the Rights Agreement, dated as of February 20, 2020 (the “Rights Agreement”), by and between HP and Equiniti Trust Company, as rights agent. The dividend is payable on March 2, 2020 to HP shareholders of record as of the close of business on March 2, 2020. The Rights will expire on February 20, 2021. 
+
+In general terms, the Rights Agreement works by imposing a significant penalty upon any person or group that acquires 20% or more of the outstanding shares of HP Common Stock without the approval of the Board. The Rights Agreement should not interfere with any merger or other business combination approved by the Board. 
+
+A summary of the terms of the Rights Agreement follows: 
+
+The Rights. The Rights will initially trade with, and will be inseparable from, the shares of HP Common Stock. New Rights will accompany any new shares of HP Common Stock issued after March 2, 2020 until the expiration, exchange or redemption of the Rights. 
+
+Exercisability. The Rights will not be exercisable until 10 days after the public announcement that a person or group has become an “Acquiring Person” (as defined in the Rights Agreement) by obtaining beneficial ownership of 20% or more of the outstanding shares of HP Common Stock. Prior to exercise, the Right does not give its holder any dividend, voting or liquidation rights. 
+
+The date when the Rights become exercisable is referred to herein as the Rights Distribution Date. Until that date, HP Common Stock certificates or, in the case of uncertificated shares, notations in the book-entry account system, will also evidence the Rights, and any transfer of shares of HP Common Stock will constitute a transfer of Rights. After that date, the Rights will separate from the shares of HP Common Stock and be evidenced by book-entry credits or by Rights certificates that HP will mail to all eligible holders of HP Common Stock. Any Rights held by an Acquiring Person are null and void and may not be exercised.  
+
+Exercise Price. Each Right will allow its holder to purchase from HP one one-hundredth of a share of Series A Junior Participating Preferred Stock, par value $0.01 per share (“Preferred Share”), for $100 (the “Exercise Price”), once the Rights become exercisable. This portion of a Preferred Share will give the stockholder approximately the same dividend, voting and liquidation rights as would one share of HP Common Stock. 
+
+Beneficial Ownership. Certain synthetic interests in securities created by derivative positions — whether or not such interests are considered to be ownership of underlying shares of HP Common Stock or are reportable for purposes of Regulation 13D of the Securities Exchange Act of 1934, as amended — are treated as beneficial ownership of the number of shares of HP Common Stock equivalent to the economic exposure created by the derivative position, to the extent actual shares of HP Common Stock are directly or indirectly held by counterparties to the derivatives contracts. Swaps dealers unassociated with any control intent or intent to evade the purposes of the Rights Agreement are excepted from such imputed beneficial ownership. In addition, shares held by Affiliates and Associates of an Acquiring Person, and Notional Common Shares held by counterparties to a Derivatives Contract with an Acquiring Person, will be deemed to be beneficially owned by the Acquiring Person (in each case as such capitalized terms are defined in the Rights Agreement). 
+
+Consequences of a Person or Group Becoming an Acquiring Person. 
+
+  [DATA_TABLE_REMOVED] 
+
+Each one one-hundredth of a Preferred Share, if issued: 
+
+  [DATA_TABLE_REMOVED]  
+
+ · will have the same voting power as one share of HP Common Stock. 
+
+ · if shares of HP Common Stock are exchanged via merger, consolidation, or a similar transaction, will entitle holders to a per share payment equal to the payment made on one share of HP Common Stock.  
+
+The value of a one one-hundredth interest in a Preferred Share should approximate the value of one share of HP Common Stock. 
+
+Expiration. The Rights will expire on February 20, 2021. 
+
+Redemption. The Board may redeem the Rights for $0.01 per Right at any time before any person or group becomes an Acquiring Person. If the Board redeems any Rights, it must redeem all of the Rights. Once the Rights are redeemed, the only right of the holders of Rights will be to receive the redemption price of $0.01 per Right. The redemption price will be adjusted if HP effects a stock split or stock dividend of HP Common Stock. 
+
+Anti-Dilution Provisions. The Board may adjust the purchase price of the Preferred Shares, the number of Preferred Shares issuable and the number of outstanding Rights to prevent dilution that may occur from a stock dividend, a stock split or other reclassification of the Preferred Shares or HP Common Stock. No adjustments to the Exercise Price of less than 1% will be made. 
+
+Amendments. The terms of the Rights Agreement may be amended by the Board without the consent of the holders of the Rights. After a person or group becomes an Acquiring Person, the Board may not amend the Rights Agreement in a way that adversely affects holders of the Rights. 
+
+The summary of the Rights Agreement set forth under this Item 3.03 is qualified in its entirety by reference to the complete terms and conditions of the Rights Agreement, which is filed as Exhibit 4.1 to this Current Report on Form 8-K, and incorporated by reference into this Item 3.03. A copy of the Rights Agreement is available free of charge from HP upon request. 
+
+ Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.  
+
+In connection with the adoption of the Rights Agreement referenced in Item 3.03 above, the Board approved the Certificate of Designations establishing the Preferred Shares and the rights, preferences and privileges thereof. The Certificate of Designations was filed with the Secretary of State of the State of Delaware on February 20, 2020. The Certificate of Designations is attached hereto as Exhibit 3.1 and is incorporated herein by reference. The information set forth under Item 3.03 above is incorporated herein by reference. 
+
+ Item 8.01. Other Events.  
+
+On February 20, 2020, HP announced the declaration of the dividend of Rights and issued a press release relating to such event, a copy of which is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference.  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED]  
+
+SIGNATURE 
+
+Pursuant to the requirements of Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Dated: February 20, 2020 
+
+   By: /s/ Ruairidh Ross 
+
+   Name:  Ruairidh Ross 
+
+   Title: Deputy General Counsel and Assistant Secretary   
+
+  false --10-31 0000047217      0000047217   2020-02-20 2020-02-20

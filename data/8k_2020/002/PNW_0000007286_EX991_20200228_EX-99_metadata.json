@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007286",
+    "sec_company_name": "ARIZONA PUBLIC SERVICE CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200228",
+    "sec_filing_date": "20200228",
+    "sec_changed_date": "20200228",
+    "sec_accepted_date": "20200228170452",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462220000024/0000764622-20-000024-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/764622/000076462220000024/0000764622-20-000024.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PNW_0000007286_EX991_20200228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "59106 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25067,
+    "endpoints": [
+        "investormeetingsmarch232   ",
+        " PURCHASED POWER CONTRACTS Contract Location Status1 PPA Signed COD Term (Years) Net Capacity (MW) Solana Gila Bend, AZ IO Feb-2008 2013 30 250 RE Ajo Ajo, AZ IO Jan-2010 2011 25 5 Sun E AZ 1 Prescott, AZ IO Feb-2010 2011 30 10 SOLAR 310 MW Saddle Mountain Tonopah, AZ IO Jan - 2011 2012 30 15 Badger Tonopah, AZ IO Jan-2012 2013 30 15 Gillespie Maricopa County, AZ IO Jan-2012 2013 30 15 Aragonne Mesa Santa Rosa, NM IO Dec-2005 2006 20 90 WIND High Lonesome Mountainair, NM IO Feb-2008 2009 30 100 289 MW Perrin Ranch Wind Williams, AZ IO Jul-2010 2012 25 99 GEOTHERMAL Salton Sea Imperial County, CA IO Jan-2006 2006 23 10 10 MW BIOMASS Snowflake Snowflake, AZ IO Sep-2005 2008 15 14 14 MW BIOGAS NW Regional Landfill Surprise, AZ IO Dec-2010 2012 20 3 3 MW INTER-UTILITY Exchange Agreement IO Sep-1990 1991 30 480 540 MW Purchase Agreement Not Disclosed IO May-2009 2010 10 60 Tolling Agreement Not Disclosed IO Dec-2017 2020 7 570 CONVENTIONAL TOLLING Tolling Agreement Not Disclosed IO Dec-2016 2020 6 565 1,598 MW Tolling Agreement Not Disclosed IO Feb - 2019 2021 7 463 DEMAND RESPONSE Demand Response Not Disclosed IO Sep-2008 2010 15 25 25 MW SOLAR PLUS ENERGY STORAGE Solar Plus Energy Storage Arlington, AZ UD Feb – 2018 2021 15 50 50 MW Total Contracted Capacity 2,839 MW * As disclosed in 2019 Form 10-K. 1 UD = Under Development; IO = In Operation Powering Growth, Delivering Value | 30"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PNW_0000007286_EX991_20200228_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:19.130168"
+}

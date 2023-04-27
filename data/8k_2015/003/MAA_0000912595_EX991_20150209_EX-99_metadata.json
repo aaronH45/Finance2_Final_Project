@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912595",
+    "sec_company_name": "MID AMERICA APARTMENT COMMUNITIES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150209",
+    "sec_filing_date": "20150209",
+    "sec_changed_date": "20150209",
+    "sec_accepted_date": "20150209085044",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912595/000114420415006903/0001144204-15-006903-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912595/000114420415006903/0001144204-15-006903.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\MAA_0000912595_EX991_20150209_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22739 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13792,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "FORWARD LOOKING STATEMENTS 12 Certain matters in this presentation may constitute forward - looking statements within the meaning of Section 27 - A of the Securities Act of 1933 and Section 21 E of the Securities and Exchange Act of 1934 . Such statements include, but are not limited to, statements made about anticipated economic and market conditions, expectations for future demographics , expectations for future performance and capture of synergies, and expectations for acquisition and disposition transaction activity . Actual results and the timing of certain events could differ materially from those projected in or contemplated by the forward - looking statements due to a number of factors, including a downturn in general economic conditions or the capital markets, competitive factors including overbuilding or other supply/demand imbalances in some or all of our markets, changes in interest rates and other items that are difficult to control such as the impact of legislation, as well as the other general risks inherent in the apartment and real estate businesses . We undertake no duty to update these statements . Reference is hereby made to the filings of Mid - America Apartment Communities, Inc . , with the Securities and Exchange Commission, including quarterly reports on Form 10 - Q, reports on Form 8 - K, and its annual report on Form 10 - K, particularly including the risk factors contained in the latter filing . Eric Bolton Chairman and CEO 901 - 248 - 4127 eric.bolton@maac.com Al Campbell EVP, CFO 901 - 248 - 4169 al.campbell@maac.com Tim Argo SVP, Finance 901 - 248 - 4149 tim.argo@maac.com Jennifer Patrick Investor Relations 901 - 435 - 5371 jennifer.patrick@maac.com Contact"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MAA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\MAA_0000912595_EX991_20150209_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:23:24.520583"
+}

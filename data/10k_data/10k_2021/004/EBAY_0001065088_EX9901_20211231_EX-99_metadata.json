@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065088",
+    "sec_company_name": "EBAY INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220510",
+    "sec_changed_date": "20220510",
+    "sec_accepted_date": "20220510171338",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065088/000106508822000017/0001065088-22-000017-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065088/000106508822000017/0001065088-22-000017.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\004\EBAY_0001065088_EX9901_20211231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "1891357 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 165856,
+    "endpoints": [
+        "Document",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EBAY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\004\EBAY_0001065088_EX9901_20211231_EX-99_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:55:25.595648"
+}

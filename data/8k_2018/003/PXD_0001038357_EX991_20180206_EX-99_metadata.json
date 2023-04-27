@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001038357",
+    "sec_company_name": "PIONEER NATURAL RESOURCES CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180206",
+    "sec_filing_date": "20180206",
+    "sec_changed_date": "20180206",
+    "sec_accepted_date": "20180206161203",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835718000010/0001038357-18-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835718000010/0001038357-18-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\PXD_0001038357_EX991_20180206_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "729274 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 41537,
+    "endpoints": [
+        "Exhibit   ",
+        "(c)During the first quarter of 2017, the Company's total costs and expenses included charges of $285 million to impair the carrying value of proved properties in the Raton field. During the first quarter of 2016, the Company's total costs and expenses included charges of $32 million to impair the carrying value of proved properties in the West Panhandle field."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PXD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\PXD_0001038357_EX991_20180206_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:27:29.545344"
+}

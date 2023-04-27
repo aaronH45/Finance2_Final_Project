@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000019617",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220114",
+    "sec_filing_date": "20220114",
+    "sec_changed_date": "20220114",
+    "sec_accepted_date": "20220114064548",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961722000079/0000019617-22-000079-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961722000079/0000019617-22-000079.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\JPM_0000019617_EX991_20220114_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "225759 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20875,
+    "endpoints": [
+        "Document",
+        "This earnings release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase & Co.’s management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorgan Chase & Co.’s actual results to differ materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.’s Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Reports for the quarterly periods ended September 30, 2021, June 30, 2021 and March 31, 2021 which have been filed with the Securities and Exchange Commission and are available on JPMorgan Chase & Co.’s website (https://jpmorganchaseco.gcs-web.com/financial-information/sec-filings), and on the Securities and Exchange Commission’s website (www.sec.gov). JPMorgan Chase & Co. does not undertake to update any forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JPM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\JPM_0000019617_EX991_20220114_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:38.945861"
+}

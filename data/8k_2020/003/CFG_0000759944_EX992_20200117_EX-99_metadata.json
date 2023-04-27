@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000759944",
+    "sec_company_name": "CITIZENS FINANCIAL GROUP INC/RI (Filer)",
+    "document_type": "EX992",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20200117",
+    "sec_filing_date": "20200117",
+    "sec_changed_date": "20200117",
+    "sec_accepted_date": "20200117165732",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/759944/000119312520010129/0001193125-20-010129-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/759944/000119312520010129/0001193125-20-010129.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CFG_0000759944_EX992_20200117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "70237 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 54374,
+    "endpoints": [
+        "EX-99.2   ",
+        " Notes on slide 21 – FY2020 outlook See above note on key performance metrics and non-GAAP financial measures. Includes an impact of approximately 10 basis points to the CET1 ratio related to the increase in risk weighting on mortgage servicing assets to 250% from 100% based on an interagency rule approved by the FDIC Board on May 28, 2019 with an effective date of April 1, 2020. See above general note f). Notes on slide 22 – 1Q20 outlook See above note on key performance metrics and non-GAAP financial measures See above general note f). Notes on slide 23 – Key messages See above note on key performance metrics and non-GAAP financial measures. See above general note f). Notes on slide 25 – Medium–term financial targets 1) See above note on key performance metrics and non-GAAP financial measures. Notes on slide 26 – Year-over-Year Underlying results See above note on key performance metrics and non-GAAP financial measures. Notes on slide 27 – Linked-quarter Underlying results See above note on key performance metrics and non-GAAP financial measures. Notes on slide 28 – Full year Underlying results See above note on key performance metrics and non-GAAP financial measures. Notes on slide 29 – Notable items See above note on key performance metrics and non-GAAP financial measures. Notes continued"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CFG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\CFG_0000759944_EX992_20200117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:45.121024"
+}

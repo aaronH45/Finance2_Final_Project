@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200221",
+    "sec_filing_date": "20200221",
+    "sec_changed_date": "20200221",
+    "sec_accepted_date": "20200221171853",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000214/0000072971-20-000214-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000214/0000072971-20-000214.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200221_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6546 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5164,
+    "endpoints": [
+        "exhibit991settlementpres   ",
+        "Remedial actions taken by company since 2016 Since 2016, Wells Fargo has made fundamental changes to its leadership, governance, processes, controls and culture to ensure the misconduct that is the subject of today’s actions can never recur. These changes include:  Significant leadership changes: o A new CEO and majority of new members on the Operating Committee, Wells Fargo’s senior-most management committee. o Significant management changes at all levels of the Community Bank, including senior executives.  Reconstitution of a majority of the Board’s independent directors (8 new independent directors), including the majority of Board Committee Chairs.  Elimination of all product-based sales goals that led to this conduct.  Implementation of a new incentive compensation structure for retail bankers that rewards them based on customer outcomes and requires risk accountability at all levels.  Enhancement of the Community Bank’s processes for customer consent and stronger oversight and controls.  Investment of more than 800,000 hours in learning and development for retail bank employees to support cultural, process and policy changes, with training ongoing.  Reorganization and centralization of key Company functions, including Risk, Human Resources, Finance, Technology, and Data.  Even before today’s establishment of the Fair Fund, agreement to pay more than $500 million to customers and investors as remediation for harm that resulted from the historical Community Bank sales practices. About Wells Fargo Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, investment and mortgage products and services, as well as consumer and commercial finance, through 7,400 locations, more than 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 32 countries and territories to support customers who conduct business in the global economy. With approximately 260,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 29 on Fortune’s 2019 rankings of America’s largest corporations. News, insights and perspectives from Wells Fargo are also available at Wells Fargo Stories. Contact Information Media Arati Randolph, 704-383-6996 Arati.randolph1@wellsfargo.com Jennifer Langan, 213-598-1490 Jennifer.L.Langan@wellsfargo.com Investor Relations John Campbell, 415-396-0523 john.m.campbell@wellsfargo.com ### 2 February 21, 2020 | News Release"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200221_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:49:25.491766"
+}

@@ -1,0 +1,541 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Results of Operations
+
+Non-GAAP Measures
+
+The following discussion includes organic sales, total segment operating earnings and margin, Adjusted Income, Adjusted EPS, Adjusted Effective Tax Rate and free cash flow, which are non-GAAP measures. See Supplemental Sales Information for a reconciliation of reported sales to organic sales and a discussion of why we believe this non-GAAP measure is useful to investors. See Results of Operations for a reconciliation of income before income taxes to total segment operating earnings and margin and a discussion of why we believe these non-GAAP measures are useful to investors. See Results of Operations for a reconciliation of income from continuing operations, diluted EPS from continuing operations and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate, respectively, and a discussion of why we believe these non-GAAP measures are useful to investors. See Financial Condition for a reconciliation of cash flows from operating activities to free cash flow and a discussion of why we believe this non-GAAP measure is useful to investors.
+
+Overview
+
+Rockwell Automation, Inc. is a global leader in industrial automation and digital transformation. We connect the imaginations of people with the potential of technology to expand what is humanly possible, making the world more productive and more sustainable. Overall demand for our hardware and software products, solutions and services is driven by: 
+
+•investments in manufacturing, including upgrades, modifications and expansions of existing facilities or production lines and new facilities or production lines;
+
+•investments in basic materials production capacity, which may be related to commodity pricing levels;
+
+•our customers’ needs for faster time to market, operational productivity, asset management and reliability, and enterprise risk management;
+
+•our customers’ needs to continuously improve quality, safety and sustainability;
+
+•industry factors that include our customers’ new product introductions, demand for our customers’ products or services and the regulatory and competitive environments in which our customers operate;
+
+•levels of global industrial production and capacity utilization;
+
+•regional factors that include local political, social, regulatory and economic circumstances; and
+
+•the spending patterns of our customers due to their annual budgeting processes and their working schedules.
+
+Long-term Strategy
+
+Our strategy is to bring The Connected Enterprise to life by integrating control and information across the enterprise. We deliver customer outcomes by combining advanced industrial automation with the latest information technology. Our growth and performance strategy seeks to:
+
+•achieve organic sales growth in excess of the automation market by expanding our served market and strengthening our competitive differentiation;
+
+•grow market share of our core platforms;
+
+•drive double digit growth in information solutions and connected services; 
+
+•acquire companies that serve as catalysts to organic growth by increasing our information solutions and high-value services offerings and capabilities, expanding our global presence, or enhancing our process expertise;
+
+•enhance our market access by building our channel capability and partner network;
+
+•deploy human and financial resources to strengthen our technology leadership and our intellectual capital business model;
+
+•continuously improve quality and customer experience; and
+
+•drive annual cost productivity.
+
+By implementing the above strategy, we seek to achieve our long-term financial goals, including above-market organic sales growth, EPS growth above sales growth, return on invested capital in excess of 20 percent and free cash flow equal to about 100 percent of Adjusted Income. We expect acquisitions to add a percentage point or more per year to long-term sales growth.
+
+17
+Our customers face the challenge of remaining globally cost competitive and automation can help them achieve their productivity and sustainability objectives. Our value proposition is to help our customers reduce time to market, lower total cost of ownership, improve asset utilization and manage enterprise risks.
+
+Differentiation through Technology Innovation and Domain Expertise
+
+Our integrated control and information architecture, with Logix at its core, is an important differentiator. We are the only automation provider that can support discrete, process, batch, safety, motion and power control on the same hardware platform with the same software programming environment. Our integrated architecture is scalable with standard open communications protocols making it easier for customers to implement it more cost effectively. Our information software portfolio, combined with the software made available as a result of our strategic alliance with PTC, is the most comprehensive and flexible information platform in the industry. Through the combination of this technology and our domain expertise we help customers to achieve additional productivity benefits, such as reduced unplanned downtime, improved energy efficiency, higher quality and increased throughput yield.
+
+Intelligent motor control is one of our core competencies and an important aspect of an automation system. These hardware and software products and solutions enhance the availability, efficiency and safe operation of our customers’ critical and most energy-intensive plant assets. Our intelligent motor control offering can be integrated seamlessly with the Logix architecture. 
+
+Domain expertise refers to the industry and application knowledge required to deliver solutions and services that support customers through the entire life cycle of their automation investment. The combination of industry-specific domain expertise of our people with our innovative technologies enables us to help our customers solve their manufacturing and business challenges. 
+
+Global Expansion
+
+As the manufacturing world continues to expand, we must be able to meet our customers’ needs around the world. Approximately 65 percent of our employees and 46 percent of our sales are outside the U.S. We continue to expand our footprint in emerging markets.
+
+As we expand in markets with considerable growth potential and shift our global footprint, we expect to continue to broaden the portfolio of hardware and software products, solutions and services that we provide to our customers in these regions. We have made significant investments to globalize our manufacturing, product development and customer-facing resources in order to be closer to our customers throughout the world. The emerging markets of Asia Pacific, including China and India, Latin America, Central and Eastern Europe and Africa are projected to be the fastest growing over the long term, due to higher levels of infrastructure investment and the growing middle-class population. We believe that increased demand for consumer products in these markets will lead to manufacturing investment and provide us with additional growth opportunities in the future.
+
+Enhanced Market Access
+
+Over the past decade, our investments in technology and globalization have enabled us to expand our addressed market to over $90 billion. Our process initiative has been the most important contributor to this expansion and remains our largest growth opportunity. 
+
+Original Equipment Manufacturers (OEMs) represent another area of addressed market expansion and an important growth opportunity. To remain competitive, OEMs need to find the optimal balance of machine cost and performance while reducing their time to market. Our scalable integrated architecture and intelligent motor control offerings, along with design productivity tools and our motion and safety products, can assist OEMs in addressing these business needs.
+
+We have developed a powerful network of channel partners, technology partners and commercial partners that act as amplifiers to our internal capabilities and enable us to serve our customers’ needs around the world.
+
+18
+Broad Range of Industries Served
+
+We apply our knowledge of manufacturing applications to help customers solve their business challenges. We serve customers in a wide range of industries, which we group into three broad categories: discrete, hybrid, and process.
+
+[DATA_TABLE_REMOVED]
+
+Outsourcing and Sustainability Trends
+
+Demand for our hardware and software products, solutions and services across all industries benefits from the outsourcing and sustainability needs of our customers. Customers increasingly desire to outsource engineering services to achieve a more flexible cost base. Our manufacturing application knowledge enables us to serve these customers globally.
+
+We help our customers meet their sustainability needs pertaining to energy efficiency, environmental and safety goals. Customers across all industries are investing in more energy-efficient manufacturing processes and technologies, such as intelligent motor control, and energy-efficient solutions and services. In addition, environmental and safety objectives often spur customers to invest to ensure compliance and implement sustainable business practices.
+
+Acquisitions and Investments
+
+Our acquisition and investment strategy focuses on hardware and software products, solutions and services that will be catalytic to the organic growth of our core offerings.
+
+In April 2020, we acquired ASEM, S.p.A. (ASEM), a leading provider of digital automation technologies. ASEM’s products will allow us to provide customers with a high degree of configurability for their industrial computing needs, allow them to achieve faster time to market, lower their cost of ownership, improve asset utilization, and better manage enterprise risk.
+
+In April 2020, we also acquired Kalypso, LP (Kalypso), a privately-held US-based software delivery and consulting firm specializing in the digital transformation of industrial companies with a strong client base in life sciences, consumer products and industrial high-tech. This acquisition enhances our ability to implement and deploy technology and deliver even greater value to our customers.
+
+In January 2020, we acquired Avnet Data Security, LTD (Avnet), an Israel-based cybersecurity provider with over 20 years of experience providing cybersecurity services. Avnet’s combination of service delivery, training, research, and managed services will enable us to service a much larger set of customers globally while also continuing to accelerate our portfolio development in this market.
+
+On October 1, 2019, we completed the formation of a joint venture, Sensia, a fully integrated digital oilfield automation solutions provider. The joint venture leverages Schlumberger’s oil and gas domain knowledge and our automation and information expertise. Rockwell Automation owns 53% of Sensia and Schlumberger owns 47% of Sensia.
+
+In October 2019, we also acquired MESTECH Services (MESTECH), a global provider of Manufacturing Execution Systems / Manufacturing Operations Management, digital solutions consulting, and systems integration services. The acquisition of MESTECH expands our capabilities to profitably grow information solutions and connected services globally and accelerate our ability to help our customers execute digital transformation initiatives.
+
+19
+In January 2019, we acquired Emulate3D, an innovative engineering software developer whose products digitally simulate and emulate industrial automation systems. This acquisition enables our customers to virtually test machine and system designs before incurring manufacturing and automation costs and committing to a final design. 
+
+In 2018, we made several investments, including in shares of PTC common stock (the “PTC Shares”). PTC is the leader in the Industrial Internet of Things and augmented reality. Our investment in and alliance with PTC is accelerating growth for both companies and enabling us to be the partner of choice for customers around the world who want to transform their physical operations with digital technology in order to achieve increased productivity, heightened plant efficiency, reduced operational risk and better system interoperability.
+
+We believe these acquisitions and investments will help us expand our served market and deliver value to our customers.
+
+Attracting, Developing, and Retaining Highly Qualified Talent
+
+Successful execution of our strategy is dependent on attracting, developing and retaining key employees and members of our management team. The skills, experience and industry knowledge of our employees significantly benefit our operations and performance. We continuously evaluate, modify, and enhance our internal processes and technologies to increase employee engagement, productivity, and efficiency.
+
+At September 30, 2020, our employees, including those employed by consolidated subsidiaries, by region were approximately:
+
+[DATA_TABLE_REMOVED]
+
+At September 30, 2020, we had the following global gender demographics:
+
+[DATA_TABLE_REMOVED]
+
+At September 30, 2020, our U.S. employees had the following race and ethnicity demographics:
+
+[DATA_TABLE_REMOVED]
+
+20
+There are several ways in which we attract, develop, and retain highly qualified talent, including:
+
+•The safety and health of our employees is a top priority. We strive for zero workplace injuries and illnesses and operate in a manner that recognizes safety as fundamental to Rockwell Automation being a great place to work. In 2020, we achieved 0.23 recordable cases per 100 employees. 
+
+•Fundamental to our core values are people and a culture of integrity. Employee training is used to reinforce these values across all employees globally. Annual participation in trainings related to ethics, environment, health and safety, and emergency responses are at or near 100%.
+
+•One way we capture employee feedback is through our biannual Employee Engagement Survey which measures several engagement indicators and provides an overall Employee Engagement Index (EEI). The latest survey, conducted in February 2020, showed an EEI of 76% compared to a global norm of 72% for this index.
+
+Continuous Improvement
+
+Productivity and continuous improvement are important components of our culture. We have programs in place that drive ongoing process improvement, functional streamlining, material cost savings and manufacturing productivity. These are intended to improve profitability that can be used to fund investments in growth and to offset inflation. Our ongoing productivity initiatives target both cost reduction and improved asset utilization. Charges for workforce reductions and facility rationalization may be required in order to effectively execute our productivity programs.
+
+21
+U. S. Industrial Economic Trends
+
+In 2020, sales in the U.S. accounted for over half of our total sales. The various indicators we use to gauge the direction and momentum of our served U.S. markets include:
+
+•The Industrial Production (IP) Index, published by the Federal Reserve, which measures the real output of manufacturing, mining, and electric and gas utilities. The IP Index is expressed as a percentage of real output in a base year, currently 2012. Historically, there has been a meaningful correlation between the changes in the IP Index and the level of automation investment made by our U.S. customers in their manufacturing base.
+
+•The Manufacturing Purchasing Managers’ Index (PMI), published by the Institute for Supply Management (ISM), which indicates the current and near-term state of manufacturing activity in the U.S. According to the ISM, a PMI measure above 50 indicates that the U.S. manufacturing economy is generally expanding while a measure below 50 indicates that it is generally contracting.
+
+The table below depicts the trends in these indicators from fiscal 2018 to 2020. These figures are as of November 10, 2020 and are subject to revision by the issuing organizations. In the fourth quarter of fiscal 2020, PMI and the IP Index improved compared to the prior quarter; however, industrial output in the U.S. at the end of the fourth quarter was still below its pre-pandemic level. Sequential growth is projected for the IP Index in the first quarter of fiscal 2021.
+
+[DATA_TABLE_REMOVED]
+
+Note: Economic indicators are subject to revisions by the issuing organizations.
+
+Non-U.S. Economic Trends
+
+In 2020, sales to customers outside the U.S. accounted for less than half of our total sales. These customers include both indigenous companies and multinational companies with a global presence. In addition to the global factors previously mentioned in the “Overview” section, international demand, particularly in emerging markets, has historically been driven by the strength of the industrial economy in each region, investments in infrastructure and expanding consumer markets. We use changes in key countries' gross domestic product and IP as indicators of the growth opportunities in each region where we do business. 
+
+After a significant decline in the third quarter of fiscal 2020, industrial output outside the U.S. saw sequential growth in the fourth quarter of fiscal 2020. Similar to the US, industrial output remains below pre-pandemic levels in most regions; however, sequential growth is projected for all regions in the first quarter of fiscal 2021.
+
+22
+COVID-19 Pandemic
+
+We are actively monitoring the impacts of the COVID-19 pandemic on all aspects of our business and geographies. While the duration and severity of those impacts are highly uncertain, they have had, and could continue to have, an adverse effect on our business, financial condition and results of operations. Our company is an essential business to support critical infrastructure because our customers cannot build their products at scale without automation.
+
+We have a global supply chain, including a network of suppliers and distribution and manufacturing facilities. Our supply chain team is closely managing our end-to-end supply chain, from sourcing to production to customer delivery, and with a particular focus on all critical and at-risk suppliers and supplier locations globally.
+
+We have implemented safety and hygiene processes at our manufacturing and distribution locations to keep our employees safe, including separation of shifts and workstations, temperature monitoring, and other recommended practices. We have also taken actions to help keep our non-manufacturing employees safe, including: directing employees to work from home, wherever possible, limiting and screening visitors to our facilities, implementing travel restrictions, canceling events that involve large groups of people, encouraging social distancing best practices, and enhancing cleaning in our facilities and major locations. Some of the changes implemented have resulted in, and could continue to result in, operational inefficiencies.
+
+Our solutions and services businesses include engineers and other employees who design and implement solutions through a combination of domain expertise and our technology. Physical access to customer facilities is often important as we deliver those solutions. As a result of COVID-19, access to customer facilities in some instances has been difficult. This has led to some project delays, as well as inefficiencies due to lower labor utilization.
+
+On April 8, 2020, we announced several actions to address the then-current and anticipated economic conditions as a result of the global COVID-19 pandemic, and we have taken additional cost actions. There was no payout earned under our incentive plans for fiscal 2020, and we have adjusted our cost structure to help balance our financial strength and flexibility with protecting our most important investments to drive long-term differentiation. These actions included elimination of all discretionary spending, delays of non-critical investments, further adjustment of levels of contract labor, and deferral of any non-essential capital expenditures. We implemented the following temporary cost actions, effective May 2020 through November 2020: salary reductions for all non-manufacturing employees globally and temporary suspension of the 401(k) match for all U.S. employees. We also reduced cash fees for the Board of Directors effective through December 2020.
+
+While we have taken several cost reduction actions, we have maintained and, in some cases, have selectively increased investments in some of our highest priority areas in order to increase differentiation and create long-term value for customers and shareowners.
+
+Oil & Gas Industry
+
+The COVID-19 pandemic had a cascading effect on the Oil & Gas industry. Business closures and restrictions on people’s mobility decreased demand for oil and gas. During the year, global production levels exceeded lower demand which resulted in global oversupply and volatility in oil prices. These factors have had, and could continue to have, a negative impact on our Oil & Gas customers’ business operations and financial condition resulting in reductions in their industrial spending.
+
+23
+Outlook
+
+Beginning in fiscal 2021, we are changing our definition of Adjusted Income and Adjusted EPS to exclude the impact of purchase accounting depreciation and amortization expense attributable to Rockwell Automation, including the related tax effects. The definition of Adjusted Effective Tax Rate is also changing to correspond to the purchase accounting items now being excluded from Adjusted Income. We believe these new definitions provide more useful information about our operating performance and allow management and investors to better compare our operating performance period over period, compared to our prior definitions of these measures given our increased inorganic investments. See Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation for more information on these non-GAAP measures. Adjusted EPS guidance in the table below is presented using the new definition.
+
+The COVID-19 pandemic and global efforts to respond to it continue to evolve. Our projections assume that a gradual recovery continues, with no increase in pandemic-related facility closures or disruptions to the supply chain. Based on the information available to us at the time of this release, the following table provides guidance as it relates to sales growth and earnings per share for fiscal 2021: 
+
+[DATA_TABLE_REMOVED]
+
+1Organic sales growth and Adjusted EPS are non-GAAP measures. See Supplemental Sales Information and Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation for more information on these non-GAAP measures.
+
+2Estimate for incremental sales resulting from businesses acquired in fiscal year 2020 and 2021.  
+
+24
+Summary of Results of Operations
+
+In 2020, sales were $6,329.8 million, a decrease of 5.5 percent year over year. Organic sales decreased 7.8 percent. Currency translation decreased sales by 1.2 percentage points, and acquisitions increased sales by 3.5 percentage points
+
+Results from the quarter included:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+25
+The following table reflects our sales and operating results (in millions, except per share amounts):
+
+[DATA_TABLE_REMOVED]
+
+26
+(1) See Note 19 in the Consolidated Financial Statements for the definition of segment operating earnings. Effective October 1, 2018, we realigned our reportable segments for a transfer of business activities between our segments. We also reclassified interest income from general corporate - net to interest (expense) income, net. As a result, the prior period presentation of reportable segments has been restated to conform to the current segment reporting structure.
+
+(2) Total segment operating earnings and total segment operating margin are non-GAAP financial measures. We exclude purchase accounting depreciation and amortization, general corporate – net, non-operating pension and postretirement benefit credit (cost), costs related to the unsolicited Emerson proposals in the first quarter of fiscal 2018, gains and losses on investments, valuation adjustments related to the registration of PTC Shares, gains and losses from the disposition of businesses, interest (expense) income - net and income tax provision because we do not consider these costs to be directly related to the operating performance of our segments. We believe that these measures are useful to investors as measures of operating performance. We use these measures to monitor and evaluate the profitability of our operating segments. Our measures of total segment operating earnings and total segment operating margin may be different from measures used by other companies. 
+
+(3) During fiscal 2018, we recorded charges of $538.3 million associated with the enactment of the Tax Cuts and Jobs Act of 2017 (the “Tax Act”). Refer to Note 16 in the Consolidated Financial Statements for further information.
+
+(4) Adjusted EPS is a non-GAAP earnings measure. See Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation for more information on this non-GAAP measure.
+
+27
+2020 Compared to 2019 
+
+Sales
+
+Sales in fiscal 2020 decreased 5.5 percent compared to 2019. Organic sales decreased 7.8 percent. Currency translation decreased sales by 1.2 percentage points. Acquisitions increased sales by 3.5 percentage points. Pricing increased sales by approximately 1 percentage point.
+
+The table below presents our sales, attributed to the geographic regions based upon country of destination, for the year ended September 30, 2020 and the percentage change from the same period a year ago:
+
+[DATA_TABLE_REMOVED]
+
+(1)Organic sales and organic sales growth exclude the effect of acquisitions, changes in currency exchange rates, and divestitures. See Supplemental Sales Information for information on these non-GAAP measures.
+
+•Sales in North America decreased year over year, led by weakness in Oil & Gas, Metals, and Pulp & Paper.
+
+•EMEA sales remained flat year over year. Organic sales decreased, driven by weak process industries and Tire. 
+
+•Asia Pacific sales decreased year over year, due to weakness in Oil & Gas and Food & Beverage. 
+
+•Sales in Latin America decreased year over year, primarily due to Oil & Gas, Automotive, and Mining.
+
+General Corporate - Net 
+
+General corporate - net expenses were $98.9 million in fiscal 2020 compared to $108.8 million in fiscal 2019.
+
+Income before Income Taxes
+
+Income before income taxes increased 26 percent from $901.0 million in 2019 to $1,136.1 million in 2020, primarily due to fair-value adjustments recognized in 2019 and 2020 in connection with our investment in PTC (the “PTC adjustments”), partially offset by lower sales. Total segment operating earnings decreased 15 percent year over year from $1,473.6 million in 2019 to $1,257.9 million in 2020, primarily due to lower sales, partially offset by a combination of temporary and structural cost actions.
+
+Income Taxes
+
+The effective tax rate in 2020 was 9.9 percent compared to 22.8 percent in 2019. The decrease in the effective tax rate was primarily due to the PTC adjustments, tax benefits recognizable upon the formation of the Sensia joint venture, and other discrete items. The Adjusted Effective Tax Rate in 2020 was 12.0 percent compared to 17.9 percent in 2019. The decrease in the Adjusted Effective Tax Rate was primarily due to our benefit from non-U.S. tax rates, tax benefits recognizable upon the formation of the Sensia joint venture, and other discrete items.
+
+See Note 16 in the Consolidated Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2020 and 2019 affecting each year’s respective tax rates.
+
+28
+2020 Compared to 2019
+
+Diluted EPS and Adjusted EPS
+
+Fiscal 2020 net income attributable to Rockwell Automation was $1,023.4 million or $8.77 per share, compared to $695.8 million or $5.83 per share in fiscal 2019. The increase in net income attributable to Rockwell Automation and diluted EPS were primarily due to the PTC adjustments, partially offset by lower sales. Fiscal 2020 Adjusted EPS was $7.68 in fiscal 2020, down 11 percent compared to $8.67 in fiscal 2019, primarily due to lower sales, partially offset by a combination of temporary and structural cost actions.
+
+Architecture & Software
+
+The Architecture & Software operating segment contains a comprehensive portfolio of automation and information platforms, including hardware and software. This integrated portfolio is capable of controlling our customers’ industrial processes and manufacturing, as well as providing connections to enterprise business systems. 
+
+Our automation platform is multi-discipline and scalable with the ability to handle applications in discrete, batch/hybrid and continuous process, drives control, motion control, machine safety and process safety. Our products include programmable automation controllers, design, visualization and simulation software, human machine interface products, networking products, industrial computers, sensing devices, machine safety devices, motion control products, and independent cart technology products. 
+
+Our information platform includes manufacturing execution system software and analytics software that enables customers to improve operational productivity and meet regulatory requirements. This platform enables enterprise visibility, reduction of unplanned downtime, and optimization of processes.
+
+Sales
+
+Architecture & Software sales decreased 6.3 percent in 2020 compared to 2019. Organic sales decreased 5.7 percent, the effects of currency translation decreased sales by 1.2 percentage points, and acquisitions increased sales by 0.6 percentage points. All regions experienced sales declines. Logix reported sales decreased 7 percent in 2020 compared to 2019. Logix organic sales decreased 6 percent, and the effects of currency translation decreased sales by 1 percentage point.
+
+Segment Operating Margin
+
+Architecture & Software segment operating earnings decreased 9 percent. Segment operating margin decreased to 28.1% in 2020 from 28.9% in 2019, primarily due to lower sales, partially offset by a combination of temporary and structural cost actions.
+
+29
+2020 Compared to 2019
+
+Control Products & Solutions
+
+The Control Products & Solutions operating segment combines a comprehensive portfolio of intelligent motor control and industrial control products, value-added solutions and a complete portfolio of professionally delivered lifecycle services. This comprehensive portfolio includes:
+
+•Low and medium voltage electro-mechanical and electronic motor starters and AC/DC variable frequency drives, motor control and circuit protection devices, operator devices, signaling devices, termination and protection devices, relays and timers and electrical control accessories.
+
+•Value-added solutions ranging from pre-configured line to load power solutions, packaged drives, motor control centers, intelligent packaged power and engineered to order automation equipment solutions. 
+
+•Professional lifecycle services combine technology and domain expertise to help maximize customers’ automation investment and provide total lifecycle support as they design, build, sustain and optimize their automation investments. This broad portfolio includes safety, security and digital transformation consulting, global automation and information project delivery capabilities, plant network, cloud, and cybersecurity services, asset management and predictive analytics, and remote, on-site and managed support services. 
+
+Sales
+
+Control Products & Solutions sales decreased 4.8 percent in 2020 compared to 2019. Organic sales decreased 9.5 percent. The effects of currency translation decreased sales by 1.2 percentage points, and acquisitions increased sales by 5.9 percentage points. All regions experienced reported sales declines, except EMEA. All regions experienced organic sales declines. 
+
+Product sales decreased 10 percent year over year. Product organic sales decreased 9 percent, and currency translation decreased sales by approximately 1 percentage point. 
+
+Sales in our solutions and services businesses decreased approximately 1 percent year over year. Organic sales in our solutions and services businesses decreased 10 percent during 2020. Currency translation decreased sales by approximately 1 percentage point, and acquisitions increased sales by 10 percentage points.
+
+Segment Operating Margin
+
+Control Products & Solutions segment operating earnings decreased 23 percent year over year. Segment operating margin decreased to 13.2% in 2020 from 16.3% percent a year ago, primarily due to lower sales and the impact of acquisitions, partially offset by a combination of temporary and structural cost actions.
+
+30
+2019 Compared to 2018 
+
+Sales
+
+Sales in fiscal 2019 increased 0.4 percent compared to 2018. Organic sales increased 2.8 percent. Currency translation decreased sales by 2.4 percentage points. Including price increases relating to tariffs, pricing contributed less than two percentage points to growth.
+
+The table below presents our sales, attributed to the geographic regions based upon country of destination, for the year ended September 30, 2019, and the percentage change from the same period a year ago:
+
+[DATA_TABLE_REMOVED]
+
+(1)Organic sales and organic sales growth exclude the effect of acquisitions, changes in currency exchange rates, and divestitures. See Supplemental Sales Information for information on these non-GAAP measures.
+
+•Sales in North America increased year over year, led by strength in process end markets, specifically Oil & Gas, and Pulp & Paper.
+
+•EMEA sales decreased year over year, primarily as a result of currency translation. Organic sales increased, led by strength in hybrid and process end markets, specifically Life Sciences and Tire. 
+
+•Asia Pacific sales decreased year over year, primarily as a result of currency translation. Organic sales increased, led by strength in process end markets, specifically in Oil & Gas, Mass Transit, and Water / Wastewater, partially offset by weakness in Semiconductor. 
+
+•Sales in Latin America increased year over year, led by process end markets, including Mining and Oil & Gas.
+
+General Corporate - Net 
+
+General corporate - net expenses were $108.8 million in fiscal 2019 compared to $100.0 million in fiscal 2018.
+
+Income before Income Taxes
+
+Income before income taxes decreased 32 percent from $1,330.8 million in 2018 to $901.0 million in 2019, primarily due to gains and losses on investments and valuation adjustments related to the registration of PTC Shares. Total segment operating earnings increased 2 percent year over year from $1,441.8 million in 2018 to $1,473.6 million in 2019.
+
+Income Taxes
+
+The effective tax rate in 2019 was 22.8 percent compared to 59.8 percent in 2018. The decrease in the effective tax rate was primarily due to the prior year impact of tax expense related to the transition tax on the deemed repatriation of foreign earnings ($395.8 million or 29.8 percent), withholding taxes on previously taxed foreign earnings ($38.1 million or 2.8 percent), the revaluation of net deferred tax assets resulting from the Tax Act ($104.4 million or 7.9 percent), and the impact of the lower U.S. statutory tax rate under the Tax Act. 
+
+The Adjusted Effective Tax Rate in 2019 was 17.9 percent compared to 19.3 percent in 2018. The decrease in the Adjusted Effective Tax Rate was primarily due to the lower U.S. statutory tax rate under the Tax Act.
+
+See Note 16 in the Consolidated Financial Statements for a complete reconciliation of the United States statutory tax rate to the effective tax rate and more information on tax events in 2019 and 2018 affecting each year’s respective tax rates.
+
+31
+2019 Compared to 2018
+
+Architecture & Software
+
+Sales
+
+Architecture & Software sales decreased 0.9 percent in 2019 compared to 2018. Organic sales increased 1.5 percent, the effects of currency translation decreased sales by 2.5 percentage points, and the current year acquisition increased sales by 0.1 percentage points. All regions experienced reported sales declines, except for Asia Pacific. Organic sales growth was led by Asia Pacific and EMEA. Logix reported sales decreased 2 percent in 2019 compared to 2018. Logix organic sales increased 1 percent, and the effects of currency translation decreased sales by 3 percentage points.
+
+Segment Operating Margin
+
+Architecture & Software segment operating earnings decreased 3 percent. Operating margin was 28.9% percent in 2019 compared to 29.4% percent in 2018.
+
+Control Products & Solutions
+
+Sales
+
+Control Products & Solutions sales increased 1.6 percent in 2019 compared to 2018. Organic sales increased 3.8 percent, and the effect of currency translation decreased sales by 2.2 percentage points. Control Products & Solutions experienced reported and organic sales growth, led by North America and Latin America.
+
+Product sales decreased 1 percent year over year. Product organic sales increased 1 percent, and currency translation decreased sales by approximately 2 percentage points. 
+
+Sales in our solutions and services businesses increased approximately 3 percent year over year. Organic sales in our solutions and services businesses increased 6 percent during 2019, and currency translation decreased sales by approximately 3 percentage points. 
+
+Segment Operating Margin
+
+Control Products & Solutions segment operating earnings increased 10 percent year over year. Segment operating margin was 16.3 percent in 2019 compared to 15.0 percent a year ago, primarily due to higher sales. 
+
+32
+Supplemental Segment Information
+
+Purchase accounting depreciation and amortization and non-operating pension and postretirement benefit cost (credit) are not allocated to our operating segments because these costs are excluded from our measurement of each segment’s operating performance for internal purposes. If we were to allocate these costs, we would attribute them to each of our segments as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+33
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate Reconciliation
+
+Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate are non-GAAP earnings measures that exclude non-operating pension and postretirement benefit cost (credit), net income (loss) attributable to noncontrolling interests, gains and losses on investments, valuation adjustments related to the registration of PTC Shares in fiscal 2019 and 2018, and costs related to the unsolicited Emerson proposals in the first quarter of fiscal 2018, including their respective tax effects, and the adjustments related to the Tax Act in fiscal 2018. Non-operating pension and postretirement benefit cost (credit) is defined as all components of our net periodic pension and postretirement benefit cost except for service cost. See Note 14 in the Consolidated Financial Statements for more information on our net periodic pension and postretirement benefit cost. 
+
+We believe that Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate provide useful information to our investors about our operating performance and allow management and investors to compare our operating performance period over period. Adjusted EPS is also used as a financial measure of performance for our annual incentive compensation. Our measures of Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate may be different from measures used by other companies. These non-GAAP measures should not be considered a substitute for net income attributable to Rockwell Automation, diluted EPS and effective tax rate. 
+
+34
+The following are reconciliations of net income attributable to Rockwell Automation, diluted EPS and effective tax rate to Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate, respectively (in millions, except per share amounts and percentages):
+
+[DATA_TABLE_REMOVED]
+
+1Includes (gain) loss on investments and valuation adjustments related to the registration of PTC Shares.
+
+35
+Beginning in fiscal 2021, we are changing our definition of Adjusted Income and Adjusted EPS to also exclude the impact of purchase accounting depreciation and amortization expense attributable to Rockwell Automation and the related tax effects of such exclusion. The definition of Adjusted Effective Tax Rate is also changing to correspond to the purchase accounting items now being excluded from Adjusted Income. 
+
+Under this new definition, Adjusted Income, Adjusted EPS and Adjusted Effective Tax Rate are non-GAAP earnings measures that exclude net income (loss) attributable to noncontrolling interests, purchase accounting depreciation and amortization expense attributable to Rockwell Automation, non-operating pension and postretirement benefit cost (credit), gains and losses on investments, valuation adjustments related to the registration of PTC Shares in fiscal 2019 and 2018, and costs related to the unsolicited Emerson proposals in the first quarter of fiscal 2018, including their respective tax effects, and the adjustments related to the Tax Act in fiscal 2018. 
+
+Adjusted EPS and Adjusted Effective Tax Rate guidance and comparable prior periods in the table below are presented using the new definitions and these non-GAAP measures are reconciled to the corresponding GAAP measures.
+
+[DATA_TABLE_REMOVED]
+
+36
+1The year ended September 30, 2020 included a gain on investment of $153.9 million due to the change in value of our investment in PTC. Fiscal 2021 guidance excludes estimates of these adjustments on a forward-looking basis due to variability, complexity, and limited visibility of these items.   
+
+2Fiscal 2021 guidance based on Adjusted Income attributable to Rockwell, which includes an adjustment for Schlumberger's non-controlling interest in Sensia. 
+
+37
+Financial Condition
+
+The following is a summary of our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes free cash flow, which is a non-GAAP financial measure (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Our definition of free cash flow takes into consideration capital investments required to maintain our businesses’ operations and execute our strategy. Cash provided by continuing operating activities adds back non-cash depreciation expense to earnings but does not reflect a charge for necessary capital expenditures. Our definition of free cash flow excludes the operating cash flows and capital expenditures related to our discontinued operations, if any. Operating, investing and financing cash flows of our discontinued operations, if any, are presented separately in our Consolidated Statement of Cash Flows. In our opinion, free cash flow provides useful information to investors regarding our ability to generate cash from business operations that is available for acquisitions and other investments, service of debt principal, dividends and share repurchases. We use free cash flow, as defined, as one measure to monitor and evaluate our performance, including as a financial measure for our annual incentive compensation. Our definition of free cash flow may differ from definitions used by other companies.
+
+Cash provided by operating activities was $1,120.5 million for the year ended September 30, 2020, compared to $1,182.0 million for the year ended September 30, 2019. Free cash flow was $1,006.6 million for the year ended September 30, 2020, compared to $1,049.2 million for the year ended September 30, 2019. The year-over-year decreases in cash provided by operating activities and free cash flow were primarily due to lower pre-tax income, excluding non-cash adjustments, and a voluntary $50.0 million contribution to our U.S. qualified pension plan in fiscal 2020, partially offset by lower income tax and incentive compensation payments in fiscal 2020 compared to fiscal 2019.
+
+We repurchased approximately 1.4 million shares of our common stock under our share repurchase program in 2020 at a total cost of $254.7 million and an average cost of $182.18 per share. In 2019, we repurchased approximately 6.1 million shares of our common stock under our share repurchase program at a total cost of $1.0 billion and an average cost of $164.68 per share. At September 30, 2020, there were no outstanding common stock share repurchases recorded in accounts payable. At September 30, 2019, there were $9.3 million of outstanding common stock share repurchases recorded in accounts payable that did not settle until 2020. Our decision to repurchase shares in 2021 will depend on business conditions, free cash flow generation, other cash requirements and stock price. On both September 6, 2018 and July 24, 2019, the Board of Directors authorized us to expend $1.0 billion to repurchase shares of our common stock. At September 30, 2020, we had approximately $853.7 million remaining for share repurchases under our existing board authorizations. See Part II, Item 5. Market for the Company’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, for additional information regarding share repurchases.
+
+We expect future uses of cash to include working capital requirements, capital expenditures, additional contributions to our retirement plans, acquisitions of businesses and other inorganic investments, dividends to shareowners, repurchases of common stock and repayments of debt. We expect capital expenditures in 2021 to be about $150 million. We expect to fund future uses of cash with a combination of existing cash balances, cash generated by operating activities, commercial paper borrowings or a new issuance of debt or other securities.
+
+38
+At September 30, 2020, the majority of our cash and cash equivalents were held by non-U.S. subsidiaries. As a result of the broad changes to the U.S. international tax system under the Tax Act, in fiscal year 2018 we began to account for substantially all of our non-U.S. subsidiaries as being immediately subject to tax, while still concluding that earnings are indefinitely reinvested for a limited number of subsidiaries.
+
+During fiscal 2020, we repatriated approximately $513.6 million to the U.S. from our foreign subsidiaries. The source of these funds was cash and cash equivalents and from the liquidation of short and long-term investments.
+
+In addition to cash generated by operating activities, we have access to existing financing sources, including the public debt markets and unsecured credit facilities with various banks. 
+
+Our short-term debt as of September 30, 2020, primarily consisted of $23.5 million of interest-bearing loans from Schlumberger to Sensia, which were originally due September 30, 2020, and are now due September 30, 2021. The short-term loans from Schlumberger were entered into following formation of Sensia. See Note 4 in the Consolidated Financial Statements for additional information on Sensia. There were no commercial paper borrowings outstanding as of September 30, 2020 and 2019. 
+
+In April 2020, we entered into a $400.0 million senior unsecured 364-day term loan credit agreement and were advanced the full loan amount. This agreement was in addition to our existing $1.25 billion unsecured revolving credit facility expiring in November 2023, which remains available and undrawn. Interest on these borrowings was based on short-term money market rates in effect during the period the borrowings were outstanding. We repaid the $400.0 million term loan in September 2020.
+
+In March 2019, we issued $1 billion aggregate principal amount of long-term notes in a registered public offering. The offering consisted of $425.0 million of 3.500% notes due in March 2029 (“2029 Notes”) and $575.0 million of 4.200% notes due in March 2049 (“2049 Notes”), both issued at a discount. Net proceeds to the Company from the debt offering were $987.6 million. We used these net proceeds primarily to repay our outstanding commercial paper, with the remaining proceeds used for general corporate purposes. 
+
+On November 13, 2018, we replaced our former five-year $1.0 billion unsecured revolving credit facility with a new five-year $1.25 billion unsecured revolving credit facility expiring in November 2023. We can increase the aggregate amount of this credit facility by up to $750.0 million, subject to the consent of the banks in the credit facility. We did not incur early termination penalties in connection with the termination of the former credit facility. We did not borrow against either facility during the periods ended September 30, 2020 or 2019. Borrowings under the new credit facility bear interest based on short-term money market rates in effect during the period the borrowings are outstanding. This credit facility contains covenants under which we agree to maintain an EBITDA-to-interest ratio of at least 3.0 to 1.0. The EBITDA-to-interest ratio is defined in the credit facility as the ratio of consolidated EBITDA (as defined in the facility) for the preceding four quarters to consolidated interest expense for the same period. 
+
+LIBOR is the primary basis for determining interest payments on borrowings under our $1.25 billion credit facility. Banks currently reporting information used to set LIBOR will stop doing so after 2021. Various parties, including government agencies, are seeking to identify an alternative rate to replace LIBOR. We are monitoring their efforts, and we will likely amend contracts to accommodate any replacement rate where it is not already provided. 
+
+Separate short-term unsecured credit facilities of approximately $229.6 million at September 30, 2020, were available to non-U.S. subsidiaries. Borrowings under our non-U.S. credit facilities at September 30, 2020 and 2019, were not significant. We were in compliance with all covenants under our credit facilities at September 30, 2020 and 2019. There are no significant commitment fees or compensating balance requirements under our credit facilities. 
+
+Among other uses, we can draw on our credit facility as a standby liquidity facility to repay our outstanding commercial paper as it matures. This access to funds to repay maturing commercial paper is an important factor in maintaining the short-term credit ratings set forth in the table below. Under our current policy with respect to these ratings, we expect to limit our other borrowings under our credit facility, if any, to amounts that would leave enough credit available under the facility so that we could borrow, if needed, to repay all of our then outstanding commercial paper as it matures.
+
+39
+The following is a summary of our credit ratings as of September 30, 2020:
+
+[DATA_TABLE_REMOVED]
+
+Our ability to access the commercial paper market, and the related costs of these borrowings, is affected by the strength of our credit ratings and market conditions. Conditions in the commercial paper market have improved since the COVID-19 pandemic negatively affected this market in March and April 2020. Although we have had no commercial paper outstanding since mid-April 2020, we do not believe we would have difficulty issuing commercial paper if the need arose currently. If our access to the commercial paper market is adversely affected due to a change in market conditions or otherwise, we would expect to rely on a combination of available cash and our unsecured committed credit facility to provide short-term funding. In such event, the cost of borrowings under our unsecured committed credit facility could be higher than the cost of commercial paper borrowings.
+
+We regularly monitor the third-party depository institutions that hold our cash and cash equivalents and short-term investments. We diversify our cash and cash equivalents and short-term investments among counterparties to minimize exposure to any one of these entities.
+
+We use foreign currency forward exchange contracts to manage certain foreign currency risks. We enter into these contracts to hedge our exposure to foreign currency exchange rate variability in the expected future cash flows associated with certain third-party and intercompany transactions denominated in foreign currencies forecasted to occur within the next two years. We also use these contracts to hedge portions of our net investments in certain non-U.S. subsidiaries against the effect of exchange rate fluctuations on the translation of foreign currency balances to the U.S. dollar. In addition, we use foreign currency forward exchange contracts that are not designated as hedges to offset transaction gains or losses associated with some of our assets and liabilities resulting from intercompany loans or other transactions with third parties that are denominated in currencies other than our entities’ functional currencies. Our foreign currency forward exchange contracts are usually denominated in currencies of major industrial countries. We diversify our foreign currency forward exchange contracts among counterparties to minimize exposure to any one of these entities.
+
+Cash dividends to shareowners were $472.8 million in 2020 ($4.08 per common share), $459.8 million in 2019 ($3.88 per common share) and $440.8 million in 2018 ($3.51 per common share). Our quarterly dividend rate as of September 30, 2020 is $1.02 per common share ($4.08 per common share annually), which is determined at the sole discretion of our Board of Directors.
+
+A summary of our projected contractual cash obligations at September 30, 2020 is as follows (in millions):
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+40
+(b)Our postretirement benefit plans are unfunded and are subject to change. Amounts reported are estimates of future benefit payments, to the extent estimable.
+
+(c)Amounts reported for pension funding contributions reflect current estimates. Contributions to our pension plans beyond 2021 will depend on future investment performance of our pension plan assets, changes in discount rate assumptions and governmental regulations in effect at the time. Amounts subsequent to 2021 are excluded from the summary above, as we are unable to make a reasonably reliable estimate of these amounts. The minimum contribution for our U.S. pension plan as required by the Employee Retirement Income Security Act (ERISA) is currently zero. We may make additional contributions to this plan at the discretion of management.
+
+(d)This item includes contractual commitments for capital expenditures, certain materials purchases and long-term obligations under agreements with various service providers. 
+
+(e)Other long-term liabilities include environmental remediation costs, conditional asset retirement obligations and indemnification liabilities. Amounts subsequent to 2021 are excluded from the summary above, as we are unable to make a reasonably reliable estimate of when the liabilities will be paid.
+
+(f)Under the Tax Act, the Company may elect to pay the transition tax interest-free over eight years, with 8% due in each of the first five years, 15% in year six, 20% in year seven, and 25% in year eight. 
+
+(g)Amount for unrecognized tax benefits includes accrued interest and penalties. We are unable to make a reasonably reliable estimate of when the liabilities for unrecognized tax benefits will be settled or paid.
+
+ Supplemental Sales Information
+
+We translate sales of subsidiaries operating outside of the United States using exchange rates effective during the respective period. Therefore, changes in currency exchange rates affect our reported sales. Sales by acquired businesses also affect our reported sales. We believe that organic sales, defined as sales excluding the effects of acquisitions and changes in currency exchange rates, which is a non-GAAP financial measure, provides useful information to investors because it reflects regional and operating segment performance from the activities of our businesses without the effect of acquisitions and changes in currency exchange rates. We use organic sales as one measure to monitor and evaluate our regional and operating segment performance. When we acquire businesses, we exclude sales in the current period for which there are no comparable sales in the prior period. We determine the effect of changes in currency exchange rates by translating the respective period’s sales using the same currency exchange rates that were in effect during the prior year. When we divest a business, we exclude sales in the prior period for which there are no comparable sales in the current period. Organic sales growth is calculated by comparing organic sales to reported sales in the prior year, excluding divestitures. We attribute sales to the geographic regions based on the country of destination.
+
+41
+The following is a reconciliation of our reported sales by geographic region to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+1 Includes incremental sales resulting from the formation of the Sensia joint venture and sales from other acquired businesses in fiscal year 2020.
+
+[DATA_TABLE_REMOVED]
+
+The following is a reconciliation of our reported sales by operating segment to organic sales (in millions):
+
+[DATA_TABLE_REMOVED]
+
+1 Includes incremental sales resulting from the formation of the Sensia joint venture and sales from other acquired businesses in fiscal year 2020.
+
+[DATA_TABLE_REMOVED]
+
+42
+Critical Accounting Estimates
+
+We believe the following accounting estimates are the most critical to the understanding of our financial statements as they could have the most significant effect on our reported results and require subjective or complex judgments by management. Accounting principles generally accepted in the United States require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and revenues and expenses during the periods reported. These estimates are based on our best judgment about current and future conditions, but actual results could differ from those estimates. Refer to Note 1 in the Consolidated Financial Statements for information regarding our significant accounting policies.
+
+Retirement Benefits — Pension
+
+Pension costs and obligations are actuarially determined and are influenced by assumptions used to estimate these amounts, including the discount rate. Changes in any of the assumptions and the amortization of differences between the assumptions and actual experience will affect the amount of pension expense in future periods.
+
+Our global pension expense in 2020 was $130.9 million compared to $72.0 million in 2019. Approximately 83 percent of our 2020 global pension expense and 76 percent of our global projected benefit obligation relate to our U.S. pension plan. The discount rate used to determine our 2020 U.S. pension expense was 3.30 percent, compared to 4.35 percent for 2019.
+
+For 2021, our U.S. discount rate will decrease to 2.90 percent from 3.30 percent in 2020. The discount rate was set as of our September 30 measurement date and was determined by modeling a portfolio of bonds that match the expected cash flow of our benefit plans.
+
+The changes in our discount rate has an inverse relationship with our net periodic benefit cost and projected benefit obligation. The following chart illustrates the estimated change in projected benefit obligation and annual net periodic benefit cost assuming a change of 25 basis points in the discount rate for our U.S. pension plans (in millions):
+
+[DATA_TABLE_REMOVED]
+
+(1) Change includes both operating and non-operating pension costs.
+
+More information regarding pension benefits is contained in Note 14 in the Consolidated Financial Statements.
+
+Revenue Recognition — Customer Incentives
+
+We offer various incentive programs that provide distributors and direct sale customers with cash rebates, account credits or additional hardware and software products, solutions and services based on meeting specified program criteria. Customer incentives are recognized as a reduction of sales if distributed in cash or customer account credits. We record accruals at the time of revenue recognition as a current liability within Customer returns, rebates and incentives in our Consolidated Balance Sheet or, where a right of setoff exists, as a reduction of Receivables. Customer incentives for additional hardware and software products, solutions and services to be provided are considered distinct performance obligations. As such, we allocate revenue to them based on relative standalone selling price. Until the incentive is redeemed, the revenue is recorded as a contract liability.
+
+Our primary incentive program provides distributors with cash rebates or account credits based on agreed amounts that vary depending on the customer to whom our distributor ultimately sells the product. A critical assumption used in estimating the accrual for this program is the time period from when revenue is recognized to when the rebate is processed. Our estimate is based primarily on historical experience. If the time period were to change by 10 percent, the effect would be an adjustment to the accrual of approximately $11.8 million.
+
+More information regarding our revenue recognition and returns, rebates and incentives policies are contained in Note 1 and Note 2 in the Consolidated Financial Statements.
+
+43
+Acquisitions - Consolidation of Sensia Joint Venture
+
+In determining whether to consolidate Sensia, U.S. GAAP requires that we evaluate our ability to control the significant financial and operating decisions of the joint venture. Determining the nature and extent of the noncontrolling interest holder's rights involves management judgment. We have evaluated the noncontrolling interest holder's rights and determined that we control and should consolidate Sensia in our financial results.
+
+Acquisitions - Sensia Joint Venture Intangibles Valuation
+
+The accounting for a business combination requires the excess of the purchase price for the acquisition over the net book value of assets acquired to be allocated to the identifiable assets of the acquired entity. Any unallocated portion is recognized as goodwill. We engaged an independent third-party valuation specialist for the fair value allocation of the purchase price paid in connection with formation of the Sensia joint venture to intangible assets, which required the use of several assumptions and estimates. Although we believe the assumptions and estimates made were reasonable and appropriate, these estimates are based on historical experience and information obtained from Sensia management. The key assumption requiring the use of judgment was the customer attrition rates ranging from 7.5% to 25%. A change in the customer attrition rate of 250 basis points would result in a change of $40.4 million in intangible assets.
+
+More information regarding this business combination is contained in Note 4 in the Consolidated Financial Statements.
+
+Goodwill - Sensia Reporting Unit
+
+The quantitative test of goodwill for impairment requires us to estimate the fair value of our reporting units. During the second quarter of 2020, we performed a quantitative impairment test for our Sensia reporting unit. We determined the fair value of the reporting unit under a combination of an income approach derived from discounted cash flows and a market multiples approach using selected comparable public companies.
+
+Critical assumptions used in this approach included management’s estimated future revenue growth rates, estimated future margins, and discount rate. Estimated future revenue growth and margins are based on management’s best estimate about current and future conditions. Although we believe the assumptions and estimates made were reasonable and appropriate, these estimates are based on a number of factors, including historical experience and information obtained from reporting unit management. Actual results could differ from these estimates, especially given the uncertainty over the duration and severity of impacts related to the COVID-19 pandemic, and the impact on our Oil & Gas customers which have been, and could continue to be, impacted by the recent volatility in oil prices. We determined the discount rate using our weighted average cost of capital adjusted for risk factors specific to the reporting unit, with comparison to market and industry data. A hypothetical 10 percent decrease in the fair value of this reporting unit would not impact our conclusion that goodwill was not impaired.
+
+More information regarding goodwill is contained in Note 3 in the Consolidated Financial Statements.
+
+Recent Accounting Pronouncements
+
+See Note 1 in the Consolidated Financial Statements regarding recent accounting pronouncements.
+
+44
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

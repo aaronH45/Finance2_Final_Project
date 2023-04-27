@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000884887",
+    "sec_company_name": "ROYAL CARIBBEAN CRUISES LTD (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150129",
+    "sec_filing_date": "20150129",
+    "sec_changed_date": "20150129",
+    "sec_accepted_date": "20150129080811",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/884887/000088488715000009/0000884887-15-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/884887/000088488715000009/0000884887-15-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\RCL_0000884887_EX991_20150129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "632004 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 23042,
+    "endpoints": [
+        "exh991form8k20150129.htm      ",
+        "Page 17 of 17"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RCL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\RCL_0000884887_EX991_20150129_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:32:15.320517"
+}

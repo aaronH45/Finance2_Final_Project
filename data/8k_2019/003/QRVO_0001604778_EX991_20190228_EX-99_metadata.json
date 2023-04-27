@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001604778",
+    "sec_company_name": "Qorvo, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190228",
+    "sec_filing_date": "20190228",
+    "sec_changed_date": "20190228",
+    "sec_accepted_date": "20190228091724",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477819000011/0001604778-19-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477819000011/0001604778-19-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\QRVO_0001604778_EX991_20190228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14415 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5551,
+    "endpoints": [
+        "Exhibit   ",
+        "This press release includes 'forward-looking statements' within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, statements about our plans, objectives, representations and contentions and are not historical facts and typically are identified by use of terms such as 'may,' 'will,' 'should,' 'could,' 'expect,' 'plan,' 'anticipate,' 'believe,' 'estimate,' 'predict,' 'potential,' 'continue' and similar words, although some forward-looking statements are expressed differently. You should be aware that the forward-looking statements included herein represent management's current judgment and expectations, but our actual results, events and performance could differ materially from those expressed or implied by forward-looking statements. We do not intend to update any of these forward-looking statements or publicly announce the results of any revisions to these forward-looking statements, other than as is required under U.S. federal securities laws. Our business is subject to numerous risks and uncertainties, including those relating to fluctuations in our operating results, our dependence on a few large customers for a substantial portion of our revenue, a loss of revenue if contracts with the U.S. government or defense and aerospace contractors are canceled or delayed, our ability to implement innovative technologies, our ability to bring new products to market and achieve design wins, the efficient and successful operation of our wafer fabrication and other facilities, our ability to adjust production capacity in a timely fashion in response to changes in demand for our products, variability in manufacturing yields, industry overcapacity, inaccurate product forecasts and corresponding inventory and manufacturing costs, dependence on third parties, our dependence on international sales and operations, our ability to attract and retain skilled personnel and develop leaders, the possibility that future acquisitions may dilute our stockholders' ownership and cause us to incur debt and assume contingent liabilities, fluctuations in the price of our common stock, our ability to protect our intellectual property, claims of intellectual property infringement and other lawsuits, security breaches and other similar disruptions compromising our information, and the impact of government and stringent environmental regulations. These and other risks and uncertainties, which are described in more detail in Qorvo's most recent Annual Report on Form 10-K and in other reports and statements filed with the Securities and Exchange Commission, could cause actual results and developments to be materially different from those expressed or implied by any of these forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "QRVO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\QRVO_0001604778_EX991_20190228_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:54:02.934381"
+}

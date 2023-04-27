@@ -1,0 +1,93 @@
+Document   
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report: February 21, 2019
+
+(Date of earliest event reported)
+
+AKAMAI TECHNOLOGIES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+150 Broadway
+
+Cambridge, Massachusetts 02142
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code: (617) 444-3000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+oWritten communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+oSoliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+oPre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+oPre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+On February 21, 2019, the Compensation Committee of the Board of Directors (the “Committee”) of Akamai Technologies, Inc. ("Akamai" or the "Company") adopted bonus and equity compensation programs for 2019 for the following individuals (Akamai’s principal executive officer and three of Akamai’s other named executive officers): F. Thomson Leighton, Chief Executive Officer; Robert Blumofe, Executive Vice President - Platform and General Manager Enterprise Division; Rick McConnell, President - General Manager Web Division; and William Wheaton, Executive Vice President and Chief Strategy Officer (each, an “Executive” and collectively, the “Executives”).
+
+Messrs. Blumofe, Leighton and McConnell are eligible to participate in a 2019 bonus program that provides for payment to the extent designated corporate performance objectives are met. Amounts earned by Messrs. Blumofe and McConnell are payable in cash. Mr. Leighton’s plan provides for payment of any amounts earned in shares of vested common stock issued under the Akamai Technologies, Inc. 2013 Stock Incentive Plan, as amended (the “Plan”), in lieu of cash; the number of shares to be issued, if any, will be calculated by dividing the bonus value achievement by the closing sale price of the Company’s common stock on the date that financial results for 2019 are certified by the Committee (the “2019 Certification Date”). For each of the Executives, the performance objectives consist of and are weighted as follows: 50% based on Akamai’s achievement of a specified revenue target for fiscal year 2019 and 50% based on Akamai’s achievement of a specified adjusted operating income target for fiscal year 2019. Calculation of performance against the revenue and adjusted operating income targets will take into account the impact of foreign currency fluctuations. 
+
+For Mr. Leighton, his 2019 base salary will be $1.00, with a target bonus value of $1,250,000 and maximum value of $2,500,000. For Mr. Blumofe, his 2019 base salary will be $505,000, with a target cash bonus equal to 80% of his 2019 salary earnings and a maximum cash bonus equal to 160% of his 2019 salary earnings. For Mr. McConnell, his 2019 base salary will be $580,000, with a target cash bonus equal to 100% of his 2019 salary earnings and a maximum cash bonus equal to 200% of his 2019 salary earnings. Mr. Wheaton’s 2019 annualized base salary will remain $420,000. New salaries become effective July 1, 2019.
+
+As described in the table below, the Committee also approved grants to Messrs. Leighton, Blumofe and McConnell of restricted stock units (“RSUs”) under the Plan, consisting of annual vesting RSUs, corporate performance-based vesting RSUs and stock performance-based vesting RSUs as follows:
+
+[DATA_TABLE_REMOVED]
+
+  All RSUs will be granted on March 1, 2019. The number of RSUs to be issued will be calculated by dividing the dollar value set forth above by the closing sale price of one share of the Company’s common stock on the grant date (in the case of performance-based RSUs the number shall be based off of the maximum deliverable). Each RSU represents the right to receive one share of Akamai common stock upon vesting.
+
+RSUs with annual vesting vest as follows: 1/3 on each of the first, second and third anniversaries of the date of grant.
+
+Vesting of corporate performance-based RSUs is subject to the Company’s performance against equally weighted revenue and non-GAAP earnings per share targets over fiscal years 2019, 2020 and 2021, taking into account the impact of foreign currency fluctuations. The Committee has established, or will establish, annual revenue and earnings per share goals at the beginning of each of fiscal years 2019, 2020 and 2021; each year’s performance will be equally weighted in determining the aggregate number of RSUs earned. Performance at 100% of target will earn the target number of RSUs. Eligible vesting commences if the Company exceeds 90% of the target; 110% performance against target will earn the maximum number of RSUs issuable. Performance between such levels will be proportionately awarded on a straight-line interpolation. Earned RSUs will vest on the date that the Company’s fiscal 2021 financial results are certified.
+
+Vesting of stock performance-based RSUs is based on the total shareholder return (“TSR”) of the Company’s common stock relative to companies in the S&P 500 Information Technology Index (the “Index Group”) over calendar years 2019, 2020 and 2021 (the “Performance Period”). TSR will be calculated as the average closing price of the Company’s stock over the last 90 trading days of 2021 plus the aggregate value of dividends per share issued by the Company during the Performance Period minus the average closing price of the Company’s stock over the 90 trading days prior to January 1, 2019 dividing by the average closing price of the Company’s stock over the 90 trading days prior to January 1, 2019. If the Company’s TSR over the Performance Period is at the 50th percentile when ranked against the TSRs of companies in the Index Group, 100% of the target number of RSUs will be eligible to vest. For every percentile by which the Company’s TSR ranking within the Index Group exceeds the 50th percentile, the number of RSUs eligible to vest will increase by 3.33% of target, up to a maximum of 200% of target if the Company’s TSR ranking is at the 80th percentile. For every percentile by which the Company’s TSR ranking within the Index Group is below the 50th percentile, the number of RSUs eligible to vest will decrease by 3%, with no payout if the Company’s TSR ranking is below the 25th percentile. Earned RSUs will vest on the date that the Company’s fiscal 2021 financial results are certified.
+
+The form of time-based vesting RSU Agreement was previously filed with the Securities and Exchange Commission (the “Commission”) on August 9, 2013, and the form of performance-based vesting RSU Agreement was previously filed with the Commission on February 6, 2015.
+
+The Committee also approved 2019 cash and equity compensation plans for Edward McGowan, who has been elected by the Company’s Board of Directors to become the Company’s Chief Financial Officer as of March 1, 2019. The structure of, and financial metrics applicable to, the cash incentive plan and RSUs approved for McGowan are the same as those approved for Messrs. Leighton, Blumofe and McConnell. Effective March 1, 2019, his 2019 base salary will be $450,000, with a target cash bonus equal to 85% of his 2019 salary earnings and a maximum cash bonus equal to 170% of his 2019 salary earnings. The RSU grants approved for Mr. McGowan are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The Company and Mr. McGowan are parties to a change of control and severance agreement (the “COC Agreement”) consistent with the form of agreement previously filed with the Commission on November 17, 2015. Mr. McGowan is eligible to participate in the Akamai Technologies, Inc. Executive Severance Plan that was previously filed with the Commission on July 23, 2012 (the “Severance Plan”). 
+
+On February 25, 2019, the Company entered into a Transition Agreement with James Benson, the Company’s principal financial officer, setting forth the terms of his employment as an advisor to the Chief Executive Officer from March 1, 2019 through September 30, 2019 (or such other date as agreed to by the parties) 
+
+to assist with transitioning Mr. Benson’s duties and responsibilities to Mr. McGowan. Pursuant to the terms of the Transition Agreement, Mr. Benson will maintain his current annualized salary of $500,000 through April 2019 and thereafter receive a salary of $10,000 per month until September 30, 2019. In addition, he will receive a lump sum cash bonus of $150,000 payable upon termination of his employment with the Company at such time. The Transition Agreement also provides for the continued vesting of performance-based RSUs issued to Mr. Benson in 2017 and 2018 (the “2017 and 2018 PRSUs”), consistent with existing vesting schedules, to the extent earned based on the Company’s certified performance through December 31, 2018, notwithstanding the fact that he will not be an employee of the Company on such vesting date(s). In the event Mr. Benson is terminated without “cause” or resigns for “good reason” (each as defined in the Transition Agreement) following a change of control of Akamai that occurs between March 1, 2019 and September 30, 2019, he will be entitled to accelerated vesting of the earned portion of the 2017 and 2018 PRSUs based on the actual level of financial achievement. The description of the Transition Agreement contained herein is qualified in its entirety by reference to the copy thereof filed herewith as Exhibit 10.1 and incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+10.1 Transition Agreement dated February 25, 2019 between the Registrant and James Benson
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 27, 2019 /s/ Aaron Ahola
+
+ Aaron Ahola, Senior Vice President and General Counsel

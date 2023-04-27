@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000063276",
+    "sec_company_name": "MATTEL INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190207",
+    "sec_filing_date": "20190207",
+    "sec_changed_date": "20190207",
+    "sec_accepted_date": "20190207160515",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/63276/000162828019001077/0001628280-19-001077-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/63276/000162828019001077/0001628280-19-001077.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MAT_0000063276_EX991_20190207_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "860826 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 33010,
+    "endpoints": [
+        "Exhibit   ",
+        "9 For the three months and year ended December 31, 2018, the amount includes a benefit of approximately $6 million and expense of approximately $18 million, respectively, related to the tax for deemed repatriation of accumulated foreign earnings and changes to Mattel's indefinite reinvestment assertion, both as a result of the U.S. Tax Act and the impact of the valuation allowance established for the portion of deferred tax assets Mattel believes will likely not be realized. For the three months ended December 31, 2017, the amount includes a benefit of approximately $105 million related to the estimated impact of the U.S. Tax Act. For the year ended December 31, 2017, the amount includes a net expense of approximately $457 million related to the valuation allowance on deferred tax assets and an estimate of the impact of the U.S. Tax Act."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MAT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MAT_0000063276_EX991_20190207_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:37:23.841658"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001071739",
+    "sec_company_name": "CENTENE CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220111",
+    "sec_filing_date": "20220111",
+    "sec_changed_date": "20220111",
+    "sec_accepted_date": "20220111172545",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1071739/000107173922000017/0001071739-22-000017-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1071739/000107173922000017/0001071739-22-000017.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\CNC_0001071739_EX991_20220111_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "21151 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 11951,
+    "endpoints": [
+        "Document",
+        "Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder that may result from changing political conditions, the new administration or judicial actions; rate cuts or other payment reductions or delays by governmental payors and other risks and uncertainties affecting our government businesses; our ability to adequately price products; tax matters; disasters or major epidemics; changes in expected contract start dates; provider, state, federal, foreign and other contract changes and timing of regulatory approval of contracts; the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare, TRICARE or other customers); the difficulty of predicting the timing or outcome of legal or regulatory proceedings or matters, including, but not limited to, our ability to resolve claims and/or allegations made by states with regard to past practices, including at Envolve Pharmacy Solutions, Inc. (Envolve), as our pharmacy benefits manager (PBM) subsidiary, within the reserve estimate we have recorded and on other acceptable terms, or at all, or whether additional claims, reviews or investigations relating to our PBM business will be brought by states, the federal government or shareholder litigants, or government investigations; timing and extent of benefits from strategic value creation initiatives; challenges to our contract awards; cyber-attacks or other privacy or data security incidents; the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the undertakings in connection with any regulatory, governmental or third party consents or approvals for acquisitions; changes in expected closing dates, estimated purchase price and accretion for acquisitions; the risk that acquired businesses will not be integrated successfully; restrictions and limitations in connection with our indebtedness; our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that can impact revenue and future growth; availability of debt and equity financing, on terms that are favorable to us; inflation; foreign currency fluctuations and risks and uncertainties discussed in the reports that Centene has filed with the Securities and Exchange Commission. This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition and results of operations, in our filings with the Securities and Exchange Commission (SEC), including our annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\CNC_0001071739_EX991_20220111_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:59.073783"
+}

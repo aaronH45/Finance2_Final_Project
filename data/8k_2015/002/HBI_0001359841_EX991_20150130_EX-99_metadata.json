@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001359841",
+    "sec_company_name": "Hanesbrands Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150130",
+    "sec_filing_date": "20150130",
+    "sec_changed_date": "20150130",
+    "sec_accepted_date": "20150130073520",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984115000036/0001359841-15-000036-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1359841/000135984115000036/0001359841-15-000036.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\HBI_0001359841_EX991_20150130_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "27848 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 23921,
+    "endpoints": [
+        "a4q2014faqsfinal01292015  ",
+        " 8 # # # Cautionary Statement Concerning Forward-Looking Statements This press release includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements include all statements that do not relate solely to historical or current facts, and can generally be identified by the use of words such as “may,” “believe,” “will,” “expect,” “project,” “estimate,” “intend,” “anticipate,” “plan,” “continue” or similar expressions. In particular, among others, statements about our 2015 financial guidance and the HanesBrands acquisition of Maidenform and DBApparel (the “acquisitions”), including integration plans and the expected impact of the acquisitions on HanesBrands’ sales, earnings, operating profit and cash flow from operations, are forward-looking statements. Forward-looking statements inherently involve many risks and uncertainties that could cause actual results to differ materially from those projected in these statements. Where, in any forward-looking statement, we express an expectation or belief as to future results or events, such expectation or belief is based on the current plans and expectations of our management, expressed in good faith. However, there can be no assurance that the expectation or belief will result or will be achieved or accomplished, and actual results may differ materially from those contemplated by the forward-looking statements. A number of important factors could cause actual results to differ materially from those contemplated by the forward- looking statements, including, but not limited to our ability to achieve expected synergies and successfully complete the integration of Maidenform and DBApparel and the level of expenses and other charges related to the acquisition. For further information regarding the risks associated with HanesBrands’ business, please refer to our most recent Securities and Exchange Commission reports, including our annual report on Form 10-K and quarterly reports on Form 10-Q, as well as in the investors section of our corporate website at www.Hanes.com/investors. Since it is not possible to predict or identify all of the risks, uncertainties and other factors that may affect future results, the above list should not be considered a complete list. We believe these forward-looking statements are reasonable; however, undue reliance should not be placed on any forward-looking statements, which are based on current expectations. All forward-looking statements speak only as of the date hereof. We undertake no obligation to update or revise forward-looking statements that may be made to reflect events or circumstances that arise after the date made or to reflect the occurrence of unanticipated events, other than as required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HBI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\HBI_0001359841_EX991_20150130_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:19:32.947188"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001123360",
+    "sec_company_name": "GLOBAL PAYMENTS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210208",
+    "sec_filing_date": "20210208",
+    "sec_changed_date": "20210208",
+    "sec_accepted_date": "20210208073736",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1123360/000112336021000003/0001123360-21-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1123360/000112336021000003/0001123360-21-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\GPN_0001123360_EX991_20210208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "539072 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28198,
+    "endpoints": [
+        "Document",
+        "Adjusted net revenue excludes gross-up related payments associated with certain lines of business to reflect economic benefits to the company. On a GAAP basis, these payments are presented gross in both revenues and operating expenses. Adjusted operating income, adjusted net income and adjusted EPS exclude acquisition-related amortization expense, share-based compensation expense, acquisition and integration expense and certain other items, such as unusual, direct and discrete costs due to the global pandemic, specific to each reporting period as more fully described in the accompanying reconciliations in Schedules 6 and 7. Adjusted operating margin is derived by dividing adjusted operating income by adjusted net revenue. The tax rate used in determining the income tax impact of earnings adjustments is either the jurisdictional statutory rate in effect at the time of the adjustment or the jurisdictional expected annual effective tax rate for the period, depending on the nature and timing of the adjustment."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GPN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\GPN_0001123360_EX991_20210208_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:08:38.427155"
+}

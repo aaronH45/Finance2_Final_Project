@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000036104",
+    "sec_company_name": "US BANCORP \DE\ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180117",
+    "sec_filing_date": "20180117",
+    "sec_changed_date": "20180117",
+    "sec_accepted_date": "20180117065006",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/36104/000119312518011701/0001193125-18-011701-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/36104/000119312518011701/0001193125-18-011701.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\USB_0000036104_EX991_20180117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "951959 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 43929,
+    "endpoints": [
+        "EX-99.1   ",
+        " $43 million (6.0 percent) due to a $28 million (6.3 percent) increase in net interest income and a $15 million (5.7 percent) increase in total noninterest income. Net interest income increased year-over-year principally due to growth in the investment portfolio. Total noninterest income increased year-over-year primarily due to lower loan-related charges. Total noninterest expense increased $894 million over the fourth quarter of 2016 principally due to the impacts of the notable items including a special bonus to eligible employees, a charitable contribution to the U.S. Bank foundation and a regulatory and legal accrual. The provision for credit losses decreased by $26 million primarily due to lower net charge-offs reflecting higher recoveries in the current quarter. Income tax expense decreased by $956 million primarily due to the impacts of tax reform on the Company’s tax related assets and liabilities."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "USB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\USB_0000036104_EX991_20180117_EX-99_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:41.341248"
+}

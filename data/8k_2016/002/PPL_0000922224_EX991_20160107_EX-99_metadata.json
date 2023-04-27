@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000922224",
+    "sec_company_name": "PPL Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160107",
+    "sec_filing_date": "20160107",
+    "sec_changed_date": "20160106",
+    "sec_accepted_date": "20160106174803",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/922224/000092222416000107/0000922224-16-000107-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/922224/000092222416000107/0000922224-16-000107.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PPL_0000922224_EX991_20160107_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "74865 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 42640,
+    "endpoints": [
+        "© PPL Corporation 2015 PPL: A Diverse Pure-Play Electric Utility Company EvercoreISI Utility Conference January 7 -8 2016 Phoenix, Arizona Exhibit 99.1  ",
+        "© PPL Corporation 2015 Definitions of Non-GAAP Financial Measures PPLutilizesthefollowingnon-GAAPfinancialmeasuresasindicatorsofperformanceforitsbusinesses.Thesemeasuresarenotintendedtoreplace 'OperatingIncome,'whichisdeterminedinaccordancewithGAAP,asanindicatorofoveralloperatingperformance. Othercompaniesmayuse differentmeasurestoanalyzeandreporttheirresultsofoperations. Managementbelievesthesemeasuresprovideadditionalusefulcriteriato makeinvestmentdecisions.Theseperformancemeasuresareused,inconjunctionwithotherinformation,byseniormanagementandPPL'sBoard ofDirectorstomanagetheoperationsandanalyzeactualresultscomparedwithbudget. 'KentuckyGrossMargins'isasinglefinancialperformancemeasureoftheelectricitygeneration,transmissionanddistributionoperationsofthe KentuckyRegulatedsegment,LKE,LG&EandKU,aswellastheKentuckyRegulatedsegment's,LKE'sandLG&E'sdistributionandsaleofnatural gas. Incalculatingthismeasure,fuel,energypurchasesandcertainvariablecostsofproduction(recordedas'Otheroperationandmaintenance' ontheStatementsofIncome)aredeductedfromrevenues. Inaddition,certainotherexpenses,recordedas'Otheroperationandmaintenance', 'Depreciation'and'Taxes,otherthanincome'ontheStatementsofIncome,associatedwithapprovedcostrecoverymechanismsareoffset againsttherecoveryofthoseexpenses,whichareincludedinrevenues.Thesemechanismsallowfordirectrecoveryoftheseexpensesand,insome cases,returnsoncapitalinvestmentsandperformanceincentives. Asaresult,thismeasurerepresentsthenetrevenuesfromelectricityandgas operations. 'PennsylvaniaGrossDeliveryMargins'isasinglefinancialperformancemeasureoftheelectricitydeliveryoperationsofthePennsylvania RegulatedsegmentandPPLElectric,whichincludestransmissionanddistributionactivities. Incalculatingthismeasure,utilityrevenuesand expensesassociatedwithapprovedrecoverymechanisms,includingenergyprovidedasaPLR,areoffsetwithminimalimpactonearnings. Costs associatedwiththesemechanismsarerecordedin'Energypurchases,''Otheroperationandmaintenance,'whichisprimarilyAct129costs,and 'Taxes,otherthanincome,'whichisprimarilygrossreceiptstax. ThisperformancemeasureincludesPLRenergypurchasesbyPPLElectricfrom PPLEnergyPlus,whicharereflectedin'Energypurchasesfromaffiliate'inthereconciliationtables.AsaresultofthespinoffoftheSupplysegment andcreationofTalenEnergyonJune1,2015,PPLEnergyPlus(renamedTalenEnergyMarketing)isnolongeranaffiliateofPPLElectric. PPL Electric'spurchasesfromTalenEnergyMarketingsubsequenttoMay31,2015arereflectedin'EnergyPurchases'inthereconciliationtables.This measurerepresentsthenetrevenuesfromthePennsylvaniaRegulatedsegment'sandPPLElectric'selectricitydeliveryoperations. 40"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PPL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\PPL_0000922224_EX991_20160107_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:46:21.532981"
+}

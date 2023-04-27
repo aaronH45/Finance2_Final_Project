@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001378946",
+    "sec_company_name": "People's United Financial, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220120",
+    "sec_filing_date": "20220121",
+    "sec_changed_date": "20220121",
+    "sec_accepted_date": "20220121073100",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1378946/000119312522014357/0001193125-22-014357-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1378946/000119312522014357/0001193125-22-014357.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\PBCT_0001378946_EX991_20220120_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "864101 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22229,
+    "endpoints": [
+        "EX-99.1   ",
+        "19"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PBCT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\PBCT_0001378946_EX991_20220120_EX-99_excerpt.txt",
+    "time_elapsed": 0.5,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:28.686489"
+}

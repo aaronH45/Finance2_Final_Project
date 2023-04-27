@@ -1,0 +1,91 @@
+Document   
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+ _____________________________________________________________________________
+
+FORM 8-K
+
+  ______________________________________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report: January 17, 2018 
+
+(Date of earliest event reported)
+
+ ______________________________________________________________________________
+
+Verizon Communications Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ _______________________________________________________________________________ 
+
+[DATA_TABLE_REMOVED]
+
+Registrant’s telephone number, including area code: (212) 395-1000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+[ ] Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period or complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01. Regulation FD Disclosure
+
+Verizon implemented ASU 2014-09, Revenue from Contracts with Customers (“ASC 606”) on January 1, 2018 using the modified retrospective method for open contracts. Upon adoption, the accounting change is applied to the current period with the cumulative adjustment recorded to retained earnings. The prior period results will not be recast to reflect the new standard. The adoption of this new standard will have a significant impact on our 2018 operating results primarily due to the reversing effects from the cumulative adjustment recorded to retained earnings, as well as how we account for new wireless subsidy contracts and future commission costs incurred by our Wireless and Wireline businesses.
+
+During the first quarter of 2018, we will record a cumulative adjustment to retained earnings which is primarily related to two items: 1) net contract assets arising from our open wireless subsidy contracts, which will be derecognized as a net reduction to future service revenue over the remaining term of the respective contracts and, 2) deferred commission costs, which will be recognized as commission expense as part of selling, general and administrative expense over the period of expected benefit.
+
+The ongoing revenue accounting impact from the implementation of ASC 606 is principally related to our wireless subsidy contracts, which currently represent approximately 20% of our total postpaid wireless phone base, primarily business customers. Prior to the adoption of ASC 606, equipment revenue for subsidy contracts was required to be limited to the amount of consideration received upon delivery of the equipment. Under ASC 606, we are required to allocate the total contract revenue to the various performance obligations such as equipment and service. As a result, we expect to recognize more equipment revenue upon delivery, and recognize less service revenue over the contract term than under previous accounting rules. More importantly, total revenue over the full contract term will be unchanged and there will be no change to customer billing, the timing of cash flows, or the presentation of cash flows. Also, on an ongoing basis, a significant amount of commission costs which would have historically been expensed as incurred by our Wireless and Wireline businesses under our previous accounting, will now be deferred and amortized over the respective periods of expected benefit under the new standard.
+
+For full year 2018, based on currently available information, we estimate the overall impact from the opening balance sheet adjustment and the ongoing impact from new contracts to result in an insignificant change to consolidated revenue. This revenue change is primarily related to an expected decrease in wireless service revenue offset by an expected increase in wireless equipment revenue. Additionally, we estimate a net decrease to operating expenses primarily related to wireless and wireline commission expense. In the aggregate, these items are expected to yield an estimated benefit to full year 2018 consolidated operating income. The accretive benefit to operating income anticipated in 2018 is expected to moderate in 2019 and become insignificant in 2020 as the timing impacts to revenue and commission costs converge.
+
+Based on currently available information, we estimate the following impacts on 2018 (all amounts are approximate):
+
+[DATA_TABLE_REMOVED]
+
+Item 8.01. Other Events
+
+On December 22, 2017, the Tax Cuts and Jobs Act (“TCJA”) was enacted. The TCJA significantly revised the U.S. federal corporate income tax by, among other things, lowering the corporate income tax rate to 21%, implementing a territorial tax system, imposing a repatriation tax on earnings of foreign subsidiaries that are deemed to be repatriated to the United States, and imposing limitations on the deduction of interest expense.
+
+U.S. GAAP accounting for income taxes requires that Verizon record the impacts of any tax law change on our deferred income taxes in the quarter that the tax law change is enacted. Due to the complexities involved in accounting for the enactment of TCJA, SEC Staff Accounting Bulletin (“SAB”) 118 allows us to provide a provisional estimate of the impacts of the TCJA in our earnings for the fourth quarter and year ending December 31, 2017. Accordingly, based on currently available information, Verizon estimates that the enactment of the TCJA will result in a one-time reduction in net deferred income tax liabilities of approximately $16.8 billion, due primarily to the re-measurement of U.S. deferred tax liabilities at the lower 21% U.S. federal corporate income tax rate. This impact will be reflected in income from continuing operations which will increase our earnings for the fourth quarter and year ending December 31, 2017, but will not have any impact on the 2017 statement of cash flows. For the year ending December 31, 2017, the impact of the TCJA to Verizon’s earnings per share is estimated to be approximately $4.10. At present, we do not estimate any material impacts from either the repatriation tax or the implementation of the territorial tax system. In addition, given our present financial profile, we expect to fully deduct interest expense under the present EBITDA test and in the future under the more restrictive EBIT test to be in effect after 4 years. Our estimate does not reflect the effects of any state tax law changes that may arise as a result of federal tax reform.
+
+Verizon will continue to analyze the effects of the TCJA on its financial statements and operations. Additional impacts from the enactment of the TCJA will be recorded as they are identified during the measurement period as provided for in SAB 118.
+
+Forward-looking statements
+
+In this Report on Form 8-K we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words “anticipates,” “believes,” “estimates,” “hopes” or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the “SEC”), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: adverse conditions in the U.S. and international economies; the effects of competition in the markets in which we operate; material changes in technology or technology substitution; disruption of our key suppliers’ provisioning of products or services; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks; breaches of network or information technology security, natural disasters, terrorist attacks or acts of war or significant litigation and any resulting financial impact not covered by insurance; our high level of indebtedness; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse 
+
+conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; material adverse changes in labor matters, including labor negotiations, and any resulting financial and/or operational impact; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or treaties, or in their interpretation; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; the inability to implement our business strategies; and the inability to realize the expected benefits of strategic transactions. 
+
+The information provided in this Report is being furnished and shall not be deemed to be “filed” with the Securities and Exchange Commission or incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent set forth by specific reference in any such filing.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

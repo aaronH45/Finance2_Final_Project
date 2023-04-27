@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912615",
+    "sec_company_name": "URBAN OUTFITTERS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150226",
+    "sec_filing_date": "20150226",
+    "sec_changed_date": "20150226",
+    "sec_accepted_date": "20150226163635",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912615/000119312515065830/0001193125-15-065830-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912615/000119312515065830/0001193125-15-065830.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\URBN_0000912615_EX991_20150226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "6162 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4096,
+    "endpoints": [
+        "EX-99.1   ",
+        "This news release is being made pursuant to the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Certain matters contained in this release may constitute forward-looking statements. When used in this release, the words “project,” “believe,” “plan,” “will,” “anticipate,” “expect” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any one, or all, of the following factors could cause actual financial results to differ materially from those financial results mentioned in the forward-looking statements: the difficulty in predicting and responding to shifts in fashion trends, changes in the level of competitive pricing and promotional activity and other industry factors, overall economic and market conditions and the resultant impact on consumer spending patterns, lowered levels of consumer confidence and higher levels of unemployment, continuation of lowered levels of consumer spending resulting from a worldwide political and economic crisis, any effects of terrorist acts or war, natural disasters or severe weather conditions, availability of suitable retail space for expansion, timing of store openings, risks associated with international expansion, seasonal fluctuations in gross sales, the departure of one or more key senior executives, import risks, including potential disruptions and changes in duties, tariffs and quotas, the closing of any of our distribution centers, our ability to protect our intellectual property rights, risks associated with internet sales, response to new store concepts, failure of our manufacturers to comply with our social compliance program, changes in accounting standards and subjective assumptions, regulatory changes and legal matters and other risks identified in the Company’s filings with the Securities and Exchange Commission. The Company disclaims any intent or obligation to update forward-looking statements even if experience or future changes make it clear that actual results may differ materially from any projected results expressed or implied therein."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "URBN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\URBN_0000912615_EX991_20150226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:28.177795"
+}

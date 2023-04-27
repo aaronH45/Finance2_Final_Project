@@ -1,0 +1,233 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of our financial condition and results of operations focuses on and is intended to clarify the results of our operations, certain changes in our financial position, liquidity, capital structure and business developments for the periods covered by the consolidated financial statements included in this Form 10-K. This discussion should be read in conjunction with, and is qualified by reference to, the other related information including, but not limited to, the audited consolidated financial statements (including the notes thereto), the description of our business, all as set forth in this Form 10-K, as well as the risk factors discussed above in Item 1A. 
+
+This section provides discussion and a year-to-year comparison for the fiscal years ended December 25, 2021 and December 26, 2020. Discussion regarding our results of operations for the fiscal year ended December 28, 2019 and a year-to-year comparison between the fiscal years ended December 26, 2020 and December 28, 2019 can be found in Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 26, 2020. 
+
+As previously noted, the discussion set forth below, as well as other portions of this Form 10-K, contain statements concerning potential future events. Readers can identify these forward-looking statements by their use of such verbs as “expects,” “anticipates,” “believes” or similar verbs or conjugations of such verbs. If any of our assumptions on which the statements are based prove incorrect or should unanticipated circumstances arise, our actual results could materially differ from those anticipated by such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but not limited to, those discussed above in Item 1A. Readers are strongly encouraged to consider those factors when evaluating any such forward-looking statement. Except as may be required by law, we do not undertake to update any forward-looking statements in this Form 10-K. 
+
+Garmin’s fiscal year is a 52-53 week period ending on the last Saturday of the calendar year. Fiscal years 2021, 2020 and 2019 contained 52 weeks. Unless otherwise stated, all years and dates refer to the Company’s fiscal year and fiscal periods. Unless the context otherwise requires, references in this document to "we," "us," "our" and similar terms refer to Garmin Ltd. and its subsidiaries. 
+
+Unless otherwise indicated, dollar amounts set forth in the tables are in thousands, except per share data. 
+
+Overview 
+
+The Company is a leading worldwide provider of wireless devices, many of which feature Global Positioning System (GPS) navigation, and applications that are designed for people who live an active lifestyle. We are organized in the six operating segments of fitness, outdoor, aviation, marine, consumer auto, and auto OEM. The Company’s Chief Executive Officer, who has been identified as the Chief Operating Decision Maker (CODM), allocates resources and assesses performance of each operating segment individually. The fitness, outdoor, aviation, and marine operating segments represent reportable segments. The consumer auto and auto OEM operating segments, which serve the auto market, do not meet the quantitative thresholds to separately qualify as reportable segments, and they are therefore reported together in an “all other” category captioned as auto. Fitness, outdoor, aviation, marine, and auto are collectively referred to as our reported segments.  
+
+The operating segments offer products through our network of subsidiary distributors and independent dealers and distributors, our own webshop, as well as through various aviation, marine, and auto OEMs. Each of the operating segments is managed separately. 
+
+Business Environment Update 
+
+The COVID-19 pandemic has created disruption and uncertainty in the global economy and has affected our business, suppliers, and customers. The pandemic had an unfavorable impact on net sales and profitability of our aviation and auto segments during 2020. However, aviation net sales and profitability trended positively during 2021, while auto net sales have also rebounded. We believe net sales and profitability of our fitness, outdoor, and marine segments benefited from a shift in consumer behavior and demand toward the products these segments offer. While these trends generally continued during 2021, certain consumer behaviors have shifted and others may shift as people return to pre-pandemic lifestyles. 
+
+32 
+
+Our global supply chain is routinely subject to component shortages, increased lead times, cost fluctuations, and logistics constraints. These factors have been further amplified by the pandemic, which adversely impacted our financial results in 2021, and we expect these supply chain challenges to continue throughout 2022. 
+
+The current business environment may evolve in ways that could impact our operations and financial results. Further, the nature and degree of the effects of the pandemic and supply chain challenges over time remains uncertain. Refer to Part I, Item 1A, “Risk Factors” of this Annual Report for further discussion of the risks and uncertainties facing our Company.  
+
+Critical Accounting Estimates 
+
+General 
+
+Our discussion and analysis of financial condition and results of operations are based upon the Company’s consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The presentation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to customer sales programs and incentives, product returns, bad debts, inventories, investments, intangible assets, income taxes, warranty obligations, and contingencies and litigation. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. Refer to Note 2 in the Notes to the Consolidated Financial Statements for our significant accounting policies related to our critical accounting estimates. 
+
+Goodwill 
+
+We allocate goodwill to reporting units in proportion to the expected benefit from each business combination. Each of the Company’s operating segments (fitness, outdoor, aviation, marine, consumer auto, and auto OEM) represents a distinct reporting unit. Goodwill is tested for impairment at the reporting unit level on an annual basis and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. These events or circumstances could include a significant change in the operating performance indicators, competition, or expectations about future market or economic conditions. 
+
+Application of the goodwill impairment test requires significant judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units, and determination of the fair value of each reporting unit. The fair value of each reporting unit is estimated through the use of a discounted cash flow methodology. This analysis requires significant assumptions, including discount rate, projected future revenues, projected future operating margins, and terminal growth rates. The estimates used to calculate the fair value of a reporting unit change from year to year based on operating results, market conditions, and other factors. Changes in these estimates and assumptions could materially affect the determination of fair value and goodwill impairment for each reporting unit. 
+
+Unrecognized Income Tax Benefits 
+
+We recognize liabilities associated with uncertain income tax positions, including those related to transfer pricing, based on our estimate of whether, and the extent to which, additional taxes will be due. We recognize the tax benefits from an uncertain tax position only if payment of these amounts ultimately proves to be not required or it is more likely than not that the tax position will be sustained upon examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are measured based on the largest amount of benefit that is more likely than not to be realized upon ultimate settlement.  
+
+Assessing uncertain tax positions requires significant judgment, including the evaluation of unique facts and circumstances and the interpretation of laws and regulations, especially the assessment of pricing analyses that may produce various ranges of outcomes. Variations in the actual outcome of these future tax consequences could materially impact our consolidated financial statements. 
+
+33 
+
+Accounting Terms and Characteristics 
+
+Net Sales 
+
+Our net sales are primarily generated through sales to our retail partners, dealer and distributor network, our own webshop, and to original equipment manufacturers (OEMs). Refer to the Revenue Recognition discussion in Note 2 of the Notes to Consolidated Financial Statements. We aim to achieve a quick turnaround on orders we receive from our retail, dealer, and distributor customers. Certain arrangements with OEM customers are entered into at the beginning of an aircraft, boat, or vehicle life cycle with the intent to fulfill customer purchasing requirements for the entire production life, although there are generally no firm volume commitments, and sales are therefore generated on an order-by-order basis. As a result, we do not believe backlog information is material to the understanding of our business.  
+
+Net sales are subject to seasonal fluctuation. Typically, sales of our consumer products are highest in the fourth quarter due to increased demand during the holiday buying season, and in the second quarter due to increased demand during the spring and summer season. Our aviation and auto OEM products do not experience much seasonal variation but are more influenced by the timing of aircraft certifications, regulatory mandates, auto program manufacturing, and the release of new products when the initial demand is typically the strongest. 
+
+Cost of Sales/Gross Profit 
+
+Raw material costs are our most significant component of cost of goods sold. Our existing practice of performing the design and manufacture of our products in-house has enabled us to source components from different suppliers and, where possible, to redesign our products to leverage lower-cost or more readily available components.  
+
+We believe that our flexible production model allows our factories to experience relatively low costs of manufacturing. In general, products manufactured in Taiwan have been our highest volume products. Our manufacturing labor costs historically have been lower in Taiwan and China than in other locations.  
+
+Shipping and handling costs associated with the transportation and delivery of our products are included in cost of goods sold. Such costs fluctuate due to a number of factors, including market pricing and the mix of modes of transportation we utilize. 
+
+Sales price variability, including that which is associated with foreign currency fluctuations, has had and can be expected to have an effect on our gross profit. Our gross profit is dependent on segment mix, and to a lesser extent, product mix within each segment. 
+
+Advertising Expense 
+
+Our advertising expenses consist primarily of costs for media advertising, cooperative advertising with our retail partners, point of sale displays, and sponsorships.  
+
+Selling, General and Administrative Expenses 
+
+Our selling, general and administrative expenses consist primarily of: 
+
+•
+
+information systems and infrastructure costs; 
+
+•
+
+salaries for sales, marketing and product support personnel; 
+
+•
+
+salaries and related costs for executives and administrative personnel; 
+
+•
+
+marketing, and other brand building costs; 
+
+•
+
+finance and legal costs; 
+
+•
+
+human resource costs; 
+
+•
+
+travel and related costs; and 
+
+•
+
+occupancy and other overhead costs. 
+
+34 
+
+Research and Development 
+
+The majority of our research and development costs represent engineering personnel costs, costs of test equipment and components used in product and prototype development, and outside product development costs.  
+
+We are committed to increasing the level of innovative design and development of new products as we strive for expanded ability to serve our existing consumer and aviation markets as well as new auto OEM programs and new markets for active lifestyle products.  
+
+Income Taxes 
+
+We have experienced a relatively low effective income tax rate due to the proportion of our income generated by entities in tax jurisdictions with relatively low statutory rates.  
+
+Results of Operations 
+
+The following table sets forth our results of operations as a percentage of net sales during the periods shown (the table may not foot due to rounding): 
+
+  [DATA_TABLE_REMOVED] 
+
+The table below sets forth our results of operations through operating income for each of our five reported segments and supplemental information for the consumer auto and auto OEM operating segments that management believes is useful. The Company’s CODM uses operating income as the measure of profit or loss, combined with other measures, to assess segment performance and allocate resources. Operating income represents net sales less costs of goods sold and operating expenses. Net sales are directly attributed to each segment. Most costs of goods sold and the majority of operating expenses are also directly attributed to each segment, while certain other costs of goods sold and operating expenses are allocated to the segments in a reasonable manner considering the specific facts and circumstances of the expenses being allocated. For each line item in the table below, the total of the reported segments’ amounts equals the amount in the Consolidated Statements of Income. 
+
+35 
+
+ [DATA_TABLE_REMOVED] 
+
+Net Sales 
+
+  [DATA_TABLE_REMOVED] 
+
+Net sales increased 19% in fiscal year 2021 when compared to the year-ago period. Total unit sales increased approximately 8% to 16.6 million units in 2021 from 15.4 million units in 2020, which was a smaller increase than that of revenue primarily due to shifts in segment and product mix. Fitness revenue represented the largest portion of our revenue mix in 2021 at 31%, consistent with 31% in 2020. 
+
+36 
+
+The increase in fitness revenue was primarily driven by growth in cycling and advanced wearables products, although the growth trend in cycling slowed throughout 2021 as market trends normalized from pandemic driven levels, which is expected to continue in fiscal 2022. Outdoor revenue increased due to sales growth across multiple product categories, primarily led by adventure watches. The aviation revenue increase was primarily driven by growth in OEM. Marine revenue increased due to growth across all categories, led by strong demand for our chartplotters. Auto revenue increased primarily due to sales growth in auto OEM programs and consumer auto specialty product categories. 
+
+Gross Profit 
+
+  [DATA_TABLE_REMOVED] 
+
+Gross profit dollars in fiscal year 2021 increased 16%, primarily due to the increase in net sales compared to the year-ago period as described above. Consolidated gross margin decreased 130 basis points when compared to the year-ago period, primarily due to higher freight costs. 
+
+Gross margin remained relatively flat within the fitness, outdoor, and aviation segments. Higher freight costs in the fitness and outdoor segments were mostly offset by favorable product mix, while the marine and consumer auto gross margin decreases of 180 basis points and 340 basis points, respectively, were primarily attributable to higher freight costs. The auto OEM gross margin decrease of 730 basis points was primarily attributable to product mix associated with growth in certain auto OEM programs. This auto OEM product mix and associated lower gross margin trend is generally expected to continue into 2022 and beyond. 
+
+Advertising Expenses 
+
+  [DATA_TABLE_REMOVED] 
+
+Advertising expense increased 14% in absolute dollars and decreased slightly as a percent of revenue in fiscal year 2021 compared to fiscal year 2020. The total absolute dollar increase was primarily attributable to increased media and cooperative spend. 
+
+37 
+
+Selling, General and Administrative Expenses 
+
+  [DATA_TABLE_REMOVED] 
+
+Selling, general and administrative expense increased 16% in absolute dollars and decreased slightly as a percent of revenue when compared to the prior year. The absolute dollar increase was primarily attributable to personnel related expenses and information technology costs.  
+
+Research and Development Expense 
+
+  [DATA_TABLE_REMOVED] 
+
+Research and development expense increased 19% in absolute dollars and was flat as a percent of revenue when compared to the year-ago period. The absolute dollar increase was primarily due to higher engineering personnel costs across all of our operating segments, which are expected to continue to increase for all segments in fiscal year 2022. The auto increase in absolute dollars and as a percent of revenue was primarily attributable to higher engineering personnel costs driven by ongoing investments in auto OEM programs and a lower proportion of such costs being contractually reimbursable. 
+
+38 
+
+Operating Income 
+
+  [DATA_TABLE_REMOVED] 
+
+Total operating income increased 16% in absolute dollars and decreased slightly as a percent of revenue when compared to fiscal year 2020. The growth in total operating income on an absolute dollar basis was the result of revenue growth as discussed above. Auto OEM experienced an operating loss in fiscal year 2021, and we expect this trend to continue in 2022, primarily due to relatively lower gross margins and higher expenses associated with certain programs, as described above 
+
+Other Income (Expense) 
+
+  [DATA_TABLE_REMOVED] 
+
+The average interest rate returns on cash and investments during the 52-weeks ended December 25, 2021 and December 26, 2020 were 1.0% and 1.4%, respectively. Interest income decreased primarily due to lower yields on fixed-income securities. 
+
+Foreign currency gains and losses for the Company are typically driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar, Chinese Yuan, Japanese Yen, Polish Zloty, and Swiss Franc. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.  
+
+The $45.3 million currency loss recognized in fiscal 2021 was primarily due to the U.S. Dollar strengthening against the Euro, Polish Zloty, Japanese Yen, Swiss Franc, and Australian Dollar, while the U.S. Dollar weakened against the Taiwan Dollar. During fiscal 2021, the U.S. Dollar strengthened 7.3% against the Euro, 9.6% against the Polish Zloty, 9.6% against the Japanese Yen, 3.0% against the Swiss Franc, and 4.7% against the Australian Dollar, resulting in losses of $20.0 million, $6.6 million, $2.6 million, $2.5 million, and $2.4 million, respectively, while the U.S. Dollar weakened 1.6% against the Taiwan Dollar, resulting in a loss of $6.2 million. The remaining net currency loss of $5.0 million was related to the impacts of other currencies, each of which was individually immaterial. 
+
+The $2.8 million currency gain recognized in fiscal 2020 was primarily due to the U.S. Dollar weakening against the Euro, Australian Dollar, Chinese Yuan, and British Pound Sterling, partially offset by the U.S. Dollar weakening against the Taiwan Dollar. During fiscal 2020, the U.S. Dollar weakened 9.2% against the Euro, 9.4% against the Australian Dollar, 7.2% against the Chinese Yuan, and 3.6% against the British Pound Sterling, resulting in gains of $21.1 million, $6.5 million, $2.9 million, and $2.6 million, respectively, while the U.S. Dollar weakened 7.1% against the Taiwan Dollar, resulting in a loss of $32.2 million. The remaining net currency gain of $1.9 million was related to the impacts of other currencies, each of which was individually immaterial. 
+
+39 
+
+Income Tax Provision 
+
+Income tax expense for the fiscal year ended December 25, 2021 was $124.6 million compared to income tax expense of $111.1 million for the fiscal year ended December 26, 2020, representing a net increase of $13.5 million. Contributing to the year-over-year increase in income tax expense in fiscal year 2021 was an increase in income before taxes in the fiscal year ended December 25, 2021 compared to the fiscal year ended December 26, 2020. 
+
+Certain Switzerland tax assets related to the October 2019 enactment of Switzerland federal and Schaffhausen cantonal tax reform and related transitional measures were revalued in the fourth quarter of 2020 resulting in $11.0 million income tax expense. In connection with these transitional measures included in Switzerland tax reform, a reduced income tax rate will be utilized on certain Switzerland taxable income for up to five years. The Company also recognized a $14.3 million income tax benefit in fiscal 2020 due to the release of uncertain tax position reserves associated with a 2014 intercompany restructuring. Excluding the aforementioned $11.0 million income tax expense and $14.3 million income tax benefit in fiscal 2020, income tax expense for fiscal year 2020 was $114.4 million. 
+
+In February 2020 the Company initiated a transaction between wholly-owned subsidiaries to migrate ownership of certain intellectual property from Switzerland to the United States, the primary location of research, development, and executive management. The migration, which includes a multi-year intercompany license of intellectual property, has resulted in a favorable shift of income mix by jurisdiction and a reduction in expense related to uncertain tax positions. The Company is pursuing an Advance Pricing Agreement between relevant jurisdictions related to this transaction. At the end of the license agreement, a higher percentage of income will be recognized in the United States. 
+
+Net Income  
+
+As a result of the various factors noted above net income increased 9% to $1,082.2 million from $992.3 million in the prior year.  
+
+Liquidity and Capital Resources 
+
+As of December 25, 2021, we had approximately $3.1 billion of cash, cash equivalents and marketable securities. We primarily use cash flow from operations, and expect that future cash requirements may be used, to fund our capital expenditures, support our working capital requirements, pay dividends, and fund strategic acquisitions. We believe that our existing cash balances and cash flow from operations will be sufficient to meet our short- and long-term projected working capital needs, capital expenditures, and other cash requirements. 
+
+It is management’s goal to invest the on-hand cash in accordance with the investment policy, which has been approved by the Company’s Board of Directors. The investment policy’s primary purpose is to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average interest rate returns on cash and investments during fiscal 2021 and 2020 were 1.0% and 1.4%, respectively. The fair value of our securities varies from period to period due to changes in interest rates, in the performance of the underlying collateral, and in the credit performance of the underlying issuer, among other factors. See Note 8 for additional information regarding marketable securities. 
+
+Cash Flows 
+
+Cash provided by operating activities totaled $1,012.4 million for fiscal 2021, compared to $1,135.3 million for fiscal 2020. The decrease was primarily due to higher purchases of inventory, associated with the Company's strategy to increase days of supply to support our increasingly diversified product lines. This was partially offset by higher net income and improved collections of accounts receivable in fiscal 2021. The Company also paid less cash for income taxes in fiscal 2021 compared to fiscal 2020, although cash paid for income taxes is expected to increase in 2022 associated with the effective date of a provision in the U.S. 2017 Tax Cuts and Jobs Act that will require the amortization of deductions for R&D expense to be recognized over five or fifteen years within U.S. tax returns rather than immediately expensing such expense, as was previously allowed. 
+
+40 
+
+Cash used in investing activities totaled $475.4 million for fiscal 2021, compared to $260.5 million for fiscal 2020. This increase was primarily due to higher net purchases of marketable securities in fiscal 2021, as the Company's balance of cash available for investment grew during the year. Capital expenditures were also higher in fiscal 2021 compared to fiscal 2020, as the Company invested more heavily in platforms for growth—a trend that is expected to continue in fiscal 2022. These increases were partially offset by lower net cash paid for acquisitions in fiscal 2021. 
+
+Cash used in financing activities totaled $486.7 million for fiscal 2021, compared to $461.8 for fiscal 2020. This increase was primarily due to higher cash dividend payments in fiscal 2021, as our declared dividend increased from $0.61 per share for the four calendar quarters beginning in June 2020 to $0.67 per share for the four calendar quarters beginning in June 2021. 
+
+Use of Cash 
+
+Operating Leases 
+
+The Company has lease arrangements for certain real estate properties, vehicles, and equipment. Leased properties are typically used for office space, distribution, and retail. As of December 25, 2021, the Company had fixed lease payment obligations of $99.5 million, with $23.3 million payable within 12 months. 
+
+Inventory Purchase Obligations  
+
+The Company obtains various raw materials and components for its products from a variety of third party suppliers. The Company’s inventory purchase obligations are primarily noncancelable. As of December 25, 2021, the Company had inventory purchase obligations of $1,093.9 million, with $882.8 million payable within 12 months. 
+
+Other Purchase Obligations  
+
+The Company’s other purchase obligations primarily consist of noncancelable commitments for capital expenditures and other indirect purchases in connection with conducting our business. As of December 25, 2021, the Company had other purchase obligations of $421.6 million, with $185.4 million payable within 12 months. 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

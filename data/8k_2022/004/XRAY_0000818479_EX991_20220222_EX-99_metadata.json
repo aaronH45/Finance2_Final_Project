@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000818479",
+    "sec_company_name": "DENTSPLY SIRONA Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220222",
+    "sec_filing_date": "20220224",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224074334",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/818479/000081847922000007/0000818479-22-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/818479/000081847922000007/0000818479-22-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\XRAY_0000818479_EX991_20220222_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4151 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3415,
+    "endpoints": [
+        "exhibit991   ",
+        " Registered brands, trade names and logos are used. Even in particular cases, when they appear without their trademark, all corresponding legal rules and provisions apply. Clinicians may have been compensated for use of their experiences. Press Contact About Dentsply Sirona: Dentsply Sirona is the world’s largest manufacturer of professional dental products and technologies, with over a century of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world class brands. Dentsply Sirona’s products provide innovative, high-quality and effective solutions to advance patient care and deliver better and safer dental care. Dentsply Sirona’s headquarter is located in Charlotte, North Carolina. The company’s shares are listed in the United States on NASDAQ under the symbol XRAY. Visit www.dentsplysirona.com for more information about Dentsply Sirona and its products. Dentsply Sirona Announces Appointment of Dr. Dorothea Wenzel as New Board Member Dentsply Sirona, the world’s largest manufacturer of professional dental products and technologies, today announced that Dr. Dorothea Wenzel has been appointed to its Board of Directors. Charlotte, NC. February 23, 2022. DENTSPLY SIRONA Inc. (“Dentsply Sirona”) (Nasdaq: XRAY) today announced that Dr. Dorothea Wenzel has been appointed to its Board of Directors (the “Board”), increasing the size of its Board from ten to eleven members. Dr. Wenzel has also been appointed as a member of the Audit and Finance Committee. “On behalf of Dentsply Sirona and the Board of Directors, I am pleased to welcome Dr. Wenzel to Dentsply Sirona.” said Eric K. Brandt, Chairman of the Board. “Dr. Wenzel is a highly experienced executive with an impressive strategic, financial, and general management track record in the health care sector. Her expertise will enhance and broaden the Board’s international perspective as we continue to build and refresh our Board. We look forward to working with her to continue to shape the future of Dentsply Sirona and work to realize our vision advancing dentistry to improve oral health worldwide.“ Dr. Dorothea Wenzel served for Merck KGaA, Darmstadt, Germany, from June 2004 to August 2021, most recently since 2019 as Executive Vice President and Head of the Surface Solutions Business Unit. At Merck, KGaA, Darmstadt, Germany, she further held various Senior Management Positions in the Health Care Division of the DAX-listed company. Prior to joining Merck, Dr. Wenzel held a number of finance and business positions in the health care industry at AXA Krankenversicherung AG and Medvantis Holding AG and worked for several years as consultant and engagement manager at McKinsey & Comp. Dr. Wenzel was also a Member of the Staff of the Committee for the Sustainability of the Financing of the Social Security Systems of the Federal Ministry of Health (Germany). She holds a doctorate in Health Economics and a diploma in business & computer sciences from the Technical University of Darmstadt. Dr. Dorothea Wenzel is member of the supervisory board of Fresenius Medical Care AG & Co. KGaA and an independent director on the board of H. Lundbeck A/S. IMAGES are available at > Download Press Release"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "XRAY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\XRAY_0000818479_EX991_20220222_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:50.240699"
+}

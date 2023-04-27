@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000075488",
+    "sec_company_name": "PACIFIC GAS & ELECTRIC Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220216",
+    "sec_filing_date": "20220216",
+    "sec_changed_date": "20220216",
+    "sec_accepted_date": "20220216082043",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1004980/000095015722000150/0000950157-22-000150-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1004980/000095015722000150/0000950157-22-000150.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PCG_0000075488_EX991_20220216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22340 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10748,
+    "endpoints": [
+        "Exhibit 99.1",
+        "Appendix 2: Use of Non-GAAP Financial Measures PG&E Corporation and Pacific Gas and Electric Company: Use of Non-GAAP Financial MeasuresPG&E Corporation discloses historical financial results and provides guidance based on “non-GAAP core earnings” and “non-GAAP core EPS” in order to provide a measure that allows investors to compare the underlying financial performance of the business from one period to another, exclusive of non-core items.“Non-GAAP core earnings” is a non-GAAP financial measure and is calculated as income available for common shareholders less non-core items. “Non-core items” include items that management does not consider representative of ongoing earnings and affect comparability of financial results between periods. “Non-GAAP core EPS,” also referred to as “non-GAAP core earnings per share,” is a non-GAAP financial measure and is calculated as non-GAAP core earnings divided by common shares outstanding (taken on a basic basis in the event of a GAAP loss and a diluted basis in the event of a GAAP gain). PG&E Corporation and the Utility use non-GAAP core earnings and non-GAAP core EPS to understand and compare operating results across reporting periods for various purposes including internal budgeting and forecasting, short- and long-term operating planning, and employee incentive compensation. PG&E Corporation and the Utility believe that non-GAAP core earnings and non-GAAP core EPS provide additional insight into the underlying trends of the business, allowing for a better comparison against historical results and expectations for future performance. With respect to our projection of non-GAAP core EPS for the years 2022-2026, we are not providing a reconciliation to the corresponding GAAP measures because we are unable to predict with reasonable certainty the reconciling items that may affect GAAP net income without unreasonable effort. The reconciling items are primarily due to the future impact of wildfire-related costs, timing of regulatory recoveries, special tax items, and investigation remedies. These reconciling items are uncertain, depend on various factors and could significantly impact, either individually or in the aggregate, the GAAP measures. Non-GAAP core earnings and non-GAAP core EPS are not substitutes or alternatives for GAAP measures such as consolidated income available for common shareholders and may not be comparable to similarly titled measures used by other companies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PCG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PCG_0000075488_EX991_20220216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:22:30.061881"
+}

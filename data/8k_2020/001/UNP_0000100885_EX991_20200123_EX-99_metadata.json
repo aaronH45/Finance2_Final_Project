@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000100885",
+    "sec_company_name": "UNION PACIFIC CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200123",
+    "sec_filing_date": "20200123",
+    "sec_changed_date": "20200123",
+    "sec_accepted_date": "20200123080450",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/100885/000010088520000035/0000100885-20-000035-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/100885/000010088520000035/0000100885-20-000035.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\UNP_0000100885_EX991_20200123_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "821209 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14180,
+    "endpoints": [
+        "Ex 991   ",
+        " 9"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "UNP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\UNP_0000100885_EX991_20200123_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:34:45.358353"
+}

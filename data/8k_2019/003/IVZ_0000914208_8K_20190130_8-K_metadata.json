@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000914208",
+    "sec_company_name": "Invesco Ltd. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190130",
+    "sec_filing_date": "20190130",
+    "sec_changed_date": "20190130",
+    "sec_accepted_date": "20190130080418",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/914208/000091420819000013/0000914208-19-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/914208/000091420819000013/0000914208-19-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\IVZ_0000914208_8K_20190130_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "37317 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3088,
+    "endpoints": [
+        "Document   ",
+        "Date: January 30, 2019"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IVZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\IVZ_0000914208_8K_20190130_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:54:40.987656"
+}

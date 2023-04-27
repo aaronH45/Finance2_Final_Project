@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001618921",
+    "sec_company_name": "Walgreens Boots Alliance, Inc. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20220831",
+    "sec_filing_date": "20221013",
+    "sec_changed_date": "20221013",
+    "sec_accepted_date": "20221013160219",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1618921/000161892122000064/0001618921-22-000064-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1618921/000161892122000064/0001618921-22-000064.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\WBA_0001618921_10K_20220831_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4559895 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 58540,
+    "endpoints": [
+        "PART I",
+        "Item 1A. Risk factors"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "WBA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\WBA_0001618921_10K_20220831_Item1_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:39:07.898266"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001339947",
+    "sec_company_name": "Viacom Inc. (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190205",
+    "sec_filing_date": "20190205",
+    "sec_changed_date": "20190205",
+    "sec_accepted_date": "20190205073056",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1339947/000133994719000011/0001339947-19-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1339947/000133994719000011/0001339947-19-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\VIAB_0001339947_EX99_20190205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "58357 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 37815,
+    "endpoints": [
+        "earningsrelease02052019   ",
+        " 13 The following table reconciles our net cash provided by operating activities (GAAP) for the quarters ended December 31, 2018 and 2017 to free cash flow (non-GAAP). We define free cash flow as net cash provided by operating activities minus capital expenditures. Free cash flow is a non-GAAP measure. Management believes the use of this measure provides investors with an important perspective on our liquidity, including our ability to service debt and make investments in our businesses. The following table reconciles our net cash provided by operating activities (GAAP) for the quarters ended December 31, 2018 and 2017 to free cash flow (non-GAAP). We define free cash flow as net cash provided by operating activities minus capital Reconciliationexpenditures. of net Free cash cash provided flow byis operatinga non-GAAP activities measure. Management believes the use of this measureQuarter provides Ended investorsBetter/ with an to free cash flow December 31, (Worse) (inimportant millions) perspective on our liquidity, including our ability to service debt and make investments2018 in our businesses.2017 $ Net cash provided by operating activities (GAAP) $ 228 $ 12 $ 216 CapitalReconciliation expenditures of net cash provided by operating activities (37Quarter) Ended(28 ) Better/(9) to free cash flow December 31, (Worse) Free cash flow (Non-GAAP) (in millions) $ 1912018 $ (162017) $ 207$ Net cash provided by operating activities (GAAP) $ 228 $ 12 $ 216 Capital expenditures (37) (28) (9) Free cash flow (Non-GAAP) $ 191 $ (16) $ 207"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VIAB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\VIAB_0001339947_EX99_20190205_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:40:34.446922"
+}

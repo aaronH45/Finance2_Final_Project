@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000909832",
+    "sec_company_name": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200122",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128172812",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/909832/000119312520017134/0001193125-20-017134-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/909832/000119312520017134/0001193125-20-017134.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\COST_0000909832_8K_20200122_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "43666 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3776,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   Form 8-K    ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "COST",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\COST_0000909832_8K_20200122_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:09.868421"
+}

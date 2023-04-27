@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000721371",
+    "sec_company_name": "CARDINAL HEALTH INC (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20200630",
+    "sec_filing_date": "20200813",
+    "sec_changed_date": "20200813",
+    "sec_accepted_date": "20200813100419",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/721371/000072137120000089/0000721371-20-000089-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/721371/000072137120000089/0000721371-20-000089.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\004\CAH_0000721371_10K_20200630_Item7_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3569576 chars",
+    "document_group": "10-K",
+    "section_name": "Item7",
+    "section_n_characters": 74969,
+    "endpoints": [
+        "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+        "Quantitative and Qualitative Disclosures About Market Risk"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "CAH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0014\004\CAH_0000721371_10K_20200630_Item7_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 14,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:58:20.997894",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 18:23:01.872050"
+}

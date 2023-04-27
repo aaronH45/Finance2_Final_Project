@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001000228",
+    "sec_company_name": "HENRY SCHEIN INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190220",
+    "sec_filing_date": "20190220",
+    "sec_changed_date": "20190220",
+    "sec_accepted_date": "20190220072454",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1000228/000100022819000012/0001000228-19-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1000228/000100022819000012/0001000228-19-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\HSIC_0001000228_8K_20190220_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "34457 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2878,
+    "endpoints": [
+        "UNITED STATES ",
+        "  99.1   Press Release dated February 20, 2019."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HSIC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\HSIC_0001000228_8K_20190220_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:57:17.368352"
+}

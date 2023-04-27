@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000007323",
+    "sec_company_name": "ENTERGY ARKANSAS, LLC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220223",
+    "sec_filing_date": "20220223",
+    "sec_changed_date": "20220223",
+    "sec_accepted_date": "20220223072816",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/65984/000006598422000013/0000065984-22-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/65984/000006598422000013/0000065984-22-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ETR_0000007323_8K_20220223_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "119674 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4062,
+    "endpoints": [
+        "xml version='1.0' ? etr-20220223",
+        "Dated: February 23, 2022"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ETR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ETR_0000007323_8K_20220223_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:20:36.504952"
+}

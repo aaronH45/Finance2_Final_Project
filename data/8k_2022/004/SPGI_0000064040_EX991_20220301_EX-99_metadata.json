@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000064040",
+    "sec_company_name": "S&P Global Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220301",
+    "sec_filing_date": "20220301",
+    "sec_changed_date": "20220301",
+    "sec_accepted_date": "20220301084132",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312522059987/0001193125-22-059987-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312522059987/0001193125-22-059987.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\SPGI_0000064040_EX991_20220301_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "27507 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13076,
+    "endpoints": [
+        "EX-99.1   ",
+        " problem due to a hurricane, flood, earthquake, terrorist attack, war, pandemic, security breach, cyber-attack, data breach, power loss, telecommunications failure or other natural or man-made event, including the ability to function remotely during long-term disruptions such as the COVID-19 pandemic; (vii) the impact of public health crises, such as pandemics (including the COVID-19 pandemic) and epidemics and any related company or governmental policies and actions to protect the health and safety of individuals or governmental policies or actions to maintain the functioning of national or global economies and markets, including any quarantine, “shelter in place,” “stay at home,” workforce reduction, social distancing, shut down or similar actions and policies; (viii) the outcome of any potential litigation, government and regulatory proceedings, investigations and inquiries; (ix) changes in debt and equity markets, including credit quality and spreads; (x) demand for investment products that track indices and assessments, and trading volumes of certain exchange-traded derivatives; (xi) changes in financial markets, capital, credit and commodities markets and interest rates; (xii) the possibility that the integration of IHS Markit may be more expensive to complete than anticipated, including as a result of unexpected factors or events; (xiii) the parties’ ability to meet expectations regarding the accounting and tax treatments of the proposed transaction; (xiv) the outcome of the Exchange Offers and Consent Solicitations; and (xv) those additional risks and factors discussed in reports filed with the Securities and Exchange Commission by the Company and IHS Markit from time to time, including those discussed under the heading “Risk Factors” in their respective most recently filed Annual Reports on Form 10-K and subsequent Quarterly Reports on Form 10-Q. While the list of factors presented here is considered representative, this list should not be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on the Company’s or IHS Markit’s consolidated financial condition, results of operations, credit rating or liquidity. Except to the extent required by applicable law or regulation, each of the Company and IHS Markit disclaims any duty to update any forward-looking statements contained in this communication or to otherwise update any of the above-referenced factors."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPGI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\SPGI_0000064040_EX991_20220301_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:31:02.362018"
+}

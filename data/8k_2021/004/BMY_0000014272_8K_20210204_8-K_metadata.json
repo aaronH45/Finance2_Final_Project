@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000014272",
+    "sec_company_name": "BRISTOL MYERS SQUIBB CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210204",
+    "sec_filing_date": "20210204",
+    "sec_changed_date": "20210204",
+    "sec_accepted_date": "20210204080433",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/14272/000001427221000058/0000014272-21-000058-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/14272/000001427221000058/0000014272-21-000058.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\BMY_0000014272_8K_20210204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "48175 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3352,
+    "endpoints": [
+        "xml version='1.0' ? bmy-20210204",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BMY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\BMY_0000014272_8K_20210204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:12:08.250967"
+}

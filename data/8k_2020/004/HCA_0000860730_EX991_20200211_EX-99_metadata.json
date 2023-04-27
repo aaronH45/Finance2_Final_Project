@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000860730",
+    "sec_company_name": "HCA Healthcare, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200211",
+    "sec_filing_date": "20200211",
+    "sec_changed_date": "20200211",
+    "sec_accepted_date": "20200211075340",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312520030658/0001193125-20-030658-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/860730/000119312520030658/0001193125-20-030658.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\HCA_0000860730_EX991_20200211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7606 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3926,
+    "endpoints": [
+        "EX-99.1   ",
+        "and its affiliates."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HCA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\HCA_0000860730_EX991_20200211_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:48:41.567365"
+}

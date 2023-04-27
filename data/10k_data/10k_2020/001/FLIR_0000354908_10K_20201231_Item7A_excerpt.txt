@@ -1,0 +1,21 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Foreign Currency Exchange Rate Risk
+
+We have assets and liabilities outside the United States that are subject to fluctuations in foreign currency exchange rates. Similarly, certain revenues from products sold in countries outside the United States and costs associated with non-United States operations are denominated in foreign currencies. For more information on our foreign currency translation, see Note 1, "Nature of Business and Significant Accounting Policies," to the Consolidated Financial Statements in Item 8. Assets and liabilities located outside the United States are primarily located in Europe. Our investments in subsidiaries outside the United States with functional currencies other than the United States dollar are considered long-term. We currently engage in forward currency exchange contracts and other similar hedging activities to reduce our economic exposure to changes in exchange rates. At December 31, 2020 and 2019, exchange contracts with a notional amount of approximately $297.0 million and $444.8 million, respectively, were outstanding. Because we market, sell and license our products throughout the world, we could be adversely affected by weak economic conditions in international markets that could reduce demand for our products.
+
+Our net investment in subsidiaries outside the United States, translated into United States dollars using the period-end exchange rates, was approximately $960.8 million at December 31, 2020. The potential loss in fair value resulting from a hypothetical 10 percent adverse change in foreign exchange rates would be approximately $96.1 million at December 31, 2020. The potential loss in fair value is primarily due to the increase in the net investment of subsidiaries outside the United States. We have no plans to liquidate any of our subsidiaries outside the United States, and therefore, foreign exchange rate gains or losses on our international investments are reflected as a cumulative translation adjustment and do not increase or reduce our reported net earnings.
+
+Interest Rate Risk
+
+The Company’s exposure to changes in market interest rates relates primarily to interest paid on the Company’s outstanding floating rate debt. The Company’s outstanding floating rate debt consists of amounts borrowed under our revolving loan facility as well as outstanding term loans. These borrowings bear interest at the respective Eurocurrency rate (e.g., LIBOR) plus a scheduled spread. Fluctuations in market interest rates will cause interest expense increases or decreases on such outstanding debt.
+
+As our risk management objectives include mitigating the risk of changes in cash flows attributable to changes in the designated three-month Eurocurrency rate on the Company’s Swedish kronor term loan, the Company entered into a floored interest rate swap for the aggregate notional amount borrowed; changes in the cash flows of the interest rate swap is expected to exactly offset the changes in cash flows attributable to fluctuations in the three-month Eurocurrency-based interest payments. The net effect of the swap is to convert the floating interest rate basis to a fixed rate of 0.59 percent.
+
+On December 4, 2020 the ICE Benchmark Administration ("IBA") published its consultation on its intent to cease publication of certain USD LIBOR tenors along with all tenors of EUR, CHF, GBP and JPY LIBOR after December 31, 2021. Pursuant to this consultation, a complete phase out of all tenors of USD LIBOR is expected on or around June 30, 2023. Market participants were eligible to provide feedback through January 25, 2021. While management believes that the Company exposure to market risk associated with the discontinuation of LIBOR is limited because the Notes carry a fixed-rate coupon and the unsecured credit facility agreement includes provisions for a successor rate, the consequences of these developments cannot be entirely predicted or reasonably estimated.
+
+See Liquidity and Capital Resources in Item 7, Note 4, "Derivative Financial Instruments" and Note 11, "Debt" to the Consolidated Financial Statements in Item 8 for additional information on the Company's debt and interest rate risk.
+
+48
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

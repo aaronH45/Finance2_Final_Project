@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000723125",
+    "sec_company_name": "MICRON TECHNOLOGY INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150129",
+    "sec_filing_date": "20150129",
+    "sec_changed_date": "20150129",
+    "sec_accepted_date": "20150129071808",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/723125/000110465915005183/0001104659-15-005183-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/723125/000110465915005183/0001104659-15-005183.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\MU_0000723125_EX991_20150129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2396 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 767,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "     Adjusted EBITDA Reconciliation Amounts in millions FQ1-15 FQ2-14 to FQ1-15 Net Income $ 1,002 $ 3,700 Interest expense, net 83 316 Income tax provision 75 123 Depreciation expense and amortization of intangible assets 643 2,255 EBITDA 1,803 6,394 Equity in net income of equity method investees (124) (512) Restructure and asset impairments 1 44 (Gain) from asset dispositions (6) (4) Loss from changes in currency exchange rates 21 43 Stock-based compensation 35 128 Adjustment to gain on Elpida acquisition - 33 Flow-through of Elpida inventory step up - 42 Loss on restructure of debt 30 139 (Gain) on Inotera issuance of shares - (93) (Gain) from disposition of shares in Aptina (1) (120) Legal settlements - 66 Adjusted EBITDA $ 1,759 $ 6,160"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\MU_0000723125_EX991_20150129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:21:12.863525"
+}

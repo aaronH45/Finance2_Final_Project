@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000313616",
+    "sec_company_name": "DANAHER CORP /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170110",
+    "sec_filing_date": "20170110",
+    "sec_changed_date": "20170110",
+    "sec_accepted_date": "20170110080032",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/313616/000119312517006335/0001193125-17-006335-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/313616/000119312517006335/0001193125-17-006335.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DHR_0000313616_8K_20170110_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "21806 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3610,
+    "endpoints": [
+        "Form 8-K   ",
+        "99.1   Selected Danaher Presentation Slides for J. P. Morgan Healthcare Conference on January 10, 2017"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DHR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DHR_0000313616_8K_20170110_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:01:59.045665"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170126",
+    "sec_filing_date": "20170126",
+    "sec_changed_date": "20170126",
+    "sec_accepted_date": "20170126075049",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799617000008/0000037996-17-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799617000008/0000037996-17-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\F_0000037996_EX99_20170126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "49235 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34949,
+    "endpoints": [
+        "pressreleaseforearnings8  ",
+        "Ford Motor Company 4Q January 26, 2017 13 N E T I N C O M E R E C O N C I L I AT I O N T O A D J U S T E D P R E - TA X P R O F I T T O TA L C O M PA N Y S P E C I A L I T E M S * Includes related tax effect on special items and tax special items (Mils) 4Q FY 2015 2016 2015 2016 Pension and OPEB Remeasurement Gain / (Losses) Year End Net Pension and OPEB Remeasurement Loss $ (698) $ (2,985) $ (698) $ (2,985) Other Pension Remeasurement Loss -- -- -- (11) Separation-related actions $ -- $ (11) $ -- $ (304) Other Items Nemak IPO $ (16) $ -- $ 150 $ -- San Luis Potosi Plant Cancellation -- (199) -- (199) Japan Indonesia Market Closure -- (54) -- (80) Total Other Items $ (16) $ (253) $ 150 $ (279) Total Pre-tax Special Items $ (714) $ (3,249) $ (548) $ (3,579) Tax Special Items $ 263 $ 1,248 $ 205 $ 1,121 Memo: Special items impact on earnings per share* $ (0.11) $ (0.50) $ (0.09) $ (0.61) (Mils) 4Q FY 2015 2016 2015 2016 Net income / (loss) attributable to Ford (GAAP) $ 1,868 $ (783) $ 7,373 $ 4,596 Income / (loss) attributable to non-controlling interests (4) 2 (2) 11 Net income / (loss) $ 1,864 $ (781) $ 7,371 $ 4,607 Less: (Provision for) / Benefit from income taxes (32) 336 (2,881) (2,189) Inco e / (Loss) before income taxes $ 1,896 $ (1,117) $ 10,252 $ 6,796 Less: Special items pre-tax (714) (3,249) (548) (3,579) Adjusted pre-tax profit (Non-GAAP) $ 2,610 $ 2,132 $ 10,800 $ 10,375"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\F_0000037996_EX99_20170126_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:06:38.273317"
+}

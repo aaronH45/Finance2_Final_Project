@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200228",
+    "sec_filing_date": "20200228",
+    "sec_changed_date": "20200228",
+    "sec_accepted_date": "20200228165542",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000219/0000072971-20-000219-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000007297120000219/0000072971-20-000219.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200228_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7316 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5908,
+    "endpoints": [
+        "exhibit991liquidation   ",
+        "as the trustee under the indenture pursuant to which the Debentures due 2029 were issued, through the facilities and following the procedures of The Depository Trust Company. The next scheduled interest payment on each series of Debentures after the Liquidation Date will include any accrued and unpaid distributions on the corresponding series of Capital Securities. About Wells Fargo Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, investment and mortgage products and services, as well as consumer and commercial finance, through 7,400 locations, more than 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 32 countries and territories to support customers who conduct business in the global economy. With approximately 260,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 29 on Fortune’s 2019 rankings of America’s largest corporations. Cautionary Statement about Forward-Looking Statements This news release contains forward-looking statements about our future financial performance and business. Because forward-looking statements are based on our current expectations and assumptions regarding the future, they are subject to inherent risks and uncertainties. Do not unduly rely on forward-looking statements as actual results could differ materially from expectations. Forward-looking statements speak only as of the date made, and we do not undertake to update them to reflect changes or events that occur after that date. For information about factors that could cause actual results to differ materially from our expectations, refer to our reports filed with the Securities and Exchange Commission, including the discussion under “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2019, available on its website at www.sec.gov. Contact Information Media Ancel Martinez, 415-222-3858 Ancel.Martinez@wellsfargo.com Investor Relations John Campbell, 415-396-0523 John.M.Campbell@wellsfargo.com ### US.126278565.04"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\WFC_0000072971_EX991_20200228_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:49:20.722039"
+}

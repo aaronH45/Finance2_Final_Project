@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150225",
+    "sec_changed_date": "20150225",
+    "sec_accepted_date": "20150225080318",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375115000075/0000093751-15-000075-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375115000075/0000093751-15-000075.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\STT_0000093751_EX991_20150225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "86264 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 62220,
+    "endpoints": [
+        "finalprintpresentationin  ",
+        "54 Appendix: Non-GAAP measures 2014 vs. (Dollars in millions, except per share amounts) 2013 Income Before Income Tax Expense: Income before income tax expense, GAAP basis $ 2,458 $ 2,686 (8.5) % Net pre-tax effect of non-operating adjustments to revenue and expenses 746 343 Income before income tax expense, operating basis $ 3,204 $ 3,029 5.8 Pre-tax operating margin(2): Pre-tax operating margin, GAAP basis 23.9 % 27.2 % Net effect of non-operating adjustments 6.2 2.9 Pre-tax operating margin, operating basis 30.1 % 30.1 % Diluted Earnings per Common Share: Diluted earnings per common share, GAAP basis $ 4.57 $ 4.62 (1.1) Severance costs .13 .02 Provisions for litigation exposure and other costs, net .34 .09 Acquisition costs .09 .11 Restructuring charges, net .11 .04 Discount accretion related to former conduit securities (.17) (.18) Out-of-period income tax benefit to adjust deferred taxes - (.16) Italian banking industry tax assessment .02 - Diluted earnings per common share, operating basis $ 5.09 $ 4.54 12.1 Return on Average Common Equity: Return on average common equity, GAAP basis 9.8 % 10.5 % (70) bps Severance costs .3 - Provisions for litigation exposure and other costs, net .7 .2 Acquisition costs .2 .3 Restructuring charges, net .2 .1 Discount accretion related to former conduit securities (.4) (.4) Out-of-period income tax benefit to adjust deferred taxes - (.4) Italian banking industry tax assessment .1 - Return on average common equity, operating basis 10.9 % 10.3 % 60 (2) Pre-tax operating margin for the years ended December 31, 2014 and 2013 was calculated by dividing income before income tax expense by total revenue. % Change December 31, December 31, The foregoing presentation presents financial information prepared on a GAAP as well as on an operating basis. The following tables reconcile operating-basis financial information presented in the presentation to financial information prepared and reported in conformity with GAAP. Years Ended 2014 2013 Management believes that operating-basis financial information, which reports revenue from non-taxable sources, such as interest revenue from tax-exempt investment securities and processing fees and other revenue associated with tax-advantaged investments, on a fully taxable-equivalent basis and excludes the impact of revenue and expenses outside of State Street's normal course of business, facilitates an investor's understanding and analysis of State Street's underlying financial performance and trends in addition to financial information prepared and reported in conformity with GAAP. Non-GAAP financial measures should be considered in addition to, not as a substitute for or superior to, financial measures determined in conformity with GAAP. In addition to presenting State Street’s financial results in conformity with U.S. generally accepted accounting principles, referred to as GAAP, management also presents results on a non-GAAP, or 'operating' basis, as it believes that this presentation supports meaningful comparisons from period to period and the analysis of comparable financial trends with respect to State Street’s normal ongoing business operations."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\STT_0000093751_EX991_20150225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:40:01.329938"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001020569",
+    "sec_company_name": "IRON MOUNTAIN INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160225",
+    "sec_filing_date": "20160225",
+    "sec_changed_date": "20160225",
+    "sec_accepted_date": "20160225060704",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1020569/000110465916099729/0001104659-16-099729-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1020569/000110465916099729/0001104659-16-099729.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IRM_0001020569_EX991_20160225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "130871 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 85120,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Appendix Definitions (continued) REIT Costs – Includes costs associated with our 2011 proxy contest, costs associated with the Company’s conversion to a REIT, excluding REIT compliance costs beginning January 1, 2014 which we expect to recur in future periods. REIT Countries – Countries where we operate that have been converted into a Qualified REIT Subsidiary and Taxable REIT Subsidiary structure, the group includes the following: Australia, Canada, Germany, Ireland, Mexico, Netherlands, Poland, Spain, United Kingdom and the United States. Service Profit and Margin – The Gross Profit and Margin attributable to the worldwide service business. Calculated as follows: Services Adj. OIBDA + Allocated Overhead Expenses + Termination and Permanent Withdrawal Fees = Service Profit ($) / Total Service Revenues (including Termination and Permanent Withdrawal Fees) = Service Margin (%) Storage Profit and Margin – The Gross Profit and Margin attributable to the worldwide storage business. Calculated as follows: Storage Net Operating Income + Allocated Overhead Expenses - Storage Rent - Termination and Permanent Withdrawal Fees = Storage Profit ($) / Total Storage Revenues (excluding Termination and Permanent W ithdrawal Fees) = Storage Margin (%) Tangible Assets – Includes PP&E, cash and cash equivalents, restricted cash, accounts receivable, deferred income taxes, and prepaid expenses. Total Expected Investment – Is defined as follows: Total Expected Investment for Racking Installations – The sum of expected investments for all approved racking projects, reported on a constant dollar basis. Total Expected Investment for Building Development Projects – The sum of expected investments for all approved building projects, including the expected costs of approved racking installations, reported on a constant dollar basis. Volume Retention Rate – One minus the result of dividing the total number of cubic feet of records removed from inventory due to customer terminations in a one-year period by the total number of cubic feet of records in storage at the beginning of the period. www.ironmountain.com Selected metric definitions are available in the Appendix 49"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IRM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IRM_0001020569_EX991_20160225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:52:17.886024"
+}

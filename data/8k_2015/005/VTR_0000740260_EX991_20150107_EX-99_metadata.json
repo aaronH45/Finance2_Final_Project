@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000740260",
+    "sec_company_name": "VENTAS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150107",
+    "sec_filing_date": "20150107",
+    "sec_changed_date": "20150107",
+    "sec_accepted_date": "20150107171546",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/740260/000089882215000011/0000898822-15-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/740260/000089882215000011/0000898822-15-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\VTR_0000740260_EX991_20150107_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11242 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8318,
+    "endpoints": [
+        "EXHIBIT 99.1",
+        "Ventas and HCT and their respective directors and executive officers may be deemed participants in the solicitation of proxies from HCT's stockholders in respect of the proposed transaction. Information regarding Ventas's directors and executive officers can be found in Ventas's definitive proxy statement for Ventas's 2014 annual meeting of stockholders, filed with the SEC on April 4, 2014. Information regarding HCT's directors and executive officers can be found in HCT's definitive proxy statement for HCT's 2014 annual meeting of stockholders, filed with the SEC on April 28, 2014. Additional information regarding the interests of such potential participants has been included in the registration statement and the definitive proxy statement/prospectus and other relevant documents filed with the SEC in connection with the proposed transaction. These documents are available free of charge on the SEC's website and from Ventas or HCT, as applicable, using the sources indicated above."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VTR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\VTR_0000740260_EX991_20150107_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:36.070828"
+}

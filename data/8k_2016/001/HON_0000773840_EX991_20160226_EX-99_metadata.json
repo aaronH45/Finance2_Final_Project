@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000773840",
+    "sec_company_name": "HONEYWELL INTERNATIONAL INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160226",
+    "sec_filing_date": "20160226",
+    "sec_changed_date": "20160226",
+    "sec_accepted_date": "20160226134331",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/773840/000093041316005702/0000930413-16-005702-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/773840/000093041316005702/0000930413-16-005702.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\HON_0000773840_EX991_20160226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "25759 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 12509,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "DETAILS OF VALUE CREATION FOR UTX 10 Notes Figures above rounded. Calculation results based on non-rounded numbers. (a) Closing Price as of 2/18/16. (b) Assumes fully diluted shares of 833.0 at closing price and 839.9 at offer price. (c) 40% ownership based on 515.7 shares of 1,300.2 total pro forma HON shares. (d) Net income based on current median 2016 consensus for both companies. (e) Assumes 26.0% tax rate on incremental interest and synergies. (f) Assumes $35.8bn incremental debt raised in the transaction at 3.75% interest rate. (g) Includes interest impact (3.75% interest rate) of funding of $5.6bn total pre-tax cost to achieve synergies. HONEYWELL CONFIDENTIAL Immediate Premium + Cash UTX Per Share ($) (b) Aggregate ($bn) Closing Price (2/18/16) $88.36 $73.6 Offer UTX shareholders receive cash $42.63 $35.8 UTX shareholders receive shares (0.614x HON Price of $106.47 (a) ) 65.37 54.9 Total Consideration $108.00 $90.7 % premium vs. 2/18/16 Close +22% % premium vs. 10 - Day VWAP +24% Shares in HON 515.7 % Ownership (c) 40% Significant Shareholder Value Creation Value to UTX Value of NewCo Per Share ($) (b) Aggregate ($bn) UTX 2016 Consensus Net Income (d) $5.4 Cash $42.63 $35.8 HON 2016 Consensus Net Income (d) 5.2 Share of HON Stock 91.53 76.9 Synergies Before Tax 3.5 Total $134.16 $112.7 (Less): Interest and Taxes (e)(f)(g) (2.1) Pro Forma Net Income $12.0 Total Value Uplift $45.80 $39.1 HON 2016E P/E 16.1x Total Value Uplift (%) +52% Pro Forma HON Equity Value $193.8 Pro Forma HON Shares Outstanding 1,300.2 Pro Forma HON Equity Value per Share $149.08 UTX per - share value = 0.614 x $149.08 $91.53"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HON",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\HON_0000773840_EX991_20160226_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:44:41.449238"
+}

@@ -1,0 +1,91 @@
+xml version="1.0" encoding="utf-8"?              
+
+   0000849399 false        0000849399   2020-01-29 2020-01-30    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (Date of Earliest Event Reported): January 30, 2020 
+
+NortonLifeLock Inc. 
+
+(Exact Name of Registrant as Specified in Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s Telephone Number, Including Area Code (650) 527-8000 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ¨Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 1.01 Entry into a Material Definitive Agreement. 
+
+As previously reported, NortonLifeLock Inc. (the “Company”) entered into (i) an investment agreement, dated as of February 3, 2016, as amended by that First Amendment to Investment Agreement, dated as of March 2, 2016, that Second Amendment to Investment Agreement, dated as of June 12, 2016 and that Third Amendment to Investment Agreement, dated as of November 11, 2019 (as amended, modified or supplemented, the “2.50% Notes Investment Agreement”), relating to the issuance of $500 million aggregate principal amount of 2.50% convertible unsecured notes due 2021 (the “Existing 2.50% Notes”) and (ii) an investment agreement, dated as of June 12, 2016, as amended by that First Amendment to Investment Agreement, dated as of July 31, 2016 and that that Second Amendment to Investment Agreement, dated as of November 11, 2019 (as amended, modified or supplemented, the “2.00% Notes Investment Agreement” and, together with the 2.50% Notes Investment Agreement, the “Investment Agreements”), relating to the issuance to the Purchasers of $1.25 billion aggregate principal amount of 2.00% convertible unsecured notes due 2021 (the “Existing 2.00% Notes”). In connection with the original issuance of (i) the Existing 2.50% Notes, the Company and Wells Fargo Bank, National Association, as trustee (“Wells Fargo”), previously entered into an Indenture, dated as of March 4, 2016 (the “Existing 2.50% Notes Indenture”), and (ii) the 2.00% Notes, the Company and Wells Fargo previously entered into an Indenture, dated as of August 1, 2016 (the “Existing 2.00% Notes Indenture” and, together with the Existing 2.50% Notes Indenture, the “Existing Indentures”). 
+
+Pursuant to the terms of the Investment Agreements, on November 11, 2019, it was agreed that following payment by the Company of the Special Dividend (as defined below), the Company would make a payment (the “Special Payment”) of $12.00 for each share underlying $250 million of the $500 million outstanding principal amount of the Existing 2.50% Notes, and $12.00 for each share underlying $625 million of the $1,250 million outstanding principal amount of the Existing 2.00% Notes, in each case in lieu of the adjustment to the conversion price of those Notes that would otherwise result from the Special Dividend. The remaining notes would receive a conversion price adjustment with respect to such Special Dividend (the “Conversion Price Adjustment”). To facilitate this treatment with respect to the Special Dividend, the parties agreed to the exchange of $250 million of the $500 million outstanding principal amount of the Existing 2.50% Notes for new notes (the “New 2.50% Notes”) and $625 million of the $1,250 million outstanding principal amount of the Existing 2.00% Notes for new notes (the “New 2.00% Notes” and, together with the New 2.50% Notes, the “New Notes”), which New Notes would be issued on substantially the same terms as the notes for which they were exchanged, except with respect to adjustments to the conversion price and the prices and adjustments in the tables set forth in the Existing Indentures that apply in the event of a make-whole fundamental change (the “Exchange”). 
+
+On January 30, 2020, prior to the Special Dividend and Exchange and pursuant to the terms of the 2.50% Notes Investment Agreement, the Existing 2.50% Notes Indenture was amended pursuant to a First Supplemental Indenture to, among other things (i) extend the maturity date by one year (to April 1, 2022), (ii) limit the right of the holders of the Existing 2.50% Notes to convert the Existing 2.50% Notes prior to the date that is six months prior to the extended maturity date (subject to certain exceptions described therein), (iii) remove the Company’s redemption right thereunder, (iv) remove the right of the holders to require the Company to repurchase the Existing 2.50% Notes in the year preceding the maturity date, and (v) revise the prices and adjustments in the table set forth therein that apply in the event of a make-whole fundamental change to account for the extension of the maturity of the Existing 2.50% Notes and to account for the Conversion Price Adjustment (the “2.50% Notes Supplemental Indenture”). 
+
+Similarly, on January 30, 2020, prior to the Special Dividend and Exchange and pursuant to the terms of the 2.00% Notes Investment Agreement, the Existing 2.00% Notes Indenture was amended pursuant to a First Supplemental Indenture to, among other things, (i) extend the maturity date by one year (to August 15, 2022), (ii) limit the right of the holders to convert the Existing 2.00% Notes prior to the date that is six months prior to the extended maturity date (subject to certain exceptions described therein), and (iii) revise the prices and adjustments in the table set forth therein that apply in the event of a make-whole fundamental change to account for the extension of the maturity of the Existing 2.00% Notes and to account for the Conversion Price Adjustment (the “2.00% Notes Supplemental Indenture” and, together with the 2.50% Notes Supplemental Indenture, the “Supplemental Indentures”).  
+
+On January 31, 2020, the Company paid a special dividend in an amount of $12.00 per share to the holders of the Company’s Common Stock on January 31, 2020 (the “Special Dividend”). 
+
+On February 4, 2020, in connection with the Special Dividend, the Company (i) paid the Special Payment, (ii) consummated the Exchange, (iii) issued the New Notes, and (iv) entered into two new indentures with Wells Fargo, one relating to the issuance of the New 2.50% Notes (the “New 2.50% Notes Indenture”) and the other relating to the issuance of the New 2.00% Notes (the “New 2.00% Notes Indenture” and, together with the New 2.50% Notes Indenture, the “New Indentures”). 
+
+The New 2.50% Notes bear interest at a rate of 2.50% per annum, payable semiannually in arrears in cash on April 1 and October 1 of each year, beginning on April 1, 2020. The New 2.50% Notes will mature on April 1, 2022 subject to earlier conversion. The New 2.00% Notes bear interest at a rate of 2.00% per annum, payable semiannually in arrears in cash on February 15 and August 15 of each year, beginning on August 15, 2020. The New 2.00% Notes will mature on August 15, 2022 subject to earlier conversion. 
+
+The New Notes are senior unsecured obligations of the Company and rank equal in right of payment to all senior unsecured indebtedness of the Company, and will rank senior in right of payment to any indebtedness that is contractually subordinated to the New Notes. 
+
+The New Notes are convertible into cash, shares of Common Stock or a combination of cash and Common Stock, at the Company’s option, at an initial conversion rate for the New 2.50% Notes of 59.6341 per $1,000 principal amount of the New 2.50% Notes (which represents an initial conversion price of approximately $16.7689 per share) and an initial conversion rate for the New 2.00% Notes of 48.9860 per $1,000 principal amount of the New 2.00% Notes (which represents an initial conversion price of approximately $20.4140 per share), in each case subject to certain limitations and certain adjustments determined in the manner set forth in the New Indentures. Holders of New Notes that are converted in connection with a Make-Whole Fundamental Change (as defined in the New Indentures), are, under certain circumstances, entitled to an increase in the conversion rate for such New Notes based on the effective date of such event and the applicable price attributable to the event as set forth in a table contained in the New Indentures. The definition of Make-Whole Fundamental Change includes a sale of substantially all the Company’s assets, a change of the control of the Company by way of a tender offer, merger or similar event, and the adoption of a plan relating to the Company’s liquidation or dissolution. 
+
+With certain exceptions, upon a change of control of the Company, the holders of the New Notes may require that the Company repurchase all or part of the principal amount of the New Notes at a purchase price equal to the principal amount plus accrued and unpaid interest. 
+
+The New Indentures include customary events of default that are consistent with those in the Existing Indentures. 
+
+The foregoing description of the Supplemental Indentures, New Indentures and the New Notes is qualified in its entirety by reference to the Supplemental Indentures, New Indentures and the forms of New Notes, which will be filed as exhibits to the Company’s Annual Report on Form 10-K for the fiscal year ending April 3, 2020.  
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant. 
+
+The information contained in Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 2.03. 
+
+Item 3.02 Unregistered Sales of Equity Securities. 
+
+The information contained in Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.02. 
+
+The Exchange was effected in reliance upon an exemption from registration under Section 3(a)(9) of the Securities Act of 1933, as amended. 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

@@ -1,0 +1,95 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, DC 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (Date of earliest event reported): February 27, 2018  
+
+Western Digital Corporation  
+
+(Exact Name of Registrant as Specified in its Charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+5601 Great Oaks Parkway 
+
+San Jose, California   95119 
+
+ (Address of Principal Executive Offices)   (Zip Code)  
+
+(408) 717-6000  
+
+(Registrant’s Telephone Number, Including Area Code)  
+
+Not applicable  
+
+(Former name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).  
+
+Emerging growth company ☐  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+ Item 1.01. Entry into a Material Definitive Agreement  
+
+On February 27, 2018, Western Digital Corporation, a Delaware corporation (“Western Digital”), entered into an amendment agreement (“Amendment No. 7”) among Western Digital, JPMorgan Chase Bank, N.A., as administrative agent and collateral agent (the “Agent”), the lenders party thereto and the other loan parties party thereto.  
+
+Amendment No. 7 amends the Loan Agreement dated as of April 29, 2016, as amended by Amendment No. 1 dated as of August 17, 2016, Amendment No. 2 dated as of September 22, 2016, Amendment No. 3 dated as of March 14, 2017, Amendment No. 4 dated as of March 23, 2017, Amendment No. 5 dated as of November 8, 2017 and Amendment No. 6 dated as of November 29, 2017 (as amended (including by Amendment No. 7), the “Loan Agreement”), among Western Digital, the lenders party thereto from time to time and the Agent to provide for, among other things, (i) repayment of all outstanding term A loans due 2021 (the “2021 Term A Loans”) with the proceeds of new term A-1 loans due 2023 in a principal amount of $4,021,875,000, (ii) $1.0 billion of incremental term A-1 loans (the “Incremental Term A-1 Loans” and, together with the new term A-1 loans due 2023 described in clause (i), the “Term A-1 Loans”), (iii) a replacement of the existing $1.5 billion revolving credit facility maturing in 2021 with a new 5-year $1.5 billion revolving credit facility, (iv) an increase to the size of the new 5-year revolving credit facility described in clause (iii) by $750 million for an aggregate revolving credit facility maturing in 2023 of $2.25 billion (the “2023 Revolving Facility”), (v) more covenant flexibility, modifications to the financial maintenance covenants and the incremental facilities and (vi) a release of the security and guarantees, additional covenant flexibility and changes to incremental facilities in certain circumstances.  
+
+The proceeds of the Incremental Term A-1 Loans, together with Western Digital’s cash on hand and the proceeds of its 1.50% convertible senior notes due 2024, were used to redeem its outstanding 7.375% senior secured notes due 2023 in full and to, among other things, pay fees and expenses related to these transactions. The proceeds of $500.0 million of revolving loans drawn under the 2023 Revolving Facility were used to fund a voluntary prepayment of Western Digital’s existing U.S. Dollar denominated term B-3 loans.  
+
+The Term A-1 Loans bear interest, at Western Digital’s option, at a per annum rate equal to either (x) an adjusted LIBOR rate plus an applicable margin varying from 1.125% to 2.000% or (y) a base rate plus an applicable margin varying from 0.125% to 1.000%, in each case depending on the corporate family ratings of Western Digital from at least two of Standard & Poor’s Ratings Services (“S&P”), Moody’s Investors Service, Inc. (“Moody’s) and Fitch, Inc. (“Fitch”), with an initial interest rate of LIBOR plus 1.50%. The Term A-1 Loans will amortize in equal quarterly installments of (i) 0.625% per quarter during the first through the fourth full fiscal quarters following the date of Amendment No. 7 (the “Amendment No. 7 Effective Date”) and (ii) 1.25% per quarter for the fifth through the nineteenth full fiscal quarters following the Amendment No. 7 Effective Date, with the remaining balance payable on the date that is five years after the Amendment No. 7 Effective Date.  
+
+Loans under the 2023 Revolving Facility bear interest at a rate of LIBOR plus an applicable margin varying from 1.125% to 2.000% depending on the corporate family ratings of Western Digital from at least two of S&P, Moody’s and Fitch, with an initial rate of LIBOR plus 1.50%. Western Digital will also pay an unused commitment fee on the 2023 Revolving Facility ranging from 0.120% to 0.350% based on the corporate family ratings of Western Digital from at least two of S&P, Moody’s and Fitch, with an initial unused commitment fee of 0.250%.  
+
+The Term A-1 Loans and the 2023 Revolving Facility are unconditionally guaranteed by each of the guarantors under the Loan Agreement and are secured on a first-priority basis (subject to permitted liens) by a lien on the same collateral that secure the other loans under the Loan Agreement; provided that the security and guarantees will be automatically suspended (a “Collateral and Guarantee Suspension”) upon the following conditions: (x) Western Digital achieving a corporate family rating of at least Ba1/BB+/BB+ from at least two of S&P, Moody’s and Fitch, (y) repayment of all term B loans under the Loan Agreement and (z) Western Digital has no other secured indebtedness or non-guarantor indebtedness for borrowed money (excluding certain capital leases, sale-leasebacks and other indebtedness up to a specified amount) in excess of the greater of $2.0 billion and 12.5% of its  
+
+ consolidated total assets. In addition, during a Collateral and Guarantee Suspension, certain provisions of the Loan Agreement will be in effect (the “Unsecured Covenants Package”) that will provide for, among other things, additional covenant flexibility, incremental capacity of $2.0 billion and removal of the mandatory prepayments in connection with non-ordinary course asset sales and other dispositions. The security and guarantees will be required to be reinstated and the Unsecured Covenants Package will no longer be in effect upon Western Digital’s corporate family rating falling below Ba2/BB/BB from at least two of S&P, Moody’s and Fitch.  
+
+Under the Loan Agreement, Western Digital has incremental facility capacity available after the Amendment No. 7 Effective Date of a fixed dollar amount of $1.5 billion (which amount shall reset after any Collateral and Guarantee Suspension) plus an unlimited amount subject to a 2.50:1.00 senior secured leverage ratio, subject to certain conditions; provided that during a Collateral and Guarantee Suspension, Western Digital’s incremental facility capacity shall instead be $2.0 billion.  
+
+The Term A-1 Loans and the 2023 Revolving Facility will be subject to financial maintenance covenants requiring Western Digital to maintain a maximum total leverage ratio (with step-ups in connection with certain qualified acquisitions) and a minimum interest coverage ratio.  
+
+The foregoing description of Amendment No. 7 is not intended to be complete and is qualified in its entirety by reference to Amendment No. 7, a copy of which is attached hereto as Exhibit 10.1, and incorporated herein by reference.  
+
+ Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant  
+
+The information set forth under Item 1.01 above regarding Amendment No. 7 is incorporated herein by reference.  
+
+ Item 7.01 Regulation FD Disclosure  
+
+Incorporated by reference is a press release issued by Western Digital on February 27, 2018, which is attached hereto as Exhibit 99.1. The press release is furnished and not filed, pursuant to Instruction B.2 of Form 8-K.  
+
+ Item 9.01. Financial Statements and Exhibits  
+
+(d) Exhibits  
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

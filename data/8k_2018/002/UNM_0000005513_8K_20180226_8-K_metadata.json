@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000005513",
+    "sec_company_name": "Unum Group (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180226",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180226",
+    "sec_accepted_date": "20180226173209",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/5513/000000551318000022/0000005513-18-000022-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/5513/000000551318000022/0000005513-18-000022.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\UNM_0000005513_8K_20180226_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "36382 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2937,
+    "endpoints": [
+        "Document   ",
+        "99.1News release of Unum Group dated February 26, 2018."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "UNM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\UNM_0000005513_8K_20180226_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:23:02.738431"
+}

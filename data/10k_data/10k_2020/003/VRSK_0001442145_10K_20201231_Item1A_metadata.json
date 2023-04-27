@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001442145",
+    "sec_company_name": "Verisk Analytics, Inc. (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210223",
+    "sec_changed_date": "20210223",
+    "sec_accepted_date": "20210223162020",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1442145/000143774921003789/0001437749-21-003789-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1442145/000143774921003789/0001437749-21-003789.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\VRSK_0001442145_10K_20201231_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3451340 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 41591,
+    "endpoints": [
+        "Item 1A.   Risk Factors     ",
+        "  Item 2.   Properties"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "VRSK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\VRSK_0001442145_10K_20201231_Item1A_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:13:11.347539"
+}

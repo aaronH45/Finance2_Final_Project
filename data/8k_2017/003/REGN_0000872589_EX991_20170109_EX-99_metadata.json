@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000872589",
+    "sec_company_name": "REGENERON PHARMACEUTICALS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170109",
+    "sec_filing_date": "20170109",
+    "sec_changed_date": "20170109",
+    "sec_accepted_date": "20170109172110",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/872589/000110465917001558/0001104659-17-001558-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/872589/000110465917001558/0001104659-17-001558.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\REGN_0000872589_EX991_20170109_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "51949 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25091,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "2017 FINANCIAL GUIDANCE1,2 30 $950MM - $1,025MM Non-GAAP Unreimbursed R&D: $1,175MM - $1,250MM Non-GAAP SG&A: This includes REGN incurred commercial-related expenses for Sanofi collaboration antibodies $400MM - $450MM Sanofi Reimbursement of Regeneron Commercialization-Related Expenses 32% - 38% Effective Tax Rate The 2017 guidance, provided on January 9th, 2017, does not assume the completion of any significant business development transactions not completed as of January 9th, 2017. Guidance does not factor financial impact from any ongoing Praluent litigation $375MM - $450MM Capital Expenditures The 2017 guidance, provided on January 9th, 2017, does not assume the completion of any significant business development transactions not completed as of January 9th, 2017. The 2017 guidance, provided on January 9th, 2017, assumes that Praluent® will remain on the market throughout 2017"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "REGN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\REGN_0000872589_EX991_20170109_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:09:54.090341"
+}

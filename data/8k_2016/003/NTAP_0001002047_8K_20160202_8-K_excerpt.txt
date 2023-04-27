@@ -1,0 +1,97 @@
+8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of Report (date of earliest event reported): February 2, 2016 (February 2, 2016)  
+
+NetApp, Inc.  
+
+(Exact name of Registrant as specified in its charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+495 East Java Drive  
+
+Sunnyvale, California 94089  
+
+(Address of principal executive offices, including zip code)  
+
+(408) 822-6000  
+
+(Registrant’s telephone number, including area code)  
+
+Not Applicable  
+
+(Former name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+ Item 1.01 Entry into a Material Definitive Agreement.  
+
+On February 2, 2016, NetApp, Inc., a Delaware corporation (the “Company”), entered into a Loan Agreement (as defined below) providing a term loan facility in an aggregate principal amount of $870.0 million. In addition, the Company entered into Amendment No. 1 (as defined below) amending the Credit Agreement, dated December 12, 2012, by and among the Company, the lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent (the “Revolving Credit Agreement”).  
+
+Term Loan Agreement  
+
+On February 2, 2016, the Company entered into a term loan agreement (the “Loan Agreement”), among the Company, Sonoma Holdings C.V., as Assuming Borrower, the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative agent. The Loan Agreement provides for an $870.0 million unsecured term loan, all of which was drawn on the closing date for the Loan Agreement. The term loan matures on November 2, 2016. The proceeds of the loans were used by the Company to finance the Company’s acquisition of SolidFire, Inc.  
+
+The Loan Agreement contemplates that, within 30 days of the closing date of the Loan Agreement, Sonoma Holdings C.V will assume all of the Company’s obligations as the borrower under the Loan Agreement. Following the assumption, the Company will continue to remain a party to the Loan Agreement (other than in its capacity as the borrower) and will continue to be subject to and bound by all of the Company’s representations, covenants, agreements and obligations (other than in its capacity as the borrower) under the Loan Agreement and the other loan documents entered into in connection with the Loan Agreement.  
+
+Loans under the Loan Agreement accrue interest at a base rate or, at the Company’s option, an adjusted LIBO rate (based on one, two, three or six-month interest periods) plus, in each case, a spread based on the ratings of the Company’s senior, unsecured, long-term indebtedness by Moody’s Investors Service, Inc. and Standard & Poor’s Rating Services. The base rate means the highest of (i) JPMorgan Chase Bank, N.A.’s prime rate, (ii) the greater of the federal funds rate and an overnight bank funding rate plus a margin equal to 0.50% and (iii) the adjusted LIBO rate for a 1-month interest period plus a margin equal to 1.00%. Interest on the loans is payable on the last day of each March, June, September and December and on the maturity date with respect to borrowings based on the base rate and at the end of an interest period in the case of borrowings based on the adjusted LIBO rate (or at each three month interval and on the maturity date if the interest period is longer than three months). The Company may, from time to time, elect to convert outstanding loans from one rate to another. In the case of an adjusted LIBO rate loan, the Company may elect to convert from one interest period to another. The Company may prepay the loans without premium or penalty, subject to certain conditions. However, the Company may not reborrow any loans that were repaid. The principal amount of outstanding loans, together with accrued and unpaid interest, is due on the maturity date. The Company is also obligated to pay other customary fees for a credit facility of this size and type.  
+
+The Company’s obligations under the Loan Agreement will be guaranteed by its domestic subsidiaries meeting certain materiality thresholds. As of the closing date, there were no guarantors.  
+
+The Loan Agreement requires the Company to comply with a maximum leverage ratio and a minimum interest coverage ratio. Additionally, the Credit Agreement contains customary affirmative and negative covenants, including covenants limiting the ability of the Company and its subsidiaries to, among other things, incur indebtedness at the subsidiary level, grant liens, sell all or substantially all of its assets, enter into certain mergers, and enter into transactions with affiliates, in each case subject to customary exceptions for a credit facility of this size and type.  
+
+The events of default under the Loan Agreement include payment defaults, material misrepresentations, breaches of covenants, cross defaults with certain other indebtedness, bankruptcy and insolvency events, judgments, certain ERISA events and change of control defaults. The occurrence of an event of default could result in the acceleration of the Company’s obligations under the Loan Agreement and an obligation of any or all of the Company’s subsidiary guarantors to pay the full amount of the Company’s obligations under the Credit Agreement.  
+
+The foregoing description of the Loan Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Loan Agreement, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.  
+
+Amendment to the Credit Agreement  
+
+On February 2, 2016, the Company, the lenders party thereto and JPMorgan Chase, N.A., as administrative agent entered into Amendment No. 1 to the Credit Agreement (“Amendment No. 1”), which Amendment No. 1 amends the Company’s Revolving Credit Agreement to, among other things, increase the revolving commitments thereunder by $50 million to a total of $300 million and to permit the assumption of the loans under the Loan Agreement by the Assuming Borrower.  
+
+The description of Amendment No. 1 contained herein is qualified in its entirety by reference to Amendment No. 1 attached hereto as Exhibit 10.2 and is incorporated herein by reference.  
+
+Item 2.03 Creation of a Direct Financial Obligation Under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information set forth under Item 1.01 of this Current Report is incorporated herein by reference.  
+
+ Item 8.01 Other Events.  
+
+On February 2, 2016, the Company issued a press release announcing the completion of the acquisition of SolidFire, Inc., a copy of which is attached hereto as Exhibit 99.1 and incorporated herein by reference.  
+
+ Item 9.01 Financial Statements and Exhibits.  
+
+(d) Exhibits.  
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  [DATA_TABLE_REMOVED]

@@ -1,0 +1,301 @@
+PART I 
+
+Item 1. Business 
+
+Overview 
+
+NetApp, Inc. (NetApp, we, or us) is a global cloud-led, data-centric software company. We were incorporated in 1992 and are headquartered in San Jose, California. Building on a rich history of innovation, NetApp gives customers the freedom to manage applications and data across hybrid multicloud environments. Our portfolio of cloud services, and storage infrastructure, powered by intelligent data management software, enables applications to run faster, more reliably, and more securely, all at a lower cost. 
+
+In the last two years, we have seen an unprecedented acceleration of digital transformation. Organizations accelerated digital initiatives to strengthen and optimize operations, as well as to create new experiences for customers and employees. All these efforts require these organizations to manage and protect data while ensuring that the underlying cloud and data center infrastructure can support application performance and reliability cost-effectively. Increasingly, complexity is the primary barrier to building new applications and capabilities quickly. 
+
+Our vision is to help our customers increase the pace of innovation by reducing complexity with intelligent software services that manage, protect and optimize data, storage infrastructure, and cloud resources. Our strategy is to help our customers: 
+
+•
+
+Build their data fabric with a single, unified, enterprise-grade data experience across the hybrid multicloud. 
+
+•
+
+Modernize data centers with cloud-like capabilities and consumption models. 
+
+•
+
+Accelerate cloud deployment by removing economic and operational barriers.  
+
+•
+
+Simplify the management of hybrid multicloud environments with a single management plane. 
+
+Product, Solutions and Services Portfolio  
+
+NetApp delivers a portfolio of cloud services, and storage infrastructure, powered by intelligent data management software. At the end of the first quarter of fiscal year 2022, corresponding with how we manage the company, we established two segments for financial reporting purposes: Hybrid Cloud and Public Cloud. 
+
+Hybrid Cloud 
+
+Hybrid Cloud offers a portfolio of storage management and infrastructure solutions that help customers recast their data centers with the power of cloud. This portfolio is designed to operate with public clouds to unlock the potential of hybrid, multi-cloud operations. We offer a broad portfolio of cloud-connected all-flash, hybrid-flash, and object storage systems, powered by intelligent data management software. Hybrid Cloud is composed of software, hardware, and related support, as well as professional and other services. 
+
+Intelligent data management software 
+
+NetApp ONTAP software is the foundational technology that underpins NetApp's key storage solutions in the data center and in the cloud. ONTAP includes a wide variety of data management and protection features and capabilities, including automatic ransomware protection against cyber-attacks, built-in data transport features, and storage efficiency capabilities. ONTAP provides flexibility to design and deploy a storage environment across the broadest range of architectures - engineered systems, software-defined storage (SDS), and the cloud – while unifying data management across all of them, as well as SAN and NAS environments. 
+
+Customers can realize savings with space-efficient NetApp Snapshot copies, thin provisioning, replication, and cloning technologies. ONTAP includes a number of data protection features designed to safeguard data from corruption, compromise, or loss and to help our customers quickly recover when unexpected events occur. NetApp SnapCenter Backup Management software is designed to deliver high-performance backup and recovery for database and application workloads hosted on ONTAP storage. NetApp SnapMirror Data Replication software is able to replicate data at high speeds across environments. SnapMirror delivers robust data management capabilities for virtualization, protecting critical data while providing the flexibility to move data between locations and storage tiers, including cloud service providers. NetApp SnapLock Data Compliance software delivers high-performance disk-based data permanence for HDD and SSD deployments.  
+
+NetApp Astra is a fully managed application-aware data management service built for Kubernetes workloads. Astra allows organizations to protect, recover, and move applications deployed on Kubernetes with no software to download, install, manage, or upgrade.  
+
+6 
+
+NetApp ElementOS software delivers agility through scale-out flexibility, predictable performance, and automation integrations so organizations can build clouds to accelerate new services. ElementOS software enables innovative architectures with flexible scale for our customers' private clouds.  
+
+NetApp SANtricity software is the data management software that powers and administers the NetApp E/EF Series storage arrays. SANtricity software offers industry-leading performance, reliability, and ease of use. These capabilities mean that storage administrators can make configuration changes, perform maintenance, and expand storage capacity without disrupting I/O to attached hosts.  
+
+Storage infrastructure  
+
+NetApp All-Flash FAS (AFF) series is a scale-out platform built for virtualized environments, combining low-latency performance via flash memory (also known as a solid-state storage disk) with best-in-class data management, built-in efficiencies, integrated data protection, multiprotocol support, and nondisruptive operations; cloud and on-premises. AFF, powered by ONTAP, allows customers to connect to clouds for more data services, data tiering, caching, and disaster recovery. The AFF Series has a portfolio of products designed for multiple markets and price/performance considerations, from smaller channel commercial market offerings to large-scale, global enterprises. 
+
+NetApp Fabric Attached Storage (FAS) series are high-volume, high-capacity data storage devices powered by NetApp ONTAP. NetApp FAS Storage Arrays provide customers with a balance of performance and capacity running either disk drives, hybrid-flash or newer, cost-efficient flash memory known as Quad-level cell (QLC). QLC based systems (FAS500f) are designed for a balanced ratio of capacity and performance. FAS systems cost-effectively deliver data protection, security, and scalability.  
+
+NetApp FlexPod is a converged infrastructure solution. It combines servers (compute), storage resources, and the network fabric to create an agile, efficient, and scalable platform for hosting applications. Using Cisco Validated Design methodologies, the FlexPod platform is a portfolio of pre-validated designs used to meet the challenges of simplifying deployments for best-in-class data center architectures based on the Cisco Unified Computing System and NetApp data storage solutions.  
+
+NetApp E/EF series is built for dedicated, high-bandwidth applications that need simple, fast SAN storage with enterprise-grade reliability. The E-Series is available as a hybrid-flash platform, while the EF-Series is all-flash. Running on the SANtricity storage operating system, the E/EF-Series storage appliances are designed for performance-sensitive workloads like real-time analytics, HPC, and databases.  
+
+NetApp StorageGRID is a software-defined object storage solution for large archives, media repositories, and web data stores. Using the industry-standard object APIs like the Amazon Simple Storage Service (S3), the StorageGRID solution, running on the ElementOS data management storage operating system, is provided both as a NetApp-branded storage solution and as a software-defined solution on third-party hardware.  
+
+NetApp SolidFire is a scale-out, all-flash storage platform designed for large-scale infrastructure. It is primarily positioned for private cloud solutions. SolidFire, running on the ElementOS data management storage operating system, allows customers to manage storage performance independent of capabilities and guarantee performance to thousands of applications within a single storage platform.  
+
+Public Cloud 
+
+Public Cloud offers a portfolio of products delivered primarily as-a-service, including related support. This portfolio includes cloud storage and data services, and cloud operations services. Our enterprise-class solutions and services enables customers to control and manage storage in the cloud, consume high-performance storage services for primary workloads, and optimize cloud environments for cost and efficiency. These solutions and services are generally available on the leading public clouds, including Microsoft Azure, Google Cloud Platform and Amazon AWS.  
+
+Cloud storage and data services 
+
+The NetApp Cloud Volumes Platform is an integrated collection of cloud storage infrastructure and data services. The platform is anchored by NetApp Cloud Volumes ONTAP, a cloud-based software for customers who wish to manage their own cloud storage infrastructure, and based on the same ONTAP software that underpins our storage infrastructure offerings. Fully managed cloud storage offerings are available natively on Microsoft Azure as Azure NetApp Files, on AWS as Amazon FSx for NetApp ONTAP, and on Google Cloud as NetApp Cloud Volumes Service for Google Cloud. 
+
+With ONTAP’s built-in data transport features (NetApp Cloud Sync), customers can migrate data to the cloud securely and efficiently and can choose where to deploy primary workloads without having to re-architect applications or databases. Customers also get a comprehensive, industry-leading portfolio of storage efficiency capabilities. Inline data compression, deduplication, compaction,  
+
+7 
+
+and cloud tiering (NetApp Cloud Tiering) work together to reduce storage costs and maximize the amount of data stored. NetApp Cloud Backup delivers seamless and cost-effective backup and restore capabilities for protecting and archiving cloud and on-premises ONTAP data. 
+
+NetApp Cloud Data Sense (formerly Cloud Compliance), provides data discovery, mapping, and classification driven by artificial intelligence algorithms with automated controls and reporting for data privacy regulations such as the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and more. 
+
+NetApp Cloud Volumes Edge Cache (formerly Global File Cache) software delivers fast and secure access to data for users by caching active data sets to distributed offices globally.  
+
+Cloud operations services 
+
+NetApp Cloud Insights is an infrastructure monitoring tool that gives organizations visibility into their entire infrastructure with the ability to monitor, troubleshoot, and optimize cost across all resources, including public clouds and private data centers. 
+
+Our Spot by NetApp suite of products delivers a platform for cloud operations, enabling customers to deploy and operate cloud applications reliably and securely in their choice of cloud while reducing costs and complexity. Combining machine learning, predictive analytics and cloud automation, the Spot platform continuously optimizes cloud infrastructure and operations to deliver scalable, reliable and secure infrastructure for applications.  
+
+With solutions for virtual machines, containers, and key workloads, the Spot portfolio’s automation and optimization capabilities give customers more cloud at less cost. Spot Elastigroup enables customers to scale mission-critical workloads on AWS with automated, optimized cloud infrastructure management. The Spot Ocean Kubernetes Suite enables customers to dynamically provision, scale and optimize cloud resources for microservices and big data workloads. Spot Security delivers cloud security analysis and threat reduction for actionable compliance, remediation, and prevention. Spot Eco enables customers to maximize their cloud savings with intelligent management of AWS reserved instances and savings plans. Spot CloudCheckr provides actionable cloud cost analysis with visibility into performance and optimization opportunities. 
+
+Professional and Support Services 
+
+NetApp and our certified services partners offer a comprehensive portfolio of assessment, design, implementation, migration, and proactive support services to help customers optimize the performance and efficiency of their on-premises and hybrid multicloud storage environments. Our portfolio of offerings include strategic consulting, professional, managed, and support services.  
+
+•
+
+NetApp strategic consulting services provide executive-level, high-touch consulting engagements to help organizations facilitate the alignment of their business and technology goals. Our proven expertise can help organizations define long-term data fabric strategies and operations models to drive IT initiatives for digital transformation.  
+
+•
+
+NetApp Professional Services provide the expertise to mitigate risk and streamline the design, implementation, migration, and integration of NetApp hybrid cloud solutions to realize the business benefits of new technology investments faster. Highly skilled services experts help enable secure, optimized environments that deliver the consistent, high-quality outcomes customers expect from the start.  
+
+•
+
+NetApp Managed Services optimize performance and efficiency in hybrid cloud and on-premises environments. Our NetApp experts use proven methodology and best practices to monitor, administer, operate, and optimize customer environments so their organization's IT staff is free to focus on initiatives to move the business forward.  
+
+•
+
+NetApp Global Support supplies systems, processes, and people wherever needed to provide continuous operation in complex and critical environments, with an emphasis on proactive and preemptive technology support for operational continuity across the NetApp hybrid cloud. Personalized support options provide actionable intelligence to resolve problems faster, reduce downtime, and optimize performance of the entire NetApp ecosystem. 
+
+Sales, Principal Markets, and Distribution Channels 
+
+We market and sell our products and services in numerous countries throughout the world. Our sales efforts are organized around the evolving needs of our current and targeted customers, and our marketing initiatives reflect this focus. NetApp uses a multichannel distribution strategy. We sell our products, solutions and services to end-user business customers and service providers through a direct sales force and an ecosystem of partners, including the leading cloud providers. Our marketing is focused on building our brand reputation, creating market awareness, communicating customer advantages and generating demand for our sales force and channel partners. 
+
+Our diversified customer base spans industry segments and vertical markets such as energy, financial services, government, technology, internet, life sciences, healthcare services, manufacturing, media, entertainment, animation, video postproduction and  
+
+8 
+
+telecommunications. NetApp focuses primarily on the enterprise storage and data management, cloud storage and cloud operations markets. We design our products to meet the evolving requirements of a hybrid, multicloud world, driven by digital transformation and cloud initiatives. 
+
+Our partnerships with the industry’s leading cloud, infrastructure, consulting, application, and reseller partners are created with one goal in mind: the success of our customers. Global enterprises, local businesses, and government installations look to NetApp and our ecosystem of partners to help maximize the business value of their IT and cloud investments. 
+
+We work with a wide range of partners for our customers, including technology partners, value-added resellers, system integrators, OEMs, service providers and distributors. During fiscal 2022, sales through our indirect channels represented 77% of our net revenues. Our global partner ecosystem is critical to NetApp’s growth and success. We are continually strengthening existing partnerships and investing in new ones to ensure we are meeting the evolving needs of our customers. 
+
+As of April 29, 2022, our worldwide sales and marketing functions consisted of approximately 5,700 managers, sales representatives and technical support personnel. We have field sales offices in approximately 30 countries. Sales to customers Arrow Electronics, Inc. and Tech Data Corporation accounted for 24% and 21% of our net revenues, respectively, in fiscal 2022. Information about sales to and accounts receivables from our major customers, segment disclosures, foreign operations and net sales attributable to our geographic regions is included in Note 15 – Segment, Geographic, and Significant Customer Information of the Notes to Consolidated Financial Statements. 
+
+Seasonality 
+
+We have historically experienced a sequential decline in revenues in the first quarter of our fiscal year, as the sales organization spends time developing new business after higher close rates in the fourth quarter, and because sales to European customers are typically weaker during the summer months. During the second quarter of our fiscal year, we have historically experienced increased sales, driven by the government sector, concurrent with the end of the U.S. federal government’s fiscal year in September, as well as an increase in business from European markets. We derive a majority of our revenue in any given quarter from customer orders booked in the same quarter. Customer orders and revenues typically follow intra-quarter seasonality patterns weighted toward the back end of the quarter. If recurring services and cloud revenue continue to increase as a percentage of our total revenues, historical seasonal patterns may become less pronounced. 
+
+Backlog 
+
+We manufacture products based on a combination of specific order requirements and forecasts of our customers’ demand. Orders are generally placed by customers on an as-needed basis. A substantial portion of our products is sold on the basis of standard purchase orders that are cancelable prior to shipment without penalty. In certain circumstances, purchase orders are subject to change with respect to quantity of product or timing of delivery resulting from changes in customer requirements. Our business is characterized by seasonal and intra-quarter variability in demand, as well as short lead times and product delivery schedules. Accordingly, backlog at any given time may not be a meaningful indicator of future revenue. 
+
+Manufacturing and Supply Chain 
+
+We have outsourced manufacturing operations to third parties located in Memphis, Tennessee; Fremont, California; San Jose, California; San Antonio, Texas; Guadalajara, Mexico; Schiphol Airport, The Netherlands; Komarom and Tiszaujvaros, Hungary; Wuxi and Tianjin, China; Taoyuan City, Taiwan; and Singapore. These operations include materials procurement, commodity management, component engineering, test engineering, manufacturing engineering, product assembly, product assurance, quality control, final test, and global logistics. We rely on a limited number of suppliers for materials, as well as several key subcontractors for the production of certain subassemblies and finished systems. We strive to have multiple suppliers qualified to provide critical components where possible and have our products manufactured in a number of locations to mitigate our supply chain risk. Our strategy has been to develop close relationships with our suppliers, maximizing the exchange of critical information and facilitating the implementation of joint quality programs. We use contract manufacturers for the production of major subassemblies and final system configuration. This manufacturing strategy minimizes capital investments and overhead expenditures while creating flexibility for rapid expansion. 
+
+We are certified to the International Organization for Standardization (ISO) 9001:2015 and ISO 14001:2015 certification standards. We have been Tier 2 certified under the U.S. Customs and Border Protection’s (CBP) Customs Trade Partnership Against Terrorism (CTPAT) program since January 2015. 
+
+Research and Development 
+
+Our research and development team delivers innovation to help customers modernize their IT environment and unlock the best of cloud. Our R&D structure allows us to align and accelerate the execution of our strategies and roadmaps across product groups. We  
+
+9 
+
+leverage our talent and shared IP for cloud- and hybrid-cloud solutions to remain agile to changing market conditions. Our R&D priorities are to help customers harness the power of public- and multi-cloud solutions, enabling modern data management applications and services, and to enable simple cloud-like experiences on-premises. We design our products and services from the ground up with cloud connectivity in mind, including tiering, disaster recovery, replication, bursting, and migration. 
+
+We conduct research and development activities in various locations throughout the world. Total research and development expenses were $881 million in each of fiscal 2022 and fiscal 2021, and $847 million in fiscal 2020. These costs consist primarily of personnel and related costs incurred to conduct product development activities. Although we develop many of our products internally, we also acquire technology through business combinations or through licensing from third parties when appropriate. We believe that technical leadership is essential to our success, and we expect to continue to commit substantial resources to research and development. 
+
+Competition 
+
+We operate in an industry in which there are rapid technological advances in hardware, software, and related services offerings. Cloud, digital transformation, and artificial intelligence initiatives are driving changes in customer and solution requirements. 
+
+We compete with many companies in the markets we serve. Our hybrid cloud solutions primarily compete with legacy IT and storage vendors. Some offer a broad spectrum of products, solutions and services and others offer a more limited set of storage- and data-management products, solutions or services. Additionally, public cloud providers offer customers storage as an operating expense which competes with more traditional storage offerings that customers acquire through capital expenditures. We both partner with and compete against cloud providers with our public cloud software and services. We rarely see legacy vendors competing in the cloud. 
+
+We compete with many companies in the cloud operations marketplace, including new companies (startups) and larger software companies who target developers, operations engineering (DevOps) and financial engineering (FinOps). Some companies have single point solutions that compete with one of our services and others are building platforms. Additionally public cloud providers offer similar services on their own cloud. 
+
+We face ongoing product and price competition in all areas of our business, including from both branded- and generic-product competitors.  
+
+Our current and potential competitors may establish cooperative relationships among themselves or with third parties, including some of our partners. It is possible that new competitors or alliances among competitors might emerge and further increase competitive pressures. 
+
+We consider our software innovation, cloud integration, and technology partnerships key to our competitive differentiation. We believe our competitive advantage also includes the nature of the relationships we form with our customers and partners worldwide. We strive to deliver an outstanding experience in every interaction we have with our customers and partners through our product, service, and support offerings, which enables us to provide our customers a full range of expertise before, during and after their purchases. 
+
+Proprietary Rights 
+
+We generally rely on patent, copyright, trademark, trade secret and contract laws to establish and maintain our proprietary rights in our technology, products and services. While our intellectual property rights are important to our success, we believe that our business is not materially dependent on any particular patent, trademark, copyright, license or other individual intellectual property right. We have been granted or own by assignment well over two thousand U.S. patents, hundreds of pending U.S. patent applications, and many corresponding patents and patent applications in other countries. From time to time, we may make certain intellectual property available under an open source license. Our primary trademarks are NetApp and the NetApp design logo, which are registered trademarks in the U.S. and in many other countries. In addition, we have trademarks and trademark registrations in the U.S. and other countries covering our various product or service names. 
+
+We generally enter into confidentiality agreements with our employees, resellers, distributors, customers, and suppliers. In addition, through various licensing arrangements, we receive certain rights to the intellectual property of others. We expect to maintain current licensing arrangements and to secure additional licensing arrangements in the future, as needed and to the extent available on reasonable terms and conditions, to support continued development and sales of our products and services. Some of these licensing arrangements require or may require royalty payments and other licensing fees. The amount of these payments and fees may depend on various factors, including but not limited to the structure of royalty payments; offsetting considerations, if any; and the degree of use of the licensed technology. 
+
+The industry in which we compete is characterized by rapidly changing technology, a large number of patents, and frequent claims and related litigation regarding intellectual property rights, and we may be exposed to various risks related to such claims or legal  
+
+10 
+
+proceedings. If we are unable to protect our intellectual property, we may be subject to increased competition that could materially and adversely affect our business operations, financial condition, results of operations and/or cash flows. 
+
+Environmental Disclosure 
+
+We are committed to the success of our customers and partners, to delivering value to our stockholders, and to positively affecting the communities where our employees work and live. We firmly believe that we can accomplish these objectives concurrently with our commitment to sound environmental management. We are committed to the reduction of greenhouse gas emissions; efficient use of natural resources; and minimizing, relative to the growth of the company, the environmental impacts from our operations, products, and services, as well as complying with laws and regulations related to these areas.  
+
+We voluntarily measure, monitor, and publicly report our scope 1, scope 2, and scope 3 (partial) greenhouse gas emissions and water impacts to CDP, a global standardized mechanism by which companies report their greenhouse gas emissions and water impacts to customers and institutional investors. We continuously seek to optimize the energy efficiency of our buildings, labs, and data centers; and we have increased our use of renewable energy, especially at our facilities in Bangalore, India and Wichita, Kansas, both of which are powered almost exclusively by renewable energy. 
+
+At both the global and regional/state levels, various laws and regulations have been implemented or are under consideration to mitigate or report on the effects of climate change. Environmental laws are complex, change frequently, and have tended to become more stringent over time. However, it is often difficult to anticipate future regulations pertaining to environmental matters and to estimate their impacts on our operations. Based on current information, we believe that our primary risk related to climate change is the risk of increased energy costs. We are not currently subject to a cap-and-trade system or any other mitigation measures that could be material to our operations, nor are we aware of any such measures that will impact us in the near future. Additionally, we have implemented disaster recovery and business resiliency measures to mitigate the physical risks our facilities, business, and supply chain might face as a consequence of severe weather/climate-related phenomena such as earthquakes, floods, droughts, and other such natural occurrences. 
+
+We are subject to international, federal, state, and local regulations regarding workplace safety and protection of the environment. Various international, federal, state, and local provisions regulate the use and discharge of certain hazardous materials used in the manufacture of our products. Failure to comply with environmental regulations in the future could cause us to incur substantial costs, subject us to business interruptions or cause customers to cease purchasing from us. We strive to comply with all applicable environmental laws. All of our products meet the requirements of the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH); Energy Related Products (ErP); Restriction of Hazardous Substances (RoHS); and China RoHS directives. We have a product take-back program and an e-waste scheme to comply with the EU directive on Waste Electrical and Electronic Equipment (WEEE), and Extended Producer Responsibility (EPR) regulations in India. 
+
+We have maintained an environmental management system since December 2004 that provides the framework for setting, monitoring, and continuously improving our environmental goals and objectives. As part of ISO 14001 requirements, we set local environmental performance goals, such as reducing energy use per square foot and minimizing waste generated on site, that are aligned with our overall corporate strategy. We also conduct periodic reviews and are subject to third-party audits of our operations, and we monitor environmental legislation and requirements to help make sure we are taking necessary measures to remain in compliance with applicable laws, not only in our operations but also for our products. 
+
+Human Capital Management 
+
+We take pride in attracting and retaining leading talent in the industry based on a culture-fit approach. From our inception, NetApp has worked to build a model company and has embraced a culture of openness and trust. At NetApp, our employees are supported and encouraged to be innovative, and we communicate openly and transparently so that employees can focus on critical and impactful work that ties directly to our business strategy. We continue to invest in our global workforce to support diversity and inclusion and to support our employees’ well-being and development.  
+
+Diversity, Inclusion and Belonging 
+
+We believe diversity, inclusion and belonging leads to more innovation, better access to talent and improved business outcomes. Our strategies are intended to increase the demographic and cognitive diversity of our employee population, promote a culture of inclusion and to leverage such diversity to achieve business results. For more information about our commitment to diversity, inclusion and belonging, go to the “Diversity Inclusion and Belonging” section of our website. 
+
+Compensation, Benefits and Wellbeing 
+
+Our healthcare options offer competitive, comprehensive coverage for our employees and their families, including:  
+
+11 
+
+•
+
+National medical plans, 
+
+•
+
+Regional medical plans, 
+
+•
+
+Expert advice from world-renowned doctors through our medical second opinion program, 
+
+•
+
+National dental plans, 
+
+•
+
+National vision plans with two levels of coverage to choose from and a 
+
+•
+
+Robust wellness program. 
+
+Insurance and income protection. We provide life, accidental death and dismemberment and disability insurance programs. For additional peace of mind, we also offer supplemental insurance for our employees and their dependents. 
+
+Financial and savings programs. We offer flexible spending accounts, an employee stock purchase plan and a competitive 401(k) retirement plan with a company match. Our 401(k) plan gives employees more options to maximize retirement savings with pre-tax, Roth and after-tax contributions. We help our employees prepare for retirement by capitalizing on their total compensation and helping them save. 
+
+Employee Wellbeing. We provide a wide range of wellbeing programs and tools to ensure employees and their families have the resources they need when they need them. We offer emotional wellbeing resources and programs such as back-up child and elder care, student debt repayment, educational assistance, and legal services for employees and their dependents. NetApp also offers a variety of time-off programs to help support our employees who need time-off. Employees also have access to discounts and fitness centers. 
+
+Giving Back. The NetApp Serves Program supports how our employees want to make a difference in the world. In 2019, more than 2,800 NetApp employees donated over 64,000 hours to serve their communities and make an impact around the world. The NetApp Serves program encourages employees to volunteer through individual, team or company efforts. 
+
+COVID-19 
+
+At NetApp, the health and safety of our employees, customers, and partners is our number one priority. Like all businesses, we have been closely monitoring the COVID-19 outbreak. We are following guidance from the U.S. Centers for Disease Control (CDC), the World Health Organization (WHO), and international and local health authorities in countries where we operate. Our goal is to reduce the risk that anyone at NetApp might contract or inadvertently spread the virus. We have taken the following proactive steps to help protect ourselves and others and minimize the spread of COVID-19: 
+
+•
+
+Implemented work-from-home for the majority of locations in accordance with guidance from the CDC, WHO and local government and health authorities. 
+
+•
+
+Established a travel freeze to or from high-risk countries. 
+
+•
+
+Restricted all travel to business-critical activities with enhanced notification and approval requirements. 
+
+•
+
+Restricted access to NetApp facilities, including for employees and social and familial visitors. 
+
+•
+
+Optimized all internal meetings for remote participation. 
+
+•
+
+Met with customers, partners and other key stakeholders virtually in high-risk areas. 
+
+We continue to monitor the situation closely and may revise these measures or implement further measures in coordination with best practices and updated guidance from the relevant authorities. 
+
+Board Oversight of Human Capital Management 
+
+Our Board of Directors plays an active role in overseeing the Company's human capital management strategy and programs. Our Talent and Compensation Committee provides oversight of our talent strategy and key programs related to corporate culture, workforce diversity and inclusion, talent acquisition, engagement, development and retention.  
+
+Employees 
+
+As of April 29, 2022, we had approximately 12,000 employees worldwide. None of our employees are represented by a labor union and we consider relations with our employees to be good.  
+
+12 
+
+Please visit our website for more detailed information regarding our human capital programs and initiatives. Nothing on our website shall be deemed incorporated by reference into this Annual Report on Form 10-K. 
+
+Information About Our Executive Officers 
+
+Our executive officers and their ages as of June 10, 2022, were as follows: [DATA_TABLE_REMOVED] 
+
+George Kurian was appointed chief executive officer on June 1, 2015. He joined our board of directors in June 2015. From September 2013 to May 2015, he was executive vice president of product operations, overseeing all aspects of technology strategy, product and solutions development across our product portfolio. Mr. Kurian joined NetApp in April 2011 as the senior vice president of the storage solutions group and was appointed to senior vice president of the Data ONTAP group in December 2011. Prior to NetApp, from 2002 to 2011, Mr. Kurian held several positions at Cisco Systems, including most recently vice president and general manager of the application networking and switching technology group. From 1999 to 2002, Mr. Kurian was the vice president of product management and strategy at Akamai Technologies. Prior to that, he was a management consultant with McKinsey and Company, and led software engineering and product management teams at Oracle Corporation. Mr. Kurian is a board member at Cigna Corporation, a global health services company. Mr. Kurian holds a BS degree in electrical engineering from Princeton University and an MBA degree from Stanford University. 
+
+César Cernuda came to NetApp in July 2020 as president and is responsible for leading the company’s global go-to-market organization spanning sales, marketing, services, support, and customer success. Mr. Cernuda joined NetApp after a long career at Microsoft that included various leadership roles. Mr. Cernuda is non-executive director and chairman of the ESG committee at Gestamp, an international group dedicated to automotive components. He is also on the advisory boards of Georgetown University’s McDonough School of Business and the IESE Business School – University of Navarra. Mr. Cernuda is a graduate of the Harvard Business School Executive Leadership Program and the Program for Management Development at IESE Business School – University of Navarra, and he also completed the Leading Sustainable Corporations Programme at Oxford University’s Saïd Business School. He earned his bachelor’s degree in Business Administration from ESIC Business & Marketing School. 
+
+Michael J. Berry joined NetApp in March 2020 as executive vice president and chief financial officer, overseeing the worldwide finance, investor relations, security and IT organizations. Mr. Berry has served as a chief financial officer for 16 years in both public and private companies including McAfee, FireEye, Informatica, and SolarWinds. Most recently he was executive vice president and chief financial officer at McAfee where he was responsible for all aspects of finance, including financial planning, accounting, tax and treasury, as well as operations and shared services. Mr. Berry is a board member of Rapid7 and FinancialForce, holding the chair of the audit committee position at each company. Mr. Berry holds a BS degree in finance from Augsburg University and an MBA degree in finance from the University of St. Thomas. 
+
+Harvinder S. Bhela joined NetApp in January 2022 as executive vice president and chief product officer. He is responsible for leading NetApp’s product and engineering teams and building our storage and data services products. Before joining NetApp Mr. Bhela spent 25 years at Microsoft where he held multiple executive leadership positions. Most recently he served as corporate vice president of the Microsoft 365 Security, Compliance and Management business. Mr. Bhela holds a Bachelor of Engineering from the University of Mumbai and a Master of Science in Computer Science from the University of Minnesota. 
+
+Elizabeth M. O’Callahan was appointed executive vice president, chief legal officer, and corporate secretary in January 2022. Ms. O’Callahan joined NetApp in 2013, and prior to her appointment as chief legal officer, Ms. O’Callahan served as senior vice president and general counsel from May 2021 to December 2021, as vice president and deputy general counsel from May 2020 to April 2021, and as vice president, corporate legal from October 2013 to April 2020. Ms. O’Callahan has over 20 years of experience advising technology companies on a variety of matters, including corporate governance, securities law, mergers and acquisitions, capital markets transactions, corporate compliance and ethics, data privacy, intellectual property, and litigation. Before joining NetApp, Ms. O’Callahan served in a senior legal role at Xilinx (since acquired by AMD). She began her legal career in private practice in Silicon Valley specializing in corporate law and business litigation. Ms. O’Callahan holds a bachelor’s degree from the University of California at Los Angeles and a J.D. from Santa Clara University. 
+
+13 
+
+Additional Information 
+
+Our internet address is www.netapp.com. We make available through our internet website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, amendments to those reports and other documents filed or furnished pursuant to the Exchange Act of 1934, as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC. 
+
+The SEC maintains an internet site (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. 
+
+14 
+
+Item 1A. Risk Factors

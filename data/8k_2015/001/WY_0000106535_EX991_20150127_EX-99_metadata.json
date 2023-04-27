@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000106535",
+    "sec_company_name": "WEYERHAEUSER CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150127",
+    "sec_filing_date": "20150130",
+    "sec_changed_date": "20150130",
+    "sec_accepted_date": "20150130162407",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/106535/000010653515000004/0000106535-15-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/106535/000010653515000004/0000106535-15-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\WY_0000106535_EX991_20150127_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5670 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2132,
+    "endpoints": [
+        "Press Release 1.30.15   ",
+        "Weyerhaeuser Company, one of the world's largest private owners of timberlands, began operations in 1900. We own or control nearly 7 million acres of timberlands, primarily in the U.S., and manage additional timberlands under long-term licenses in Canada. We manage these timberlands on a sustainable basis in compliance with internationally recognized forestry standards. We are also one of the largest manufacturers of wood and cellulose fibers products. Our company is a real estate investment trust. In 2014, our continuing operations generated $7.4 billion in sales and employed approximately 12,800 people who serve customers worldwide. We are listed on the Dow Jones World Sustainability Index. Our common stock trades on the New York Stock Exchange under the symbol WY. Learn more at www.weyerhaeuser.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WY",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\WY_0000106535_EX991_20150127_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:16:05.617882"
+}

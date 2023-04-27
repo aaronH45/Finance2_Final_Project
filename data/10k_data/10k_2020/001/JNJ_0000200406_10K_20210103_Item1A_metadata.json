@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000200406",
+    "sec_company_name": "JOHNSON & JOHNSON (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20210103",
+    "sec_filing_date": "20210222",
+    "sec_changed_date": "20210222",
+    "sec_accepted_date": "20210222163614",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040621000008/0000200406-21-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040621000008/0000200406-21-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\JNJ_0000200406_10K_20210103_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5402040 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 35981,
+    "endpoints": [
+        "Item 1A. RISK FACTORS",
+        "Item 2.PROPERTIES"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "JNJ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\001\JNJ_0000200406_10K_20210103_Item1A_excerpt.txt",
+    "time_elapsed": 0.8,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 16:56:19.511370"
+}

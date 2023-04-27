@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896878",
+    "sec_company_name": "INTUIT INC (Filer)",
+    "document_type": "EX9901",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220224",
+    "sec_filing_date": "20220224",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224160137",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687822000007/0000896878-22-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896878/000089687822000007/0000896878-22-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\INTU_0000896878_EX9901_20220224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "430560 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 23239,
+    "endpoints": [
+        "Document",
+        "Operating results and gains and losses on the sale of discontinued operations. From time to time, we sell or otherwise dispose of selected operations as we adjust our portfolio of businesses to meet our strategic goals. In accordance with GAAP, we segregate the operating results of discontinued operations as well as gains and losses on the sale of these discontinued operations from continuing operations on our GAAP statements of operations but continue to include them in GAAP net income or loss and net income or loss per share. We exclude these amounts from our non-GAAP financial measures."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "INTU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\INTU_0000896878_EX9901_20220224_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:55.353272"
+}

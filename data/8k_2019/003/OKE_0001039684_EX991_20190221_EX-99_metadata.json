@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190221",
+    "sec_filing_date": "20190221",
+    "sec_changed_date": "20190221",
+    "sec_accepted_date": "20190221172321",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000010/0001039684-19-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000010/0001039684-19-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190221_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3117 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2151,
+    "endpoints": [
+        "a22119heldermanfinal   ",
+        " Exhibit 99.1 News February 21, 2019 Analyst Contact: Megan Patterson 918-561-5325 Media Contact: Stephanie Higgins 918-591-5026 Mark W. Helderman Joins ONEOK Board of Directors TULSA, Okla. – Feb. 21, 2019 – The board of directors of ONEOK, Inc. (NYSE: OKE) has elected Mark W. Helderman to its board, effective Feb. 19, 2019. With this election, the ONEOK board of directors now has 11 members, nine of whom are independent. “Mark is a valuable addition to the ONEOK board of directors,” said John W. Gibson, ONEOK chairman. “His experience and expertise will further strengthen our board and benefit our shareholders.” Helderman, 60, held positions of increasing responsibility at Sasco Capital Inc., an independent, institutional investment firm, focused primarily on corporate turnarounds, restructurings and transformations, where he was employed since 1997. Helderman retired from his position at Sasco Capital as managing director and co-portfolio manager on Jan. 31, 2019. Helderman has more than 30 years of experience in the U.S. equities markets, including engagement with senior management teams to develop a deep understanding of their corporate vision, value creation philosophy, commitment to long-term sustainable value and shareholder alignment. In addition to his portfolio management role, Helderman has been an analyst with broad experience in the commodity, energy, industrial and utility sectors for more than 20 years. ------------------------------------------------------------------------------------------------------------------- ONEOK, Inc. (pronounced ONE-OAK) (NYSE: OKE) is a leading midstream service provider and owner of one of the nation's premier natural gas liquids (NGL) systems, connecting NGL supply in the Mid-Continent, Permian and Rocky Mountain regions with key market centers and an extensive network of natural gas gathering, processing, storage and transportation assets. ONEOK is a FORTUNE 500 company and is included in the S&P 500. For information about ONEOK, visit the website: www.oneok.com. For the latest news about ONEOK, find us on LinkedIn, Facebook and Twitter. ###"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190221_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:48:06.543916"
+}

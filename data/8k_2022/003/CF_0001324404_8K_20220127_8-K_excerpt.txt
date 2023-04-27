@@ -1,0 +1,99 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0001324404 false        0001324404   2022-01-27 2022-01-27    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, DC 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): January 27, 2022 
+
+CF Industries Holdings, Inc. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code (847) 405-2400 
+
+(Former name or former address, if changed since last report.) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ¨Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+ Item 1.01Entry into a Material Definitive Agreement. 
+
+On January 28, 2022, CF Industries Holdings, Inc. (“CF Industries”) and CF Industries, Inc. (“CFI”) entered into supplements to the indentures governing CFI’s 3.450% Senior Notes due 2023 (the “2023 Notes”), 4.500% Senior Secured Notes due 2026 (the “2026 Notes”), 5.150% Senior Notes due 2034 (the “2034 Notes”) and 4.950% Senior Notes due 2043 (the “2043 Notes”), and on January 31, 2022, CF Industries and CFI entered into a supplement to the indenture governing CFI’s 5.375% Senior Notes due 2044 (the “2044 Notes,” and the 2023 Notes, the 2026 Notes, the 2034 Notes, the 2043 Notes and the 2044 Notes being referred to herein in each case as a “series of Notes” and collectively as the “Notes”), with Wells Fargo Bank, National Association (“Wells Fargo”), as trustee (and, with respect to the 2026 Notes, as collateral agent). The supplement in the case of each series of Notes provided for amendments of the applicable indenture to remove CF Industries’ United Kingdom subsidiaries from the definition of Significant Subsidiary (as defined in such indenture) and from being considered to be part of a group of subsidiaries of CF Industries that would, taken together, constitute a Significant Subsidiary of CF Industries. In the case of each series of Notes, CFI received consent to such amendments from holders of a majority of the outstanding aggregate principal amount of such series of Notes. The amendments in the case of each series of Notes became operative on February 1, 2022, upon payment by CFI of a consent fee to the consenting holders of such series of Notes. 
+
+The foregoing description of the indenture supplements is qualified in its entirety by reference to the full text of the supplements with respect to the 2023 Notes, the 2026 Notes, the 2034 Notes, the 2043 Notes and the 2044 Notes, which are attached hereto as Exhibits 4.1, 4.2, 4.3, 4.4 and 4.5, respectively, and incorporated herein by reference. 
+
+Wells Fargo is a lender under CFI’s Revolving Credit Agreement (as defined below). Wells Fargo has advised CF Industries that Computershare Limited (“Computershare”) completed the acquisition of the assets of Wells Fargo Corporate Trust Services on November 1, 2021, and that the trusteeships under the indentures governing the Notes would transfer to an affiliate of Computershare at a time to be determined. An affiliate of Computershare is the transfer agent and registrar for CF Industries’ common stock. 
+
+On January 27, 2022, CF Industries and CFI entered into that certain Amendment No. 1 to the Fourth Amended and Restated Credit Agreement, dated as of January 27, 2022 (the “Credit Agreement Amendment”), with the lenders party thereto, the issuing banks party thereto and Citibank, N.A. (“Citibank”) as administrative agent. The Credit Agreement Amendment amended that certain Fourth Amended and Restated Credit Agreement, dated as of December 5, 2019 (as amended, restated, amended and restated, supplemented, waived or otherwise modified prior to the date of the Credit Agreement Amendment, the “Existing Credit Agreement”, the Existing Credit Agreement, as amended by the Credit Agreement Amendment, the “Revolving Credit Agreement”), among CF Industries, CFI, the lenders party thereto, the issuing banks party thereto and Citibank as administrative agent, to, among other things, exclude each of CF Industries’ United Kingdom subsidiaries and each of their subsidiaries from being a Material Subsidiary (as defined in the Revolving Credit Agreement) of CF Industries under the Revolving Credit Agreement. The Credit Agreement Amendment also (i) changed the threshold above which a subsidiary would constitute a Material Subsidiary from 5% of the consolidated total assets of CF Industries and its subsidiaries to 10% of consolidated total assets of CF Industries and its subsidiaries and (ii) replaced the threshold above which a subsidiary would constitute a Material Subsidiary from 5% of consolidated gross sales of CF Industries and its subsidiaries to 10% of consolidated EBITDA of CF Industries and its subsidiaries. Furthermore, the Credit Agreement Amendment changed the reference rate for (i) borrowings under the Revolving Credit Agreement denominated in Euros from LIBOR to EURIBOR and (ii) borrowings under the Revolving Credit Agreement denominated in Sterling from LIBOR to SONIA. 
+
+2 
+
+The foregoing description of the Credit Agreement Amendment is qualified in its entirety by reference to the full text of the Credit Agreement Amendment, which is attached hereto as Exhibit 4.6 and incorporated herein by reference. 
+
+Each of the lenders and issuing banks party to the Revolving Credit Agreement, Citibank and certain of their respective affiliates have performed or may in the future perform various commercial banking, lending, investment banking, financial advisory, trustee, hedging or other services for CF Industries, CFI and subsidiaries and affiliates of CF Industries and CFI for which they have received or will receive fees and reimbursement of expenses. 
+
+ Item 3.03Material Modification to Rights of Security Holders. 
+
+The information in Item 1.01 of this report with respect to the 2023 Notes, the 2034 Notes, the 2043 Notes and the 2044 Notes is incorporated by reference in this Item 3.03. 
+
+ Item 9.01Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+ Exhibit No.Description of Exhibit 
+
+ 4.1Fourth Supplement, dated as of January 28, 2022, relating to the First Supplemental Indenture, dated as of May 23, 2013, among CF Industries, Inc., CF Industries Holdings, Inc. and Wells Fargo Bank, National Association, as trustee, relating to CF Industries, Inc.’s 3.450% Senior Notes due 2023 
+
+ 4.2Third Supplemental Indenture, dated as of January 28, 2022, relating to the Indenture, dated as of November 21, 2016, among CF Industries Holdings, Inc., CF Industries, Inc., the Subsidiary Guarantors (as defined therein) party thereto and Wells Fargo Bank, National Association, as trustee and collateral agent, relating to CF Industries, Inc.’s 4.500% Senior Secured Notes due 2026 
+
+ 4.3Fourth Supplement, dated as of January 28, 2022, relating to the Third Supplemental Indenture, dated as of March 11, 2014, among CF Industries, Inc., CF Industries Holdings, Inc. and Wells Fargo Bank, National Association, as trustee, relating to CF Industries, Inc.’s 5.150% Senior Notes due 2034 
+
+ 4.4Fourth Supplement, dated as of January 28, 2022, relating to the Second Supplemental Indenture, dated as of May 23, 2013, among CF Industries, Inc., CF Industries Holdings, Inc. and Wells Fargo Bank, National Association, as trustee, relating to CF Industries, Inc.’s 4.950% Senior Notes due 2043 
+
+ 4.5Fourth Supplement, dated as of January 31, 2022, relating to the Fourth Supplemental Indenture, dated as of March 11, 2014, among CF Industries, Inc., CF Industries Holdings, Inc. and Wells Fargo Bank, National Association, as trustee, relating to CF Industries, Inc.’s 5.375% Senior Notes due 2044 
+
+ 4.6Amendment No. 1 to the Fourth Amended and Restated Credit Agreement, dated as of January 27, 2022, among CF Industries Holdings, Inc., CF Industries, Inc., the lenders party thereto, the issuing banks party thereto and Citibank, N.A. as administrative agent 
+
+3 
+
+ 104Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document) 
+
+4 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

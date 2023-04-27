@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001126328",
+    "sec_company_name": "PRINCIPAL FINANCIAL GROUP INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160201",
+    "sec_filing_date": "20160201",
+    "sec_changed_date": "20160201",
+    "sec_accepted_date": "20160201171125",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1126328/000112632816000346/0001126328-16-000346-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1126328/000112632816000346/0001126328-16-000346.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\PFG_0001126328_8K_20160201_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "18477 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1948,
+    "endpoints": [
+        "8-K   ",
+        "Date: February 1, 2016"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PFG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\PFG_0001126328_8K_20160201_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:57:47.658378"
+}

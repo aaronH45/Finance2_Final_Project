@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000896159",
+    "sec_company_name": "Chubb Ltd (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170131",
+    "sec_changed_date": "20170131",
+    "sec_accepted_date": "20170131170758",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/896159/000119312517025874/0001193125-17-025874-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/896159/000119312517025874/0001193125-17-025874.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\CB_0000896159_EX991_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "284446 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 34061,
+    "endpoints": [
+        "EX-99.1   ",
+        " Chubb®, Chubb logo® and Chubb. Insured.SM are trademarks of Chubb.   18"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\CB_0000896159_EX991_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:16:03.022116"
+}

@@ -1,0 +1,148 @@
+Quantitative and Qualitative Disclosures about Market Risk are reported in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Market Risk Disclosures.”
+
+56
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+NISOURCE INC.
+
+[DATA_TABLE_REMOVED]
+
+57
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the shareholders and the Board of Directors of NiSource Inc. 
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of NiSource Inc. and subsidiaries (the "Company") as of December 31, 2021 and 2020, the related statements of consolidated income (loss), comprehensive income (loss), stockholders' equity, and cash flows for each of the three years in the period ended December 31, 2021, and the related notes and the schedule listed in the Index at Item 15 (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2021, in conformity with accounting principles generally accepted in the United States of America.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2021, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 23, 2022, expressed an unqualified opinion on the Company's internal control over financial reporting. 
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Impact of Rate Regulation on the Financial Statements - Refer to Notes 1 and 9 to the consolidated financial statements
+
+Critical Audit Matter Description
+
+The Company’s subsidiaries are fully regulated natural gas and electric utility companies serving customers in six states. These rate-regulated subsidiaries account for and report assets and liabilities consistent with the economic effect of the manner in which regulators establish rates, if the rates established are designed to recover the costs of providing the regulated service and it is probable that such rates can be charged to and collected from customers. Certain expenses and credits subject to utility regulation or rate determination normally reflected in income are deferred on the consolidated balance sheets and are later recognized in income as the related amounts are included in customer rates and recovered from or refunded to customers.
+
+The Company’s subsidiaries’ rates are subject to regulatory rate-setting processes. Rates are determined and approved in regulatory proceedings based on an analysis of the subsidiaries’ costs to provide utility service and a return on, and recovery of, the subsidiaries’ investment in the utility business. Regulatory decisions can have an impact on the recovery of costs, the rate of return earned on investment, and the timing and amount of assets to be recovered by rates. The respective commission’s regulation of rates is premised on the full recovery of prudently incurred costs and a reasonable rate of return on invested 
+
+58
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+capital. Decisions to be made by the commission in the future will impact the accounting for regulated operations, including decisions about the amount of allowable costs and return on invested capital included in rates and any refunds that may be required. While the Company has indicated it expects to recover costs from customers through regulated rates, there is a risk that the commission will not approve: (1) full recovery of the costs of providing utility service, or (2) full recovery of all amounts invested in the utility business and a reasonable return on that investment.
+
+We identified the accounting for rate-regulated subsidiaries as a critical audit matter due to the significant judgments made by management to support its assertions about impacted account balances and disclosures and the high degree of subjectivity involved in assessing the impact of future regulatory orders on the financial statements. Management judgments include assessing (1) the likelihood of recovery in future rates of incurred costs and (2) the likelihood of refund of amounts previously collected from customers. Given that management’s accounting judgments are based on assumptions about the outcome of future decisions by regulatory commissions, auditing these judgments required specialized knowledge of accounting for rate regulation and the rate making process due its inherent complexities.
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the uncertainty of future decisions by the commissions included the following, among others:
+
+•We tested the effectiveness of management’s controls over the evaluation of the likelihood of (1) the recovery in future rates of costs incurred as property, plant, and equipment and deferred as regulatory assets, and (2) a refund or a future reduction in rates that should be reported as regulatory liabilities. We also tested the effectiveness of management’s controls over the initial recognition of amounts as property, plant, and equipment; regulatory assets or liabilities; and the monitoring and evaluation of regulatory developments, that may affect the likelihood of recovering costs in future rates or of a future reduction in rates. 
+
+•We evaluated the Company’s disclosures related to the impacts of rate regulation, including the balances recorded and regulatory developments.
+
+•We read relevant regulatory orders issued by the commissions for the Company, regulatory statutes, interpretations, procedural memorandums, filings made by interveners, and other publicly available information to assess the likelihood of recovery in future rates or of a future reduction in rates based on precedents of the commissions’ treatment of similar costs under similar circumstances. We evaluated the external information and compared to management’s recorded regulatory asset and liability balances for completeness.
+
+•For regulatory matters in process, we inspected the Company’s filings with the commissions and the filings with the commissions by intervenors that may impact the Company’s future rates, for any evidence that might contradict management’s assertions related to recoverability of recorded assets.
+
+•We inquired of management about property, plant, and equipment that may be abandoned. For assets that were abandoned, we inquired of management about their considerations regarding the abandonment. We inspected minutes of the board of directors and regulatory orders and other filings with the commissions to identify evidence that may contradict management’s assertion regarding probability of an abandonment. 
+
+•With the assistance of professionals in our firm with expertise in the application of ASC Topic 980, Regulated Operations, we evaluated management’s conclusions regarding the application of ASC Topic 980 to the timing differences between the amount of profit from the consolidated joint ventures and the amount included in regulated rates.
+
+•We read the relevant regulatory orders issued by the Commission for the Company’s renewable energy investments. We evaluated the appropriateness of recognizing a regulatory liability or asset representing timing differences between the profit allocated under the Hypothetical Liquidation at Book Value (HLBV) method related to the consolidated joint ventures and the allowed earnings included in regulatory rates. We also evaluated the appropriateness of the offset to the regulatory liability or asset recorded in depreciation expense. 
+
+•We evaluated the Company’s disclosures related to the application of ASC Topic 980 to consolidated joint venture accounting.
+
+59
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Preferred Stock—2021 Equity Units - Refer to Notes 5, 13, 18 and 24 to the consolidated financial statements
+
+Critical Audit Matter Description
+
+On April 19, 2021, the Company completed the sale of 8.625 million equity units, initially consisting of corporate units, each with a stated amount of $100. Each corporate unit consists of a forward contract to purchase shares of the Company's common stock in the future (“Forward Contract”) and a 1/10th, or 10%, undivided beneficial ownership interest in one share of Series C Mandatory Convertible Preferred Stock (“Preferred Stock”) (collectively the “Equity Units”).
+
+The Forward Contract obligates holders to purchase shares of the Company's common stock on December 1, 2023, subject to early settlement in certain situations. The purchase price to be paid under the Forward Contract is $100 per Equity Unit and the number of shares to be purchased will be determined near the settlement date, subject to a maximum settlement rate. The Preferred Stock was pledged upon issuance as collateral to secure the purchase of the Company's common stock under the related Forward Contract. The Company will pay quarterly contract adjustment payments at the rate of 7.75% per year on the stated amount of $100 per Equity Unit.
+
+The Preferred Stock initially will not bear any dividends and is expected to be remarketed prior to December 1, 2023. Following a successful remarketing, dividends may become payable on the Preferred Stock and/or the minimum conversion rate of the Preferred Stock may be increased. Each share of Preferred Stock will automatically convert based on a conversion rate on the mandatory conversion date, which is expected to be on or about March 1, 2024, unless previously converted. If no successful remarketing of the Preferred Stock has previously occurred, effective as of December 1, 2023, the conversion rate will be zero, no shares of the Company's common stock will be delivered upon automatic conversion, and each share of Preferred Stock will be automatically transferred to the Company on the mandatory conversion date without any payment of cash or shares of the Company's common stock thereon. In the event of such a remarketing failure, any share of Preferred Stock held as part of Equity Units will be automatically delivered to the Company on December 1, 2023 in full satisfaction of the relevant holder’s obligation under the related Forward Contracts.
+
+The Company has concluded that the Forward Contracts and the Preferred Stock host represent a single unit of account and has recorded the Equity Units in equity as Preferred Stock. The present value of the quarterly contract adjustment payments was recorded as a liability, with the offset recorded in Preferred Stock. 
+
+We identified the accounting for the Equity Units as a critical audit matter due to the significant judgments made by management in the application of accounting guidance. Auditing these judgments required specialized knowledge of accounting for financial instruments and extensive audit procedures to evaluate the accounting treatment associated with the Equity Units.
+
+How the Critical Audit Matter Was Addressed in the Audit 
+
+Our audit procedures related to the accounting for the Equity Units included the following, among others: 
+
+•We tested the effectiveness of controls over management’s accounting assessment of the Equity Units. 
+
+•We read the applicable agreements and compared the key terms from the agreements to management’s analysis of the transaction. 
+
+•With the assistance of professionals in our firm with expertise in 1) accounting for financial instruments and 2) assessing probability of certain outcomes underlying the key accounting judgments, we evaluated management’s conclusions regarding the application of the appropriate accounting standards. 
+
+•We evaluated the Company's disclosure of the Equity Units transaction, including the related impacts to the financial statements.
+
+/s/ DELOITTE & TOUCHE LLP
+
+Columbus, Ohio
+
+February 23, 2022
+
+We have served as the Company's auditor since 2002.
+
+60
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+STATEMENTS OF CONSOLIDATED INCOME (LOSS)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying Notes to Consolidated Financial Statements are an integral part of these statements.
+
+61
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+STATEMENTS OF CONSOLIDATED COMPREHENSIVE INCOME (LOSS)
+
+[DATA_TABLE_REMOVED]
+
+(1) Net unrealized gain (loss) on available-for-sale securities, net of $1.0 million tax benefit, $0.7 million tax expense and $1.5 million tax expense in 2021, 2020 and 2019, respectively.
+
+(2) Net unrealized gain (loss) on derivatives qualifying as cash flow hedges, net of $8.4 million tax expense, $23.4 million tax benefit and $21.2 million tax benefit in 2021, 2020 and 2019, respectively. 
+
+(3) Unrecognized pension and OPEB benefit, net of $3.8 million tax expense, $0.1 million tax benefit and $1.6 million tax expense in 2021, 2020 and 2019, respectively. 
+
+The accompanying Notes to Consolidated Financial Statements are an integral part of these statements.
+
+62
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)
+
+NISOURCE INC.
+
+CONSOLIDATED BALANCE SHEETS

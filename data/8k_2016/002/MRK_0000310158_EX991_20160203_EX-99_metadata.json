@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000310158",
+    "sec_company_name": "Merck & Co., Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160203",
+    "sec_filing_date": "20160203",
+    "sec_changed_date": "20160203",
+    "sec_accepted_date": "20160203065633",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465916093377/0001104659-16-093377-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465916093377/0001104659-16-093377.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\MRK_0000310158_EX991_20160203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "977341 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 31764,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "(5) Other revenues are comprised primarily of alliance revenue, third-party manufacturing sales and miscellaneous corporate revenues, including revenue hedging activities. On June 30, 2014, AstraZeneca exercised its option to buy Merck’s interest in a subsidiary and through it, Merck’s interest in Nexium and Prilosec. As a result, the company no longer records supply sales for these products. Other revenues in the first quarter 2014 include $232 million of revenue recognized in connection with the sale of U.S. Saphris rights."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MRK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\002\MRK_0000310158_EX991_20160203_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:45:19.868592"
+}

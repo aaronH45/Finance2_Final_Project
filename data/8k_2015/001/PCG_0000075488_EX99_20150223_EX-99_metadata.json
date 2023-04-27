@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000075488",
+    "sec_company_name": "PACIFIC GAS & ELECTRIC Co (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150223",
+    "sec_filing_date": "20150223",
+    "sec_changed_date": "20150223",
+    "sec_accepted_date": "20150223172258",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1004980/000100498015000018/0001004980-15-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1004980/000100498015000018/0001004980-15-000018.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PCG_0000075488_EX99_20150223_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7999 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2890,
+    "endpoints": [
+        "exhibit99.htm      ",
+        "PG&E Corporation (NYSE: PCG) is a Fortune 200 energy-based holding company, headquartered in San Francisco. It is the parent company of Pacific Gas and Electric Company, California’s largest investor-owned utility. PG&E serves nearly 16 million Californians across a 70,000 square-mile service area in Northern and Central California. For more information, visit http://www.pgecorp.com/ and www.pge.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PCG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PCG_0000075488_EX99_20150223_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:59.201391"
+}

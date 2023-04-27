@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001099219",
+    "sec_company_name": "METLIFE INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190219",
+    "sec_filing_date": "20190219",
+    "sec_changed_date": "20190219",
+    "sec_accepted_date": "20190219160703",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1099219/000119312519044222/0001193125-19-044222-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1099219/000119312519044222/0001193125-19-044222.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\MET_0001099219_EX991_20190219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7873 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6412,
+    "endpoints": [
+        "EX-99.1   ",
+        "Explanatory Note on Non-GAAP Financial Information Total Assets Under Management (“Total AUM”) is a financial measure based on methodologies other than accounting principles generally accepted in the United States of America (“GAAP”). Total AUM are comprised of GA AUM, plus Indexed SA AUM plus TP AUM (each as defined below). MetLife believes the use of Total AUM enhances the understanding of the depth and breadth of its investment management services on behalf of its general account investment portfolio, separate account index investment portfolios and unaffiliated/third party clients. General Account Assets Under Management (“GA AUM”) is a financial measure based on methodologies other than GAAP. MetLife utilizes GA AUM to describe assets in its general account investment portfolio which are actively managed and stated at estimated fair value. MetLife believes the use of GA AUM enhances the understanding and comparability of its general account investment portfolio. GA AUM are comprised of general account Total Investments and cash and cash equivalents, excluding policy loans, other invested assets, contractholder-directed equity securities and fair value option securities, as substantially all of these assets are not actively managed in MetLife’s general account investment portfolio. Mortgage loans and certain real estate investments included in GA AUM have been adjusted from carrying value to estimated fair value. Classification of GA AUM by sector is based on the nature and characteristics of the underlying investments which can vary from how they are classified under GAAP. Passive-Indexed Separate Account Assets Under Management (“Indexed SA AUM”) are passive-indexed insurance company separate account investment portfolios, which are stated at estimated fair value, managed by MetLife that track the return of industry market indices. Indexed SA AUM represent separate account assets of MetLife insurance companies which are included in MetLife, Inc.’s consolidated financial statements at estimated fair value. Third Party Assets Under Management (“TP AUM”) are non-proprietary assets managed by MetLife on behalf of unaffiliated/third party clients, which are stated at estimated fair value. TP AUM are owned by such unaffiliated/third party clients; accordingly, TP AUM are not included in MetLife, Inc.’s consolidated financial statements. GA AUM and Total AUM are non-GAAP financial measures and should not be viewed as substitutes for Total Investments, the most directly comparable GAAP measure. A reconciliation of Total Investments to GA AUM and Total AUM is set forth in the table below. Total Investments under GAAP includes short-term investments and excludes cash and cash equivalents. Additional information about MetLife’s general account investment portfolio is available in MetLife, Inc.’s quarterly financial materials for the quarter ended December 31, 2018, which may be accessed through MetLife’s Investor Relations Web page at http://investor.metlife.com. Reconciliation of Total Investments to General Account Assets Under Management and Total Assets Under Management ($ in Billions) 12/31/18 Total Investments $436.2 > Plus cash and cash equivalents 15.8 > Plus fair value adjustment – mortgage loans 1.0 > Plus fair value adjustment – real estate equity 5.7 > Less policy loans 9.7 > Less other invested assets 18.2 > Less contractholder-directed equity securities and fair value option securities 12.6 General Account Assets Under Management $418.2 > Plus passive-indexed separate account assets under management 14.4 > Plus third party assets under management 156.1 Total Assets Under Management $588.7 © 2019 METLIFE, INC. MetLife Investment Management | One MetLife Way | Whippany, New Jersey 07981 MetLife"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MET",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\MET_0001099219_EX991_20190219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:40:49.736375"
+}

@@ -1,0 +1,141 @@
+Exhibit   
+
+FOR IMMEDIATE RELEASE:
+
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2019
+
+•Quarterly revenue of $2.21 billion, down 24 percent from a year ago
+
+•Record full-year revenue of $11.72 billion, up 21 percent from a year ago
+
+•Record full-year revenue from Gaming, Datacenter, Professional Visualization and Automotive 
+
+SANTA CLARA, Calif.-Feb. 14, 2019-NVIDIA (NASDAQ: NVDA) today reported revenue for the fourth quarter ended Jan. 27, 2019, of $2.21 billion, down 24 percent from $2.91 billion a year earlier, and down 31 percent from $3.18 billion in the previous quarter.
+
+GAAP earnings per diluted share for the quarter were $0.92, down 48 percent from $1.78 a year ago and down 53 percent from $1.97 in the previous quarter. Non-GAAP earnings per diluted share were $0.80, down 53 percent from $1.72 a year earlier and down 57 percent from $1.84 in the previous quarter. 
+
+For fiscal 2019, revenue was $11.72 billion, up 21 percent from $9.71 billion a year earlier. GAAP earnings per diluted share were $6.63, up 38 percent from $4.82 a year earlier. Non-GAAP earnings per diluted share were $6.64, up 35 percent from $4.92 a year earlier.
+
+“This was a turbulent close to what had been a great year,” said Jensen Huang, founder and CEO of NVIDIA. “The combination of post-crypto excess channel inventory and recent deteriorating end-market conditions drove a disappointing quarter. 
+
+“Despite this setback, NVIDIA’s fundamental position and the markets we serve are strong. The accelerated computing platform we pioneered is central to some of world’s most important and fastest growing industries - from artificial intelligence to autonomous vehicles to robotics. We fully expect to return to sustained growth,” he said.
+
+Capital Return
+
+In fiscal 2019, NVIDIA returned $1.95 billion to shareholders through a combination of $1.58 billion in share repurchases and $371 million in quarterly cash dividends. 
+
+Of the $3.00 billion NVIDIA intends to return to shareholders by the end of fiscal 2020, $700 million in share repurchases were completed in the fourth quarter of fiscal 2019. The company intends to return the remaining $2.30 billion by the end of fiscal 2020, through a combination of share repurchases and cash dividends.
+
+NVIDIA will pay its next quarterly cash dividend of $0.16 per share on March 22, 2019, to all shareholders of record on March 1, 2019.
+
+Q4 Fiscal 2019 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2019 Summary
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+NVIDIA’s outlook for the first quarter of fiscal 2020 is as follows:
+
+•Revenue is expected to be $2.20 billion, plus or minus 2 percent. 
+
+•GAAP and non-GAAP gross margins are expected to be 58.8 percent and 59.0 percent, respectively, plus or minus 50 basis points.
+
+•GAAP and non-GAAP operating expenses are expected to be approximately $930 million and $755 million, respectively. 
+
+•GAAP and non-GAAP other income and expense are both expected to be income of approximately $20 million.
+
+•GAAP and non-GAAP tax rates are both expected to be 10 percent, plus or minus 1 percent, excluding any discrete items. GAAP discrete items include excess tax benefits or deficiencies related to stock-based compensation, which are expected to generate variability on a quarter by quarter basis.
+
+For fiscal 2020, revenue is expected to be flat to down slightly.
+
+Latest Highlights
+
+Since the end of the third quarter, NVIDIA has achieved progress in these areas:
+
+Datacenter
+
+•Announced that the NVIDIA® T4 GPU launched in public beta on Google Cloud Platform, with availability in the U.S., Europe, Brazil, India, Japan, and Singapore.
+
+•Set six records in AI performance with the release of MLPerf, the industry’s first objective set of AI benchmarks.
+
+•Announced with Google the integration of NVIDIA’s RAPIDS™ GPU-accelerated data science libraries with Kubeflow Pipelines, a Kubernetes-based platform for deploying and managing machine learning workloads in hyperscale datacenters.
+
+Gaming
+
+•Launched the GeForce RTX™ 2060 GPU, putting exceptional performance and graphics enhanced by ray tracing and AI within reach of tens of millions of gamers.
+
+•Unveiled a record 40+ new gaming laptops in over 100 configurations powered by NVIDIA GeForce RTX GPUs.
+
+•Expanded its G-SYNC™ ecosystem with G-SYNC-compatible monitors, tested and driver-optimized by NVIDIA. 
+
+•Announced that Battlefield V, the first real-time ray tracing game, will add DLSS AI super-sampling technology; that the highly anticipated game Anthem will integrate DLSS; and that Justice, one of China’s most popular MMO games, will add ray tracing and DLSS.
+
+Professional Visualization
+
+•Introduced Quadro RTX™ 4000, bringing real-time ray tracing to millions of midrange workstation users.
+
+•Announced the NVIDIA CUDA®-accelerated REDCODE RAW decode SDK, in collaboration with RED Digital Cinema, enabling developers and studios to edit 8K video in real time without the need for additional video processors.
+
+Automotive
+
+•Introduced NVIDIA DRIVE™ AutoPilot, the world’s first commercially available Level 2+ automated driving system, with Tier 1 suppliers Continental and ZF announcing the availability of Level 2+ solutions based on NVIDIA DRIVE in 2020.
+
+•Announced with Mercedes-Benz that it will create a centralized computing architecture for the automaker’s next-generation vehicles, enabling them to be software-defined AI cars. 
+
+Edge Computing
+
+•Launched the NVIDIA Jetson AGX Xavier™, a palm-sized module delivering 32 TOPS to help build the next generation of autonomous machines.
+
+•Opened its AI and Robotics Research Lab in Seattle.
+
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at http://investor.nvidia.com/. 
+
+Conference Call and Webcast Information 
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2019 financial results and current financial prospects today at 2:30 p.m. Pacific time (5:30 p.m. Eastern time). A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, http://investor.nvidia.com. The webcast will be recorded and available for replay until NVIDIA’s conference call to discuss its financial results for its first quarter of fiscal 2020.
+
+Non-GAAP Measures 
+
+To supplement NVIDIA’s Condensed Consolidated Statements of Income and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), non-GAAP income tax expense, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, non-GAAP diluted shares, and free cash flow. In order for NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation expense, legal settlement costs, acquisition-related and other costs, gains from non-affiliated investments, interest expense related to amortization of debt discount, debt-related costs, the associated tax impact of these items, where applicable, and the tax benefit from income tax reform. Weighted average shares used in the non-GAAP diluted net income per share computation includes the anti-dilution impact of our Note Hedge. Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and the company’s non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+About NVIDIA
+
+NVIDIA’s (NASDAQ: NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI - the next era of computing - with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at http://nvidianews.nvidia.com/. 
+
+###
+
+For further information, contact:
+
+[DATA_TABLE_REMOVED]
+
+Certain statements in this press release including, but not limited to, statements as to: the turbulent close to our year and the causes of a disappointing quarter, including post-crypto excess channel inventory and recent deteriorating end-market conditions; NVIDIA’s fundamental position and the markets we serve being strong; NVIDIA’s accelerated computing platform being central to some of the world’s most important and fastest-growing industries; our expectation to return to sustained growth; NVIDIA’s intended capital return through the end of fiscal 2020; NVIDIA’s next quarterly cash dividend; NVIDIA’s financial outlook for the first quarter of fiscal 2020; NVIDIA’s financial outlook for fiscal 2020; NVIDIA’s expected tax rates for the first quarter of fiscal 2020; our expectation to generate variability from excess tax benefits or deficiencies related to stock-based compensation; the launch and availability of NVIDIA T4 GPUs; GeForce RTX 2060 giving tens of millions of gamers performance and graphics enhanced by ray tracing and AI; the number of laptops and configurations powered by GeForce RTX GPUs; the expansion of the G-SYNC ecosystem; Battlefield V, Anthem and Justice integrating DLSS; Quadro RTX 4000 bringing real-time ray tracing to millions of midrange workstation users; the performance, benefits and abilities of RAPIDS, GeForce RTX 2060, NVIDIA CUDA-accelerated REDCODE RAW decode SDK, NVIDIA Jetson AGX Xavier and NVIDIA DRIVE AutoPilot; the availability of Level 2+ solutions based on NVIDIA DRIVE from Tier 1 suppliers; and our work with Mercedes-Benz to create a centralized computing architecture for its vehicles are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. 
+
+© 2019 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, Quadro, CUDA, GeForce RTX, G-SYNC, Jetson AGX Xavier, NVIDIA DRIVE, Quadro RTX and RAPIDS are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+
+NVIDIA CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

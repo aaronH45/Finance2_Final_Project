@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000107263",
+    "sec_company_name": "WILLIAMS COMPANIES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150218",
+    "sec_filing_date": "20150218",
+    "sec_changed_date": "20150218",
+    "sec_accepted_date": "20150218164935",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/107263/000119312515052850/0001193125-15-052850-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/107263/000119312515052850/0001193125-15-052850.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\WMB_0000107263_EX991_20150218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1392705 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 30028,
+    "endpoints": [
+        "EX-99.1   ",
+        "Notes: 1 Near-term tax rates are lower than longer-term rates due to accelerated depreciation and deductions related to our investment in ACMP. A 2014 tax Net Operating Loss, due to bonus depreciation, will yield a carryback refund from 2012 and a carryforward reducing taxes through 2017. The average tax rate for 2018–2019 is expected to be approximately 4%, which represents a blended rate on MLP distributions, WMB NGL Petchem earnings, and corporate interest expense as well other tax items impacting the WMB corporate entity. 2 WMB Cash Flow Available for Dividends / WMB Expected Dividends Paid."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WMB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\WMB_0000107263_EX991_20150218_EX-99_excerpt.txt",
+    "time_elapsed": 0.9,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:21:15.571371"
+}

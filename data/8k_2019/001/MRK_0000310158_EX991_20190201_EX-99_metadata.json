@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000310158",
+    "sec_company_name": "Merck & Co., Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190201",
+    "sec_filing_date": "20190201",
+    "sec_changed_date": "20190201",
+    "sec_accepted_date": "20190201065201",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465919004932/0001104659-19-004932-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/310158/000110465919004932/0001104659-19-004932.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MRK_0000310158_EX991_20190201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "934043 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 39945,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "(5) Other Revenues are comprised primarily of Healthcare Services segment revenues, third-party manufacturing sales and miscellaneous corporate revenues, including revenue hedging activities."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MRK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\MRK_0000310158_EX991_20190201_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:39:39.796461"
+}

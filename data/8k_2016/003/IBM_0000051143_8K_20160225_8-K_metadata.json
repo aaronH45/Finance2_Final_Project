@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000051143",
+    "sec_company_name": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160225",
+    "sec_filing_date": "20160225",
+    "sec_changed_date": "20160225",
+    "sec_accepted_date": "20160225085540",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/51143/000110465916099789/0001104659-16-099789-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/51143/000110465916099789/0001104659-16-099789.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IBM_0000051143_8K_20160225_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "131195 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 33258,
+    "endpoints": [
+        "UNITED STATES ",
+        "These charts and the associated remarks and comments are integrally related, and they are intended to be presented and understood together. In an effort to provide additional and useful information regarding the company’s financial results and other financial information as determined by generally accepted accounting principles (GAAP), certain materials presented during this event include non-GAAP information. The rationale for management’s use of this non-GAAP information, the reconciliation of that information to GAAP, and other related information is included in supplemental materials entitled “Non-GAAP Supplemental Materials” that are linked to the company’s investor relations web site at http://www.ibm.com/investor/events/investor0216.html. The Non-GAAP Supplemental Materials are also included as Attachment II to the company’s Form 8-K dated January 19, 2016 and Attachment I to the company’s Form 8-K dated February 25, 2016."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IBM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IBM_0000051143_8K_20160225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:52:02.470768"
+}

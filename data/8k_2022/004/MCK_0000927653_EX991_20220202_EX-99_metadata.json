@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000927653",
+    "sec_company_name": "MCKESSON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220202",
+    "sec_filing_date": "20220202",
+    "sec_changed_date": "20220202",
+    "sec_accepted_date": "20220202160830",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927653/000092765322000015/0000927653-22-000015-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927653/000092765322000015/0000927653-22-000015.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\MCK_0000927653_EX991_20220202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "791232 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 44236,
+    "endpoints": [
+        "Document",
+        "The Company internally uses both GAAP and Non-GAAP financial measures in connection with its own financial planning and reporting processes. Management utilizes Non-GAAP financial measures when allocating resources, deploying capital, as well as assessing business performance, and determining employee incentive compensation. The Company conducts its businesses internationally in local currencies, including Euro, British pound sterling, and Canadian dollars. As a result, the comparability of our results reported in U.S. dollars can be affected by changes in foreign currency exchange rates. We present FX-Adjusted information to provide a framework for assessing how our business performed excluding the estimated effect of foreign currency exchange rate fluctuations. We believe free cash flow is important to management and useful to investors as a supplemental measure as it indicates the cash flow available for working capital needs, re-investment opportunities, strategic acquisitions, dividend payments, or other strategic uses of cash. Nonetheless, Non-GAAP adjusted results and related Non-GAAP measures disclosed by the Company should not be considered a substitute for, nor superior to, financial results and measures as determined or calculated in accordance with GAAP."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MCK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\MCK_0000927653_EX991_20220202_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:32:02.944889"
+}

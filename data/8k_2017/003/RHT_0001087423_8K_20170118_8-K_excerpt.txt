@@ -1,0 +1,117 @@
+Form 8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, DC 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of report (Date of earliest event reported): January 18, 2017  
+
+Red Hat, Inc.  
+
+(Exact Name of Registrant as Specified in Its Charter)  
+
+Delaware  
+
+(State or Other Jurisdiction of Incorporation)  
+
+  [DATA_TABLE_REMOVED] 
+
+(919) 754-3700  
+
+(Registrant’s Telephone Number, Including Area Code)  
+
+Not Applicable  
+
+(Former Name or Former Address, if Changed Since Last Report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+ ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+ Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers  
+
+(d) On January 18, 2017, the Board of Directors (the “Board”) of Red Hat, Inc. (the “Company”) appointed Eric R. Shander, 48, to serve as the Company’s acting chief financial officer and principal financial officer, effective January 20, 2017, pending a decision on a permanent replacement. Mr. Shander replaces Frank Calderoni, whose resignation was previously disclosed by the Company in a report on Form 8-K filed on December 21, 2016. Mr. Shander joined the Company in November 2015 and currently serves as the Company’s Vice President, Finance and Accounting and principal accounting officer. Prior to joining the Company, Mr. Shander spent over twenty years in a variety of business and finance roles at International Business Machines Corporation (NYSE: IBM), a provider of integrated solutions and products that leverage data, information technology, deep expertise in industries and business processes. Most recently, Mr. Shander served as VP/Global Services Automation & Competitiveness from January 2015 until November 2015, VP/Americas Strategic IT Outsourcing Delivery from May 2011 until December 2014 and VP/Global Finance & Accounting Solutions & Delivery from September 2008 until April 2011. Mr. Shander left IBM in March 2005 to serve as VP/Chief Accountant at Lenovo Group Ltd. (SEHK: 992), a manufacturer and marketer of technology products and services, from April 2005 until August 2008, when he rejoined IBM. Mr. Shander entered into no new compensation arrangements with the Company in connection with his appointment as principal financial officer.  
+
+(e) Mr. Shander currently participates in the same compensation arrangements as the Company’s non-executive employees except where noted below.  
+
+Annual Base Salary: Mr. Shander’s annual base salary is $385,000. He is eligible for discretionary base salary increases.  
+
+Employee Variable Incentive Compensation Plan: Mr. Shander participates in the Company’s variable incentive compensation plan (the “VIC Plan”), under which he is eligible to receive a cash bonus determined quarterly at the discretion of his manager based upon:  
+
+   1. Mr. Shander’s target annual bonus opportunity (currently 40% of his annual base salary and subject to change);  
+
+   2. The Company’s performance against target performance goals for the Company’s revenue and non-GAAP operating income for the applicable quarter; and  
+
+   3. Mr. Shander’s individual performance during the applicable quarter.  
+
+Mr. Shander must be employed by the Company on the bonus payment date in order to receive any award.  
+
+Equity Awards: Mr. Shander is eligible for discretionary grants of restricted stock units (“RSUs”), subject to the terms and conditions of the form of RSU Agreement filed as Exhibit 10.1 to the Company’s Form 10-Q filed on October 8, 2010 (the “RSU Agreement”). The amount and timing of any RSU award is at his manager’s discretion and is subject to approval by the Company’s Compensation Committee. The shares of restricted stock subject to the award vest ratably on the anniversary of the award’s grant date over the course of the subsequent four-year period, provided that Mr. Shander maintains continuous service with the Company or any of its affiliates as an employee, consultant or director (a “Business Relationship”) as of the vesting date. If Mr. Shander’s Business Relationship ceases for any reason prior to the vesting date, any unvested RSUs will be forfeited.  
+
+If a change in control of the Company occurs (a “CIC Event”), and provided that Mr. Shander’s Business Relationship has not ceased, all outstanding RSUs shall vest if (x) the RSU Agreement is continued, assumed converted or substituted for immediately following the CIC Event and (y) Mr. Shander’s Business Relationship with the Company is terminated without Good Cause (as defined in the RSU Agreement). If the RSU Agreement is not continued, assumed, converted or substituted for immediately following the CIC Event, Mr. Shander will receive a lump sum cash payment within 30 days of the CIC Event in an amount equal to the amount that would have been delivered had the RSUs fully vested upon the CIC Event.  
+
+The foregoing description of the terms of the RSU awards and the RSU Agreement does not purport to be complete and is qualified in its entirety by the provisions of the RSU Agreement.  
+
+Severance Arrangements: Mr. Shander is eligible for a cash payment equal to 1.4 times his then current annual base salary in the event that his employment with the Company is terminated by the Company without Good Cause (as defined below) or by Mr. Shander with Good Reason (as defined below), subject to the Company’s receipt of a valid release of claims and his compliance with non-compete, non-solicitation, non-disparagement, protection of confidential information and other covenants. This severance benefit is not available to all of the Company’s non-executive employees.  
+
+“Good Cause” is defined as one of the following:  
+
+   •   conviction of, or plea of guilty or nolo contendere to, a felony;  
+
+   •   willful misconduct resulting in material harm to the Company;  
+
+   •   fraud, embezzlement, theft or dishonesty against the Company resulting in material harm to the Company;  
+
+   •   repeated and continuing failure to follow proper and lawful directions after a written demand identifying the failure has been delivered;  
+
+   •   current alcohol or prescription drug abuse affecting work performance, or current illegal use of drugs;  
+
+   •   a material violation of the Company’s Code of Business Conduct and Ethics that causes harm to the Company; or  
+
+   •   a material breach of any term of any confidentiality and/or non-competition agreement.  
+
+“Good Reason” is defined as one of the following:  
+
+   •   a material reduction in annual base salary, other than an across-the-board reduction applicable to all Company employees at a position of Vice President of not more than 10%; or  
+
+   •   any requirement to be based anywhere more than fifty miles from the participant’s primary office location and in a new office location that is a greater distance from the principal residence at the time that the move is requested.  
+
+Change in Control Severance Arrangements: Mr. Shander is eligible for benefits under our Senior Management Change in Control Policy (the “CIC Policy”). Under this policy, Mr. Shander will be eligible for lump sum cash payments if his employment is terminated under certain circumstances after a Change in Control (as defined in the CIC Policy) of the Company. These payments will be in lieu of, and not in addition to, any other cash severance payments to which he may be entitled following a Change in Control. He will not be entitled to receive any excise tax gross-up payments under the CIC Policy. This severance benefit is not available to all of the Company’s non-executive employers.  
+
+The summary of the terms of the CIC Policy in the Current Report on Form 8-K filed with the SEC on February 28, 2007 (the “February 2007 Form 8-K”) is incorporated herein by reference and is qualified in its entirety by the provisions of the CIC Policy filed as Exhibit 10.14 to our Annual Report on Form 10-K filed with the SEC on April 25, 2012; provided, however, that in February 2015, the Board adopted a policy that it would no longer enter into any new agreements to make gross-up payments for excise taxes paid under Section 4999 of the Internal Revenue Code of 1986, as amended, by any Company executive.  
+
+Other Arrangements: Mr. Shander received a one-time sign-on bonus of $300,000 when he joined the Company in 2015. If Mr. Shander resigns or is terminated by the Company for Cause within twenty-four months of his November 16, 2015 start date, he must repay a pro-rata amount of the bonus.  
+
+“Cause” is defined as one of the following:  
+
+   •   fraud, misappropriation, embezzlement, willful misconduct or gross negligence with respect to the Company;  
+
+   •   conviction of, or plea of guilty or no contest to (1) a felony, (2) any misdemeanor (other than a traffic violation) with respect to employment, or (3) any other crime or activity that would impair the ability to perform duties or impair the Company’s business reputation;  
+
+   •   continued failure to adequately perform assigned duties after a written demand identifying the failure has been delivered;  
+
+   •   willful failure or refusal to comply with the Company or its subsidiaries standards, policies or procedures; or  
+
+   •   material misrepresentation or breach of any representation, obligation or agreement under any employment agreement with the Company.  
+
+SIGNATURE  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

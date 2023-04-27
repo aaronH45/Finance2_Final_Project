@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004515",
+    "sec_company_name": "AMERICAN AIRLINES, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220131",
+    "sec_filing_date": "20220202",
+    "sec_changed_date": "20220202",
+    "sec_accepted_date": "20220202080028",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620122000018/0000006201-22-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620122000018/0000006201-22-000018.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\AAL_0000004515_8K_20220131_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "62947 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7951,
+    "endpoints": [
+        "xml version='1.0' ? aal-20220131",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\AAL_0000004515_8K_20220131_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:51.764805"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000002969",
+    "sec_company_name": "AIR PRODUCTS & CHEMICALS INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190125",
+    "sec_filing_date": "20190125",
+    "sec_changed_date": "20190125",
+    "sec_accepted_date": "20190125080505",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/2969/000000296919000010/0000002969-19-000010-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/2969/000000296919000010/0000002969-19-000010.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\APD_0000002969_EX991_20190125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "783524 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20138,
+    "endpoints": [
+        "Exhibit   ",
+        "In December 2018, one of our customers was subject to a government enforced shutdown due to environmental reasons. As a result, we recognized a charge of $29.0 ($22.1 after-tax, or $.10 per share), primarily related to the write-off of onsite assets, during the first quarter of fiscal year 2019. This charge is reflected on our consolidated income statements as “Facility closure” and has been excluded from segment results. Annual sales and operating income associated with this customer prior to the facility closure were not material to the Industrial Gases – Asia segment. We do not expect to recognize additional charges related to this shutdown."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "APD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\004\APD_0000002969_EX991_20190125_EX-99_excerpt.txt",
+    "time_elapsed": 0.3,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:57:00.419516"
+}

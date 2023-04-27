@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000865752",
+    "sec_company_name": "Monster Beverage Corp (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220224",
+    "sec_filing_date": "20220224",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224162412",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/865752/000110465922026611/0001104659-22-026611-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/865752/000110465922026611/0001104659-22-026611.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MNST_0000865752_8K_20220224_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23895 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3662,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?               ",
+        "   Vice Chairman of the Board of Directors and Co-Chief Executive Officer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MNST",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MNST_0000865752_8K_20220224_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:06.177040"
+}

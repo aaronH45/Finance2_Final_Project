@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000713676",
+    "sec_company_name": "PNC FINANCIAL SERVICES GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210115",
+    "sec_filing_date": "20210115",
+    "sec_changed_date": "20210115",
+    "sec_accepted_date": "20210115065315",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367621000011/0000713676-21-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367621000011/0000713676-21-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\PNC_0000713676_EX991_20210115_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "654189 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 50985,
+    "endpoints": [
+        "Document",
+        "We provide greater detail regarding these as well as other factors in our 2019 Form 10-K and subsequent Form 10-Qs, including in the Risk Factors and Risk Management sections and the Legal Proceedings and Commitments Notes of the Notes To Consolidated Financial Statements in those reports, and in our other subsequent SEC filings. In particular, our forward-looking statements are subject to risks and uncertainties related to the COVID-19 pandemic and the resulting governmental and societal responses. Our forward-looking statements may also be subject to other risks and uncertainties, including those we may discuss elsewhere in this news release or in our SEC filings, accessible on the SEC’s website at www.sec.gov and on our corporate website at www.pnc.com/secfilings. We have included these web addresses as inactive textual references only. Information on these websites is not part of this document."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\PNC_0000713676_EX991_20210115_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:13:05.518186"
+}

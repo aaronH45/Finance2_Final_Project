@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000820027",
+    "sec_company_name": "AMERIPRISE FINANCIAL INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190130",
+    "sec_filing_date": "20190130",
+    "sec_changed_date": "20190130",
+    "sec_accepted_date": "20190130162315",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002719000003/0000820027-19-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002719000003/0000820027-19-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AMP_0000820027_EX991_20190130_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "85929 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 51182,
+    "endpoints": [
+        "exhibit99112312018f   ",
+        " Ameriprise Financial, Inc. Consolidated GAAP Results Quarter Ended December 31, % Better/ (in millions, unaudited) 2018 2017 (Worse) Revenues Management and financial advice fees $ 1,677 $ 1,721 (3 )% Distribution fees 474 456 4 Net investment income 395 355 11 Premiums 363 359 1 Other revenues 299 303 (1 ) Total revenues 3,208 3,194 — Banking and deposit interest expense 29 14 NM Total net revenues 3,179 3,180 — Expenses Distribution expenses 910 893 (2 ) Interest credited to fixed accounts 175 147 (19 ) Benefits, claims, losses and settlement expenses 444 581 24 Amortization of deferred acquisition costs 142 78 (82 ) Interest and debt expense 64 53 (21 ) General and administrative expense 792 833 5 Total expenses 2,527 2,585 2 Pretax income 652 595 10 Income tax provision 113 418 73 % Net income $ 539 $ 177 NM NM Not Meaningful — variance equal to or greater than 100% Ameriprise Financial, Inc. Consolidated GAAP Results Year Ended December 31, % Better/ (in millions, unaudited) 2018 2017 (Worse) Revenues Management and financial advice fees $ 6,776 $ 6,415 6 % Distribution fees 1,877 1,757 7 Net investment income 1,596 1,509 6 Premiums 1,426 1,394 2 Other revenues 1,249 1,105 13 Total revenues 12,924 12,180 6 Banking and deposit interest expense 89 48 (85 ) Total net revenues 12,835 12,132 6 Expenses Distribution expenses 3,637 3,397 (7 ) Interest credited to fixed accounts 674 656 (3 ) Benefits, claims, losses and settlement expenses 2,302 2,233 (3 ) Amortization of deferred acquisition costs 322 267 (21 ) Interest and debt expense 245 207 (18 ) General and administrative expense 3,171 3,158 — Total expenses 10,351 9,918 (4 ) Pretax income 2,484 2,214 12 Income tax provision 386 734 47 Net income $ 2,098 $ 1,480 42% 22"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AMP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AMP_0000820027_EX991_20190130_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:41:04.379971"
+}

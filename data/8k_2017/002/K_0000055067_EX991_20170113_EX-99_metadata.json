@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000055067",
+    "sec_company_name": "KELLOGG CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170113",
+    "sec_filing_date": "20170113",
+    "sec_changed_date": "20170113",
+    "sec_accepted_date": "20170113090529",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/55067/000162828017000220/0001628280-17-000220-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/55067/000162828017000220/0001628280-17-000220.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\K_0000055067_EX991_20170113_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10093 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2565,
+    "endpoints": [
+        "Exhibit   ",
+        "At Kellogg Company (NYSE: K), we strive to make foods people love. This includes our beloved brands - Kellogg's®, Keebler®, Special K®, Pringles®, Kellogg's Frosted Flakes®, Pop-Tarts®, Kellogg's Corn Flakes®, Rice Krispies®, Cheez-It®, Eggo®, Mini-Wheats® and more - that nourish families so they can flourish and thrive. With 2015 sales of $13.5 billion and more than 1,600 foods, Kellogg is the world's leading cereal company; second largest producer of cookies, crackers and savory snacks; and a leading North American frozen foods company. Through our Breakfasts for Better Days™ global hunger initiative, we've provided more than 1.7 billion servings of cereal and snacks to children and families in need around the world. To learn more, visit www.kelloggcompany.com or follow us on Twitter @KelloggCompany, YouTube and on Social K, the company’s corporate blog."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "K",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\K_0000055067_EX991_20170113_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:06:56.594638"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000047217",
+    "sec_company_name": "HP INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200224",
+    "sec_filing_date": "20200224",
+    "sec_changed_date": "20200224",
+    "sec_accepted_date": "20200224162857",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/47217/000004721720000004/0000047217-20-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/47217/000004721720000004/0000047217-20-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\HPQ_0000047217_EX99_20200224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "461899 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 26001,
+    "endpoints": [
+        "Exhibit  ",
+        "HP believes that providing net revenue on a constant currency basis, non-GAAP total operating expense, non-GAAP operating profit, non-GAAP operating margin, non-GAAP tax rate, non-GAAP net earnings, non-GAAP diluted net EPS, free cash flow, gross cash and net cash (debt) to investors in addition to the related GAAP financial measures provides investors with greater transparency to the information used by HP’s management in its financial and operational decision making and allows investors to see HP’s results “through the eyes” of management. HP further believes that providing this information better enables HP’s investors to understand HP’s operating performance and financial condition and to evaluate the efficacy of the methodology and information used by HP’s management to evaluate and measure such performance and financial condition. Disclosure of these non-GAAP financial measures also facilitates comparisons of HP’s operating performance with the performance of other companies in HP’s industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HPQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\HPQ_0000047217_EX99_20200224_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:40:31.399716"
+}

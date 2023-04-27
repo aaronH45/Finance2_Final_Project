@@ -1,0 +1,119 @@
+Q4'15 PR   
+
+FOR IMMEDIATE RELEASE:
+
+NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2015
+
+•Record revenue in Q4 of $1.25 billion, up 9 percent from $1.14 billion a year earlier.
+
+•GAAP diluted EPS in Q4 of $0.35, up 40 percent from $0.25 a year earlier. Non-GAAP diluted EPS in Q4 of $0.43, up 34 percent from $0.32 a year earlier. 
+
+•Record revenue in fiscal 2015 of $4.68 billion, up 13 percent from $4.13 billion a year earlier. 
+
+•GAAP diluted EPS in fiscal 2015 of $1.12, up 51 percent from $0.74 a year earlier. Non-GAAP diluted EPS in fiscal 2015 of $1.42, up 43 percent from $0.99 a year earlier. 
+
+SANTA CLARA, Calif.-Feb. 11, 2015-NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2015, of $1.25 billion, up 9 percent from $1.14 billion a year earlier and up 2 percent from $1.23 billion the previous quarter.
+
+Revenue for fiscal 2015 was a record $4.68 billion, up 13 percent from $4.13 billion a year earlier.
+
+GAAP earnings per diluted share for the quarter were $0.35, up 40 percent from $0.25 a year earlier and up 13 percent from $0.31 in the previous quarter. Non-GAAP earnings per diluted share were $0.43, up 34 percent from $0.32 a year earlier and up 10 percent from $0.39 in the previous quarter. 
+
+GAAP earnings per diluted share for fiscal 2015 were $1.12, up 51 percent from $0.74 a year earlier. Non-GAAP earnings per diluted share were $1.42, up 43 percent from $0.99 a year earlier. 
+
+“Momentum is accelerating in each of our market-specialized platforms, driving record revenue in the quarter and full year,” said Jen-Hsun Huang, president and chief executive officer of NVIDIA.
+
+"GeForce and SHIELD are extending our reach in the rapidly growing global gaming market. Our DRIVE auto-computing platform is at the center of the advance toward self-driving cars. GRID is enabling enterprises to finally virtualize graphics-intensive applications. And our Tesla accelerated computing platform is helping to ignite the deep learning revolution.
+
+"The success of these platforms highlights the growing importance of visual computing and the opportunities ahead for NVIDIA," he said.
+
+During the fourth quarter, NVIDIA paid $46 million in cash dividends and repurchased 0.2 million shares. During fiscal 2015, the company paid $186 million in cash dividends and repurchased 44.4 million shares for $814 million. As a result, the company returned to shareholders $1.0 billion in fiscal 2015. 
+
+Since the restart of its capital return program in the fourth quarter of fiscal 2013, NVIDIA has returned approximately $2.22 billion to shareholders. This return represents 111 percent of the company’s cumulative free cash flow for fiscal years 2013 through 2015, reflecting the acceleration of the capital return program from cash generated in previous years. 
+
+The company intends to return approximately $600 million to shareholders through ongoing quarterly cash dividends and share repurchases in fiscal 2016.
+
+NVIDIA will pay its next quarterly cash dividend of $0.085 per share on March 19, 2015, to all shareholders of record on February 26, 2015. NVIDIA expects that a portion of this dividend payment may be considered a return of capital for U.S. federal income tax purposes.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+NVIDIA’s outlook for the first quarter of fiscal 2016 is as follows:
+
+•Revenue is expected to be $1.16 billion, plus or minus two percent.
+
+•GAAP and non-GAAP gross margins are expected to be 56.2 percent and 56.5 percent, respectively, plus or minus 50 basis points.
+
+•GAAP operating expenses are expected to be approximately $478 million; non-GAAP operating expenses are expected to be approximately $425 million, inclusive of litigation costs. 
+
+•GAAP and non-GAAP tax rates for the first quarter of fiscal 2016 are expected to be 20 percent, plus or minus one percent - excluding the benefit of the U.S. Federal R&D tax credit which expired December 31, 2014. 
+
+•Capital expenditures are expected to be approximately $30 million to $40 million.
+
+Fourth Quarter Fiscal 2015 Highlights
+
+During the fourth quarter, NVIDIA achieved progress in each of its market-specialized platforms:
+
+Gaming:
+
+•Introduced the GeForce® GTX™ 960 GPU, bringing the power and efficiency of the Maxwell architecture to the gaming market’s $199 sweet spot.
+
+Enterprise Graphics:
+
+•Announced, shortly after the quarter, that the new version of VMware’s virtualization suite, VMware Horizon 6, includes the capability to deliver scalable, virtualized 3D graphics enabled by NVIDIA GRID vGPU™.
+
+Accelerated Computing:[DATA_TABLE_REMOVED]
+
+•Launched the Tesla K80 dual-GPU accelerator, designed to power a wide range of machine learning, data-analytics and high performance computing applications.
+
+Automotive:[DATA_TABLE_REMOVED]
+
+•Launched NVIDIA DRIVE™ automotive computers, which move the industry closer to the era of auto-piloted cars and run next-generation infotainment systems.
+
+CFO Commentary
+
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at http://investor.nvidia.com/.
+
+Conference Call and Webcast Information 
+
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter and fiscal 2015 financial results and current financial prospects today at 2 p.m. Pacific Time (5 p.m. Eastern Time). To listen to the conference call, dial (303) 223-4365; no password is required. A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, http://investor.nvidia.com, and at www.streetevents.com. The webcast will be recorded and available for replay until the company’s conference call to discuss its financial results for its first quarter fiscal 2016.
+
+Non-GAAP Measures 
+
+To supplement NVIDIA’s Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP other income and expense, non-GAAP income tax expense, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, and free cash flow. In order for NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation, legal settlements, a credit related to a weak die/packaging material set, acquisition-related costs, gains and losses from non-affiliated investments, interest expense related to amortization of debt discount, other expense and the associated tax impact of these items, where applicable. Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+To Keep Current on NVIDIA: [DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+•Use the Pulse news reader to subscribe to the NVIDIA Daily News feed.
+
+About NVIDIA
+
+Since 1993, NVIDIA (NASDAQ: NVDA) has pioneered the art and science of visual computing. The company’s technologies are transforming a world of displays into a world of interactive discovery - for everyone from gamers to scientists, and consumers to enterprise customers. More information at http://nvidianews.nvidia.com and http://blogs.nvidia.com.
+
+###
+
+For further information, contact:
+
+[DATA_TABLE_REMOVED]
+
+Certain statements in this press release including, but not limited to statements as to: momentum accelerating in each of the company’s market-specialized platforms; GeForce and SHIELD extending the company’s reach in the rapidly growing global gaming market; GRID enabling enterprises to virtualize graphics-intensive applications; the Tesla accelerated computing platform helping to ignite the deep learning revolution; the growing importance of visual computing; the company’s intent to return approximately $600 million to shareholders in fiscal 2016; a portion of the company’s dividend payment being considered a return of capital; the company’s financial outlook for the first quarter of fiscal 2016; the company’s tax rates for the first quarter of fiscal 2016; and the benefits and features of the GeForce GTX 960 GPU, NVIDIA GRID vGPU, the NVIDIA Tesla Accelerated Computing Platform, the Tesla K80 dual-GPU accelerator, the Tegra X1 mobile processor and NVIDIA DRIVE are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 26, 2014. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+© 2015 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, GTX, Tegra, Tesla, GRID vGPU, Maxwell, NVLink, NVIDIA GRID, and SHIELD are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+
+NVIDIA CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In thousands, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

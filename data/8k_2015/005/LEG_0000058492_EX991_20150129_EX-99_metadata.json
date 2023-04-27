@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000058492",
+    "sec_company_name": "LEGGETT & PLATT INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150129",
+    "sec_filing_date": "20150129",
+    "sec_changed_date": "20150129",
+    "sec_accepted_date": "20150129165500",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/58492/000119312515025764/0001193125-15-025764-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/58492/000119312515025764/0001193125-15-025764.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\LEG_0000058492_EX991_20150129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "219676 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13104,
+    "endpoints": [
+        "Press Release dated January 29, 2015   ",
+        " 3  Excludes $9m ($.06 / share) gain on acquisition in 3Q 2013, $67m ($.31 / share) CVP impairment in 4Q 2013, $32m ($.14 / share) litigation accrual in 3Q 2014, and $22m ($.09 / share) litigation accrual in 4Q 2014."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LEG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\LEG_0000058492_EX991_20150129_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:39:25.290631"
+}

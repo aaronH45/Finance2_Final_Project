@@ -1,0 +1,57 @@
+ITEM 7A.   
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+The primary objective of the following information is to provide forward-looking quantitative and qualitative information about our potential exposure to market risks. The term “market risk” refers to the risk of loss arising from adverse changes in natural gas, NGLs and oil prices and interest rates. The disclosures are not meant to be precise indicators of expected future losses, but rather indicators of reasonably possible losses. This forward-looking information provides indicators of how we view and manage our ongoing market-risk exposure. All of our market-risk sensitive instruments were entered into for purposes other than trading. All accounts are U.S. dollar denominated.  
+
+Market Risk  
+
+We are exposed to market risks related to the volatility of natural gas, NGLs and oil prices as the volatility of these prices continues to impact our industry. We expect commodity prices to remain volatile and unpredictable in the future. We employ various strategies, including the use of commodity derivative instruments, to manage the risks related to these price fluctuations. These derivative instruments apply to a varying portion of our production and provide only partial price protection. These arrangements limit the benefit to us of increases in prices but offer protection in the event of price declines. Further, if our counterparties defaulted, this protection might be limited as we might not receive the benefits of the derivatives. We are at risk for changes in the fair value of all of our derivative instruments; however, such risk should be mitigated by price changes related to the underlying commodity transaction. While the use of derivative instruments could materially affect our results of operations in a particular quarter or annual period, we believe that the use of these instruments will not have a material adverse effect on our financial position or liquidity. Realized prices are primarily driven by worldwide prices for oil and spot market prices for North American natural gas production. Natural gas and oil prices have been volatile and unpredictable for many years. Natural gas prices affect us more than oil prices because approximately 67% of our December 31, 2019 proved reserves were natural gas. We are also exposed to market risks related to changes in interest rates. These risks did not change materially from December 31, 2018 to December 31, 2019.  
+
+70 
+
+Commodity Price Risk  
+
+We use commodity-based derivative contracts to manage exposures to commodity price fluctuations. We do not enter into these arrangements for speculative or trading purposes. At times, certain of our derivatives are swaps where we receive a fixed price for our production and pay market prices to the counterparty. Our derivatives program may also include collars, which establish a minimum floor price and a predetermined ceiling price. We have also entered into combined natural gas derivative instruments containing a fixed price swap and a sold option to extend the term or expand the volume (which we refer to as a swaption). The swap price is a fixed price determined at the time of the swaption contract. If the option is exercised, the contract will become a swap treated consistently with our fixed-price swaps. At December 31, 2019, our derivatives program includes swaps, swaptions and calls. These contracts expire monthly through December 2021. Their fair value, represented by the estimated amount that would be realized upon immediate liquidation as of December 31, 2019, approximated a net derivative asset of $126.7 million compared to a net derivative asset of $80.9 million at December 31, 2018. This change is primarily related to the settlements of derivative contracts during 2019 and to the natural gas, NGLs and oil futures prices as of December 31, 2019 in relation to the new commodity derivative contracts we entered into during 2019 for 2020 and 2021. At December 31, 2019, the following commodity derivative contracts were outstanding, excluding our basis swaps which are discussed below: 
+
+ [DATA_TABLE_REMOVED] 
+
+(1) We also sold natural gas call swaptions of 140,000 Mmbtu/day for March-December 2020 at a weighted average price of $2.53 and 100,000 Mmbtu per day for 2021 at a weighted average price of $2.69. In addition, we sold crude oil call swaptions of 3,000 bbls per day for 2021 at a weighted average price of $56.50. The fair market value of these swaptions at December 31, 2019 was a net derivative liability of $4.8 million. 
+
+In our Marcellus Shale operations, propane is a large product component of our NGLs production and we believe NGLs prices are somewhat seasonal. Therefore, the percentage of NGLs prices to NYMEX WTI (or West Texas Intermediate) will vary due to product components, seasonality and geographic supply and demand. We sell NGLs in several regional and international markets. If we are not able to sell or store NGLs, we may be required to curtail production or shift our drilling activities to dry gas areas. 
+
+Currently, the Appalachian region has limited local demand and infrastructure to accommodate ethane. We have agreements wherein we have contracted to either sell or transport ethane from our Marcellus Shale area. If we are not able to sell ethane under at least one of our agreements, we may be required to curtail production which will adversely affect our revenues and cash flow. However, as we have done in the past, we also may be able to purchase or divert natural gas to blend with our rich residue gas. 
+
+Other Commodity Risk  
+
+We are impacted by basis risk as natural gas transaction prices are frequently based on industry reference prices that may vary from prices experienced in local markets. If commodity price changes in one region are not reflected in other regions, derivative commodity instruments may no longer provide the expected hedge, resulting in increased basis risk. In addition to the swaps above, we have entered into natural gas basis swap agreements. The price we receive for our natural gas production can be more or less than the NYMEX price because of adjustments for delivery location (“basis”), relative quality and other factors; therefore, we have entered into basis swap agreements that effectively lock in the basis adjustments. The fair value of the natural gas basis swaps, which expire monthly through December 2021, was a net derivative asset of $9.4 million at December 31, 2019 and the volumes are for 114,882,500 Mmbtu. 
+
+As of December 31, 2019, we also had propane spread swap contracts which lock in the differential between Mont Belvieu and international propane indices. These contracts settle monthly in 2020 and the fair value of these contracts was a net derivative liability of $14.1 million on December 31, 2019. 
+
+71 
+
+In connection with our international propane swaps, at December 31, 2019, we had freight swap contracts which lock in the freight rate for a specific trade route on the Baltic Exchange. These contracts settle monthly and cover 4,000 metric tons in first quarter 2020, increasing to 14,000 metric tons per month for the remainder of 2020 and 10,000 metric tons in 2021 with a fair value net derivative asset of $1.5 million on December 31, 2019. 
+
+Commodity Sensitivity Analysis  
+
+The following table shows the fair value of our swaps and basis swaps and the hypothetical change in fair value that would result from a 10% and a 25% change in commodity prices at December 31, 2019. We remain at risk for possible changes in the market value of commodity derivative instruments; however, such risks should be mitigated by price changes in the underlying physical commodity (in thousands): 
+
+ [DATA_TABLE_REMOVED] 
+
+Counterparty Risk 
+
+Our commodity-based contracts expose us to the credit risk of non-performance by the counterparty to the contracts. Our exposure is diversified among major investment grade financial institutions and commodity traders and we have master netting agreements with the majority of our counterparties that provide for offsetting payables against receivables from separate derivative contracts. Our derivative contracts are with multiple counterparties to minimize our exposure to any individual counterparty. At December 31, 2019, our derivative counterparties include twenty financial institutions, of which all but three are secured lenders in our bank credit facility. Counterparty credit risk is considered when determining the fair value of our derivative contracts. While counterparties are major investment grade financial institutions and large commodity traders, the fair value of our derivative contracts have been adjusted to account for the risk of non-performance by certain of our counterparties, which was immaterial. Our propane sales from the Marcus Hook facility near Philadelphia are short-term and are to a single purchaser. Ethane sales from Marcus Hook are to a single international customer bearing a credit rating similar to Range. 
+
+Interest Rate Risk  
+
+We are exposed to interest rate risk on our bank debt. We attempt to balance variable rate debt, fixed rate debt and debt maturities to manage interest costs, interest rate volatility and financing risk. This is accomplished through a mix of fixed rate publicly traded debt and variable rate bank debt. At December 31, 2019, we had $3.2 billion of debt outstanding. Of this amount, $2.7 billion bears interest at a fixed rate averaging 5.2%. Bank debt totaling $477.0 million bears interest at floating rates, which was 3.0% at December 31, 2019. On December 31, 2019, the 30-day LIBOR rate was 1.8%. A 1% increase in short-term interest rates on the floating-rate debt outstanding at December 31, 2019 would cost us approximately $4.8 million in additional annual interest expense. See Note 8 to our consolidated financial statements for more information about our new senior notes.  
+
+72 
+
+The fair value of our senior and subordinated debt is based on year-end December 2019 quoted market prices. The following table presents information on these fair values (in thousands):  
+
+ [DATA_TABLE_REMOVED] 
+
+73 
+
+Item 8. financial statements and supplementary data

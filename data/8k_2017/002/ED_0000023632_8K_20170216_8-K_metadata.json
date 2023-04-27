@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000023632",
+    "sec_company_name": "CONSOLIDATED EDISON CO OF NEW YORK INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170216",
+    "sec_filing_date": "20170217",
+    "sec_changed_date": "20170217",
+    "sec_accepted_date": "20170217093326",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1047862/000104786217000031/0001047862-17-000031-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1047862/000104786217000031/0001047862-17-000031.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\ED_0000023632_8K_20170216_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "44638 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2127,
+    "endpoints": [
+        "Document   ",
+        "-3-"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ED",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\ED_0000023632_8K_20170216_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:07:43.473941"
+}

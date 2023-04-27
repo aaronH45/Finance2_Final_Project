@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001113169",
+    "sec_company_name": "PRICE T ROWE GROUP INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170202",
+    "sec_filing_date": "20170202",
+    "sec_changed_date": "20170202",
+    "sec_accepted_date": "20170202083311",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316917000009/0001113169-17-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1113169/000111316917000009/0001113169-17-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TROW_0001113169_EX991_20170202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "86959 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 52151,
+    "endpoints": [
+        "investordaymateria4e  ",
+        "T. Rowe Price Investor Day • February 2, 2017 Reconciliation Between GAAP and Adjusted 2016 (millions) Operating Expenses, GAAP Basis Non-GAAP Adjustments Expenses of consolidated sponsored investment portfolios, net of elimination of the firm’s related management fee1 Nonrecurring charge related to Dell appraisal matter2 $2,489.5 (6.5) (66.2) Adjusted Operating Expenses $2,416.8 58 1The firm implemented new consolidation accounting guidance on January 1, 2016, that resulted in a larger number of our sponsored investment portfolios, that we provide seed capital to at inception, to be consolidated in our financial statements as we were deemed to have a controlling financial interest. We now recognize investment gains and losses on a larger number of the investments in sponsored portfolios in our consolidated statement of income compared with our consolidated statement of comprehensive income in 2015. The non-GAAP adjustments add back the management fees we earn from the consolidated sponsored investment portfolios and remove the investment income and operating expenses of these portfolios that have been included in our U.S. GAAP consolidated statements of income. We believe the consolidated sponsored investment portfolios may impact the reader's ability to understand our core operating results. 2As previously disclosed, we made the decision in 2016 to compensate certain clients in regard to the Dell appraisal rights matter. We also recognized an offset to this charge for a related insurance recovery. We believe it is useful to readers of our consolidated statement of income to adjust for this nonrecurring charge, net of the insurance recovery, in arriving at adjusted operating expenses as this will aid with comparability to prior periods and analyzing our core business results. For further information and reconciliation between GAAP and adjusted, see the earnings release for the three months and year ended December 31, 2016, filed on Form 8-K on January 26, 2017."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TROW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\TROW_0001113169_EX991_20170202_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:28.263458"
+}

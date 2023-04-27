@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000315293",
+    "sec_company_name": "Aon plc (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220218",
+    "sec_changed_date": "20220218",
+    "sec_accepted_date": "20220218160756",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/315293/000162828022003180/0001628280-22-003180-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/315293/000162828022003180/0001628280-22-003180.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\AON_0000315293_10K_20211231_Item1_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4319360 chars",
+    "document_group": "10-K",
+    "section_name": "Item1",
+    "section_n_characters": 25210,
+    "endpoints": [
+        "PART I",
+        "Item 1A. Risk Factors"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "AON",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\AON_0000315293_10K_20211231_Item1_excerpt.txt",
+    "time_elapsed": 0.7,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:33:26.767407"
+}

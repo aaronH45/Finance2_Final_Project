@@ -1,0 +1,476 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following is a discussion of Kansas City Southern’s results of operations, certain changes in its financial position, liquidity, capital structure and business developments for the years ended December 31, 2020 and 2019. This discussion should be read in conjunction with the included consolidated financial statements, the related notes, and other information included in this report. 
+
+CAUTIONARY INFORMATION 
+
+The discussions set forth in this Annual Report on Form 10-K may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended and the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical facts, may be forward-looking statements. In addition, management may make forward-looking statements orally or in other writings, including, but not limited to, in press releases, quarterly earnings calls, executive presentations, in the annual report to stockholders and in other filings with the Securities and Exchange Commission. Readers can usually identify these forward-looking statements by the use of such verbs as “may,” “will,” “should,” “likely,” “plans,” “projects,” “expects,” “anticipates,” “believes” or similar verbs or conjugations of such verbs. These statements involve a number of risks and uncertainties. Actual results could materially differ from those anticipated by such forward-looking statements. Such differences could be caused by a number of factors or combination of factors including, but not limited to, the factors identified below and those discussed under Item 1A, Risk Factors, of this Form 10-K. Readers are strongly encouraged to consider these factors and the following factors when evaluating any forward-looking statements concerning the Company:
+
+•public health threats or outbreaks of communicable diseases, such as the ongoing COVID-19 pandemic and its impact on KCS’s business, suppliers, consumers, customers, employees and supply chains; 
+
+•transportation of hazardous materials;
+
+•United States, Mexican and global economic, political and social conditions;
+
+•the adverse impact of any termination or revocation by the Mexican government of Kansas City Southern de México, S.A. de C.V.’s (“KCSM”) Concession;
+
+•changes in legislation and regulations or revisions of controlling authority;
+
+•the effects of adverse general economic conditions affecting customer demand and the industries and geographic areas that produce and consume the commodities KCS carries;
+
+•the effect of demand for KCS’s services exceeding network capacity or traffic congestion on operating efficiencies and service reliability;
+
+•KCS’s reliance on agreements with other railroads and third parties to successfully implement its business strategy, operations and growth and expansion plans, including the strategy to convert customers from using trucking services to rail transportation services;
+
+•the dependence on the stability, availability and security of the information technology systems to operate its business;
+
+•acts of terrorism, war or other acts of violence or crime or risk of such activities;
+
+•uncertainties regarding the litigation KCS faces and any future claims and litigation;
+
+•the outcome of claims and litigation, including those related to environmental contamination, personal injuries and property damage; 
+
+•compliance with environmental regulations;
+
+•natural events such as severe weather, fire, floods, hurricanes, earthquakes or other disruptions to the Company’s operating systems, structures and equipment or the ability of customers to produce or deliver their products;
+
+•Insurance coverage limitations;
+
+•climate change and the market and regulatory responses to climate change;
+
+•the impact of competition, including competition from other rail carriers, trucking companies and maritime shippers in the United States and Mexico; 
+
+28
+•the effects of fluctuations in the peso-dollar exchange rate;
+
+•changes in labor costs and labor difficulties, including strikes and work stoppages affecting either operations or customers’ abilities to deliver goods for shipment;
+
+•the effects of current and future multinational trade agreements on the level of trade among the United States, Mexico and Canada;
+
+•the level of trade between the United States and Asia or Mexico;
+
+•unavailability of qualified personnel;
+
+•disruption in fuel supplies, changes in fuel prices and the Company’s ability to recapture its costs of fuel from customers;
+
+•KCS’s reliance on certain key suppliers of core rail equipment; and
+
+•material adverse changes in economic and industry conditions, including the availability of short and long-term financing, both within the United States and Mexico and globally.
+
+Forward-looking statements reflect the information only as of the date on which they are made. The Company does not undertake any obligation to update any forward-looking statements to reflect future events, developments, or other information. If KCS does update one or more forward-looking statements, no inference should be drawn that additional updates will be made regarding that statement or any other forward-looking statements.
+
+CORPORATE OVERVIEW
+
+Kansas City Southern, a Delaware corporation, is a transportation holding company that has railroad investments in the U.S., Mexico and Panama. In the U.S., the Company serves the midwest and southeast regions of the U.S. Its international holdings serve northeastern and central Mexico and the port cities of Lazaro Cardenas, Tampico and Veracruz, and a fifty percent interest in Panama Canal Railway Company provides ocean-to-ocean freight and passenger service along the Panama Canal. KCS’s North American rail holdings and strategic alliances are primary components of a railway system, linking the commercial and industrial centers of the U.S., Canada and Mexico. KCS’s principal subsidiaries and affiliates include the following:
+
+•The Kansas City Southern Railway Company (“KCSR”), a wholly-owned subsidiary;
+
+•KCSM, a wholly-owned subsidiary;
+
+•Mexrail, Inc. (“Mexrail”), a wholly-owned consolidated subsidiary which, in turn, wholly owns The Texas Mexican Railway Company (“Tex-Mex”);
+
+•KCSM Servicios, S.A. de C.V. (“KCSM Servicios”), a wholly-owned subsidiary;
+
+•Meridian Speedway, LLC (“MSLLC”), a seventy percent-owned consolidated affiliate;
+
+•Panama Canal Railway Company (“PCRC”), a fifty percent-owned unconsolidated affiliate;
+
+•TFCM, S. de R.L. de C.V. (“TCM”), a forty-five percent-owned unconsolidated affiliate;
+
+•Ferrocarril y Terminal del Valle de México, S.A. de C.V. (“FTVM”), a twenty-five percent-owned unconsolidated affiliate; and
+
+•PTC-220, LLC (“PTC-220”), a fourteen percent-owned unconsolidated affiliate.
+
+EXECUTIVE SUMMARY
+
+COVID-19 Update
+
+With the global outbreak of the Coronavirus Disease 2019 (“COVID-19”) and the declaration of a pandemic by the World Health Organization on March 11, 2020, the U.S. and Mexico governments have deemed rail transportation as “critical infrastructure” providing essential services during this global emergency. As a provider of critical infrastructure, Kansas City Southern has an obligation to keep employees working and freight moving. KCS remains focused on protecting the health and well-being of its employees and the communities in which it operates while assuring the continuity of its business operations. 
+
+KCS created a dedicated crisis team that proactively implemented its business continuity plans to ensure the ongoing availability of its transportation services, while taking a variety of health and safety measures, including separating dispatching 
+
+29
+and crew operations, implementing enhanced cleaning and hygiene protocols in its facilities and locomotives, implementing remote work policies, where possible, performing temperature checks and requiring facial coverings. As a result, to date, the Company has not experienced significant COVID-19 related disruptions in its railroad operations.
+
+The Company began to experience the impacts of COVID-19 on customer demand in late March of 2020. Volumes significantly declined in the second quarter of 2020; however, by early June volumes began to rapidly rebound. By the end of the third quarter, weekly volumes were higher than pre-COVID-19 levels and had increased by approximately 60% from the lowest levels in the second quarter of 2020. Volumes remained relatively steady from the third quarter into the fourth quarter of 2020. For the year ended December 31, 2020, revenue decreased by 8% compared to the same period in 2019, primarily due to lower volumes as a result of COVID-19 and service interruptions at Lazaro Cardenas due to KCSM right-of-way blockages resulting from teachers’ protests (“Teachers’ Protests”), the weakening of the Mexican peso against the U.S dollar, and lower fuel surcharge due to lower fuel prices. 
+
+As revenues declined in the second quarter of 2020, the Company responded quickly and implemented a variety of cost-saving measures and accelerated Precision Scheduled Railroading (“PSR”) initiatives by further consolidating trains, which increased train length and reduced crew costs. For the year ended December 31, 2020, operating expenses decreased by 18% compared to 2019, due to decreased restructuring charges, lower fuel prices, COVID-19 related volume declines, increased savings from PSR initiatives and the weakening of the Mexican peso against the U.S. dollar. See Strategic Initiatives for further discussion of PSR savings.
+
+In the second quarter of 2020, the Company offered a voluntary separation program (“VSP”) to its management employees, which resulted in a restructuring charge of $9.7 million for the year ended December 31, 2020, consisting of severance and benefit costs that will be paid out in either lump-sum payments or incrementally over a six to twelve-month period. Approximately 6% of management employees were irrevocably accepted into the voluntary separation program. Management expects the voluntary separation program reductions to result in annualized savings of approximately $11.0 million. 
+
+COVID-19 costs increased total expense for the year ended December 31, 2020 by approximately $10.0 million, primarily due to wages paid to certain high-risk employees who were allowed to stay home pursuant to a Mexican presidential decree, were symptomatic, or in quarantine, as well as expenses related to cleaning and decontamination of locomotives and other workspaces, and costs of protective gear for KCS employees.
+
+KCS believes it has a strong liquidity position to continue business operations and service its debt obligations. As disclosed in the Liquidity and Capital Resources section, the Company has total available liquidity of $788.2 million as of December 31, 2020, consisting of cash on hand and a revolving credit facility, compared to available liquidity at December 31, 2019 of $748.8 million. Furthermore, the Company does not have any debt maturities until 2023. During the year ended December 31, 2020, KCS did not significantly alter the terms of its freight agreements with customers. Cash flows from operations remain strong; however, planned capital expenditures were reduced by $75.0 million, resulting in annual capital expenditures of $410.2 million in 2020. If the Company experienced another significant reduction in revenues, the Company would have additional alternatives to maintain liquidity, including decreases in capital expenditures and cost reductions as well as adjustments to its capital allocation policy. To date, the Company has not reduced or suspended its share repurchase program or dividend payments. See Liquidity and Capital Resources section for additional information. 
+
+KCS continues to monitor the rapidly evolving COVID-19 situation and guidance from international and domestic authorities, including federal, state, and local public health authorities and may take additional actions based on their recommendations. In these circumstances, there may be developments outside KCS’ control requiring adjustments to operating plans. As such, given the dynamic nature of this situation, KCS cannot reasonably estimate with any degree of certainty the future impact COVID-19 may have on the Company’s results of operations, financial position, and liquidity. See Part II, Item 1A - “Risk Factors” - “Public health threats or outbreaks of communicable diseases, including the ongoing COVID-19 pandemic, could have a material adverse effect on the Company’s operations and financial results.”
+
+30
+Strategic Initiatives 
+
+During 2019, KCS began implementing principles of PSR, focusing on operational excellence and driving the following improvements:
+
+•Customer service — improve and sustain consistency and reliability of service and create a more resilient and dependable network;
+
+•Facilitating growth — additional capacity for new opportunities;
+
+•Improving asset utilization — meet growing or changing demand with the same or fewer assets; and, 
+
+•Improving the cost profile of the Company — increased profitability driven by volume and revenue growth and improved productivity and asset utilization.
+
+As a result of the PSR initiatives in 2019, management approved four separate restructuring plans that totaled $168.8 million. The PSR plans included asset impairments, workforce reductions, and contract restructuring, which resulted in 2019 operating expense savings of approximately $58.0 million. 
+
+The Company established the following key metrics to measure PSR progress and performance: 
+
+[DATA_TABLE_REMOVED]
+
+(i) Gross velocity is the average train speed between origin and destination in miles per hour calculated as the sum of the miles traveled divided by the sum of total transit hours. Transit hours are measured as the difference between a train’s origin departure and destination arrival date and times broken down by segment across the train route (includes all time spent including crew changes, terminal dwell, delays, and incidents).
+
+(ii) Terminal dwell is the average amount of time in hours between car arrival to and departure from the yard (excludes cars that move through a terminal on a run-through train, stored, bad ordered, and maintenance-of-way cars). Calculated by dividing the total number of hours cars spent in terminals by the total count of car dwell events.
+
+(iii) Train length is the average length of a train across its reporting stations, including the origin and intermediate stations. Length of a train is the sum of car and locomotive lengths measured in feet.
+
+(iv) Car miles per day is the miles a car travels divided by total transit days. Transit days are measured from opening event to closing event (includes all time spent in terminals and on trains).
+
+(v) Fuel efficiency is calculated by taking locomotive fuel consumed in gallons divided by thousand gross ton miles (“GTM’s”) net of detours with no associated fuel gallons. GTM’s are the movement of one ton of train weight over one mile calculated by multiplying total train weight by distance the train moved. GTM’s exclude locomotive gross ton miles.
+
+As revenues declined rapidly in the second quarter of 2020 due to COVID-19, management accelerated PSR initiatives by rightsizing resources to volumes and further reduced costs. Train service plans were quickly adjusted as volumes began to decline and trains were consolidated, resulting in longer, more efficient trains. Record average train length reduced the number of train starts and crew costs, leading to operating efficiencies across the organization and record fuel efficiency. As volumes began to rebound rapidly in June and through the remainder of 2020, the Company remained focused on PSR initiatives and maintained cost reductions from consolidating trains and reducing crew costs. However, during the second half of 2020, the Company experienced four hurricanes and Teachers’ Protests that negatively impacted the operating metrics for 2020. 
+
+At the beginning of 2020, the Company estimated incremental annual operating savings of approximately $61.0 million. Due to acceleration of PSR initiatives in the second quarter of 2020, the Company realized incremental annual operating savings of approximately $96.0 million. The Company estimates incremental annual savings of approximately $50.0 million in 2021 due to PSR initiatives. The Company remains focused on executing these strategic initiatives, which will deliver improved customer service, facilitate growth, and drive better asset utilization while improving the cost profile of the Company. 
+
+31
+2020 Financial Overview
+
+Revenues decreased 8% for the year ended December 31, 2020, as compared to 2019, due to a 6% decrease in carload/unit volumes and a 3% decrease in revenue per carload/unit. Revenues decreased primarily due to lower volumes as a result of COVID-19 and Teachers’ Protests, the weakening of the Mexican peso against the U.S dollar, and lower fuel surcharge due to lower fuel prices. 
+
+Operating expenses decreased 18% compared to 2019, primarily due to decreased restructuring charges, lower fuel prices, COVID-19 related volume declines, increased savings from PSR initiatives and the weakening of the Mexican peso against the U.S. dollar. Operating expenses as a percentage of revenues (“operating ratio”) decreased to 61.9% in 2020 from 69.1% in 2019. 
+
+The Company reported 2020 earnings per diluted share of $6.54, compared to 2019 earnings per diluted share of $5.40. The increase in earnings per diluted share was due to higher operating income, reduced income tax expense as a result of lower effective tax rate, and an increase in share repurchases. These increases were partially offset by a foreign exchange loss in 2020, compared to a gain in 2019, and an increase in interest expense due to the issuance of senior notes in the fourth quarter of 2019 and the second quarter of 2020.
+
+RESULTS OF OPERATIONS
+
+Year Ended December 31, 2020, compared with the Year Ended December 31, 2019
+
+The following summarizes KCS’s consolidated income statement components (in millions):
+
+[DATA_TABLE_REMOVED]
+
+32
+Revenues 
+
+The following summarizes revenues (in millions), carload/unit statistics (in thousands) and revenue per carload/unit:
+
+[DATA_TABLE_REMOVED]
+
+Revenues include revenue for transportation services and fuel surcharges. For the year ended December 31, 2020, revenues and carload/unit volumes decreased 8% and 6%, respectively, compared to 2019. Revenues decreased primarily due to lower volumes as a result of COVID-19 and Teachers’ Protests, the weakening of the Mexican peso against the U.S dollar, and lower fuel surcharge due to lower fuel prices. 
+
+The volume declines in the intermodal and automotive business units were due to auto plant shutdowns and lower overall automotive production in Mexico as a result of COVID-19. In addition, intermodal volumes decreased as a result of Teachers’ Protests. Frac sand and crude oil volumes within the Energy business unit decreased due to the decline in oil prices and industrial and consumer business unit was impacted by lower market demand as a result of COVID-19. These decreases were partially offset by increased volumes in the chemical and petroleum business unit primarily due to refined fuel product shipments to Mexico.
+
+For the year ended December 31, 2020, revenue per carload/unit decreased by 3%, compared to the prior year, due to the weakening of the Mexican peso against the U.S. dollar, shorter average length of haul, and lower fuel surcharge, partially offset by positive pricing impacts and mix. The average exchange rate of Mexican pesos per U.S. dollar was Ps.21.5 for 2020, compared to Ps.19.3 for 2019, which resulted in a decrease to revenues of approximately $43.0 million.
+
+KCS’s fuel surcharges are a mechanism to adjust revenue based upon changes in fuel prices above fuel price thresholds set in KCS’s tariffs or contracts. Fuel surcharge revenue is calculated using a fuel price from a prior time period that can be up to 60 days earlier. In a period of volatile fuel prices or changing customer business mix, changes in fuel expense and fuel surcharge revenue may differ. 
+
+Fuel surcharge revenue decreased $89.4 million for the year ended December 31, 2020, compared to the prior year, primarily due to lower fuel prices and volumes.
+
+33
+The following discussion provides an analysis of revenues by commodity group: 
+
+Revenues by commodity
+
+group for 2020
+
+Chemical and petroleum. Revenues increased $26.6 million for the year ended December 31, 2020, compared to 2019, due to a 6% increase in carload/unit volumes, partially offset by a 2% decrease in revenue per carload/unit. Volumes increased due to refined fuel product shipments to Mexico. Revenue per carload/unit decreased due to shorter average length of haul, the weakening of the Mexican peso against the U.S. dollar, and lower fuel surcharge, partially offset by mix and positive pricing impacts.  
+
+Industrial and consumer products. Revenues decreased $72.7 million for the year ended December 31, 2020, compared to 2019, due to a 6% decrease in both carload/unit volumes and revenue per carload/unit. Volumes decreased primarily due to lower market demand as a result of the ongoing COVID-19 pandemic and weakness in the energy sector. Revenue per carload/unit decreased due to mix, the weakening of the Mexican peso against the U.S. dollar, lower fuel surcharge, and shorter average length of haul, partially offset by positive pricing impacts.
+
+34
+Revenues by commodity
+
+group for 2020
+
+Agriculture and minerals. Revenues remained flat for year ended December 31, 2020, compared to 2019, as a 1% decrease in carload/unit volumes was offset by a 1% increase in revenue per carload/unit. Volumes decreased due to a decline in ores and minerals shipments due to lower demand as a result of weather delays impacting road infrastructure projects. Revenue per carload/unit increased due to mix, longer average length of haul, and positive pricing impacts, partially offset by lower fuel surcharge and the weakening of the Mexican peso against the U.S. dollar. 
+
+Energy. Revenues decreased $51.2 million for the year ended December 31, 2020, compared to 2019, due to a 14% decrease in carload/unit volumes and a 8% decrease in revenue per carload/unit. Utility coal volumes decreased as a result of low natural gas prices and warm weather. Frac sand and crude oil volumes decreased due to the declines in oil prices. In addition, frac sand volumes decreased as a result of in-basin sand competition. Revenue per carload/unit decreased due to mix, lower fuel surcharge, shorter average length of haul, and the weakening of the Mexican peso against the U.S. dollar, partially offset by positive pricing impacts.
+
+Intermodal. Revenues decreased $51.1 million for the year ended December 31, 2020, compared to 2019, due to an 9% decrease in revenue per carload/unit and a 6% decrease in carload/unit volumes. Revenue per carload/unit decreased due to mix, shorter average length of haul, lower fuel surcharge, and the weakening of the Mexican peso against the U.S. dollar, partially offset by positive pricing impacts. Volumes decreased primarily due to COVID-19, auto plant shutdowns impacting cross-border traffic, and Teachers’ Protests.
+
+Automotive. Revenues decreased $82.9 million for the year ended December 31, 2020, compared to 2019, due to a 29% decrease in carload/unit volumes due to auto plant shutdowns and lower overall automotive production in Mexico as a result of COVID-19. In addition, revenue per carload/unit decreased 5% due to the weakening of the Mexican peso against the U.S. dollar, mix, and lower fuel surcharge, partially offset by positive pricing impacts.
+
+35
+Operating Expenses 
+
+Operating expenses, as shown below (in millions), decreased $350.1 million for the year ended December 31, 2020, compared to 2019, primarily due to decreased restructuring charges, lower fuel prices, COVID-19 related volume declines, increased savings from PSR initiatives and the weakening of the Mexican peso against the U.S. dollar. 
+
+The weakening of the Mexican peso against the U.S. dollar resulted in an expense reduction of approximately $36.0 million for expense transactions denominated in Mexican pesos. The average exchange rate of Mexican pesos per U.S. dollar was Ps.21.5 for 2020 compared to Ps.19.3 for 2019. 
+
+[DATA_TABLE_REMOVED]
+
+Compensation and benefits. Compensation and benefits decreased $52.6 million for the year ended December 31, 2020, compared to 2019, due to a decrease in headcount and work hours of approximately $54.0 million caused by volume declines as a result of COVID-19 and the continued application of PSR initiatives, the weakening of the Mexican peso against the U.S dollar of approximately $14.0 million and a decrease in incentive compensation of approximately $6.0 million, partially offset by wage inflation of approximately $17.0 million and approximately $5.0 million of wages related to COVID-19. Wages related to COVID-19 were paid to employees that were symptomatic, quarantined, or under a stay-at-home order per Mexican presidential decree for COVID-19.
+
+Purchased services. Purchased services expense decreased $21.1 million for the year ended December 31, 2020, compared to 2019, due to decreases in repairs and maintenance and detour expense caused by COVID-19 related volume declines and the continued application of PSR initiatives of approximately $14.0 million, the weakening of the Mexican peso against the U.S. dollar of approximately $5.0 million, and savings from in-sourcing activities in 2019 related to PSR of approximately $2.0 million.
+
+Fuel. Fuel expense decreased $120.6 million for the year ended December 31, 2020, compared to 2019, due to lower diesel fuel prices of approximately $37.0 million and $28.0 million in the U.S. and Mexico, respectively, lower consumption of approximately $17.0 million and $10.0 million in Mexico and the U.S., respectively, caused by volume declines as a result of the ongoing COVID-19 pandemic, increased efficiency of approximately $17.0 million and the weakening of the Mexican peso against the U.S. dollar of approximately $11.0 million. The average price per gallon was $1.90 in 2020, compared to $2.57 in 2019. 
+
+Equipment costs. Equipment costs decreased $22.8 million for the year ended December 31, 2020, compared to 2019, due to lower lease expense of approximately $17.0 million primarily due to the termination of locomotive leases during the second quarter of 2019 and the first quarter of 2020, and lower car hire expense of approximately $6.0 million primarily as a result of reduced cycle times due to PSR initiatives.
+
+Depreciation and amortization. Depreciation and amortization expense increased $7.2 million for the year ended December 31, 2020, compared to 2019, due to a larger asset base, partially offset by lower depreciation as a result of PSR initiatives implemented during 2019. 
+
+36
+Materials and other. Materials and other expense decreased $2.0 million for the year ended December 31, 2020, compared to 2019, due to lower employee expenses of approximately $13.0 million, the weakening of the Mexican peso against the U.S. dollar of approximately $6.0 million and lower materials and supplies expense of approximately $5.0 million. These decreases were partially offset by an increase in personal injury expense of approximately $10.0 million, a one-time, vendor settlement of approximately $5.0 million during 2019, higher derailments and casualty expense of approximately $4.0 million, and approximately $2.0 million of costs for decontamination services and enhanced facilities cleaning related to COVID-19.
+
+Write-off of software development costs. For the year ended December 31, 2020, the Company recognized $13.6 million of expense related to costs previously capitalized for the development of internal-use software. The development of the software was cancelled prior to completion and had no further use.
+
+Restructuring charges. For the year ended December 31, 2020, the Company recognized $17.0 million of restructuring charges primarily related to the VSP of $9.7 million and the purchase of impaired, leased locomotives of $6.0 million. For the year ended December 31, 2019, the Company recognized $168.8 million of restructuring charges related to the implementation of PSR initiatives, which included the impairment of certain locomotives and rail cars, workforce reduction, and contract restructuring activities. Refer to Item 8, Financial Statements and Supplementary Data — Note 3, Restructuring Charges for more information.
+
+Non-Operating Expenses
+
+Equity in net earnings (losses) of affiliates. Equity in net earnings (losses) of affiliates decreased $2.4 million for the year ended December 31, 2020, compared to 2019, due to a decrease in net earnings from the operations of Panama Canal Railway Company as a result of lower container volumes due to a bridge strike in late June 2020 that shut down the railroad for approximately three months. In addition, equity in net earnings from the operations of TCM decreased due to increased tax expense and foreign exchange losses. These decreases were partially offset by an increase in equity in net earnings from the operations of FTVM as a result of losses recognized in 2019 related to the cancellation of Mexico City’s new international airport. 
+
+Interest expense. Interest expense increased $35.0 million for the year ended December 31, 2020, compared to 2019, due to higher average debt balances. For the year ended December 31, 2020, the average debt balance (including commercial paper) was $3,679.4 million, compared to $2,826.6 million in 2019. The average interest rate for the years ended December 31, 2020 and 2019 was 4.1% for both periods. 
+
+Debt retirement costs. The Company did not incur debt retirement costs during 2020. For the year ended December 31, 2019, debt retirement costs were $1.1 million related to the write-off of previously capitalized debt issuance costs associated with the establishment of the new revolving credit facility in the first quarter of 2019 and the call premiums and write-off of unamortized debt issuance costs and original issue discounts associated with the redemption of the KCS and KCSM 2.35% senior notes in the fourth quarter of 2019. 
+
+Foreign exchange gain (loss). For the year ended December 31, 2020, foreign exchange loss was $29.6 million, compared to a gain of $17.1 million in 2019. Foreign exchange gain (loss) includes the re-measurement and settlement of net monetary assets denominated in Mexican pesos and the gain (loss) on foreign currency derivative contracts. The significant fluctuation in foreign exchange gain (loss) is a result of weakening of the Mexican peso against the U.S. dollar partially resulting from the increased market volatility driven by the global COVID-19 pandemic.
+
+For the years ended December 31, 2020 and 2019, the re-measurement and settlement of net monetary assets and liabilities denominated in Mexican pesos resulted in a foreign exchange loss of $7.1 million and a gain of $3.0 million, respectively.
+
+The Company enters into foreign currency derivative contracts to hedge its net exposure to fluctuations in the Mexican cash tax obligation due to changes in the value of the Mexican peso against the U.S. dollar. For the year ended December 31, 2020, foreign exchange loss on foreign currency derivative contracts was $22.5 million, compared to a gain of $14.1 million in 2019.
+
+Other income, net. Other income, net, increased $1.1 million for the year ended December 31, 2020, compared to 2019 primarily due to an increase in miscellaneous income. 
+
+37
+Income tax expense. Income tax expense decreased $43.5 million for the year ended December 31, 2020, compared to 2019, due to a lower effective tax rate. The decrease in the effective tax rate was primarily due to fluctuations in the foreign exchange rate and the issuance of final global intangible low-taxed income (“GILTI”) regulations that provide for a high-tax exception to the GILTI tax retroactive to 2018. See the tax rates reconciliation below.
+
+The Treasury Department issued final regulations in July 2020 that provide for a high-tax exception to the GILTI tax. Specifically, if foreign earnings are subject to a foreign tax rate of at least 90% of the U.S. tax rate, an election can be made to not treat the high-taxed earnings as GILTI income. The final regulations can apply retroactive to tax years beginning after December 31, 2017, and render the GILTI tax immaterial to the consolidated financial statements. The Company recognized a $14.5 million tax benefit in 2020 for the reversal of 2018 and 2019 GILTI tax expense recognized in prior years’ consolidated financial statements. 
+
+The fluctuations of the Mexican peso during 2020 decreased the Company’s Mexican cash tax obligation by $13.0 million for the year ended December 31, 2020. The fluctuations of the Mexican peso during 2019 increased the Company’s Mexican cash tax obligation by $8.9 million for the year ended December 31, 2019. 
+
+ Differences between the Company’s effective income tax rate and the U.S. federal statutory income tax rate of 21% for 2020 and 2019 follow (in millions):
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(i)Mexican income taxes are paid in Mexican pesos, and as a result, the effective income tax rate reflects fluctuations in the value of the Mexican peso against the U.S. dollar. The foreign exchange impact on income taxes includes the gain or loss from the revaluation of the Company’s net U.S. dollar-denominated monetary liabilities into Mexican pesos which is included in Mexican taxable income under Mexican tax law. As a result, a strengthening of the Mexican peso against the U.S. dollar for the reporting period will generally increase the Mexican cash tax obligation and the effective income tax rate, and a weakening of the Mexican peso against the U.S. dollar for the reporting period will generally decrease the Mexican cash tax obligation and the effective tax rate. To hedge its exposure to this cash tax risk, the Company enters into foreign currency derivative contracts, which are measured at fair value each period and any change in fair value is recognized in foreign exchange gain (loss) within the consolidated statements of income. Refer to Note 11, Derivative Instruments for further information.
+
+(ii)Not eligible for Mexican fuel excise tax credit for 2020. See discussion in the Mexico Tax Reform section below. 
+
+38
+Mexico Regulatory and Legal Updates
+
+Mexico Tax Reform. In December 2019, the Mexican government enacted changes in the tax law effective January 1, 2020 (“Mexico 2020 Tax Reform”). Mexico 2020 Tax Reform excluded railroads from eligibility for the Mexican fuel excise tax credit. Mexico 2020 Tax Reform also included permanent changes to the Value Added Tax (“VAT”) Law, Income Tax Law and Federal Fiscal Code which, among other things, requires certain VAT withholding, limits the deduction of interest expense and certain payments to related parties in preferential tax regimes, adopts a general anti-avoidance rule, requires mandatory disclosure of reportable transactions beginning in 2021, and permanently eliminates universal compensation, which allowed Mexican taxpayers to offset recoverable tax balances against balances due for other federal taxes. As a result of the elimination of universal compensation, the refundable VAT balance increased to $103.1 million as of December 31, 2020. KCSM has a legal opinion supporting its right under Mexican law to recover the refundable VAT balance from the Mexican government and believes the VAT to be fully collectible. 
+
+See additional discussion on universal compensation in Liquidity and Capital Resources section below.
+
+Proposed Changes to Law. KCSM currently insources its management and union employees, other than the President and Executive Representative of KCSM, from its affiliate, KCSM Servicios, a wholly-owned and consolidated subsidiary of the Company. On November 12, 2020, the President of Mexico filed an initiative before the Mexican Congress to amend several laws in order to prohibit outsourcing employees to third parties and insourcing employees from related, affiliate services companies. Under the proposed legislation, KCSM Servicios could be prohibited from providing certain outsourced employees to KCSM, resulting in some, if not all KCSM Servicios employees becoming employees of KCSM in order to be in compliance with the legislation. Failure to comply with the new law could result in a loss of tax deductions and VAT credits on third party and related party service payments and penalties. In December 2020, discussions and approval of this legislation were postponed until February 2021. The initiative will have preferential treatment when the Mexican Congress resumes its activities, which requires that action on the proposed legislation must be taken within 30 days. If approved, it is currently expected the changes will be effective immediately upon adoption, however the private sector is lobbying for a longer transition period.
+
+Mexican employees are currently entitled under Mexican law to receive statutory profit sharing (Participacion a los Trabajadores de las Utilidades or “PTU”) payments. The required cash payment to employees is equal to 10% of their employer’s profit subject to PTU as prescribed by Mexican law, which differs from profit determined under U.S. GAAP. 
+
+KCSM Servicios’s employees are eligible for PTU and receive PTU payments. KCSM does not have employees eligible for PTU under current law, and this proposed legislation does not change the Mexico PTU requirements. If the proposed legislation were to become law, some or possibly all of KCSM Servicios’s employees may need to become employees of KCSM and thus, would be eligible to receive PTU from KCSM. Payment of PTU by KCSM to these employees, as calculated under current law, could have a material adverse effect on the consolidated financial results of the Company. However, the Mexican government may consider, as part of its negotiations with the private sector, limitations on the PTU distribution amount to employees in order to reduce the financial impact. As such, any incremental PTU expense cannot be determined as of the date of this filing due to the uncertainties surrounding this potential legislation. 
+
+For a comparison of the Company’s results of operations for the fiscal years ended December 31, 2019 to the year ended December 31, 2018, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2019, which was filed with the U.S. Securities and Exchange Commission on January 24, 2020.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview
+
+On November 10, 2020, the Company announced that its Board of Directors (the “Board”) approved updates to its capital allocation policy (the “Policy”). Pursuant to the updated Policy, the Company intends to continue deploying available cash in the following manner:
+
+•Approximately 40-50% to capital projects and strategic investments; and
+
+•Approximately 50-60% to share repurchases and dividends.
+
+39
+In addition, from time to time, the Company also plans to prudently use additional debt to support the revised policy and intends to increase its Debt-to-EBITDA ratio to the mid-2x range, consistent with its current ratings from Standard & Poor’s, Fitch and Moody’s Ratings.
+
+In connection with this updated Policy, the Board also approved the following actions:
+
+•An increase in the quarterly dividend on KCS’s common stock from $0.40 to $0.44 per share. The Board declared a cash dividend on its outstanding common stock for this increased amount payable on January 20, 2021, to stockholders of record at the close of business on December 31, 2020. In April 2021, the Company will implement a quarterly dividend approach that targets a low 20% range payout; and
+
+•A new $3.0 billion share repurchase program (the “2020 Program”), expiring December 31, 2023. This new program replaces the $2.0 billion stock repurchase authorization announced in 2019 (the “2019 Program”) under which the Company purchased approximately $1.4 billion of Company stock.
+
+During the fourth quarter of 2020, the Company entered into two accelerated share repurchase (“ASR”) agreements under the 2019 Program, and paid $500.0 million. The agreements were settled during January 2021. During 2020, KCS repurchased 143,343 shares of common stock for $27.0 million under the 2020 Program, and 5,207,633 shares of common stock for $869.2 million under the 2019 Program. Refer to Item 8, Financial Statements and Supplementary Data — Note 15, Stockholders’ Equity for additional detail on the Company’s common share repurchase program and ASR agreements.
+
+During 2020, the Company repurchased 7,426 shares of its $25 par preferred stock for $0.2 million at an average price of $29.58 per share. 
+
+During 2020, the Company invested $410.2 million in capital expenditures. See Capital Expenditures section for further details.
+
+On April 22, 2020, the Company issued $550.0 million principal amount of senior unsecured notes due May 1, 2050, which bear interest semiannually at a fixed annual rate of 3.50% (the “3.50% Notes”). The net proceeds from the offering were used for general corporate purposes, including the repurchase of shares of the Company’s common stock in the fourth quarter of 2020.
+
+During 2020, the Company made remaining principal payments of approximately $12.0 million in repayment of its 9.311% locomotive financing agreements, which matured in December 2020.
+
+At December 31, 2020, the Company had $444.7 million principal amount outstanding of 3.00% senior notes that mature May 15, 2023 (the “3.00% Notes”) and $200.0 million principal amount outstanding of 3.85% senior notes that mature November 15, 2023 (the “3.85% Notes). The Company has the intention and ability to refinance the 3.00% Notes and the 3.85% Notes into a new long-term debt instruments prior to maturity. The Company has executed treasury lock agreements with an aggregate notional value of $650.0 million and a weighted-average interest rate of 1.58% to hedge the U.S. Treasury benchmark interest rate associated with any future interest payments related to the anticipated refinancing of the 3.00% Notes and the 3.85% Notes. See Note 11, Derivative Instruments for further discussion of the treasury lock agreements. 
+
+The Company’s financing instruments contain restrictive covenants that limit or preclude certain actions; however, the covenants are structured such that the Company expects to have sufficient flexibility to conduct its operations. The Company has been, and expects to continue to be, in compliance with all of its debt covenants. 
+
+For discussion regarding the agreements representing the indebtedness of KCS, refer to Note 12, Short-Term Borrowings and Note 13, Long-Term Debt of the consolidated financial statements.
+
+During the first three quarters of 2020, the Company’s Board of Directors declared quarterly cash dividends of $0.40 per share or $113.6 million on its common stock. During the last quarter of 2020, the Company’s Board of Directors declared a cash dividend of $0.44 per share or $40.1 million on its common stock. Subject to the discretion of the Board of Directors, capital availability and a determination that cash dividends continue to be in the best interest of its stockholders, the Company intends to pay a quarterly dividend on an ongoing basis.
+
+On December 31, 2020, total available liquidity (the cash balance plus revolving credit facility availability) was $788.2 million, compared to available liquidity at December 31, 2019 of $748.8 million. 
+
+40
+As of December 31, 2020, the total cash and cash equivalents held outside of the U.S. in foreign subsidiaries was $72.8 million, after repatriating $196.3 million during 2020. The Company expects that this cash will be available to fund company operations without incurring significant additional income taxes. 
+
+Beginning January 2019, Mexico tax reform for 2019 eliminated universal compensation that allowed Mexican taxpayers the ability to offset other tax obligations with refundable VAT. Mexico 2020 Tax Reform permanently eliminated universal compensation. This negatively impacted KCSM’s cash flow by approximately $43.0 million and $60.0 million in 2020 and 2019, respectively, while awaiting refunds of the value added tax from the Mexican government. As of December 31, 2020, the refundable VAT balance was $103.1 million. KCSM has a legal opinion supporting its right under Mexican law to recover the refundable VAT balance from the Mexican government and believes the VAT to be fully collectible. 
+
+Cash Flow Information and Contractual Obligations
+
+Summary cash flow data follows (in millions): 
+
+[DATA_TABLE_REMOVED]
+
+During 2020, cash and cash equivalents increased $39.4 million as a result of the impacts discussed below. 
+
+Operating Cash Flows. Net cash provided by operating activities decreased $24.0 million for 2020, as compared to 2019, primarily due to increased cash paid to settle foreign currency derivative instruments and an increase in advance Mexican income tax payments, partially offset by payments made for settlement of a treasury lock in 2019. 
+
+Investing Cash Flows. Net cash used for investing activities decreased $150.3 million for 2020, as compared to 2019, due to a $175.3 million decrease in capital expenditures and a $29.3 million decrease in investments in and advances to affiliates, partially offset by a $39.2 million increase in expenditures for the purchase or replacement of assets under existing operating leases and a $9.2 million decrease in proceeds from disposal of property. Additional information is included within the Capital Expenditure section of Liquidity and Capital Resources.
+
+Financing Cash Flows. Net cash used for financing activities increased $131.4 million for 2020, as compared to 2019, due to a decrease in proceeds from issuance long-term debt of $301.9 million and an increase in shares repurchased, including under ASR agreements, of $96.4 million, partially offset by a decrease in repayment of long-term debt of $267.0 million.
+
+For a comparison of liquidity and capital resources and the Company’s cash flow activities for the fiscal year ended December 31, 2019 and 2018, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company’s Annual Report on Form 10-K for the year ended December 31, 2019, which was filed with the U.S. Securities and Exchange Commission on January 24, 2020.
+
+41
+Contractual Obligations. The following table outlines the material obligations and commitments as of December 31, 2020 (in millions): 
+
+[DATA_TABLE_REMOVED]
+
+_____________________
+
+(i)For variable rate obligations, interest payments were calculated using the December 31, 2020 rate. For fixed rate obligations, interest payments were calculated based on the applicable rates and payment dates.
+
+(ii)Capital expenditure obligations include minimum capital expenditures under the KCSM Concession agreement and other regulatory requirements.
+
+(iii)Other contractual obligations include purchase commitments and certain maintenance agreements.
+
+In the normal course of business, the Company enters into long-term contractual commitments for future goods and services needed for the operations of the business. Such commitments are not in excess of expected requirements and are not reasonably likely to result in performance penalties or payments that would have a material adverse effect on the Company’s liquidity. Such commitments are not included in the above table.
+
+The SCT requires KCSM to submit a three-year capital expenditures plan every three years. The most recent three-year plan was submitted in 2020 for the years 2021 — 2023. KCSM expects to continue capital spending at current levels in future years and will continue to have capital expenditure obligations past 2023, which are not included in the table above.
+
+Capital Expenditures
+
+KCS has funded, and expects to continue to fund, capital expenditures with operating cash flows and short and long-term debt.
+
+The following table summarizes capital expenditures by type for the years ended December 31, 2020 and 2019, respectively (in millions):
+
+[DATA_TABLE_REMOVED]
+
+42
+Generally, the Company’s capital program consists of capital replacement and equipment. For 2021, internally generated cash flows are expected to fund cash capital expenditures, which are currently estimated to be approximately 17% of revenue in 2021, assuming constant currency and fuel price. In addition, the Company periodically reviews its equipment and property under operating leases. Any additional purchase or replacement of equipment and property under operating leases during 2021 is expected to be funded with internally generated cash flows and/or debt. 
+
+Property Statistics 
+
+The following table summarizes certain property statistics as of December 31:
+
+[DATA_TABLE_REMOVED]
+
+43
+SUPPLEMENTAL GUARANTOR FINANCIAL INFORMATION
+
+The following is a description of the terms and conditions of the guarantees with respect to senior notes for which KCS is an issuer or provides full and unconditional guarantee.
+
+Note Guarantees
+
+As of December 31, 2020, KCS had outstanding $3,736.2 million principal amount of senior notes due through 2069. The Kansas City Southern Railway Company (“KCSR”) had outstanding $2.7 million principal amount of senior notes due through 2045 (together, the “Senior Notes”). The senior notes for which KCS is the issuer are unconditionally guaranteed, jointly and severally, on an unsecured senior basis, by each of KCS’s current and future domestic consolidated subsidiaries that from time to time guarantees certain of KCS’s credit agreements, or any other debt of KCS, or any of KCS’s significant subsidiaries that is a guarantor (each, a “Guarantor Subsidiary,” and collectively, the “Guarantor Subsidiaries”). In addition, the senior notes for which KCSR is the issuer are unconditionally guaranteed, jointly and severally, on an unsecured senior basis, by KCS and each of its current and future domestic consolidated subsidiaries that from time to time guarantees KCSR’s credit agreement, or any other debt of KCSR or any of KCSR’s significant subsidiaries that is a Guarantor Subsidiary. The obligations of each Guarantor Subsidiary under its note guarantee are limited as necessary to prevent such note guarantee from constituting a fraudulent conveyance under applicable law. A guarantee of the Senior Notes by KCS or a Guarantor Subsidiary is subject to release in the following circumstances: (i) the sale, disposition, exchange or other transfer (including through merger, consolidation, amalgamation or otherwise) of the capital stock of the Guarantor Subsidiary made in a manner not in violation of the indenture; (ii) the designation of the subsidiary as an “Unrestricted Subsidiary” under the indenture; (iii) the legal defeasance or covenant defeasance of the Senior Notes in accordance with the terms of the indenture; or (iv) the Guarantor Subsidiary ceasing to be KCS’s subsidiary as a result of any foreclosure of any pledge or security interest securing KCS’s Revolving Credit Facility or other exercise of remedies in respect thereof.
+
+KCSM and any other foreign subsidiaries of KCS do not, and will not, guarantee the Senior Notes (“Non-Guarantor Subsidiaries”).
+
+The following tables present summarized financial information for KCS and the Guarantor Subsidiaries on a combined basis after intercompany transactions have been eliminated, including adjustments to remove the receivable and payable balances, investment in, and equity in earnings from the Non-Guarantor Subsidiaries. 
+
+Summarized Financial Information
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+44
+Excluded from current assets in the table above are $183.7 million and $95.2 million of current intercompany receivables due to KCS and the Guarantor Subsidiaries from the Non-Guarantor Subsidiaries as of December 31, 2020 and December 31, 2019, respectively. Excluded from current liabilities in the table above are $235.8 million and $55.0 million of current intercompany payables due to the Non-Guarantor Subsidiaries from KCS and the Guarantor Subsidiaries as of December 31, 2020 and December 31, 2019, respectively.
+
+The Senior Notes are structurally subordinated to the indebtedness and other liabilities of the Non-Guarantor Subsidiaries. The Non-Guarantor Subsidiaries are separate and distinct legal entities and have no obligation, contingent or otherwise, to pay any amounts due pursuant to the Senior Notes or the indentures, or to make any funds available therefor, whether by dividends, loans, distributions or other payments. Any right that KCS or the Guarantor Subsidiaries have to receive any assets of any of the Non-Guarantor Subsidiaries upon the liquidation or reorganization of any Non-Guarantor Subsidiary, and the consequent rights of holders of Senior Notes to realize proceeds from the sale of any of a Non-Guarantor Subsidiary’s assets, would be effectively subordinated to the claims of such Non-Guarantor Subsidiary’s creditors, including trade creditors and holders of preferred equity interests, if any, of such Non-Guarantor Subsidiary. Accordingly, in the event of a bankruptcy, liquidation or reorganization of any of the Non-Guarantor Subsidiaries, the Non-Guarantor Subsidiaries will pay the holders of their debts, holders of preferred equity interests, if any, and their trade creditors before they will be able to distribute any of their assets to KCS or any Guarantor Subsidiary. 
+
+If a Guarantor Subsidiary were to become a debtor in a case under the U.S. Bankruptcy Code or encounter other financial difficulty, under federal or state fraudulent transfer or conveyance law, a court may avoid, subordinate or otherwise decline to enforce its guarantee of the Senior Notes. A court might do so if it is found that when such Guarantor Subsidiary entered into its guarantee of the Senior Notes, or in some states when payments became due under the Senior Notes, such Guarantor Subsidiary received less than reasonably equivalent value or fair consideration and either: 
+
+• was insolvent or rendered insolvent by reason of such incurrence; 
+
+• was left with unreasonably small or otherwise inadequate capital to conduct its business; or 
+
+• believed or reasonably should have believed that it would incur debts beyond its ability to pay. 
+
+The court might also avoid the guarantee of the Senior Notes without regard to the above factors, if the court found that a Guarantor Subsidiary entered into its guarantee with actual intent to hinder, delay or defraud its creditors. 
+
+A court would likely find that a Guarantor Subsidiary did not receive reasonably equivalent value or fair consideration for its guarantee of the Senior Notes, if such Guarantor Subsidiary did not substantially benefit directly or indirectly from the funding made available by the issuance of the Senior Notes. If a court were to avoid a guarantee of the Senior Notes provided by a Guarantor Subsidiary, holders of the Senior Notes would no longer have any claim against such Guarantor Subsidiary. The measures of insolvency for purposes of these fraudulent transfer or conveyance laws will vary depending upon the law applied in any proceeding to determine whether a fraudulent transfer or conveyance has occurred, such that the Company cannot predict what standards a court would use to determine whether or not a Guarantor Subsidiary was solvent at the relevant time or, regardless of the standard that a court uses, that the guarantee of a Guarantor Subsidiary would not be subordinated to such Guarantor Subsidiary’s other debt. As noted above, each guarantee provided by a Guarantor Subsidiary includes a provision intended to limit the Guarantor Subsidiary’s liability to the maximum amount that it could incur without causing the incurrence of obligations under its guarantee to be a fraudulent transfer or conveyance. This provision may not be effective to protect those guarantees from being avoided under fraudulent transfer or conveyance law, or it may reduce that Guarantor Subsidiary’s obligation to an amount that effectively makes its guarantee worthless, and the Company cannot predict whether a court will ultimately find it to be effective. 
+
+On the basis of historical financial information, operating history and other factors, the Company believes that each of the Guarantor Subsidiaries, after giving effect to the issuance of its guarantee of the Senior Notes when such guarantee was issued, was not insolvent, did not have unreasonably small capital for the business in which it engaged and did not and has not incurred debts beyond its ability to pay such debts as they mature. The Company cannot predict, however, as to what standard a court would apply in making these determinations or that a court would agree with the Company’s conclusions in this regard.
+
+45
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+KCS’s accounting and financial reporting policies are in conformity with U.S. generally accepted accounting principles (“U.S. GAAP”). The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Management believes that the following accounting policies and estimates are critical to an understanding of KCS’s historical and future performance. Management has discussed the development and selection of the following critical accounting estimates with the Audit Committee of KCS’s Board of Directors and the Audit Committee has reviewed the selection, application and disclosure of the Company’s critical accounting policies and estimates.
+
+Capitalization, Depreciation and Amortization of Property and Equipment (including Concession Assets)
+
+Due to the highly capital intensive nature of the railroad industry, capitalization and depreciation of property and equipment are a substantial portion of the Company’s consolidated financial statements. Net property and equipment, including concession assets, comprised approximately 90% of the Company’s total assets as of December 31, 2020, and related depreciation and amortization comprised approximately 22% of total operating expenses for the year ended December 31, 2020.
+
+KCS capitalizes costs for self-constructed additions and improvements to property including direct labor and material, indirect costs, and interest during long-term construction projects. The Company has a process in place to determine which costs qualify for capitalization, which requires judgment. Direct costs are charged to capital projects based on the work performed and the material used. Indirect costs are allocated to capital projects as a standard percentage, which is evaluated annually, and applied to direct labor and material costs. Asset removal activities are performed in conjunction with replacement activities; therefore, removal costs are estimated based on a standard percentage of direct labor and indirect costs related to capital replacement projects. For purchased assets, all costs necessary to make the asset ready for its intended use are capitalized. Expenditures that significantly increase asset values, productive capacity, efficiency, safety or extend useful lives are capitalized. Repair and maintenance costs are expensed as incurred.
+
+KCS capitalizes certain costs incurred in connection with developing or obtaining internal-use software. Capitalized software costs are included in “Property and Equipment” on the consolidated balance sheets. Costs incurred during the preliminary project and post-implementation stage, as well as maintenance and training costs, are expensed as incurred. 
+
+Property and equipment are carried at cost and are depreciated primarily on the group method of depreciation, which the Company believes closely approximates a straight line basis over the estimated useful lives of the assets measured in years. The group method of depreciation applies a composite rate to classes of similar assets rather than to individual assets. Composite depreciation rates are based upon the Company’s estimates of the expected average useful lives of assets as well as expected net salvage value at the end of their useful lives. In developing these estimates, the Company utilizes periodic depreciation studies performed by an independent engineering firm. Depreciation rate studies are performed at least every three years for equipment and at least every six years for road property (rail, ties, ballast, etc.). The depreciation studies take into account factors such as:
+
+•Statistical analysis of historical patterns of use and retirements of each asset class;
+
+•Evaluation of any expected changes in current operations and the outlook for the continued use of the assets;
+
+•Evaluation of technological advances and changes to maintenance practices;
+
+•Historical and expected salvage to be received upon retirement;
+
+•Review of accounting policies and assumptions; and
+
+•Industry precedents and trends.
+
+The depreciation studies may also indicate that the recorded amount of accumulated depreciation is deficient or in excess of the amount indicated by the study. Any such deficiency or excess is amortized as a component of depreciation expense over the remaining useful lives of the affected asset class, as determined by the study. The Company also monitors these factors in non-study years to determine if adjustments should be made to depreciation rates. The Company completed depreciation studies for KCSM in 2020 and KCSR in 2019. The impacts of the studies were immaterial to the consolidated financial results for all periods.
+
+46
+Also under the group method of depreciation, the cost of railroad property and equipment (net of salvage or sales proceeds) retired or replaced in the normal course of business is charged to accumulated depreciation with no gain or loss recognized. Actual historical costs are retired when available, such as with equipment costs. The use of estimates in recognizing the retirement of roadway assets is necessary as it is impractical to track individual, homogeneous network-type assets. Certain types of roadway assets are retired using statistical curves derived from the depreciation studies that indicate the relative distribution of the age of the assets retired. For other roadway assets, historical costs are estimated by deflating current costs using inflation indices and the estimated useful life of the assets as determined by the depreciation studies. The indices applied to the replacement value are selected because they closely correlate with the major costs of the items comprising the roadway assets. Because of the number of estimates inherent in the depreciation and retirement processes and because it is impossible to precisely estimate each of these variables until a group of assets is completely retired, the Company continually monitors the estimated useful lives of its assets and the accumulated depreciation associated with each asset group to ensure the depreciation rates are appropriate.
+
+Estimation of the average useful lives of assets and net salvage values requires management judgment. Estimated average useful lives may vary over time due to changes in physical use, technology, asset strategies and other factors that could have an impact on the retirement experience of the asset classes. Accordingly, changes in the assets’ estimated useful lives could significantly impact future periods’ depreciation expense. Depreciation and amortization expense for the year ended December 31, 2020 was $357.9 million. If the weighted average useful lives of assets were changed by one year, annual depreciation and amortization expense would change approximately $11.0 million.
+
+Gains or losses on dispositions of land or non-group property and abnormal retirements of railroad property are recognized through income. A retirement of railroad property would be considered abnormal if the retirement meets each of the following conditions: (i) is unusual in nature, (ii) is significant in amount, and (iii) varies significantly from the retirement profile identified through the depreciation studies. KCS recognized $1.3 million and $134.2 million as of December 31, 2020, and 2019, respectively, from asset impairments of certain locomotives and railcars as a result of the implementation of PSR. There were no other significant gains or losses from abnormal retirements of property or equipment for the year ended December 31, 2018. Refer to Note 3, Restructuring Charges of the consolidated financial statements for more information. 
+
+Costs incurred by the Company to acquire the Concession rights and related assets, as well as subsequent improvements to the Concession assets, are capitalized and amortized using the group method of depreciation over the lesser of the current expected Concession term, including probable renewal of an additional 50-year term, or the estimated useful lives of the assets and rights. The Company’s ongoing evaluation of the useful lives of Concession assets and rights considers the aggregation of the following facts and circumstances:
+
+•The Company’s executive management is dedicated to ensuring compliance with the various provisions of the Concession and to maintaining positive relationships with the SCT and other Mexican federal, state, and municipal governmental authorities;
+
+•During the time since the Concession was granted, the relationships between KCSM and the various Mexican governmental authorities have matured and the guidelines for operating under the Concession have become more defined with experience;
+
+•There are no known supportable sanctions or compliance issues that would cause the SCT to revoke the Concession or prevent KCSM from renewing the Concession; and
+
+•KCSM operations are an integral part of the KCS operations strategy, and related investment analyses and operational decisions assume that the Company’s cross border rail business operates into perpetuity, and do not assume that Mexico operations terminate at the end of the current Concession term.
+
+Based on the above factors, as of December 31, 2020, the Company continues to believe that it is probable that the Concession will be renewed for an additional 50-year term beyond the current term.
+
+Impairment of long-lived assets
+
+Long-lived assets, including property, plant and equipment, operating lease right-of-use assets and intangible assets with finite lives are reviewed for impairment and written down to fair value when events or circumstances indicate that the carrying amount of a long-lived asset or asset group may not be recoverable. If impairment indicators are present and the estimated future undiscounted cash flows are less than the carrying value of the long-lived assets, the carrying value would be reduced to 
+
+47
+the estimated fair value. Future cash flow estimates for an impairment review would be based on the lowest level of identifiable cash flows, which are the Company’s U.S. and Mexican operations. During the year ended December 31, 2020, $13.6 million of expense was recognized related to costs previously capitalized for the development of internal-use software. The development of the software was cancelled prior to completion and had no further use. Other than the abnormal impairments related to the implementation of Precision Scheduled Railroading (“PSR”), management did not identify any indicators of impairment for the years ended December 31, 2020 and 2019.
+
+Income Taxes
+
+Deferred income taxes represent a net asset or liability of the Company. For financial reporting purposes, management determines the current tax liability, as well as deferred tax assets and liabilities, in accordance with the asset and liability method of accounting for income taxes. The provision for income taxes is the sum of income taxes both currently payable and deferred into the future. Currently payable income taxes represent the liability related to the Company’s U.S., state and foreign income tax returns for the current year and anticipated tax payments resulting from income tax audits, while the net deferred tax expense or benefit represents the change in the balance of net deferred tax assets or liabilities as reported on the balance sheet. The changes in deferred tax assets and liabilities are determined based upon the estimated timing of reversal of differences between the carrying amount of assets and liabilities for financial reporting purposes and the basis of assets and liabilities for tax purposes as measured using the currently enacted tax rates that will be in effect at the time these differences are expected to reverse. Additionally, management estimates whether taxable operating income in future periods will be sufficient to fully recognize any deferred tax assets. Valuation allowances are recorded as appropriate to reduce deferred tax assets to the amount considered likely to be realized.
+
+Income tax expense related to Mexican operations has additional complexities such as the impact of exchange rate variations, which can have a significant impact on the effective income tax rate.
+
+Management believes that the assumptions and estimates related to the provision for income taxes are critical to the Company’s results of operations. For the year ended December 31, 2020, income tax expense totaled $204.1 million. For every 1% change in the 2020 effective rate, income tax expense would have changed by approximately $8.2 million. For further information on the impact of foreign exchange fluctuation on income taxes, refer to Item 7A, Quantitative and Qualitative Disclosures About Market Risk — Foreign Exchange Sensitivity.
+
+OTHER MATTERS
+
+Litigation. Occasionally, the Company is a party to various legal proceedings, regulatory examinations, investigations, administrative actions, and other legal matters, arising for the most part in the ordinary course of business, incidental to its operations. Included in these proceedings are various tort claims brought by current and former employees for job-related injuries and by third parties for injuries related to railroad operations. KCS aggressively defends these matters and has established liability provisions that management believes are adequate to cover expected costs. The outcome of litigation and other legal matters is always uncertain. KCS believes it has valid defenses to the legal matters currently pending against it, is defending itself vigorously, and has recorded accruals determined in accordance with U.S. GAAP, where appropriate. In making a determination regarding accruals, using available information, KCS evaluates the likelihood of an unfavorable outcome in legal or regulatory proceedings to which it is a party to and records a loss contingency when it is probable a liability has been incurred and the amount of the loss can be reasonably estimated. These subjective determinations are based on the status of such legal or regulatory proceedings, the merits of KCS’s defenses and consultation with legal counsel. Actual outcomes of these legal and regulatory proceedings may materially differ from the current estimates. It is possible that resolution of one or more of the legal matters currently pending or threatened could result in losses material to KCS’s consolidated results of operations, liquidity or financial condition.
+
+Although it is not possible to predict the outcome of any legal proceeding, in the opinion of the Company’s management, other than as described in Note 17, Commitments and Contingencies of the consolidated financial statements, such proceedings and actions should not, individually or in the aggregate, have a material adverse effect on the Company’s consolidated financial statements. 
+
+Inflation. U.S. GAAP require the use of historical cost, which does not reflect the effects of inflation on the replacement cost of property. Due to the capital intensive nature of KCS’s business, the replacement cost of these assets would be significantly higher than the amounts reported under the historical cost basis.
+
+48
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk

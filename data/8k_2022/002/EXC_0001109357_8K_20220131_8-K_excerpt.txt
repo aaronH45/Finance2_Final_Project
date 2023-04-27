@@ -1,0 +1,227 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0001109357 false        0001109357   2022-01-31 2022-01-31    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))   
+
+  [DATA_TABLE_REMOVED] 
+
+ Indicate by check mark whether any of the registrants are emerging growth companies as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ¨  
+
+ If an emerging growth company, indicate by check mark if any of the registrants have elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨  
+
+Item 1.01. Entry into a Material Definitive Agreement. 
+
+On February 1, 2022 (the “Distribution Date”), Exelon Corporation (“Exelon” and, together with its consolidated subsidiaries, “we,” “us,” “our,” or the “Company”) completed the previously announced complete legal and structural separation and distribution to its shareholders of all of the outstanding shares of common stock, no par value, of Constellation Energy Corporation (“Constellation”) to Exelon’s shareholders (the “Distribution”). Each Exelon shareholder received one share of Constellation’s common stock for every three shares of Exelon common stock held by such shareholder at 5:00 p.m. Eastern Time, on January 20, 2022, the record date. 
+
+On January 31, 2022, in connection with the Distribution, Exelon entered into several agreements with Constellation setting forth the principal actions taken or to be taken in connection with the Distribution and governing the relationship of the parties following the Distribution, including the following: 
+
+ ·a Separation Agreement; 
+
+ ·a Transition Services Agreement; 
+
+ ·a Tax Matters Agreement; and 
+
+ ·an Employee Matters Agreement. 
+
+Summaries of the material terms and conditions of each of those agreements can be found in the section entitled “Certain Relationships and Related Party Transactions” in Constellation’s information statement, dated January 24, 2022, which was included as Exhibit 99.1 to Exelon’s Current Report on Form 8-K filed on January 28, 2022 and which summaries are incorporated herein by reference. The summaries of those agreements do not purport to be complete and are qualified in their entirety by reference to the full text of the Separation Agreement, Transition Services Agreement, Tax Matters Agreement and Employee Matters Agreement, which are attached as Exhibits 2.1, 10.1, 10.2 and 10.3, respectively, to this Current Report on Form 8-K and are incorporated herein by reference. 
+
+Item 2.01. Completion of Acquisition or Disposition of Assets. 
+
+At 12:01 a.m. Eastern Time on February 1, 2022, Exelon effected the Distribution and completed the separation of Constellation from Exelon. As a result of the Distribution, Constellation became an independent, publicly traded company, and Exelon retained no ownership interest in Constellation. The Distribution was made without the payment of any consideration or the exchange of any shares by Exelon’s shareholders. The information set forth under Item 1.01 above is incorporated into this Item 2.01 by reference. 
+
+Pension Plan Changes 
+
+Effective February 1, 2022, the following entities (the “Constellation Group”) are no longer members of Exelon’s controlled group: 
+
+ ·Constellation Energy Corporation 
+
+ ·Exelon Generation Company, LLC 
+
+ ·The entities listed in Schedule I to the Separation Agreement filed as Exhibit 2.1 to this Current Report on Form 8-K 
+
+As a result of the Distribution, the defined benefit pension plans maintained by Exelon (EIN: 23-2990190) will experience a change in contributing sponsor or controlled group, which is a “reportable event” pursuant to section 4043(c) of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), requiring notice to the Pension Benefit Guaranty Corporation (“PBGC”). The Distribution might also be treated as a reportable event under other provisions of section 4043 of ERISA. As permitted by applicable regulations of the PBGC, set forth below is the information required in order to satisfy the public company notice waiver with respect to all reportable events. 
+
+Exelon, or members of its controlled group, currently maintain the following defined benefit pension plans (collectively, the “Exelon Pension Plans”) that are subject to Title IV of ERISA: (1) Exelon Corporation Retirement Program, plan number 002; (2) Exelon Corporation Pension Plan for Bargaining Unit Employees, plan number 005; (3) Exelon Employee Pension Plan for Clinton, TMI and Oyster Creek, plan number 013; (4) Pension Plan of Constellation Energy Group, Inc., plan number 016; (5) Pension Plan of Constellation Energy Nuclear Group, LLC, plan number 018; (6) Nine Mile Point Pension Plan, plan number 021; (7) Pepco Holdings LLC Retirement Plan, plan number 022; (8) Exelon New England Union Employees Pension Plan, plan number 006; and (9) Constellation Mystic Power, LLC Union Employees Pension Plan Including Plan A and Plan B, plan number 004 (maintained by Constellation Mystic Power, LLC). In connection with the Distribution, employees working for the business associated with the Constellation Group (the “Constellation Business”) will be transferred to Exelon Generation Company, LLC (expected to be renamed Constellation Energy Generation, LLC following the Distribution), a Pennsylvania limited liability company (the “Constellation Subsidiary”), which is a wholly-owned subsidiary of Constellation, and, as a result, certain pension liabilities and assets will be transferred to plans maintained by the Constellation Subsidiary as described below. Other than the plans referenced in (3), (5), (6), (8) and (9) of the second preceding sentence, Exelon will continue to maintain the Exelon Pension Plans as of February 1, 2022 with respect to employees and former employees whose liabilities are not transferred to the plans maintained by the Constellation Subsidiary. 
+
+Effective on or before February 1, 2022, the Constellation Subsidiary (EIN: 23-3064219) will adopt, establish and maintain two new defined benefit pension plans for the benefit of employees of the Constellation Subsidiary and its affiliates and a single trust to hold the assets of such plans: (1) Constellation Retirement Program, plan number 001; and (2) Constellation Cash Balance Pension Plan for Bargaining Unit Employees, plan number 002. 
+
+In addition, the Constellation Subsidiary will assume the following plans: (1) Constellation New England Union Employees Pension Plan, plan number 006; (2) Exelon Employee Pension Plan for Clinton, TMI and Oyster Creek, plan number 013; (3) Pension Plan of Constellation Energy Nuclear Group, LLC, plan number 018; and (4) Nine Mile Point Pension Plan, plan number 021. The Exelon New England Union Employees Pension Plan will be renamed “Constellation New England Union Employees Pension Plan.” 
+
+Immediately prior to the transfer of the Exelon Employee Pension Plan for Clinton, TMI and Oyster Creek, plan number 013, the Pension Plan of Constellation Energy Nuclear Group, LLC, plan number 018, and the Nine Mile Point Pension Plan, plan number 021 to the Constellation Subsidiary, a de minimis transfer of assets and liabilities under those plans will be transferred to the Pension Plan of Constellation Energy Group, Inc. (to be renamed the Exelon Pension Plan), plan number 016, maintained by Exelon. 
+
+Constellation Mystic Power, LLC, an affiliate of the Constellation Subsidiary will continue to maintain the Constellation Mystic Power, LLC Union Employees Pension Plan Including Plan A and Plan B, plan number 004, after the Spin-Off. As such, that plan will no longer be maintained by an affiliate of Exelon. 
+
+The Constellation Retirement Program will be substantially similar to the Exelon Corporation Retirement Program, plan number 002, and will assume all liabilities with respect to Constellation employees, former employees of the Constellation Group and certain other former employees of Exelon, described below (the “Former Exelon Employees”), and their respective beneficiaries who, in each case, are entitled to a benefit under the Exelon Corporation Retirement Program. 
+
+The Constellation Cash Balance Pension Plan for Bargaining Unit Employees will be substantially similar to the Exelon Corporation Pension Plan for Bargaining Unit Employees, plan number 005, and will assume all liabilities with respect to Constellation employees, former employees of the Constellation Business, the Former Exelon Employees and their respective beneficiaries who, in each case, are entitled to a benefit under the Exelon Corporation Pension Plan for Bargaining Unit Employees. 
+
+ Upon its assumption by the Constellation Subsidiary, the Exelon Employee Pension Plan for Clinton, TMI and Oyster Creek will be renamed the Constellation Employee Pension Plan, and will also contain component plans that are substantially similar to the following Exelon pension plans: (1) Pension Plan of Constellation Energy Group, Inc., plan number 016; and (2) Pepco Holdings LLC Retirement Plan, plan number 022. The Constellation Employee Pension Plan will also have as component plans the Pension Plan of Constellation Energy Nuclear Group, LLC, plan number 018 and the Nine Mile Point Pension Plan, plan number 021. The Constellation Employee Pension Plan will assume all liabilities with respect to all Constellation employees, former employees of the Constellation Business, the Former Exelon Employees and their respective beneficiaries who, in each case, are entitled to a benefit under those Exelon Pension Plans. 
+
+The Constellation Subsidiary will assume and thereafter be solely responsible for all then existing and future employer liabilities under the Constellation Retirement Program, the Constellation Cash Balance Pension Plan for Bargaining Unit Employees, the Constellation Employee Pension Plan, and the Constellation New England Union Employees Pension Plan and the administration thereof, and neither Exelon nor any of its affiliates will retain any liabilities whatsoever with respect to those plans. Constellation Mystic Power, LLC will continue to sponsor and maintain the Constellation Mystic Power, LLC Union Employees Pension Plan Including Plan A and Plan B, and neither Exelon nor any of its affiliates will retain any liabilities whatsoever with respect to that plan. 
+
+For purposes of the description above, the term “Former Exelon Employees” means each former employee of Exelon or any of its affiliates whose last employment prior to termination was with a member of the “Exelon Group” (a business involving the regulated transmission and distribution of electricity and natural gas, principally through Exelon Energy Delivery Company, LLC and its subsidiaries (the “Exelon Business”) and not including the business being spun-off from Exelon) and (i) whose job duties immediately prior to termination related primarily to the Constellation Business, or (ii) who immediately prior to termination was employed at a location that primarily served the Constellation Business or (iii) was a shared services employee who Exelon determined had job duties that did not relate primarily to the Exelon Business or the Constellation Business, whose employment terminated on or after January 1, 2001 and who immediately prior to termination was not employed at a location that primarily served either the Exelon Business or the Constellation Business; provided that a de minimis number of former employees of Exelon, as determined by Exelon, will not be considered Former Exelon Employees for purposes of this definition. 
+
+Item 7.01. Regulation FD Disclosure. 
+
+On February 2, 2022, Exelon issued a press release announcing the completion of the Distribution of Constellation. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+In accordance with General Instruction B.2 of Form 8-K, the information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth in such a filing.  
+
+Item 9.01. Financial Statements and Exhibits. 
+
+ (b)Pro forma financial information  
+
+UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+On February 1, 2022, Exelon Corporation (“Exelon”) completed the separation of Constellation Energy Corporation (collectively with its consolidated subsidiaries, “Constellation Energy”), which will be an independent, publicly-traded company. As a result of the separation, Exelon’s competitive generation and customer-facing energy businesses conducted through Exelon Generation Company, LLC and its subsidiaries (“Generation”) was owned by Constellation Energy immediately prior to separation. Constellation Energy was formed on June 15, 2021 in connection with the separation transaction and has engaged in no activity other than incidental to the separation. The separation occurred through a pro-rata distribution to Exelon’s shareholders of all of the shares of common stock of Constellation Energy. The distribution is tax-free to Exelon shareholders for U.S. federal income tax purposes, except to the extent of cash received in lieu of fractional shares. Following the distribution, Exelon shareholders own 100% of the shares of Constellation Energy common stock. 
+
+Constellation Energy substantially represents Generation and, upon completion of the separation, Exelon no longer has Generation’s five reportable segments: Mid-Atlantic, Midwest, New York, Texas, and Other Power Regions. Beginning in the first quarter of 2022, Generation’s historical financial results for periods prior to the separation will be reflected in Exelon’s consolidated financial statements as a discontinued operation. 
+
+On January 21, 2022 and January 24, 2022, Exelon entered into four separate unsecured term loan credit facilities in the aggregate amount of $2 billion (collectively, the “Term Loans”) with Barclays Bank PLC (“Barclays Term Loan”), PNC Bank National Association (“PNC Term Loan”), Sumitomo Mitsui Banking Corporation (“SMBC Term Loan”) and U.S. Bank National Association (“U.S. Bank Term Loan” and together with the PNC Term Loan and SMBC Term Loan, the “18-Month Term Loans”). The proceeds from the Term Loans will be used to primarily fund a $1.75 billion cash payment to Constellation Energy Corporation and for general corporate purposes. The Barclays Term Loan was in the amount of $1.15 billion and will mature on January 23, 2023. The Barclays Term Loan bears interest at a variable rate equal to the Secured Overnight Financing Rate (“SOFR”) plus 0.75% with a 22.5 basis point increase commencing on July 24, 2022. The 18-Month Term Loans were in an aggregate amount of $850 million. The SMBC Term Loan and the U.S. Bank Term Loan will mature on July 21, 2023. The PNC Term Loan will mature on July 24, 2023. Loans made under the 18-Month Term Loans bear interest at a variable rate equal to SOFR plus 0.65%. The Term Loans are expected to be replaced by permanent financing in the future. 
+
+The unaudited pro forma condensed consolidated financial statements as of and for the nine months ended September 30, 2021 have been derived from the historical unaudited consolidated financial statements of Exelon, included in Exelon’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2021. The unaudited pro forma condensed consolidated financial statements for the years ended December 31, 2020, 2019, and 2018 have been derived from the historical audited consolidated financial statements of Exelon, included in Exelon’s Annual Report on Form 10-K for the years ended December 31, 2020, 2019, and 2018. The unaudited pro forma condensed consolidated statement of operations for the nine months ended September 30, 2021 and the years ended December 31, 2020, 2019, and 2018 give effect to the separation and related transactions and debt financing transactions as if they had occurred on January 1, 2018, the beginning of the earliest period presented. The unaudited pro forma condensed consolidated balance sheet as of September 30, 2021 gives effect to the separation and related transactions and debt financing transactions, as if they had occurred on September 30, 2021. 
+
+The unaudited pro forma condensed consolidated financial statements were prepared in accordance with Article 11 of Regulation S-X. The unaudited pro forma condensed consolidated financial statements were prepared for illustrative and informational purposes only and are not intended to represent what our results of operations or financial position would have been had the separation and related transactions and debt financing transactions occurred on the dates indicated. The unaudited pro forma condensed consolidated financial statements also should not be considered indicative of our future results of operations or financial position. The actual financial position and results of operations may differ significantly from the pro forma amounts reflected herein due to a variety of factors. See “Cautionary Note Regarding Forward-Looking Statements” included in this current report. The unaudited pro forma condensed consolidated financial information does not reflect the realization of any expected cost savings or other synergies as a result of the separation and related transactions and debt financing transactions. 
+
+The following unaudited pro forma condensed consolidated statements of operations and unaudited pro forma condensed consolidated balance sheet give pro forma effect to the following: 
+
+Separation transaction accounting adjustments 
+
+   · the impact of the separation agreement, employee matters agreement, tax matters agreement, and the provisions therein.  
+
+Debt financing transaction accounting adjustments 
+
+   · the impact of the term loan credit agreements and the provisions therein.  
+
+The following unaudited pro forma condensed consolidated financial statements should be read in conjunction with: 
+
+   · the historical unaudited consolidated financial statements and accompanying notes of Exelon and Generation as of and for the nine months ended September 30, 2021, which are included in Exelon’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2021.  
+
+   · the historical audited consolidated financial statements and accompanying notes of Exelon and Generation as of and for the years ended December 31, 2020, 2019, and 2018 which are included in Exelon’s Annual Report on Form 10-K for the years ended December 31, 2020, 2019, and 2018.  
+
+   · the Current Report on Form 8-K, dated January 26, 2022, filed by Exelon.  
+
+   · the accompanying notes to the pro forma financial information.  
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Statement of Operations 
+
+for the Nine Months Ended September 30, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Statement of Operations 
+
+for the Year Ended December 31, 2020 
+
+  [DATA_TABLE_REMOVED] 
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Statement of Operations 
+
+for the Year Ended December 31, 2019 
+
+  [DATA_TABLE_REMOVED] 
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Statement of Operations 
+
+for the Year Ended December 31, 2018 
+
+  [DATA_TABLE_REMOVED] 
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Balance Sheet as of September 30, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+Exelon Corporation and Subsidiary Companies
+
+ Unaudited Pro Forma Condensed Consolidated Balance Sheet as of September 30, 2021 
+
+  [DATA_TABLE_REMOVED] 
+
+Notes to Unaudited Pro Forma Condensed Consolidated Financial Statements 
+
+1. Basis of Presentation 
+
+The historical financial information as of and for the nine months ended September 30, 2021 has been derived from and should be read in conjunction with the historical unaudited consolidated financial statements of Exelon, included in Exelon’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2021 and the assumptions outlined in Note 2 below. The historical financial information for the years ended December 31, 2020, 2019, and 2018 have been derived from and should be read in conjunction with the historical audited consolidated financial statements of Exelon, included in Exelon’s Annual Report on Form 10-K for the years ended December 31, 2020, 2019, and 2018 and the assumptions outlined in Note 2 below. 
+
+2. Pro Forma Adjustments and Assumptions 
+
+Separation transaction accounting adjustments 
+
+ (a)Reflects the adjustments to eliminate the historical operating results of Constellation Energy, adjusted for eliminations recorded at Exelon, which will be accounted for as discontinued operations in Exelon's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022, except as otherwise indicated in the following notes. 
+
+ (b)Reflects certain revenue, expenses and other intercompany transactions associated with historical affiliate transactions between Exelon’s utility subsidiaries and Constellation Energy, previously eliminated in Exelon's consolidated financial statements, that are expected to continue as third-party transactions and will no longer be eliminated after the separation. 
+
+ (c)Reflects certain corporate overhead costs related to legal, human resources, financial, information technology, supply management services, and other shared services functions, that are clearly identifiable as costs of Generation and will not continue to be recognized by Exelon on an ongoing basis. 
+
+ (d)Reflects the provision (benefit) for income taxes for the adjustments made to income before income taxes at a statutory tax rate of 24% and other tax adjustments to derive Exelon’s taxes as a separate company without Constellation Energy. 
+
+ (e)Reflects the incremental non-recurring transaction costs expected to be incurred that have not been recognized in the historical financial statements. The adjustment is recorded to operating and maintenance expense in the earliest period presented and the related accrued expense is also reflected in the unaudited pro forma condensed consolidated balance sheet. 
+
+ (f)Reflects the adjustments to eliminate the historical assets, liabilities, and equity of Constellation Energy, adjusted for eliminations recorded at Exelon, which will be accounted for as discontinued operations in Exelon's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022, except as otherwise indicated in the following notes. 
+
+ (g)Reflects the cash payment from Exelon to Constellation Energy in accordance with the separation agreement. 
+
+ (h)Reflects the transfer of certain assets and liabilities from Exelon to Constellation Energy, including certain corporate assets and obligations related to employee compensation associated with employees transferring from Exelon to Constellation Energy, in accordance with the separation agreement and employee matters agreement. 
+
+ (i)Reflects the estimated impact to non-current regulatory assets, deferred income taxes and unamortized investment tax credits, pension obligation, non-pension postretirement benefit obligations, and accumulated other comprehensive income resulting from the legal separation of the pension and OPEB plans, previously accounted for as multi-employer benefit plans, related to current and former Exelon employees transferred to Constellation Energy in accordance with the employee matters agreement. In addition, the adjustment to cash and cash equivalents reflects a non-recurring qualified pension contribution in connection with the separation. 
+
+ (j)Reflects the deferred tax asset related to tax credit carryforwards and uncertain tax positions that will be retained by Exelon and the recognition of the related payable due to and receivable from Constellation Energy in accordance with the tax matters agreement. 
+
+ (k)Reflects the deferred tax valuation allowance related to Exelon's net operating loss carryforwards and other deferred tax assets for which it is more likely than not that this attribute will not be realized. Because Constellation Energy will not be included in Exelon's separate state tax returns following the separation, it is expected that there will not be sufficient taxable income to realize a portion of the deferred tax assets. 
+
+ (l)Reflects the cash payment to Exelon from Generation for the settlement of an intercompany loan in connection with the separation. 
+
+Debt financing transaction accounting adjustments 
+
+ (m)Reflects the issuance of $2 billion under the Term Loans and the related interest expense and tax effects. These Term Loans all bear interest at a variable rate equal to SOFR plus a risk premium. The interest rates assumed for purposes of preparing this pro forma financial information represent the SOFR rate of 0.04% as of January 24, 2022 plus the risk premium specified in the credit agreements. As the Term Loans are expected to be replaced by permanent financing in the future, the effects of the interest expense, and related income tax impacts, are reflected in all pro forma periods presented. A 1/8% change to the annual interest rate would result in a change in interest expense by approximately $1.9 million for the nine months ended September 30, 2021 and approximately $2.5 million for the years ended December 31, 2020, December 31, 2019, and December 31, 2018. The benefit for income taxes for the adjustments made to income before income taxes is computed at a statutory tax rate of 24%. 
+
+ (d)Exhibits  
+
+  [DATA_TABLE_REMOVED] 
+
+* * * * * 
+
+This Current Report on Form 8-K contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. Words such as “could,” “may,” “expects,” “anticipates,” “will,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “seeks,” “estimates,” “predicts,” and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements. 
+
+The factors that could cause actual results to differ materially from the forward-looking statements made by Exelon include those factors discussed herein as well as the items discussed in (1) Exelon’s 2020 Annual Report on Form 10-K in (a) Part I, ITEM 1A. Risk Factors, (b) Part II, ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 19, Commitments and Contingencies; (2) Exelon's Third Quarter 2021 Quarterly Report on Form 10-Q in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 15, Commitments and Contingencies; and (3) other factors discussed in Exelon’s filings with the Securities and Exchange Commission. 
+
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this Current Report on Form 8-K. Exelon undertakes no obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this Current Report on Form 8-K. 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+   EXELON CORPORATION 
+
+   /s/ Joseph Nigro 
+
+   Joseph Nigro 
+
+   Senior Executive Vice President and Chief Financial Officer 
+
+   Exelon Corporation  
+
+February 2, 2022

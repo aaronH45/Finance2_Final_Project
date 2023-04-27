@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000732712",
+    "sec_company_name": "VERIZON COMMUNICATIONS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150225",
+    "sec_changed_date": "20150225",
+    "sec_accepted_date": "20150225170200",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/732712/000119312515062745/0001193125-15-062745-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/732712/000119312515062745/0001193125-15-062745.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\VZ_0000732712_EX991_20150225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "41711 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 15359,
+    "endpoints": [
+        "EX-99.1   ",
+        "In this communication we have made forward-looking statements. These statements are based on our estimates and assumptions and are subject to risks and uncertainties. Forward-looking statements include the information concerning our possible or assumed future results of operations. Forward-looking statements also include those preceded or followed by the words “anticipates,” “believes,” “estimates,” “hopes” or similar expressions. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. The following important factors, along with those discussed in our filings with the Securities and Exchange Commission (the “SEC”), could affect future results and could cause those results to differ materially from those expressed in the forward-looking statements: adverse conditions in the U.S. and international economies; the effects of competition in the markets in which we operate; material changes in technology or technology substitution; disruption of our key suppliers’ provisioning of products or services; changes in the regulatory environment in which we operate, including any increase in restrictions on our ability to operate our networks; breaches of network or information technology security, natural disasters, terrorist attacks or acts of war or significant litigation and any resulting financial impact not covered by insurance; our high level of indebtedness; an adverse change in the ratings afforded our debt securities by nationally accredited ratings organizations or adverse conditions in the credit markets affecting the cost, including interest rates, and/or availability of further financing; material adverse changes in labor matters, including labor negotiations, and any resulting financial and/or operational impact; significant increases in benefit plan costs or lower investment returns on plan assets; changes in tax laws or treaties, or in their interpretation; changes in accounting assumptions that regulatory agencies, including the SEC, may require or that result from changes in the accounting rules or their application, which could result in an impact on earnings; and the inability to implement our business strategies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\VZ_0000732712_EX991_20150225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:22:17.632007"
+}

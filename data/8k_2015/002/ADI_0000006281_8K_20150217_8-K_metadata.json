@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000006281",
+    "sec_company_name": "ANALOG DEVICES INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150217",
+    "sec_filing_date": "20150217",
+    "sec_changed_date": "20150217",
+    "sec_accepted_date": "20150217161649",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6281/000115752315000596/0001157523-15-000596-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6281/000115752315000596/0001157523-15-000596.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\ADI_0000006281_8K_20150217_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "16514 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2944,
+    "endpoints": [
+        "UNITED STATES",
+        " Press release dated February 17, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ADI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\ADI_0000006281_8K_20150217_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:20:15.440767"
+}

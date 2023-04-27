@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001158449",
+    "sec_company_name": "ADVANCE AUTO PARTS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170301",
+    "sec_filing_date": "20170301",
+    "sec_changed_date": "20170301",
+    "sec_accepted_date": "20170301093047",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844917000036/0001158449-17-000036-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1158449/000115844917000036/0001158449-17-000036.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\AAP_0001158449_EX991_20170301_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "17267 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5666,
+    "endpoints": [
+        "Exhibit   ",
+        "Certain statements contained in this release are forward-looking statements, as that term is used in the Private Securities Litigation Reform Act of 1995. Forward-looking statements address future events or developments, and typically use words such as believe, anticipate, expect, intend, plan, forecast, outlook or estimate. These forward looking statements include, but are not limited to, key assumptions for 2017 financial performance including adjusted operating income; statements regarding expected growth and future performance of Advance Auto Parts, Inc. (AAP), including store growth, capital expenditures, comparable store sales, gross profit rate, SG&A, adjusted operating income, free cash flow, income tax rate, General Parts integration costs and adjusted operating income rate targets; expectations regarding leadership changes and their impact on the company’s strategies, opportunities and results; statements regarding enhancements to shareholder value; statements regarding strategic plans or initiatives, growth or profitability; and all other statements that are not statements of historical facts. These forward-looking statements are subject to significant risks, uncertainties and assumptions, and actual future events or results may differ materially from such forward-looking statements. Such differences may result from, among other things, AAP’s ability to implement its business and growth strategy; ability to attract, develop and retain executives and other employees; changes in regulatory, social and political conditions, as well as general economic conditions; competitive pressures; demand for AAP’s products; the market for auto parts; the economy in general; inflation; consumer debt levels; the weather; business interruptions; information technology security; availability of suitable real estate; dependence on foreign suppliers; and other factors disclosed in AAP’s 10-K for the fiscal year ended December 31, 2016 and other filings made by AAP with the Securities and Exchange Commission. Readers are cautioned not to place undue reliance on these forward-looking statements. AAP intends these forward-looking statements to speak only as of the time of this communication and does not undertake to update or revise them as more information becomes available."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AAP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\AAP_0001158449_EX991_20170301_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:57.301356"
+}

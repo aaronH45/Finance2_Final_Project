@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001164727",
+    "sec_company_name": "NEWMONT Corp /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220224",
+    "sec_filing_date": "20220224",
+    "sec_changed_date": "20220224",
+    "sec_accepted_date": "20220224070039",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1164727/000115752322000249/0001157523-22-000249-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1164727/000115752322000249/0001157523-22-000249.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\NEM_0001164727_8K_20220224_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "25979 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2289,
+    "endpoints": [
+        "false000116472700011647272022-02-242022-02-24 ",
+        "Dated: February 24, 2022"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "NEM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\NEM_0001164727_8K_20220224_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:27:03.237610"
+}

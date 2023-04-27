@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000074208",
+    "sec_company_name": "UDR, Inc. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150224",
+    "sec_filing_date": "20150224",
+    "sec_changed_date": "20150223",
+    "sec_accepted_date": "20150223192111",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/74208/000007420815000009/0000074208-15-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/74208/000007420815000009/0000074208-15-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\UDR_0000074208_8K_20150224_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "35587 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1635,
+    "endpoints": [
+        "8-K 2015.02.24   ",
+        " 99.1 Presentation Materials."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "UDR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\UDR_0000074208_8K_20150224_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:30:35.977731"
+}

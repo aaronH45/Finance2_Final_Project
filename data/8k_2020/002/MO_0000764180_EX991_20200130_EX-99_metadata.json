@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000764180",
+    "sec_company_name": "ALTRIA GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200130",
+    "sec_filing_date": "20200130",
+    "sec_changed_date": "20200130",
+    "sec_accepted_date": "20200130104008",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/764180/000076418020000009/0000764180-20-000009-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/764180/000076418020000009/0000764180-20-000009.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\MO_0000764180_EX991_20200130_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3287789 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 171442,
+    "endpoints": [
+        "Exhibit  ",
+        "64"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\MO_0000764180_EX991_20200130_EX-99_excerpt.txt",
+    "time_elapsed": 1.5,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:39:05.514126"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000038777",
+    "sec_company_name": "FRANKLIN RESOURCES INC (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20220930",
+    "sec_filing_date": "20221114",
+    "sec_changed_date": "20221114",
+    "sec_accepted_date": "20221114171149",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/38777/000003877722000198/0000038777-22-000198-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/38777/000003877722000198/0000038777-22-000198.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\002\BEN_0000038777_10K_20220930_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3684630 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 59541,
+    "endpoints": [
+        "Item 1A. Risk Factors.",
+        "Item 2. Properties."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BEN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\002\BEN_0000038777_10K_20220930_Item1A_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:45:47.763846"
+}

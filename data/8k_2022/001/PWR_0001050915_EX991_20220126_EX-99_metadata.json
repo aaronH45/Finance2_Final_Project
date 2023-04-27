@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001050915",
+    "sec_company_name": "QUANTA SERVICES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220126",
+    "sec_filing_date": "20220128",
+    "sec_changed_date": "20220128",
+    "sec_accepted_date": "20220128164019",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1050915/000119312522021674/0001193125-22-021674-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1050915/000119312522021674/0001193125-22-021674.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PWR_0001050915_EX991_20220126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9376 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5628,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release (and any oral statements regarding the subject matter of this press release) contains forward-looking statements intended to qualify for the “safe harbor” from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to, statements relating to expectations regarding Quanta’s business or financial outlook and Quanta’s ability to deliver increased value or return capital to stockholders; as well as statements reflecting expectations, intentions, assumptions or beliefs about future events and other statements that do not relate strictly to historical or current facts. These forward-looking statements are not guarantees of future performance, involve or rely on a number of risks, uncertainties, and assumptions that are difficult to predict or are beyond our control, and reflect management’s beliefs and assumptions based on information available at the time the statements are made. We caution you that actual outcomes and results may differ materially from what is expressed, implied or forecasted by our forward-looking statements and that any or all of our forward-looking statements may turn out to be inaccurate or incorrect. Forward-looking statements can be affected by inaccurate assumptions and by known or unknown risks and uncertainties , including, among others, risks and uncertainties detailed in Quanta’s Annual Report on Form 10-K for the year ended Dec. 31, 2020, Quanta’s Quarterly Reports on Form 10-Q for the quarters ended Mar. 31, 2021, Jun. 30, 2021 and Sep. 30, 2021 any other documents that Quanta files with the Securities and Exchange Commission (SEC). For a discussion of these risks, uncertainties and assumptions, investors are urged to refer to Quanta’s documents filed with the SEC that are available through the company’s website at www.quantaservices.com or through the SEC’s Electronic Data Gathering and Analysis Retrieval System (EDGAR) at www.sec.gov. Should one or more of these risks materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those expressed or implied in any forward-looking statements. Investors are cautioned not to place undue reliance on these forward-looking statements, which are current only as of this date. Quanta does not undertake and expressly disclaims any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Quanta further expressly disclaims any written or oral statements made by any third party regarding the subject matter of this press release."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PWR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PWR_0001050915_EX991_20220126_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:20:25.024368"
+}

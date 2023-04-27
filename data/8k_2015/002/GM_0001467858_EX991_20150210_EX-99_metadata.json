@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467858",
+    "sec_company_name": "General Motors Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150210",
+    "sec_filing_date": "20150210",
+    "sec_changed_date": "20150210",
+    "sec_accepted_date": "20150210165405",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785815000042/0001467858-15-000042-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785815000042/0001467858-15-000042.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\GM_0001467858_EX991_20150210_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13905 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6785,
+    "endpoints": [
+        "Press Release   ",
+        "In this press release and in related comments by our management, our use of the words ”plans,” “expect,” “anticipate,” “possible,” “potential,” “target,” “believe,” “commit,” “intend,” “continue,” “may,” “would,” “could,” “should,” “project,” “appears,” “potential,” “projected,” “upside,” “positioned,” “outlook” or similar expressions is intended to identify forward-looking statements that represent our current judgment about possible future events. We believe these judgments are reasonable, but these statements are not guarantees of any events or financial results, and our actual results may differ materially due to a variety of important factors. Among other items, such factors may include: our ability to realize production efficiencies and to achieve reductions in costs as a result of our restructuring initiatives and labor modifications; our ability to maintain quality control over our vehicles and avoid material vehicle recalls and the cost and effect on our reputation of product recalls; our ability to maintain adequate financing sources, including as required to fund our planned significant investment in new technology; the ability of our suppliers to timely deliver parts, components and systems; our ability to realize successful vehicle applications of new technology; overall strength and stability of our markets, particularly outside of North America and China; costs and risks associated with litigation and government investigations including those related to our recent recalls; and our ability to continue to attract new customers, particularly for our new products. GM's most recent annual report on Form 10-K provides information about these and other factors, which we may revise or supplement in future reports to the SEC."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\002\GM_0001467858_EX991_20150210_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:22:23.099208"
+}

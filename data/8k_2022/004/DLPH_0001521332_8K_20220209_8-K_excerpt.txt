@@ -1,0 +1,99 @@
+xml version="1.0" encoding="utf-8" ?   8-K   
+
+   0001521332 false 353        0001521332   2022-02-09 2022-02-09     0001521332  us-gaap:CommonStockMember    2022-02-09 2022-02-09     0001521332  us-gaap:PreferredStockMember    2022-02-09 2022-02-09     0001521332  aptv:EuroDenominatedSeniorNotes1.500Due2025Member    2022-02-09 2022-02-09     0001521332  aptv:EurodenominatedSeniorNotes1.600Due2028Member    2022-02-09 2022-02-09     0001521332  aptv:SeniorNotes4.35Due2029Member    2022-02-09 2022-02-09     0001521332  aptv:SeniorNotes4.400Due2046Member    2022-02-09 2022-02-09     0001521332  aptv:SeniorNotes5.40Due2049Member    2022-02-09 2022-02-09     0001521332  aptv:SeniorNotes310Due2051Member    2022-02-09 2022-02-09      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): 
+
+February 18, 2022 (February 9, 2022) 
+
+Aptiv PLC 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+5 Hanover Quay 
+
+Grand Canal Dock 
+
+Dublin, D02 VY79, Ireland 
+
+(Address of Principal Executive Offices, Including Zip Code) 
+
+(Registrant’s Telephone Number, Including Area Code) 353 1-259-7013 
+
+(Former Name or Former Address, if Changed Since Last Report) N/A 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+ ☐ 
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ☐ 
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement 
+
+Pursuant to the previously announced offering of $700,000,000 aggregate principal amount of 2.396% Senior Notes due 2025 (the “2025 Notes”), $800,000,000 of 3.250% Senior Notes due 2032 (the “2032 Notes”) and $1,000,000,000 of 4.150% Senior Notes due 2052 (the “2052 Notes” and, together with the 2025 Notes and the 2032 Notes, the “Notes”) to be issued by Aptiv PLC and Aptiv Corporation (together with Aptiv PLC, the “Issuers”), the Issuers, the Guarantor (as defined below), Wilmington Trust, National Association, as trustee, and Deutsche Bank Trust Company Americas, as registrar, paying agent and authenticating agent, entered into a ninth supplemental indenture, dated as of February 18, 2022 (the “Supplemental Indenture”) to the Senior Notes Indenture dated as of March 10, 2015 (as previously amended, supplemented or otherwise modified from time to time, the “Base Indenture” and together with the Supplemental Indenture, the “Indenture”), providing for the issuance of the Notes. The Notes will be fully and unconditionally guaranteed on a senior unsecured basis (the “Guarantees” and, together with the Notes, the “Securities”) by Aptiv Global Financing Limited, an indirect subsidiary of Aptiv PLC (the “Guarantor”). 
+
+The 2025 Notes will bear interest at a fixed rate of 2.396% per annum, and interest will be payable on February 18 and August 18 of each year, beginning August 18, 2022 until the maturity date of February 18, 2025. The 2032 Notes will bear interest at a fixed rate of 3.250% per annum, and interest will be payable on March 1 and September 1 of each year, beginning September 1, 2022 until the maturity date of March 1, 2032. The 2052 Notes will bear interest at a fixed rate of 4.150% per annum, and interest will be payable on May 1 and November 1 of each year, beginning May 1, 2022 until the maturity date of May 1, 2052. The Issuers may redeem the Notes at such times and at the redemption prices as provided for in the Indenture. The Indenture also contains certain covenants as set forth in the Indenture and requires the Issuers to offer to repurchase the Notes upon certain change of control events. 
+
+Further, if Aptiv PLC’s previously disclosed acquisition of Wind River Systems, Inc. (the “Acquisition”) has not been consummated on or prior to July 10, 2023, or if prior to such date, the definitive agreement relating to the Acquisition is terminated, then the Issuers will be required to redeem all of the 2032 Notes and all of the 2052 Notes at a redemption price equal to 101% of the principal amount of each of the 2032 Notes and the 2052 Notes, plus accrued and unpaid interest, if any, to, but not including the redemption date. 
+
+The description of the Indenture contained herein is qualified in its entirety by reference to the Base Indenture and the Supplemental Indenture (including the form of Notes) which are filed as Exhibits 4.1 and 4.2 to this Current Report on Form 8-K, respectively, and are incorporated herein by reference. 
+
+ Item 8.01  
+
+Other Events. 
+
+On February 9, 2022, the Issuers and the Guarantor entered into an underwriting agreement (the “Underwriting Agreement”), by and among the Issuers, the Guarantor and J.P. Morgan Securities LLC, Citigroup Global Markets Inc. and Goldman Sachs & Co. LLC, as representatives of the several underwriters listed on Schedule I thereto (the 
+
+ “Underwriters”), pursuant to which the Issuers agreed to issue and sell to the Underwriters $2.5 billion aggregate principal amount of the Notes. The description of the Underwriting Agreement contained herein is qualified in its entirety by reference to the Underwriting Agreement, which is filed as Exhibit 1.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+The above-mentioned offering was made pursuant to an effective shelf registration statement on Form S-3 (File No. 333-258499) and Amendment No. 1 thereto filed by the Issuers and the Guarantor. Opinions of counsel for the Issuers and the Guarantor are filed as Exhibits 5.1, 5.2 and 5.3 to this Current Report on Form 8-K. 
+
+ Item 9.01  
+
+Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+  [DATA_TABLE_REMOVED] 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

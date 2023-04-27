@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001156039",
+    "sec_company_name": "Anthem, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150218",
+    "sec_filing_date": "20150218",
+    "sec_changed_date": "20150218",
+    "sec_accepted_date": "20150218080433",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1156039/000119312515051630/0001193125-15-051630-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1156039/000119312515051630/0001193125-15-051630.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\ANTM_0001156039_EX991_20150218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11096 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8459,
+    "endpoints": [
+        "EX-99.1   ",
+        " funding risks with respect to revenue received from participation therein; a downgrade in our financial strength ratings; litigation and investigations targeted at our industry and our ability to resolve litigation and investigations within estimates; medical malpractice or professional liability claims or other risks related to health care services provided by our subsidiaries; our ability to repurchase shares of our common stock and pay dividends on our common stock due to the adequacy of our cash flow and earnings and other considerations; non-compliance by any party with the Express Scripts, Inc. pharmacy benefit management services agreement, which could result in financial penalties, our inability to meet customer demands, and sanctions imposed by governmental entities, including the Centers for Medicare and Medicaid Services; events that result in negative publicity for us or the health benefits industry; failure to effectively maintain and modernize our information systems and e-business organization and to maintain good relationships with third party vendors for information system resources; events that may negatively affect our licenses with the Blue Cross and Blue Shield Association; possible impairment of the value of our intangible assets if future results do not adequately support goodwill and other intangible assets; intense competition to attract and retain employees; unauthorized disclosure of member or employee sensitive or confidential information, including the impact and outcome of investigations, inquiries, claims and litigation related to the cyber attack we reported in February 2015; changes in the economic and market conditions, as well as regulations that may negatively affect our investment portfolios and liquidity; possible restrictions in the payment of dividends by our subsidiaries and increases in required minimum levels of capital and the potential negative effect from our substantial amount of outstanding indebtedness; general risks associated with mergers and acquisitions; various laws and provisions in our governing documents that may prevent or discourage takeovers and business combinations; future public health epidemics and catastrophes; and general economic downturns. Readers are cautioned not to place undue reliance on these forward-looking statements that speak only as of the date hereof. Except to the extent otherwise required by federal securities law, we do not undertake any obligation to republish revised forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. Readers are also urged to carefully review and consider the various disclosures in our SEC reports."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ANTM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\ANTM_0001156039_EX991_20150218_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:27:51.811273"
+}

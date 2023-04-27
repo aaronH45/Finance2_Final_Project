@@ -1,0 +1,129 @@
+Exhibit  
+
+Exhibit 99.1
+
+Investor Relations Contact:
+
+Suresh Bhaskaran 
+
+Xilinx, Inc.
+
+(408) 879-4784 
+
+ir@xilinx.com
+
+XILINX REPORTS FISCAL THIRD QUARTER 2020 RESULTS
+
+SAN JOSE, Calif., Jan. 28, 2020 -- Xilinx, Inc. (Nasdaq: XLNX), the leader in adaptive and intelligent computing, today announced revenues of $723 million for the third quarter of fiscal year 2020, down 13% from the prior quarter and down 10% year over year. GAAP net income for the December quarter was $162 million, or $0.64 per diluted share. Non-GAAP net income for the December quarter was $171 million, or $0.68 per diluted share. 
+
+The Xilinx Board of Directors declared a quarterly cash dividend of $0.37 per outstanding share of common stock payable on February 20, 2020 to all stockholders of record at the close of business on February 11, 2020.
+
+Additional third quarter of fiscal year 2020 comparisons are provided in the charts below. 
+
+Q3 2020 Financial Highlights
+
+(In millions, except EPS) 
+
+[DATA_TABLE_REMOVED]
+
+Xilinx also announced cost-saving measures designed to drive structural operating efficiencies across the company. Xilinx expects to reduce its global workforce by approximately 7% through a targeted reduction in force and meaningfully slower hiring to replace attrition. In addition to the targeted reduction in force, Xilinx is taking other measures to reduce operating expenses, including further reducing discretionary spend 
+
+and targeting additional operating efficiencies across the business. As a result of these measures, Xilinx expects to generate non-GAAP cost and operating expense savings of approximately $17M to $20M in the fourth quarter. Additionally, Xilinx expects to incur a GAAP pre-tax charge of approximately $25M to $30M in the fourth quarter of fiscal 2020 primarily related to severance pay expenses. 
+
+“As expected, our fiscal third quarter was a challenging quarter and our revenue came in near the midpoint of our guidance. Given the revenue headwinds we experienced during the quarter, we took actions to reduce our operating expenses which delivered earnings greater than our expectations.
+
+“Fiscal fourth quarter revenue is expected to grow on a sequential basis as a result of strength in our core vertical markets and a moderate resumption of growth in our data center business. However, we are seeing greater than expected weakness in our wired and wireless business due to a slowdown in both 5G and wired infrastructure deployments, in addition to ongoing global trade headwinds. 
+
+“We expect some of these headwinds in our wired and wireless business to be persistent, resulting in revenue growth lower than our prior expectations. We are, therefore, taking several actions to further reduce our operating expenses this quarter.
+
+“These are difficult actions, but we believe the decisive steps we are taking to reset our operating expenses will allow us to drive our growth strategy and technology roadmap while enabling a more appropriate level of operating profitability. We remain extremely focused on our mission and long-term growth opportunities as the leader in adaptable platforms from the cloud to edge to endpoints,” said Victor Peng, president and chief executive officer.
+
+[DATA_TABLE_REMOVED]
+
+Products are classified as follows:
+
+Advanced Products: Alveo, UltraScale+, UltraScale and 7-series products. 
+
+Core Products: Virtex-6, Spartan-6, Virtex‐5, CoolRunner‐II, Virtex-4, Virtex-II, Spartan-3, Spartan-2, XC9500 products, configuration solutions, software & support/services.
+
+Key Statistics:  
+
+(Dollars in Millions)
+
+[DATA_TABLE_REMOVED]
+
+*Return on equity calculation: Annualized year to date GAAP net income/average stockholders’ equity
+
+Product and Financial Highlights - Fiscal Third Quarter 2020
+
+•Advanced Products constituted approximately 70% of total revenues in the third quarter, although revenues from the category decreased 4% year over year. Zynq-based revenues grew 26% year over year despite the impact of a weaker Wireless business, further validating Xilinx platform strategy. The Zynq SoC platform, which includes Zynq at 28nm and both MPSoC and RFSoC at 16nm, represented 23% of total revenues, higher than the year ago period.
+
+•In early December, Xilinx announced that Vitis AI, its AI inference development platform was available for download. Combined with the Vitis unified software platform, Vitis AI empowers software developers with deep learning acceleration. Vitis AI integrates a domain-specific architecture (DSA) and configures Xilinx hardware to be optimized and programmed using industry-leading frameworks such as TensorFlow and Caffe. Xilinx has cumulatively trained over 8,000 developers to date and has over 900 independent software vendors as part of the ecosystem.
+
+•Collaborating with Xilinx, Cortical.io a, leader in AI based natural language understanding , announced a new e-mail classification appliance. Using Supermicro servers and Xilinx Alveo accelerator cards, the appliance is expected to enable real-time filtering and classification of incoming and outgoing e-mails.
+
+•Xilinx announced that Automotive Zynq UltraScale+ MPSoC is powering Baidu's production-ready Apollo Computing Unit (ACU)- an advanced platform for automated valet parking (AVP), the industry's first dedicated computing solution for AVP. Separately, Xilinx disclosed that SK 
+
+Telecom adopted Xilinx Alveo Data Center Accelerator cards to power a real-time AI-based physical intrusion and theft detection service.
+
+•During the XDF Europe keynote, CERN, a European organization for nuclear research, joined Xilinx onstage to discuss a network of Xilinx FPGAs housed 100 meters underground designed to instantaneously filter and identify novel particle substructures as evidence of the existence of dark matter and other physical phenomena. CERN said that Xilinx enabled a fixed, extremely low latency AI inference capability of about three microseconds per event, a feat that could not be achieved by CPUs or GPUs. 
+
+•During the XDF China keynote, Inspur Systems joined Xilinx onstage proclaiming that Xilinx ACAPs and FPGAs will be a cornerstone of Inspur’s future technology. Alibaba Cloud also highlighted how Xilinx technology is not only powering Alibaba’s own data center, but also that of its enterprise customers using Alibaba Cloud services. Alibaba noted that unprecedented traffic hosted during Singles Day in Asia has proven the reliability and security of its system platform running Xilinx FPGAs. 
+
+•Xilinx repurchased 2.8 million shares of common stock at an average price of $93.70 per share and paid dividends of $93 million during the quarter.
+
+Business Outlook - Fiscal Fourth Quarter 2020
+
+The following guidance is based on current expectations and estimates, and as indicated, is presented on a GAAP and non-GAAP basis. This guidance is forward-looking and actual results may differ materially, as a result of, among other things, the important factors discussed and referred to at the end of this release. 
+
+[DATA_TABLE_REMOVED]
+
+Notes regarding Non-GAAP Adjustments: 
+
+(1)Amortization of acquisition-related intangibles and inventory valuation adjustment
+
+(2)M&A related expenses and amortization of acquisition-related intangibles
+
+(3)Severance-related expenses
+
+Conference Call
+
+A conference call will be held today at 2:00 p.m. Pacific Time to discuss the December quarter financial results and management's outlook for the March quarter and fiscal year 2020. The webcast and subsequent replay will be available in the investor relations section of the Company's web site at www.investor.xilinx.com. A telephonic replay of the call may be accessed later in the day by calling (855) 859-2056 and referencing confirmation code 9868367. The telephonic replay will be available for two weeks following the live call. 
+
+Non-GAAP Financial Information
+
+Fiscal third quarter 2020 results and business outlook for the March quarter include financial measures which are not determined in accordance with the United States generally accepted accounting principles (GAAP), as indicated. Non-GAAP measures should not be considered as a substitute for, or superior to, financial measures determined in accordance with GAAP. The presentation of non-GAAP financial measures has been reconciled, in each case, to the most directly-comparable GAAP measure, as indicated in the accompanying tables. The Company’s calculation of such non-GAAP measures may not be comparable to similarly-titled measures used by other companies.
+
+Management uses the non-GAAP financial measures disclosed herein to evaluate the Company's financial results from continuing operations (excluding the impact of acquisitions) and compare to operating performance in past periods. Similarly, Management believes presentation of these non-GAAP measures is useful to investors because it enables investors and analysts to evaluate operating expenses of the Company's core business, excluding the impact of non-core business expenses such as acquisition-related amortization and non-recurring items.
+
+M&A related expenses: These expenses mainly consist of legal and consulting fees associated with acquisition activities. The Company believes these costs do not reflect its current operating performance. Consequently, the non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Amortization of acquisition-related intangibles: Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology acquired in connection with business combinations. The non-GAAP adjustments exclude these charges to facilitate an evaluation of the Company’s current operating performance and comparisons to its past operating performance.
+
+Inventory valuation adjustment: Business combination accounting principles require the Company to measure acquired inventory at fair value. The fair value of inventory reflects the acquired company’s cost of manufacturing plus a portion of the expected profit margin. The non-GAAP adjustment to the Company’s cost of revenues excludes the expected profit margin component that is recorded under business combination accounting principles associated with the Company’s acquisitions. The Company believes the adjustment is useful to investors as an additional means to reflect cost of revenues and gross margin trends of its business.
+
+Gain on investment related to acquisition: The Company excludes the accounting gain resulting from revaluation of its prior minority investment in DeePhi Tech. The Company believes excluding this gain will facilitate a comparable evaluation of its current operating performance to its past operating performance. 
+
+Income taxes: The Company excludes the income tax effects of non-GAAP adjustments reflected in Operating expenses and Other income, as detailed above. It also excludes U.S. tax reform related items and other significant tax effects of post-acquisition tax integration transactions. The Company believes excluding U.S. tax reform and post-acquisition tax integration items will facilitate a comparable evaluation of its current performance to its past performance. The fourth quarter of fiscal 2020 outlook does not reflect other tax related items which the Company is not able to predict without unreasonable efforts due to their inherent uncertainty.
+
+Severance-related expenses: These expenses primarily consist of severance-related pay and benefits in connection with the targeted reduction in force. The Company believes excluding these charges will facilitate a comparable evaluation of its current operating performance to its past and future performance. 
+
+Forward-Looking Statements
+
+This release contains forward-looking statements and projections. Forward-looking statements and projections can often be identified by the use of forward-looking words such as “expect,” “believe,” “may,” “will,” “could,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” or other similar expressions. Statements that refer to or are based on projections, uncertain events or assumptions also identify forward-looking statements. Such forward looking statements include, but are not limited to, statements related to the semiconductor market, the growth and acceptance of our products, expected revenue growth, the demand and growth in the markets we serve, opportunity for expansion into new markets, and our expectations regarding our business outlook for the March quarter. Undue reliance should not be placed on such forward-looking statements and projections, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including, among others, customer acceptance of our new products, current global economic conditions, our dependence on certain customers, trade and export restrictions, the condition and performance of our customers and the end markets in which they participate, our ability to forecast end customer demand, a high dependence on turns business, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to successfully manage production at multiple foundries, variability in wafer pricing, costs and liabilities associated with current and future litigation, our ability to generate cost and operating expense savings in an efficient and timely manner, our ability to realize the goals contemplated by our acquisitions and strategic investments, the impact of current and future legislative and regulatory changes, the impact of new accounting pronouncements and tax laws, including the U.S. Tax Cuts and Jobs Act, and interpretations thereof, and other risk factors described in our most recent Forms 10-Q and 10-K.
+
+About Xilinx 
+
+Xilinx develops highly flexible and adaptive processing platforms that enable rapid innovation across a variety of technologies - from the endpoint to the edge to the cloud. Xilinx is the inventor of the FPGA, hardware programmable SoCs and the ACAP, designed to deliver the most dynamic processor technology in the industry and enable the adaptable, intelligent and connected world of the future. For more information, visit www.xilinx.com.
+
+Xilinx, the Xilinx logo, Artix, ISE, Kintex, Spartan, Virtex, Zynq, Vivado, Alveo, Versal and other designated brands included herein are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+
+XLNX-F
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]

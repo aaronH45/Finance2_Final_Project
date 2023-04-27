@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190225",
+    "sec_filing_date": "20190225",
+    "sec_changed_date": "20190225",
+    "sec_accepted_date": "20190225162827",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000014/0001039684-19-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000103968419000014/0001039684-19-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "76058 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 45790,
+    "endpoints": [
+        "q42018earningsreleasenr   ",
+        " ONEOK Announces 32 Percent Increase in 2018 Operating Income; Announces 2019 Financial Guidance and 2020 Outlook Feb. 25, 2019 Page 20 ONEOK, Inc. RECONCILIATION OF NON-GAAP FINANCIAL MEASURES 2019 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of Net Income to Adjusted EBITDA and Distributable Cash Flow Net income $ 1,140 - $ 1,400 Interest expense, net of capitalized interest 525 - 475 Depreciation and amortization 490 - 470 Income taxes 340 - 410 Noncash compensation expense 45 - 25 Other non-cash items and equity AFUDC (40) - (80 ) Adjusted EBITDA $ 2,500 - $ 2,700 Interest expense (525) - (475 ) Maintenance capital (200) - (160 ) Equity in net earnings from investments (125) - (175 ) Distributions received from unconsolidated affiliates 170 - 180 Other — - (10 ) Distributable cash flow $ 1,820 - $ 2,060 2019 Guidance Range (Unaudited) (Millions of dollars) Reconciliation of Segment Adjusted EBITDA to Adjusted EBITDA Segment Adjusted EBITDA: Natural Gas Liquids $ 1,520 - $ 1,620 Natural Gas Gathering and Processing 620 - 680 Natural Gas Pipelines 360 - 390 Other — - 10 Adjusted EBITDA $ 2,500 - $ 2,700"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\003\OKE_0001039684_EX991_20190225_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:48:05.393682"
+}

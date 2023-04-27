@@ -1,0 +1,27 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks in the normal course of business including commodity price risk and interest rate risk. We employ various strategies, including the use of financial derivatives to manage the risks related to commodity price fluctuations. See Item 8. Financial Statements and Supplementary Data – Note 16 and Note 17 to the consolidated financial statements for detail relating to our open commodity derivative positions, including underlying notional quantities, how they are reported in our consolidated financial statements and how their fair values are measured.
+
+Commodity Price Risk
+
+Our strategy is to obtain competitive prices for our products and allow operating results to reflect market price movements dictated by supply and demand. However, management will periodically protect prices on forecasted sales to support cash flow and liquidity, as deemed appropriate. We may use a variety of commodity derivative instruments, including futures, forwards, swaps and combinations of options, as part of an overall program to manage commodity price risk in our business. Our consolidated results for 2021, 2020 and 2019 were impacted by crude oil, natural gas and natural gas liquid derivatives related to a portion of our forecasted United States sales. 
+
+As of December 31, 2021, we had various open commodity derivatives. Based on the December 31, 2021 published NYMEX WTI and natural gas futures prices, a hypothetical 10% change (per bbl for crude oil and per MMBtu for natural gas) would change the fair values of our $7 million net liability position to the following: 
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk
+
+At December 31, 2021 our portfolio of current and long-term debt is comprised of fixed-rate instruments with an outstanding balance of $4.0 billion. Our sensitivity to interest rate movements and corresponding changes in the fair value of our fixed-rate debt portfolio affects our results of operations and cash flows only when we elect to repurchase or otherwise retire fixed-rate debt at prices different than carrying value. 
+
+At December 31, 2021, we had forward starting interest rate swap agreements with a total notional amount of $295 million designated as cash flow hedges and $375 million not designated as hedges. We utilize cash flow hedges to manage our exposure to interest rate movements by utilizing interest rate swap agreements to hedge variations in cash flows related to 1-month LIBOR component of future lease payments on our future Houston office. A hypothetical 10% change in interest rates would change the fair values of our cash flow hedge and de-designated cash flow hedge positions to the following as of December 31, 2021: 
+
+[DATA_TABLE_REMOVED]
+
+Counterparty Risk
+
+We are also exposed to financial risk in the event of nonperformance by counterparties. If commodity prices fall below certain levels, some of our counterparties may experience liquidity problems and may not be able to meet their financial obligations to us. We review the creditworthiness of counterparties and use master netting agreements when appropriate. 
+
+52
+
+Item 8. Financial Statements and Supplementary Data

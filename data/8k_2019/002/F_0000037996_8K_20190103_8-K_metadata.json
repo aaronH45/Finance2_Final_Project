@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190103",
+    "sec_filing_date": "20190103",
+    "sec_changed_date": "20190103",
+    "sec_accepted_date": "20190103143757",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000110465919000449/0001104659-19-000449-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000110465919000449/0001104659-19-000449.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_8K_20190103_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23967 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2422,
+    "endpoints": [
+        "UNITED STATES ",
+        "  *       Any reference in the attached exhibit(s) to our corporate website(s) and/or other social media sites or platforms, and the contents thereof, is provided for convenience only; such websites or platforms and the contents thereof are not incorporated by reference into this Report nor deemed filed with the Securities and Exchange Commission."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\F_0000037996_8K_20190103_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:42:52.647753"
+}

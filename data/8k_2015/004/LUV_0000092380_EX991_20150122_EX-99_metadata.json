@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092380",
+    "sec_company_name": "SOUTHWEST AIRLINES CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150122",
+    "sec_filing_date": "20150122",
+    "sec_changed_date": "20150122",
+    "sec_accepted_date": "20150122104051",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92380/000009238015000006/0000092380-15-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92380/000009238015000006/0000092380-15-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\LUV_0000092380_EX991_20150122_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "813367 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 30772,
+    "endpoints": [
+        "12.31.2014 - Earnings Release    ",
+        "The Company has also provided free cash flow and ROIC, which are non-GAAP financial measures. The Company believes free cash flow is a meaningful measure because it demonstrates the Company's ability to service its debt, pay dividends and make investments to enhance Shareholder value. Although free cash flow is commonly used as a measure of liquidity, definitions of free cash flow may differ; therefore, the Company is providing an explanation of its calculation for free cash flow. For the year ended December 31, 2014, the Company generated $1.10 billion in free cash flow, calculated as operating cash flows of $2.90 billion less capital expenditures of $1.75 billion less assets constructed for others of $80 million plus reimbursements for assets constructed for others of $27 million. The Company believes ROIC is a meaningful measure because it quantifies how well the Company generates operating income relative to the capital it has invested in its business. Although ROIC is commonly used as a measure of capital efficiency, definitions of ROIC may differ; therefore, the Company is providing an explanation of its calculation for ROIC (before taxes and excluding special items) in the accompanying reconciliation tables to the press release (See Return on Invested Capital)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LUV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\LUV_0000092380_EX991_20150122_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:34:50.096568"
+}

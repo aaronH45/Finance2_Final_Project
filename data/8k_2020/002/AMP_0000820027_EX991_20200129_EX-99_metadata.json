@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000820027",
+    "sec_company_name": "AMERIPRISE FINANCIAL INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200129",
+    "sec_filing_date": "20200129",
+    "sec_changed_date": "20200129",
+    "sec_accepted_date": "20200129161509",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002720000003/0000820027-20-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/820027/000082002720000003/0000820027-20-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\AMP_0000820027_EX991_20200129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "52426 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 27381,
+    "endpoints": [
+        "nr4q19final   ",
+        " Ameriprise Financial, Inc. Consolidated GAAP Results Year Ended December 31, % Over/ (in millions, unaudited) 2019 2018 (Under) Revenues Management and financial advice fees $ 7,015 $ 6,776 4 % Distribution fees 1,919 1,877 2 % Net investment income 1,463 1,596 (8 %) Premiums 1,214 1,426 (15 %) Other revenues 1,279 1,249 2 % Gain on disposal of business 213 — Total revenues 13,103 12,924 1 % Banking and deposit interest expense 136 89 53 % Total net revenues 12,967 12,835 1 % Expenses Distribution expenses 3,810 3,637 5 % Interest credited to fixed accounts 669 674 (1 %) Benefits, claims, losses and settlement expenses 2,576 2,302 12 % Amortization of deferred acquisition costs 179 322 (44 %) Interest and debt expense 214 245 (13 %) General and administrative expense 3,287 3,171 4 % Total expenses 10,735 10,351 4 % Pretax income 2,232 2,484 (10 %) Income tax provision 339 386 (12 %) Net income $ 1,893 $ 2,098 (10%) Ameriprise Financial, Inc. Net Full Year Benefit of Auto & Home Divestiture (in millions, unaudited) 1Q19 2Q19 3Q19 4Q19 FY 2019 Gain on disposal of business $ — $ — $ — $ 213 $ 213 Restructuring (1) (7) (2) (2) (6 ) (17 ) Market impact of hedges on investments (1) (10) (18) (9) 2 (35 ) Total A&H Divestiture $ (17) $ (20) $ (11) $ 209 $ 161 (1) Included in the reconciliation tables on pages 8 and 9. 14"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AMP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\AMP_0000820027_EX991_20200129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:53.453234"
+}

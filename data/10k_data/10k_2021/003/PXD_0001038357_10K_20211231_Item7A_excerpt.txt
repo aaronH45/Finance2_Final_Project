@@ -1,0 +1,74 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of business, the Company's financial position is routinely subject to a variety of risks, including market risks associated with changes in commodity prices, interest rate movements on outstanding debt and credit risks. The following quantitative and qualitative information is provided about financial instruments to which the Company was a party as of December 31, 2021, and from which the Company may incur future gains or losses from changes in commodity prices or interest rates. The Company does not enter into any financial instruments, including derivatives, for speculative or trading purposes.
+
+Interest rate risk. As of December 31, 2021, the Company had no variable rate debt outstanding under the Credit Facility and, consequently, no related exposure to interest rate risk. As of December 31, 2021, the Company had $6.9 billion of fixed rate long-term debt outstanding with a weighted average cash interest rate of 1.9 percent. Although changes in interest rates may affect the fair value of the Company's fixed rate long-term debt, any changes would not expose the Company to the risk of earnings or cash flow losses. The Company has no interest rate derivative instruments outstanding; however, it may enter into derivative instruments in the future to mitigate interest rate risk. See Note 4 and Note 7 of Notes to Consolidated Financial Statements included in "Item 8. Financial Statements and Supplementary Data" for additional information.
+
+Commodity price risk. The Company's primary market risk exposure is related to the price it receives from the sale of its oil, NGL and gas production. Realized pricing is volatile and is determined by market prices that fluctuate with changes in supply and demand for these products throughout the world. The price the Company receives for its production depends on many factors outside of the control of the Company, including differences in commodity pricing at the point of sale versus market index prices. Reducing the Company's exposure to price volatility helps secure funds to be used in its capital program and to fund general working capital needs, debt obligations, dividends and share repurchases, among other uses. The Company mitigates its commodity price risk by (i) maintaining financial flexibility with a strong balance sheet, (ii) using derivative financial instruments and (iii) sales of purchased oil and gas.
+
+Derivative financial instruments. The Company's decision on the quantity and price at which it executes derivative contracts is based in part on its view of current and future market conditions. The Company may choose not to enter into derivative positions for expected production if the commodity price forecast for certain time periods is deemed to be unfavorable. Additionally, the Company may choose to liquidate existing derivative positions prior to the expiration of their contractual maturity in order to monetize gain positions or minimize loss positions if it is anticipated that the commodity price forecast is expected to improve. Proceeds, if any, can be used for the purpose of funding the Company's capital program, general working capital needs, debt obligations, dividends and share repurchases, among other uses. While derivative positions limit the downside risk of adverse price movements, they also limit future revenues from upward price movements. The Company manages commodity price risk with the following types of commodity derivative contracts:
+
+•Swaps. The Company receives a fixed price and pays a floating market price to the counterparty on a notional amount of sales volumes, thereby fixing the price for the commodity sold. 
+
+•Collars. Collar contracts provide minimum ("floor" or "long put") and maximum ("ceiling") prices on a notional amount of sales volumes, thereby allowing some price participation if the relevant index price closes above the floor price but below the ceiling price. 
+
+•Collar contracts with short put options. Collar contracts with short put options differ from other collar contracts by virtue of the short put option price, below which the Company's realized price will exceed the variable market prices by the long put-to-short put price differential.
+
+•Basis swaps. Basis swap contracts fix the basis differentials between the index price at which the Company sells its production and the index price used in swap or collar contracts.
+
+•Rollfactor swaps. Rollfactor swaps are utilized to match the derivative contracts to the physical oil sales. Physical oil sales typically use trade month averages whereas derivative contracts utilize calendar month averages. The rollfactor swaps convert the calendar month into a trade month.
+
+•Options. Selling individual call options can enhance the market price by the premium received or, alternatively, the premium received can be utilized to improve swap or collar contract prices. Purchased put options establish a minimum floor price (less any premiums paid) and allows participation in higher prices when prices close above the floor price. 
+
+The Company has entered into commodity derivative contracts for a portion of its forecasted 2022 production; consequently, if commodity prices decline, the Company could realize lower prices for volumes not protected by the 
+
+69
+PIONEER NATURAL RESOURCES COMPANY
+
+Company's derivative activities and could see a reduction in quoted derivative contract prices on additional volumes in the future. As a result, the Company's internal cash flows will be negatively impacted by a reduction in commodity prices. 
+
+The average forward prices based on December 31, 2021 market quotes are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The average forward prices based on February 18, 2022 market quotes are as follows:
+
+[DATA_TABLE_REMOVED]
+
+___________________
+
+(a)Based on market quotes for basis differentials between the Midland oil index price and NYMEX WTI oil index prices.
+
+(b)Based on market quotes for basis differentials between Permian Basin gas index prices and the NYMEX Henry Hub index price.
+
+See Note 4 and Note 5 of Notes to Consolidated Financial Statements included in "Item 8. Financial Statements and Supplementary Data" for a description of the Company's open derivative positions and additional information.
+
+Sales of purchased commodities. The Company enters into purchase transactions with third parties and separate sale transactions with third parties to diversify a portion of the Company's oil and gas sales to (i) Gulf Coast refineries, (ii) Gulf Coast and West Coast gas markets and (iii) international oil markets, and to satisfy unused gas pipeline capacity commitments. The Company also enters into pipeline capacity commitments to secure diesel supply from the Gulf Coast to the Company's operations in the Permian Basin. The Company periodically enters into separate sales transactions with third parties related to diesel volumes that exceed the Company's operational needs.
+
+Marketing derivatives. The Company's marketing derivatives reflect two long-term marketing contracts that were entered in October 2019 whereby the Company agreed to purchase and simultaneously sell 50 thousand barrels of oil per day at an oil terminal in Midland, Texas for a six-year term that began on January 1, 2021 and ends on December 31, 2026. The price the Company pays to purchase the oil volumes under the purchase contract is based on a Midland oil price and the price the Company receives for the oil volumes sold is a weighted average sales price ("WASP") that a non-affiliated counterparty receives for selling oil through a Gulf Coast storage and export facility at prices that are highly correlated with Brent oil prices during the same month of the purchase. Based on the form of the marketing contracts, the Company determined that the marketing contracts should be accounted for as derivative instruments. Similar to sales of purchased commodities, marketing 
+
+70
+PIONEER NATURAL RESOURCES COMPANY
+
+derivatives allow the Company to diversify a portion of its oil sales from its area of production to Gulf Coast and international markets.
+
+The average forward prices based on December 31, 2021 market quotes are as follows:
+
+[DATA_TABLE_REMOVED]
+
+The average forward prices based on February 18, 2022 market quotes are as follows:
+
+[DATA_TABLE_REMOVED]___________________
+
+(a)Based on market quotes for basis differentials between Midland oil index prices and the Brent oil index price.
+
+Credit risk. The Company's primary concentration of credit risks are associated with the collection of receivables resulting from the sale of oil and gas production and purchased oil and gas, and the risk of a counterparty's failure to meet its obligations under derivative contracts with the Company.
+
+The Company's commodities are sold to various purchasers who must be prequalified under the Company's credit risk policies and procedures. The Company monitors exposure to counterparties primarily by reviewing credit ratings, financial criteria and payment history. Where appropriate, the Company obtains assurances of payment, such as a guarantee by the parent company of the counterparty, a letter of credit or other credit support. Historically, the Company's credit losses on commodity receivables have not been material.
+
+The Company uses credit and other financial criteria to evaluate the credit standing of, and to select, counterparties to its derivative instruments. Although the Company does not obtain collateral or otherwise secure the fair value of its derivative instruments, associated credit risk is mitigated by the Company's credit risk policies and procedures.
+
+The Company has entered into International Swap Dealers Association Master Agreements ("ISDA Agreements") with each of its commodity derivative counterparties. The terms of the ISDA Agreements provide the Company and the counterparties with right of set off upon the occurrence of defined acts of default by either the Company or a counterparty to a derivative contract, whereby the party not in default may set off all derivative liabilities owed to the defaulting party against all derivative asset receivables from the defaulting party. See Note 5 of Notes to Consolidated Financial Statements included in "Item 8. Financial Statements and Supplementary Data" for additional information.
+
+71
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA

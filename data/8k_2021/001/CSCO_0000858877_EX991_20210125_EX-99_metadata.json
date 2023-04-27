@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000858877",
+    "sec_company_name": "CISCO SYSTEMS, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K12B",
+    "sec_period_of_report": "20210125",
+    "sec_filing_date": "20210125",
+    "sec_changed_date": "20210125",
+    "sec_accepted_date": "20210125161901",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/858877/000119312521016255/0001193125-21-016255-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/858877/000119312521016255/0001193125-21-016255.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CSCO_0000858877_EX991_20210125_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9469 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6122,
+    "endpoints": [
+        "EX-99.1   ",
+        "The Delaware General Corporation Law. In general, Section 203 prohibits a publicly held Delaware corporation from engaging in a “business combination” with an “interested stockholder” for a period of three years after the date of the transaction in which the person became an interested stockholder, unless the business combination is approved in a prescribed manner. We have opted out and are not subject to the provisions of Section 203 of the DGCL."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CSCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\CSCO_0000858877_EX991_20210125_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:32.329908"
+}

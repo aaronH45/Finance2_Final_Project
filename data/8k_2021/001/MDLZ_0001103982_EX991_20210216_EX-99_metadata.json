@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001103982",
+    "sec_company_name": "Mondelez International, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210216",
+    "sec_filing_date": "20210216",
+    "sec_changed_date": "20210216",
+    "sec_accepted_date": "20210216091504",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1103982/000119312521043661/0001193125-21-043661-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1103982/000119312521043661/0001193125-21-043661.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\MDLZ_0001103982_EX991_20210216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15656 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8319,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release contains a number of forward-looking statements. Words, and variations of words, such as “will,” “expect,” “plan,” “potential,” “position,” “target,” “outlook” and similar expressions are intended to identify the company’s forward-looking statements, including, but not limited to, statements about: the company’s strategy, future potential and ability to manage through the COVID-19 pandemic; the company’s future performance, including its future revenue growth, profitability, earnings per share and cash flow; the company’s business and growth potential including in channels, categories and adjacencies; dividends; value creation for shareholders; the company’s long-term financial targets; and the company’s outlook, including Organic Net Revenue growth, Adjusted EPS growth and Free Cash Flow for full-year 2021. These forward-looking statements are subject to a number of risks and uncertainties, many of which are beyond the company’s control, and many of these risks and uncertainties are currently amplified by and may continue to be amplified by the COVID-19 outbreak. Important factors that could cause the company’s actual results to differ materially from those indicated in the company’s forward-looking statements include, but are not limited to, uncertainty about the magnitude, duration, geographic reach, impact on the global economy and related current and potential travel restrictions of the COVID-19 outbreak; the current, and uncertain future, impact of the COVID-19 outbreak on the company’s business, growth, reputation, prospects, financial condition, operating results (including components of the company’s financial results), cash flows and liquidity; risks from operating globally including in emerging markets; changes in currency exchange rates, controls and restrictions; volatility of commodity and other input costs; weakness in economic conditions; weakness in consumer spending; pricing actions; tax matters including changes in tax laws and rates, disagreements with taxing authorities and imposition of new taxes; use of information technology and third party service providers; unanticipated disruptions to the company’s business, such as the malware incident, cyberattacks or other security breaches; global or regional health pandemics or epidemics, including COVID-19; competition; protection of the company’s reputation and brand image; changes in consumer preferences and demand and the company’s ability to innovate and differentiate its products; the restructuring program and the company’s other transformation initiatives not yielding the anticipated benefits; changes in the assumptions on which the restructuring program is based; management of the company’s workforce; consolidation of retail customers and competition with retailer and other economy brands; changes in the company’s relationships with customers, suppliers or distributors; legal, regulatory, tax or benefit law changes, claims or actions; the impact of climate change on the company’s supply chain and operations; strategic transactions; significant changes in valuation factors that may adversely affect the company’s impairment testing of goodwill and intangible assets; perceived or actual product quality issues or product recalls; failure to maintain effective internal control over financial reporting; volatility of and access to capital or other markets and the company’s liquidity; pension costs; the expected discontinuance of London Interbank Offered Rates and transition to any other interest rate benchmark; and the company’s ability to protect its intellectual property and intangible assets. Please also see the company’s risk factors, as they may be amended from time to time, set forth in its filings with the SEC, including the company’s most recently filed Annual Report on Form 10-K. Mondelēz International disclaims and does not undertake any obligation to update or revise any forward-looking statement in this press release, except as required by applicable law or regulation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MDLZ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\MDLZ_0001103982_EX991_20210216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:57:53.344731"
+}

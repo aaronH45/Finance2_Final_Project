@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001418135",
+    "sec_company_name": "Keurig Dr Pepper Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210118",
+    "sec_filing_date": "20210122",
+    "sec_changed_date": "20210121",
+    "sec_accepted_date": "20210121175447",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1418135/000141813521000003/0001418135-21-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1418135/000141813521000003/0001418135-21-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\DPS_0001418135_EX991_20210118_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5776 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2464,
+    "endpoints": [
+        "Document",
+        "Keurig Dr Pepper (KDP) is a leading beverage company in North America, with annual revenue in excess of $11 billion and nearly 26,000 employees. KDP holds leadership positions in soft drinks, specialty coffee and tea, water, juice and juice drinks and mixers, and markets the #1 single serve coffee brewing system in the U.S. and Canada. The Company’s portfolio of more than 125 owned, licensed and partner brands is designed to satisfy virtually any consumer need, any time, and includes Keurig®, Dr Pepper®, Green Mountain Coffee Roasters®, Canada Dry®, Snapple®, Bai®, Mott's®, CORE® and The Original Donut Shop®. Through its powerful sales and distribution network, KDP can deliver its portfolio of hot and cold beverages to nearly every point of purchase for consumers. The Company is committed to sourcing, producing and distributing its beverages responsibly through its Drink Well. Do Good. corporate responsibility platform, including efforts around circular packaging, efficient natural resource use and supply chain sustainability."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DPS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\DPS_0001418135_EX991_20210118_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:59:50.411094"
+}

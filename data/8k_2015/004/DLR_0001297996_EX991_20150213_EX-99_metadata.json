@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001297996",
+    "sec_company_name": "Digital Realty Trust, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150213",
+    "sec_filing_date": "20150219",
+    "sec_changed_date": "20150219",
+    "sec_accepted_date": "20150219163036",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312515054271/0001193125-15-054271-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1297996/000119312515054271/0001193125-15-054271.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\DLR_0001297996_EX991_20150213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7311 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4881,
+    "endpoints": [
+        "EX-99.1   ",
+        "This press release contains forward-looking statements which are based on current expectations, forecasts and assumptions that involve risks and uncertainties that could cause actual results to differ materially, including statements related to our organizational changes. These risks and uncertainties include, among others, the impact of current global economic, credit and market conditions; decreases in information technology spending; adverse economic or real estate developments in our industry or the industry sectors that we sell to; risks related to our tenants; our failure to obtain necessary debt and equity financing; risks associated with using debt to fund our business activities; financial market fluctuations; our inability to manage our growth effectively; difficulty acquiring or operating properties in foreign jurisdictions; our failure to successfully integrate and operate acquired or developed properties or businesses; the suitability of our properties and data center infrastructure, delays or disruptions in connectivity, failure of our physical infrastructure or services or availability of power; risks related to joint venture investments; delays or unexpected costs in development of properties; decreased rental rates, increased operating costs or increased vacancy rates; increased competition or available supply of data center space; our inability to successfully develop and lease new properties and development space; difficulties in identifying properties to acquire and completing acquisitions; our inability to comply with the rules and regulations applicable to reporting companies; our failure to maintain our status as a REIT; restrictions on our ability to engage in certain business activities; environmental uncertainties and risks related to natural disasters; losses in excess of our insurance coverage; and changes in laws and regulations, including those related to taxation and real estate ownership and operation. For a further list and description of such risks and uncertainties, see the reports and other filings by the Company with the U.S. Securities and Exchange Commission, including the Company’s Annual Report on Form 10-K, as amended, for the year ended December 31, 2013 and Quarterly Reports on Form 10-Q for the quarters ended March 31, 2014, June 30, 2014 and September 30, 2014. The Company disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\DLR_0001297996_EX991_20150213_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:28:05.857926"
+}

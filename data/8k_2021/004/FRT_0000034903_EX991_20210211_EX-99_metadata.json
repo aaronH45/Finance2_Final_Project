@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000034903",
+    "sec_company_name": "FEDERAL REALTY INVESTMENT TRUST (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211161007",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/34903/000003490321000019/0000034903-21-000019-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/34903/000003490321000019/0000034903-21-000019.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\FRT_0000034903_EX991_20210211_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1701099 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 36593,
+    "endpoints": [
+        "Document",
+        "Tenant Improvements and Incentives: Represents not only the total dollars committed for the improvement (fit-out) of a space as it relates to a specific lease and, except for redevelopments, may also include base building costs (i.e. expansion, escalators or new entrances) which are required to make the space leasable. Incentives include amounts paid to tenants as an inducement to sign a lease that do not represent building improvements. Costs related to redevelopments require judgment by management in determining what reflects base building cost and thus, is not included in the 'tenant improvements and incentives' amount."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "FRT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\FRT_0000034903_EX991_20210211_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:10:49.355464"
+}

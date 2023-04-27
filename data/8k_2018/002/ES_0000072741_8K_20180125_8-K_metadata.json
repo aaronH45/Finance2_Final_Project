@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072741",
+    "sec_company_name": "EVERSOURCE ENERGY (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180125",
+    "sec_filing_date": "20180125",
+    "sec_changed_date": "20180125",
+    "sec_accepted_date": "20180125162908",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72741/000007274118000015/0000072741-18-000015-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72741/000007274118000015/0000072741-18-000015.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\ES_0000072741_8K_20180125_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "13820 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4344,
+    "endpoints": [
+        "Converted by EDGARwiz   ",
+        "  99.1  News release, dated January 25, 2018, issued by Eversource Energy and Northern Pass Transmission LLC disclosing that officials in Massachusetts announced today that a bid submitted by Eversource and Hydro-Québec to utilize Northern Pass to deliver significant amounts of hydropower to the New England grid has been selected in the Massachusetts Clean Energy solicitation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ES",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\ES_0000072741_8K_20180125_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:22:59.985376"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000049071",
+    "sec_company_name": "HUMANA INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150112",
+    "sec_filing_date": "20150112",
+    "sec_changed_date": "20150112",
+    "sec_accepted_date": "20150112084501",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/49071/000004907115000011/0000049071-15-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/49071/000004907115000011/0000049071-15-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\HUM_0000049071_8K_20150112_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "23099 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3959,
+    "endpoints": [
+        "humana8-k01122015.htm      ",
+        "Dated: January 12, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HUM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\HUM_0000049071_8K_20150112_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:29:10.881433"
+}

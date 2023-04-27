@@ -1,0 +1,148 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+The overall financial risk management program is under the responsibility of the Chief Financial Officer with support from the Financial Risk Council, which reviews and, where appropriate, approves strategies to be pursued to mitigate these risks. The Financial Risk Council comprises members of our management and functions under the oversight of the Audit Committee and Finance Committee of the Board of Directors. The Audit Committee and Finance Committee assist and guide the Board of Directors in its oversight of our financial and risk management strategies. A risk management control framework is utilized to monitor the strategies, risks and related hedge positions in accordance with the policies and procedures approved by the Financial Risk Council. Our financial risk management policy is designed to protect against risk arising from extreme adverse market movements on our key exposures. 
+
+Automotive The following analyses provide quantitative information regarding exposure to foreign currency exchange rate risk, interest rate risk and equity price risk. Sensitivity analysis is used to measure the potential loss in the fair value of financial instruments with exposure to market risk. The models used assume instantaneous, parallel shifts in exchange rates and interest rate yield curves. For options and other instruments with nonlinear returns, models appropriate to these types of instruments are utilized to determine the effect of market shifts. There are certain shortcomings inherent in the sensitivity analyses presented, primarily due to the assumption that interest rates change in a parallel fashion and that spot exchange rates change instantaneously. In addition, the analyses are unable to reflect the complex market reactions that normally would arise from the market shifts modeled and do not contemplate the effects of correlations between foreign currency exposures and offsetting long-short positions in currency or other exposures, such as interest rates, which may significantly reduce the potential loss in value.
+
+Foreign Currency Exchange Rate Risk We have foreign currency exposures related to buying, selling and financing in currencies other than the functional currencies of our operations. At December 31, 2021, our most significant foreign currency exposures were between the U.S. Dollar and the Canadian Dollar, Chinese Yuan, Korean Won, Brazilian Real, Euro, and Mexican Peso. Derivative instruments such as foreign currency forwards, swaps and options are primarily used to hedge exposures with respect to forecasted revenues, costs and commitments denominated in foreign currencies. Such contracts had remaining maturities of up to 12 months at December 31, 2021.
+
+The net fair value liability of financial instruments with exposure to foreign currency risk was $0.7 billion and $0.9 billion at December 31, 2021 and 2020. These amounts are calculated utilizing a population of foreign currency exchange derivatives and foreign currency denominated debt and exclude the offsetting effect of foreign currency cash, cash equivalents and other assets. The potential loss in fair value for such financial instruments from a 10% adverse change in all quoted foreign currency exchange rates would have been insignificant at December 31, 2021 and 2020.
+
+We are exposed to foreign currency risk due to the translation and remeasurement of the results of certain international operations into U.S. Dollars as part of the consolidation process. We had foreign currency derivatives with notional amounts of $4.2 billion and $2.2 billion at December 31, 2021 and 2020. The fair value of these derivative financial instruments was insignificant. Fluctuations in foreign currency exchange rates can therefore create volatility in the results of operations and may adversely affect our financial condition.
+
+The following table summarizes the amounts of automotive foreign currency translation and transaction and remeasurement (gains) losses:
+
+[DATA_TABLE_REMOVED]
+
+Interest Rate Risk We are subject to market risk from exposure to changes in interest rates related to certain financial instruments, primarily debt, finance lease obligations and certain marketable debt securities. We did not have any interest rate swap positions to manage interest rate exposures in our automotive operations at December 31, 2021 and 2020. The fair value of debt and finance leases was $20.6 billion and $21.6 billion at December 31, 2021 and 2020. The potential increase in fair value resulting from a 10% decrease in quoted interest rates would have been $0.6 billion and $0.7 billion at December 31, 2021 and 2020. 
+
+46
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+We had marketable debt securities of $8.6 billion and $9.0 billion classified as available-for-sale at December 31, 2021 and 2020. The potential decrease in fair value from a 50 basis point increase in interest rates would have been insignificant at December 31, 2021 and 2020.
+
+Equity Price Risk We are subject to equity price risk due to market price volatility primarily related to our investment in Stellantis warrants and other insignificant investments. The fair value of investments with exposure to equity price risk was $1.5 billion and $1.2 billion at December 31, 2021 and 2020. Our investment in Stellantis warrants is valued based on a Black-Scholes formula. We estimate that a 10% adverse change in quoted security prices in Stellantis would have had an insignificant effect at December 31, 2021 and 2020.
+
+Automotive Financing - GM Financial
+
+Interest Rate Risk Fluctuations in market interest rates can affect GM Financial's gross interest rate spread, which is the difference between interest earned on finance receivables and interest paid on debt. GM Financial is exposed to interest rate risks as financial assets and liabilities have different characteristics that may impact financial performance. These differences may include tenor, yield, re-pricing timing, and prepayment expectations. Typically retail finance receivables and leases purchased by GM Financial earn fixed interest and commercial finance receivables originated by GM Financial earn variable interest. GM Financial funds its business with variable or fixed rate debt. The variable rate debt is subject to adjustments to reflect prevailing market interest rates. To help mitigate interest rate risk or mismatched funding, GM Financial may employ hedging.
+
+Quantitative Disclosure  GM Financial measures the sensitivity of its net interest income to changes in interest rates by using interest rate scenarios that assume a hypothetical, instantaneous parallel shift of one hundred basis points in all interest rates across all maturities, as well as a base case that assumes that rates perform at the current market forward curve. However, interest rate changes are rarely instantaneous or parallel and rates could move more or less than the one percentage point assumed in our analysis. Therefore, the actual impact to net interest income could be higher or lower than the results detailed in the table below. These interest rate scenarios are purely hypothetical and do not represent our view of future interest rate movements. 
+
+At December 31, 2021, GM Financial was liability-sensitive, meaning that more liabilities than assets were expected to re-price within the next twelve months. During a period of rising interest rates, the interest paid on liabilities would increase more than the interest earned on assets, which would initially decrease net interest income. During a period of falling interest rates, net interest income would be expected to initially increase. At December 31, 2020, GM Financial was asset-sensitive, meaning that more assets than liabilities were expected to re-price within the next twelve months. During a period of rising interest rates, the interest earned on assets would increase more than the interest paid on liabilities, which would initially increase net interest income. During a period of falling interest rates, net interest income would be expected to initially decrease.
+
+GM Financial's net interest income sensitivity decreased in 2021 as compared to 2020 primarily due to an increased proportion of rate sensitive liabilities exposure relative to rate sensitive assets exposure. GM Financial's hedging strategies approved by its global asset liability committee are used to manage interest rate risk within policy guidelines. The following table presents GM Financial's net interest income sensitivity to interest rate movement:
+
+[DATA_TABLE_REMOVED]
+
+__________
+
+(a) Net interest income sensitivity given a one hundred basis point decrease in interest rates requires an assumption of negative interest rates in markets where existing interest rates are below one percent.
+
+Additional Model Assumptions The sensitivity analysis presented is GM Financial's best estimate of the effect of the hypothetical interest rate scenarios; however, actual results could differ. The estimates are also based on assumptions including the amortization and prepayment of the finance receivable portfolio, originations of finance receivables and leases, refinancing of maturing debt, replacement of maturing derivatives and exercise of options embedded in debt and derivatives. The prepayment projections are based on historical experience. If interest rates or other factors change, actual prepayment experience could be different than projected.
+
+47
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Foreign Currency Exchange Rate Risk GM Financial is exposed to foreign currency risk due to the translation and remeasurement of the results of certain international operations into U.S. Dollars as part of the consolidation process. Fluctuations in foreign currency exchange rates can therefore create volatility in the results of operations and may adversely affect GM Financial's financial condition. 
+
+GM Financial primarily finances its receivables and leased assets with debt in the same currency. When a different currency is used GM Financial may use foreign currency swaps to convert substantially all of its foreign currency debt obligations to the local currency of the receivables and leased assets to minimize any impact to earnings. As a result, GM Financial believes its market risk exposure relating to changes in currency exchange rates at December 31, 2021 was insignificant.
+
+GM Financial had foreign currency swaps with notional amounts of $8.2 billion and $7.6 billion at December 31, 2021 and 2020. The net fair value of these derivative financial instruments was a liability of $0.2 billion and an asset of $0.4 billion at December 31, 2021 and 2020.
+
+The following table summarizes GM Financial's foreign currency translation and transaction and remeasurement (gains) losses:
+
+[DATA_TABLE_REMOVED]
+
+* * * * * * *
+
+48
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareholders and the Board of Directors of General Motors Company
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of General Motors Company and subsidiaries (the Company) as of December 31, 2021 and 2020, the related consolidated statements of income, comprehensive income, cash flows, and equity for each of the three years in the period ended December 31, 2021, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2021, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2021, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated February 2, 2022 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Product warranty and recall campaigns
+
+Description of the matterAs discussed in Note 12 to the financial statements, the liabilities for product warranty and recall campaigns amount to $9.8 billion at December 31, 2021. The Company accrues for costs related to product warranty at the time of vehicle sale and accrues the estimated cost of recall campaigns when they are probable and estimable.
+
+Auditing these liabilities involved a high degree of subjectivity in evaluating management’s estimates, due to the size, uncertainties, and potential volatility related to the estimated liabilities. Management’s estimates consider historical claims experience, including the nature, frequency, and average cost of claims of each vehicle line or each model year of the vehicle line, and the key assumptions of historical data being predictive of future activity and events, in particular, the number of historical periods used and the weighing of historical data in the reserve studies.
+
+49
+How we addressed the matter in our auditWe evaluated the design and tested the operating effectiveness of internal controls over the Company’s product warranty and recall campaign processes. We tested internal controls over management’s review of the valuation models and significant assumptions for product warranty and recall, including the warranty claims forecasted based on the frequency and average cost per warranty claim for product warranty, and the cost estimates related to recall campaigns. Our audit also included the evaluation of controls that address the completeness and accuracy of the data utilized in the valuation models.
+
+Our audit procedures related to product warranty and recall campaigns also included, among others, evaluating the Company’s estimation methodology, the related significant assumptions and underlying data, and performing analytical procedures to corroborate cost per vehicle based on historical claims data. Furthermore, we performed sensitivity analyses to evaluate the significant judgments made by management, including cost estimates to evaluate the impact on reserves from changes in assumptions. We performed analysis over the vehicle lines and model years that had little or no claims experience to ensure the vehicle and model substitutions are comparable. We also involved actuarial specialists to evaluate the methodologies and assumptions, and to test the actuarial calculations used by the Company.
+
+Sales incentives
+
+Description of the matterAutomotive sales and revenue represents the amount of consideration to which the Company expects to be entitled in exchange for transferring goods or providing services, which is net of dealer and customer sales incentives the Company expects to pay. As discussed in Note 2 to the financial statements, provisions for dealer and customer incentives are recorded as a reduction to Automotive net sales and revenue at the time of vehicle sale. The liabilities for dealer and customer allowances, claims and discounts amount to $3.2 billion at December 31, 2021. 
+
+Auditing the estimate of sales incentives involved a high degree of judgment. Significant factors used by the Company in estimating its liability for retail incentives include type of program, forecasted sales volumes, product mix, and the rate of customer acceptance of incentive programs, all of which are estimated based on historical experience and assumptions concerning future customer behavior and market conditions. The Company’s estimation model reflects the best estimate of the total incentive amount that the Company reasonably expects to pay at the time of sale. The estimated cost of incentives is forward-looking, and could be materially affected by future economic and market conditions.
+
+How we addressed the matter in our auditWe evaluated the design and tested the operating effectiveness of internal controls over the Company’s sales incentive process, including management’s review of the estimation model, the significant assumptions (e.g., incentive cost per unit, customer take rate, and market conditions), and the data inputs used in the model. 
+
+Our audit procedures included, among others, the performance of analytical procedures to develop an independent range of the liability for retail incentives as of the balance sheet date. Our independent range was developed for comparison to the Company’s recorded liability, and is based on historical claims, forecasted spend, and the specific vehicle mix of current dealer stock. In addition, we performed sensitivity analyses over the cost per unit assumption developed by management to evaluate the impact on the liability resulting from a change in the assumption. Lastly, we assessed management’s forecasting process by performing quarterly hindsight analyses to assess the adequacy of prior forecasts.
+
+Valuation of GM Financial Equipment on Operating Leases
+
+Description of the matterGM Financial has recorded investments in vehicles leased to retail customers under operating leases. As discussed in Note 2 to the financial statements, at the beginning of the lease, management establishes an expected residual value for each vehicle at the end of the lease term. The Company’s estimated residual value of leased vehicles at the end of lease term was $29.1 billion as of December 31, 2021. 
+
+50
+Auditing management’s estimate of the residual value of leased vehicles involved a high degree of judgment. Management’s estimate is based, in part, on third-party data which considers inputs including recent auction values and significant assumptions regarding the expected future volume of leased vehicles that will be returned to the Company, used car prices, manufacturer incentive programs and fuel prices. Realization of the residual values is dependent on the future ability to market the vehicles under future prevailing market conditions.
+
+How we addressed the matter in our auditWe evaluated the design and tested the operating effectiveness of the Company’s controls over the lease residual estimation process, including controls over management’s review of residual value estimates obtained from the Company’s third-party provider and other significant assumptions.
+
+Our procedures also included, among others, independently recalculating depreciation related to equipment on operating leases and performing sensitivity analyses related to significant assumptions. We also performed hindsight analyses to assess the propriety of management’s estimate of residual values, as well as tested the completeness and accuracy of data from underlying systems and data warehouses that are used in the estimation models.
+
+[DATA_TABLE_REMOVED]
+
+51
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareholders and the Board of Directors of General Motors Company 
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited General Motors Company and subsidiaries’ internal control over financial reporting as of December 31, 2021, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, General Motors Company and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2021, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2021 and 2020, the related consolidated statements of income, comprehensive income, cash flows and equity for each of the three years in the period ended December 31, 2021, and the related notes and our report dated February 2, 2022 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ ERNST & YOUNG LLP
+
+Detroit, Michigan
+
+February 2, 2022
+
+52
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+
+Item 8. Financial Statements and Supplementary Data

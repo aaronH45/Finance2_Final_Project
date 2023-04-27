@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001038357",
+    "sec_company_name": "PIONEER NATURAL RESOURCES CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210222",
+    "sec_filing_date": "20210224",
+    "sec_changed_date": "20210224",
+    "sec_accepted_date": "20210224163045",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835721000012/0001038357-21-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1038357/000103835721000012/0001038357-21-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\PXD_0001038357_8K_20210222_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "110739 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5479,
+    "endpoints": [
+        "xml version='1.0' ? pxd-20210222",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "PXD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\PXD_0001038357_8K_20210222_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:07:34.811357"
+}

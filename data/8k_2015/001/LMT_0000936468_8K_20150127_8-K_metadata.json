@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000936468",
+    "sec_company_name": "LOCKHEED MARTIN CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150127",
+    "sec_filing_date": "20150127",
+    "sec_changed_date": "20150127",
+    "sec_accepted_date": "20150127073359",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/936468/000114420415003908/0001144204-15-003908-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/936468/000114420415003908/0001144204-15-003908.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LMT_0000936468_8K_20150127_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "18598 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2279,
+    "endpoints": [
+        "UNITED STATES ",
+        " 99.1   Lockheed Martin Corporation News Release dated January 27, 2015 (earnings release reporting Lockheed Martin Corporation’s financial results for the quarter and year ended December 31, 2014)."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LMT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LMT_0000936468_8K_20150127_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:50.354857"
+}

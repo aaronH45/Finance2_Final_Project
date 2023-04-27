@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895126",
+    "sec_company_name": "CHESAPEAKE ENERGY CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150225",
+    "sec_changed_date": "20150225",
+    "sec_accepted_date": "20150225070628",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512615000070/0000895126-15-000070-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512615000070/0000895126-15-000070.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\CHK_0000895126_8K_20150225_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "25683 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2281,
+    "endpoints": [
+        "CHK-2014.12.31_8K_PR   ",
+        "99.1 Chesapeake Energy Corporation press release dated February 25, 2015"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CHK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\CHK_0000895126_8K_20150225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:25:04.644331"
+}

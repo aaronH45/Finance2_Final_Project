@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000106040",
+    "sec_company_name": "WESTERN DIGITAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180227",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180227",
+    "sec_accepted_date": "20180227172502",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/106040/000119312518061179/0001193125-18-061179-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/106040/000119312518061179/0001193125-18-061179.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\WDC_0000106040_EX991_20180227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9678 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5335,
+    "endpoints": [
+        "EX-99.1   ",
+        "robert.blair@wdc.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WDC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\WDC_0000106040_EX991_20180227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:23:59.345977"
+}

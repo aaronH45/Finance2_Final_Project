@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065696",
+    "sec_company_name": "LKQ CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210218",
+    "sec_filing_date": "20210218",
+    "sec_changed_date": "20210218",
+    "sec_accepted_date": "20210218065008",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569621000004/0001065696-21-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569621000004/0001065696-21-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\LKQ_0001065696_EX991_20210218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "764141 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 36154,
+    "endpoints": [
+        "Document",
+        "We have presented net debt solely as a supplemental disclosure that offers investors, securities analysts and other interested parties useful information to evaluate our liquidity and financial position. We calculate net debt as total debt less cash and cash equivalents. We believe net debt provides insight into our liquidity and provides useful information to management and investors concerning our financial position. We believe net debt is used by investors, securities analysts and other interested parties in evaluating the liquidity and financial position of other companies, many of which present net debt when reporting their results. Net debt should not be construed as an alternative to total debt, as determined in accordance with accounting principles generally accepted in the United States. In addition, not all companies that report net debt information calculate net debt in the same manner as we do and, accordingly, our calculation is not necessarily comparable to similarly-named measures of other companies and may not be an appropriate measure for performance relative to other companies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LKQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\LKQ_0001065696_EX991_20210218_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:11:58.602549"
+}

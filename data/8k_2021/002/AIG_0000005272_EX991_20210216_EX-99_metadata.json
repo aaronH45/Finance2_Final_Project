@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000005272",
+    "sec_company_name": "AMERICAN INTERNATIONAL GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210216",
+    "sec_filing_date": "20210216",
+    "sec_changed_date": "20210216",
+    "sec_accepted_date": "20210216162734",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/5272/000110465921024093/0001104659-21-024093-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/5272/000110465921024093/0001104659-21-024093.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AIG_0000005272_EX991_20210216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "634171 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 41794,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "21"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AIG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\AIG_0000005272_EX991_20210216_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:58:26.014271"
+}

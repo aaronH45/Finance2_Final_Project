@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000916365",
+    "sec_company_name": "TRACTOR SUPPLY CO /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210217",
+    "sec_filing_date": "20210217",
+    "sec_changed_date": "20210217",
+    "sec_accepted_date": "20210217074057",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636521000046/0000916365-21-000046-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/916365/000091636521000046/0000916365-21-000046.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\TSCO_0000916365_EX991_20210217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11972 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7122,
+    "endpoints": [
+        "Document",
+        "This press release contains statements that are not historical facts but rather forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are usually identified by or are associated with such words as “intend,” “plan,” “believe,” “estimate,” “expect,” “anticipate” and/or the negatives or variations of these terms or similar terminology. Such forward-looking statements include those that address activities, events or developments that the Company or its management believes or anticipates may occur in the future, including the closing of the transaction and the benefits expected therefrom, including anticipated tax benefits, earnings enhancements and synergies. All forward-looking statements are based upon the Company’s current expectations, various assumptions, and data available from third parties. The Company’s expectations and assumptions are expressed in good faith, and the Company believes there is a reasonable basis for them. However, there can be no assurance that such forward-looking statements will materialize or prove to be correct as forward-looking statements are inherently subject to known and unknown risks, uncertainties and other factors which may cause actual future results, performance or achievements to differ materially from the future results, performance or achievements expressed in or implied by such forward-looking statements. Numerous risks, uncertainties and other factors may cause actual results to differ materially from those set out in the forward-looking statements, including: the possibility that the transaction will not close or that the closing may be delayed; the possibility that we may be unable to obtain regulatory approval for the transaction; the potential for litigation or governmental investigations relating to the transaction; the occurrence of events, changes or circumstances that could give rise to the termination of the definitive agreement; the risk that we may be unable to successfully integrate the acquired business; the risk that we may not realize the benefits expected from the transaction; potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement of the transaction; the risk that the funds required to complete the transaction become unavailable; completing the transaction may distract the Company’s management from other important matters; and the other factors discussed in “Risk Factors” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2019, and in the Company’s other filings with the Securities and Exchange Commission which are available at http://sec.gov. The Company undertakes no obligation to update publicly or revise any forward-looking statements in light of new information or future events. For any forward-looking statements contained in this or any other document, the Company claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and the Company assumes no obligation to update any such statement."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "TSCO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\TSCO_0000916365_EX991_20210217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:09:41.259382"
+}

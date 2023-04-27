@@ -1,0 +1,89 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0000024545 false --12-31        0000024545   2019-12-31 2020-01-01     0000024545  country:CA    2019-12-31 2020-01-01     0000024545  us-gaap:CommonClassAMember    2019-12-31 2020-01-01     0000024545  us-gaap:CommonClassBMember    2019-12-31 2020-01-01     0000024545  tap:SeniorNotesDue2024Member    2019-12-31 2020-01-01    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+Current Report 
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): January 1, 2020 
+
+MOLSON COORS BEVERAGE COMPANY 
+
+(Exact name of registrant as specified in its charter) 
+
+Commission File Number: 1-14829 
+
+ Delaware  84-0178360 
+
+ (State or other jurisdiction of incorporation)  (IRS Employer Identification No.)  
+
+1801 California Street, Suite 4600, Denver, Colorado 80202 
+
+1555 Notre Dame Street East, Montréal, Québec, Canada, H2L 2R5 
+
+(Address of principal executive offices, including zip code)  
+
+(303) 927-2337 / (514) 521-1786 
+
+(Registrant’s telephone number, including area code) 
+
+Molson Coors Brewing Company 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+ Item 5.03Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+
+Effective January 1, 2020, Molson Coors Beverage Company, formerly known as Molson Coors Brewing Company (the “Company”), filed a Second Amendment (the “Certificate of Amendment”) to its Restated Certificate of Incorporation (as amended, the “Certificate of Incorporation”) with the Secretary of State of the State of Delaware to effect a change of the Company’s corporate name from “Molson Coors Brewing Company” to “Molson Coors Beverage Company” (the “Name Change”). The foregoing summary of the Certificate of Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Certificate of Amendment, which is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+The board of directors of the Company (the “Board”) approved the Name Change pursuant to Section 242 of the General Corporation Law of the State of Delaware (the “DGCL”). The Name Change does not affect the rights of the Company’s stockholders and there were no other changes to the Certificate of Incorporation in connection with the Name Change. 
+
+The Company’s Class A common stock, Class B common stock and 1.25% Senior Notes due 2024 will continue trading on the New York Stock Exchange under the symbols “TAP.A,” “TAP” and “TAP 24,” respectively, and no change was made to the CUSIP number for the Company’s Class A common stock, Class B common stock or 1.25% Senior Notes due 2024. Outstanding stock certificates for shares of the Company’s Class A common stock and Class B common stock are not affected by the name change; they continue to be valid and need not be exchanged. 
+
+In connection with the Name Change, the Board also approved an amendment and restatement of the Company’s Third Amended and Restated Bylaws to (i) reflect the revised Company name via the substitution of “Molson Coors Beverage Company” for “Molson Coors Brewing Company”, (ii) add a forum selection provision as a new Section 8.13 and (iii) make certain other administrative amendments (as amended and restated, the “Restated Bylaws”). 
+
+Section 8.13.1 of the Restated Bylaws provides that, unless the Company consents in writing to the selection of an alternative forum, to the fullest extent permitted by law, (i) any derivative action or proceeding brought on behalf of the Company, (ii) any action asserting a claim of breach of a fiduciary duty owed by any current or former director, officer, other employee or stockholder of the Company to the Company or the Company’s stockholders (including any claim alleging aiding and abetting of such breach of fiduciary duty), (iii) any action asserting a claim arising pursuant to any provision of the DGCL, the Certificate of Incorporation or the Restated Bylaws or as to which the DGCL confers jurisdiction on the Court of Chancery of the State of Delaware, (iv) any action asserting a claim governed by the internal affairs doctrine or (v) any other action asserting claims, including claims in the right of the Company (a) that are based upon a violation of a duty by a current or former director or officer or stockholder in such capacity, or (b) as to which the DGCL confers jurisdiction upon the Court of Chancery of the State of Delaware, shall, in each case, be brought solely and exclusively in the Court of Chancery of the State of Delaware (or, if the Court of Chancery does not have jurisdiction, another state court located within the State of Delaware or, if no state court located within the State of Delaware has jurisdiction, the federal district court for the District of Delaware). 
+
+In addition, Section 8.13.2 of the Restated Bylaws provides that, if any action the subject matter of which is within the scope of the forum selection provision is filed in a court other than in accordance with Section 8.13.1 of the Restated Bylaws (a “Foreign Action”) in the name of any stockholder, such stockholder shall be deemed to have consented to (i) the personal jurisdiction of the state and federal courts located within the State of Delaware in connection with any action brought in any such court to enforce the forum selection provision (an “FSC Enforcement Action”) and (ii) having service of process made upon such stockholder in any such FSC Enforcement Action by service upon such stockholder’s counsel in the Foreign Action as agent for such stockholder. 
+
+The Restated Bylaws became effective on January 1, 2020. The foregoing summary of the Restated Bylaws does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Restated Bylaws, which are filed as Exhibit 3.2 to this Current Report on Form 8-K and are incorporated herein by reference. 
+
+ Item 9.01.Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+  [DATA_TABLE_REMOVED] 
+
+Signature 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

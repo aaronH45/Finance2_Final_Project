@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000051143",
+    "sec_company_name": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200204",
+    "sec_filing_date": "20200210",
+    "sec_changed_date": "20200210",
+    "sec_accepted_date": "20200210162039",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/51143/000095015720000175/0000950157-20-000175-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/51143/000095015720000175/0000950157-20-000175.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\IBM_0000051143_8K_20200204_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "72022 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4698,
+    "endpoints": [
+        "false000005114300000511432020-02-042020-02-040000051143ibm:Zero950NotesDue2025Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:One750NotesDue2031Member2020-02-042020-02-040000051143ibm:Two875NotesDue2025Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Seven125DebenturesDue2096Member2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:One250NotesDue2027Member2020-02-042020-02-040000051143ibm:ChicagoStockExchangeIncMemberus-gaap:CommonStockMember2020-02-042020-02-040000051143ibm:One750NotesDue2028Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:One500NotesDue2029Member2020-02-042020-02-040000051143ibm:Six50DebenturesDue2028Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:One875NotesDue2020Member2020-02-042020-02-040000051143ibm:One125NotesDue2024Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:Zero500NotesDue2021Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Zero875NotesDue2025Member2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Two625NotesDue2022Member2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberus-gaap:CommonStockMember2020-02-042020-02-040000051143ibm:Seven00DebenturesDue2045Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:One25NotesDue2023Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Zero300NotesDue2026Member2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Zero375NotesDue2023Member2020-02-042020-02-040000051143ibm:Seven00DebenturesDue2025Memberibm:NewYorkStockExchangeMember2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Six22DebenturesDue2027Member2020-02-042020-02-040000051143ibm:NewYorkStockExchangeMemberibm:Two750NotesDue2020Member2020-02-042020-02-04 ",
+        "     Vice President and Treasurer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "IBM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\IBM_0000051143_8K_20200204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:43:25.193008"
+}

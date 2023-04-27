@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000875045",
+    "sec_company_name": "BIOGEN INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220203",
+    "sec_filing_date": "20220203",
+    "sec_changed_date": "20220203",
+    "sec_accepted_date": "20220203070325",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/875045/000087504522000003/0000875045-22-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/875045/000087504522000003/0000875045-22-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\BIIB_0000875045_EX991_20220203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "509584 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 44588,
+    "endpoints": [
+        "Document",
+        "We evaluate other items of income and expense on an individual basis and consider both the quantitative and qualitative aspects of the item, including (i) its size and nature, (ii) whether or not it relates to our ongoing business operations and (iii) whether or not we expect it to occur as part of our normal business on a regular basis. We also include an adjustment to reflect the related tax effect of all reconciling items within our reconciliation of our GAAP to Non-GAAP net income attributable to Biogen Inc. and earnings per share - diluted."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BIIB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\BIIB_0000875045_EX991_20220203_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:29:53.651348"
+}

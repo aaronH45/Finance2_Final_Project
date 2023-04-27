@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000072971",
+    "sec_company_name": "WELLS FARGO & COMPANY/MN (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210128",
+    "sec_filing_date": "20210201",
+    "sec_changed_date": "20210201",
+    "sec_accepted_date": "20210201104505",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/72971/000119312521024026/0001193125-21-024026-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/72971/000119312521024026/0001193125-21-024026.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\WFC_0000072971_8K_20210128_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "65885 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 7003,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K    ",
+        "          Senior Vice President and Assistant Treasurer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "WFC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\WFC_0000072971_8K_20210128_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:13:37.925284"
+}

@@ -1,0 +1,123 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0001385157 false        0001385157   2022-02-04 2022-02-04    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant To Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ Date of Report (Date of earliest event reported): February 4, 2022 
+
+TE CONNECTIVITY LTD. 
+
+(Exact name of registrant as specified in its charter) 
+
+ Switzerland   98-0518048 
+
+ (Jurisdiction of Incorporation)   (IRS Employer Identification Number)  
+
+001-33260 
+
+(Commission File Number) 
+
+Mühlenstrasse 26, CH-8200 Schaffhausen 
+
+Switzerland 
+
+(Address of Principal Executive Offices, including Zip Code) 
+
++41 (0)52 633 66 61 
+
+(Registrant’s telephone number, including Area Code) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): 
+
+¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 1.01. Entry into a Material Definitive Agreement 
+
+On February 4, 2022, Tyco Electronics Group S.A. (“TEGSA”), a wholly-owned subsidiary of TE Connectivity Ltd. (“TE Connectivity”), issued $600,000,000 aggregate principal amount of its 2.500% Senior Notes due 2032 (the “Notes”). The Notes were offered and sold by TEGSA pursuant to a registration statement on Form S-3 (Registration No. 333-257194) (the “Registration Statement”). The net proceeds from the sale of the Notes were approximately $584.4 million after deducting the underwriters’ discount but before other expenses, and will be used for general corporate purposes. 
+
+The Notes are governed by an indenture, dated as of September 25, 2007 (the “Indenture”), among TEGSA, as issuer, TE Connectivity, as guarantor, and Deutsche Bank Trust Company Americas, as trustee (the “Trustee”), as supplemented by the Eighteenth Supplemental Indenture, dated as of February 4, 2022 (the “Eighteenth Supplemental Indenture”), among TEGSA, as issuer, TE Connectivity, as guarantor, and the Trustee. The Trustee will receive customary fees in connection therewith. The Notes are fully and unconditionally guaranteed as to payment on an unsecured senior basis by TE Connectivity (the “Guarantee”). The Notes are TEGSA’s unsecured senior obligations and rank equally in right of payment with all of its existing and future senior debt, and senior to any subordinated indebtedness that TEGSA may incur. 
+
+Prior to November 4, 2031 (three months prior to the maturity date) (the “par call date”), TEGSA may redeem the Notes at its option, in whole or in part, at any time and from time to time, at a redemption price equal to the greater of (i) a make-whole amount based on (a) a discount rate equal to the Treasury Rate (as defined in the Eighteenth Supplemental Indenture) plus 15 basis points less (b) interest accrued to the date of redemption and (ii) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest, if any, to, but excluding, the redemption date. On or after the par call date, TEGSA may redeem the Notes, in whole or in part, at its option at any time at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, to, but excluding, the redemption date. TEGSA may also redeem all, but not less than all, of the Notes in the event of certain tax changes affecting such Notes. TEGSA shall provide notice of redemption not less than 10 days, but not more than 60 days, prior to the date of redemption. 
+
+The Indenture limits TEGSA’s ability to create liens to secure certain indebtedness without also securing the Notes and limits its ability to enter into sale and lease-back transactions. The Indenture also limits TEGSA’s and TE Connectivity’s ability to consolidate, merge or transfer all or substantially all of their assets. These covenants are subject to a number of qualifications and exceptions. 
+
+If TE Connectivity experiences a change of control and, as a result of that change of control, the Notes are rated below investment grade by at least two of S&P Global Ratings, a division of S&P Global Inc., Moody’s Investors Service, Inc. and Fitch Ratings, Ltd. (or the equivalent under any successor rating categories of S&P’s, Moody’s or Fitch’s, respectively), and TEGSA has not redeemed the Notes, TEGSA will offer to repurchase all of the Notes at a price equal to 101% of the principal amount, plus accrued and unpaid interest to the repurchase date. 
+
+The following are events of default under the Indenture with respect to the Notes: 
+
+ ·default in the payment of any installment of interest upon the Notes, and continuance of such default for a period of 30 days; or 
+
+ ·default in the payment of all or any part of the principal of or premium, if any, on the Notes; or 
+
+2  
+
+ ·default in the performance, or breach, of any covenant or agreement of TE Connectivity or TEGSA in respect of the Notes and the Guarantee (other than the failure to comply with any covenant or agreement to file with the trustee the information filed or required to be filed with the Securities and Exchange Commission or a default or breach specifically dealt with elsewhere), and continuance of such default or breach for a period of 90 days; or 
+
+ ·the Guarantee of the Notes shall for any reason cease to be, or shall for any reason be asserted in writing by TE Connectivity or TEGSA not to be, in full force and effect and enforceable in accordance with its terms except to the extent contemplated by the Indenture and the Guarantee; or 
+
+ ·a court shall enter a decree or order for relief in respect of TEGSA or TE Connectivity in an involuntary case under any applicable bankruptcy, insolvency or other similar law, and such decree or order shall remain unstayed and in effect for a period of 90 consecutive days; or 
+
+ ·TEGSA or TE Connectivity shall commence a voluntary case under any applicable bankruptcy, insolvency or other similar law; or 
+
+ ·an event of default shall happen and be continuing with respect to TEGSA’s or TE Connectivity’s indebtedness for borrowed money under any indenture or other instrument evidencing or under which TEGSA or TE Connectivity shall have a principal amount outstanding in excess of $100,000,000 and such event of default shall involve the failure to pay the principal of such indebtedness on the final maturity date thereof after expiration of any grace period or in certain circumstances involving acceleration of the indebtedness such that the principal shall become due and payable prior to the date on which it otherwise would be due and payable. 
+
+The foregoing descriptions of the Indenture and the Eighteenth Supplemental Indenture do not purport to be complete and are qualified in their entirety by reference to the full text of the Indenture which was filed as Exhibit 4.1(a) to TE Connectivity’s Annual Report on Form 10-K for the fiscal year ended September 28, 2007, filed on December 14, 2007 and to the full text of the Eighteenth Supplemental Indenture, which is filed as Exhibit 4.1 hereto. Each of the foregoing documents is incorporated by reference herein. 
+
+Item 8.01. Other Events. 
+
+The Notes were offered pursuant to an underwriting agreement (the “Underwriting Agreement”), dated as of February 1, 2022, among TEGSA, as issuer, TE Connectivity, as guarantor, and BNP Paribas Securities Corp., Deutsche Bank Securities Inc. and Goldman Sachs & Co. LLC, in their capacity as representatives of the several underwriters (the “Underwriters”). Pursuant to the Underwriting Agreement and subject to the terms and conditions expressed therein, TEGSA agreed to sell the Notes to the Underwriters, and the Underwriters agreed to purchase the Notes for resale to the public. TEGSA sold the Notes to the Underwriters at an issue price of 97.408% of the principal amount thereof and the Underwriters offered the Notes to the public at a price of 98.033% of the principal amount thereof. On February 1, 2022, TE Connectivity issued a press release announcing the pricing of the Notes. A copy of the press release is filed as Exhibit 99.1 hereto. 
+
+The foregoing description of the Underwriting Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Underwriting Agreement which is filed as Exhibit 1.1 hereto. The foregoing document is incorporated by reference herein. 
+
+In connection with the offering of the Notes, TE Connectivity is filing as Exhibits 5.1, 5.2 and 5.3 hereto opinions of counsel addressing the validity of the Notes and the Guarantee and certain related matters. Such opinions are incorporated by reference into the Registration Statement. 
+
+3  
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+  [DATA_TABLE_REMOVED] 
+
+4  
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Date: February 4, 2022 
+
+    TE CONNECTIVITY LTD. 
+
+   By:  /s/ Harold G. Barksdale 
+
+     Name: Harold G. Barksdale 
+
+     Title: Vice President and Corporate Secretary

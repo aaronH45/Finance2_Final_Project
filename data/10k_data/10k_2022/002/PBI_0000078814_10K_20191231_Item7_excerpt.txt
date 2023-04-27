@@ -1,0 +1,379 @@
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+OPERATIONS
+
+The following discussion and analysis should be read in conjunction with our risk factors, consolidated financial statements and related notes. This discussion and analysis contains forward-looking statements based on management's current expectations, estimates and projections and involves risks and uncertainties. Actual results may differ significantly from those currently expressed in our forward-looking statements as a result of various factors, including those factors described under "Forward-Looking Statements" and "Risk Factors" contained elsewhere in this Annual Report. All table amounts are presented in thousands of dollars, except per share data.
+
+Overview
+
+In 2019, we:
+
+•Adopted ASC 842 using the modified retrospective transition approach of applying the standard at the beginning of the earliest comparative period presented in the financial statements. Accordingly, prior period financial results have been recast.
+
+•Completed the sale of our Software Solutions business, with the exception of the software business in Australia, which closed in January 2020, for approximately $700 million. The Software Solutions business is reported as a discontinued operation in our consolidated financial statements. 
+
+•Recast our segment reporting to combine North America Mailing and International Mailing into the Sending Technology Solutions (SendTech Solutions) segment to reflect how we manage these operations and the products and services provided to our clients.
+
+•Sold the direct operations and moved to a dealer model in six smaller international markets within SendTech Solutions (Market Exits). 
+
+On October 12, 2019, we were affected by a ransomware attack that temporarily disrupted customer access to some services. Our financial information was not affected and there is no evidence that any sensitive or confidential company, client, consumer or employee data was improperly accessed or extracted from our network. The backup data storage systems for virtually all our client, employee and other business data were also not affected, which accelerated our ability to bring affected systems back online. We have implemented enhanced security features and monitoring procedures to mitigate the likelihood of future events. 
+
+Financial Results Summary - Twelve Months Ended December 31:
+
+[DATA_TABLE_REMOVED]
+
+Revenue was flat compared to the prior year; however, currency and Market Exits unfavorably impacted revenue growth by 2%. Commerce Services revenue grew 9% but was offset by an overall decline in the SendTech Solutions shipping and mailing business. We estimate that the ransomware attack adversely impacted full year revenue by $18 million.
+
+Segment EBIT declined 18% due to a decline in SendTech Solutions revenue, partially offset by cost savings initiatives and a shifting portfolio to faster growing, but lower margin services in Global Ecommerce. We estimate that the ransomware attack adversely impacted EBIT by $19 million, primarily as a result of the business interruption, incremental costs related to the attack and costs to enhance our cybersecurity protection. 
+
+Income from continuing operations declined 78% from the prior year driven primarily by the decline in segment EBIT, a $39 million pre-tax asset impairment charge related to the development of an enterprise resource planning (ERP) system in our international markets and an $18 million pre-tax loss from Market Exits. Income from continuing operations included a tax benefit of $23 million from the release of a foreign valuation allowance. We estimate that the ransomware attack adversely impacted earnings per share from continuing operations by $0.08.
+
+15
+
+During the year, we received proceeds of approximately $700 million from the sale of the Software Solutions business and $400 million from a new five-year term loan. Cash was used to repay $930 million of debt, invest $137 million in capital expenditures, repurchase $105 million of shares of our common stock, pay dividends of $35 million and fund acquisitions of $22 million. We estimate that the ransomware attack adversely impacted cash flows by $29 million.
+
+Outlook 
+
+We continue to transform and position ourselves for long-term success as a streamlined global technology company focused on shipping, mailing and related financial services. We are investing in market opportunities and new solutions and services across all our businesses, optimizing our operations and implementing cost savings initiatives to drive long-term value. Our portfolio is shifting to higher growth markets and we expect margins to improve as we build scale and realize the full benefits of our investments and optimizations.
+
+Within Global Ecommerce, we expect continued revenue growth from the expansion of our domestic parcel business and shipping solutions, slightly offset by lower cross-border solutions volumes and margin improvements from continued growth in volumes to get to scale, bundling of offerings, pricing actions and organizational and operational efficiencies within our network. 
+
+In Presort Services, we expect higher volumes of Bound and Packet Mail and Marketing Mail to drive revenue growth. We expect margin improvement in 2020 from pricing initiatives, labor, transportation and other cost optimization initiatives and process efficiencies implemented in 2019.
+
+Within SendTech Solutions, we expect revenue from our mailing business to continue to decline; however, we believe this revenue decline will be mitigated by expanding shipping capabilities, an overall product refresh, third-party equipment financing alternatives and the shift in the mix of business from mailing to solutions-based offerings.
+
+We continue to assess the financial impact of the ransomware attack on our operations and it is probable that additional costs and claims will be incurred in 2020. We have insurance related to this event and expect a portion of any profit impact, including the profit associated with any loss of revenue, to ultimately be covered by insurance. We are working closely with our carriers; however, we are currently not able to reasonably estimate the amount of proceeds we will receive.
+
+16
+
+RESULTS OF OPERATIONS 
+
+Revenue by source and the related cost of revenue are shown in the following tables: 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+In this revenue discussion, we may refer to revenue growth on a constant currency basis. Constant currency measures exclude the impact of changes in currency exchange rates since the prior period under comparison. We believe that excluding the impacts of currency exchange rates provides a better understanding of the underlying revenue performance. Constant currency change is calculated by converting the current period non-U.S. dollar denominated revenue using the prior year’s exchange rate. Where constant currency measures are not provided, the actual change and constant currency change are the same. 
+
+Business services
+
+Business services revenue increased 9% in 2019 compared to 2018. Growth in domestic parcel and shipping solutions volumes contributed 8% of revenue growth and higher volumes at Presort Services contributed 1% of revenue growth.
+
+Cost of business services as a percentage of business services revenue increased to 81.2% in 2019 primarily due to higher incremental fulfillment costs, investments for growth including new facilities, engineering, and marketing programs and a shift in the mix of business to fast growing, but lower margin services, partially offset by lower labor costs resulting from productivity actions.
+
+Business services revenue increased 46% in 2018 compared to 2017 primarily due to:
+
+•39% from the acquisition of Newgistics; 
+
+•5% from growth in Global Ecommerce driven by higher revenue from shipping solutions, partially offset by lower cross-border revenue due to lower volumes; and
+
+•2% from higher volumes of mail processed in Presort Services.
+
+Cost of business services as a percentage of business services revenue increased to 78.7% in 2018 primarily due to continued investment in Global Ecommerce, higher labor and transportation costs in Commerce Services of $40 million driven by increased competition for labor and transportation resources due to the rapid growth in Ecommerce and $8 million from the launch of a marketing mail pilot program in Presort Services.
+
+Support services
+
+Support services revenue decreased 8% in 2019 compared to 2018 and 5% as reported and 6% at constant currency in 2018 compared to 2017 primarily due to a worldwide decline in our meter population. Cost of support services as a percentage of support services revenue of 32.1% in 2019 was flat compared to the prior year period. Cost of support services as a percentage of support services revenue increased 
+
+17
+
+to 32.3% in 2018 primarily due to the decline in support services revenue. 
+
+Financing
+
+Financing revenue decreased 7% as reported and 6% at constant currency in 2019 compared to 2018 and 3% in 2018 compared to 2017 primarily due to a declining portfolio and lower fees.
+
+We allocate a portion of our total cost of borrowing to financing interest expense based on an 8:1 debt to equity leverage ratio, our overall effective interest rate and the average outstanding finance receivables. Financing interest expense as a percentage of financing revenue increased to 12.1% in 2019 compared to 11.2% in 2018 due to a higher effective interest rate. Financing interest expense as a percentage of financing revenue in 2018 of 11.2% was consistent with the prior year period.
+
+Equipment sales
+
+Equipment sales decreased 11% as reported and 10% at constant currency in 2019 compared to 2018, primarily due to lower sales in mailing finishing products and a longer installation period due to a higher mix of solutions sold with our equipment relative to the prior year. Market Exits accounted for 2% of the decline.
+
+Cost of equipment sales as a percentage of equipment sales revenue increased to 69.4% from 59.7% in the prior year period. A charge related to a SendPro C tablet replacement program, trade tariffs and engineering costs adversely impacted equipment sales margins by 2 percentage points, 2 percentage points and 1 percentage point, respectively. 
+
+Equipment sales in 2018 were down slightly compared to 2017. Lower sales in the U.S. and U.K. each contributed a 1% decline in revenue. Cost of equipment sales as a percentage of equipment sales revenue of 59.7% was consistent with the prior year.
+
+Supplies
+
+Supplies revenue decreased 14% as reported and 13% at constant currency in 2019 compared to 2018, primarily due to a declining meter population. Market Exits accounted for 4% of the decline. Cost of supplies as a percentage of supplies revenue of 26.6% in 2019 was consistent with the prior year. 
+
+Supplies revenue decreased 6% as reported and 7% at constant currency in 2018 compared to 2017, driven by a global decline in installed mailing equipment and postage volumes. Cost of supplies as a percentage of supplies revenue improved to 27.9% in 2018 compared to 28.7% due to a favorable mix of sales. 
+
+Rentals
+
+Rentals revenue decreased 4% as reported and 3% at constant currency in 2019 compared to 2018 and 10% in 2018 compared to 2017 primarily due to a declining meter population.
+
+Cost of rentals as a percentage of rentals revenue decreased to 39.1% in 2019 compared to 2018 primarily due to a favorable adjustment to cost of rentals recorded in the third quarter. Cost of rentals as a percentage of rentals revenue increased to 44.2% in 2018 compared to 2017 primarily due to higher scrapping costs associated with retiring aging meters. 
+
+Selling, general and administrative (SG&A)
+
+SG&A expense was flat in 2019 compared to 2018. SG&A expense decreased 3%, or $27 million, in 2018 compared to 2017, despite $51 million of incremental expenses from the acquisition of Newgistics. The underlying decrease in SG&A was primarily due to lower employee related expenses of $36 million, lower marketing and advertising spend of $34 million, and other operating expense cost reductions as a result of our cost savings initiatives.
+
+Restructuring charges and asset impairments, net
+
+In 2019, restructuring charges and asset impairments, net of $70 million consisted of $24 million of restructuring related charges and $46 million of asset impairment charges. Asset impairment charges primarily includes the write-off of capitalized software costs related to the development of an ERP system in our international markets resulting from changes in our international footprint. 
+
+In 2018, restructuring charges and asset impairments, net of $26 million consisted of $25 million of restructuring related charges and $1 million of asset impairment charges. In 2017, restructuring charges and asset impairments, net of $45 million consisted of $41 million of restructuring related charges and $4 million of asset impairment charges. 
+
+18
+
+Other components of net pension and postretirement cost
+
+As a result of the funded status of our pension plans and the fact that most plans have been frozen, we recognized income in 2019. The 2018 amount includes a $32 million charge in connection with the disposition of the Production Mail Business and certain other actions. The amount of other components of net pension and postretirement cost recognized each year will vary based on actuarial assumptions and actual results of our pension plans. 
+
+Other expense
+
+Other expense for 2019 includes a loss of $18 million from Market Exits, primarily from the write-off of cumulative translation adjustments and a $6 million loss on the early extinguishment of debt. Other expense for 2018 and 2017 represents a loss on the early extinguishment of debt. 
+
+Income taxes
+
+The effective tax rate for 2019 includes benefits of $23 million from the release of a foreign valuation allowance and $9 million from the resolution of certain tax examinations. The effective tax rate for 2019 also includes a tax of $3 million on the $18 million book loss from Market Exits, primarily due to nondeductible basis differences. The effective tax rate for 2018 includes tax benefits of $37 million related to true-ups from the Tax Cuts and Jobs Act of 2017 and $17 million from the resolution of certain tax examinations. The effective tax rate for 2017 includes provisional tax benefits of $39 million from the Tax Cuts and Jobs Act of 2017 and $30 million from the resolution of tax examinations.
+
+See Note 15 to the Consolidated Financial Statements for further information.
+
+Income from discontinued operations
+
+Discontinued operations includes the Software Solutions business, sold in December 2019 and the Production Mail Business, sold in July 2018. See Note 4 to the Consolidated Financial Statements for further information.
+
+19
+
+Business Segments
+
+Our reportable segments are Global Ecommerce, Presort Services and SendTech Solutions. The Commerce Services reporting group comprises Global Ecommerce and Presort Services. The principal products and services of each reportable segment are as follows:
+
+Global Ecommerce: Includes the revenue and related expenses from products and services that facilitate domestic retail and ecommerce shipping solutions, including fulfillment and returns, and global cross-border ecommerce transactions. 
+
+Presort Services: Includes revenue and related expenses from sortation services to qualify large volumes of First Class Mail, Marketing Mail and Bound and Packet Mail (Marketing Mail Flats and Bound Printed Matter) for postal worksharing discounts.
+
+SendTech Solutions: Includes the revenue and related expenses from physical and digital mailing and shipping solutions, financing, services, supplies and other applications to help simplify and save on the sending, tracking and receiving of letters and packages.
+
+Management measures segment profitability and performance using segment earnings before interest and taxes (EBIT). Segment EBIT is calculated by deducting from segment revenue the related costs and expenses attributable to the segment. Segment EBIT excludes interest, taxes, general corporate expenses, restructuring charges, asset impairment charges and other items not allocated to a particular business segment. Management believes that it provides investors a useful measure of operating performance and underlying trends of the business. Segment EBIT may not be indicative of our overall consolidated performance and therefore, should be read in conjunction with our consolidated results of operations.
+
+Revenue and EBIT by business segment are presented in the tables below. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Global Ecommerce
+
+Global Ecommerce revenue increased 13% in 2019 compared to 2018. Growth in domestic parcel volumes and shipping solutions volumes contributed 9 points and 5 points, respectively; partially offset by a 1 point decline due to lower cross border volumes. EBIT loss in 2019 increased to $70 million from a loss of $32 million in 2018 primarily driven by higher incremental fulfillment costs, investments for growth including new facilities, engineering, and marketing programs and a shift in the mix of business to fast growing, but lower margin services. We also estimate that EBIT was adversely impacted by $6 million as a result of the ransomware attack.
+
+Global Ecommerce revenue increased 85% in 2018 compared to 2017. Excluding Newgistics, Global Ecommerce revenue increased 13% driven by higher revenue from shipping solutions, partially offset by lower cross-border revenue due to lower volumes. EBIT loss in 2018 increased to $32 million compared to a loss of $18 million in 2017 primarily due to higher amortization expense of $12 million due to a full year of amortization related to Newgistics and higher transportation and labor costs of $6 million due to increased competition for labor and transportation resources as a result of the rapid growth in Ecommerce, partially offset by higher revenue. 
+
+20
+
+Presort Services
+
+Presort Services revenue increased 3% in 2019 compared to 2018, driven primarily from acquisitions as well as growth in existing clients' volumes. EBIT decreased 4%, or $3 million, in 2019 compared to the prior year primarily due to investments of $10 million to improve profitability and higher bad debt expense of $2 million, partially offset by lower labor costs of $13 million resulting from productivity actions. We also estimate that EBIT was adversely impacted by $4 million as a result of the ransomware attack.
+
+Presort Services revenue increased 4% in 2018 compared to 2017 primarily due to higher volumes of First Class, Standard Class and Bound and Packet Mail processed. EBIT decreased 24% in 2018 compared to 2017 primarily due to higher labor and transportation costs of $34 million due to increased competition for labor and transportation resources and $8 million from the launch of a marketing mail pilot program.
+
+SendTech Solutions
+
+SendTech Solutions revenue decreased 9% as reported and 8% at constant currency in 2019 compared to 2018, primarily due to:
+
+•2% from Market Exits;
+
+•2% from lower equipment sales primarily due to lower sales in mailing finishing products and a longer installation period due to a higher mix of solutions sold with our equipment relative to the prior year;
+
+•2% from lower support services and 1% from lower supplies due to a declining meter population; and
+
+•1% from lower financing fees.
+
+EBIT decreased 12% in 2019 compared to 2018, primarily due to the decline in revenue and gross profit margins. The decline in margins was primarily due to a charge of $9 million related to a SendPro C tablet replacement program and higher costs of $8 million from trade tariffs. We also estimate that EBIT was adversely impacted by $8 million as a result of the ransomware attack. The EBIT decrease was partially offset by lower operating expenses of $55 million from cost savings initiatives. 
+
+SendTech Solutions revenue decreased 4% in 2018 compared to 2017 primarily due to:
+
+•2% from a decline in support services revenue related to a worldwide decline in our meter population; 
+
+•1% from lower supplies; and 
+
+•1% from lower financing revenue.
+
+EBIT increased 1% primarily due to lower expenses from cost savings initiatives, partially offset by the decline in revenue. 
+
+21
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We are a "Well-Known Seasoned Issuer" within the meaning of Rule 405 under the Securities Act, which allows us to issue debt securities, preferred stock, preference stock, common stock, purchase contracts, depositary shares, warrants and units in an expedited fashion. 
+
+At December 31, 2019 we had cash and cash equivalents and short-term investments of $1 billion, of which $168 million was held by our foreign subsidiaries. Cash held by our foreign subsidiaries are generally used to support the liquidity needs of those subsidiaries. We believe that existing cash, short-term investments and cash generated from operations will be sufficient to support our current cash needs for at least the next 12 months.
+
+Cash Flow Summary 
+
+The change in cash and cash equivalents is as follows: 
+
+[DATA_TABLE_REMOVED]
+
+Operating activities
+
+Cash flows from operations decreased $91 million in 2019 compared to 2018, primarily due to lower income of $142 million offset by cash from working capital changes of $24 million and higher cash from discontinued operations of $17 million. We estimate that the ransomware attack adversely impacted cash flows from operations by $27 million.
+
+Cash flows from operations decreased $111 million in 2018 compared to 2017, due to lower cash from continuing operations of $51 million primarily related to changes in working capital and lower cash from discontinued operations of $61 million.
+
+Investing activities
+
+Cash provided by investing activities in 2019 of $490 million primarily included proceeds of approximately $700 from the sale of our Software Solutions business, offset by cash used to fund capital expenditures of $137 million and acquisitions of $22 million. We estimate that the ransomware attack resulted in additional capital expenditures of $2 million.
+
+Cash provided by investing activities in 2018 was $309 million. Sources of cash included gross proceeds of $340 million from the sale of the Production Mail Business and $106 million from investment activities as we liquidated a portion of our investment portfolio to raise cash to support the launch of our enhanced third-party financing offerings. Cash was used to fund capital expenditures of $138 million, which included investments in Commerce Services to build new fulfillment and returns distribution facilities and increase automation at our Presort facilities.
+
+In 2017, we used $621 million of cash in investing activities primarily for the acquisition of Newgistics for $471 million and capital expenditures of $118 million. 
+
+Financing activities
+
+In 2019, cash used in financing activities of $687 million included the net repayment of debt of $540 million, the repurchase of 18.6 million shares of our common stock for $105 million and common stock dividend payments of $35 million. 
+
+In 2018, cash used in financing activities of $766 million included the repayment of $570 million of debt, common stock dividend payments of $140 million and the settlement of a $46 million timing difference between our investing excess cash at the subsidiary level and the funding of an intercompany cash transfer at December 31, 2017. 
+
+In 2017, cash provided by financing activities of $368 million included the net issuance of debt of $472 million and common stock dividend payments of $139 million. 
+
+22
+
+Debt and Capitalization
+
+During 2019, we completed a series of transactions to refinance our debt portfolio, including the following: 
+
+•Repaid the $150 million term loan due November 2019, the remaining balance of the $200 million term loan due September 2020 and the $300 million term loan due December 2020;
+
+•Redeemed the $300 million September 2020 Notes;
+
+•Secured a new five-year $400 million secured term loan due November 2024 (the 2024 Term Loan); and
+
+•Replaced our $1 billion revolving credit facility scheduled to mature in January 2021 with a $500 million secured revolving credit facility that expires in November 2024 (the Credit Facility). As of December 31, 2019, we have not drawn upon the Credit Facility. 
+
+In December 2019, we obtained commitments for a five-year $650 million term loan, and in February 2020, we obtained lender commitments for an additional $200 million. The combined commitment amount of $850 million is scheduled to mature January 2025 (the 2025 Term Loan). On February 10, 2020, we announced a cash tender offer to purchase up to $950 million aggregate principal amount of the October 2021 Notes, the May 2022 Notes, the April 2023 Notes and the March 2024 Notes (collectively, the Notes). On February 19, 2020, we funded the 2025 Term Loan and will use the net proceeds and the remaining proceeds from the sale of the Software Solutions business to redeem the Notes on or around February 24, 2020. The 2025 Term Loan bears interest at LIBOR plus 5.5% and resets monthly.
+
+The Credit Facility requires that we maintain a Consolidated Adjusted Total Leverage Ratio (as defined in the Credit Facility agreement) and a Consolidated Adjusted Interest Coverage Ratio (as defined in the Credit Facility agreement), and comply with certain other nonfinancial covenants. Compliance with covenants is determined at the end of each fiscal quarter. In the event of noncompliance with any of the covenants, borrowings under the Credit Facility, the 2024 Term Loan and the 2025 Term Loan (collectively, the Facilities) may be accelerated (subject to grace periods, as appropriate). At December 31, 2019, we were in compliance with all covenants. For more information on our financial covenants refer to our exhibits.
+
+Borrowings under the Facilities are secured by substantially all company assets and the assets of certain of our domestic subsidiaries, subject to customary exclusions and limitations set forth in the Credit Facility agreement and other executed loan documents. The Credit Facility agreement contains representations and warranties and affirmative and negative covenants that are usual and customary, including negative covenants that, among other things, limit our ability to incur additional debt, incur or permit liens on assets, make investments and acquisitions, consolidate or merge with any other company, engage in asset sales and make dividends and distributions. 
+
+The 2024 Term Loan bears interest at LIBOR plus 1.75% and resets monthly. The interest rate at December 31, 2019 was 3.55%. 
+
+Interest rates on certain notes are subject to adjustment based on changes in our credit ratings. In April 2019, Moody's lowered our corporate credit rating from Ba1 to Ba2 resulting in a 25 basis point increase in the interest rates of the May 2022 notes, September 2020 notes, October 2021 notes and April 2023 notes. In connection with the issuance of the secured 2024 Term Loan in November 2019, Moody's and Standard and Poor's (S&P) lowered the credit rating of our unsecured notes to Ba3/BB, rated our secured debt at Ba1/BBB- and reaffirmed our corporate rating of Ba2/BB+. As a result of the change in the credit rating of our unsecured notes, the interest rates on the October 2021 notes, May 2022 notes and April 2023 notes will increase an additional 50 basis points in the second quarter of 2020. 
+
+Interest rates on secured borrowings under the Facilities, and any additional term loans we may secure under the Credit Facility are determined based on LIBOR, which is expected to be phased out after 2021. At this time, no consensus exists as to what rate or rates will become accepted alternatives to LIBOR. We have included language in our credit documents to address the transition from LIBOR to an alternative rate; however, there are many uncertainties about this transition at this time and no assurances can be given that the transition to an alternate rate will not increase our cost of debt that could adversely affect our financial performance. 
+
+We have a total of $2.3 billion of debt maturing within the next five years. We fully expect to be able to fund these maturities with cash or by refinancing through the U.S. capital markets. However, our ability to access the U.S. capital markets is dependent upon our credit ratings and is subject to capital market volatility. Given our current credit rating, we may experience reduced flexibility and higher costs when we access the U.S. capital markets.
+
+In June 2019, we redeemed all outstanding shares of the 4% Convertible Cumulative Preferred Stock and the $2.12 Convertible Preference Stock.
+
+During 2019, we returned a total of $140 million to our shareholders through the repurchase of 18.6 million shares of our common stock for $105 million and the payment of common stock dividends of $35 million. At December 31, 2019, we have remaining authorization to repurchase up to $16 million of our common stock; however, do not expect to utilize this authorization within the next 12 months. Each quarter, our Board of Directors considers our recent and projected earnings and other capital needs and priorities in deciding whether to approve a dividend. 
+
+For discussion of our 2018 Debt and Capitalization, refer to our Annual Report on Form 10-K filed with the SEC on February 20, 2019.
+
+23
+
+Contractual Obligations
+
+The following table summarizes our known contractual obligations at December 31, 2019 and the effect that such obligations are expected to have on our liquidity and cash flow in future periods (in millions):
+
+[DATA_TABLE_REMOVED]
+
+(1)Assumes all debt is held to maturity. 
+
+(2)Includes unrecorded agreements to purchase goods and services that are enforceable and legally binding upon us and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Purchase obligations exclude agreements that are cancelable without penalty.
+
+(3)Represents the contributions we anticipate making to our pension plans during 2020. We will assess our funding alternatives as the year progresses and this amount is subject to change.
+
+(4)Our retiree health benefit plans are unfunded plans and cash contributions are made to cover medical claims. The amounts reported in the above table represent our estimate of future payments.
+
+The amount and period of future payments related to our income tax uncertainties cannot be reliably estimated and are not included in the above table. See Note 15 to the Consolidated Financial Statements for further details.
+
+Off-Balance Sheet Arrangements
+
+At December 31, 2019, we had no off-balance sheet arrangements that have, or are reasonably likely to have, a material current or future effect on our financial condition, results of operations or liquidity. 
+
+24
+
+Critical Accounting Estimates
+
+The preparation of our financial statements in conformity with GAAP requires management to make estimates and assumptions about certain items that affect the reported amounts of assets, liabilities, revenues, expenses and accompanying disclosures, including the disclosure of contingent assets and liabilities. The accounting policies below have been identified by management as those policies that are most critical to our financial statements due to the estimates and assumptions required. Management believes that the estimates and assumptions used are reasonable and appropriate based on the information available at the time the financial statements were prepared; however, actual results could differ from those estimates and assumptions. See Note 1 to the Consolidated Financial Statements for a summary of our accounting policies. 
+
+Revenue recognition 
+
+We derive revenue from multiple sources including the sale and lease of equipment, equipment rentals, financing, support services and business services. Certain transactions are consummated at the same time and can therefore generate revenue from multiple sources. The most common form of these arrangements involve a sale or noncancelable lease of equipment, meter services and an equipment maintenance agreement. We are required to determine whether each product and service within the contract should be treated as a separate performance obligation (unit of accounting) for revenue recognition purposes. We recognize revenue for performance obligations when control is transferred to the customer. Transfer of control may occur at a point in time or over time, depending on the nature of the contract and the performance obligation.
+
+Revenue is allocated among performance obligations based on relative standalone selling prices (SSP), which are a range of selling prices that we would sell the good or service to a customer on a separate basis. SSP are established for each performance obligation at the inception of the contract and can be observable prices or estimated. Revenue is allocated to the meter service and equipment maintenance agreement elements using their respective observable selling prices charged in standalone and renewal transactions. For sale and lease transactions, the SSP of the equipment is based on a range of observable selling prices in standalone transactions. We recognize revenue on non-lease transactions when control of the equipment transfers to the customer, which is upon delivery for customer installable models and upon installation or customer acceptance for other models. We recognize revenue on equipment for lease transactions upon shipment for customer installable models and upon installation or customer acceptance for other models. 
+
+Pension benefits 
+
+The calculation of net periodic pension expense and determination of net pension obligations are dependent on assumptions and estimates relating to, among other things, the discount rate (interest rate used to discount the future estimated liability) and the expected rate of return on plan assets. These assumptions are evaluated and updated annually. 
+
+The discount rate for our largest plan, the U.S. Qualified Pension Plan (the U.S. Plan) and our largest foreign plan, the U.K. Qualified Pension Plan (the U.K. Plan) used in the determination of net periodic pension expense for 2019 was 4.35% and 2.65%, respectively. For 2020, the discount rate used in the determination of net periodic pension expense for the U.S. Plan and the U.K. Plan will be 3.35% and 1.9%, respectively. A 0.25% change in the discount rate would impact annual pension expense by less than $1 million for both the U.S. Plan and the U.K. Plan, and the projected benefit obligation of the U.S. Plan and U.K. Plan by $42 million and $25 million, respectively.
+
+The expected rate of return on plan assets used in the determination of net periodic pension expense for 2019 was 6.75% for the U.S. Plan and 6.25% for the U.K. Plan. For 2020, the expected rate of return on plan assets used in the determination of net periodic pension expense for the U.S. Plan will be 6.25% and the U.K. Plan will be 5.75%. A 0.25% change in the expected rate of return on plan assets would impact annual pension expense for the U.S. Plan by $3 million and the U.K. Plan by $1 million. 
+
+Actual pension plan results that differ from our assumptions and estimates are accumulated and amortized primarily over the life expectancy of plan participants and affect future pension expense. Net pension expense is also based on a market-related valuation of plan assets where differences between the actual and expected return on plan assets are recognized over a five-year period. Plan benefits for participants in a majority of our U.S. and foreign pension plans are frozen. 
+
+See Note 14 to the Consolidated Financial Statements for further information about our pension plans. 
+
+Residual value of leased assets
+
+Equipment residual values are determined at the inception of the lease using estimates of fair value at the end of the lease term. Residual value estimates impact the determination of whether a lease is classified as an operating lease or a sales-type lease. Fair value estimates of equipment at the end of the lease term are based on historical renewal experience, used equipment markets, competition and technological changes. 
+
+We evaluate residual values on an annual basis or sooner if circumstances warrant. Declines in estimated residual values considered "other-than-temporary" are recognized immediately. Increases in estimated future residual values are not recognized until the equipment 
+
+25
+
+is remarketed. If the actual residual value of leased assets were 10% lower than management's current estimates, pre-tax income would be $5 million lower. 
+
+Allowances for credit losses and doubtful accounts
+
+Finance receivables are comprised of sales-type lease receivables and unsecured revolving loan receivables. We provide an allowance for probable credit losses based on historical loss experience, the nature and volume of our portfolios, adverse situations that may affect a client's ability to pay, prevailing economic conditions and our ability to manage the collateral. 
+
+Total allowance for credit losses as a percentage of finance receivables was 2% at both December 31, 2019 and 2018. Holding all other assumptions constant, a 0.25% change in the allowance rate at December 31, 2019 would have reduced pre-tax income by $3 million. 
+
+Trade accounts receivable are generally due within 30 days after the invoice date. Accounts deemed uncollectible are written off against the allowance after all collection efforts have been exhausted and management deems the account to be uncollectible. We believe that our accounts receivable credit risk is low because of the geographic and industry diversification of our clients and small account balances for most of our clients. 
+
+The allowance for doubtful accounts as a percentage of trade accounts receivables was 5% at December 31, 2019 and 4% at December 31, 2018. Holding all other assumptions constant, a 0.25% change in the allowance rate at December 31, 2019 would have reduced pre-tax income by $1 million.
+
+Income taxes and valuation allowance
+
+We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Our annual tax rate is based on income, statutory tax rates, tax reserve changes and tax planning opportunities available to us in the various jurisdictions in which we operate. Significant judgment is required in determining the annual tax rate and in evaluating our tax positions. We regularly assess the likelihood of tax adjustments in each of the tax jurisdictions in which we have operations and account for the related financial statement implications. We have established tax reserves that we believe are appropriate given the possibility of tax adjustments. Determining the appropriate level of tax reserves requires judgment regarding the uncertain application of tax laws. Reserves are adjusted when information becomes available or when an event occurs indicating a change in the reserve is appropriate. Changes in tax reserves could have a material impact on our financial condition or results of operations. 
+
+Significant judgment is also required in determining the amount of deferred tax assets that will ultimately be realized and corresponding deferred tax asset valuation allowance. When estimating the necessary valuation allowance, we consider all available evidence for each jurisdiction including historical operating results, estimates of future taxable income and the feasibility of ongoing tax planning strategies. If new information becomes available that would alter our estimate of the amount of deferred tax assets that will ultimately be realized, we adjust the valuation allowance through income tax expense. Changes in the deferred tax asset valuation allowance could have a material impact on our financial condition or results of operations.
+
+Impairment review
+
+Long-lived and finite-lived intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be fully recoverable. The estimated future undiscounted cash flows expected to result from the use and eventual disposition of the assets is compared to the carrying value. If the sum of the undiscounted cash flows is less than the asset's carrying value, an impairment charge is recorded for an amount by which the carrying value exceeds its fair value. The fair value of the impaired asset is determined using probability weighted expected cash flow estimates, quoted market prices when available and appraisals, as appropriate. We derive the cash flow estimates from our long-term business plans and historical experience. Changes in the estimates and assumptions incorporated in our impairment assessment could materially affect the determination of fair value and the associated impairment charge.
+
+Goodwill is tested annually for impairment at the reporting unit level during the fourth quarter or sooner when circumstances indicate an impairment may exist. The impairment test for goodwill determines the fair value of each reporting unit and compares it to the reporting unit's carrying value, including goodwill. If the fair value of a reporting unit is less than its carrying value, an impairment loss is recognized for the difference, not to exceed the carrying amount of goodwill.
+
+Testing goodwill for impairment requires us to identify our reporting units and assign assets and liabilities, including goodwill, to each reporting unit. Significant estimates and assumptions are used in determining the fair value of each reporting unit and is based on a combination of techniques, including the present value of future cash flows, multiples of competitors and multiples from sales of like businesses. The estimates and assumptions used to determine fair value are based on projections incorporated in our current operating plans, which include estimates and assumptions associated with sales growth, profitability, cash flows, capital spending and other available information. The determination of fair value also incorporates a risk-adjusted discount rate and other assumptions that market participants 
+
+26
+
+may use. Changes in any of these estimates or assumptions could materially affect the determination of fair value and the associated goodwill impairment assessment for each reporting unit. Potential events and circumstances, such as the loss of client contracts, inability to acquire new clients, downward pressures on pricing and rising interest rates could materially impact the determination of a reporting unit's fair value and potentially result in a non-cash impairment charge in future periods. 
+
+Based on the operating results of the Global Ecommerce business at the end of the third quarter, we performed a goodwill impairment test to assess the recoverability of the carrying value of goodwill and determined that the estimated fair value of the reporting unit exceeded its carrying value by less than 20%. We conducted the goodwill impairment text for all our reporting units during the fourth quarter and determined that the estimated fair values of each reporting unit, with the exception of the Global Ecommerce reporting unit, was substantially in excess of their respective carrying values. The estimated fair value of the Global Ecommerce reporting unit still exceeded its carrying value by less than 20%. 
+
+The carrying value of goodwill for the Global Ecommerce reporting unit at December 31, 2019 was $609 million. We will continue to monitor and evaluate the carrying value of goodwill for this reporting unit, and should facts and circumstances change, a non-cash impairment charge could be recorded in the future.
+
+Stock-based compensation expense
+
+We recognize compensation cost for stock-based awards based on the estimated fair value of the award on the grant date. The fair value of certain stock awards is determined using a Black-Scholes valuation model or Monte Carlo simulation model. These models require assumptions regarding the expected stock price volatility, risk-free interest rate, expected life of the award and dividend yield. The expected stock price volatility is based on historical price changes of our stock. The risk-free interest rate is based on U.S. Treasuries with a term equal to the expected life of the stock award. The expected life of the award and dividend yield are based on historical experience. 
+
+We believe that the valuation techniques and the underlying assumptions are appropriate in determining the fair value of stock-based awards. If factors change causing our assumptions to change, our stock-based compensation expense could be different in the future. In addition, we estimate an expected forfeiture rate and recognize expense only for those shares expected to vest. If the actual forfeiture rate is different from our estimate, stock-based compensation expense recorded in the period could be adversely impacted.
+
+Restructuring 
+
+Costs associated with restructuring actions primarily include employee severance and other employee separation costs. Certain costs associated with restructuring actions require us to make estimates and assumptions regarding the ultimate amount that will be paid and the timing of payments. Actual amounts paid and the timing of payments could differ from our original estimates and have a material impact our financial statements. On a quarterly basis, we compare our remaining restructuring reserves to our updated estimate of future remaining restructuring obligations and make adjustments if necessary. 
+
+Loss contingencies
+
+In the ordinary course of business, we are routinely defendants in, or party to, a number of pending and threatened legal actions. On a quarterly basis, we review the status of each significant matter and assess the potential financial exposure. If the potential loss from any claim or legal action is considered probable and can be reasonably estimated, we establish a liability for the estimated loss. The assessment of the ultimate outcome of each claim or legal action and the determination of the potential financial exposure requires significant judgment. Estimates of potential liabilities for claims or legal actions are based only on information that is available at that time. As additional information becomes available, we may revise our estimates, and these revisions could have a material impact on our results of operations and financial position. 
+
+Legal and Regulatory Matters 
+
+See Legal Proceedings in Item 3 for information regarding our legal proceedings and Other Tax Matters in Note 15 to the Consolidated Financial Statements for regulatory matters regarding our tax returns.
+
+Foreign Currency Exchange
+
+During 2019, 14% of our consolidated revenue was from operations outside the United States. The functional currency for most of our foreign operations is the local currency. Changes in the value of the U.S. dollar relative to the currencies of countries in which we operate impact our reported assets, liabilities, revenue and expenses. Exchange rate fluctuations can also impact the settlement of intercompany receivables and payables between our subsidiaries in different countries. The translation of foreign currencies to the U.S. dollar did not have a material impact on revenues and operating results for the years ended December 31, 2019, 2018 and 2017.
+
+27
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

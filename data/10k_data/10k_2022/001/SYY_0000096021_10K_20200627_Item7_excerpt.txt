@@ -1,0 +1,849 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Our discussion below of our results includes certain non-GAAP financial measures that we believe provide important perspective with respect to underlying business trends. Other than free cash flow, any non-GAAP financial measures will be denoted as adjusted measures and are impacted by restructuring and transformational project costs consisting of: (1) expenses associated with our various transformation initiatives; (2) severance and facility closure charges; and (3) restructuring charges. All acquisition-related costs in fiscal 2020, fiscal 2019 and fiscal 2018 that have been designated as Certain Items relate to the fiscal 2017 acquisition of Cucina Lux Investments Limited (the Brakes Acquisition). These include acquisition-related intangible amortization expense. Fiscal 2020 results of operations were also negatively impacted by costs arising from the COVID-19 pandemic, the most significant including (1) excess bad debt expense, (2) goodwill and intangibles impairment charges and (3) fixed asset impairment charges. These are the only items that have been adjusted as Certain Items. Our adjusted results have not been normalized in a manner that would exclude the full impact of the COVID-19 pandemic on our business. 
+
+22
+
+As such, Sysco has not adjusted its results for lost sales, inventory write-offs or other costs associated with the COVID-19 pandemic. Many of Sysco’s customers, including those in the restaurant, hospitality and education segments, are closed or operating at a substantially reduced volume due to governmental requirements for closures or other social-distancing measures. Some of these customers have ceased paying their outstanding receivables, creating uncertainty as to their collectability. We have experienced an increase in past due receivables and have recognized additional bad debt charges. Prior to the COVID-19 pandemic, our allowance was primarily based on historical loss experience. Since the crisis began, our write-off percentages have been based, not only on historical loss experience, but also on our experience with losses incurred during times of local and regional disasters. Additionally, in the fourth quarter of fiscal 2020, we included the company’s current collection experience, which has been impacted by the COVID-19 pandemic. We anticipate continuing this approach in fiscal 2021. The COVID-19 pandemic is more widespread and longer in duration than historical disasters impacting our business, and it is possible that actual uncollectible amounts will differ and additional charges may be required in fiscal 2021. While Sysco traditionally incurs bad debt expense, the magnitude of such expenses that we have experienced since March 2020 is not indicative of our normal operations. 
+
+Fiscal 2019 results of operations were impacted by a gain on the sale of Iowa Premium, LLC (Iowa Premium) in the fourth quarter of fiscal 2019. In addition, fiscal 2019 results of operations were affected by acquisition-related integration costs specific to the Brakes Acquisition and the impact of recognizing a foreign tax credit. Fiscal 2018 results of operations were additionally impacted by multiemployer pension plan (MEPP) withdrawal charges. These fiscal 2020, fiscal 2019 and fiscal 2018 items are collectively referred to as “Certain Items.” The results of our foreign operations can be impacted by changes in exchange rates applicable to converting from local currencies to U.S. dollars. We measure our International Foodservice Operations results on a constant currency basis. Our discussion below of our results includes certain non-GAAP financial measures that we believe provide important perspective with respect to underlying business trends. Other than free cash flow, any non-GAAP financial measures will be denoted as adjusted measures and exclude the impact from Certain Items, and certain metrics are stated on a constant currency basis.
+
+Management believes that adjusting its operating expenses, operating income, other (income) expense, net, net earnings and diluted earnings per share to remove these Certain Items, provides an important perspective with respect to our underlying business trends and results and provides meaningful supplemental information to both management and investors that (1) is indicative of the performance of the company’s underlying operations, (2) facilitates comparisons on a year-over-year basis, and (3) removes those items that are difficult to predict and are often unanticipated and that, as a result, are difficult to include in analysts’ financial models and our investors’ expectations with any degree of specificity.
+
+The company uses these non-GAAP measures when evaluating its financial results, as well as for internal planning and forecasting purposes. These financial measures should not be used as a substitute for GAAP measures in assessing the company’s results of operations for periods presented. An analysis of any non-GAAP financial measure should be used in conjunction with results presented in accordance with GAAP. As a result, in the table below, each period presented is adjusted for the impact described above. In the table below, individual components of diluted earnings per share may not add to the total presented due to rounding. Adjusted diluted earnings per share is calculated using adjusted net earnings divided by diluted shares outstanding.
+
+Any metric within this section referred to as “adjusted” will reflect the applicable impact of Certain Items. More information on the rationale for the use of these measures and reconciliations to GAAP numbers can be found under “Non-GAAP Reconciliations.”
+
+During the fourth quarter of fiscal 2020, Sysco revised the way performance is assessed for the U.S. Foodservice Operations segment. As a result of this change, charges incurred by the company’s corporate office to provide direct support functions to the U.S. Foodservice Operations reportable segment have been reclassified from Corporate expenses into the U.S. Foodservice reportable segment. The segment information disclosed for fiscal 2020 reflects this change in reporting structure and prior year amounts have been reclassified to conform with the current year presentation. The following discussion includes a comparison of our Results of Operations and Liquidity and Capital Resources for fiscal 2020 and fiscal 2019. A discussion of changes in our results of operations from fiscal 2018 to fiscal 2019 have been included for our U.S. Foodservice Operations and Corporate expenses. Disclosures around this change in segment reporting are described under “Overview” below and in Note 22, “Business Segment Information,” in the Notes to Consolidated Financial Statements in Item 8. All other discussion of changes in our results of operations from fiscal 2018 to fiscal 2019 has been omitted from this Form 10-K, but may be found in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Form 10-K for the fiscal year ended June 29, 2019, filed with the Securities and Exchange Commission on August 26, 2019.
+
+23
+
+Overview
+
+Sysco distributes food and related products to restaurants, healthcare and educational facilities, lodging establishments and other foodservice customers. Our primary operations are located in North America and Europe. The company has aggregated certain operating segments into three reportable segments. “Other” financial information is attributable to our other operating segments that do not meet the quantitative disclosure thresholds.
+
+•U.S. Foodservice Operations – primarily includes U.S. Broadline operations, which distribute a full line of food products, including custom-cut meat, seafood, specialty produce, specialty imports and a wide variety of non-food products;
+
+•International Foodservice Operations – includes operations in the Americas and Europe, which distribute a full line of food products and a wide variety of non-food products. The Americas primarily consists of operations in Canada, Bahamas, Mexico, Costa Rica and Panama, as well as our operations that distribute to international customers. Our European operations primarily consist of operations in the U.K., France, Ireland and Sweden;
+
+•SYGMA – our U.S. customized distribution subsidiary; and
+
+•Other – primarily our hotel supply operations.
+
+During the fourth quarter of fiscal 2020, Sysco revised the way performance is assessed for the U.S. Foodservice Operations segment. As a result of the change, the company’s corporate expenses that were incurred to provide direct support functions to the U.S. Foodservice Operations reportable segment have been reclassified from Corporate expenses into the reportable segment. The segment information disclosed for fiscal 2020 reflects this change in reporting structure, and the fiscal 2019 and fiscal 2018 results reflect $201.0 million and $197.0 million of corporate expense reclassifications, respectively, to conform with the current year presentation. 
+
+We estimate that we serve about 16% of an approximately $310 billion annual foodservice market in the U.S. based on industry data obtained from Technomic, Inc. From time to time, Technomic may revise the methodology used to calculate the size of the foodservice market and, as a result, our percentage can change not only from our sales results, but also from such revisions. We also serve certain international geographies that vary in size and amount of market share.
+
+According to industry sources, the foodservice, or food-away-from-home, market represents approximately 53% of the total dollars spent on food purchases made at the consumer level in the U.S. as of the end of calendar year 2019. Industry sources estimate the total foodservice market in the U.S. experienced a real sales increase of approximately 0.9% in calendar year 2019 and 1.2% in calendar year 2018. Real sales changes do not include the impact of inflation or deflation. The COVID-19 pandemic has caused a significant reduction in consumption within the foodservice market and may create a long-term change in customer demand, as purchases have shifted more to the retail grocery channel. The food-away-from-home market fell to a low of 32% of total dollars spent on food purchases as a result of the pandemic, but has since recovered to approximately 43% as of June 2020. We expect real sales growth in the U.S. foodservice market to be negative for calendar year 2020.
+
+Key Performance Indicators
+
+Sysco seeks to meet its strategic goals by continually measuring its success in its key performance metrics that drive stakeholder value through sales growth and capital allocation and deployment. We believe the following are our most significant performance metrics: 
+
+•Adjusted operating income growth and adjusted operating income leverage (non-GAAP); 
+
+•Adjusted diluted earnings per share growth (non-GAAP); 
+
+•Case volume growth by customer type for U.S. Broadline operations;
+
+•Sysco brand penetration for U.S. Broadline operations;
+
+•Free cash flow (non-GAAP); and
+
+•Adjusted return on invested capital (non-GAAP).
+
+We use these financial metrics and related computations, as well as sales and gross profit growth, to evaluate our business and to plan for near-and long-term operating and strategic decisions. We believe it is useful to provide investors with the same financial information that we use internally to make comparisons of our historical operating results, identify trends in our underlying operating results and evaluate our business.
+
+24
+
+Key Financial Definitions 
+
+•Sales – Sales is equal to gross sales, minus (1) sales returns and (2) sales incentives that we offer to certain customers, such as upfront monies and discounts. Our sales are driven by changes in case volumes, product inflation that is reflected in the pricing of our products and mix of products sold.
+
+•Gross profit – Gross profit is equal to our net sales minus our cost of goods sold. Cost of goods sold primarily includes inventory costs (net of supplier consideration) and inbound freight. Cost of goods sold generally changes as we incur higher or lower costs from our suppliers and as our customer and product mix changes.
+
+Adjusted Operating Income, Adjusted Operating Income Leverage and Adjusted Diluted Earnings per Share Growth
+
+Adjusted operating income represents our consolidated operating income, adjusted for the impact of Certain Items that we do not consider representative of our underlying performance. Adjusted operating income leverage represents the variance between our gross profit growth financial measure, on a percentage basis, and our adjusted operating expense growth, on a percentage basis, where management expects gross profit growth to exceed adjusted operating expense growth. Adjusted diluted earnings per share represents our consolidated diluted earnings per share, adjusted for the impact of Certain Items that we do not consider representative of our underlying performance. Sysco’s management considers growth in these metrics to be useful measures of operating efficiency and profitability, as they facilitate comparison of performance on a consistent basis from period to period by providing a measurement of recurring factors and trends affecting our business.
+
+Case Volume Growth by Customer Type for U.S. Broadline Operations
+
+Case volume represents the volume of product sold to customers during a period of time, and improvements in this metric are a primary driver of Sysco’s top line performance. We define a case, specifically for our U.S. Broadline operations, as the lowest level of packaged products that are sold from our warehouses, with one case potentially containing several pieces of a product packaged in bulk. Case size does not generally vary by location or from period to period, due to the design of our warehouses. Case volume growth is calculated by dividing the change in the volume of cases sold year-over-year by the volume of cases sold in the prior year. Sysco management considers case volume growth within its U.S. Broadline operations to be a measure that provides useful information to management and investors in evaluating sales performance and as an indicator of gross margin performance. Management monitors case volume growth by customer type, with bifurcation between local customers and national customers, as this provides a measure of gross profit performance due to the pricing strategies attached to each customer type. Local customers are primarily street customers, such as independent restaurants that do not have long-term contracts, or locally managed customers, such as local chain restaurants, while national customers are the multi-unit customers requiring national coverage from a customer-centric view and are managed centrally from the Corporate office. Sysco management seeks to drive higher case volume growth to local customers, which allows more favorable pricing terms for our U.S. Broadline operations and generates higher gross margins as a result. National customers benefit from purchasing power, as they are able to negotiate pricing agreements across multiple businesses, reducing our gross profit potential, but reducing our overall cost per case, as national customers have bigger drop sizes. While overall case volume growth reflects a key component of sales growth, local customer case growth provides additional context around gross profit performance. 
+
+Sysco Brand Penetration for U.S. Broadline Operations
+
+Sysco management considers Sysco brand penetration to be a measure that provides useful information to management and investors in evaluating the gross profit performance of the company’s U.S. Broadline operations. Sysco offers an assortment of Sysco-branded products that can be differentiated from privately branded products, which enables us to achieve higher gross margin by administering and leveraging a consolidated product procurement program for quality food and non-food products. Due to cost efficiencies, Sysco-branded products generate a higher gross margin than sales from other privately branded products. We define Sysco brand penetration as the percentage of Sysco-branded case volume sold to U.S. Broadline customers over all cases sold to U.S. Broadline customers. This performance indicator, also measured at the customer type level, including local and national customers, is driven by growth in the distribution of branded products to more customers and more geographies, as well as increasing branded offerings through innovation and the launch of new products.
+
+Free Cash Flow
+
+Free cash flow represents net cash provided from operating activities, less purchases of plant and equipment, plus proceeds from sales of plant and equipment. Sysco management considers free cash flow to be a non-GAAP liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after the purchases and sales of buildings, fleet, equipment and technology, which may potentially be used to pay for, among other things, strategic uses of cash, including dividend payments, share repurchases and acquisitions. However, free cash flow may 
+
+25
+
+not be available for discretionary expenditures, as it may be necessary that we use it to make mandatory debt service or other payments. Free cash flow should be considered in addition to, rather than as a substitute for, consolidated net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity. See “Liquidity and Capital Resources” for discussions of GAAP metrics, including net cash provided by operating activities and our reconciliation of this non-GAAP financial measure. 
+
+Adjusted Return on Invested Capital
+
+Although adjusted return on invested capital (ROIC) is considered a non-GAAP financial measure, Sysco management considers adjusted ROIC to be a measure that provides useful information to management and investors in evaluating the efficiency and effectiveness of the company’s long-term capital investments and has been a component of long-term incentive compensation. We calculate adjusted ROIC as adjusted net earnings divided by (1) stockholders’ equity, computed as the average of adjusted stockholders’ equity at the beginning of the year and at the end of each fiscal quarter during the year; and (2) long-term debt, computed as the average of the long-term debt at the beginning of the year and at the end of each fiscal quarter during the year. Trends in ROIC can fluctuate over time as management balances long-term strategic initiatives with possible short-term impacts. 
+
+Business Update on the COVID-19 Pandemic
+
+During the last couple of weeks of the third quarter of fiscal 2020, our business declined significantly from the time that shelter in place orders were issued in response to the COVID-19 pandemic. We experienced declines in sales to the majority of our customers, with the exception of certain customers in the healthcare segment. During the fourth quarter of fiscal 2020, however, we experienced sequential weekly improvements with the reopening of in-restaurant dining. The “exit rate” of our sales as of the end of fiscal 2020 was a decline of approximately 30% compared to the end of fiscal 2019. In July 2020, as COVID-19 cases began increasing in certain locations, the business recovery flattened; however, we have experienced weekly improvements in sales again in August 2020. 
+
+We have closely monitored developments in the COVID-19 pandemic as the situation has evolved, and we are continuously revising our approach to create new processes and guidelines to keep associates and customers safe, with careful consideration to remaining aligned with guidance from relevant health authorities.
+
+•Supporting employees – We have defined and implemented procedures to protect the health and safety of our employees, while also ensuring business continuity and our ability to service our customers. We have allowed employees to work remotely, whenever possible, and have installed protocols for daily temperature checks and health screenings for our employees not working remotely. We have also provided guidelines for performing deep cleaning and proper social distancing in our offices and warehouses and have implemented requirements for employees to wear face coverings when not working remotely.
+
+•Serving customers – We have implemented procedures to limit the contact between our drivers and customers’ employees and have developed an alternative process to avoid collecting signatures for customer invoices and guidelines for safely accepting customer returns.
+
+•Assisting our communities – We have donated 30 million meals across eight countries since mid-March as part of our community response strategy to the pandemic. These donations were valued at over $100 million and included nearly 16 million pounds of fresh produce and approximately six million pounds of fresh dairy products. Additionally, we have supported over 900 community organizations in their efforts to address hunger and food insecurity by providing direct delivery to food banks and other hunger relief organizations by loaning refrigerated trucks and facility storage space to increase capacity for local food distribution and by providing volunteer and staffing support for mobile distribution efforts.
+
+Immediately after the onset of the crisis, Sysco took action to ensure liquidity, reduce variable and structural costs and pivot our business to maximize sales during a period of disruption. 
+
+First, we increased liquidity by (i) a $1.6 billion borrowing under our revolving credit facility, (ii) a $4 billion unsecured bond offering, (iii) establishment of a £600 million Bank of England commercial paper program, and (iv) a new $750.0 million 364-day credit facility. As a result of these measures, as of August 7, 2020, the company had more than $8.0 billion in cash and available liquidity. This liquidity provides us with financial flexibility during this difficult operating environment and enables us to invest in our business to transform the company during and after the crisis.
+
+Second, we worked rapidly to stabilize the business by removing costs. We have reduced our expenses to correspond to a lower level of sales volume, and, as a result, we are taking appropriate steps to manage costs during the downturn. We 
+
+26
+
+removed approximately $500 million of expenses from the business in the fourth quarter of fiscal 2020, which reflects, in part, the reduction to our staffing levels through temporary workforce furloughs and permanent reductions in force. We began to realize the benefits of these changes beginning in our fourth quarter of fiscal 2020, and the permanent changes are expected to deliver an annualized benefit of approximately $350 million. 
+
+Third, we created new sources of revenue, including from our existing restaurant customers. These include helping approximately 16,000 of our customers to set up “pop-up shops” in their dining areas. We have also helped customers with reopening plans, such as patio and outdoor dining options and a shortened, more focused menu, as well as with the technological capability to start a website. We have helped customers connect to preferred delivery partners and setup take-out menus and other support for their “to go” offerings. The quick service restaurant segment continues to thrive in the current environment, as the volume of “to go” and drive-through orders has gained steady momentum. 
+
+Lastly, we have provided products for cleaning, sanitation and personal protection, without disruption, so that our customers may continue business operations, and have shifted sales to serve the retail grocery channel. Prior to the COVID-19 pandemic, approximately 50% of food consumption within the U.S. had been occurring away from home, and the remainder had been taking place inside the home. The COVID-19 pandemic has changed the balance and shifted more purchases to the retail grocery channel. As a result, we have pivoted our distribution model to include retail, grocer and new supply chain partnerships, sectors that we essentially did not serve prior to the COVID-19 crisis. This has created long-term relationships with smaller, regional, retail grocers where we can add value through items such as quality proteins and fresh produce where our buying advantage is helpful for them in the long-term. 
+
+Highlights and Trends
+
+Our fiscal 2020 results were significantly impacted by the COVID-19 pandemic. We quickly responded by strengthening our balance sheet, adding new and different types of customers, and strategically committing resources to plan for the eventual return of demand. 
+
+ Below is a comparison of results from fiscal 2020 to fiscal 2019:
+
+•Sales:
+
+◦decreased 12.0%, or $7.2 billion, to $52.9 billion;
+
+•Operating income:
+
+◦decreased 67.8%, or $1.6 billion, to $749.5 million;
+
+◦adjusted operating income decreased 37.4%, or $1.0 billion, to $1.7 billion;
+
+•Net earnings:
+
+◦decreased 87.1%, or $1.5 billion, to $215.5 million;
+
+◦adjusted net earnings decreased 44.4%, or $824.8 million, to $1.0 billion;
+
+•Basic earnings per share:
+
+◦decreased 87.0%, or $2.82, to $0.42 from the comparable prior year amount of $3.24 per share;
+
+•Diluted earnings per share:
+
+◦decreased 86.9%, or $2.78, to $0.42 from the comparable prior year amount of $3.20 per share; and
+
+◦adjusted diluted earnings per share were $2.01 in fiscal 2020, a 43.4% decrease from the comparable prior year amount of $3.55 per share.
+
+Trends
+
+Economic and Industry Trends 
+
+The COVID-19 pandemic has significantly negatively affected economic and industry trends, primarily in the form of increased unemployment and significantly lower levels of activity in the food-away-from-home market. However, in May and June 2020, we experienced steady and consistent week-over-week sales improvement concurrently with re-openings of the economies of the countries and states in which we operate. In July 2020, as COVID-19 cases began increasing in certain locations, the business recovery flattened; however, we have experienced weekly improvements in sales again in August 2020. We believe consumers are experiencing fatigue with food-at-home and are ready to reengage with restaurants; however, the speed and pace of the re-engagement will be dictated by the restrictions that are placed on the industry. As long as there are safe ways to access restaurant-quality meals, we believe that consumers are ready to eat away from home. 
+
+Sales and Gross Profit Trends
+
+27
+
+Our sales and gross profit performance can be influenced by multiple factors, including price, volume, product mix and the impact of the COVID-19 pandemic. The majority of our sales are to locally managed customers and national customers. Our locally managed customers, including independent restaurant customers, represent a greater percentage of our profitability as compared to national customers. Case growth with our locally managed broadline business is important to drive gross profit dollar growth. Our sales to national customers, including chain restaurants and multi-locational restaurants, also comprise a significant portion of our overall volumes. Gross margin on sales to our national customers is generally lower than on sales to other types of customers due to the higher volumes we sell to these customers. In the U.S., prior to the COVID-19 pandemic, we had a greater customer mix with locally managed customers; however, during the crisis, our national customers have experienced greater consumer demand, which has changed our sales mix and resulted in lower gross margins. We have also experienced customer closures that have impacted our customer mix; however, based on industry data, Sysco has experienced a lower rate of customer closings as compared to the foodservice industry as a whole. Sysco has the ability to shift focus across all segments throughout the foodservice industry, whether local or national. Since the beginning of the pandemic, we have added $1.0 billion of new national customer business on an annualized basis. 
+
+An additional impact of the COVID-19 pandemic has been the need to use price reductions to move inventory to avoid spoilage. These price reductions were more prevalent in the beginning of the fourth quarter of fiscal 2020, and their use declined as the quarter progressed. We expect gross margin to continue to reflect our sales mix changes, but otherwise to remain stable in fiscal 2021. 
+
+Additional items have impacted our sales and gross profit performance, including the divestiture of Iowa Premium in the fourth quarter of fiscal 2019 and the negative impact of foreign exchange rates. A strengthening U.S. dollar negatively affected total Sysco sales growth by 0.3% for fiscal 2020 and negatively impacted sales growth for our International Foodservice Operations by 1.7% for fiscal 2020, as we translated our foreign sales due to foreign currency exchange rate changes. Partially offsetting these declines, we experienced continued growth in penetration of our Sysco brand portfolio and product price inflation. Our Sysco branded product sales to U.S. broadline local customers represented 46.8% of cases sold. We experienced inflation at a rate of 1.8% during fiscal 2020, primarily in the beef and dairy products categories. We anticipate sales in fiscal 2021 to be stronger than the exit rate of fiscal 2020, even with a choppy recovery. 
+
+Operating Expense Trends
+
+Total operating expenses increased 0.8% during fiscal 2020, as compared to fiscal 2019. The largest contributor to the increase was an additional charge for our allowance for doubtful accounts as a result of the COVID-19 pandemic. Many of Sysco’s customers, including those in the restaurant, hospitality and education segments, are closed or operating at a substantially reduced volume due to governmental requirements for closures or other social-distancing measures. Some of these customers have ceased paying their outstanding receivables, creating uncertainty as to their collectability. We have experienced an increase in past due receivables and have recognized additional bad debt charges. In fiscal 2020, we recorded a provision for losses on receivables totaling $404.2 million, of which we believe approximately $323.4 million is due to the impact of the COVID-19 pandemic on our customers, calculated by comparing our June allowance results to average results prior to the COVID-19 pandemic, with excess amounts being a reasonable estimate of what the reserve for the allowance for doubtful accounts would have been for fiscal 2020, absent the impact of the COVID-19 pandemic. 
+
+Goodwill Impairments
+
+During the second half of fiscal 2020, the company experienced significant deterioration in macroeconomic conditions and declines in equity valuations, as well as regulatory restrictions implemented in response to the COVID-19 pandemic. In the third quarter of fiscal 2020, the company determined that certain reporting units were more sensitive than others to these declines and the company performed interim quantitative goodwill impairment tests for these reporting units using a combination of discounted cash flow and earnings or revenue multiple models. As part of the annual test in the fiscal fourth quarter, the company performed further quantitative goodwill impairment tests, updating the estimates and assumptions of long-term impact resulting from the pandemic that had been applied in the fiscal third quarter tests, where necessary. As a result, in the third quarter of fiscal 2020 the company recorded impairments to goodwill for the Pacific Star and Cake reporting units of $34.9 million and $34.2 million, respectively, which represented the full balance of goodwill for those reporting units. During the fourth quarter of fiscal 2020, the company recorded partial impairments to goodwill for the France Group and Fresh Direct reporting units of $108.7 million and $25.4 million respectively, for total fiscal 2020 impairment charges of $203.2 million.
+
+Cost-out Measures
+
+The COVID-19 crisis has compelled us to take action to reduce costs by reducing variable expenses in response to reduced customer demand, aligning inventory to current sales trends, reducing capital expenditures to only urgent projects and 
+
+28
+
+tightly managing receivables. These actions produced savings in the fourth quarter of fiscal 2020. We have reduced pay-related expenses through temporary and permanent layoffs across the organization, most of which occurred late in the third quarter of fiscal 2020. These actions resulted in an increase in severance charges in the second half of fiscal 2020. 
+
+We believe that the cost reductions implemented to date have removed approximately $350 million in structural annualized costs from the business. 
+
+Status of Supply Chain Disruptions and Facility Closures
+
+Although our business continues to face challenges associated with decreased customer demand and increased costs directly related to the COVID-19 crisis, to date we have not experienced any significant disruptions to our supply chain, significant distribution facility closures or disposals of significant assets or lines of business. During fiscal 2020, we assessed the value of assets held for sale, primarily land and buildings, and recognized a write-down charge of $55.9 million. The majority of this charge related to our shared-service center, with plans established to sell this property and combine these operations into our corporate office. The foodservice distribution industry is considered to be an essential industry and, as such, we expect our supply chain and facilities to remain in place and operational in the current environment and in the event of worsening macroeconomic conditions in connection with a prolonged downturn.
+
+Income Tax Trends
+
+Our provision for income taxes primarily reflects a combination of income earned and taxed in the various U.S. federal and state, as well as foreign, jurisdictions. Tax law changes, increases or decreases in book versus tax basis differences, accruals or adjustments of accruals for unrecognized tax benefits or valuation allowances, and our change in the mix of earnings from these taxing jurisdictions all affect the overall effective tax rate. The impact of the COVID-19 pandemic may change our mix of earnings by jurisdiction and has increased the risk that operating losses may occur within certain of our jurisdictions that could lead to the recognition of valuation allowances against certain deferred tax assets in the future, if these losses are prolonged beyond our current expectations. These effects would negatively impact our income tax expense, net earnings, and balance sheet.
+
+Our effective tax rate has been influenced by discrete events, such as tax law changes and excess tax benefits attributable to equity compensation exercises as discussed in Note 20, “Income Taxes,” in the Notes to Consolidated Financial Statements in Item 8. In fiscal 2021, we expect our effective tax rate to be approximately 24%.
+
+Mergers and Acquisitions
+
+We continue to be focused on mergers and acquisitions as a part of our strategy. We completed the following acquisitions in fiscal 2020 within our U.S. Foodservice Operations as follows:
+
+•In the first quarter of fiscal 2020, we acquired J. Kings Food Service Professionals, a New York broadline distributor with approximately $150 million in annual revenue. 
+
+•In the second quarter of fiscal 2020, we acquired Armstrong Produce and Kula Produce, a Hawaii-based broadline fresh produce wholesaler and distributor with approximately $155 million in combined annual revenue.
+
+Strategy 
+
+Fiscal 2020 was the third year in our three-year plan that was established in fiscal 2018 and included our strategic and financial objectives through fiscal 2020. During the second half of fiscal 2020, the company experienced a significant reduction in customer demand resulting from the continued spread of COVID-19. Due to the rapidly evolving impact of the COVID-19 pandemic on our financial results and the uncertainty related to its duration, we withdrew our guidance for the three-year plan ending fiscal 2020.
+
+In response to the current environment, we have identified four key areas of focus as we manage the business in the near-term and prepare the company for recovery once the COVID-19 crisis subsides. First, we have taken actions to strengthen our overall liquidity. Second, we are focused on stabilizing the business by removing costs. Third, we are creating new sources of revenue by helping our restaurant customers succeed under pandemic conditions. Fourth, we are providing products for cleaning, sanitation, and personal protection, without disruptions, so that our customers may continue their business operations.
+
+While our response to the COVID-19 pandemic has been a primary focus, we have also accelerated our transformation initiatives that are intended to improve how we serve our customers, differentiate Sysco from our competitors and transform the industry. First, we have accelerated our work to become a more digitally enabled company. We are investing to improve our 
+
+29
+
+digital order entry platform, Sysco Shop. We are also deploying a digital pricing tool that will help us increase sales, expand margins and provide additional transparency to customers. Second, we are transforming our sales model to make it easier for customers to do business with Sysco and to increase the effectiveness of our sales teams. We have aligned incentives of the sales force more closely with our business objectives and with our goal of increasing the partnership of sales teams across the multiple lines of business. Third, we are regionalizing our operations in the U.S. Through regionalization, we expect to be more efficient as a company and more agile with our decision making, and we will be able to execute against strategies in a more efficient manner. Regionalization is a new leadership structure for our U.S. broadline business, as we will move from six markets comprised of 76 operating companies to four markets that consist of approximately 30 regions, each made up of 2 to 3 operating sites. We are not closing any physical distribution locations with this change, and we are retaining our local drivers, warehouse associates and sales force to support our customers. Fourth, we are removing structural fixed costs from our business and becoming a more efficient company. We have identified and implemented actions to remove approximately $350 million of annualized, permanent costs from the business for fiscal 2021. We have identified additional cost opportunities that are expected to generate savings in fiscal 2022 and beyond. These combined efforts are collectively referred to as our corporate modernization. 
+
+See “Non-GAAP Reconciliations” below for an explanation of adjusted operating income and adjusted return on invested capital, which are non-GAAP financial measures.
+
+Results of Operations
+
+The following table sets forth the components of our consolidated results of operations expressed as a percentage of sales for the periods indicated:
+
+[DATA_TABLE_REMOVED]
+
+30
+
+The following table sets forth the change in the components of our consolidated results of operations expressed as a percentage increase or decrease over the comparable period in the prior year:
+
+[DATA_TABLE_REMOVED]
+
+(1)Other expense (income), net was expense of $47.9 million in fiscal 2020 and income of $36.1 million in fiscal 2019.
+
+Segment Results
+
+The following represents our results by reportable segments:
+
+[DATA_TABLE_REMOVED]
+
+NM represents that the percentage change is not meaningful.
+
+[DATA_TABLE_REMOVED]
+
+31
+
+Based on information in Note 22, “Business Segment Information,” in the Notes to Consolidated Financial Statements in Item 8, in fiscal 2020, U.S. Foodservice Operations and International Foodservice Operations represented approximately 69.5% and 18.3%, respectively, of Sysco’s overall sales, compared to 68.7% and 19.1%, respectively, in fiscal 2019. In fiscal 2020, U.S. Foodservice Operations represented approximately 121.6% of the total segment operating income. In fiscal 2019, U.S. Foodservice Operations and International Foodservice Operations represented approximately 94.1% and 3.9%, respectively, of total segment operating income. This illustrates that these segments represent a substantial majority of our total segment results when compared to other reportable segments.
+
+Cost of sales primarily includes our product costs, net of vendor consideration, and includes in-bound freight. Operating expenses include the costs of facilities, product handling, delivery, selling and general and administrative activities. Fuel surcharges are reflected within sales and gross profit; fuel costs are reflected within operating expenses. Along with sales, operating income is the most relevant measure for evaluating segment performance and allocating resources, as operating income includes cost of goods sold, as well as the costs to warehouse and deliver goods, which are significant and relevant costs when evaluating a distribution business.
+
+Results of U.S. Foodservice Operations
+
+In fiscal 2020, the U.S. Foodservice Operations operating results represented approximately 69.5% of Sysco’s overall sales and 121.6% of the aggregated operating income of Sysco’s reporting segments. Several factors contributed to these higher operating results as compared to the other operating segments. We have invested substantial amounts in assets, operating methods, technology and management expertise in this segment. The breadth of its sales force, geographic reach of its distribution area and its purchasing power enable this segment to generate its relatively stronger results of operations.
+
+The following tables set forth a summary of the components of operating income and adjusted operating income expressed as a percentage increase or decrease over the prior year:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+The following table sets forth the percentage and dollar value increase or decrease in sales over the prior year in order to demonstrate the cause and magnitude of change.
+
+32
+
+[DATA_TABLE_REMOVED]
+
+(1)Case volume excludes the volume impact from our custom-cut meat and seafood companies that do not measure volume in cases. Any impact in volumes from these operations are included within “Other.”
+
+(2)Approximately $439 million of this decrease for fiscal 2020 results from Sysco’s sale of its interest in Iowa Premium in the fourth quarter of fiscal 2019.
+
+Sales were 10.9% lower in fiscal 2020 than in fiscal 2019. The largest driver of the decrease was the significant decline in case volume in our U.S. Broadline operations, as the COVID-19 pandemic forced some of our customers to close and many others to operate at a substantially reduced volume. Case volumes for the company’s U.S. Broadline operations, including acquisitions within the last 12 months, decreased 11.2% in fiscal 2020 compared to fiscal 2019 and included a 9.6% decline in locally managed customer case growth, along with a decrease of 13.0% in national customer case volume, including chain restaurants and multi-locational restaurants. Sales from acquisitions within the last 12 months favorably impacted locally managed customer sales by 1.0%; therefore, organic local case volume, which excludes acquisitions, decreased 10.6%.
+
+Sales were 4.2% higher in fiscal 2019 than in fiscal 2018. The largest drivers of the increase were case volume growth in our U.S. Broadline operations and the impact of product cost inflation. Case volumes for the company’s U.S. Broadline operations, including acquisitions within the last 12 months, increased 2.7% in fiscal 2019 compared to fiscal 2018 and included a 3.1% improvement in locally managed customer case growth, along with an increase of 2.3% in national customer case volume, including chain restaurants and multi-locational restaurants. Sales from acquisitions within the last 12 months favorably impacted locally managed customer sales by 0.9%; therefore, organic local case volume, which excludes acquisitions, grew 2.2%.
+
+Operating Income
+
+Operating income decreased by 33.0% in fiscal 2020 over fiscal 2019, as our decline in gross profits outpaced our reduction of operating expenses. 
+
+Gross profit dollars decreased 12.1% in fiscal 2020, as compared to fiscal 2019, driven primarily by the decline in local cases, partially offset by higher inflation and growth in Sysco-branded products. The estimated change in product costs, an internal measure of inflation or deflation, for fiscal 2020 for our U.S. Broadline operations was inflation of 1.8%. For fiscal 2020, this change in product costs was primarily driven by inflation in the meat and dairy products categories. Our Sysco brand sales to local customers decreased by approximately 24 basis points for fiscal 2020. Gross margin, which is gross profit as a percentage of sales, was 19.73% in fiscal 2020, representing a decrease of 25 basis points from the gross margin of 19.98% in fiscal 2019, primarily attributable to a temporary shift in customer mix as a result of the current operating environment and pricing reductions to help move inventory and avoid spoilage.
+
+Operating expenses for fiscal 2020 decreased 0.1%, or $5.7 million, compared to fiscal 2019. Our decline in operating expenses during fiscal 2020 was primarily driven by permanent cost reductions and productivity measures, largely offset by an increase in bad debt expense attributable to the COVID-19 pandemic’s impact on our customers’ ability to pay their outstanding receivables. These operations also experienced reduced incentive compensation expense, as the company’s financial performance with regard to the performance metrics under the fiscal 2020 management incentive plans was below target. Operating expenses, on an adjusted basis (which is a non-GAAP financial measure for which a reconciliation is provided above), for fiscal 2020 decreased 4.7%, or $246.5 million, compared to fiscal 2019. 
+
+Operating income increased by 4.6% in fiscal 2019 over fiscal 2018, as our gross profits grew on pace with operating expenses.
+
+33
+
+Gross profit dollars increased in fiscal 2019, as compared to fiscal 2018, driven primarily by growth in sales of Sysco-branded products, year-over-year favorability of inbound freight and continued category management work. Our case growth for Sysco-branded sales to local customers increased 50 basis points in fiscal 2019. Additionally, our customer mix has continued to improve, as we grew local cases at a faster pace than total cases. The change in product costs, an internal measure of inflation or deflation, was estimated as inflation of 1.5% during fiscal 2019 for our U.S. Broadline operations. Inflation in fiscal 2019 occurred primarily in the frozen category, principally for frozen potatoes, and the canned and dry, paper and disposables and produce categories.
+
+Operating expenses increased in fiscal 2019, as compared to fiscal 2018, primarily due to increased costs in both transportation and warehouse resulting from the tight labor market combined with seasonal hiring of driver and warehouse staff, which drove increased operational costs on a per unit basis as volume softened in the fourth quarter of fiscal 2019. An increase in our provisions for losses on receivables has also contributed to the increase in operating expenses primarily due to stronger performance in collections and recoveries of previously written off receivables in fiscal 2018 as compared to fiscal 2019.
+
+Results of International Foodservice Operations
+
+In fiscal 2020, the International Foodservice Operations operating results represented approximately 18.3% of Sysco’s overall sales. 
+
+The following tables set forth a summary of the components of operating income and adjusted operating income expressed as a percentage increase or decrease over the prior year:
+
+[DATA_TABLE_REMOVED]
+
+Sales
+
+The following table sets forth the percentage and dollar value increase or decrease in sales over the comparable prior year period in order to demonstrate the cause and magnitude of change.
+
+[DATA_TABLE_REMOVED]
+
+(1)The impact of volumes as a component of sales growth from international operations are included within “Other.” Volume in our foreign operations includes volume metrics that differ from country to country and cannot be aggregated on a consistent comparable basis.
+
+34
+
+Sales for fiscal 2020 were 15.8% lower, as compared to fiscal 2019, primarily due to the significant decline in volumes in our Europe and Canada operations, as the COVID-19 pandemic forced some of our customers to close and many others to operate at a substantially reduced volume. Our business in Europe has decreased significantly, as governments have issued “stay-at-home” orders that have resulted in a decline in restaurant traffic. Restaurant sales in Canada have decreased, as consumers are practicing isolation measures to protect health and safety. For our Latin American businesses, the impact of COVID-19 has been most prominent in Mexico, where sales decreased more rapidly. In Costa Rica, our cash and carry stores are helping to offset the decrease in sales from restaurants.
+
+Operating Income
+
+Operating income decreased by $496.9 million for fiscal 2020, as compared to fiscal 2019, due to the decline in business resulting from the reductions in our customers’ business attributable to the COVID-19 pandemic and from our ongoing restructuring and integration work in our European operations and facility consolidations in our Canadian operations. Our business in France continued to experience operational challenges arising from our integration efforts. Restructuring and business transformation charges also negatively affected our U.K. operations as we continue our efforts related to modernizing the business and growing our customer base. Operating income, on an adjusted basis, decreased by $246.8 million, or 69.6%, for fiscal 2020, as compared to fiscal 2019. Foreign exchange rates negatively affected operating income by 0.7%; therefore, adjusted operating income decreased by 70.3% on a constant currency basis. 
+
+Gross profit dollars decreased by 18.3% in fiscal 2020, as compared to fiscal 2019, primarily attributable to decreased sales. Changes in foreign exchange rates that negatively affected gross profit by 1.8%, resulting in a 16.5% increase in adjusted gross profit on a constant currency basis.
+
+Operating expenses for fiscal 2020 increased 2.6%, or $59.9 million, as compared to fiscal 2019, primarily due to increased restructuring and integration charges being incurred in France. We incurred restructuring charges of $191.9 million primarily relating to restructuring and integration in France and the U.K. and the largely completed facility consolidation in our Canadian operations during fiscal 2020, as compared to $152.9 million of restructuring charges in fiscal 2019. Additionally, we incurred $88.3 million of excess bad debt expense related to the COVID-19 pandemic. Operating expenses, on an adjusted basis, for fiscal 2020, decreased 9.3%, or $190.2 million, compared to fiscal 2019. Changes in foreign exchange rates used to translate our foreign operating expenses into U.S. dollars positively affected operating expenses during the period by 2.2%, resulting in a 7.1% decrease in adjusted operating expenses on a constant currency basis.
+
+Results of SYGMA and Other Segment
+
+For SYGMA, sales were 11.0% lower in fiscal 2020 as compared to fiscal 2019, primarily from a decline in case volume due to the decrease in customer demand as a result of the COVID-19 pandemic, although the quick-service and drive-thru restaurants served by SYGMA continue to experience less of a downturn compared to other restaurant types. Operating income increased by $9.1 million in fiscal 2020, as compared to fiscal 2019, due to our focus on expense reductions through business and routing optimization. This performance reflects SYGMA’s ability to gain new customers and operate efficiently throughout the crisis.
+
+For the operations that are grouped within Other, operating income decreased $57.2 million in fiscal 2020, as compared to fiscal 2019. Guest Supply gross profit decreased 20.9% in fiscal 2020, as the business faced challenges resulting from the significant impact of the COVID-19 pandemic on the hotel industry.
+
+Corporate Expenses
+
+Corporate expenses in fiscal 2020 increased $47.0 million, or 5.5%, as compared to fiscal 2019, primarily due to costs associated with the business impact of the COVID-19 crisis, including severance charges related to permanent workforce reductions and goodwill impairment charges. Charges for professional fees and other business transformation initiatives, increased liability claims and expenses associated with our recent leadership change also contributed to the increase. These increases were partially offset by reduced incentive compensation expense, as the company’s financial performance with regard to the performance metrics under the fiscal 2020 management incentive plans was below target. Corporate expenses, on an adjusted basis, decreased $2.2 million, or 0.3%, as compared to fiscal 2019. 
+
+Included in corporate expenses are Certain Items that totaled $220.3 million in fiscal 2020, as compared to $171.1 million in fiscal 2019. Certain Items impacting fiscal 2020 and fiscal 2019 were primarily expenses associated with our various transformation initiatives, severance charges arising from the COVID-19 pandemic and goodwill impairment charges.
+
+35
+
+Corporate expenses in fiscal 2019 increased $63.2 million, or 8.1%, as compared to fiscal 2018, due primarily to an increase in expenses related to our business technology initiatives, including accelerated depreciation on certain enterprise resource planning (ERP) systems and software platforms that we are no longer using, along with higher pay-related expenses, partly driven by higher severance and relocation charges. Corporate expenses, on an adjusted basis, decreased $16.9 million, or 2.5%, as compared to fiscal 2018. 
+
+Interest Expense
+
+Interest expense increased $47.8 million in fiscal 2020, as compared to fiscal 2019, primarily attributable to higher fixed debt volume, partially offset by lower floating interest rates.
+
+Net Earnings
+
+Net earnings declined 87.1% in fiscal 2020 as compared to the prior year, due primarily to the items noted above for operating income and interest expense, as well as items impacting our income taxes that are discussed in Note 16, “Income Taxes,” in the Notes to Consolidated Financial Statements in Item 8. Adjusted net earnings, excluding Certain Items, decreased 44.4% in fiscal 2020, primarily due to a significant decrease in sales volume, partially offset by a favorable tax expense comparison to the prior year.
+
+Earnings Per Share
+
+Basic earnings per share in fiscal 2020 were $0.42, an 87.0% decrease from the comparable prior year period amount of $3.24 per share. Diluted earnings per share in fiscal 2020 were $0.42, an 86.9% decrease from the comparable prior year period amount of $3.20 per share. Adjusted diluted earnings per share, excluding Certain Items, in fiscal 2020 were $2.01, a 43.4% decrease from the comparable prior year period amount of $3.55 per share. These results were primarily attributable to the factors discussed above related to net earnings in fiscal 2020.
+
+36
+
+Non-GAAP Reconciliations
+
+Sysco’s results of operations for fiscal 2020, fiscal 2019 and fiscal 2018 were impacted by restructuring and transformational project costs consisting of: (1) expenses associated with our various transformation initiatives; (2) severance and facility closure charges; and (3) restructuring charges. All acquisition-related costs in fiscal 2020, fiscal 2019 and fiscal 2018 that have been designated as Certain Items relate to the Brakes Acquisition. These include acquisition-related intangible amortization expense. Fiscal 2020 results of operations were also negatively impacted by costs arising from the COVID-19 pandemic, the most significant including (1) excess bad debt expense, (2) goodwill and intangibles impairment charges and (3) fixed asset impairment charges. These are the only items that have been adjusted as Certain Items. Our adjusted results have not been normalized in a manner that would exclude the full impact of the COVID-19 pandemic on our business. As such, Sysco has not adjusted its results for lost sales, inventory write-offs or other costs associated with the COVID-19 pandemic. Many of Sysco’s customers, including those in the restaurant, hospitality and education segments, are closed or operating at a substantially reduced volume due to governmental requirements for closures or other social-distancing measures. Some of these customers have ceased paying their outstanding receivables, creating uncertainty as to their collectability. We have experienced an increase in past due receivables and have recognized additional bad debt charges. Prior to the COVID-19 pandemic, our allowance was primarily based on historical loss experience. Since the crisis began, our write-off percentages have been based, not only on historical loss experience, but also on our experience with losses incurred during times of local and regional disasters. The COVID-19 pandemic is more widespread and longer in duration than historical disasters impacting our business, and it is possible that actual uncollectible amounts will differ and additional charges may be required in fiscal 2021. We have estimated the amount attributable to the impact of the COVID-19 pandemic on our customers by comparing our June allowance results to average results for periods ended prior to the onset of the COVID-19 pandemic, with excess amounts being a reasonable estimate of what the reserve for the allowance for doubtful accounts would have been for fiscal 2020, absent the impact of the COVID-19 pandemic. Because the COVID-19 pandemic is more widespread and longer in duration than historical disasters impacting our business, it is possible that actual uncollectible amounts will differ and additional charges may be required in fiscal 2021. Although Sysco traditionally incurs bad debt expense, the magnitude of such expenses that we have experienced since March 2020 is not indicative of our normal operations. Fiscal 2019 results of operations included the gain on the sale of Iowa Premium and the impact of recognizing a foreign tax credit. Fiscal 2018 results of operations were additionally impacted by multiemployer pension plan (MEPP) withdrawal charges. These fiscal 2020, fiscal 2019 and fiscal 2018 items are collectively referred to as “Certain Items.” The results of our foreign operations can be impacted by changes in exchange rates applicable to converting from local currencies to U.S. dollars. We measure our International Foodservice Operations results on a constant currency basis. Our discussion below of our results includes certain non-GAAP financial measures that we believe provide important perspective with respect to underlying business trends. Other than free cash flow, any non-GAAP financial measures will be denoted as adjusted measures and exclude the impact from Certain Items, and certain metrics are stated on a constant currency basis.
+
+The results of our foreign operations can be impacted due to changes in exchange rates applicable in converting local currencies to U.S. dollars. We measure our International Foodservice Operations results on a constant currency basis. Constant currency operating results are calculated by translating current-period local currency operating results with the currency exchange rates used to translate the financial statements in the comparable prior-year period to determine what the current-period U.S. dollar operating results would have been if the currency exchange rate had not changed from the comparable prior-year period.
+
+Management believes that adjusting its operating expenses, operating income, other (income) expense, net, net earnings and diluted earnings per share to remove these Certain Items and presenting its International Foodservice Operations results on a constant currency basis, provides an important perspective with respect to our underlying business trends and results and provides meaningful supplemental information to both management and investors that (1) is indicative of the performance of the company’s underlying operations, facilitating comparisons on a year-over-year basis and (2) removes those items that are difficult to predict and are often unanticipated and that, as a result, are difficult to include in analysts’ financial models and our investors’ expectations with any degree of specificity.
+
+Although Sysco has a history of growth through acquisitions, the Brakes Group was significantly larger than the companies historically acquired by Sysco, with a proportionately greater impact on Sysco’s consolidated financial statements. Accordingly, Sysco is excluding from its non-GAAP financial measures for the relevant period solely those acquisition costs specific to the Brakes Acquisition. We believe this approach significantly enhances the comparability of Sysco’s results for fiscal 2020, fiscal 2019 and fiscal 2018.
+
+37
+
+Set forth below is a reconciliation of sales, operating expenses, operating income, interest expense, net earnings and diluted earnings per share to adjusted results for these measures for the periods presented. Individual components of diluted earnings per share may not add up to the total presented due to rounding. Adjusted diluted earnings per share is calculated using adjusted net earnings divided by diluted shares outstanding.
+
+[DATA_TABLE_REMOVED]
+
+38
+
+[DATA_TABLE_REMOVED]
+
+(1)Fiscal 2020 includes $265 million related to restructuring, severance and facility closure charges, of which $99 million relates to severance charges. Fiscal 2020 also includes $106 million related to various transformation initiative costs, primarily consisting of changes to our business technology strategy. Fiscal 2019 includes $174 million related to severance, restructuring and facility closure charges in Europe and Canada and at Corporate, of which $61 million relates to our France restructuring (i.e. our integration of Brake France and Davigel into Sysco France), and $151 million related to various transformation initiatives costs, of which $18 million relates to accelerated depreciation with regard to software that was replaced. 
+
+(2)Fiscal 2020 and fiscal 2019 include $65 million and $77 million, respectively, related to intangible amortization expense from the Brakes Acquisition, which is included in the results of International Foodservice and integration costs in fiscal 2019.
+
+(3)
+
+The tax impact of adjustments for Certain Items are calculated by multiplying the pretax impact of each Certain Item by the statutory rates in effect for each jurisdiction where the Certain Item was incurred.
+
+(4)
+
+Individual components of diluted earnings per share may not add up to the total presented due to rounding. Total diluted earnings per share is calculated using adjusted net earnings divided by diluted shares outstanding.
+
+NM represents that the percentage change is not meaningful.
+
+39
+
+Set forth below is a reconciliation by segment of actual operating expenses and operating income to adjusted results for these measures for the periods presented (dollars in thousands):
+
+[DATA_TABLE_REMOVED]
+
+40
+
+[DATA_TABLE_REMOVED]
+
+41
+
+(1)
+
+Includes charges related to restructuring and business transformation projects.
+
+(2)
+
+Represents a constant currency adjustment, which eliminates the impact of foreign currency fluctuations on current year results.
+
+(3)
+
+Includes restructuring, severance and facility closure costs in Europe and Canada.
+
+(4)Fiscal 2020 and fiscal 2019 include $65 million and $77 million, respectively, related to intangible amortization expense from the Brakes Acquisition.
+
+(5)Includes charges related to facility closures and other restructuring charges.
+
+(6)Fiscal 2020 and fiscal 2019 include various transformation initiative costs, primarily consisting of changes to our business technology strategy and severance related to restructuring. Fiscal 2020 also includes severance charges incurred in response to the COVID-19 pandemic. Fiscal 2019 includes $18 million of accelerated depreciation on software that was replaced and severance charges related to restructuring. 
+
+(7)Fiscal 2019 includes integration costs from the Brakes Acquisition.
+
+*The “Impact of currency fluctuations” reported in the table above for fiscal 2020 reflects an immaterial change from the corresponding amount reported in Sysco’s fourth fiscal quarter 2020 earnings release furnished pursuant to a Form 8-K dated August 11, 2020. For a corrected copy of the earnings release reflecting this immaterial change, see Sysco’s Investor Relations website. Unless expressly incorporated by reference, information contained on or made available through our website is not a part of this report.
+
+NM represents that the percentage change is not meaningful.
+
+[DATA_TABLE_REMOVED]
+
+(1)Fiscal 2019 and fiscal 2018 include various transformation initiative costs, primarily consisting of changes to our business technology strategy. Fiscal 2019 includes $18 million of accelerated depreciation on software that is being replaced, and severance charges related to restructuring.
+
+(2)Fiscal 2019 and fiscal 2018 include $1 million and $18 million, respectively, related to integration costs from the Brakes Acquisition.
+
+Liquidity and Capital Resources
+
+Highlights
+
+Below are comparisons of the cash flows from fiscal 2020 to fiscal 2019:
+
+•Cash flows from operations were $1.6 billion in fiscal 2020, compared to $2.4 billion in fiscal 2019;
+
+42
+
+•Net capital expenditures totaled $691.7 million in fiscal 2020, compared to $671.5 million in fiscal 2019;
+
+•Free cash flow was $927.0 million in fiscal 2020, compared to $1.7 billion in fiscal 2019 (see “Non-GAAP Reconciliation” below under the heading “Free Cash Flow” for an explanation of this non-GAAP financial measure);
+
+•Cash used for acquisition of businesses was $142.8 million in fiscal 2020, compared to $106.6 million in fiscal 2019;
+
+•Cash proceeds from the sale of a business were $149.9 million in fiscal 2019;
+
+•There were $616.7 million of commercial paper issuances and net bank borrowings in fiscal 2020, compared to $132.1 million of commercial paper issuances and net bank borrowings in fiscal 2019;
+
+•Dividends paid were $856.3 million in fiscal 2020, compared to $775.4 million in fiscal 2019; and
+
+•Cash paid for treasury stock repurchases was $844.7 million in fiscal 2020, compared to $1.0 billion in fiscal 2019.
+
+In addition, we issued an aggregate of $5.0 billion in new senior notes in fiscal 2020.
+
+In response to the ongoing COVID-19 pandemic and its impact on our working capital, as well as the uncertainty regarding our ability to generate cash flow in the near term, we borrowed a total of $1.8 billion under our long-term revolving credit facility in the second half of fiscal 2020. As of June 27, 2020, there were $700.0 million in borrowings outstanding under this facility. In fiscal 2020, Sysco entered into a new unrelated commercial paper program in the U.K. allowing the company to issue short-term unsecured notes in an aggregate amount not to exceed £600.0 million. As of June 27, 2020, there were £600.0 million in borrowings outstanding under this commercial paper program. Sysco also established a 364-day credit facility in the amount of $750.0 million scheduled to expire on May 19, 2021. As of June 27, 2020, there were no borrowings under this credit facility. During fiscal 2020, aggregate outstanding commercial paper issuances, borrowings under our long-term revolving credit facility and short-term bank borrowings ranged from approximately $18.4 million to approximately $1.9 billion. In the third quarter of fiscal 2020, Sysco suspended its treasury stock repurchases and reduced capital spending. In the fourth quarter of fiscal 2020, we entered into an amendment to our long-term revolving credit facility, as described below under “Debt Activity and Borrowing Availability,” which provides for new debt covenants and requires us to suspend share repurchases and dividend increases until the earlier of September 2022 or the date on which Sysco has achieved a certain ratio of consolidated EBITDA to consolidated interest expense. As of August 7, 2020, the company has approximately $8.0 billion in cash and available liquidity. 
+
+Sources and Uses of Cash
+
+Sysco’s strategic objectives include continuous investment in our business; these investments are funded by a combination of cash from operations and access to capital from financial markets. Our operations historically have produced significant cash flow. Cash generated from operations is generally allocated to:
+
+•working capital requirements;
+
+•investments in facilities, systems, fleet, other equipment and technology;
+
+•cash dividends;
+
+•acquisitions compatible with our overall growth strategy;
+
+•debt repayments; and 
+
+•share repurchases, which are currently suspended pursuant to the amendment of our long-term revolving credit facility.
+
+Any remaining cash generated from operations may be invested in high-quality, short-term instruments. As a part of our ongoing strategic analysis, we regularly evaluate business opportunities, including potential acquisitions and sales of assets and businesses, and our overall capital structure. Any transactions resulting from these evaluations may materially impact our liquidity, borrowing capacity, leverage ratios and capital availability.
+
+43
+
+We continue to be in a strong financial position based on our balance sheet and our operating cash flows; however, our liquidity and capital resources have been significantly and negatively impacted by the reduction in sales volume resulting from the COVID-19 pandemic. Our working capital needs have been reduced and continue to decline due to decreased demand, and we are actively working with customers to receive payments on receivables, optimizing our inventory levels and maximizing our payment terms with vendors. We believe these actions will help to partially offset the unfavorable impact of the COVID-19 pandemic on our cash flows from operations. 
+
+We extend credit terms to our customers that can vary from cash on delivery to 30 days or more based on our assessment of each customer’s credit worthiness. In the ordinary course of business, customers periodically negotiate extended payment terms on trade accounts receivable. The company may utilize purchase arrangements with third-party financial institutions to transfer portions of our trade accounts receivable balance on a non-recourse basis in order to extend terms for the customer without negatively impacting our cash flow. The arrangements meet the requirements for the receivables transferred to be accounted for as sales. See Note 1, “Summary of Accounting Policies,” in the Notes to Consolidated Financial Statements in Item 8 for additional information.
+
+As of June 27, 2020, we had $6.1 billion in cash and cash equivalents, approximately 14% of which was held by our international subsidiaries generated from our earnings of international operations. If these earnings were transferred among countries or repatriated to the U.S., such amounts may be subject to withholding and additional foreign tax obligations. Additionally, Sysco Corporation has provided intercompany loans to certain of its international subsidiaries, and when interest and principal payments are made, some of this cash will move to the U.S.
+
+Our wholly owned captive insurance subsidiary (the Captive) must maintain a sufficient level of liquidity to fund future reserve payments. As of June 27, 2020, the Captive held $116.3 million of fixed income marketable securities and $36.1 million of restricted cash and restricted cash equivalents in a restricted investment portfolio in order to meet solvency requirements. We purchased $11.4 million in marketable securities in fiscal 2020 and received $20.5 million in proceeds from the sale of marketable securities in that period.
+
+We believe the following sources will be sufficient to meet our anticipated cash requirements for at least the next twelve months, while maintaining sufficient liquidity for normal operating purposes:
+
+•our cash flows from operations;
+
+•the availability of additional capital under our existing commercial paper programs, supported by our revolving credit facility and bank line of credit; and
+
+•our ability to access capital from financial markets, including issuances of debt securities, either privately or under our shelf registration statement filed with the SEC.
+
+Due to our strong financial position, we believe that we will continue to be able to effectively access the commercial paper market and long-term capital markets, if necessary.
+
+Cash Flows
+
+Operating Activities
+
+We generated $1.6 billion and $2.4 billion in cash flows from operations in fiscal 2020 and fiscal 2019, respectively. Fiscal 2020 reflects lower operating results, as well as year-over-year unfavorable comparisons accrued on expenses and accrued income taxes, partially offset by favorable comparisons on working capital.
+
+The negative comparison on accrued expenses was primarily due to an unfavorable comparison of customer rebate payments resulting from the decline in volume purchase incentives earned by our customers, an unfavorable comparison of incentive payments resulting from prior year incentive payments exceeding current year accruals, and an increase in payments associated with business technology projects.
+
+The negative comparison year-over-year with regard to our accrued income taxes is principally due to a decline in our tax liabilities resulting from our lower earnings in the second half of fiscal 2020 attributable to the COVID-19 pandemic. 
+
+Changes in working capital had a positive impact of $267.9 million on cash flows from operations period-over-period. There was a favorable comparison on accounts receivable and inventories, which was partially offset by an unfavorable comparison on accounts payable. Accounts receivable, accounts payable and inventories have all decreased, primarily due to 
+
+44
+
+significantly lower sales in fiscal 2020 resulting from the COVID-19 pandemic. We are actively adjusting our replenishment of inventory to adapt to lower volumes, while still maintaining appropriate levels of products that are critically needed in the current pandemic environment. Many of Sysco’s customers, including those in the restaurant, hospitality and education segments, are closed or operating at a substantially reduced volume due to governmental requirements for closures or other social-distancing measures. Some of these customers have ceased paying their outstanding receivables, creating uncertainty as to their collectability. In fiscal 2020, we recorded a provision for losses on receivables totaling $404.2 million, of which we believe approximately $323.4 million is due to the impact of the COVID-19 pandemic on our customers, calculated by comparing our June allowance results to average results for periods ended prior to the onset of the COVID-19 pandemic, with excess amounts being a reasonable estimate of what the reserve for the allowance for doubtful accounts would have been for fiscal 2020, absent the impact of the COVID-19 pandemic. We are working with our customers to collect past due balances, including through the use of payment plans. We have also discontinued charging interest on past due balances. We believe that we will continue to experience risk in fiscal 2021 relating to uncollectible accounts; however, we expect to collect the unreserved balance of accounts receivable held prior to the onset of the COVID-19 crisis by the end of the first quarter of fiscal 2021.
+
+We began to recognize the benefits provided in the provisions of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) in the fourth quarter of fiscal 2020, as we have deferred U.S. social security tax to future fiscal years, which has favorably impacted our cash flows from operations. We are also implementing certain types of pay, primarily with regard to our warehouse and delivery associates that, under the provisions of the CARES Act, will generate additional payroll tax credits over time. 
+
+We do not intend to seek, and have not since the onset of the pandemic sought, assistance from the U.S government; however, we are encouraging our customers to seek assistance where appropriate.
+
+Investing Activities
+
+Fiscal 2020 capital expenditures included:
+
+•buildings and building improvements; 
+
+•fleet replacements;
+
+•investments in technology; and
+
+•warehouse equipment.
+
+Fiscal 2019 capital expenditures included:
+
+•buildings and building improvements; 
+
+•investments in technology;
+
+•fleet replacements; and
+
+•warehouse equipment.
+
+The level of gross capital expenditures in fiscal 2020 increased $28.0 million as compared to fiscal 2019.
+
+ In order to preserve our liquidity in response to the COVID-19 crisis, we have reduced our expected capital expenditures by eliminating capital projects that are not urgently needed for our business and were not significantly underway. 
+
+During fiscal 2020, the company paid cash of $142.8 million for acquisitions, net of cash acquired, including the acquisitions of J. Kings Food Service Professionals, Armstrong Produce, and Kula Produce. 
+
+During fiscal 2019, the company paid cash of $106.6 million for acquisitions, net of cash acquired, including Waugh Foods, Inc., J & M Wholesale Meats and Imperio Foods, Inc. within U.S. Foodservice operations, Classic Drinks and the remaining interest in Iowa Premium, making the previously consolidated entity a wholly owned subsidiary, which was subsequently sold in the fourth quarter of fiscal 2019. 
+
+During fiscal 2019, the company received $149.9 million in proceeds from the sale of a business. These dispositions resulted in a recognized gain of $66.3 million, which is included within Other income in the consolidated results of operations. 
+
+Free Cash Flow
+
+45
+
+Our free cash flow for fiscal 2020 decreased by $812.8 million, to $927.0 million, as compared to fiscal 2019, principally as a result of a decrease in cash flows from operations and year-over-year increased capital expenditures. 
+
+Non-GAAP Reconciliation
+
+Free cash flow should not be used as a substitute for the most comparable GAAP measure in assessing the company’s liquidity for the periods presented. An analysis of any non-GAAP financial measure should be used in conjunction with results presented in accordance with GAAP. See “Key Performance Indicators” for further discussion regarding this non-GAAP financial measure. In the table that follows, free cash flow for each period presented is reconciled to net cash provided by operating activities.
+
+[DATA_TABLE_REMOVED]
+
+Financing Activities
+
+Equity Transactions
+
+Proceeds from exercises of share-based compensation awards were $227.6 million and $253.1 million in fiscal 2020 and fiscal 2019, respectively. The level of option exercises, and thus proceeds, will vary from period to period and is largely dependent on movements in our stock price and the time remaining before option grants expire.
+
+We have routinely engaged in share repurchase programs to allow Sysco to continue offsetting dilution resulting from shares issued under the company’s benefit plans and to make opportunistic repurchases. In November 2017, our Board of Directors approved a repurchase program to authorize the repurchase of the company’s common stock not to exceed $1.5 billion through the end of fiscal 2020. In August 2019, our Board of Directors approved a separate repurchase program to authorize the repurchase of the company’s common stock not to exceed $2.5 billion through the end of fiscal 2021. We repurchased 11.1 million shares for $844.7 million in fiscal 2020, compared to 15.0 million shares repurchased in fiscal 2019 for $1.0 billion. During March 2020, we discontinued share repurchases under the program, and pursuant to the amendment to our long-term revolving credit facility as described below under “Debt Activity and Borrowing Availability,” we do not anticipate making any further repurchases through fiscal 2021. As of June 27, 2020, we had a remaining authorization of approximately $2.1 billion.
+
+We have made dividend payments to our shareholders in each fiscal year since our company’s inception. Dividends paid were $856.3 million, or $1.68 per share, in fiscal 2020 and $775.4 million, or $1.50 per share, in fiscal 2019. In May 2020, we declared our regular quarterly dividend for the fourth quarter of fiscal 2020 of $0.45 per share, which was paid in July 2020. Although we expect to continue making quarterly dividend payments, we do not expect to continue to grow our dividend in fiscal 2021.
+
+In August 2018, we filed a universal shelf registration statement with the SEC under which we, as a well-known seasoned issuer, had the ability to issue and sell an indeterminate amount of various types of debt and equity securities. The specific terms of any securities we issue under this registration statement will be provided in the applicable prospectus supplements.
+
+In November 2000, we filed with the SEC a shelf registration statement covering 30,000,000 shares of common stock to be offered from time to time in connection with acquisitions. As of August 7, 2020, 29,477,835 shares remained available for issuance under this registration statement.
+
+46
+
+Debt Activity and Borrowing Availability
+
+Our debt activity, including issuances and repayments, and our borrowing availability is described in Note 13, “Debt and Other Financing Arrangements,” in the Notes to Consolidated Financial Statements in Item 8. Our outstanding borrowings at June 27, 2020, and repayment activity since the end of fiscal 2020 are disclosed within those notes. Updated amounts at August 7, 2020, include:
+
+•$700.0 million outstanding from the credit facility supporting our U.S. commercial paper program;
+
+•No outstanding borrowings under our U.S. commercial paper program; and
+
+•£600.0 million outstanding from our U.S. and U.K. commercial paper programs.
+
+Our aggregate commercial paper issuances and short-term bank borrowings had weighted average interest rates of 1.99% for fiscal 2020 and 2.47% for fiscal 2019.
+
+In the next 12 months, $750 million of long-term debt will mature. We expect to repay these senior notes in the first quarter of fiscal 2021 and to fund these repayments with a combination of cash flows from operations and the proceeds from issuances of commercial paper and long-term debt.
+
+The availability of financing in the form of debt is influenced by many factors, including our profitability, free cash flows, debt levels, credit ratings, debt covenants and economic and market conditions. For example, a significant downgrade in our credit ratings or adverse conditions in the capital markets may increase the cost of borrowing for us or limit our access to capital. To date, we have not experienced difficulty accessing the credit markets. As of August 7, 2020, the company had approximately $8.0 billion in cash and available liquidity; and we believe this amount would be sufficient to sustain our operations for an extended period, including through an impact much worse than we are currently experiencing or expecting. 
+
+During the fourth quarter of fiscal 2020, Sysco entered into an amendment to its $2 billion long-term revolving credit facility that expires on June 28, 2024. The amendment revises the existing credit agreement to (1) adjust the covenant requiring Sysco to maintain a certain ratio of EBITDA to consolidated interest expense; (2) include a covenant requiring Sysco to maintain a certain level of liquidity until the earlier of September 2022 or the date on which Sysco has achieved a certain ratio of consolidated EBITDA to consolidated interest expense; (3) include additional pricing levels and a 0.75% interest rate floor; and (4) include a new covenant that restricts (a) increases to Sysco’s regular quarterly dividend and (b) repurchases of equity interests of Sysco, in each case, until the earlier of September 2022 or the date on which Sysco has achieved a certain ratio of consolidated EBITDA to consolidated interest expense. As of June 27, 2020, Sysco was in compliance with all of its debt covenants. 
+
+Guarantor Summarized Financial Information
+
+On January 19, 2011, the wholly owned U.S. Broadline subsidiaries of Sysco Corporation, which distribute a full line of food products and a wide variety of non-food products, at that time entered into full and unconditional guarantees of all outstanding senior notes and debentures of Sysco Corporation. A list of the current guarantors is included in Exhibit 22 to this Form 10-K. All subsequent issuances of senior notes and debentures in the U.S. and borrowings under the company’s $2.0 billion long-term revolving credit facility have also been guaranteed by these subsidiaries, as discussed in Note 13, “Debt and Other Financing Arrangements,” in the Notes to Consolidated Financial Statements in Item 8. As of June 27, 2020, Sysco had a total of $13.2 billion in senior notes, debentures and borrowings under the long-term revolving credit facility that were guaranteed by these subsidiary guarantors. Our remaining consolidated subsidiaries (non-guarantor subsidiaries) are not obligated under the senior notes indenture, debentures indenture or our long-term revolving credit facility.
+
+All subsidiary guarantors are 100% owned by the parent company, all guarantees are full and unconditional, and all guarantees are joint and several. The guarantees rank equally and ratably in right of payment with all other existing and future unsecured and unsubordinated indebtedness of the respective guarantors.
+
+The assets of Sysco Corporation consist principally of the stock of its subsidiaries. Therefore, the rights of Sysco Corporation and the rights of its creditors to participate in the assets of any subsidiary upon liquidation, recapitalization or otherwise will be subject to the prior claims of that subsidiary’s creditors, except to the extent that claims of Sysco Corporation itself and/or the claims of those creditors themselves may be recognized as creditor claims of the subsidiary. Furthermore, the ability of Sysco Corporation to service its indebtedness and other obligations is dependent upon the earnings and cash flow of its subsidiaries and the distribution or other payment to it of such earnings or cash flow. If any of Sysco Corporation’s subsidiaries becomes insolvent, the direct creditors of that subsidiary will have a prior claim on its assets. Sysco Corporation’s rights and the rights of its creditors, including the rights of a holder of senior notes as an owner of debt securities, will be 
+
+47
+
+subject to that prior claim, unless Sysco Corporation or such noteholder, if such noteholder’s debt securities are guaranteed by such subsidiary, also is a direct creditor of that subsidiary.
+
+The guarantee of any subsidiary guarantor with respect to a series of senior notes or debentures may be released under certain customary circumstances. If we exercise our defeasance option with respect to the senior notes or debentures of any series, then any subsidiary guarantor effectively will be released with respect to that series. Further, each subsidiary guarantee will remain in full force and effect until the earliest to occur of the date, if any, on which (1) the applicable subsidiary guarantor shall consolidate with or merge into Sysco Corporation or any successor of Sysco Corporation or (2) Sysco Corporation or any successor of Sysco Corporation consolidates with or merges into the applicable subsidiary guarantor.
+
+Basis of Preparation of the Summarized Financial Information 
+
+The following tables include summarized financial information of Sysco Corporation (issuer), and certain wholly owned U.S. Broadline subsidiaries (guarantors) (together, the obligor group). The summarized financial information of the obligor group is presented on a combined basis with intercompany balances and transactions between entities in the obligor group eliminated. Investments in and equity in the earnings of our non-guarantor subsidiaries, which are not members of the obligor group, have been excluded from the summarized financial information.
+
+The obligor group’s amounts due to, amounts due from and transactions with non-guarantor subsidiaries have been presented in separate line items, if they are material to the obligor financials. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements.
+
+48
+
+Contractual Obligations
+
+The following table sets forth, as of June 27, 2020, certain information concerning our obligations and commitments to make contractual future payments:
+
+[DATA_TABLE_REMOVED]
+
+(1)The estimate of the timing of future payments under the Executive Deferred Compensation Plan and Management Savings Plan involves the use of certain assumptions, including retirement ages and payout periods.
+
+(2)Includes estimated contributions to the unfunded Supplemental Executive Retirement Plan (SERP) and other postretirement benefit plans made in amounts needed to fund benefit payments for vested participants in these plans through fiscal 2030, based on actuarial assumptions.
+
+(3)Unrecognized tax benefits relate to uncertain tax positions recorded under accounting standards related to uncertain tax positions. As of June 27, 2020, we had a liability of $23.1 million for unrecognized tax benefits for all tax jurisdictions and $4.1 million for related interest that could result in cash payment, of which $7.2 million could settle in cash. We are not able to reasonably estimate the timing of payments or the amount by which the liability will increase or decrease over time. Accordingly, the related balances have not been reflected in the “Payments Due by Period” section of the table.
+
+(4)Includes payments on floating rate debt based on rates as of June 27, 2020, assuming amount remains unchanged until maturity, and payments on fixed rate debt based on maturity dates. The impact of our outstanding fixed-to-floating interest rate swap on the fixed rate debt interest payments is included as well based on the floating rates in effect as of June 27, 2020.
+
+(5) For purposes of this table, purchase obligations include agreements for purchases of product in the normal course of business, for which all significant terms have been confirmed, including minimum quantities resulting from our category management process. Such amounts included in the table above are based on estimates. Purchase obligations also includes amounts committed with various third-party service providers to provide information technology services for periods up to fiscal 2026 (see discussion under Note 21, “Commitments and Contingencies,” in the Notes to Consolidated Financial Statements in Item 8). Purchase obligations exclude full requirements electricity contracts where no stated minimum purchase volume is required.
+
+Certain acquisitions involve contingent consideration, typically payable only if certain operating results are attained or certain outstanding contingencies are resolved. Aggregate contingent consideration amounts outstanding as of June 27, 2020 were $26.0 million. This amount is not included in the table above.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in conformity with GAAP requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, sales and expenses in the accompanying financial statements. Significant accounting policies employed by Sysco are presented in the notes to the financial statements.
+
+49
+
+Critical accounting policies and estimates are those that are most important to the portrayal of our financial position and results of operations. These policies require our most subjective or complex judgments, often employing the use of estimates about the effect of matters that are inherently uncertain. We have reviewed with the Audit Committee of the Board of Directors the development and selection of the critical accounting policies and estimates and this related disclosure. Our most critical accounting policies and estimates pertain to the goodwill and intangible assets, allowance for doubtful accounts, income taxes, share-based compensation and company-sponsored pension plans.
+
+Goodwill and Intangible Assets
+
+We account for acquired businesses using the acquisition method of accounting, which requires that, once control of a business is obtained, 100% of the assets acquired and liabilities assumed are recorded at the date of acquisition at their respective fair values. We use multiple valuation methods to determine the fair value of assets acquired and liabilities assumed. For intangible assets, we generally use the income method, which uses a forecast of the expected future net cash flows associated with each asset. These cash flows are then adjusted to present value by applying an appropriate discount rate that reflects the risk factors associated with the cash flow streams. Some of the more significant estimates and assumptions inherent in the income method or other methods include the amount and timing of projected future cash flows and the discount rate selected to measure the risks inherent in the future cash flows. Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives. Any excess of the purchase price over the estimated fair values of the net assets acquired is recorded as goodwill. More information on our acquisitions can be found in Note 5, “Acquisitions,” in the Notes to Consolidated Financial Statements in Item 8.
+
+Annually in our fiscal fourth quarter, we assess the recoverability of goodwill and indefinite-lived intangibles by determining whether the fair values exceed the carrying values of these assets. Impairment reviews, outside our annual review time frame, are performed if events or circumstances occur that include changes in macroeconomic conditions, industry and market considerations, cost factors, overall financial performance, other relevant entity-specific events, specific events affecting the reporting unit or sustained decrease in share price. Our testing may be performed utilizing either a qualitative or quantitative assessment; however, if a qualitative assessment is performed and we determine that the fair value of a reporting unit is more likely than not (i.e., a likelihood of more than 50 percent) to be less than its carrying amount, a quantitative test is performed.
+
+When using a quantitative test, we arrive at our estimates of fair value using a combination of discounted cash flow and earnings or revenue multiple models. The results from each of these models are then weighted and combined into a single estimate of fair value for each reporting unit. We use a higher weighting for our discounted cash flow valuation compared to the earnings multiple models because the forecasted operating results that serve as a basis for the analysis incorporate management’s outlook and anticipated changes for the businesses consistent with a market participant. The primary assumptions used in these various models include estimated earnings multiples of comparable acquisitions in the industry, including control premiums, earnings or revenue multiples on acquisitions completed by Sysco in the past, future cash flow estimates of the reporting units, which are dependent on internal forecasts and projected growth rates, and weighted average cost of capital, along with working capital and capital expenditure requirements. When possible, we use observable market inputs in our models to arrive at the fair values of our reporting units.
+
+Certain reporting units have a greater proportion of goodwill recorded to estimated fair value as compared to the U.S. Broadline, Canada Broadline or SYGMA reporting units. This is primarily due to these businesses having been more recently acquired, and as a result there has been less history of organic growth than in the U.S. Broadline, Canadian Broadline and SYGMA reporting units. As such, these reporting units have a greater risk of future impairment if their operations were to suffer a significant downturn.
+
+During the second half of fiscal 2020, the company experienced significant deterioration in macroeconomic conditions and declining equity valuations, as well as regulatory restrictions implemented in response to the COVID-19 pandemic. In the third quarter of fiscal 2020, the company determined that certain reporting units were more sensitive than others to these declines and the company performed interim quantitative goodwill impairment tests for these reporting units using a combination of discounted cash flow and earnings or revenue multiple models. As part of the annual test in the fiscal fourth quarter, the company performed further quantitative goodwill impairment tests, updating the estimates and assumptions of long-term impact resulting from the pandemic that had been applied in the fiscal third quarter tests, where necessary. As a result, in the third quarter of fiscal 2020 the company recorded impairments to goodwill for the Pacific Star and Cake reporting units of $34.9 million and $34.2 million, respectively, which represented the full balance of goodwill for those reporting units. During the fourth quarter, the company recorded partial impairments to goodwill for the France Group and Fresh Direct reporting units of $108.7 million and $25.4 million, respectively, for total fiscal 2020 impairment charges of $203.2 million.
+
+50
+
+In the annual fiscal 2020 assessment, impairment charges would have been applicable for two reporting units if our estimates of fair value were decreased by ranges of 17% to 29%, with goodwill of $369.5 million in the aggregate as of June 27, 2020, recorded for these reporting units.
+
+The company estimated the fair value of these reporting units using a combination of discounted cash flow and earnings or revenue multiple models. For the purposes of the discounted cash flow models, fair value was determined based on the present value of estimated future cash flows, discounted at an appropriate risk adjusted rate. The fair value conclusions as of June 27, 2020 for the reporting units are highly sensitive to changes in the assumptions used in the income approach, which include forecasted revenues, perpetual growth rates, and long-term discount rates, among others, all of which require significant judgments by management. Fair value of the reporting unit is therefore determined using significant unobservable inputs, or level 3 in the fair value hierarchy. The company has used recent historical performance, current forecasted financial information, and broad-based industry and economic statistics as a basis to estimate the key assumptions utilized in the discounted cash flow model. These key assumptions are inherently uncertain and require a high degree of estimation and judgment and are subject to change based on future changes, industry and global economic and geo-political conditions, and the timing and success of the implementation of current strategic initiatives. The impact of the COVID-19 pandemic on estimated future cash flows is uncertain and will largely depend on the outcome of future events, which could result in further goodwill impairments going forward.
+
+Allowance for Doubtful Accounts
+
+We evaluate the collectability of accounts receivable and determine the appropriate reserve for doubtful accounts based on a combination of factors. We utilize specific criteria to determine uncollectible receivables to be written off, including whether a customer has filed for or has been placed in bankruptcy, has had accounts referred to outside parties for collection or has had accounts past due over specified periods. In these instances, a specific allowance for doubtful accounts is recorded to reduce the receivable to the net amount reasonably expected to be collected. Allowances are recorded for all other receivables based on an analysis of historical trends of write-offs and recoveries. 
+
+Towards the end of March 2020, our business declined significantly from the time that the shelter in place orders were issued. This resulted in many of our customers closing or operating at a substantially reduced volume. For customers that have closed, in many cases, it is not clear which closures are temporary or permanent; however, we have experienced an increase in past due receivables and have recognized additional bad debt charges of $323.4 million specific to the COVID-19 pandemic during fiscal 2020. Prior to the COVID-19 pandemic, our allowance was primarily based on historical loss experience. Since the crisis began, our write-off percentages have been based, not only on historical loss experience, but also on our experience with losses incurred during times of local and regional disasters. Additionally, in the fourth quarter of fiscal 2020, we included the company’s current collection experience, which has been impacted by the COVID-19 pandemic. We anticipate continuing this approach in fiscal 2021. While the COVID-19 pandemic is more widespread and longer in duration than historical disasters impacting our business, it is possible that actual uncollectible amounts will differ and additional charges may be required in fiscal 2021. Our balance for the allowance of doubtful accounts as of June 27, 2020 is $334.8 million. Our judgment is required as to the impact of certain of these items and other factors as to ultimate realization of our accounts receivable.
+
+Income Taxes
+
+The determination of our provision for income taxes requires significant judgment, the use of estimates and the interpretation and application of complex tax laws. Our provision for income taxes primarily reflects a combination of income earned and taxed in the various U.S. federal and state, as well as foreign, jurisdictions. Tax law changes, increases or decreases in book versus tax basis differences, accruals or adjustments of accruals for unrecognized tax benefits or valuation allowances, and our change in the mix of earnings from these taxing jurisdictions all affect the overall effective tax rate. The impact of the COVID-19 pandemic may change our mix of earnings by jurisdiction and has increased the risk that operating losses may occur within certain of our jurisdictions that could lead to the recognition of valuation allowances against certain deferred tax assets in the future, if these losses are prolonged beyond our current expectations. This would negatively impact our income tax expense, net earnings, and balance sheet.
+
+Our liability for unrecognized tax benefits contains uncertainties because management is required to make assumptions and to apply judgment in estimating the exposures associated with our various filing positions. We believe that the judgments and estimates discussed herein are reasonable; however, actual results could differ, and we may be exposed to losses or gains that could be material. To the extent we prevail in matters for which a liability has been established, or pay amounts in excess of recorded liabilities, our effective income tax rate in a given financial statement period could be materially affected. An unfavorable tax settlement generally would require use of our cash and may result in an increase in our effective income tax rate in the period of resolution. A favorable tax settlement may be recognized as a reduction in our effective income tax rate in the period of resolution.
+
+51
+
+Share-Based Compensation
+
+Sysco provides compensation benefits to employees and non-employee directors under several share-based payment arrangements including various employee stock option plans, a non-employee director plan and the 2015 Employee Stock Purchase Plan (ESPP).
+
+As of June 27, 2020, there was $79.3 million of total unrecognized compensation cost related to share-based compensation arrangements. That cost is expected to be recognized over a weighted-average period of 1.9 years.
+
+The fair value of each option award is estimated on the date of grant using a Black-Scholes option pricing model. Expected volatility is based on historical volatility of Sysco’s stock, implied volatilities from traded options on Sysco’s stock and other factors. We utilize historical data to estimate option exercise and employee termination behavior within the valuation model; separate groups of employees that have similar historical exercise behavior are considered separately for valuation purposes. Expected dividend yield is estimated based on the historical pattern of dividends and the average stock price for the year preceding the option grant. The risk-free rate for the expected term of the option is based on the U.S. Treasury yield curve in effect at the time of grant.
+
+The fair value of each restricted stock unit award and performance share unit award granted with a dividend equivalent is based on the company’s stock price as of the date of grant. For restricted stock units and performance share units granted without dividend equivalents, the fair value is reduced by the present value of expected dividends during the vesting period. Expense recognized on performance share unit awards is subsequently adjusted based on forecasted performance compared to planned targets until the performance period concludes and the actual number of shares of Sysco common stock to be received upon the vesting of the performance share units is known.
+
+The fair value of the stock issued under the ESPP is calculated as the difference between the stock price and the employee purchase price.
+
+The fair value of restricted stock granted to employees or non-employee directors is based on the stock price on grant date. The application of a discount to the fair value of a restricted stock grant is dependent upon whether or not each individual grant contains a post-vesting restriction.
+
+The compensation cost related to these share-based awards is recognized over the requisite service period. The requisite service period is generally the period during which an employee is required to provide service in exchange for the award. The compensation cost related to stock issuances resulting from employee purchases of stock under the ESPP is recognized during the quarter in which the employee payroll withholdings are made.
+
+Our share-based awards are generally subject to graded vesting over a service period. We will recognize compensation cost on a straight-line basis over the requisite service period for the entire award.
+
+In addition, certain of our share-based awards provide that the awards continue to vest as if the award holder continued to be an employee or director if the award holder meets certain age and years of service thresholds upon retirement. In these cases, we will recognize compensation cost for such awards over the period from the grant date to the date the employee or director first becomes eligible to retire with the options continuing to vest after retirement.
+
+Our option grants include options that qualify as incentive stock options for income tax purposes. In the period the compensation cost related to incentive stock options is recorded, a corresponding tax benefit is not recorded as it is assumed that we will not receive a tax deduction related to such incentive stock options. We may be eligible for tax deductions in subsequent periods to the extent that there is a disqualifying disposition of the incentive stock option. In such cases, we would record a tax benefit related to the tax deduction in an amount not to exceed the corresponding cumulative compensation cost recorded in the financial statements on the particular options multiplied by the statutory tax rate.
+
+Company-Sponsored Pension Plans
+
+Amounts related to defined benefit plans recognized in the financial statements are determined on an actuarial basis. Two of the more critical assumptions in the actuarial calculations are the discount rate for determining the current value of plan benefits and the expected rate of return on plan assets. Our U.S. Retirement Plan is largely frozen and is only open to a small number of employees. Our SERP is frozen and is not open to any employees. None of these plans have a significant sensitivity to changes in discount rates specific to our results of operations, but such changes could impact our balance sheet due to a 
+
+52
+
+change in our funded status. Due to the low level of active employees in our retirement plans, our assumption for the rate of increase in future compensation is not a critical assumption.
+
+The expected long-term rate of return on plan assets of the U.S. Retirement Plan is 5.00% for fiscal 2020, consistent with fiscal 2019. The expectations of future returns are derived from a mathematical asset model that incorporates assumptions as to the various asset class returns, reflecting a combination of historical performance analysis and the forward-looking views of the financial markets regarding the yield on bonds, historical returns of the major stock markets and returns on alternative investments. The rate of return assumption is reviewed annually and revised as deemed appropriate.
+
+The expected return on plan assets impacts the recorded amount of net pension costs. The expected long-term rate of return on plan assets of the U.S. Retirement Plan decreased by 25 basis points to 4.75% for fiscal 2021, due to expected lower long-term rate of return. A 50 basis point increase (decrease) in the assumed rate of return in the Plan for fiscal 2021 would decrease (increase) Sysco’s net company-sponsored pension costs for fiscal 2021 by approximately $31 million.
+
+Pension accounting standards require the recognition of the funded status of our defined benefit plans in the statement of financial position, with a corresponding adjustment to accumulated other comprehensive income, net of tax. The amount reflected in accumulated other comprehensive loss related to the recognition of the funded status of our defined benefit plans as of June 27, 2020 was a charge, net of tax, of $1.3 billion, driven by declines in both discount rates and expected return on assets. The amount reflected in accumulated other comprehensive loss related to the recognition of the funded status of our defined benefit plans as of June 29, 2019 was a charge, net of tax, of $1.2 billion.
+
+Forward-Looking Statements
+
+Certain statements made herein that look forward in time or express management’s expectations or beliefs with respect to the occurrence of future events are forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” “projected,” “continues,” “continuously,” variations of such terms, and similar terms and phrases denoting anticipated or expected occurrences or results. Examples of forward-looking statements include, but are not limited to, statements about:
+
+•the effect, impact, potential duration or other implications of the COVID-19 pandemic and any expectations we may have with respect thereto, including our ability to withstand the crisis;
+
+•expectations regarding the impact of cost-saving measures undertaken in response to the COVID-19 pandemic;
+
+•expectations regarding our business and the economic recovery generally as the COVID-19 pandemic subsides, including beliefs regarding future customer activity;
+
+•our expectations regarding the ability of our supply chain and facilities to remain in place and operational;
+
+•our plans regarding our transformation initiatives, including the deployment of digital technologies and the regionalization of our operations in the U.S., and the expected effects from such initiatives;
+
+•our belief that we will continue to experience risk in fiscal 2021 relating to uncollectible accounts, our expectations regarding the level of uncollectible accounts, and our expectations regarding the timing of our collection of the unreserved balance of accounts receivable held prior to the onset of the COVID-19 crisis;
+
+•our belief that our actions undertaken to receive payments on receivables will help to partially affect the unfavorable impact of the COVID-19 pandemic;
+
+•the sufficiency of our available liquidity to sustain our operations for multiple years;
+
+•expectations regarding the benefits to us of the CARES Act;
+
+53
+
+•our intention not to seek assistance from the U.S. government outside of the CARES Act;
+
+•estimates regarding the outcome of legal proceedings;
+
+•the impact of seasonal trends on our free cash flow; 
+
+•our expectations regarding the use of remaining cash generated from operations;
+
+•estimates regarding our capital expenditures and the sources of financing for our capital expenditures;
+
+•our expectations regarding the impact of potential acquisitions and sales of assets on our liquidity, borrowing capacity, leverage ratios and capital availability;
+
+•our expectations regarding real sales growth in the U.S. foodservice market;
+
+•our expectations regarding trends in produce markets;
+
+•our expectations regarding the calculation of adjusted return on invested capital, adjusted operating income, adjusted net earnings and adjusted diluted earnings per share;
+
+•our expectations regarding the impact of future Certain Items on our projected future non-GAAP and GAAP results;
+
+•our expectations regarding our effective tax rate in fiscal 2021;
+
+•the sufficiency of our mechanisms for managing working capital and competitive pressures, and our beliefs regarding the impact of these mechanisms;
+
+•our ability to meet future cash requirements, including the ability to access financial markets effectively, including issuances of debt securities, and maintain sufficient liquidity;
+
+•our expectations regarding the payment of dividends, and the growth of our dividend, in the future;
+
+•our expectations regarding future activity under our share repurchase program;
+
+•future compliance with the covenants under our revolving credit facility;
+
+•our ability to effectively access the commercial paper market and long-term capital markets;
+
+•the expected redemption of $750 million of long-term debt maturing in the next 12 months; 
+
+•our intention to repay our long-term debt with cash on hand, cash flow from operations, issuances of commercial paper, issuances of senior notes, or a combination thereof.
+
+These statements are based on management’s current expectations and estimates; actual results may differ materially due in part to the risk factors set forth below and those within Part I, Item 1A of this document:
+
+•the impact and effects of public health crises, pandemics and epidemics, such as the recent outbreak of COVID-19, and the adverse impact thereof on our business, financial condition and results of operations, including, but not limited to, our growth, product costs, supply chain, labor availability, logistical capabilities, customer demand for our products and industry demand generally, consumer spending, our liquidity, the price of our securities and trading markets with respect thereto, our ability to access capital markets, and the global economy and financial markets generally;
+
+•the risk that if sales from our locally managed customers do not grow at the same rate as sales from multi-unit customers, our gross margins may decline; 
+
+54
+
+•the risk that we are unlikely to be able to predict inflation over the long term, and lower inflation is likely to produce lower gross profit;
+
+•periods of significant or prolonged inflation or deflation and their impact on our product costs and profitability generally;
+
+•the risk that our efforts to modify truck routing, including our small truck initiative, in order to reduce outbound transportation costs may be unsuccessful;
+
+•the risk that we may not be able to accelerate and/or identify additional administrative cost savings in order to compensate for any gross profit or supply chain cost leverage challenges; 
+
+•risks related to unfavorable conditions in North America and Europe and the impact on our results of operations and financial condition;
+
+•the risks related to our efforts to implement our transformation initiatives and meet our other long-term strategic objectives, including the risk that these efforts may not provide the expected benefits in our anticipated time frame, if at all, and may prove costlier than expected; the risk that the actual costs of any initiatives may be greater or less than currently expected; and the risk of adverse effects to us if past and future undertakings and the associated changes to our business do not prove to be cost effective or do not result in the level of cost savings and other benefits that we anticipated;
+
+•the impact of unexpected future changes to our business initiatives based on management’s subjective evaluation of our overall business needs;
+
+•the risk that the actual costs of any business initiatives may be greater or less than currently expected;
+
+•the risk that competition in our industry and the impact of GPOs may adversely impact our margins and our ability to retain customers and make it difficult for us to maintain our market share, growth rate and profitability;
+
+•the risk that our relationships with long-term customers may be materially diminished or terminated; 
+
+•the risk that changes in consumer eating habits could materially and adversely affect our business, financial condition, or results of operations;
+
+•the risk that changes in applicable tax laws or regulations and the resolution of tax disputes could negatively affect our financial results; 
+
+•the risk that we may not be able to fully compensate for increases in fuel costs, and forward purchase commitments intended to contain fuel costs could result in above market fuel costs;
+
+•the risk of interruption of supplies and increase in product costs as a result of conditions beyond our control;
+
+•the potential impact on our reputation and earnings of adverse publicity or lack of confidence in our products;
+
+•risks related to unfavorable changes to the mix of locally managed customers versus corporate-managed customers;
+
+•the risk that we may not realize anticipated benefits from our operating cost reduction efforts;
+
+•difficulties in successfully expanding into international markets and complimentary lines of business;
+
+•the potential impact of product liability claims;
+
+•the risk that we fail to comply with requirements imposed by applicable law or government regulations;
+
+•risks related to our ability to effectively finance and integrate acquired businesses;
+
+•risks related to our access to borrowed funds in order to grow and any default by us under our indebtedness that could have a material adverse impact on cash flow and liquidity;
+
+•our level of indebtedness and the terms of our indebtedness could adversely affect our business and liquidity position;
+
+55
+
+•the risk that the implementation of various initiatives, the timing and successful completion of acquisitions, construction schedules and the possibility that other cash requirements could result in delays or cancellations of capital spending;
+
+•the risk that divestiture of one or more of our businesses may not provide the anticipated effects on our operations;
+
+•the risk that the U.K.’s exit from the EU on January 31, 2020, commonly referred to as Brexit, may adversely impact our operations in the U.K., including those of the Brakes Group;
+
+•the risk that future labor disruptions or disputes could disrupt the integration of Brake France and Davigel into Sysco France and our operations in France and the EU generally;
+
+•the risk that factors beyond management’s control, including fluctuations in the stock market, as well as management’s future subjective evaluation of the company’s needs, would impact the timing of share repurchases;
+
+•due to our reliance on technology, any technology disruption or delay in implementing new technology could have a material negative impact on our business;
+
+•the risk that a cybersecurity incident and other technology disruptions could negatively impact our business and our relationships with customers;
+
+•the potential requirement to pay material amounts under our multiemployer defined benefit pension plans;
+
+•our funding requirements for our company-sponsored qualified pension plan may increase should financial markets experience future declines;
+
+•labor issues, including the renegotiation of union contracts and shortage of qualified labor;
+
+•capital expenditures may vary based on changes in business plans and other factors, including risks related to the implementation of various initiatives, the timing and successful completion of acquisitions, construction schedules and the possibility that other cash requirements could result in delays or cancellations of capital spending; and
+
+•the risk that the anti-takeover benefits provided by our preferred stock may not be viewed as beneficial to stockholders.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk

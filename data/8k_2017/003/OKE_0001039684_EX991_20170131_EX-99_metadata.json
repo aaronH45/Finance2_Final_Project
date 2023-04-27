@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001039684",
+    "sec_company_name": "ONEOK INC /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170201",
+    "sec_changed_date": "20170201",
+    "sec_accepted_date": "20170201172103",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1039684/000119312517027633/0001193125-17-027633-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1039684/000119312517027633/0001193125-17-027633.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\OKE_0001039684_EX991_20170131_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "56155 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22013,
+    "endpoints": [
+        "EX99_1   ",
+        "OKE, OKS and their respective directors, executive officers and certain other members of management and employees may be soliciting proxies from OKE stockholders and OKS unitholders in favor of the proposed transaction and related matters. Information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of OKE stockholders and OKS unitholders in connection with the proposed transaction will be set forth in the joint proxy statement/prospectus when it is filed with the SEC. You can find information about OKE’s executive officers and directors in its definitive proxy statement filed with the SEC on April 5, 2016. You can find information about OKS’s executive officers and directors in its annual report on Form 10-K filed with the SEC on February 23, 2016. Additional information about OKE’s executive officers and directors and OKS’s executive officers and directors can be found in the above-referenced Registration Statement on Form S-4 and other relevant materials to be filed with the SEC when they become available. You can obtain free copies of these documents from OKE and OKS using the contact information above."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "OKE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\OKE_0001039684_EX991_20170131_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:09:30.987009"
+}

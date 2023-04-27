@@ -1,0 +1,44 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of our global operations, we are exposed to market risks associated with foreign currency exchange fluctuations, volatile interest rates and commodity price risks. To manage our exposure to these market risks, we enter into certain supplier-based and market-based hedging transactions. Such transactions are allowed under our risk management policy and are monitored closely with clear controls around the activities. Our market-based transactions include a variety of derivative financial instruments, none of which are used for trading or speculative purposes. The counterparties to these market-based transactions are generally highly rated institutions. Our objective is to manage our exposures and to decrease the volatility of our earnings and cash flows as a result of changes in underlying rates and costs.
+
+Interest Rate Risk
+
+We are exposed to volatility in interest rates with regard to our current and future debt offerings. Specifically, we are exposed to U.S. Department of Treasury rates, Canadian government rates and LIBOR, or any such LIBOR alternative like SONIA, SOFR or EURIBOR, for example. We may from time to time enter into interest rate swaps on our current debt obligations as our hedging strategy is to achieve our desired fixed-to-floating rate debt profile such that we manage the volatility in earnings as well as the cost of funding our operations. Further, we may enter into forward starting interest rate swaps to manage our exposure to the volatility of interest rates associated with future interest payments on a forecasted debt issuance. 
+
+See Part II - Item 8. Financial Statements and Supplementary Data, Note 11. "Debt" for the maturity dates of our outstanding debt instruments.
+
+The following table presents our fixed rate debt and forward starting interest rate swaps as well as the impact of an absolute 1% adverse change in interest rates on their respective fair values. Notional amounts and fair values are presented in USD based on the applicable exchange rate as of December 31, 2021 and December 31, 2020, respectively. 
+
+Notional amountsFair Value Asset/(Liability)Effect of 1% Adverse Change
+
+64
+[DATA_TABLE_REMOVED]
+
+Foreign Exchange Risk
+
+Foreign currency exchange risk is inherent in our operations primarily due to operating results that are denominated in currencies other than the USD. We closely monitor our operations in each country and seek to adopt appropriate strategies that are responsive to foreign currency fluctuations. Our financial risk management policy is intended to offset a portion of the potentially unfavorable impact of exchange rates on our earnings and cash flows.
+
+Changes in foreign currency exchange rates affect the translation of local currency balances of foreign subsidiaries, transaction gains and losses associated with intercompany loans with foreign subsidiaries, royalty agreements and transactions denominated in currencies other than the USD, and their related cash flows, specifically related to the purchase of production inputs and imports, as well as our foreign currency-denominated debt. See Part II - Item, 8. Financial Statements and Supplementary Data, Note 1. "Basis of Presentation and Summary of Significant Accounting Policies" for our accounting policy over the accounting for translation adjustments and foreign currency transactions.
+
+Approximately $3.0 billion, or 30%, of our net sales was denominated in functional currencies other than the USD for the year ended December 31, 2021. As a result, fluctuations in foreign currency exchange rates other than the USD, particularly the CAD and the GBP, may have a material impact on our reported results. For the year ended December 31, 2021, net sales denominated in CAD and GBP was approximately $1.3 billion and $1.0 billion, respectively.
+
+We manage our foreign currency exposures through foreign currency forward contracts and net investment hedges. Our EUR foreign-denominated debt is a net investment hedge against our investment in our Europe business in order to hedge a portion of the foreign currency translational impacts. The changes in fair value of the net investment hedge due to the fluctuations in the spot rate is recorded to AOCI. Our foreign currency forward contracts manage our exposure related to certain royalty agreements, the purchase of production inputs and imports that are denominated in currencies other than the functional entity's local currency and other foreign currency exchange exposure.
+
+From time to time, we may enter into cross currency swaps. We settled the cross currency swaps associated with the $1.0 billion notes when they were repaid on July 15, 2021 and had no cross currency swaps outstanding as of December 31, 2021.
+
+The following table includes details of our foreign currency forwards used to hedge our foreign exchange rate risk as well as the impact of a hypothetical 10% adverse change in the related foreign currency exchange rates on the fair value of the foreign currency forwards. Notional amounts and fair values are presented in USD based on the applicable exchange rate as of December 31, 2021 and December 31, 2020. The majority of our outstanding foreign currency forwards will mature in fiscal 2022.
+
+[DATA_TABLE_REMOVED]
+
+65
+Commodity Price Risk
+
+We are exposed to the volatility in commodity prices as we use commodities in the production and distribution of our products. We specifically hedge our exposure to fluctuations in the price of natural gas, aluminum, barley and wheat. We utilize market-based derivatives and long-term supplier-based contracts, specifically a combination of purchase orders, long-term supply contracts and over-the-counter financial instruments to mitigate our commodity price risk by establishing price certainty for commodities that are used in our supply chain. 
+
+The following table includes details of our commodity swaps and options used to hedge commodity price risk as well as the impact of a hypothetical 10% adverse change in the related commodity prices on the fair value of the derivatives. Notional amounts and fair values are presented in USD based on the applicable exchange rate as of December 31, 2021 and December 31, 2020. Approximately 62% of commodity swaps mature in 2022, 33% mature in 2023, and 5% mature in 2024 and thereafter. 
+
+[DATA_TABLE_REMOVED]
+
+66
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

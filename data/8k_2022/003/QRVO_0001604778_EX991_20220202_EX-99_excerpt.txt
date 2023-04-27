@@ -1,0 +1,173 @@
+Document
+
+FOR IMMEDIATE RELEASE
+
+Qorvo® Announces Fiscal 2022 Third Quarter Financial Results
+
+GREENSBORO, NC — February 2, 2022 — Qorvo® (Nasdaq:QRVO), a leading provider of innovative RF solutions that connect the world, today announced financial results for the Company’s fiscal 2022 third quarter ended January 1, 2022.
+
+On a GAAP basis, revenue for Qorvo’s fiscal 2022 third quarter was $1.114 billion, gross margin was 49.2%, operating income was $296 million and diluted earnings per share was $1.95. On a non-GAAP basis, gross margin was 52.6%, operating income was $372 million and diluted earnings per share was $2.98.
+
+Bob Bruggeworth, president and chief executive officer of Qorvo, said, “Qorvo outperformed the midpoint of our guidance in the December quarter on revenue, gross margin and EPS. Sustained year-over-year revenue growth was supported by multiyear secular growth drivers in 5G, IoT connectivity, defense and power. Qorvo is operating well and expanding the markets we serve while investing to extend product and technology leadership across our portfolio.”
+
+Strategic Highlights
+
+•Ramped shipments to Korea-based smartphone OEM in support of flagship and mass-market smartphone launches 
+
+•Supplied Qorvo’s first complete UWB solution in an Android® smartphone, including UWB transceiver and software stack compatible with other Android devices 
+
+•Introduced a fully integrated module combining Qorvo’s UWB chipset with Nordic®’s Bluetooth Low Energy solution to address a wide range of industrial and enterprise applications
+
+•Expanded customer sampling of highly integrated main path and secondary transmit solutions for Android 5G smartphones
+
+•Secured new Wi-Fi 7 chip-on-board reference design engagements for mobile applications and began customer sampling of Wi-Fi 7 FEMs
+
+•Ramped Wi-Fi 6E FEMs enabling Wi-Fi mesh networks for home and enterprise markets and released 5 GHz iFEMs featuring BAW filtering for tri-band Wi-Fi mesh networks
+
+•Selected by base station OEM to supply 3.4-3.8 GHz 8W GaN power amplifier modules for mMIMO 5G deployments 
+
+•Selected to provide cellular FEM for V2X connectivity for leading Europe-based automotive OEM 
+
+•Secured design wins to supply on-board chargers and DC-DC converters in support of leading automotive OEMs in Europe and Asia 
+
+•Signed channel partnership agreement for Qorvo Omnia™ diagnostic test platform distribution and submitted a CLIA waiver application to the FDA to expand deployment in point-of-care settings 
+
+Financial Commentary and Outlook
+
+Mark Murphy, chief financial officer of Qorvo, said, “We expect to deliver sequential growth in the March quarter on smartphone launch timing and stronger IDP volumes. At the midpoint of our March guidance, we project our full fiscal year revenue growth to exceed 15%, operating margin to expand to over 33%, and earnings per share to grow 25%.”
+
+Qorvo's current outlook for the March 2022 quarter is:
+
+• Quarterly revenue of $1.135 billion to $1.165 billion
+
+• Non-GAAP gross margin of approximately 52%
+
+• Non-GAAP diluted earnings per share of $2.94 at the midpoint of guidance
+
+Qorvo’s actual quarterly results may differ from these expectations and projections, and such differences may be material.
+
+Selected Financial Information
+
+The following tables set forth selected GAAP and non-GAAP financial information for Qorvo for the periods indicated. See the more detailed financial information for Qorvo, including reconciliations of GAAP and non-GAAP financial information, attached.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+1 Excludes stock-based compensation expense, amortization of intangible assets, acquisition and integration related costs, loss on assets, start-up costs, restructuring related charges, loss on debt extinguishment, (gain) loss on investments, other (income) expense and an adjustment of income taxes.
+
+Non-GAAP Financial Measures
+
+In addition to disclosing financial results calculated in accordance with United States (U.S.) generally accepted accounting principles (GAAP), this earnings release contains some or all of the following non-GAAP financial measures: (i) non-GAAP gross profit and gross margin, (ii) non-GAAP operating income and operating margin, (iii) non-GAAP net income, (iv) non-GAAP net income per diluted share, (v) non-GAAP operating expenses (research and development; selling, general and administrative), (vi) free cash flow, (vii) EBITDA, (viii) non-GAAP return on invested capital (ROIC), and (ix) net debt or positive net cash. Each of these non-GAAP financial measures is either adjusted from GAAP results to exclude certain expenses or derived from multiple GAAP measures, which are outlined in the “Reconciliation of GAAP to Non-GAAP Financial Measures” tables, attached, and the “Additional Selected Non-GAAP Financial Measures and Reconciliations” tables, attached.
+
+In managing Qorvo's business on a consolidated basis, management develops an annual operating plan, which is approved by our Board of Directors, using non-GAAP financial measures. In developing and monitoring performance against this plan, management considers the actual or potential impacts on these non-GAAP financial measures from actions taken to reduce costs with the goal of increasing gross margin and operating margin. In addition, management relies upon these non-GAAP financial measures to assess whether research and development efforts are at an appropriate level, and when making decisions about product spending, administrative budgets, and other operating expenses. Also, we believe that non-GAAP financial measures provide useful supplemental information to investors and enable investors to analyze the results of operations in the same way as management. We have chosen to provide this supplemental information to enable investors to perform additional comparisons of our operating results, to assess our liquidity and capital position and to analyze financial performance excluding the effect of expenses unrelated to operations, certain non-cash expenses and stock-based compensation expense, which may obscure trends in Qorvo's underlying performance.
+
+We believe that these non-GAAP financial measures offer an additional view of Qorvo's operations that, when coupled with the GAAP results and the reconciliations to corresponding GAAP financial measures, provide a more complete understanding of Qorvo's results of operations and the factors and trends affecting Qorvo's business. However, these non-GAAP financial measures should be considered as a supplement to, and not as a substitute for, or superior to, the corresponding measures calculated in accordance with GAAP.
+
+Our rationale for using these non-GAAP financial measures, as well as their impact on the presentation of Qorvo's operations, are outlined below:
+
+Non-GAAP gross profit and gross margin.  Non-GAAP gross profit and gross margin exclude amortization of intangible assets, stock-based compensation expense and certain non-cash expenses. We believe that exclusion of these costs in presenting non-GAAP gross profit and gross margin facilitates a useful evaluation of our historical performance and projected costs and the potential for realizing cost efficiencies. 
+
+We view amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company’s research and development efforts, trade names, and customer relationships, as items arising from pre-acquisition activities, determined at the time of an acquisition, rather than ongoing costs of operating Qorvo’s business. While these intangible assets are continually evaluated for impairment, amortization of the cost of purchased intangible assets is a static expense, which is not typically affected by operations during any particular period. Although we exclude the amortization of purchased intangible assets from these non-GAAP financial measures, management believes that it is important for investors to understand that such intangible assets were recorded as part of purchase price accounting and contribute to revenue generation.
+
+We believe that presentation of non-GAAP gross profit and gross margin and other non-GAAP financial measures that exclude the impact of stock-based compensation expense assists management and investors in evaluating the period-over-period performance of Qorvo's ongoing operations because (i) the expenses are non-cash in nature, and (ii) although the size of the grants is within our control, the amount of expense varies depending on factors such as short-term fluctuations in stock price volatility and prevailing interest rates, which can be unrelated to the operational performance of Qorvo during the period in which the expense is incurred and generally are outside the control of management. Moreover, we believe that the exclusion of stock-based compensation expense in presenting non-GAAP gross profit and gross margin and other non-GAAP financial measures is useful to investors to understand the impact of the expensing of stock-based compensation to Qorvo's gross profit and gross margins and other financial measures in comparison to prior periods. We also believe that the adjustments to profit and margin related to certain non-cash expenses do not constitute part of Qorvo's ongoing operations and therefore the exclusion of these items provides management and investors with better visibility into the actual revenue and actual costs required to generate revenues over time and facilitates a useful evaluation of our historical and projected performance. We believe disclosure of non-GAAP gross profit and gross margin has economic substance because the excluded expenses do not represent continuing cash expenditures and, as described above, we have little control over the timing and amount of the expenses in question.
+
+Non-GAAP operating income and operating margin. Non-GAAP operating income and operating margin exclude stock-based compensation expense, amortization of intangible assets, acquisition and integration related costs, loss on assets, start-up costs, restructuring related charges and certain non-cash expenses. We believe that presentation of a measure of operating income and operating margin that excludes amortization of intangible assets and stock-based compensation expense is useful to both management and investors for the same reasons as described above with respect to our use of non-GAAP gross profit and gross margin. We believe that acquisition and integration related costs, loss on assets, start-up costs, restructuring related charges and certain non-cash expenses do not constitute part of Qorvo's ongoing operations and therefore, the exclusion of these costs provides management and investors with better visibility into the actual costs required to generate revenues over time and facilitates a useful evaluation of our historical and projected performance. We believe disclosure of non-GAAP operating income and operating margin has economic substance because the excluded expenses are either unrelated to ongoing operations or do not represent current cash expenditures.
+
+Non-GAAP net income and non-GAAP net income per diluted share. Non-GAAP net income and non-GAAP net income per diluted share exclude the effects of stock-based compensation expense, amortization of intangible assets, acquisition and integration related costs, loss on assets, start-up costs, restructuring related charges and certain non-cash expenses, loss on debt extinguishment, (gain) loss on investments, other (income) expense and also reflect an adjustment of income taxes. The income tax adjustment primarily represents the use of research and development tax credit carryforwards, deferred tax expense (benefit) items not affecting taxes payable, adjustments related to the deemed and actual repatriation of historical foreign earnings, non-cash expense (benefit) related to uncertain tax positions and other items unrelated to the current fiscal year or that are not indicative of our ongoing business operations. We believe that presentation of measures of net income and net income per diluted share that exclude these items is useful to both management and investors for the reasons described above with respect to non-GAAP gross profit and gross margin and non-GAAP operating income and operating margin. We believe disclosure of non-GAAP net income and non-GAAP net income per diluted share has economic substance because the excluded expenses are either unrelated to ongoing operations or do not represent current cash expenditures.
+
+Non-GAAP operating expenses (research and development and selling, general and administrative). Non-GAAP research and development and selling, general and administrative expenses exclude stock-based compensation expense, amortization of intangible assets and certain non-cash expenses (primarily acquisition and integration related costs). We believe that presentation of measures of these operating expenses that exclude amortization of intangible assets and stock-based compensation expense is useful to both management and investors for the same reasons as described above with respect to our use of non-GAAP gross profit and gross margin. We believe that acquisition and integration related costs and certain non-cash expenses do not constitute part of Qorvo's ongoing operations and therefore, the exclusion of these costs provides management 
+
+and investors with better visibility into the actual costs required to generate revenues over time and facilitates a useful evaluation of our historical and projected performance. We believe disclosure of these non-GAAP operating expenses has economic substance because the excluded expenses are either unrelated to ongoing operations or do not represent current cash expenditures.
+
+Free cash flow. Qorvo defines free cash flow as net cash provided by operating activities during the period minus property and equipment expenditures made during the period, and free cash flow margin is calculated as free cash flow as a percentage of revenue. We use free cash flow as a supplemental financial measure in our evaluation of liquidity and financial strength. Management believes that this measure is useful as an indicator of our ability to service our debt, meet other payment obligations and make strategic investments. Free cash flow should be considered in addition to, rather than as a substitute for, net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity. Additionally, our definition of free cash flow is limited, in that it does not represent residual cash flows available for discretionary expenditures due to the fact that the measure does not deduct the payments required for debt service and other contractual obligations. Therefore, we believe it is important to view free cash flow as a measure that provides supplemental information to our entire statement of cash flows.
+
+EBITDA. Qorvo defines EBITDA as earnings before interest expense and interest income, income tax expense (benefit), depreciation and intangible amortization. Management believes that this measure is useful to evaluate our ongoing operations and as a general indicator of our operating cash flow (in conjunction with a cash flow statement which also includes among other items, changes in working capital and the effect of non-cash charges).
+
+Non-GAAP ROIC. Return on invested capital (ROIC) is a non-GAAP financial measure that management believes provides useful supplemental information for management and the investor by measuring the effectiveness of our operations' use of invested capital to generate profits. We use ROIC to track how much value we are creating for our shareholders. Non-GAAP ROIC is calculated by dividing annualized non-GAAP operating income, net of an adjustment for income taxes (as described above), by average invested capital. Average invested capital is calculated by subtracting the average of the beginning balance and the ending balance of equity plus net debt, less certain goodwill.
+
+Net debt or positive net cash. Net debt or positive net cash is defined as unrestricted cash, cash equivalents and short-term investments minus any borrowings under our credit facility and the principal balance of our senior unsecured notes. Management believes that net debt or positive net cash provides useful information regarding the level of Qorvo's indebtedness by reflecting cash and investments that could be used to repay debt.
+
+Forward-looking non-GAAP financial measures.  Our earnings release contains forward-looking free cash flow, gross margin, income tax rate and diluted earnings per share. We provide these non-GAAP measures to investors on a prospective basis for the same reasons (set forth above) that we provide them to investors on a historical basis. We are unable to provide a reconciliation of the forward-looking non-GAAP financial measures to the most directly comparable forward-looking GAAP financial measures without unreasonable effort due to variability and difficulty in making accurate projections for items that would be required to be included in the GAAP measures, such as stock-based compensation, acquisition and integration related costs, restructuring related charges, asset impairments and the provision for income taxes. We believe such reconciliations would imply a degree of precision that would be confusing or misleading to investors.
+
+Limitations of non-GAAP financial measures. The primary material limitations associated with the use of non-GAAP financial measures as an analytical tool compared to the most directly comparable GAAP financial measures are these non-GAAP financial measures (i) may not be comparable to similarly titled measures used by other companies in our industry, and (ii) exclude financial information that some may consider important in evaluating our performance, thus limiting their usefulness as a comparative tool. We compensate for these limitations by providing full disclosure of the differences between these non-GAAP financial measures and the corresponding GAAP financial measures, including a reconciliation of the non-GAAP financial measures to the corresponding GAAP financial measures, to enable investors to perform their own analysis of our gross profit and gross margin, operating expenses, operating income, net income, net income per diluted share and net cash provided by operating activities. We further compensate for the limitations of our use of non-GAAP financial measures by presenting the corresponding GAAP measures more prominently.
+
+Qorvo will conduct a conference call at 5:00 p.m. ET today to discuss today’s press release. The conference call will be broadcast live over the Internet and can be accessed by any interested party at http://www.qorvo.com (under “Investors”). A telephone playback of the conference call will be available approximately two hours after the call’s completion and can be accessed by dialing 719-457-0820 and using the passcode 5371000. The playback will be available through the close of business February 9, 2022.
+
+About Qorvo
+
+Qorvo (Nasdaq:QRVO) makes a better world possible by providing innovative Radio Frequency (RF) solutions at the center of connectivity. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers’ most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including advanced wireless devices, wired and wireless networks and defense radar and communications. We also leverage unique competitive strengths to advance 5G networks, cloud computing, the Internet of Things, and other emerging applications that expand the global framework interconnecting people, places and things. Visit www.qorvo.com to learn how Qorvo connects the world.
+
+Qorvo is a registered trademark of Qorvo, Inc. in the U.S. and in other countries. All other trademarks are the property of their respective owners.
+
+This press release includes "forward-looking statements" within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, statements about our plans, objectives, representations and contentions, and are not historical facts and typically are identified by use of terms such as "may," "will," "should," "could," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential," "continue" and similar words, although some forward-looking statements are expressed differently. You should be aware that the forward-looking statements included herein represent management's current judgment and expectations, but our actual results, events and performance could differ materially from those expressed or implied by forward-looking statements. We do not intend to update any of these forward-looking statements or publicly announce the results of any revisions to these forward-looking statements, other than as is required under U.S. federal securities laws. Our business is subject to numerous risks and uncertainties, including those relating to fluctuations in our operating results; our substantial dependence on developing new products and achieving design wins; our dependence on several large customers for a substantial portion of our revenue; the COVID-19 pandemic materially and adversely affecting our financial condition and results of operations; a loss of revenue if defense and aerospace contracts are canceled or delayed; our dependence on third parties; risks related to sales through distributors; risks associated with the operation of our manufacturing facilities; business disruptions; poor manufacturing yields; increased inventory risks and costs due to timing of customer forecasts; our inability to effectively manage or maintain evolving relationships with platform providers; our ability to continue to innovate in a very competitive industry; underutilization of manufacturing facilities as a result of industry overcapacity; unfavorable changes in interest rates, pricing of certain precious metals, utility rates and foreign currency exchange rates; our acquisitions and other strategic investments failing to achieve financial or strategic objectives; our ability to attract, retain and motivate key employees; warranty claims, product recalls and product liability; changes in our effective tax rate; changes in the favorable tax status of certain of our subsidiaries; enactment of international or domestic tax legislation, or changes in regulatory guidance; risks associated with environmental, health and safety regulations, and climate change; risks from international sales and operations; economic regulation in China; changes in government trade policies, including imposition of tariffs and export restrictions; we may not be able to generate sufficient cash to service all of our debt; restrictions imposed by the agreements governing our debt; our reliance on our intellectual property portfolio; claims of infringement of third-party intellectual property rights; security breaches and other similar disruptions compromising our information; theft, loss or misuse of personal data by or about our employees, customers or third parties; provisions in our governing documents and Delaware law may discourage takeovers and business combinations that our stockholders might consider to be in their best interests; and volatility in the price of our common stock. These and other risks and uncertainties, which are described in more detail in Qorvo's most recent Annual Report on Form 10-K and in other reports and statements filed with the Securities and Exchange Commission, could cause actual results and developments to be materially different from those expressed or implied by any of these forward-looking statements.
+
+# # #
+
+Financial Tables to Follow
+
+ QORVO, INC. AND SUBSIDIARIES 
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In thousands, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+QORVO, INC. AND SUBSIDIARIES
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(In thousands, except per share data)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+QORVO, INC. AND SUBSIDIARIES
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(1) Free Cash Flow is calculated as net cash provided by operating activities minus property and equipment expenditures.
+
+QORVO, INC. AND SUBSIDIARIES
+
+ADDITIONAL SELECTED NON-GAAP FINANCIAL MEASURES AND RECONCILIATIONS
+
+(In thousands)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+QORVO, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands)
+
+(Unaudited)
+
+[DATA_TABLE_REMOVED]
+
+At Qorvo®
+
+Doug DeLieto
+
+VP, Investor Relations
+
+1.336.678.7968

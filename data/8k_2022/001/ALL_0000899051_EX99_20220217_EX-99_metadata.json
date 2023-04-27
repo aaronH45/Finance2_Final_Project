@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000899051",
+    "sec_company_name": "ALLSTATE CORP (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220217",
+    "sec_filing_date": "20220217",
+    "sec_changed_date": "20220217",
+    "sec_accepted_date": "20220217080032",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/899051/000089905122000012/0000899051-22-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/899051/000089905122000012/0000899051-22-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ALL_0000899051_EX99_20220217_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3218 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2097,
+    "endpoints": [
+        "allcorp013122raterelease   ",
+        "January Rate Commentary  Number of locations (1) Total brand (%) (2) Location specific (%) (3) Number of locations Total brand (%) Location specific (%) 5 0.6 7.7 5 0.6 7.7 12 0.4 1.8 12 0.4 1.8 Number of locations Total brand (%) Location specific (%) Number of locations Total brand (%) Location specific (%) 25 2.9 7.1 20 0.3 2.1 22 2.4 5.7 13 2.5 5.6 (1) (2) (3) Refers to the number of U.S. states, the District of Columbia or Canadian provinces where rate changes have been implemented. Allstate brand operates in 50 states, the District of Columbia, and 5 Canadian provinces. National General operates in 50 states and the District of Columbia. Represents the impact in the locations where rate changes were implemented during the period as a percentage of total brand prior year-end premiums written. Represents the impact in the locations where rate changes were implemented during the period as a percentage of its respective total prior year-end premiums written in those same locations. National General Auto Allstate brand Auto National General Auto Three months ended December 31, 2021 Three months ended September 30, 2021 The Allstate Corporation Allstate Protection Impact of Net Rate Changes Implemented on Premiums Written For the month ended January 31, 2022 Quarter to date ended January 31, 2022 Allstate brand Auto “Allstate continued to address higher auto loss cost inflation by taking meaningful rate actions in January, with Allstate brand implemented rate increases of 7.7% across five locations, resulting in total Allstate brand insurance premium impact of 0.6%. We have implemented 30 rate increases averaging approximately 7.2% across 28 locations since the beginning of the fourth quarter 2021. These locations represent approximately 48% of 2021 Allstate brand auto written premiums. The increase to Allstate brand total auto insurance written premiums of approximately 3.5% implemented over this four-month period will be earned throughout the year,” said Mario Rizzo, Chief Financial Officer of The Allstate Corporation. Exhibit 99"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ALL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\ALL_0000899051_EX99_20220217_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:22:48.981541"
+}

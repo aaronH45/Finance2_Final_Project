@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001339947",
+    "sec_company_name": "Viacom Inc. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180201",
+    "sec_filing_date": "20180201",
+    "sec_changed_date": "20180201",
+    "sec_accepted_date": "20180201172536",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1339947/000133994718000004/0001339947-18-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1339947/000133994718000004/0001339947-18-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\VIAB_0001339947_8K_20180201_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "38004 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1999,
+    "endpoints": [
+        "Document   ",
+        "99 Press release of Viacom Inc. dated February 1, 2018."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VIAB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\VIAB_0001339947_8K_20180201_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:22:24.031059"
+}

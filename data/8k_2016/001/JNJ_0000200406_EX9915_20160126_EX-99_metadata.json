@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000200406",
+    "sec_company_name": "JOHNSON & JOHNSON (Filer)",
+    "document_type": "EX9915",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160126",
+    "sec_filing_date": "20160126",
+    "sec_changed_date": "20160126",
+    "sec_accepted_date": "20160126081352",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040616000067/0000200406-16-000067-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/200406/000020040616000067/0000200406-16-000067.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\JNJ_0000200406_EX9915_20160126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "34234 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 16175,
+    "endpoints": [
+        "Exhibit   ",
+        "This press release contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 regarding, among other things, future operating and financial performance, product development, market position, business strategy and restructuring plans. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of Johnson & Johnson. Risks and uncertainties include, but are not limited to, economic factors, such as interest rate and currency exchange rate fluctuations; competition, including technological advances, new products and patents attained by competitors; challenges and uncertainties inherent in new product development, including uncertainty of clinical success and obtaining regulatory approvals; uncertainty of commercial success for new and existing products; impact of business combinations and divestitures; challenges to patents; the impact of patent expirations; the ability of the company to successfully execute strategic plans, including restructuring plans; any required consultation procedures relating to the restructuring workforce actions; the potential that the expected benefits and opportunities related to the restructuring may not be realized or may take longer to realize than expected; market conditions and the possibility that the on-going share repurchase program may be suspended or discontinued; significant adverse litigation or government action, including related to product liability claims; changes to applicable laws and regulations, including global health care reforms; trends toward health care cost containment; changes in behavior and spending patterns or financial distress of purchasers of health care products and services; financial instability of international economies and legal systems and sovereign risk; manufacturing difficulties or delays, internally or within the supply chain; product efficacy or safety concerns resulting in product recalls or regulatory action; increased scrutiny of the health care industry by government agencies; and the potential failure to meet obligations in compliance agreements with government bodies. A further list and description of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended December 28, 2014, including Exhibit 99 thereto, and the company’s subsequent filings with the Securities and Exchange Commission. Copies of these filings are available online at www.sec.gov, www.investor.jnj.com, or on request from Johnson & Johnson. Any forward-looking statement made in this release speaks only as of the date of this release. Johnson & Johnson does not undertake to update any forward-looking statements as a result of new information or future events or developments."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JNJ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\JNJ_0000200406_EX9915_20160126_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:43:44.426612"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000740260",
+    "sec_company_name": "VENTAS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160115",
+    "sec_filing_date": "20160115",
+    "sec_changed_date": "20160115",
+    "sec_accepted_date": "20160115170341",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/740260/000110465916090143/0001104659-16-090143-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/740260/000110465916090143/0001104659-16-090143.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\VTR_0000740260_EX991_20160115_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "337734 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13377,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "FFO and normalized FFO presented herein may not be identical to FFO and normalized FFO presented by other real estate companies due to the fact that not all real estate companies use the same definitions. FFO and normalized FFO should not be considered as alternatives to net income (determined in accordance with GAAP) as indicators of Ventas’s financial performance or as alternatives to cash flow from operating activities (determined in accordance with GAAP) as measures of Ventas’s liquidity, nor is FFO and normalized FFO necessarily indicative of sufficient cash flow to fund all of Ventas’s needs. Ventas believes that in order to facilitate a clear understanding of Ventas’s consolidated historical operating results, FFO and normalized FFO should be examined in conjunction with net income as presented in the unaudited pro forma condensed consolidated financial statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "VTR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\VTR_0000740260_EX991_20160115_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:57:37.456556"
+}

@@ -1,0 +1,65 @@
+xml version="1.0" encoding="UTF-8"?        Document  
+
+falseCA0000072971falseDEWELLS FARGO & COMPANY/MNfalsefalseDep Shr, 1/1000th int. per shr of 5.85% Fix-to-Float Non-Cum. Perpetual Class A Pref. Stock, Ser. QDep Shr, 1/1000th int. per shr of 6.625% Fix-to-Float Non-Cum. Perpetual Class A Pref. Stock, Ser. Rfalsefalse  0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesTMember    2020-02-12 2020-02-12    0000072971  us-gaap:CommonStockMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesOMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesWMember    2020-02-12 2020-02-12    0000072971  wfc:FixedtoFloatingRate6.625NonCumulativePerpetualClassAPFDStockSeriesRMember    2020-02-12 2020-02-12    0000072971  wfc:FixedtoFloatingRate5.85NonCumulativePerpetualClassAPFDStockSeriesQMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesXMember    2020-02-12 2020-02-12    0000072971  wfc:A7.5NonCumulativePerpetualConvertibleClassAPreferredStockSeriesLMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesNMember    2020-02-12 2020-02-12    0000072971  wfc:Guaranteeof5.80FixedtoFloatingRateNormalWachoviaIncomeTrustSecuritiesofWachoviaCapitalTrustIIIMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesPMember    2020-02-12 2020-02-12    0000072971  wfc:GuaranteeofMediumTermNotesSeriesAdueOctober302028ofWellsFargoFinanceLLCMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesVMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesYMember    2020-02-12 2020-02-12    0000072971  wfc:NonCumulativePerpetualClassAPreferredStockSeriesZMember    2020-02-12 2020-02-12    0000072971   2020-02-12 2020-02-12  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): February 12, 2020 
+
+WELLS FARGO & COMPANY 
+
+(Exact name of registrant as specified in its charter)
+
+[DATA_TABLE_REMOVED]
+
+420 Montgomery Street, San Francisco, California 94104 
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: 1-866-249-3302 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b‑2).
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  o
+
+Item 8.01 Other Events.
+
+On February 12, 2020, the Company issued a press release announcing it will redeem on March 16, 2020 (the “Redemption Date”), the remaining 1,802,000 shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Class A Preferred Stock, Series K (the “Series K Preferred Stock”). After giving effect to the redemption on the Redemption Date, no shares of the Series K Preferred Stock will remain outstanding. The press release is included as Exhibit 99.1 to this report and is incorporated by reference into this Item 8.01.
+
+On February 12, 2020, the Company also issued a press release announcing it will redeem on March 16, 2020 (the “Redemption Date”), 26,720 shares of its Non-Cumulative Perpetual Class A Preferred Stock, Series T (the “Series T Preferred Stock”) and 26,720,000 shares of the related depositary shares, each representing a 1/1,000th interest in a share of the Series T Preferred Stock (the “Series T Depositary Shares”). After giving effect to the partial redemption on the Redemption Date, 5,280 shares of the Series T Preferred Stock and 5,280,000 shares of the Series T Depositary Shares will remain outstanding. The press release is included as Exhibit 99.2 to this report and is incorporated by reference into this Item 8.01.
+
+Item 9.01. Financial Statements and Exhibits.
+
+[DATA_TABLE_REMOVED]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[DATA_TABLE_REMOVED]

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000831001",
+    "sec_company_name": "CITIGROUP INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200129",
+    "sec_filing_date": "20200129",
+    "sec_changed_date": "20200129",
+    "sec_accepted_date": "20200129160557",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/831001/000119312520018387/0001193125-20-018387-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/831001/000119312520018387/0001193125-20-018387.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\C_0000831001_EX991_20200129_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "156770 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3141,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   Citigroup Inc. securities registered pursuant to section 12(b)    ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "C",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\C_0000831001_EX991_20200129_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:36:36.722388"
+}

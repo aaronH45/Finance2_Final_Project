@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000788784",
+    "sec_company_name": "PUBLIC SERVICE ENTERPRISE GROUP INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190110",
+    "sec_filing_date": "20190115",
+    "sec_changed_date": "20190115",
+    "sec_accepted_date": "20190115170003",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/788784/000119312519009834/0001193125-19-009834-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/788784/000119312519009834/0001193125-19-009834.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\PEG_0000788784_EX99_20190110_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8811 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4041,
+    "endpoints": [
+        "EX-99   ",
+        "From time to time, PSEG, PSE&G and PSEG Power release important information via postings on their corporate website at https://investor.pseg.com. Investors and other interested parties are encouraged to visit the corporate website to review new postings. The “Email Alerts” link at https://investor.pseg.com may be used to enroll to receive automatic email alerts and/or Really Simple Syndication (RSS) feeds regarding new postings."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PEG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\PEG_0000788784_EX99_20190110_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:44:44.580398"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000352915",
+    "sec_company_name": "UNIVERSAL HEALTH SERVICES INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180228",
+    "sec_filing_date": "20180228",
+    "sec_changed_date": "20180228",
+    "sec_accepted_date": "20180228163030",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/352915/000156459018003822/0001564590-18-003822-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/352915/000156459018003822/0001564590-18-003822.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\UHS_0000352915_8K_20180228_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "26417 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2534,
+    "endpoints": [
+        "uhs-8k_20180228.htm     ",
+        "Date: February 28, 2018"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "UHS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\UHS_0000352915_8K_20180228_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:30:02.095614"
+}

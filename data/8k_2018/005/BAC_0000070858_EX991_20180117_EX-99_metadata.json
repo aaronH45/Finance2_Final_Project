@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000070858",
+    "sec_company_name": "BANK OF AMERICA CORP /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180117",
+    "sec_filing_date": "20180117",
+    "sec_changed_date": "20180117",
+    "sec_accepted_date": "20180117065500",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/70858/000007085818000002/0000070858-18-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/70858/000007085818000002/0000070858-18-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\BAC_0000070858_EX991_20180117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "79569 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 62344,
+    "endpoints": [
+        "bac12312017ex991  ",
+        "Current period information is preliminary and based on company data available at the time of the presentation. 18 Bank of America Corporation and Subsidiaries Reconciliations to GAAP Financial Measures (continued) (Dollars in millions) Year Ended December 31 Fourth Quarter 2017 Third Quarter 2017 Fourth Quarter 20162017 2016 Reconciliation of period-end common shareholders’ equity to period-end tangible common shareholders’ equity Common shareholders’ equity $ 244,823 $ 240,975 $ 244,823 $ 249,646 $ 240,975 Goodwill (68,951) (69,744) (68,951) (68,968) (69,744) Intangible assets (excluding mortgage servicing rights) (2,312) (2,989) (2,312) (2,459) (2,989) Related deferred tax liabilities 943 1,545 943 1,435 1,545 Tangible common shareholders’ equity $ 174,503 $ 169,787 $ 174,503 $ 179,654 $ 169,787 Reconciliation of period-end shareholders’ equity to period-end tangible shareholders’ equity Shareholders’ equity $ 267,146 $ 266,195 $ 267,146 $ 271,969 $ 266,195 Goodwill (68,951) (69,744) (68,951) (68,968) (69,744) Intangible assets (excluding mortgage servicing rights) (2,312) (2,989) (2,312) (2,459) (2,989) Related deferred tax liabilities 943 1,545 943 1,435 1,545 Tangible shareholders’ equity $ 196,826 $ 195,007 $ 196,826 $ 201,977 $ 195,007 Reconciliation of period-end assets to period-end tangible assets Assets $ 2,281,234 $ 2,188,067 $ 2,281,234 $ 2,284,174 $ 2,188,067 Goodwill (68,951) (69,744) (68,951) (68,968) (69,744) Intangible assets (excluding mortgage servicing rights) (2,312) (2,989) (2,312) (2,459) (2,989) Related deferred tax liabilities 943 1,545 943 1,435 1,545 Tangible assets $ 2,210,914 $ 2,116,879 $ 2,210,914 $ 2,214,182 $ 2,116,879 Book value per share of common stock Common shareholders’ equity $ 244,823 $ 240,975 $ 244,823 $ 249,646 $ 240,975 Ending common shares issued and outstanding 10,287,302 10,052,626 10,287,302 10,457,474 10,052,626 Book value per share of common stock $ 23.80 $ 23.97 $ 23.80 $ 23.87 $ 23.97 Tangible book value per share of common stock Tangible common shareholders’ equity $ 174,503 $ 169,787 $ 174,503 $ 179,654 $ 169,787 Ending common shares issued and outstanding 10,287,302 10,052,626 10,287,302 10,457,474 10,052,626 Tangible book value per share of common stock $ 16.96 $ 16.89 $ 16.96 $ 17.18 $ 16.89 Certain prior period amounts have been reclassified to conform to current period presentation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BAC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\005\BAC_0000070858_EX991_20180117_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:33:04.352925"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001393612",
+    "sec_company_name": "Discover Financial Services (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160216",
+    "sec_filing_date": "20160216",
+    "sec_changed_date": "20160216",
+    "sec_accepted_date": "20160216081520",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1393612/000139361216000056/0001393612-16-000056-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1393612/000139361216000056/0001393612-16-000056.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\DFS_0001393612_EX991_20160216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "54966 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2310,
+    "endpoints": [
+        "8-K   ",
+        "The statistics presented above provide information regarding Discover Financial Services' total credit card portfolio. The data presented differs from the data reported by the Discover Card Master Trust I and, through the collateral certificate, the Discover Card Execution Note Trust (collectively, the “Trusts”), Discover Funding LLC and Discover Bank in their monthly Form 10-D reports filed with the Securities and Exchange Commission which reflects only credit card loans that have been securitized through the Trusts. The credit card loans that have been securitized through the Trusts do not possess identical characteristics with those of the total portfolio of Discover credit card loans, which reflects the aggregate of securitized and non-securitized credit card loans. Thus, the reported credit performance of the Trusts may, on a month-to-month basis, be better or worse than the credit performance of the total credit card portfolio. Reported differences may arise as a result of, among other things, differences in the mix and vintage of loans between the Trusts and the total portfolio, the use of beginning of month principal receivables balances to calculate charge-off statistics in the Trusts compared to the use of average loan balances over the reporting period used in the total portfolio statistics, and the calculation of the Trusts' net charge-off rate annualized on a 30/360 day count basis, as compared to an actual/actual day count basis for the total portfolio."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DFS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\DFS_0001393612_EX991_20160216_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:58:24.412055"
+}

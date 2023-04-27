@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000713676",
+    "sec_company_name": "PNC FINANCIAL SERVICES GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210226",
+    "sec_changed_date": "20210226",
+    "sec_accepted_date": "20210226132949",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367621000025/0000713676-21-000025-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/713676/000071367621000025/0000713676-21-000025.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\PNC_0000713676_EX991_20201231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "185791 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 163840,
+    "endpoints": [
+        "pnc-12312020xex991   ",
+        "27. Segment Information The Company’s management directs BlackRock’s operations as one business, the asset management business. The Company utilizes a consolidated approach to assess performance and allocate resources. As such, the Company operates in one business segment. The following table illustrates total revenue for 2020, 2019 and 2018 by geographic region. These amounts are aggregated on a legal entity basis and do not necessarily reflect where the customer resides or affiliated services are provided. (in millions) Revenue 2020 2019 2018 Americas $ 10,593 $ 9,703 $ 9,303 Europe 4,940 4,158 4,217 Asia-Pacific 672 678 678 Total revenue $ 16,205 $ 14,539 $ 14,198 See Note 17, Revenue, for further information on the Company’s sources of revenue. The following table illustrates long-lived assets that consist of goodwill and property and equipment at December 31, 2020 and 2019 by geographic region. These amounts are aggregated on a legal entity basis and do not necessarily reflect where the asset is physically located. (in millions) Long-lived Assets 2020 2019 Americas $ 13,784 $ 13,830 Europe 1,360 1,360 Asia-Pacific 88 87 Total long-lived assets $ 15,232 $ 15,277 Americas is primarily comprised of the United States, Latin America and Canada, while Europe is primarily comprised of the United Kingdom, the Netherlands, France and Luxembourg. Asia-Pacific is primarily comprised of Hong Kong, Australia, Japan and Singapore. 28. Subsequent Events On January 21, 2021, the Board of Directors approved BlackRock’s quarterly dividend of $4.13 per share to be paid on March 23, 2021 to stockholders of record at the close of business on March 5, 2021. On February 1, 2021, the Company completed the acquisition of 100% of the equity interests of Aperio, a pioneer in customizing tax-optimized index equity separately managed accounts (“SMAs”) for approximately $1.1 billion in cash, using existing cash resources. The acquisition of Aperio increased BlackRock’s SMA assets and is expected to expand the breadth of the Company’s capabilities via tax-managed strategies across factors, broad market indexing, and investor Environmental, Social, and Governance preferences across all asset classes. In connection with the acquisition, the Company recorded an initial estimate of purchase price allocation at the date of the transaction primarily related to goodwill of approximately $0.8 billion and $0.3 billion of finite-lived intangible assets (mainly customer relationships), which will be amortized over their estimated lives, which range from 10 to 12 years, with a weighted-average estimated life of approximately 10 years. The goodwill recognized in connection with the acquisition is primarily attributable to anticipated synergies from the transaction. The amount of goodwill expected to be deductible for tax purposes is approximately $0.5 billion. The Company conducted a review for additional subsequent events and determined that no subsequent events had occurred that would require accrual or additional disclosures. F-42"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\004\PNC_0000713676_EX991_20201231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:16:26.546854"
+}

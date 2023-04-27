@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004962",
+    "sec_company_name": "AMERICAN EXPRESS CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190215",
+    "sec_filing_date": "20190215",
+    "sec_changed_date": "20190215",
+    "sec_accepted_date": "20190215120030",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4962/000000496219000026/0000004962-19-000026-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4962/000000496219000026/0000004962-19-000026.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\AXP_0000004962_8K_20190215_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "76140 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4348,
+    "endpoints": [
+        "UNITED STATES ",
+        "-4-"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AXP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\AXP_0000004962_8K_20190215_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:36:02.161528"
+}

@@ -1,0 +1,81 @@
+xml version="1.0" encoding="utf-8"?                
+
+   0000051143 false Capital stock, par value $.20 per share IBM CHX        0000051143   2022-02-02 2022-02-02     0000051143  us-gaap:CommonStockMember exch:XCHI    2022-02-02 2022-02-02     0000051143  us-gaap:CommonStockMember exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes2.625PercentDue2022Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.25PercentDue2023Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes0.375PercentDue2023Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.125PercentDue2024Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes2.875PercentDue2025Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes0.950PercentDue2025Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes0.875PercentDue2025Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes0.300PercentDue2026Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.250PercentDue2027Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes0.300PercentDue2028Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.750PercentDue2028Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.500PercentDue2029Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Notes1.750PercentDue2031Member exch:XNYS    2022-02-02 2022-02-02     0000051143  exch:XNYS ibm:Notes0.650PercentDue2032Member    2022-02-02 2022-02-02     0000051143  exch:XNYS ibm:Notes1.200PercentDie2040Member    2022-02-02 2022-02-02     0000051143  ibm:Debentures7.00PercentDue2025Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Debentures6.22PercentDue2027Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Debentures6.50PercentDue2028Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Debentures7.00PercentDue2045Member exch:XNYS    2022-02-02 2022-02-02     0000051143  ibm:Debentures7.125PercentDue2096Member exch:XNYS    2022-02-02 2022-02-02    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+ Title of each class Capital stock, par value $.20 per share 
+
+ Trading symbol IBM 
+
+  Common Stock  
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549  
+
+FORM 8-K 
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+Date of Report : February 2, 2022 
+
+(Date of earliest event reported) 
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+914-499-1900 
+
+(Registrant’s telephone number) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Financial Statements and Exhibits. 
+
+This Current Report on Form 8-K is being filed to incorporate by reference into Registration Statement No. 333-230099 on Form S-3, effective March 6, 2019, the documents included as (1) Exhibits 1.1, 4.1 and 4.2 relating to €2,000,000,000 aggregate principal amount of debt securities of the Registrant (the “Euro Notes”), (2) Exhibits 1.2, 4.3, 4.4 and 4.5 relating to $1,800,000,000 aggregate principal amount of debt securities of the Registrant (the “USD Notes” and, together with the Euro Notes, the “Notes”) and (3) Exhibits 5.1 and 23.1 regarding the Notes. The Euro Notes and the USD Notes were offered by means of separate prospectus supplements. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+  [DATA_TABLE_REMOVED] 
+
+IBM’s web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted. 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized. 
+
+ Date: February 8, 2022   
+
+   By: /s/ Simon J. Beaumont 
+
+     Simon J. Beaumont 
+
+     Vice President and Treasurer

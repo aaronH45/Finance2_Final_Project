@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001633917",
+    "sec_company_name": "PayPal Holdings, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210203",
+    "sec_filing_date": "20210203",
+    "sec_changed_date": "20210203",
+    "sec_accepted_date": "20210203163640",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1633917/000163391721000016/0001633917-21-000016-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1633917/000163391721000016/0001633917-21-000016.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\PYPL_0001633917_EX991_20210203_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "54868 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 46432,
+    "endpoints": [
+        "q4_fy20-paypalearningsre   ",
+        "Q4/FY 2020 Results 17 PayPal Holdings, Inc. Cash Flow Reclassification(1),(2) Three Months Ended Year Ended December 31, 2020 September 30, 2020 June 30, 2020 March 31, 2020 2020 (In Millions/Unaudited) Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Cash provided by (used in): Operating activities(3) $ 1,347 $ — $ 1,347 $ 720 $ 594 $ 1,314 $ 2,383 $ (611) $ 1,772 $ 1,504 $ (83) $ 1,421 $ 5,854 $ — $ 5,854 Investing activities(4) (2,934) — (2,934) (3,193) (7) (3,200) (7,505) (25) (7,530) (2,568) 14 (2,554) (16,218) — (16,218) Financing activities(5) 2,362 — 2,362 1,493 (587) 906 6,278 636 6,914 2,241 69 2,310 12,492 — 12,492 Effect of exchange rates on cash, cash equivalents, and restricted cash 143 — 143 98 — 98 106 — 106 (178) — (178) 169 — 169 Net change in cash, cash equivalents, and restricted cash $ 918 $ — $ 918 $ (882) $ — $ (882) $ 1,262 $ — $ 1,262 $ 999 $ — $ 999 $ 2,297 $ — $ 2,297 Three Months Ended Year Ended December 31, 2019 September 30, 2019 June 30, 2019 March 31, 2019 2019 Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Cash provided by (used in): Operating activities(3) $ 1,264 $ (342) $ 922 $ 1,096 $ 157 $ 1,253 $ 1,174 $ (194) $ 980 $ 1,027 $ (111) $ 916 $ 4,561 $ (490) $ 4,071 Investing activities(4) (399) 66 (333) 623 4 627 (1,097) (47) (1,144) (4,860) (32) (4,892) (5,733) (9) (5,742) Financing activities(5) (149) 276 127 1,339 (161) 1,178 996 241 1,237 1,502 143 1,645 3,688 499 4,187 Effect of exchange rates on cash, cash equivalents, and restricted cash 43 — 43 (48) — (48) (2) — (2) 1 — 1 (6) — (6) Net change in cash, cash equivalents, and restricted cash $ 759 $ — $ 759 $ 3,010 $ — $ 3,010 $ 1,071 $ — $ 1,071 $ (2,330) $ — $ (2,330) $ 2,510 $ — $ 2,510 Three Months Ended Year Ended December 31, 2018 September 30, 2018 June 30, 2018 March 31, 2018 2018 Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Pre Adj. Post Cash provided by (used in): Operating activities(3) $ 1,134 $ 51 $ 1,185 $ 4,670 $ (54) $ 4,616 $ 28 $ — $ 28 $ (349) $ — $ (349) $ 5,483 $ (3) $ 5,480 Investing activities(4) 123 (1) 122 154 (18) 136 558 — 558 5 — 5 840 (19) 821 Financing activities(5) (1,769) (50) (1,819) 1,049 72 1,121 (1,335) — (1,335) 793 — 793 (1,262) 22 (1,240) Effect of exchange rates on cash, cash equivalents, and restricted cash (24) — (24) (26) — (26) (56) — (56) (7) — (7) (113) — (113) Net change in cash, cash equivalents, and restricted cash $ (536) $ — $ (536) $ 5,847 $ — $ 5,847 $ (805) $ — $ (805) $ 442 $ — $ 442 4,948 $ — $ 4,948 (1) Beginning with the fourth quarter of 2020, we reclassified certain cash flows related to customer balances from cash flows from operating activities to cash flows from investing activities and cash flows from financing activities within the condensed consolidated statements of cash flows. The current period presentation classifies all changes in funds receivable and customer accounts and funds payable and amounts due to customers consistently on our condensed consolidated statement of cash flows as cash flows from investing activities and cash flows from financing activities, respectively, regardless of which product the cash flows relate to on our Payments Platform. (2) “Pre” represents amounts as previously reported. “Adj.” represents adjustments to conform with current period presentation. “Post” represents amounts reclassified to be consistent with the current period presentation. (3) Financial statement line item impacted in operating activities was “Other assets and liabilities.” (4) Financial statement line item impacted in investing activities was “Funds receivable.” (5) Financial statement line item impacted in financing activities was “Funds payable and amounts due to customers.” Q 3 2 0 2 0 R esu lts 17"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PYPL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\003\PYPL_0001633917_EX991_20210203_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:06:51.156097"
+}

@@ -1,0 +1,113 @@
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of 
+
+The Securities Exchange Act of 1934 
+
+Date of report (date of earliest event reported): February 3, 2017 
+
+SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY 
+
+(Exact name of Registrant as specified in its charter) 
+
+ [DATA_TABLE_REMOVED]  
+
+ [DATA_TABLE_REMOVED]  
+
+Registrant’s telephone number, including area code: (353) (1) 234-3136 
+
+N/A 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Item 1.01 Entry into a Material Definitive Agreement. 
+
+On February 3, 2017, Seagate HDD Cayman (“Seagate HDD”), an exempted company with limited liability organized under the laws of the Cayman Islands and a subsidiary of Seagate Technology plc (the “Company”), issued $750 million in aggregate principal amount of 4.250% Senior Notes due 2022 (the “2022 Notes”) and $500 million in aggregate principal amount of 4.875% Senior Notes due 2024 (the “2024 Notes” and, together with the 2022 Notes, the “Notes”). The 2022 Notes mature on March 1, 2022, and were issued pursuant to an indenture, dated as of February 3, 2017 (the “2022 Indenture”), among Seagate HDD, the Company and Wells Fargo Bank, National Association, as trustee of the 2022 Notes (the “2022 Notes Trustee”). The Company has also entered into a registration rights agreement related to the 2022 Notes, dated as of February 3, 2017 (the “2022 Registration Rights Agreement”), among Seagate HDD, the Company and Morgan Stanley & Co. LLC, as representative of the several initial purchasers (collectively, the “Initial Purchasers”). The 2024 Notes mature on March 1, 2024, and were issued pursuant to an indenture, dated as of February 3, 2017 (the “2024 Indenture” and, together with the 2022 Indenture, the “Indentures” and each, an “Indenture”), among Seagate HDD, the Company and Wells Fargo Bank, National Association, as trustee of the 2024 Notes (the “2024 Notes Trustee” and, together with the 2022 Notes Trustee, the “Trustees”). The Company has also entered into a registration rights agreement related to the 2024 Notes, dated as of February 3, 2017 (the “ 2024 Registration Rights Agreement” and, together with the 2022 Registration Rights Agreement, the “Registration Rights Agreements”), among Seagate HDD, the Company and the Initial Purchasers. 
+
+Certain of the Initial Purchasers and their affiliates have provided certain commercial banking, financial advisory, investment banking and other services to the Company and its affiliates in the ordinary course of their business, for which they have received customary fees and commissions. Affiliates of each of the Initial Purchasers act as lenders and affiliates of certain Initial Purchasers act as agents under our senior unsecured revolving credit facility. 
+
+Indentures and Notes 
+
+The following is a brief description of the material provisions of the Indentures and the Notes. This description of the Indentures and the Notes is qualified in its entirety by the 2022 Indenture, the form of 4.250% Senior Note due 2022 (included in the 2022 Indenture), the 2024 Indenture and the form of 4.875% Senior Note due 2024 (included in the 2024 Indenture), filed as Exhibits 4.1, 4.2, 4.3 and 4.4, respectively, to this Current Report on Form 8-K, which are incorporated herein by reference. 
+
+Interest 
+
+Interest on each series of Notes will be payable in cash semiannually on March 1 and September 1 of each year, commencing on September 1, 2017, to holders of record of such Notes on the February 15 or August 15 immediately preceding the interest payment date. 
+
+Guarantees 
+
+The obligations of Seagate HDD pursuant to each Indenture, including any repurchase obligation resulting from a Change of Control Triggering Event (as defined in each Indenture), are fully and unconditionally guaranteed, on a senior unsecured basis, by the Company (the “Guarantees”). 
+
+Ranking 
+
+The Notes are unsecured and will rank equally in right of payment with all of Seagate HDD’s other existing and future senior unsecured indebtedness and senior to any future subordinated indebtedness of Seagate HDD. The Guarantees will rank equally in right of payment with all of the Company’s other existing and future unsecured indebtedness. The Notes will be effectively subordinated to the Company’s and Seagate HDD’s present and future secured debt, to the extent of the value of the assets securing that debt, and will be structurally subordinated to all present and future liabilities, including trade payables, of Seagate HDD’s subsidiaries that do not guarantee the Notes (including liabilities pursuant to guarantees of our senior unsecured revolving credit facility provided by certain of our subsidiaries). 
+
+2 
+
+Optional Redemption 
+
+At any time before February 1, 2022 (one month prior to the maturity date of the 2022 Notes), Seagate HDD may redeem some or all of the 2022 Notes at a “make-whole” redemption price. The “make-whole” redemption price will be equal to (1) 100% of the principal amount of the 2022 Notes redeemed, plus (2) the excess, if any of (x) the sum of the present values of the remaining scheduled payments of principal and interest on the 2022 Notes being redeemed (as if the 2022 Notes matured on the 2022 Notes Par Call Date, as defined below), discounted to the redemption date on a semi-annual basis at a rate equal to the sum of the Treasury Rate (as defined in the 2022 Indenture) plus 40 basis points, minus accrued and unpaid interest, if any, on the 2022 Notes being redeemed to, but excluding, the redemption date over (y) the principal amount of the 2022 Notes being redeemed, plus (3) accrued and unpaid interest, if any, on the 2022 Notes being redeemed to, but excluding, the redemption date. At any time on or after February 1, 2022 (the “2022 Notes Par Call Date”), the Company may redeem some or all of the 2022 Notes at a redemption price equal to 100% of the principal amount of the 2022 Notes redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the redemption date. 
+
+At any time before January 1, 2024 (two months prior to the maturity date of the 2024 Notes), Seagate HDD may redeem some or all of the 2024 Notes at a “make-whole” redemption price. The “make-whole” redemption price will be equal to (1) 100% of the principal amount of the 2024 Notes redeemed, plus (2) the excess, if any of (x) the sum of the present values of the remaining scheduled payments of principal and interest on the 2024 Notes being redeemed (as if the 2024 Notes matured on the 2024 Notes Par Call Date, as defined below), discounted to the redemption date on a semi-annual basis at a rate equal to the sum of the Treasury Rate (as defined in the 2024 Indenture) plus 45 basis points, minus accrued and unpaid interest, if any, on the 2024 Notes being redeemed to, but excluding, the redemption date over (y) the principal amount of the 2024 Notes being redeemed, plus (3) accrued and unpaid interest, if any, on the 2024 Notes being redeemed to, but excluding, the redemption date. At any time on or after January 1, 2024 (the “2024 Notes Par Call Date”), the Company may redeem some or all of the 2024 Notes at a redemption price equal to 100% of the principal amount of the 2024 Notes redeemed, plus accrued and unpaid interest thereon, if any, to, but excluding, the redemption date. 
+
+Repurchase of Notes upon a Change of Control Triggering Event 
+
+Not later than 30 days following a Change of Control Triggering Event (as defined in each Indenture) with respect to a series of Notes, Seagate HDD must make an offer to purchase all outstanding Notes of such series at a purchase price equal to 101% of the principal amount thereof plus accrued and unpaid interest, if any, to the date of purchase. 
+
+Covenants 
+
+Each series of Notes will be subject to the covenants in the Indenture governing such series of Notes, which include limitations on liens, limitations on subsidiary debt, limitations on sale and lease-back transactions and limitations on consolidation, merger and conveyance, transfer and lease of assets. Seagate HDD is not required to make any mandatory redemption or sinking fund payments with respect to the Notes of either series. 
+
+Events of Default 
+
+Each Indenture also provides for customary events of default which, if any of them occurs, would permit or require the principal of and accrued interest on the Notes governed by such Indenture to become or to be declared due and payable. 
+
+Registration Rights Agreements 
+
+The Registration Rights Agreements each provide that, if any Notes of the applicable series are not freely transferable by persons not affiliated with the Company or Seagate HDD (each, a “Registrable Security”) within 366 days after the original issuance date of such series of Notes, the Company and Seagate HDD are required to consummate no later than 451 days after the original issuance date of such series of Notes, an offer to exchange all Registrable Securities for a new issue of notes with terms substantially similar to such series of Notes that will be registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to an effective Exchange Offer Registration Statement (as defined in each Registration Rights Agreement). 
+
+3 
+
+If the Company and Seagate HDD fail to comply with certain of their obligations under each Registration Rights Agreement with respect to any Registrable Security (each, a “Registration Default”), then additional interest will accrue on such Registrable Security at a per annum rate of 0.25% for the first 90 days following such Registration Default, with such additional interest to be increased by an additional 0.25% per annum with respect to each subsequent 90-day period, up to a maximum rate of 1.00% per annum, provided that all additional interest will cease to accrue on such Registrable Security upon the earlier of (1) the date on which all Registration Defaults with respect to such Registrable Security have been cured or (2) the date on which such Registrable Security becomes freely transferable by non-affiliates pursuant to Rule 144 under the Securities Act. 
+
+The description of the Registration Rights Agreements above is a summary and is qualified in its entirety by the 2022 Registration Rights Agreement and the 2024 Registration Rights Agreement, filed as Exhibits 4.5 and 4.6, respectively, to this Current Report on Form 8-K, which is incorporated herein by reference. 
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. 
+
+The information set forth above under Item 1.01 is hereby incorporated by reference into this Item 2.03. 
+
+Item 9.01 Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+The following exhibits are attached to this Current Report on Form 8-K: 
+
+  [DATA_TABLE_REMOVED] 
+
+4 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+5

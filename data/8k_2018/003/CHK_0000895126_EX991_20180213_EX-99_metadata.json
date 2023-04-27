@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895126",
+    "sec_company_name": "CHESAPEAKE ENERGY CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180213",
+    "sec_filing_date": "20180213",
+    "sec_changed_date": "20180213",
+    "sec_accepted_date": "20180213070348",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512618000049/0000895126-18-000049-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895126/000089512618000049/0000895126-18-000049.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\CHK_0000895126_EX991_20180213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "51100 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 26070,
+    "endpoints": [
+        "creditsuissefeb18finalv2  ",
+        "CORPORATE INFORMATION Credit Suisse 23rd Annual Energy Summit HEADQUARTERS 6100 N. Western Avenue Oklahoma City, OK 73118 WEBSITE: www.chk.com CORPORATE CONTACTS BRAD SYLVESTER, CFA Vice President – Investor Relations and Communications DOMENIC J. DELL‟OSSO, JR. Executive Vice President and Chief Financial Officer Investor Relations department can be reached at ir@chk.com 34 PUBLICLY TRADED SECURITIES CUSIP TICKER 7.25% Senior Notes due 2018 #165167CC9 CHK18A 3mL + 3.25% Senior Notes due 2019 #165167CM7 CHK19 6.625% Senior Notes due 2020 #165167CF2 CHK20A 6.875% Senior Notes due 2020 #165167BU0 #165167BT3 #U16450AQ8 CHK20 6.125% Senior Notes Due 2021 #165167CG0 CHK21 5.375% Senior Notes Due 2021 #165167CK1 CHK21A 4.875% Senior Notes Due 2022 #165167CN5 CHK22 8.00% Senior Secured Second Lien Notes due 2022 #165167CQ8 #U16450AT2 N/A 5.75% Senior Notes Due 2023 #165167CL9 CHK23 8.00% Senior Notes due 2025 #165167CT2 #U16450AU9 N/A 8.00% Senior Notes due 2027 #165167CV7 #U16450AV7 N/A 5.50% Contingent Convertible Senior Notes due 2026 #165167CY1 N/A 2.25% Contingent Convertible Senior Notes due 2038 #165167CB1 CHK38 4.5% Cumulative Convertible Preferred Stock #165167842 CHK PrD 5.0% Cumulative Convertible Preferred Stock (Series 2005B) #165167834 N/A #165167826 5.75% Cumulative Convertible Preferred Stock #U16450204 N/A #165167776 #165167768 5.75% Cumulative Convertible Preferred Stock (Series A) #U16450113 N/A #165167784 #165167750 Chesapeake Common Stock #165167107 CHK"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CHK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\CHK_0000895126_EX991_20180213_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:27:27.395468"
+}

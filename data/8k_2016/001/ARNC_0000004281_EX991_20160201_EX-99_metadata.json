@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004281",
+    "sec_company_name": "ALCOA INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160201",
+    "sec_filing_date": "20160201",
+    "sec_changed_date": "20160201",
+    "sec_accepted_date": "20160201090906",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4281/000119312516445317/0001193125-16-445317-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4281/000119312516445317/0001193125-16-445317.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\ARNC_0000004281_EX991_20160201_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14597 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10387,
+    "endpoints": [
+        "EX-99.1   ",
+        "This release contains statements that relate to future events and expectations and as such constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include those containing such words as “estimates,” “expects,” “goal,” “plans,” “should,” “target,” “will,” “would,” or other words of similar meaning. All statements that reflect Alcoa’s expectations, assumptions or projections about the future, other than statements of historical fact, are forward-looking statements, including, without limitation, statements regarding Alcoa’s proposed separation transaction, the future performance of Value-Add and Upstream businesses and business improvement programs. Forward-looking statements are subject to risks, uncertainties and other factors, and are not guarantees of future performance. Important factors that could cause actual results to differ materially from those expressed or implied in the forward-looking statements include, but are not limited to: (a) uncertainties as to the timing of the separation and whether it will be completed; (b) the possibility that various closing conditions for the separation may not be satisfied; (c) the risk that the businesses will not be separated successfully or such separation may be more difficult, time-consuming or costly than expected; (d) the impact of the separation on the businesses of Alcoa; (e) material adverse changes in aluminum industry conditions, including global supply and demand conditions and fluctuations in London Metal Exchange-based prices and premiums, as applicable, for primary aluminum, alumina, and other products, and fluctuations in indexed-based and spot prices for alumina; (f) Alcoa’s inability to successfully realize goals established in each of its business segments, at the levels or by the dates targeted for such goals (including moving its alumina refining and aluminum smelting businesses down on the industry cost curves and increasing revenues and improving margins in its Value-Add businesses); (g) Alcoa’s inability to realize expected benefits, in each case as planned and by targeted completion dates, from acquisitions, divestitures, facility closures, curtailments, or expansions, or international joint ventures; (h) political, economic, and regulatory risks in the countries in which Alcoa operates, including unfavorable changes in laws and governmental policies, tax rates, civil unrest, or other events beyond Alcoa’s control; (i) changes in preliminary accounting estimates due to the significant judgments and assumptions required; (j) the outcome of contingencies, including legal proceedings and environmental remediation; (k) deterioration in global economic and financial market conditions generally; (l) the risk that increased debt levels, deterioration in debt protection metrics, contraction in liquidity, or other factors could adversely affect the targeted credit ratings for Value-Add Company or Upstream Company; and (m) the other risk factors summarized in Alcoa’s Form 10-K for the year ended December 31, 2014, and other reports filed with the Securities and Exchange Commission. Alcoa disclaims any obligation to update publicly any forward-looking statements, whether in response to new information, future events or otherwise, except as required by applicable law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ARNC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\ARNC_0000004281_EX991_20160201_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:44:22.519835"
+}

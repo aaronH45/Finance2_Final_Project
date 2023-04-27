@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000915913",
+    "sec_company_name": "ALBEMARLE CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200204",
+    "sec_filing_date": "20200206",
+    "sec_changed_date": "20200205",
+    "sec_accepted_date": "20200205173157",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/915913/000091591320000032/0000915913-20-000032-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/915913/000091591320000032/0000915913-20-000032.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALB_0000915913_8K_20200204_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "42859 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3207,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "ALB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALB_0000915913_8K_20200204_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:44:49.074459"
+}

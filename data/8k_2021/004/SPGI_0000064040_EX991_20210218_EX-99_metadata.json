@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000064040",
+    "sec_company_name": "S&P Global Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210218",
+    "sec_filing_date": "20210218",
+    "sec_changed_date": "20210218",
+    "sec_accepted_date": "20210218163740",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312521047763/0001193125-21-047763-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/64040/000119312521047763/0001193125-21-047763.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\SPGI_0000064040_EX991_20210218_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "21967 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 16467,
+    "endpoints": [
+        "EX-99.1   ",
+        "S&P Global, IHS Markit and certain of their respective directors and executive officers and other members of management and employees may be deemed to be participants in the solicitation of proxies from the shareholders of S&P Global and IHS Markit in respect of the proposed transaction under the rules of the SEC. Information about IHS Markit’s directors and executive officers is available in IHS Markit’s Form 10-K for the year ended November 30, 2020, its proxy statement dated February 28, 2020 for its 2020 Annual General Meeting of Shareholders and certain of its Current Reports on Form 8-K. Information about S&P Global’s directors and executive officers is available in S&P Global’s Form 10-K for the year ended December 31, 2020, its proxy statement dated March 30, 2020 for its 2020 Annual Meeting of Shareholders, and certain of its Current Reports on Form 8-K. Additional information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, are contained in the definitive joint proxy statement/prospectus and will be contained in other relevant materials to be filed with the SEC regarding the transaction when they become available. Investors should read the joint proxy statement/prospectus carefully before making any voting or investment decisions. You may obtain free copies of these documents from S&P Global or IHS Markit using the sources indicated above."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SPGI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\SPGI_0000064040_EX991_20210218_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:11:15.016139"
+}

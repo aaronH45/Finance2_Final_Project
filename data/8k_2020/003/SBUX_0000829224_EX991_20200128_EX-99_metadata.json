@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000829224",
+    "sec_company_name": "STARBUCKS CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200128",
+    "sec_filing_date": "20200128",
+    "sec_changed_date": "20200128",
+    "sec_accepted_date": "20200128161227",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922420000008/0000829224-20-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922420000008/0000829224-20-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SBUX_0000829224_EX991_20200128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "842630 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20026,
+    "endpoints": [
+        "Document",
+        "#"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "SBUX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SBUX_0000829224_EX991_20200128_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:43:42.411473"
+}

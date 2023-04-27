@@ -1,0 +1,213 @@
+ntap-ex991_6.htm     
+
+Exhibit 99.1 
+
+NETAPP REPORTS THIRD QUARTER FISCAL YEAR 2017 RESULTS 
+
+Net Revenues of $1.40 Billion; Up 5% Quarter-over-Quarter and 1% Year-over-Year; 
+
+GAAP EPS of $0.52 and Non-GAAP EPS of $0.82  
+
+•  
+
+All-flash array annualized net revenue run rate almost $1.40 billion, up 160% year-over-year. 
+
+•  
+
+Nearly 300 petabytes of flash shipped. 
+
+•  
+
+Clustered Data ONTAP™ managing 50% of installed base capacity. 
+
+•  
+
+$336 million returned to shareholders in share repurchases and a cash dividend. 
+
+Sunnyvale, Calif.—February 15, 2017—NetApp (NASDAQ: NTAP) today reported financial results for the third quarter of fiscal year 2017, ended January 27, 2017.  
+
+Third Quarter Financial Results 
+
+Net revenues for the third quarter of fiscal year 2017 were $1.40 billion. GAAP net income for the third quarter of fiscal year 2017 was $146 million, or $0.52 per share,1 compared to GAAP net income of $153 million, or $0.52 per share, for the comparable period of the prior year. Non-GAAP net income for the third quarter of fiscal year 2017 was $231 million, or $0.82 per share,2 compared to non-GAAP net income of $206 million, or $0.70 per share, for the comparable period of the prior year. 
+
+Cash, Cash Equivalents and Investments  
+
+NetApp ended the third quarter of fiscal year 2017 with $4.6 billion in total cash, cash equivalents and investments. During the third quarter of fiscal year 2017, the Company generated $235 million in cash from operations and returned $336 million to shareholders through share repurchases and a cash dividend.  
+
+The Company announced the next cash dividend of $0.19 per share. The quarterly dividend will be paid on April 26, 2017 to shareholders of record as of the close of business on April 7, 2017. 
+
+“Q3 marked another quarter of strong execution by NetApp,” said George Kurian, chief executive officer. “The transformation of NetApp is yielding solid results and has changed the trajectory of our business. With our industry-leading portfolio of solutions and Data Fabric strategy, NetApp is well positioned to lead in the next era of IT.” 
+
+Q4 Fiscal Year 2017 Outlook 
+
+The Company provided the following financial guidance for the fourth quarter of fiscal year 2017:  
+
+•  
+
+Net revenues are expected to be in the range of $1.365 billion to $1.515 billion. 
+
+•  
+
+GAAP earnings per share is expected to be in the range of $0.60 to $0.65 per share. 
+
+•  
+
+Non-GAAP earnings per share is expected to be in the range of $0.79 to $0.84 per share.  
+
+Business Highlights 
+
+•  
+
+NetApp Expands Cloud Data Management and All-Flash Offerings  
+
+-  
+
+NetApp Improves Control, Simplifies Movement of Data in the Hybrid Cloud. New Data Fabric solutions and services speed data access and visibility, enhance data protection and security, and help customers extract value from their data from anywhere in the hybrid cloud. 
+
+-  
+
+NetApp Expands All-Flash Portfolio with New Entry-Level Array. The NetAppTM All Flash FAS (AFF) A200 expands the market opportunity for the world’s fastest and most efficient cloud-connected enterprise storage portfolio. The entry-level system delivers enterprise-grade flash performance at a very attractive price point and is ideal for midsize businesses that are making the move to all flash.  
+
+•  
+
+Customers Team with NetApp to Accelerate Performance and Responsiveness 
+
+-  
+
+Carrenza Supports Rapidly Evolving Customer Application and Infrastructure Demands with NetApp SolidFire. Global cloud service company Carrenza leverages NetApp SolidFireTM all-flash storage to enable customers to scale and accelerate business performance, increase infrastructure agility and responsiveness, and reduce storage maintenance time and administration effort. 
+
+-  
+
+Cologne Broadcasting Center (CBC) Upgrades TV Production and Delivery Services with NetApp. A new production storage and disaster recovery infrastructure has improved  
+
+CBC broadcast service offerings throughout Germany with solutions delivered by NetApp and partner Pixit Media. 
+
+-  
+
+Wirestorm Delivers DevOps in the Cloud with NetApp ONTAP Cloud for Amazon Web Services (AWS). To accelerate and automate its DevOps process, Wirestorm deployed NetApp ONTAPTM Cloud. This Data Fabric solution delivers everything that the company needs for DevOps in the cloud—without a single physical array—enabling Wirestorm to use only laptops. The framework that it created with NetApp has enabled Wirestorm to automate so efficiently that it can implement an end-to-end solution all the way to AWS in less than a minute.  
+
+Webcast and Conference Call Information 
+
+NetApp will host a conference call to discuss these results today at 2:30 p.m. Pacific Time. To access the live webcast of this event, visit the NetApp Investor Relations website at investors.netapp.com. In addition, this press release, historical supplemental data tables, and other information related to the call will be posted on the Investor Relations website. An audio replay will also be available on the website after 4:30 p.m. Pacific Time today. 
+
+About NetApp 
+
+Leading organizations worldwide count on NetApp for software, systems and services to manage and store data. We help customers capitalize on the value of their data in the hybrid cloud through our Data Fabric strategy, data management expertise, portfolio and ecosystem. To learn more, visit www.netapp.com. 
+
+“Safe Harbor” Statement Under U.S. Private Securities Litigation Reform Act of 1995 
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, all of the statements made under the Q4 Fiscal Year 2017 Outlook section and statements made about the trajectory of our business and our ability to lead in the digital era. All of these forward-looking statements involve risk and uncertainty. Actual results may differ materially from these statements for a variety of reasons, including, without limitation, general global political, macroeconomic and market conditions, changes in U.S. government spending, revenue  
+
+seasonality and matters specific to our business, such as our ability to understand, and effectively respond to changes affecting our market environment, product, technologies and customer requirements, including the impact of the cloud, customer demand for and acceptance of our products and services, our ability to reduce our cost structure, streamline the business and improve efficiency, our ability to effectively integrate the SolidFire acquisition, and our ability to manage our gross profit margins. These and other equally important factors are described in reports and documents we file from time to time with the Securities and Exchange Commission, including the factors described under the section titled “Risk Factors” in our most recently submitted Annual Report on Form 10-K. We disclaim any obligation to update information contained in this press release whether as a result of new information, future events, or otherwise. 
+
+### 
+
+NetApp and the NetApp logo and the marks listed at http://www.netapp.com/TM are trademarks of NetApp, Inc. Other company and product names may be trademarks of their respective owners. 
+
+1 GAAP earnings per share is calculated using the diluted number of shares. 
+
+2 Non-GAAP net income excludes, when applicable, (a) amortization of intangible assets, (b) stock-based compensation expenses, (c) acquisition-related expenses, (d) restructuring and other charges, (e) asset impairments, (f) gains/losses on the sale of properties, and (g) our GAAP tax provision, but includes a non-GAAP tax provision based upon our projected annual non-GAAP effective tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of the fiscal year. NetApp makes additional adjustments to the non-GAAP tax provision for certain tax matters as described below. Non-GAAP earnings per share is calculated using the diluted number of shares for all periods presented. A detailed reconciliation of our non-GAAP to GAAP results can be found at http://investors.netapp.com. NetApp’s management uses these non-GAAP measures in making operating decisions because it believes the measurements provide meaningful supplemental information regarding NetApp’s ongoing operational performance.  
+
+NetApp Usage of Non-GAAP Financial Information  
+
+To supplement NetApp’s condensed consolidated financial statement information presented in accordance with generally accepted accounting principles in the United States (GAAP), NetApp provides investors with certain non-GAAP measures, including, but not limited to, historical non-GAAP operating results, non-GAAP net income, non-GAAP effective tax rate, and free cash flow, and historical and projected non-GAAP earnings per diluted share.  
+
+NetApp believes that the presentation of non-GAAP net income, non-GAAP effective tax rates, and non-GAAP earnings per share data when shown in conjunction with the corresponding GAAP measures, provides useful information to investors and management regarding financial and business trends relating to its financial condition and results of operations. NetApp believes that the presentation of free cash flow, which it defines as the net cash provided by operating activities less cash used to acquire property and equipment, to be a liquidity measure that provides useful information to management and investors because it reflects cash that can be used to, among other things, invest in its business, make strategic acquisitions, repurchase common stock, and pay dividends on its common stock, after deducting capital expenditures. As free cash flow is not a measure of liquidity calculated in accordance with GAAP, free cash flow should be considered in addition to, but not as a substitute for, the analysis provided in the statement of cash flows. 
+
+NetApp’s management uses these non-GAAP measures in making operating decisions because it believes the measurements provide meaningful supplemental information regarding NetApp’s ongoing operational performance. These non-GAAP financial measures are used to: (1) measure company performance against historical results, (2) facilitate comparisons to our competitors’ operating results and (3) allow greater transparency with respect to information used by management in financial and operational decision making. In addition, these non-GAAP financial measures are used to measure company performance for the purposes of determining employee incentive plan compensation.  
+
+NetApp excludes the following items from its non-GAAP measures when applicable: 
+
+A. Amortization of intangible assets. NetApp records amortization of intangible assets that were acquired in connection with its business combinations. The amortization of intangible assets varies depending on the level of acquisition activity. Management finds it useful to  
+
+exclude these charges to assess the appropriate level of various operating expenses to assist in budgeting, planning and forecasting future periods and in measuring operational performance. 
+
+B. Stock-based compensation expenses. NetApp excludes stock-based compensation expenses from its non-GAAP measures primarily because they are non-cash expenses. While management views stock-based compensation as a key element of our employee retention and long-term incentives, we do not view it as an expense to be used in evaluating operational performance in any given period.  
+
+C. Acquisition-related expenses. NetApp excludes acquisition-related expenses, including (a) due diligence, legal and other one-time integration charges and (b) write down of assets acquired that NetApp does not intend to use in its ongoing business, from its non-GAAP measures, primarily because they are not related to our ongoing business or cost base and, therefore, cannot be relied upon for future planning and forecasting. 
+
+D. Restructuring and other charges. These charges include restructuring charges that are incurred based on the particular facts and circumstances of restructuring decisions, including employment and contractual settlement terms, and other related charges, and can vary in size and frequency. These items are not ordinarily included in our annual operating plan and related budget due to the unpredictability of the timing and size of these events. We therefore exclude them in our assessment of operational performance.  
+
+E. Asset impairments. These are non-cash charges to write down assets when there is an indication that the asset has become impaired. Management finds it useful to exclude these non-cash charges due to the unpredictability of these events in its assessment of operational performance. 
+
+F. Gains/losses on the sale of properties. These are gains/losses from the sale of our properties. Management believes that these transactions do not reflect the results of our underlying, on-going business and, therefore, cannot be relied upon for future planning or forecasting. 
+
+ G. Income tax adjustments. NetApp’s non-GAAP tax provision is based upon a projected annual non-GAAP effective tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of the fiscal year. The non-GAAP tax provision also excludes, when applicable, (a) tax charges or benefits in the current period that relate to one or more prior fiscal periods that are a result of events such as changes in tax legislation,  
+
+authoritative guidance, income tax audit settlements and/or court decisions, (b) tax charges or benefits that are attributable to unusual or non-recurring book and/or tax accounting method changes, (c) tax charges that are a result of a non-routine foreign cash repatriation, (d) tax charges or benefits that are a result of infrequent restructuring of the Company’s tax structure, (e) tax charges or benefits that are a result of a change in valuation allowance, and (f) tax charges resulting from the integration of intellectual properties from acquisitions. Management believes that the use of non-GAAP tax provisions provides a more meaningful measure of the Company’s operational performance. 
+
+These non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with GAAP, and may be different from non-GAAP measures used by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. NetApp believes that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with the Company’s results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate the Company’s results of operations in conjunction with the corresponding GAAP measures. NetApp management compensates for these limitations by analyzing current and projected results on a GAAP basis as well as a non-GAAP basis. The presentation of non-GAAP financial information is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with generally accepted accounting principles in the United States. The non-GAAP financial measures are meant to supplement, and be viewed in conjunction with, GAAP financial measures. 
+
+NETAPP, INC.  
+
+CONDENSED CONSOLIDATED BALANCE SHEETS  
+
+(In millions) 
+
+(Unaudited) 
+
+ [DATA_TABLE_REMOVED] 
+
+NETAPP, INC.  
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS  
+
+(In millions, except per share amounts)  
+
+(Unaudited)  
+
+ [DATA_TABLE_REMOVED] 
+
+NETAPP, INC.  
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+(In millions)  
+
+(Unaudited)  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+Some items may not add or recalculate due to rounding. 
+
+ [DATA_TABLE_REMOVED] 
+
+Press Contact: 
+
+Judy Radlinsky 
+
+NetApp 
+
+1 408 822 6527 
+
+judy.radlinsky@netapp.com 
+
+Investor Contact: 
+
+Kris Newton 
+
+NetApp 
+
+1 408 822 3312 
+
+kris.newton@netapp.com

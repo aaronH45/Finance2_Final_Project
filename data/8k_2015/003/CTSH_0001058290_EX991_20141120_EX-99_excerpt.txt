@@ -1,0 +1,1423 @@
+CTSH Exhibit 99.1   
+
+TZ US PARENT, INC. 
+
+ANNUAL REPORT 
+
+DECEMBER 31, 2013
+
+Exhibit 99.1
+[DATA_TABLE_REMOVED]
+
+TZ US PARENT, INC.
+
+CONSOLIDATED BALANCE SHEET
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+2
+
+TZ US PARENT, INC.
+
+CONSOLIDATED STATEMENT OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+3
+
+TZ US PARENT, INC.
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+4
+
+TZ US PARENT, INC.
+
+CONSOLIDATED STATEMENT OF STOCKHOLDER’S EQUITY
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+5
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1.Organization and Business Activities
+
+Ownership Structure
+
+TZ US Parent, Inc. (“we” or “TZ US Parent”) is a Delaware corporation formed in 2008 as a holding company. TZ US Parent is a wholly owned subsidiary of TZ Holdings, L.P. (“TZ Holdings”), which is controlled by investment funds advised by Apax Partners, LP and Apax Partners LLP (collectively “Apax”).
+
+TriZetto Corporation, formerly the TriZetto Group, Inc., (“TriZetto”) is a wholly owned subsidiary of TZ US Parent. 
+
+Cambia Health Solutions, Inc. (“Cambia,” formerly The Regence Group) and BlueCross BlueShield of Tennessee, Inc. have ownership interests in TZ Holdings and are TriZetto customers (Note 19).
+
+Principal Business
+
+TriZetto develops, licenses, implements, and supports software products for health insurance plans, third party benefit administrators, and healthcare providers. TriZetto also provides hosting, application management, business process management, consulting, and other services. We derive virtually all of our revenue from customers in the United States, and virtually all of our assets are located in the United States.
+
+2.Summary of Significant Accounting Policies
+
+Principles of Consolidation and Basis of Presentation
+
+We consolidate all wholly owned subsidiaries. We account for non-wholly owned investments on the equity method when we have the ability to significantly influence the operating decisions of the investee. When we do not have the ability to significantly influence the operating decisions of an investee, we use the cost method. All significant intercompany accounts and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States (“GAAP”) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements and the reported amounts of revenue and expense for each reporting period. Estimates are used in accounting for, among other things:
+
+[DATA_TABLE_REMOVED]
+
+Actual results may differ materially from previously estimated amounts. We review estimates and assumptions periodically and reflect revisions prospectively in the period they occur.
+
+Cash and Cash Equivalents 
+
+We consider all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. Cash and cash equivalents may include demand deposit accounts and money market funds.
+
+6
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Sales Allowances and Doubtful account Reserves 
+
+We maintain a reserve for estimated discounts, pricing adjustments, and other sales allowances. Charges to the reserve are reflected in revenue and based on historical experience and current trends. We also maintain an allowance for doubtful accounts for estimated losses resulting from the inability of customers to make required payments. The allowance is based on the composition of the accounts receivable aging, bad debt history, and our evaluation of the financial condition of our customers. If the financial condition of customers were to deteriorate, resulting in an impairment of their ability to make payments, additional bad debt expense may be required. We typically do not require collateral. We continually monitor these reserves and make adjustments when necessary.
+
+Concentration of Credit Risk
+
+Financial instruments that potentially subject us to a concentration of credit risk consist of cash and cash equivalents and accounts receivable. Cash and cash equivalents consist of demand deposit and money market accounts at primarily one financial institution. Deposits held with banks exceed the amount of insurance provided. We have not experienced any losses on deposits of cash and cash equivalents. Accounts receivable consists primarily of balances due from customers located in the United States. Refer to Note 13 for information regarding transactions with certain customers.
+
+Property and Equipment
+
+We depreciate property and equipment on a straight-line basis over their estimated useful lives, which range from three to 20 years. Upon retirement or sale, the cost and related accumulated depreciation are removed from the Consolidated Balance Sheet, and the resulting gain or loss is reflected on the Consolidated Statement of Operations and Comprehensive Income (Loss). In general, we expense maintenance and repairs as they are incurred and capitalize renewals and improvements that add value or extend the asset’s useful life.
+
+Software Developed for Internal Use
+
+Software developed for internal use includes purchased and developed technology used to administer operations and is not sold, perpetually licensed, or otherwise marketed. Internal and external costs incurred for the preliminary project phase, data conversion, and the post-implementation phase are expensed as incurred. Qualifying costs incurred during the application development phase are capitalized and classified within the software category in property and equipment. Once the project is substantially complete and the internal use software is ready for its intended use, these costs are amortized on a straight line basis over the software’s estimated useful life, which is generally three to five years.
+
+On a periodic basis, we monitor the expected net realizable value of the capitalized internal use software for factors that would indicate impairment, such as a decline in the demand or the introduction of new technology. 
+
+Long-lived Assets, Including Other Definite Lived Intangible Assets 
+
+Definite lived intangible assets consist primarily of customer lists, core technology, trade names, intellectual property, non-compete agreements, and market value adjustments related to leasehold interests. These intangible assets are amortized on a straight line basis over their estimated useful lives, which range from two to 20 years. We acquired a substantial portion of our intangible assets through business combinations.
+
+We evaluate long-lived assets and other definite lived intangible assets for impairment when events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. 
+
+Goodwill and Other Indefinite Lived Intangible Assets
+
+Under GAAP, goodwill and other indefinite lived intangible assets are not amortized but are subject to impairment testing annually or whenever indicators arise. We test goodwill and other indefinite lived intangible assets at the reporting unit level as of December 31st each year, or more often if there are impairment indicators. Refer to Note 7 for impairment charges recognized during the year ended December 31, 2013.
+
+Fair Value of Financial Instruments 
+
+The carrying value for cash and cash equivalents, accounts receivable, and current liabilities approximates fair value due to their short-term nature. We estimate the fair value of our term loans using recent trades; however, the market for our debt is not active (Note 10). 
+
+7
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Revenue Recognition 
+
+We recognize revenue when: 
+
+•persuasive evidence of an arrangement exists; 
+
+•the product or service has been delivered; 
+
+•fees are fixed or determinable; 
+
+•collection is reasonably assured; and 
+
+•all other significant obligations have been fulfilled. 
+
+We classify revenue into two categories, “Products” and “Services and other.”
+
+Products Revenue
+
+We generate product revenue from licensing our software. We generally recognize revenue after meeting the criteria described above and have fair value pricing for all undelivered elements sold with or around the same time as the software licenses (see discussion below regarding multiple element arrangements). For software license agreements in which customer acceptance is a significant condition of earning the license fees, revenue is not recognized until acceptance occurs. For software license agreements that require significant functionality enhancements or modification of the software, revenue for the software is recognized as these services are performed. For software license arrangements that include a right to use the product for a defined period of time or for content subscriptions, we recognize revenue ratably over the term of the license.
+
+Services and Other Revenue
+
+We generate services and other revenue from several sources, including the provision of outsourcing services, such as software hosting and other business services, and the sale of maintenance and support for our proprietary software products. A software element is present in a hosting arrangement if the customer has the contractual right to take possession of the software at any time during the hosting period without significant penalty and it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. Outsourcing services revenue is typically billed and recognized monthly over the contract term, generally three to ten years. Many of our outsourcing agreements require us to maintain a certain level of operating performance. We record revenue net of estimated penalties resulting from failure to maintain this level of operating performance. Software maintenance and support revenues are typically based on one year renewable contracts and are recognized ratably over the contract period. Software maintenance in which we receive payment in advance is recorded as deferred revenue.
+
+We also generate services and other revenue from consulting fees related to the use of proprietary and third party licensed products. These consulting arrangements include:
+
+[DATA_TABLE_REMOVED]
+
+Many of our consulting arrangements fall into two broad categories – 1) time and material and 2) fixed fee. For time and material based arrangements, we recognize revenue as the work is performed and expenses are incurred. For fixed fee contracts, we generally recognize revenue on a percentage of completion basis using either direct labor hours or substantive contractual milestones as the progress indicator.
+
+On certain contracts we receive payment in advance of services performed; amounts in excess of revenue recognized are classified as deferred revenue on the Consolidated Balance Sheet. For other contracts with substantive performance criteria or “holdback” payments tied to performance, we recognize revenue when all performance deliverables are earned and all other revenue recognition criteria are satisfied. For a contract on which a loss is anticipated, we recognize the amount of the anticipated loss in the period that the loss becomes evident.
+
+We also generate services revenue associated with preparing customers’ connectivity centers or data centers in order to ready a specific client for software hosting services. These fees are deferred and recognized ratably into revenue over the contract term, which is generally three to ten years. 
+
+8
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+We generate other services revenue from certain one-time charges, including contractual fees such as termination fees and change of control fees. We recognize the revenue for these fees once the earnings process is complete, there are no remaining substantive performance obligations, and collection is reasonably assured. We also derive services revenue from fees related to product related customer conferences, which is recognized as obligations are performed. 
+
+Revenue Recognition for Multiple Element Arrangements – Software Products and Software Related Services
+
+For multiple element arrangements containing only software deliverables, including software licenses and maintenance support, we determine the revenue allocation based on vendor specific objective evidence (“VSOE”) of fair value. In those arrangements, we account for the delivered elements in accordance with the “residual method.” We determine VSOE of fair value for each undelivered element based on how it is sold separately, or in the case of maintenance, the renewal rate. Under the residual method, the arrangement fee is recognized as follows: 
+
+(1)the total fair value of the undelivered elements, as indicated by VSOE of fair value, is deferred and subsequently recognized as services are delivered and all other revenue recognition requirements are met
+
+and 
+
+(2)the difference between the total arrangement fee and the amount deferred for the undelivered elements is recognized as revenue for the delivered elements. 
+
+For arrangements in which VSOE of fair value does not exist for each undelivered element, including specified product and upgrade rights, revenue for the delivered element is deferred and not recognized until: 
+
+(1)VSOE of fair value is available for the undelivered element 
+
+or 
+
+(2)delivery of each element has occurred.
+
+If the only undelivered element is a service, revenue from the delivered element is recognized over the service period. In determining VSOE of fair value for the undelivered elements, no portion of the discount is allocated to specified product or upgrade rights. If we are unable to separate elements of a multiple element arrangement, we recognize revenue ratably over the life of the contract. 
+
+Revenue Recognition for Multiple Element Arrangements – Arrangements with Software and Nonsoftware Elements
+
+We enter into multiple element arrangements with customers that may include a combination of our various software related products and services (described above) and nonsoftware related products and services offerings, including hosting, business process outsourcing services, and software as a service subscription offerings. In these circumstances, we account for each element within the arrangement as a separate unit of accounting provided the following criteria are met:
+
+(1)the delivered products or services have value to the customer on a standalone basis;
+
+and
+
+(2)for an arrangement that includes a general right of return relative to the delivered products or services, we substantially control delivery or performance of the undelivered product and such delivery or performance is considered probable. 
+
+We consider a deliverable to have standalone value if we or another vendor separately sell the product or service or it could be resold by the customer. Further, our revenue arrangements generally do not include a general right of return relative to the delivered products. Where the aforementioned criteria for a separate unit of accounting are not met, we combine the deliverable with the undelivered element(s) and treat as a single unit of accounting for the purposes of allocating the arrangement consideration and revenue recognition. For those units of accounting that include more than one deliverable but are treated as a single unit of accounting, we generally recognize revenues over the delivery period. 
+
+For multi-element arrangements that include both software and non-software deliverables, we allocate revenue to all deliverables based on their relative selling prices (described further below). We then further allocate consideration within the software group to the respective elements following the guidance in Accounting Standards Codification (“ASC”) 985-605 and our policies as described above. After allocating the arrangement consideration to the elements, we account for each respective element as described above.
+
+9
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+We base the relative selling price for each element on the following hierarchy: 
+
+(1)VSOE if available
+
+(2)third party evidence ("TPE") if VSOE is not available
+
+(3)estimated selling price ("ESP") if neither VSOE nor TPE are available.
+
+When possible, we establish VSOE of selling price for deliverables in software and nonsoftware multiple-element arrangements using the price charged for a deliverable when sold separately. For software maintenance, we use renewal rates offered to customers. We establish TPE by evaluating similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing historical transactions, including transactions where the deliverable was sold on a standalone basis and considering several other external and internal factors including, but not limited to:
+
+•pricing practices including discounting;
+
+•margin objectives;
+
+•competition; and, 
+
+•contractually stated prices. 
+
+We determine ESP through consultation with and approval by our management, taking into consideration our pricing model and go-to­market strategy. We analyze selling prices on an annual basis or more frequently if we experience significant changes.
+
+Revenue Recognition for Software and Service Subscription Offerings 
+
+Our software and service subscription offerings generally provide customers access to certain of our software and services for a bundled price. Generally, our software and service subscription offerings do not include multiple elements. We recognize revenue from our software and service subscription offerings ratably over the contract term, commencing at inception of the agreement and upon satisfaction of all revenue recognition criteria. We capitalize upfront expenses incurred in the implementation of our subscription offerings and amortize such elements ratably over the contract term.
+
+In our provider product line, we generate services revenue through:
+
+•fees charged on a per statement basis for generating and mailing patient statements;
+
+•subscription or transaction fees for electronic claims clearinghouse services; 
+
+•monthly fees for the use of our customized websites that facilitate the exchange of secure information between healthcare constituents over the internet;
+
+•monthly or per transaction fees for a product that provides patient eligibility verification; 
+
+•setup and annual renewal fees;
+
+•consulting; and, 
+
+•fees for other supplemental services. 
+
+We recognize revenues in the period that the services are delivered, with the exception of setup and annual renewal fees, which are amortized ratably over the following 12 month term of the agreement. Amounts billed and collected before the services are performed are included in deferred revenue. 
+
+Self-insurance
+
+We are self-insured for certain losses related to employee health and dental benefits. We record a liability based on an estimate of claims incurred but not recorded. We maintain individual and aggregate stop-loss coverage with a third party insurer to limit the total exposure for these programs. The self-insurance liability contains uncertainties because the calculation requires management to make assumptions and apply judgment to estimate the ultimate cost to settle reported claims and claims incurred but not reported. Actual results may not be consistent with our assumptions and estimates. Historically, our estimates for self-insurance reserves have been adequate to cover employee health and dental benefits claims exposures. We continually monitor these losses and make adjustments to the provision when the estimate of actual losses differs from the established reserve.
+
+10
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Foreign Currency Translation
+
+The functional currency for the majority of our consolidated subsidiaries is the U.S. dollar because sales and purchases are predominantly denominated in that currency. For our Indian subsidiaries where the functional currency is the Indian Rupee, we translate assets and liabilities into U.S. dollars at the period-end exchange rate and revenue and expenses based on the exchange rates at the time such transactions arise, if known, or at the average rate for the period. The difference is recorded to equity as a component of “Accumulated other comprehensive income (loss)” on the Consolidated Balance Sheet.
+
+Capitalized Software Development Costs
+
+Costs incurred internally in the development of software to be sold, perpetually licensed, leased, or marketed are expensed as research and development until technological feasibility is established. After technological feasibility is established, production costs are capitalized as software development costs. Technological feasibility is achieved after completion of a detailed program design or, in its absence, a working model. 
+
+Capitalization ceases and amortization of capitalized software development costs begins when the software product is available for general release to customers. In some instances, the period between achieving technological feasibility and the general availability of such software is short, and software development costs qualifying for capitalization are insignificant. In these situations, costs are expensed. Amounts capitalized as software development costs are amortized using the greater of revenues during the period compared to the total estimated revenues to be earned or on a straight-line basis over estimated lives, which is generally five years.
+
+On a periodic basis, we monitor the expected net realizable value of capitalized software for factors that would indicate impairment, such as a decline in the demand, the introduction of new technology, or the loss of a significant customer. 
+
+Upfront Costs
+
+We defer certain upfront costs in which the related revenue is recognized over an extended period. These capitalized costs relate to specific, direct labor costs involved in the enablement of outsourced and consulting services arrangements. These costs are amortized over the expected life of the outsourced agreement and are monitored periodically in the event of an early termination or impairment.
+
+Contingent Consideration
+
+Contingent consideration arrangements relate to our business combinations. On the Consolidated Statement of Cash Flows, we segregate payments on these arrangements into categories.
+
+ Payments directly related to the initial fair value established at the acquisition datePayments related to subsequent developments
+
+ClassificationConsidered a method of financing the business combinationConsidered an operating expense
+
+Treatment on the Consolidated Statement of Cash FlowsCash outflow from financing activitiesCash outflow from operating activities
+
+11
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Income Taxes
+
+We follow the provisions of ASC 740 and account for income taxes under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Deferred tax assets are offset by a valuation allowance when we believe it is more likely than not that some or all of the deferred tax assets will not be realized.
+
+We recognize the effect of income tax positions only if those positions are more likely than not of being sustained. Recognized income tax positions are measured at the largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. We recognize interest and penalties, if any, related to unrecognized tax benefits in income tax expense.
+
+All earnings of our controlled foreign corporations (“CFCs”) are permanently reinvested pursuant to ASC 740-30-25-17. Accordingly, no deferred tax liability is recorded with respect to U.S. taxes on earnings from our CFCs.
+
+Recent Accounting Pronouncements
+
+ASU 2013-11
+
+In July 2013, the Financial Accounting Standards Board issued Accounting Standards Update No. 2013-11 (“ASU 2013-11”), “Presentation of an Unrecognized Tax Benefit When a Net Operating Loss Carryforward, a Similar Tax Loss, or a Tax Credit Carryforward Exists.” The objective of this standard is to provide guidance on financial statement presentation and eliminate diversity in practice for unrecognized tax benefits. This standard will be effective for us on January 1, 2015. We do not expect the adoption of ASU 2013-11 to have a significant impact on our consolidated financial statements.
+
+ASU 2014-09
+
+In May 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-09 (“ASU 2014-09”), “Revenue from Contracts with Customers”. ASU 2014-09 affects virtually all entities that enter into contracts with customers to transfer goods or services. This ASU will supersede certain existing revenue recognition requirements and most industry specific guidance. While entities will still record the same total amount of revenue over time, the timing for recognition could be different compared to existing guidance. This standard will be effective for us on January 1, 2018. We are currently evaluating the impact ASU 2014-09 will have on our financial position and results of operations.
+
+ASU 2014-12
+
+In June 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-12 (“ASU 2014-12”), “Accounting for Share-Based Payments When the Terms of an Award Provide That a Performance Target Could Be Achieved after the Requisite Service Period.” ASU 2014-12 resolves the diversity in accounting treatment on certain share based payments issued to employees where the vesting is contingent upon performance targets. This standard will be effective for us on January 1, 2016. We do not expect the adoption of ASU 2014-12 to have a significant impact on our consolidated financial statements.
+
+12
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+3.Prepaid Expenses, Other Current Assets, and Other Assets
+
+The following table summarizes our prepaid expenses, other current assets, and other assets.
+
+[DATA_TABLE_REMOVED]
+
+Deferred implementation costs represents recoverable costs (primarily labor) associated with software, hosting, or business process outsourcing implementation projects for which the revenue is recognized over an extended period. These costs are amortized to “Cost of revenue – services and other” on the Consolidated Statement of Operations and Comprehensive Income (Loss) as the related revenue is recognized. The following table summarizes impairment charges related to terminated projects. Impairments are recorded in “Cost of revenue – services and other” on the Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+[DATA_TABLE_REMOVED]
+
+Deferred financing costs are costs associated with obtaining our debt agreements. Amortization is included in “Interest expense” on the Consolidated Statement of Operations and Comprehensive Income (Loss). The following table presents information regarding our deferred financing costs.
+
+[DATA_TABLE_REMOVED]
+
+We are the beneficiary on certain of our executive officers’ life insurance policies. We adjust the cash surrender each period for fluctuations in the market value of underlying investments and record the gain or loss in “Other, net” expense on the Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+13
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+4.Long-term Investments
+
+The following table summarizes our long-term investments.
+
+[DATA_TABLE_REMOVED]
+
+QualChoice Holdings, Inc. (“QCA”) is a health maintenance organization that offers managed care benefits in Arkansas. On March 17, 2013, a restructuring resulted in TriZetto acquiring majority ownership and a 97.5% voting interest in this entity. Because the minority shareholders have significant participatory and blocking rights, we concluded TriZetto does not have control over QCA’s operating and financial policies. As a result, we continue to account for this investment using the equity method.
+
+In May 2014, we sold our entire interest in QCA for $1.2 million. The carrying value of this investment exceeded the above selling price by $2.1 million. As a result, during the year ended December 31, 2013, we recorded an impairment charge of $2.1 million in “Other, net” on the Consolidated Statement of Operations and Comprehensive Income (Loss). Legal fees, transaction costs, and other selling expenses were not significant. 
+
+5.Property, Equipment, and Lease Financing Obligation 
+
+The following table summarizes our property and equipment.
+
+[DATA_TABLE_REMOVED]
+
+* We depreciate leasehold improvements over the shorter of the economic life or the lease term.
+
+14
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+On April 15, 2013, we moved into our new world headquarters building in Douglas County, Colorado. Pursuant to a “build to suit” arrangement, we are the sole tenant in the 165,000 square foot facility under a fifteen year lease agreement. Due to TriZetto’s involvement in the construction of the facility, we are the “deemed owner” (for accounting purposes only) of this building. This transaction is reflected in the “building” and “leasehold improvements” categories in the above table.  We bifurcated the lease into two components.
+
+Building leaseFinancing obligation with a 5.12% annual interest rate
+
+Land leaseOperating lease
+
+Refer to Note 16 for the future payments underlying these obligations.
+
+The following assets subject to capital lease agreements are included in the above table within computer equipment, furniture and fixtures, and other equipment. Capital lease obligations are collateralized by the equipment subject to the leases. 
+
+[DATA_TABLE_REMOVED]
+
+The software category includes software developed for internal use. The following table summarizes information regarding software developed for internal use. 
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes depreciation expense on property and equipment, including assets acquired under capital lease agreements, and amortization of capitalized software development costs (Note 6) recognized on the Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+[DATA_TABLE_REMOVED]
+
+During the year ended December 31, 2013, we recognized $2.3 million in impairment charges on property and equipment. These charges are included primarily in “Cost of revenue – services and other” and “Selling, general and administrative” expense on the Consolidated Statement of Operations and Comprehensive Income (Loss). 
+
+15
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+6.Capitalized Software Development Costs
+
+The following tables present information regarding our software development costs.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Impairment charges are included primarily in “Cost of revenue – services and other” and “Cost of revenue – products” on the Consolidated Statement of Operations and Comprehensive Income (Loss). 
+
+7.Goodwill and Other Intangible Assets 
+
+The following table summarizes our goodwill and other intangible assets. 
+
+[DATA_TABLE_REMOVED]
+
+16
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table summarizes the estimated aggregate future amortization expense related to these intangible assets.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes changes in the carrying amount of goodwill.
+
+[DATA_TABLE_REMOVED]
+
+During the year ended December 31, 2013, we recorded a $293.4 million impairment charge related to the goodwill associated with our payer reporting unit. 
+
+The goodwill impairment test requires a two-step process. The first step consists of comparing the estimated fair value of each reporting unit with its carrying amount, including goodwill. If the estimated fair value of a reporting unit exceeds its carrying value, then it is not considered impaired and no further analysis is required. If step one indicates that the estimated fair value of a reporting unit is less than its carrying value, then impairment potentially exists and we perform the second step to measure the amount of potential goodwill impairment. Goodwill impairment exists when the estimated implied fair value of a reporting unit's goodwill is less than its carrying value. 
+
+In connection with our annual impairment testing on goodwill and indefinite lived intangible assets as of December 31, 2013, we engaged a third party expert to perform a quantitative analysis on the fair value of our business. The fair value analysis places equal weighting on income and market based approaches. The following table provides a general summary of each approach. 
+
+[DATA_TABLE_REMOVED]
+
+17
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Specifically, the income approach included the following assumptions: 
+
+[DATA_TABLE_REMOVED]
+
+The analysis indicated the estimated fair value of our business was less than the carrying value of our net assets. As a result, we performed the second step of the goodwill impairment test to determine the implied fair value of goodwill for the business.
+
+We allocated the fair value to the respective assets and liabilities, including intangible assets, in the same manner as if the company were being acquired in a business combination. This allocation indicated the carrying value of goodwill exceed the estimated fair value by $293.4 million, which resulted in the above impairment charge. 
+
+We attribute essentially all of the impairment charge to the goodwill associated with the 2008 transaction where Apax, Cambia, and BlueCross BlueShield of Tennessee, Inc. acquired TZ Holdings (Note 1). 
+
+8.Fair Value Measurements
+
+We define fair value in accordance with GAAP as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). In determining fair value, we utilize a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels. 
+
+[DATA_TABLE_REMOVED]
+
+During the year ended December 31, 2013, there were no transfers between levels. 
+
+18
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Our contingent consideration liabilities are the only items on our Consolidated Balance Sheet subject to fair value measurements on a recurring basis. The carrying value for cash and cash equivalents, accounts receivable, current assets, and current liabilities (excluding the current portion of our term loans) approximates fair value due to their short-term nature. Refer to Note 10 for the fair value of our debt obligations. 
+
+The actual cash payments for final settlement of our contingent consideration liabilities may materially differ from our estimates. Refer to Note 17 for additional information, including the maximum potential payout. Adjustments to contingent consideration liabilities (excluding acquisition method accounting entries) are recorded to “Selling, general and administrative expense” on the Consolidated Statement of Operations and Comprehensive Income (Loss). 
+
+The following table summarizes our contingent consideration liabilities.
+
+[DATA_TABLE_REMOVED]
+
+9.Accrued Liabilities and Other
+
+The following table summarizes our accrued liabilities.
+
+[DATA_TABLE_REMOVED]
+
+19
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+10.Debt 
+
+The following table summarizes our debt agreements.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes our future principal and interest payments.
+
+[DATA_TABLE_REMOVED]
+
+First Lien Term Loan
+
+As a result of the one-time additional principal payment discussed below, we have no required payments on our first lien term loan until December 2015. Beginning in December 2015, we are required to make quarterly principal payments of $1.6 million. The first lien term loan has a balloon payment upon maturity in May 2018.
+
+The interest rate on our first lien term loan is variable. We have the option of either the adjusted LIBOR or alternate base rate (“ABR”). If we fail to specify a rate, the ABR applies. 
+
+[DATA_TABLE_REMOVED]
+
+The interest periods for LIBOR based rates may be one, two, three or six months, with some limited exceptions. As of December 31, 2013, we used the adjusted LIBOR method, and the interest rate in effect was 4.75%. The future interest payments reflected in the table above assume this interest rate through maturity. 
+
+20
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Second Lien Term Loan
+
+In September 2012, we entered into a $150.0 million second lien term loan agreement. This term loan is a secured obligation that is ranked junior in right of payment to our first lien term loan and revolving credit facility. The principal is payable at maturity in March 2019. 
+
+Interest on the second lien term loan is variable. We have the option of either the adjusted LIBOR or alternate base rate. If we fail to specify a rate, the ABR applies. 
+
+[DATA_TABLE_REMOVED]
+
+The interest periods for LIBOR based rates may be one, two, three or six months, with some limited exceptions. As of December 31, 2013, we used the adjusted LIBOR method, and the interest rate in effect was 8.50%. The future interest payments reflected in the table above assume this interest rate through maturity. 
+
+Covenants and Requirements
+
+The debt agreements contain a number of covenants that restrict, among other things, our ability to:
+
+[DATA_TABLE_REMOVED]
+
+The debt agreements require prepayment of the term loans with up to 100% of excess cash flow (as defined in the agreement) and the net proceeds from certain asset sales, casualty events and debt issuances. No prepayments are required under the second lien term loan when amounts are outstanding under the first lien term loan or revolving credit facility. These mandatory prepayments can be reduced or eliminated based on attaining certain leverage ratios. 
+
+All obligations under the debt agreements are secured by: 
+
+•TriZetto and substantially all of our existing and future direct, wholly owned material domestic subsidiaries
+
+•65% of the equity interests of substantially all of our wholly owned material foreign subsidiaries
+
+•mortgages on substantially all of our tangible and intangible assets 
+
+21
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The first lien term loan and revolving credit facility require us to maintain certain leverage ratios based on balances outstanding as the numerator and adjusted EBITDA (as defined in the agreement) as the denominator:
+
+•a maximum total leverage ratio of 6.50:1.00 when incurrence of indebtedness consists of unsecured debt
+
+•a maximum senior secured leverage ratio between 5.50:1.00 and 5.00:1.00, subject in the event that borrowing on the revolving credit facility has occurred or the total outstanding letters of credit total $5.0 million or more
+
+•a maximum senior secured leverage ratio of 4.50:1.00, subject in the event that borrowing on the incremental credit extension has occurred and contain certain customary affirmative covenants and events of default
+
+As of December 31, 2013, we had no borrowings outstanding on our $85.0 million revolving credit facility, and our outstanding letters of credit (Note 16) were less than $5.0 million. As a result, the above financial ratio covenants were not applicable. All other covenants are still effective, and we were in compliance. 
+
+Revolving Credit Facility
+
+The following table summarizes information regarding our $85.0 million revolving credit facility.
+
+[DATA_TABLE_REMOVED]
+
+Fair Value
+
+The following table summarizes the carrying and fair values of our debt.
+
+[DATA_TABLE_REMOVED]
+
+We estimate the fair value of our term loans using recent trades; however, the market for our debt is not active. As a result, we consider this a Level 2 measurement within the fair value hierarchy (Note 8). Our revolving credit facility does not trade. 
+
+Subsequent Events 
+
+In connection with the excess cash provisions in our covenants, we made a $21.1 million, one-time principal payment on our first lien term loan in April 2014. 
+
+22
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+11.Income Taxes
+
+The following table summarizes our income (loss) before income taxes.
+
+[DATA_TABLE_REMOVED]
+
+The components of income tax (expense)/benefit are as follows:
+
+[DATA_TABLE_REMOVED]
+
+Our effective tax rate differs from the U.S. statutory rate as shown in the following schedule.
+
+[DATA_TABLE_REMOVED]
+
+23
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Deferred income taxes reflect the net tax effects of temporary differences between carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of deferred tax liabilities and assets are as follows:
+
+[DATA_TABLE_REMOVED]
+
+As of December 31, 2013, we had federal net operating loss (“NOL”) carryforwards of approximately $2.9 million that will begin to expire in 2016. We also had state NOL carryforwards at December 31, 2013 of approximately $51.0 million that will begin to expire in 2014. 
+
+As of December 31, 2013, we had federal tax credit carryforwards for research and development, foreign taxes and alternative minimum taxes of approximately $8.2 million, $3.7 million and $3.1 million, respectively. The research and development credits begin to expire in 2015, the foreign tax credits begin to expire in 2014, and the alternative minimum tax credits have an indefinite life. As of December 31, 2013, we also had state research and development credits of approximately $4.4 million that will begin to expire in 2014 and other state tax credits of approximately $1.1 million that will begin to expire in 2022. Additionally, as of December 31, 2013, we had Indian tax credits of approximately $0.2 million relating to minimum alternate taxes.
+
+A valuation allowance related to a deferred tax asset is recorded when it is more likely than not that some portion or all of the deferred tax asset will not be realized. We review the need for a valuation allowance on an annual basis. As of December 31, 2013, the valuation allowance was $5.7 million, of which $3.1 million relates to our investment in QCA (Note 4) and $2.6 million relates to state NOL and federal and state credit carryforwards. 
+
+Section 382 of the Internal Revenue Code of 1986, as amended, imposes an annual limit on the ability of a corporation that undergoes an ownership change to use its U.S. NOLs and tax credits to reduce its tax liability. We have experienced various ownership changes but believe that utilization of the recognized federal NOLs and tax credits will not be hindered by the Section 382 limitations.
+
+24
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+As of December 31, 2013, we had no provision for U.S. federal and state income taxes on certain of our outside tax basis differences, which primarily relate to accumulated foreign earnings of approximately $3.2 million, which are expected to be reinvested outside the U.S. indefinitely. Upon distribution of those earnings to the U.S. in the form of actual or constructive dividends, we would be subject to federal income taxes (subject to an adjustment for foreign tax credits), state income taxes, and possible withholding taxes payable to various foreign countries. Determination of this amount of unrecognized deferred U.S. tax liability is not practicable because of the complexities associated with its hypothetical calculation.
+
+Our unrecognized tax benefits as of December 31, 2013 were $30.1 million, of which the recognition of $28.8 million would affect the annual effective tax rate. It is not practicable at this time to estimate the amount of unrecognized tax benefits that will change in the next twelve months.
+
+The roll forward of unrecognized tax benefits is as follows:
+
+[DATA_TABLE_REMOVED]
+
+We recognize both interest and penalties related to unrecognized tax positions in our income tax expense. As of December 31, 2013, we had a liability of $0.3 million for interest and penalties. During 2013, accrued interest and penalty amounts related to uncertain tax positions increased by $0.2 million. 
+
+The 2009 through 2013 federal tax years remain open for tax examination. The expiration of the statute of limitations related to the various state income tax returns that we file varies by state. As of December 31, 2013, the Arkansas, Illinois, New York, and New York City income tax returns are under examination. We are no longer subject to Indian income tax examinations for years prior to March 31, 2010. One of our Indian subsidiaries is currently under examination for the March 31, 2010 tax year.
+
+25
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+12.Share and Cash Based Employee Incentive Plans
+
+Management Incentive Share Plan
+
+TZ Holdings issues awards under the Management Incentive Share Plan (“MISP”) to certain employees to encourage continued service. The MISP awards consist of the right to receive TZ Holdings Common Series B shares. The rights to receive such shares vest based on certain service and performance conditions. Performance conditions include the sale, liquidation, or qualified public offering of TZ Holdings in a material event (“Material Event”) as defined in the TZ Holdings Partnership Agreement. We recognize expense associated with the MISP since the employee participants are rendering services to TriZetto. Share based compensation cost is based on the awards estimated fair value and recognized as expense ratably over the requisite service period or upon satisfaction of the performance conditions.
+
+MISP awards generally consist of 50% service based awards and 50% performance based awards, both of which have vesting provisions and restrictions.
+
+Service Based AwardsPerformance Based Awards
+
+25% of the award vests on the first anniversary date from the date of grantIn general, 100% of the awards vests when a Material Event occurs and certain valuation thresholds are achieved
+
+75% of the award vests in equal monthly installments during the following 36 monthsCertain MISP awards contain additional vesting conditions based on individual employee performance goals (“employee specific performance based awards”)
+
+In the case of a Material Event, 100% of the unvested service based awards vest automatically 
+
+Upon termination of employment, TZ Holdings has the option to repurchase the employee’s vested and unvested MISP awards.
+
+The following table summarizes non-cash, share based compensation expense for the MISP recognized on the Consolidated Statement of Operations and Comprehensive Income (Loss). Negative amounts represent changes in fair value and forfeitures. Amounts recorded as non-cash, share based compensation expense are recorded to “Additional paid-in capital” on the Consolidated Balance Sheet. 
+
+[DATA_TABLE_REMOVED]
+
+26
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table summarizes our MISP award activity.
+
+[DATA_TABLE_REMOVED]
+
+Circle of Distinction Shadow Equity Plan
+
+In May 2011, we initiated the TriZetto Circle of Distinction Shadow Equity Plan (“COD”), which entitles certain employees the right to cash payments based on the value of the COD plan’s pool. The value of the pool is a based on a simulation of the future equity value similar to the MISP plan discussed above and subject to a floor amount determined by the TZ Holdings’ Board of Directors. COD awards are performance based, and cash payments will only be made on the achievement of a Material Event. Accordingly, no expense has been recorded.
+
+The following table summarizes our COD award activity.
+
+[DATA_TABLE_REMOVED]
+
+27
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+13.Transactions with Significant Customers
+
+For the year ended December 31, 2013, no individual customer accounted for more than ten percent of our consolidated total revenue. The following table presents information regarding individual customers who comprise over ten percent of our consolidated accounts receivable. 
+
+[DATA_TABLE_REMOVED]
+
+14.Employee Benefit Plans
+
+We offer a defined contribution plan to US employees, which qualifies under Section 401(k) of the Internal Revenue Code.
+
+The following table summarizes key terms of the 401(k) plan.
+
+EligibilityEmployment start date
+
+Employee voluntary contributionsUp to 60% of annual compensation, not to exceed the statutory limit
+
+Current TriZetto matching contribution (discretionary)$0.50 for each $1.00 contributed to the plan, not to exceed 6% of annual compensation
+
+Timing of TriZetto’s matching contributionEach pay period
+
+Vesting schedule on the company matching contribution
+
+50% after two years of service
+
+100% after three years of service
+
+The following table summarizes the expense we incurred for discretionary matching contributions.
+
+[DATA_TABLE_REMOVED]
+
+15.Advertising Costs
+
+Advertising costs are expensed as incurred and included in “Selling, general and administrative” expense on our Consolidated Statement of Operations and Comprehensive Income (Loss). The following table summarizes our advertising costs.
+
+[DATA_TABLE_REMOVED]
+
+28
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+16.Commitments and Contingencies
+
+We lease office space and equipment under non-cancelable operating leases with various expiration dates through 2028. We are responsible for maintenance costs and property taxes on certain operating leases. Income from subleasing is not significant. The following table presents information regarding our operating leases.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes future maturities of our long-term debt and contractual obligations.
+
+[DATA_TABLE_REMOVED]
+
+The interest rate on our term loans is variable. The future interest payments reflected in the table above assume the following interest rates through maturity:
+
+First lien term loan 4.75%
+
+Second lien term loan 8.50%
+
+This assumption is based on the actual interest rates in effect as of December 31, 2013.
+
+In addition to the commitments in the table above, we have an annual advisory service fee payable to Apax (Note 19). As of December 31, 2013, we had four unused standby letters of credit in the aggregate amount of $4.8 million, which serve as security deposits for certain operating leases.
+
+29
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+17.Contingent Consideration and Holdbacks
+
+In connection with our business combinations, former owners of the acquired businesses are entitled to receive future contingent consideration and other payments as indicated in the following table. We record contingent consideration at present value based on a probability weighted analysis of attaining the target.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes activity in our contingent consideration liabilities. 
+
+[DATA_TABLE_REMOVED]
+
+(1)Adjustments are recorded to “Selling, general and administrative expense” on the Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+We will continue to evaluate the contingent consideration liabilities on a periodic basis.
+
+30
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+18.Legal Proceedings
+
+We are involved in litigation from time to time relating to claims arising out of our operations in the normal course of business. We are not a party to any legal proceedings, the adverse outcome of which, in management’s opinion, individually or in the aggregate, would have a material adverse effect on our results of operations, financial position, or cash flows.
+
+19.Related Party Transactions 
+
+We have an agreement with Apax to pay an annual advisory service fee of $1.6 million as well as fees for certain transactions. Additional fees are due should we consummate a sale, refinancing, divestiture, initial public offering, or similar transaction. 
+
+We hold an equity method investment in QCA (Note 4). QCA, Cambia, and BlueCross BlueShield of Tennessee, Inc. (Note 1) are TriZetto customers. The following tables summarize transactions with these customers.
+
+[DATA_TABLE_REMOVED]
+
+31
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+20.Subsequent Events
+
+Debt
+
+As discussed in Note 10, we made a $21.1 million, one-time principal payment on our first lien term loan in April 2014. 
+
+Sale of QCA Investment
+
+As discussed in Note 4, we sold our entire interest in QCA in May 2014. 
+
+Pending Sale
+
+On September 14, 2014, TZ US Parent and Cognizant Technology Solutions Corporation (“Cognizant”) entered into a stock purchase agreement where Cognizant agreed to purchase 100% of our outstanding common stock. The closing is contingent on regulatory approval and other conditions. The successful closing of this transaction will qualify as a Material Event for our MISP and COD plans (Note 12)
+
+The following table summarizes the estimated future expense associated with the above incentive plans assuming the Cognizant transaction closes during 2014 at the anticipated purchase price. The purchase price is dependent on working capital balances on the closing date, fees, closing costs, and other factors. 
+
+[DATA_TABLE_REMOVED]
+
+We evaluated subsequent events through October 2, 2014, which is the date the financial statements were available to be issued. Aside from the items noted above, there are no material subsequent events requiring disclosure. 
+
+32
+
+TZ US PARENT, INC.
+
+QUARTERLY REPORT
+
+SEPTEMBER 30, 2014
+  PAGE
+
+Condensed Consolidated Balance Sheets as of September 30, 2014 and December 31, 2013 (Unaudited) 1
+
+Condensed Consolidated Statements of Operations and Comprehensive Income (Loss)  
+
+ for the nine months ended September 30, 2014 and 2013 (Unaudited) 2
+
+Condensed Consolidated Statements of Cash Flows 
+
+ for the nine months ended September 30, 2014 and 2013 (Unaudited) 3
+
+Condensed Consolidated Statement of Stockholder's Equity 
+
+ for the nine months ended September 30, 2014 (Unaudited) 4
+
+Notes to the Unaudited Condensed Consolidated Financial Statements 5
+
+TZ US PARENT, INC.
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+(UNAUDITED)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+1
+
+TZ US PARENT, INC.
+
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+
+(UNAUDITED)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+2
+
+TZ US PARENT, INC.
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(UNAUDITED)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+3
+
+TZ US PARENT, INC.
+
+ CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDER’S EQUITY 
+
+(UNAUDITED)
+
+[DATA_TABLE_REMOVED]
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+4
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+1.Organization and Business Activities
+
+Ownership Structure
+
+TZ US Parent, Inc. (“we” or “TZ US Parent”) is a Delaware corporation formed in 2008 as a holding company. TZ US Parent is a wholly owned subsidiary of TZ Holdings, L.P. (“TZ Holdings”), which is controlled by investment funds advised by Apax Partners, LP and Apax Partners LLP (collectively “Apax”).
+
+TriZetto Corporation, formerly the TriZetto Group, Inc., (“TriZetto”) is a wholly owned subsidiary of TZ US Parent. 
+
+Cambia Health Solutions, Inc. (“Cambia,” formerly The Regence Group) and BlueCross BlueShield of Tennessee, Inc. have ownership interests in TZ Holdings and are TriZetto customers (Note 15).
+
+Principal Business
+
+TriZetto develops, licenses, implements, and supports software products for health insurance plans, third party benefit administrators, and healthcare providers. TriZetto also provides hosting, application management, business process management, consulting, and other services. We derive virtually all of our revenue from customers in the United States, and virtually all of our assets are located in the United States.
+
+2.Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). All adjustments considered necessary for a fair presentation have been included. These adjustments are of a normal recurring nature. 
+
+You should read these condensed consolidated financial statements in connection with our December 31, 2013 financial statements and notes thereto. The results of operations for the interim periods presented are not necessarily indicative of the operating results to be expected for any subsequent interim period or for our fiscal year ending December 31, 2014. 
+
+Principles of Consolidation and Basis of Presentation
+
+We consolidate all wholly owned subsidiaries. We account for non-wholly owned investments on the equity method when we have the ability to significantly influence the operating decisions of the investee. When we do not have the ability to significantly influence the operating decisions of an investee, we use the cost method. All significant intercompany accounts and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements and the reported amounts of revenue and expense for each reporting period. Estimates are used in accounting for, among other things:
+
+[DATA_TABLE_REMOVED]
+
+Actual results may differ materially from previously estimated amounts. We review estimates and assumptions periodically and reflect revisions prospectively in the period they occur.
+
+5
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+Long-lived Assets, Including Other Definite Lived Intangible Assets 
+
+Definite lived intangible assets consist primarily of customer lists, core technology, trade names, intellectual property, non-compete agreements, and market value adjustments related to leasehold interests. These intangible assets are amortized on a straight line basis over their estimated useful lives, which range from two to 20 years. We acquired a substantial portion of our intangible assets through business combinations.
+
+We evaluate long-lived assets and other definite lived intangible assets for impairment when events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. 
+
+Goodwill and Other Indefinite Lived Intangible Assets
+
+Under GAAP, goodwill and other indefinite lived intangible assets are not amortized but are subject to impairment testing annually or whenever indicators arise. We test goodwill and other indefinite lived intangible assets at the reporting unit level as of December 31st each year, or more often if there are impairment indicators. 
+
+Fair Value of Financial Instruments 
+
+The carrying value for cash and cash equivalents, accounts receivable, and current liabilities approximates fair value due to their short-term nature. We estimate the fair value of our term loans using recent trades; however, the market for our debt is not active (Note 9). 
+
+Revenue Recognition 
+
+We recognize revenue when: 
+
+•persuasive evidence of an arrangement exists; 
+
+•the product or service has been delivered; 
+
+•fees are fixed or determinable; 
+
+•collection is reasonably assured; and 
+
+•all other significant obligations have been fulfilled. 
+
+We classify revenue into two categories, “Products” and “Services and other.”
+
+Products Revenue
+
+We generate product revenue from licensing our software. We generally recognize revenue after meeting the criteria described above and have fair value pricing for all undelivered elements sold with or around the same time as the software licenses (see discussion below regarding multiple element arrangements). For software license agreements in which customer acceptance is a significant condition of earning the license fees, revenue is not recognized until acceptance occurs. For software license agreements that require significant functionality enhancements or modification of the software, revenue for the software is recognized as these services are performed. For software license arrangements that include a right to use the product for a defined period of time or for content subscriptions, we recognize revenue ratably over the term of the license.
+
+Services and Other Revenue
+
+We generate services and other revenue from several sources, including the provision of outsourcing services, such as software hosting and other business services, and the sale of maintenance and support for our proprietary software products. A software element is present in a hosting arrangement if the customer has the contractual right to take possession of the software at any time during the hosting period without significant penalty and it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. Outsourcing services revenue is typically billed and recognized monthly over the contract term, generally three to ten years. Many of our outsourcing agreements require us to maintain a certain level of operating performance. We record revenue net of estimated penalties resulting from failure to maintain this level of operating performance. Software maintenance and support revenues are typically based on one year renewable contracts and are recognized ratably over the contract period. Software maintenance in which we receive payment in advance is recorded as deferred revenue.
+
+6
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+We also generate services and other revenue from consulting fees related to the use of proprietary and third party licensed products. These consulting arrangements include:
+
+[DATA_TABLE_REMOVED]
+
+Many of our consulting arrangements fall into two broad categories – 1) time and material and 2) fixed fee. For time and material based arrangements, we recognize revenue as the work is performed and expenses are incurred. For fixed fee contracts, we generally recognize revenue on a percentage of completion basis using either direct labor hours or substantive contractual milestones as the progress indicator.
+
+On certain contracts we receive payment in advance of services performed; amounts in excess of revenue recognized are classified as deferred revenue on the Condensed Consolidated Balance Sheet. For other contracts with substantive performance criteria or “holdback” payments tied to performance, we recognize revenue when all performance deliverables are earned and all other revenue recognition criteria are satisfied. For a contract on which a loss is anticipated, we recognize the amount of the anticipated loss in the period that the loss becomes evident.
+
+We also generate services revenue associated with preparing customers’ connectivity centers or data centers in order to ready a specific client for software hosting services. These fees are deferred and recognized ratably into revenue over the contract term, which is generally three to ten years. 
+
+We generate other services revenue from certain one-time charges, including contractual fees such as termination fees and change of control fees. We recognize the revenue for these fees once the earnings process is complete, there are no remaining substantive performance obligations, and collection is reasonably assured. We also derive services revenue from fees related to product related customer conferences, which is recognized as obligations are performed. 
+
+Revenue Recognition for Multiple Element Arrangements – Software Products and Software Related Services
+
+For multiple element arrangements containing only software deliverables, including software licenses and maintenance support, we determine the revenue allocation based on vendor specific objective evidence (“VSOE”) of fair value. In those arrangements, we account for the delivered elements in accordance with the “residual method.” We determine VSOE of fair value for each undelivered element based on how it is sold separately, or in the case of maintenance, the renewal rate. Under the residual method, the arrangement fee is recognized as follows: 
+
+(1)the total fair value of the undelivered elements, as indicated by VSOE of fair value, is deferred and subsequently recognized as services are delivered and all other revenue recognition requirements are met
+
+and 
+
+(2)the difference between the total arrangement fee and the amount deferred for the undelivered elements is recognized as revenue for the delivered elements. 
+
+For arrangements in which VSOE of fair value does not exist for each undelivered element, including specified product and upgrade rights, revenue for the delivered element is deferred and not recognized until: 
+
+(1)VSOE of fair value is available for the undelivered element 
+
+or 
+
+(2)delivery of each element has occurred.
+
+If the only undelivered element is a service, revenue from the delivered element is recognized over the service period. In determining VSOE of fair value for the undelivered elements, no portion of the discount is allocated to specified product or upgrade rights. If we are unable to separate elements of a multiple element arrangement, we recognize revenue ratably over the life of the contract. 
+
+7
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+Revenue Recognition for Multiple Element Arrangements – Arrangements with Software and Non-software Elements
+
+We enter into multiple element arrangements with customers that may include a combination of our various software related products and services (described above) and non-software related products and services offerings, including hosting, business process outsourcing services, and software as a service subscription offerings. In these circumstances, we account for each element within the arrangement as a separate unit of accounting provided the following criteria are met:
+
+(1)the delivered products or services have value to the customer on a standalone basis;
+
+and
+
+(2)for an arrangement that includes a general right of return relative to the delivered products or services, we substantially control delivery or performance of the undelivered product and such delivery or performance is considered probable. 
+
+We consider a deliverable to have standalone value if we or another vendor separately sell the product or service or it could be resold by the customer. Further, our revenue arrangements generally do not include a general right of return relative to the delivered products. Where the aforementioned criteria for a separate unit of accounting are not met, we combine the deliverable with the undelivered element(s) and treat as a single unit of accounting for the purposes of allocating the arrangement consideration and revenue recognition. For those units of accounting that include more than one deliverable but are treated as a single unit of accounting, we generally recognize revenues over the delivery period. 
+
+For multi-element arrangements that include both software and non-software deliverables, we allocate revenue to all deliverables based on their relative selling prices (described further below). We then further allocate consideration within the software group to the respective elements following the guidance in Accounting Standards Codification (“ASC”) 985-605 and our policies as described above. After allocating the arrangement consideration to the elements, we account for each respective element as described above.
+
+We base the relative selling price for each element on the following hierarchy: 
+
+(1)VSOE if available
+
+(2)third party evidence ("TPE") if VSOE is not available
+
+(3)estimated selling price ("ESP") if neither VSOE nor TPE are available.
+
+When possible, we establish VSOE of selling price for deliverables in software and non-software multiple-element arrangements using the price charged for a deliverable when sold separately. For software maintenance, we use renewal rates offered to customers. We evaluate TPE by reviewing similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing historical transactions, including transactions where the deliverable was sold on a standalone basis and considering several other external and internal factors including, but not limited to:
+
+•pricing practices including discounting;
+
+•margin objectives;
+
+•competition; and, 
+
+•contractually stated prices. 
+
+We determine ESP through consultation with and approval by our management, taking into consideration our pricing model and go-to­market strategy. We analyze selling prices on an annual basis or more frequently if we experience significant changes.
+
+Revenue Recognition for Software and Service Subscription Offerings 
+
+Our software and service subscription offerings generally provide customers access to certain of our software and services for a bundled price. Generally, our software and service subscription offerings do not include multiple elements. We recognize revenue from our software and service subscription offerings ratably over the contract term, commencing at inception of the agreement and upon satisfaction of all revenue recognition criteria. We capitalize upfront expenses incurred in the implementation of our subscription offerings and amortize such elements ratably over the contract term.
+
+8
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+In our provider product line, we generate services revenue through:
+
+•fees charged on a per statement basis for generating and mailing patient statements;
+
+•subscription or transaction fees for electronic claims clearinghouse services; 
+
+•monthly fees for the use of our customized websites that facilitate the exchange of secure information between healthcare constituents over the internet;
+
+•monthly or per transaction fees for a product that provides patient eligibility verification; 
+
+•setup and annual renewal fees;
+
+•consulting; and, 
+
+•fees for other supplemental services. 
+
+We recognize revenues in the period that the services are delivered, with the exception of annual renewal fees, which are amortized ratably over the following 12 month term of the agreement. Amounts billed and collected before the services are performed are included in deferred revenue. 
+
+Contingent Consideration
+
+Contingent consideration arrangements relate to our business combinations. On the Condensed Consolidated Statement of Cash Flows, we segregate payments on these arrangements into categories.
+
+ Payments directly related to the initial fair value established at the acquisition datePayments related to subsequent developments
+
+ClassificationConsidered a method of financing the business combinationConsidered an operating expense
+
+Treatment on the Condensed Consolidated Statement of Cash FlowsCash outflow from financing activitiesCash outflow from operating activities
+
+Recent Accounting Pronouncements
+
+ASU 2014-09
+
+In May 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-09 (“ASU 2014-09”), “Revenue from Contracts with Customers”. ASU 2014-09 affects virtually all entities that enter into contracts with customers to transfer goods or services. This ASU will supersede certain existing revenue recognition requirements and most industry-specific guidance. While entities will still record the same total amount of revenue over time, the timing for recognition could be different compared to existing guidance. 
+
+This standard will be effective for us on January 1, 2018. We are currently evaluating the impact ASU 2014-09 will have on our financial position and results of operations. 
+
+ASU 2014-12
+
+In June 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-12 (“ASU 2014-12”), “Accounting for Share-Based Payments When the Terms of an Award Provide That a Performance Target Could Be Achieved after the Requisite Service Period.” ASU 2014-12 resolves the diversity in accounting treatment on certain share based payments issued to employees where the vesting is contingent upon performance targets. 
+
+This standard will be effective for us on January 1, 2016. We do not expect the adoption of ASU 2014-12 to have a significant impact on our consolidated financial statements. 
+
+9
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+3.Long-term Investments
+
+The following table summarizes our long-term investments.
+
+[DATA_TABLE_REMOVED]
+
+QualChoice Holdings, Inc. (“QCA”) is a health maintenance organization that offers managed care benefits in Arkansas. In May 2014, we sold our entire interest in QCA. 
+
+4.Property and Equipment 
+
+The following table summarizes our property and equipment. We reclassified certain December 31, 2013 amounts to conform to the current period presentation. 
+
+[DATA_TABLE_REMOVED]
+
+* We depreciate leasehold improvements over the shorter of the economic life or the lease term.
+
+The following table summarizes depreciation expense on property and equipment, including assets acquired under capital lease agreements, and amortization of capitalized software development costs (Note 5) recognized on the Condensed Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+[DATA_TABLE_REMOVED]
+
+Impairment charges during the nine months ended September 30, 2014 and 2013 were not significant. 
+
+10
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+5.Capitalized Software Development Costs
+
+The following tables present information regarding our software development costs. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Impairment charges are included primarily in “Cost of revenue – services and other” and “Cost of revenue – products” on the Condensed Consolidated Statement of Operations and Comprehensive Income (Loss). 
+
+6.Goodwill and Other Intangible Assets 
+
+The following tables summarize our goodwill and other intangible assets. 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+We did not identify any impairment indicators during the nine months ended September 30, 2014 and 2013.
+
+11
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+7.Fair Value Measurements
+
+We define fair value in accordance with GAAP as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). In determining fair value, we utilize a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels. 
+
+[DATA_TABLE_REMOVED]
+
+During the nine months ended September 30, 2014, there were no transfers between levels. 
+
+12
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+Our contingent consideration liabilities are the only items on our Condensed Consolidated Balance Sheet subject to fair value measurements on a recurring basis. The carrying value for cash and cash equivalents, accounts receivable, current assets, and current liabilities (excluding the current portion of our term loans) approximates fair value due to their short-term nature. Refer to Note 9 for the fair value of our debt obligations. 
+
+The actual cash payments for final settlement of our contingent consideration liabilities may materially differ from our estimates. Refer to Note 13 for additional information, including the maximum potential payout. Adjustments to contingent consideration liabilities (excluding acquisition method accounting entries) are recorded to “Selling, general and administrative expense” on the Condensed Consolidated Statement of Operations and Comprehensive Income (Loss). 
+
+The following table summarizes our contingent consideration liabilities.
+
+[DATA_TABLE_REMOVED]
+
+8.Accrued Liabilities and Other
+
+The following table summarizes our accrued liabilities.
+
+[DATA_TABLE_REMOVED]
+
+13
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+9.Debt 
+
+The following table summarizes our debt agreements.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes our future principal and interest payments.
+
+[DATA_TABLE_REMOVED]
+
+First Lien Term Loan
+
+As a result of the one-time additional principal payment discussed below, we have no required payments on our first lien term loan until December 2015. Beginning in December 2015, we are required to make quarterly principal payments of $1.6 million. The first lien term loan has a balloon payment upon maturity in May 2018. 
+
+The interest rate on our first lien term loan is variable. We have the option of either the adjusted LIBOR or alternate base rate (“ABR”). If we fail to specify a rate, the ABR applies. 
+
+[DATA_TABLE_REMOVED]
+
+The interest periods for LIBOR based rates may be one, two, three or six months, with some limited exceptions. As of September 30, 2014 and December 31, 2013, we used the adjusted LIBOR method, and the interest rate in effect was 4.75%. The future interest payments reflected in the table above assume this interest rate through maturity. 
+
+14
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+Second Lien Term Loan
+
+In September 2012, we entered into a $150.0 million second lien term loan agreement. This term loan is a secured obligation that is ranked junior in right of payment to our first lien term loan and revolving credit facility. The principal is payable at maturity in March 2019. 
+
+Interest on the second lien term loan is variable. We have the option of either the adjusted LIBOR or alternate base rate. If we fail to specify a rate, the ABR applies. 
+
+[DATA_TABLE_REMOVED]
+
+The interest periods for LIBOR based rates may be one, two, three or six months, with some limited exceptions. As of September 30, 2014 and December 31, 2013, we used the adjusted LIBOR method, and the interest rate in effect was 8.50%. The future interest payments reflected in the table above assume this interest rate through maturity. 
+
+Covenants and Requirements
+
+The debt agreements contain a number of covenants that restrict, among other things, our ability to:
+
+[DATA_TABLE_REMOVED]
+
+The debt agreements require prepayment of the term loans with up to 100% of excess cash flow (as defined in the agreement) and the net proceeds from certain asset sales, casualty events and debt issuances. No prepayments are required under the second lien term loan when amounts are outstanding under the first lien term loan or revolving credit facility. These mandatory prepayments can be reduced or eliminated based on attaining certain leverage ratios. 
+
+All obligations under the debt agreements are secured by: 
+
+•TriZetto and substantially all of our existing and future direct, wholly owned material domestic subsidiaries
+
+•65% of the equity interests of substantially all of our wholly owned material foreign subsidiaries
+
+•mortgages on substantially all of our tangible and intangible assets 
+
+15
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+The first lien term loan and revolving credit facility require us to maintain certain leverage ratios based on balances outstanding as the numerator and adjusted EBITDA (as defined in the agreement) as the denominator:
+
+•a maximum total leverage ratio of 6.50:1.00 when incurrence of indebtedness consists of unsecured debt
+
+•a maximum senior secured leverage ratio between 5.50:1.00 and 5.00:1.00, effective in the event that borrowing on the revolving credit facility has occurred or the total outstanding letters of credit total $5.0 million or more
+
+•a maximum senior secured leverage ratio of 4.50:1.00, effective in the event that borrowing on the incremental credit extension has occurred and contain certain customary affirmative covenants and events of default
+
+As of September 30, 2014, we had no borrowings outstanding against our $85.0 million revolving credit facility, and our outstanding letters of credit (Note 12) were less than $5.0 million. As a result, the above financial ratio covenants were not applicable. All other covenants are still effective, and we were in compliance. 
+
+Revolving Credit Facility
+
+The following table summarizes information regarding our $85.0 million revolving credit facility.
+
+[DATA_TABLE_REMOVED]
+
+Fair Value
+
+The following table summarizes the carrying and fair values of our debt.
+
+[DATA_TABLE_REMOVED]
+
+We estimate the fair value of our term loans using recent trades; however, the market for our debt is restricted to accredited investors and institutions. As a result, we consider this a Level 2 measurement within the fair value hierarchy (Note 7). Our revolving credit facility does not trade. 
+
+One-Time Principal Payment 
+
+In connection with the excess cash provisions in our covenants, we made a $21.1 million, one-time additional principal payment on our first lien term loan in April 2014. 
+
+16
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+10.Share and Cash Based Employee Incentive Plans
+
+Management Incentive Share Plan
+
+TZ Holdings issues awards under the Management Incentive Share Plan (“MISP”) to certain employees to encourage continued service. The MISP awards consist of the right to receive TZ Holdings Common Series B shares. The rights to receive such shares vest based on certain service and performance conditions. Performance conditions include the sale, liquidation, or qualified public offering of TZ Holdings in a material event (“Material Event”) as defined in the TZ Holdings Partnership Agreement. We recognize expense associated with the MISP because the employee participants are rendering services to TriZetto. Share based compensation cost is based on the award’s estimated fair value and recognized as expense ratably over the requisite service period or upon satisfaction of the performance conditions.
+
+MISP awards generally consist of 50% service based awards and 50% performance based awards, both of which have vesting provisions and restrictions.
+
+Service Based AwardsPerformance Based Awards
+
+25% of the award vests on the first anniversary date from the date of grantIn general, 100% of the awards vests when a Material Event occurs and certain valuation thresholds are achieved
+
+75% of the award vests in equal monthly installments during the following 36 monthsCertain MISP awards contain additional vesting conditions based on individual employee performance goals (“employee specific performance based awards”)
+
+In the case of a Material Event, 100% of the unvested service based awards vest automatically 
+
+Upon termination of employment, TZ Holdings has the option to repurchase the employees’ vested and unvested MISP awards.
+
+The following table summarizes non-cash, share based compensation expense for the MISP recognized on the Condensed Consolidated Statement of Operations and Comprehensive Income (Loss). Negative amounts represent changes in fair value and forfeitures. Amounts recorded as non-cash, share based compensation expense are recorded to “Additional paid-in capital” on the Condensed Consolidated Balance Sheet. 
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes our MISP award activity.
+
+[DATA_TABLE_REMOVED]
+
+17
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+Circle of Distinction Shadow Equity Plan
+
+In May 2011, we initiated the TriZetto Circle of Distinction Shadow Equity Plan (“COD”), which entitles certain employees to the right to cash payments. COD awards are performance based MISP awards, and cash payments will only be made on the achievement of a Material Event. Accordingly, no expense has been recorded.
+
+The following table summarizes our COD award activity.
+
+[DATA_TABLE_REMOVED]
+
+Refer to Note 16 for future expense associated with our MISP and COD awards. 
+
+11.Income Taxes
+
+We recorded an income tax expense of $13.5 million, a 54.3% effective tax rate, for the nine months ended September 30, 2014, compared to an income tax benefit of $32.0 million, a 45.6% effective tax rate, for the nine months ended September 30, 2013.
+
+For the nine months ended September 30, 2014, the principal differences between our effective tax rate and the U.S. statutory rate are the effects of the non-deductibility of the share based compensation expense, state taxes, and items originating in the prior year. For the nine months ended September 30, 2013, the principal differences between our effective tax rate and the U.S. statutory rate are the effects of state taxes, tax credits, and items originating in the prior year.
+
+18
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+12.Commitments and Contingencies
+
+The following table summarizes future maturities of our long-term debt and contractual obligations.
+
+[DATA_TABLE_REMOVED]
+
+The interest rate on our term loans is variable. The future interest payments reflected in the table above assume the following interest rates through maturity:
+
+First lien term loan 4.75%
+
+Second lien term loan 8.50%
+
+This assumption is based on the actual interest rates in effect as of September 30, 2014.
+
+Advisory Fee
+
+In addition to the commitments in the table above, we have an annual advisory service fee payable to Apax (Note 15). 
+
+Restricted Cash
+
+We have a $2 million certificate of deposit that serves as collateral to maintain a credit limit under one of our vendor relationships.
+
+Other
+
+As of September 30, 2014 and December 31, 2013, we had four unused standby letters of credit in the aggregate amount of $4.8 million, which serve as security deposits for certain operating leases.
+
+19
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+13.Contingent Consideration and Holdbacks
+
+In connection with our business combinations, former owners of the acquired businesses are entitled to receive future contingent consideration and other payments as indicated in the following table. We record contingent consideration at present value based on a probability weighted analysis of attaining the target.
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes activity in our contingent consideration liabilities. 
+
+[DATA_TABLE_REMOVED]
+
+(1)Adjustments are recorded to “Selling, general and administrative expense” on the Condensed Consolidated Statement of Operations and Comprehensive Income (Loss).
+
+We will continue to evaluate the contingent consideration liabilities on a periodic basis.
+
+20
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+14.Legal Proceedings
+
+We are subject to various legal matters and claims, either asserted or unasserted, which arise in the ordinary course of business. We do not believe the outcome of any of these matters, individually or in the aggregate, will have a material adverse effect on our results of operations, financial position, or cash flows.
+
+15.Related Party Transactions 
+
+Sales to Related Parties
+
+Cambia and BlueCross BlueShield of Tennessee, Inc. (Note 1) are TriZetto customers. The following tables summarize transactions with these customers.
+
+[DATA_TABLE_REMOVED]
+
+Advisory Fee
+
+We have an agreement with Apax to pay an annual advisory service fee of $1.6 million as well as fees for certain transactions. Additional fees are due should we consummate a sale, refinancing, divestiture, initial public offering, or similar transaction. 
+
+Related Party Note Receivable
+
+On June 26, 2014, TZ Holdings executed a $1.7 million promissory note payable to us in connection with our cash transfer of that amount to TZ Holdings This note receivable accrues interest at a rate of 1.91% compounded annually and is due on December 31, 2019. 
+
+21
+
+TZ US PARENT, INC.
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+16.Subsequent Events
+
+Pending Sale
+
+On September 14, 2014, TZ US Parent and Cognizant Technology Solutions Corporation (“Cognizant”) entered into a stock purchase agreement where Cognizant agreed to purchase 100% of our outstanding common stock. The closing is contingent on regulatory approval and other conditions. The successful closing of this transaction will qualify as a Material Event for our MISP and COD plans (Note 10).
+
+The following table summarizes the estimated future expense associated with the above incentive plans assuming the Cognizant transaction closes during 2014 at the anticipated purchase price. The purchase price is dependent on working capital balances on the closing date, fees, closing costs, and other factors.
+
+[DATA_TABLE_REMOVED]
+
+We evaluated subsequent events through October 27, 2014, which is the date the financial statements were available to be issued. Aside from the items noted above, there are no material subsequent events requiring disclosure. 
+
+22

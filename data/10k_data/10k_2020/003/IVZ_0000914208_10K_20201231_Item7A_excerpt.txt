@@ -1,0 +1,85 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+In the normal course of its business, the company is primarily exposed to market risk in the form of AUM market price risk, securities market risk, interest rate risk and foreign exchange rate risk. 
+
+AUM Market Price Risk
+
+The company's investment management revenues are comprised of fees based on the value of AUM. Declines in the market prices of equity and fixed income securities, commodities and derivatives, or other similar financial instruments held in client portfolios could cause revenues to decline because of lower investment management fees by:
+
+•Causing the value of AUM to decrease. 
+
+•Causing the returns realized on AUM to decrease (impacting performance fees). 
+
+•Causing clients to withdraw funds in favor of investments in markets that they perceive to offer greater opportunity and that the company does not serve.
+
+•Causing clients to rebalance assets away from investments that the company manages into investments that the company does not manage.
+
+•Causing clients to reallocate assets away from products that earn higher revenues into products that earn lower revenues.
+
+Underperformance of client accounts relative to competing products could exacerbate these factors.
+
+Assuming the revenue yield on AUM for the year remains unchanged, a 10% decline in the average AUM for the year would result in a corresponding decline in revenue. Certain expenses, including distribution and compensation expenses, may not vary in proportion with the changes in the market value of AUM. As such, the impact on operating margin or net income of a decline in the market values of AUM may be greater or less than the percentage decline in the market value of AUM.
+
+67
+
+Table of Contents 
+
+Securities Market Risk
+
+The company's exposure to market risk from financial instruments measured at fair value arises from its investments and also from its contingent consideration liability. The following table summarizes the impact of a 10% increase or decrease in the fair values of these financial instruments:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(a)If such a 10% increase or decrease in fair values were to occur, the change attributable to $360.3 million of these equity investments would result in a corresponding increase or decrease in our pre-tax earnings. At December 31, 2020, $202.7 million of these equity investments are held to hedge economically certain deferred compensation plans in which the company participates. In addition to holding equity investments, in 2017, the company purchased a total return swap to economically hedge certain deferred compensation plans. The notional value of the total return swap at December 31, 2020 was $279.3 million. The company recognizes as compensation expense the appreciation or depreciation of the compensation liability over the award's vesting period in proportion to the vested amount of the award. The company immediately recognizes the appreciation or depreciation of these investments, which is included in other gains and losses. This creates a timing difference between the recognition of the compensation expense and the investment gain or loss impacting net income, which will reverse and will offset to zero over the life of the award at the end of the multi-year vesting period.
+
+(b)These represent Invesco’s direct investments in investment products that are consolidated. Upon consolidation, these direct investments are eliminated, and the assets and liabilities of the CIP are consolidated in the Consolidated Balance Sheets, together with a noncontrolling interest balance representing the portion of the CIP owned by third parties. If a 10% increase or decrease in the fair values of Invesco’s direct investments in CIP were to occur, it would result in a corresponding increase or decrease in our net income attributable to Invesco Ltd.
+
+(c)During 2015, the company acquired investment management contracts from Deutsche Bank. This liability represents the purchase price, which was comprised solely of contingent consideration payable in future periods and is linked to future revenues generated from the contracts. In connection with the OppenheimerFunds acquisition (see Note 2, “Business Combinations”), Invesco acquired a contingent consideration liability related to historical OppenheimerFunds transactions. Additionally, the company made other digital wealth acquisitions during 2019, which resulted in a contingent consideration liability linked to sales targets during 2020, 2021 and 2022. The contingent consideration liabilities referenced above were recorded at fair value at each respective acquisition date and subsequent changes in the fair value are recorded in Other gains and losses, net in the Consolidated Statements of Income. If a 10% increase or decrease in the fair value of the contingent consideration liability were to occur, it would result in a corresponding increase or decrease in our net income attributable to Invesco Ltd.
+
+Cash balances invested in money market funds of $947.3 million have been excluded from the table above. These are valued under the market approach at the net asset value of the underlying funds, which is maintained at $1. Assets held for policyholders of $7,582.1 million have also been excluded from the table above. The entity holds assets that are managed for its clients on its balance sheet with an equal and offsetting liability to the policyholders, which is linked to the value of the investments. The investments and the policyholder payables held by this business are carried in the Consolidated Balance Sheets as separate account assets and liabilities at fair value in accordance with ASC Topic 944, “Financial Services - Insurance.” Changes in fair value are recorded and offset to zero in the Consolidated Statements of Income in other operating revenues. Increases or decreases in the fair value of these investments will therefore have no impact to our pre-tax earnings. 
+
+68
+
+Table of Contents 
+
+Interest Rate Risk
+
+Interest rate risk relates to the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The company is exposed to interest rate risk primarily through its external debt and cash and cash equivalent investments. On December 31, 2020, the interest rates on 100.0% of the company's borrowings were fixed for a weighted average period of 6.9 years, and the company had a balance of zero on its floating rate credit facility.
+
+The interest rate profile of the financial liabilities of the company on December 31 was:
+
+[DATA_TABLE_REMOVED]
+
+See Item 8, Financial Statements and Supplementary Data, Note 9, “Debt,” for additional disclosures relating to the U.S. Dollar floating and fixed rate obligations. 
+
+The sensitivity of our financial assets to interest rate risk is immaterial. 
+
+Foreign Exchange Rate Risk
+
+The company has transactional currency exposures that occur when any of the company’s subsidiaries receive or pay cash in a currency different from its functional currency. Such exposure arises from sales or purchases by operating subsidiaries in currencies other than the subsidiaries’ functional currencies. These exposures are not actively managed.
+
+The company also has certain investments in foreign operations, whose net assets and results of operations are exposed to foreign currency translation risk when translated into U.S. Dollars upon consolidation into Invesco Ltd. A strengthening U.S. Dollar has a negative impact on the company's foreign currency denominated earnings when presented in U.S. Dollars. The company's most significant foreign exchange rate risk exposure relates to the translation of Pound Sterling-denominated transactions into the U.S. Dollar reporting currency. The company’s put option contract to hedge its Pound-Sterling-based operating income expired on June 30, 2020. Item 8, Financial Statements and Supplementary Data, Note 19, "Geographic Information," contains disclosure of revenue by geography. Revenues from external customers earned in the U.K. is an indicator of the company's exposure to the Pound Sterling; however, expenses incurred in the U.K. provide a natural offset to the company's exposure to the Pound Sterling.
+
+The company is exposed to foreign exchange revaluation into the Consolidated Statements of Income on monetary assets and liabilities that are held by subsidiaries in different functional currencies than the subsidiaries' functional currencies. Net foreign exchange revaluation losses were $4.5 million in 2020 (2019: $13.6 million of losses) and are included in general and administrative expenses and other gains and losses, net on the Consolidated Statements of Income. We continue to monitor our exposure to foreign exchange revaluation and have put in place net investment hedge structures discussed in Part II, Item 8, Financial Statements, Note 11--"Other Comprehensive Income/(Loss)."
+
+69
+
+Table of Contents 
+
+Supplementary Quarterly Financial Data
+
+The following is selected unaudited consolidated data for Invesco Ltd. for the quarters indicated:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1) The sum of the quarterly earnings per common share amounts may differ from the annual earnings per common share amounts due to the required method of computing the weighted average number of common shares in interim periods.
+
+70
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data

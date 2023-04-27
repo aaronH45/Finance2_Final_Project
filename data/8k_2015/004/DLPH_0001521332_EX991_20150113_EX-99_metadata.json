@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001521332",
+    "sec_company_name": "Delphi Automotive PLC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150113",
+    "sec_filing_date": "20150113",
+    "sec_changed_date": "20150113",
+    "sec_accepted_date": "20150113102719",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1521332/000152133215000004/0001521332-15-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1521332/000152133215000004/0001521332-15-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\DLPH_0001521332_EX991_20150113_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14723 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7476,
+    "endpoints": [
+        "exhibit991presentationsl  ",
+        "20 2013 Net income attributable to Delphi $1,212 Adjusting items Restructuring charges $145 Acquisition-related integration costs $15 Acquisition-related advisory and transaction costs - Asset impairments - Debt extinguishment costs $39 Tax impact of adjusting items (a) ($40) Adjusted net income attributable to Delphi $1,371 Weighted average number of diluted shares outstanding 311.8 Diluted net income per share attributable to Delphi $3.89 Adjusted net income per share $4.40 (a) Represents the income tax impacts of the adjustments made for restructuring charges, acquisition-related integration costs, acquisition-related advisory and transaction costs, asset impairments and debt extinguishment costs, by calculating the income tax impact of these items using the appropriate tax rate for the jurisdiction where the charges were incurred The company’s full year 2014 and 2015 guidance was determined using a consistent manner and methodology Non-US GAAP financial metrics ($ millions, except per share amounts)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DLPH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\DLPH_0001521332_EX991_20150113_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:28:38.732804"
+}

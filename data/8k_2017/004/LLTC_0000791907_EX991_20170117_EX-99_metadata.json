@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000791907",
+    "sec_company_name": "LINEAR TECHNOLOGY CORP /CA/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170117",
+    "sec_filing_date": "20170118",
+    "sec_changed_date": "20170117",
+    "sec_accepted_date": "20170117173140",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/791907/000079190717000003/0000791907-17-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/791907/000079190717000003/0000791907-17-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\LLTC_0000791907_EX991_20170117_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "544755 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8070,
+    "endpoints": [
+        "Exhibit 99.1   ",
+        " Income tax effect of non-GAAP adjustments. Includes the income tax effects of the excluded item noted above. Management believes that it is appropriate to exclude the tax effects of the items noted above in order to present a more meaningful measure of non-GAAP net income."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LLTC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\LLTC_0000791907_EX991_20170117_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:23.865684"
+}

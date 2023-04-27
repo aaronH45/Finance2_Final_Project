@@ -1,0 +1,493 @@
+Quantitative and Qualitative Disclosures about Market Risk  
+
+Interest Rate Sensitivity Analysis  
+
+Through interest rate risk management, we seek to limit the impact of short-term movements in interest rates on our results of operations and financial position. The following tables summarize the potential effect on earnings over the next 12 months and the potential effect on fair values of balance sheet assets and liabilities at December 31, 2020 and December 31, 2019, based upon a sensitivity analysis performed by management assuming a hypothetical increase and decrease in market interest rates of 100 basis points. The earnings sensitivities assume an immediate increase and decrease in market interest rates of 100 basis points and are applied only to financial assets and liabilities, including hedging instruments, that existed at the balance sheet date and do not take into account any new assets, liabilities or hedging instruments that may arise over the next 12 months. There is the possibility that the Federal Reserve may use negative interest rates if economic conditions warrant which could potentially affect the success of our asset and liability management activities and negatively affect our financial condition and results of operations. 
+
+ [DATA_TABLE_REMOVED] 
+
+(1) If decreasing interest rates by 100 basis points results in a negative interest rate, we assume the interest rate is 0% for this disclosure (as opposed  
+
+ to being a negative interest rate).  
+
+63 
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+A primary objective in our funding is to minimize our sensitivity to changing interest rates by generally funding our floating rate education loan portfolio with floating rate debt and our fixed rate education loan portfolio with fixed rate debt although we can have a mismatch at times. In addition, we can have a mismatch in the index (including the frequency of reset) of floating rate debt versus floating rate assets. In addition, due to the ability of some FFELP Loans to earn Floor Income, we can have a fixed versus floating mismatch in funding if the education loan earns at the fixed borrower rate and the funding remains floating. During 2020 and 2019, certain FFELP Loans were earning Floor Income and we locked in a portion of that Floor Income through the use of derivative contracts. The result of these hedging transactions was to fix the relative spread between the education loan asset rate and the variable rate liability.  
+
+In the preceding tables, under the scenario where interest rates increase or decrease by 100 basis points, the change in pre-tax net income before the mark-to-market gains (losses) on derivative and hedging activities is primarily due to the impact of (i) our unhedged FFELP Loans being in a fixed-rate mode due to Floor Income, while being funded with variable rate debt in low interest rate environments; and (ii) a portion of our variable rate assets being funded with fixed rate liabilities. Item (i) will generally cause income to decrease when interest rates increase and income to increase when interest rates decrease. Item (ii) has the opposite effect. The increase and decrease in income in both periods when interest rates increase and decrease 100 basis points is due primarily to item (i) above. The relative changes in the impacts between 2020 and 2019 related to a decrease in interest rates are primarily a result of interest rates being significantly lower in 2020 compared to 2019, as well as 2019 having annual reset Floor Income being earned on FFELP Stafford Loans whereas in 2020 annual reset Floor Income is not being earned. 
+
+In the preceding tables, under the scenario where interest rates increase or decrease by 100 basis points, the change in mark-to-market gains (losses) on derivative and hedging activities in 2020 and 2019 is primarily due to (i) the notional amount and remaining term of our derivative portfolio and related hedged debt and (ii) the interest rate environment. In 2020 and 2019 the mark to market gains (losses) are primarily related to derivatives that don’t qualify for hedge accounting that are used to economically hedge Floor Income as well as the origination of fixed rate Private Education Refinance loans. As a result of not qualifying for hedge accounting there is not an offsetting mark to market of the hedged item in this analysis. The mark to market gains (losses) where interest rates increase 100 basis points are higher in 2020 than 2019 as a result of interest rates being significantly lower in 2020 than 2019 resulting in a significant increase in the amount of Floor Income. 
+
+64 
+
+In addition to interest rate risk addressed in the preceding tables, we are also exposed to risks related to foreign currency exchange rates. Foreign currency exchange risk is primarily the result of foreign currency denominated debt issued by us. When we issue foreign denominated corporate unsecured and securitization debt, our policy is to use cross currency interest rate swaps to swap all foreign currency denominated debt payments (fixed and floating) to U.S. dollar LIBOR using a fixed exchange rate. In the tables above, there would be an immaterial impact on earnings if exchange rates were to decrease or increase, due to the terms of the hedging instrument and hedged items matching. The balance sheet interest bearing liabilities would be affected by a change in exchange rates; however, the change would be materially offset by the cross-currency interest rate swaps in other assets or other liabilities. In certain economic environments, volatility in the spread between spot and forward foreign exchange rates has resulted in mark-to-market impacts to current-period earnings which have not been factored into the above analysis. The earnings impact is noncash, and at maturity of the instruments the cumulative mark-to-market impact will be zero. Navient has not issued foreign currency denominated debt since 2008.  
+
+Asset and Liability Funding Gap  
+
+The tables below present our assets and liabilities (funding) arranged by underlying indices as of December 31, 2020. In the following GAAP presentation, the funding gap only includes derivatives that qualify as effective hedges (those derivatives which are reflected in net interest margin, as opposed to those reflected in the “gains (losses) on derivatives and hedging activities, net” line on the consolidated statements of income). The difference between the asset and the funding is the funding gap for the specified index. This represents our exposure to interest rate risk in the form of basis risk and repricing risk, which is the risk that the different indices may reset at different frequencies or may not move in the same direction or at the same magnitude.  
+
+Management analyzes interest rate risk and in doing so includes all derivatives that are economically hedging our debt whether they qualify as effective hedges or not (Core Earnings basis). Accordingly, we are also presenting the asset and liability funding gap on a Core Earnings basis in the table that follows the GAAP presentation.  
+
+GAAP Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Funding (by index) includes all derivatives that qualify as hedges.  
+
+(2)  
+
+Funding includes loan repurchase facilities.  
+
+(3)  
+
+Funding consists of auction rate ABS and ABCP facilities.  
+
+(4)  
+
+Assets include restricted and unrestricted cash equivalents and other overnight type instruments. Funding includes the obligation to return cash collateral held related to derivatives exposures.  
+
+(5)  
+
+Assets include receivables and other assets (including goodwill and acquired intangibles). Funding includes other liabilities and stockholders’ equity.  
+
+65 
+
+Core Earnings Basis  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Funding (by index) includes all derivatives that management considers economic hedges of interest rate risk and reflects how we internally manage our interest rate exposure.  
+
+(2)  
+
+Funding includes loan repurchase facilities.  
+
+(3)  
+
+Funding consists of auction rate ABS and ABCP facilities.  
+
+(4)  
+
+Assets include restricted and unrestricted cash equivalents and other overnight type instruments. Funding includes the obligation to return cash collateral held related to derivatives exposures.  
+
+(5)  
+
+Assets include receivables and other assets (including goodwill and acquired intangibles). Funding includes other liabilities and stockholders’ equity.  
+
+We use interest rate swaps and other derivatives to achieve our risk management objectives. Our asset liability management strategy is to match assets with debt (in combination with derivatives) that have the same underlying index and reset frequency or, when economical, have interest rate characteristics that we believe are highly correlated. Interest earned on our FFELP Loans is primarily indexed to daily one-month LIBOR and our cost of funds is primarily indexed to rates other than daily one-month LIBOR. A source of variability in FFELP net interest income could also be Floor Income we earn on certain FFELP Loans. Pursuant to the terms of the FFELP, certain FFELP Loans can earn interest at the stated fixed rate of interest as underlying debt interest rate expense remains variable. We refer to this additional spread income as “Floor Income.” Floor Income can be volatile since it is dependent on interest rate levels. We frequently hedge this volatility with derivatives which lock in the value of the Floor Income over the term of the contract. Interest earned on our Private Education Refinance Loans is generally fixed rate with the related cost of funds generally fixed rate as well. Interest earned on the remaining Private Education Loans is generally indexed to either one-month Prime or LIBOR rates and our cost of funds is primarily indexed to one-month or three-month LIBOR. The use of funding with index types and reset frequencies that are different from our assets exposes us to interest rate risk in the form of basis and repricing risk. This could result in our cost of funds not moving in the same direction or with the same magnitude as the yield on our assets. While we believe this risk is low, as all of these indices are short-term with rate movements that are highly correlated over a long period of time, market disruptions (which have occurred in prior years) can lead to a temporary divergence between indices resulting in a negative impact to our earnings.  
+
+66 
+
+Properties  
+
+The following table lists the principal facilities owned by us as of December 31, 2020:  
+
+ [DATA_TABLE_REMOVED] 
+
+The following table lists the principal facilities leased by us as of December 31, 2020:  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Approximately 38,000 square feet leased to Fiserv (previously First Data) beginning April 2019. 
+
+(2)  
+
+Approximately 33,000 square feet will be vacated in first-quarter 2021 and the Company took a lease abandonment charge. 
+
+(3)  
+
+Austin, TX lease facility was vacated in September 2020 and the Company took a lease abandonment charge. Lease expires September 30, 2022. 
+
+(4)  
+
+San Francisco, CA lease was vacated in January 2021 and the Company took a lease abandonment charge. This lease will be terminated effective February 28, 2021. The original lease term was March 31, 2023. 
+
+None of the facilities that we own is encumbered by a mortgage. We believe that our headquarters, loan servicing centers, data center and other business processing centers are generally adequate to meet our long-term needs and business goals. Our headquarters is currently in leased space at 123 Justison Street, Wilmington, Delaware, 19801. 
+
+67 
+
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities  
+
+Our common stock is listed and traded on the NASDAQ under the symbol NAVI. As of January 31, 2021, there were 183,771,633 shares of our common stock outstanding and 281 holders of record.  
+
+We paid quarterly cash dividends on our common stock of $0.16 per share for each quarter of 2019 and 2020.  
+
+Issuer Purchases of Equity Securities  
+
+The following table provides information relating to our purchases of shares of our common stock in the three months ended December 31, 2020.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)   
+
+The total number of shares purchased includes: (i) shares purchased under the stock repurchase program discussed below and (ii) shares of our common stock tendered to us to satisfy the exercise price in connection with cashless exercise of stock options, and tax withholding obligations in connection with exercise of stock options and vesting of restricted stock and restricted stock units.  
+
+(2)   
+
+In September 2018, the board authorized a $500 million share repurchase program and in October 2019, the board approved an additional $1 billion multi-year share repurchase program.  
+
+68 
+
+Stock Performance  
+
+The following performance graph compares the yearly dollar change in our cumulative total shareholder return on our common stock to that of the S&P 400 Financials and the S&P Midcap 400 Index. The graph assumes a base investment of $100 at December 31, 2015 and reinvestment of dividends through December 31, 2020.  
+
+ [DATA_TABLE_REMOVED] 
+
+Source: Bloomberg Total Return Analysis 
+
+69 
+
+Controls and Procedures  
+
+Disclosure Controls and Procedures  
+
+Our management, with the participation of our Principal Executive and Principal Financial Officers, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)) as of December 31, 2020. Based on this evaluation, our Principal Executive and Principal Financial Officers concluded that, as of December 31, 2020, our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is (a) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (b) accumulated and communicated to our management, including our Principal Executive and Principal Financial Officers as appropriate, to allow timely decisions regarding required disclosure.  
+
+Management’s Report on Internal Control over Financial Reporting  
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Under the supervision and with the participation of our management, including our Principal Executive Officer and Principal Financial Officer, we assessed the effectiveness of our internal control over financial reporting as of December 31, 2020. In making this assessment, our management used the criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on our assessment and those criteria, management concluded that, as of December 31, 2020, our internal control over financial reporting was effective.  
+
+KPMG LLP, an independent registered public accounting firm, audited the effectiveness of the Company’s internal control over financial reporting as of December 31, 2020, as stated in their report which appears below.  
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.  
+
+No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended December 31, 2020 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+
+70 
+
+Directors, Executive Officers and Corporate Governance  
+
+The information required by this item will be contained in the 2021 Proxy Statement, including in the sections titled “Proposal 1 — Election of Directors,” “Executive Officers,” “Other Matters — Delinquent Section 16(a) Reports, if applicable” and “Corporate Governance,” and is incorporated herein by reference.  
+
+Executive Compensation  
+
+The information required by this item will be contained in the 2021 Proxy Statement, including in the sections titled “Executive Compensation” and “Director Compensation,” and is incorporated herein by reference.  
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  
+
+The information required by this item will be contained in the 2021 Proxy Statement, including in the sections titled “Ownership of Common Stock” and “Ownership of Common Stock by Directors and Executive Officers,” and is incorporated herein by reference.  
+
+The table below presents information as of December 31, 2020, relating to our equity compensation plans or arrangements pursuant to which grants of options, restricted stock, restricted stock units, stock units or other rights to acquire shares may be granted from time to time. 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Upon exercise of a net-settled option, optionees are entitled to receive the after-tax spread shares only. The spread shares equal the gross number of options granted less shares for the option cost. Accordingly, this column reflects the net-settled option spread shares issuable at December 31, 2020, where provided. PSUs granted in 2018 vest after a three-year performance period (2018-2020), with the potential payout ranging from 0% to 150% of the target award. Based on the Company’s actual performance during the three-year performance period relative to pre-established performance goals, these PSUs will vest at 83% of the target amount and will be settled in shares of the Company’s common stock two business days after the Company files its Form 10-K for the year ended December 31, 2020. These 2018 PSUs are shown above as outstanding on December 31, 2020, based on the final achieved amount (i.e., 83% of the target amount).  
+
+(2)  
+
+Number of shares available for issuance under the Navient Corporation ESPP as of December 31, 2020. The ESPP was approved on April 8, 2014 by the company now known as SLM Corporation, then our sole shareholder. The ESPP became effective May 1, 2014. The Company amended the ESPP effective November 1, 2015 to alter the offering period for employees of recently acquired subsidiaries. The Company again amended the ESPP on April 4, 2019, subject to shareholder approval, to increase the shares available for issuance under the plan by 2 million shares. This amendment was approved by the Company’s shareholders on June 6, 2019. The Company again amended the ESPP on May 21, 2020, to eliminate the accrual of interest on individual account balances for periods after July 31, 2020. For periods on or before July 31, 2020, accrued interest on ESPP deposits was based on the money market annual yield rate published in the Wall Street Journal “Bonds, Rates & Yields” section on the 25th of each month. 
+
+Certain Relationships and Related Transactions, and Director Independence  
+
+The information required by this item will be contained in the 2021 Proxy Statement, including under “Other Matters — Certain Relationships and Transactions” and “Corporate Governance,” and is incorporated herein by reference.  
+
+Principal Accountant Fees and Services  
+
+The information required by this item will be contained in the 2021 Proxy Statement, including under “Independent Registered Public Accounting Firm,” and is incorporated herein by reference.  
+
+71 
+
+Exhibits and Financial Statement Schedules  
+
+(a)  
+
+1. Financial Statements  
+
+The following consolidated financial statements of Navient Corporation and the Report of the Independent Registered Public Accounting Firm thereon are included:  
+
+ [DATA_TABLE_REMOVED] 
+
+2. Financial Statement Schedules  
+
+All schedules are omitted because they are not applicable or the required information is shown in the consolidated financial statements or notes thereto.  
+
+3. Exhibits  
+
+The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as part of this Annual Report on Form 10-K.  
+
+We will furnish at cost a copy of any exhibit filed with or incorporated by reference into this Annual Report on Form 10-K. Oral or written requests for copies of any exhibits should be directed to the Secretary.  
+
+4. Appendices  
+
+Appendix A — Federal Family Education Loan Program  
+
+Appendix B — Form 10-K Cross-Reference Index  
+
+(b)  
+
+Exhibits  
+
+ [DATA_TABLE_REMOVED] 
+
+72 
+
+4.7  
+
+The Fifth Supplemental Indenture, dated as of March 7, 2017 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.2 to Navient Corporation’s Current Report on Form 8-K filed on March 7, 2017).  
+
+4.8  
+
+The Sixth Supplemental Indenture, dated as of March 17, 2017 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.3 to Navient Corporation’s Current Report on Form 8-K filed on March 7, 2017)  
+
+4.9  
+
+The Seventh Supplemental Indenture, dated as of May 26, 2017 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.2 to Navient Corporation’s Current Report on Form 8-K filed on May 26, 2017).  
+
+4.10  
+
+The Eighth Supplemental Indenture, dated as of June 9, 2017 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.4 to Navient Corporation’s Current Report on Form 8-K filed on June 9, 2017).  
+
+4.11  
+
+The Ninth Supplemental Indenture, dated as of December 4, 2017 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.3 to Navient Corporation’s Current Report on Form 8-K filed on December 4, 2017).  
+
+4.12  
+
+The Tenth Supplemental Indenture, dated as of June 11, 2018 to the Indenture dated as of July 18, 2014 between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.2 to Navient Corporation’s Current Report on Form 8-K filed on June 11, 2018).  
+
+4.13  
+
+The Eleventh Supplemental Indenture, dated as of January 27, 2020 (this “Supplemental Indenture”), between Navient Corporation, a Delaware corporation (the “Company”), and The Bank of New York Mellon, a New York banking corporation, as trustee (the “Trustee”) (incorporated by reference to Exhibit 4.2 on Form 8-K filed on January 27, 2020).  
+
+4.14  
+
+The Twelfth Supplemental Indenture, dated as of February 2, 2021, between Navient Corporation and The Bank of New York Mellon as trustee (incorporated by reference to Exhibit 4.2 on Form 8-K filed on February 2, 2021).  
+
+10.1†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan, Stock Option Agreement, Net Settled Options — 2011 (incorporated by reference to Exhibit 10.22 of the Company’s Quarterly Report on Form 10-Q filed on August 1, 2014).  
+
+10.2†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan, Stock Option Agreement, Net Settled Options — 2010 (incorporated by reference to Exhibit 10.23 of the Company’s Quarterly Report on Form 10-Q filed on August 1, 2014).  
+
+10.3†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan, Independent Director Stock Option Agreement — 2011 (incorporated by reference to Exhibit 10.31 of the Company’s Quarterly Report on Form 10-Q filed on August 1, 2014).  
+
+10.4†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan, Independent Director Stock Option Agreement — 2010 (incorporated by reference to Exhibit 10.32 of the Company’s Quarterly Report on Form 10-Q filed on August 1, 2014).  
+
+10.5†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan Stock Option Agreement — Net Settled Options (incorporated by reference to Exhibit 10.4 of the Company’s Quarterly Report on Form 10-Q filed on April 28, 2016).  
+
+10.6  
+
+Federal Student Loan Sale Agreement (the “Agreement”) dated April 18, 2017 (the “Effective Date”), by and between Navient Credit Finance Corporation, a Delaware corporation (the “Purchaser”), and JPMorgan Chase Bank, N.A., a national banking association (the “Seller”). (incorporated by reference to Exhibit 10.4 to Navient Corporation’s Quarterly Report on Form 10-Q filed on April 27, 2017).  
+
+10.7  
+
+Private Student Loan Sale Agreement (the “Agreement”) is made and entered into as of April 18, 2017 (the “Effective Date”), by and between Navient Credit Finance Corporation, a Delaware corporation (the “Purchaser”), and JPMorgan Chase Bank, N.A., a national banking association (the “Seller”) (incorporated by reference to Exhibit 10.5 to Navient Corporation’s Quarterly Report on Form 10-Q filed on April 27, 2017).  
+
+10.8†  
+
+Form of Navient Corporation 2014 Omnibus Incentive Plan Stock Option Agreement (incorporated by reference to Exhibit 10.3 to Navient Corporation’s Quarterly Report on Form 10-Q filed on April 27, 2017).  
+
+73 
+
+ [DATA_TABLE_REMOVED] 
+
+74 
+
+ [DATA_TABLE_REMOVED] 
+
+†  
+
+Management Contract or Compensatory Plan or Arrangement  
+
+*  
+
+Filed herewith  
+
+**  
+
+Furnished herewith  
+
+75 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+Dated: February 26, 2021 
+
+NAVIENT CORPORATION  
+
+By:  
+
+/s/ JOHN F. REMONDI  
+
+John F. Remondi 
+
+President and Chief Executive Officer   
+
+Pursuant to the requirement of the Securities Exchange Act of 1934, as amended, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.  
+
+ [DATA_TABLE_REMOVED] 
+
+76 
+
+CONSOLIDATED FINANCIAL STATEMENTS  
+
+INDEX  
+
+ [DATA_TABLE_REMOVED] 
+
+F-1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+To the Stockholders and Board of Directors
+
+Navient Corporation: 
+
+Opinion on Internal Control Over Financial Reporting  
+
+We have audited Navient Corporation and subsidiaries’ (the Company) internal control over financial reporting as of December 31, 2020, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2020, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.  
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2020 and 2019, the related consolidated statements of income, comprehensive income, changes in stockholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2020, and the related notes (collectively, the consolidated financial statements), and our report dated February 26, 2021 expressed an unqualified opinion on those consolidated financial statements. 
+
+Basis for Opinion  
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+
+Definition and Limitations of Internal Control Over Financial Reporting  
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements. 
+
+F-2 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+(signed) KPMG LLP 
+
+McLean, Virginia
+
+February 26, 2021 
+
+F-3 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+To the Stockholders and Board of Directors 
+
+Navient Corporation: 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Navient Corporation and subsidiaries (the Company) as of December 31, 2020 and 2019, the related consolidated statements of income, comprehensive income, changes in stockholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2020, and the related notes (collectively, the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the years in the three-year period ended December 31, 2020, in conformity with U.S. generally accepted accounting principles. 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2020, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission, and our report dated February 26, 2021 expressed an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting. 
+
+Change in Accounting Principle  
+
+As discussed in Note 2 to the consolidated financial statements, the Company has changed its method of accounting for recognition and measurement of credit losses as of January 1, 2020 due to the adoption of Accounting Standards Update No. 2016-13, Financial Instruments – Credit Losses (Accounting Standards Codification Topic 326). 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+F-4 
+
+Assessment of the allowance for credit losses on loans 
+
+As discussed in Note 2 to the consolidated financial statements, the Company adopted ASU No. 2016-13, Financial Instruments— Credit Losses (CECL) as of January 1, 2020. The total allowance for credit losses as of January 1, 2020 was $1,369 million, inclusive of the allowance for private education loans totaling $1,045 million and FFELP loans totaling $324 million (the January 1, 2020 ALL). As discussed in Notes 2 and 4 to the consolidated financial statements, the Company’s total allowance for credit losses as of December 31, 2020 was $1,377 million, of which $1,089 million related to the allowance for credit losses on private education loans (the December 31, 2020 private education ALL). The January 1, 2020 ALL and the December 31, 2020 private education ALL includes the measure of expected credit losses on a collective basis for those loans that share similar risk characteristics. The Company estimated the January 1, 2020 ALL and the December 31, 2020 private education ALL using current expected credit losses methodologies which are based on relevant information about historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the loan balances. For the private education ALL, the expected credit losses are the product of a transition rate model determining the Company’s estimates of probability of default and prepayment and applying the loss given default on an undiscounted basis. For the FFELP ALL, the expected credit losses are the product of the model utilizing historical transition rates to determine the Company’s estimates of probability of default and prepayment on an undiscounted basis. The models used to project losses utilize key credit quality indicators of the loan portfolio and predict how those attributes are expected to perform at the loan level in connection with the forecasted economic conditions over the contractual term of the loans including any prepayments and extension options within the control of the borrower. The private education ALL incorporates a reasonable and supportable forecast of various macro-economic variables and several forecast scenarios over the remaining life of the loans. The development of the reasonable and supportable forecast incorporates an assumption that each macro-economic variable will revert to a long-term expectation. For the FFELP ALL, after the reasonable and supportable forecast period, there is an immediate reversion to a long-term expectation. The Company makes estimates regarding 1) transition rates including prepayments, 2) recoveries on defaults including expected future recoveries on charged-off loans (expected recoveries) and 3) reasonably expected new Troubled Debt Restructurings (“TDRs”). A portion of the January 1, 2020 ALL and the December 31, 2020 private education ALL is comprised of adjustments to historical loss information for reasonable and supportable forecasts of future economic conditions and asset-specific risk characteristics to the extent that these factors are not reflected in the historical loss information. These adjustments are based on qualitative factors not reflected in the quantitative models but are likely to impact the measurement of estimated credit losses.  
+
+We identified the assessment of the January 1, 2020 ALL and the December 31, 2020 private education ALL as a critical audit matter. A high degree of audit effort, including skills and knowledge, and subjective and complex auditor judgment was involved in the assessment. Specifically, the assessment encompassed an evaluation of the ALL methodologies including the methods and models used to estimate the projected losses and their significant assumptions. Such significant assumptions included (1) historical loss period (2) the forecasted economic scenarios, including related weightings (solely as it relates to the private education ALL), (3) the reasonable and supportable forecast periods, (4) the reversion method (solely as it relates to the FFELP ALL), (5) the transition rates including estimated prepayments, (6) the expected recoveries (solely as it relates to the private education ALL), and (7) the qualitative factors. The assessment also included an evaluation of the conceptual soundness and performance of the models. In addition, auditor judgment was required to evaluate the sufficiency of audit evidence obtained. 
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s measurement of the ALL estimates including controls over:  
+
+•  
+
+development of the ALL methodologies  
+
+•  
+
+development of the models 
+
+•  
+
+identification and determination of significant assumptions used to estimate credit losses 
+
+•  
+
+development of the qualitative factors  
+
+•  
+
+performance monitoring of the models for the December 31, 2020 private education ALL  
+
+•  
+
+analysis of the December 31, 2020 private education ALL results, trends, and ratios.  
+
+F-5 
+
+We evaluated the Company’s process to develop the ALL estimates by testing certain sources of data, factors, and assumptions that the Company used, and considered the relevance and reliability of such data, factors, and assumptions. In addition, we involved credit risk professionals with specialized industry knowledge and experience who assisted in:  
+
+•  
+
+evaluating the Company’s January 1, 2020 ALL and December 31, 2020 private education ALL methodologies for compliance with U.S. generally accepted accounting principles 
+
+•  
+
+evaluating the judgments made by the Company relative to the model development and performance testing of models, and the significant assumptions used by the Company by comparing them to relevant Company-specific metrics and trends and the applicable industry and regulatory practices  
+
+•  
+
+assessing the conceptual soundness and performance testing of the model by inspecting the model documentation to determine whether the models are suitable for their intended use 
+
+•  
+
+evaluating the methodology used to develop the qualitative factors and the effect of those factors on the ALL compared with relevant credit risk factors and consistency with credit trends and identified limitations of the underlying quantitative models. 
+
+We also assessed the sufficiency of the audit evidence obtained related to the Company’s January 1, 2020 ALL and the December 31, 2020 private education ALL by evaluating the: 
+
+•  
+
+cumulative results of the audit procedures 
+
+•  
+
+qualitative aspects of the Company’s accounting practices 
+
+•  
+
+potential bias in the accounting estimates. 
+
+(signed) KPMG LLP 
+
+We have served as the Company’s auditor since 2012.  
+
+McLean, Virginia
+
+February 26, 2021 
+
+F-6 
+
+NAVIENT CORPORATION  
+
+CONSOLIDATED BALANCE SHEETS

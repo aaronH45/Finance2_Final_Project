@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000051253",
+    "sec_company_name": "INTERNATIONAL FLAVORS & FRAGRANCES INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220208",
+    "sec_filing_date": "20220209",
+    "sec_changed_date": "20220209",
+    "sec_accepted_date": "20220209163955",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/51253/000095010322002304/0000950103-22-002304-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/51253/000095010322002304/0000950103-22-002304.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\IFF_0000051253_EX991_20220208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "7396 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2798,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "At IFF (NYSE: IFF), an industry leader in food, beverage, scent, health and biosciences, science and creativity meet to create essential solutions for a better world – from global icons to unexpected innovations and experiences. With the beauty of art and the precision of science, we are an international collective of thinkers who partners with customers to bring scents, tastes, experiences, ingredients and solutions for products the world craves. Together, we will do more good for people and planet. Learn more at iff.com, Twitter, Facebook, Instagram, and LinkedIn."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IFF",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\004\IFF_0000051253_EX991_20220208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:47.809749"
+}

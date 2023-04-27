@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001418135",
+    "sec_company_name": "Dr Pepper Snapple Group, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180220",
+    "sec_filing_date": "20180221",
+    "sec_changed_date": "20180221",
+    "sec_accepted_date": "20180221143558",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1418135/000110465918011046/0001104659-18-011046-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1418135/000110465918011046/0001104659-18-011046.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\DPS_0001418135_EX991_20180220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8194 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3203,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "katie.gilroy@keurig.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DPS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\DPS_0001418135_EX991_20180220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:22:05.932881"
+}

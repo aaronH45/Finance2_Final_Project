@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000100493",
+    "sec_company_name": "TYSON FOODS, INC. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200213",
+    "sec_filing_date": "20200219",
+    "sec_changed_date": "20200219",
+    "sec_accepted_date": "20200219072304",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/100493/000010049320000045/0000100493-20-000045-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/100493/000010049320000045/0000100493-20-000045.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\TSN_0000100493_8K_20200213_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "42582 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2941,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TSN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\TSN_0000100493_8K_20200213_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:34:23.520229"
+}

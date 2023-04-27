@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000783325",
+    "sec_company_name": "WEC ENERGY GROUP, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200219",
+    "sec_filing_date": "20200219",
+    "sec_changed_date": "20200219",
+    "sec_accepted_date": "20200219161630",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781520000080/0000107815-20-000080-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/783325/000010781520000080/0000107815-20-000080.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\WEC_0000783325_EX991_20200219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "64493 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25291,
+    "endpoints": [
+        "february2020final   ",
+        "Reconciliation of Reported EPS (GAAP) to Adjusted EPS (Non-GAAP) 2017 2016 Reported EPS – GAAP basis $ 3.79 $ 2.96 Tax benefit related to Tax Cuts and Jobs Act of 2017 $ (0.65) – Acquisition Costs – $ 0.01 Adjusted EPS – Non-GAAP basis* $ 3.14 $ 2.97 * WEC Energy Group has provided adjusted earnings per share (non-GAAP earnings per share) as a complement to, and not as an alternative to, reported earnings per share presented in accordance with GAAP. Adjusted earnings per share exclude a one-time reduction in income tax expense related to a revaluation of our deferred taxes as a result of the Tax Cuts and Jobs Act of 2017 as well as costs related to the acquisition of Integrys, neither of which is indicative of WEC Energy Group’s operating performance. Therefore, WEC Energy Group believes that the presentation of adjusted earnings per share is relevant and useful to investors to understand the company’s operating performance. Management uses such measures internally to evaluate the company’s performance and manage its operations. 46"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "WEC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\WEC_0000783325_EX991_20200219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:39:39.687991"
+}

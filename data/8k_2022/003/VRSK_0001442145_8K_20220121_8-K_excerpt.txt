@@ -1,0 +1,87 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0001442145 false        0001442145   2022-01-21 2022-01-21    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): January 24, 2022 (January 21, 2022) 
+
+VERISK ANALYTICS, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (201) 469-3000 
+
+_________________________ 
+
+(Former name or former address, if changed since last report.) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+ ☐   Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+ ☐   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+ ☐   Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+ ☐   Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01Entry into a Material Definitive Agreement. 
+
+On January 21, 2022, Verisk Analytics, Inc. (“Verisk”) entered into a Stock Purchase Agreement (the “Purchase Agreement”) by and among Verisk, Tamarack Buyer, L.L.C. (“Buyer”) and, solely for the limited purpose set forth therein, 3E Company Environmental, Ecological and Engineering, a subsidiary of Verisk. Buyer is an entity that was formed on behalf of, and is controlled by, certain investment funds affiliated with New Mountain Capital, L.L.C. (“New Mountain”). 
+
+Pursuant to the Purchase Agreement, Verisk agreed, on the terms and subject to the conditions set forth therein, to sell its 3E business (“3E”) to Buyer by means of a sale of certain subsidiaries of Verisk which operate 3E for a potential aggregate cash consideration of up to $950 million (the “Transaction”). The purchase price consists of $630 million of cash consideration to be paid at the closing of the Transaction (subject to customary purchase price adjustments for, among other things, the cash, working capital and indebtedness of 3E as of the closing), up to $50 million of earnout payments based on 3E’s financial performance in 2023 and 2024, and up to $270 million of additional deferred payments based on New Mountain’s future return on its investment in 3E. 
+
+Buyer has secured financing, consisting of equity financing to be provided by certain investment funds affiliated with New Mountain and committed debt financing, to consummate the Transaction. The closing of the Transaction is not subject to a financing condition, but is subject to other customary conditions, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Act. There can be no assurance that these closing conditions will be satisfied. In addition, the Purchase Agreement provides that the closing of the Transaction may not occur prior to February 20, 2022 without the consent of Buyer. 
+
+The Purchase Agreement contains representations, warranties and covenants of the parties that are customary for transactions of this type and that are subject, in some cases, to specified exceptions and qualifications. Until the consummation of the Transaction, Verisk has agreed, subject to certain exceptions, to, and to cause its subsidiaries to, conduct 3E’s business in the ordinary course consistent with past practice. The parties are required to use their respective commercially reasonable efforts to take, or cause to be taken, all actions necessary, proper or advisable under applicable laws to consummate the Transaction. 
+
+The Purchase Agreement contains certain termination rights that are customary for a transaction of this type, including if the closing of the Transaction has not occurred on or prior to May 21, 2022, and provides that, upon termination of the Purchase Agreement under circumstances in which Buyer fails to consummate the closing at a time when the conditions to the obligations of the parties to close the Transaction have been satisfied or waived, Buyer will pay to Verisk a cash termination fee of $43,750,000. Certain investment funds affiliated with New Mountain have provided a limited guarantee to Verisk guaranteeing the payment of such termination fee and certain other obligations of Buyer under the Purchase Agreement. 
+
+Pursuant to the Purchase Agreement, Verisk and Buyer will enter into a transition services agreement at the closing of the Transaction to ensure an orderly transition in effecting the Transaction. 
+
+The foregoing description of the Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Purchase Agreement, which is attached to this Current Report on Form 8-K as Exhibit 2.1 and is incorporated herein by reference. 
+
+A copy of the Purchase Agreement has been included in this Current Report on Form 8-K to provide Verisk shareholders and other security holders with information regarding its terms and is not intended to provide any factual information about Verisk or any of its affiliates. The representations, warranties and covenants contained in the Purchase Agreement: have been made solely for the purposes of the Purchase Agreement and as of specific dates; were solely for the benefit of the parties to the Purchase Agreement, are not intended as statements of fact to be relied upon by Verisk shareholders or other security holders, but rather as a way of allocating the risk between the parties in the event the statements therein prove to be inaccurate; have been modified or qualified by certain confidential disclosures that were made between the parties in connection with the negotiation of the Purchase Agreement, which disclosures are not reflected in the Purchase Agreement itself; may no longer be true as of a given date; and may apply standards of materiality in a way that is different from what may be viewed as material by Verisk shareholders or other security holders. Verisk shareholders and other security holders are not third-party beneficiaries under the Purchase Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of Verisk or any of its affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Purchase Agreement, which subsequent information may or may not be fully reflected in Verisk’s public disclosures. 
+
+ Item 8.01Other Events. 
+
+ On January 24, 2022, Verisk issued a press release announcing its entry into the Purchase Agreement and the Transaction, a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+ Item 9.01Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+  [DATA_TABLE_REMOVED] 
+
+* The schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. Verisk agrees to furnish supplementally a copy of such schedules and exhibits, or any section thereof, to the SEC upon request. 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED]

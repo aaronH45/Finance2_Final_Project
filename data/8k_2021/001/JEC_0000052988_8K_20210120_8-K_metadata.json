@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000052988",
+    "sec_company_name": "JACOBS ENGINEERING GROUP INC /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210120",
+    "sec_filing_date": "20210121",
+    "sec_changed_date": "20210121",
+    "sec_accepted_date": "20210121060533",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/52988/000119312521012850/0001193125-21-012850-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/52988/000119312521012850/0001193125-21-012850.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\JEC_0000052988_8K_20210120_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "27971 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5566,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K    ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "JEC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\JEC_0000052988_8K_20210120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:56:10.832960"
+}

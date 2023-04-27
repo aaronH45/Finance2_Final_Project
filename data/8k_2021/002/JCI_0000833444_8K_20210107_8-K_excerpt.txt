@@ -1,0 +1,75 @@
+xml version="1.0" ? jci-20210107
+
+0000833444false00008334442021-01-072021-01-070000833444jci:OrdinarySharesParValue0.01Member2021-01-072021-01-070000833444jci:Notes4.250PercentDue2021Member2021-01-072021-01-070000833444jci:Notes3.750PercentDue2021Member2021-01-072021-01-070000833444jci:Notes4.625PercentDue2023Member2021-01-072021-01-070000833444jci:Notes1.000PercentDue2023Member2021-01-072021-01-070000833444jci:Notes3.625PercentDue2024Member2021-01-072021-01-070000833444jci:Notes1.375PercentDue2025Member2021-01-072021-01-070000833444jci:Notes3.900PercentDue2026Member2021-01-072021-01-070000833444jci:Notes0375PercentDue2027Member2021-01-072021-01-070000833444jci:Notes1750PercentDue2030Member2021-01-072021-01-070000833444jci:Notes1000PercentDue2032Member2021-01-072021-01-070000833444jci:Notes6.000PercentDue2036Member2021-01-072021-01-070000833444jci:Notes5.700PercentDue2041Member2021-01-072021-01-070000833444jci:Notes5.250PercentDue2041Member2021-01-072021-01-070000833444jci:Notes4.625Percentdue2044Member2021-01-072021-01-070000833444jci:Notes5.125PercentDue2045Member2021-01-072021-01-070000833444jci:Debentures6.950PercentDueDecember12045Member2021-01-072021-01-070000833444jci:Notes4.500PercentDue2047Member2021-01-072021-01-070000833444jci:Notes4.950PercentDue2064Member2021-01-072021-01-07
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):January 7, 2021
+
+JOHNSON CONTROLS INTERNATIONAL PLC 
+
+(Exact name of registrant as specified in its charter) 
+
+[DATA_TABLE_REMOVED]
+
+One Albert Quay. Cork, Ireland, T12 X8N6 
+
+(Address of principal executive offices and postal code)
+
+(353)21-423-5000Not Applicable
+
+(Registrant’s telephone number)(Former name, former address and former fiscal year, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[DATA_TABLE_REMOVED]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.☐
+
+Item 7.01. Regulation FD Disclosure.
+
+On January 7, 2021, Tyco Fire Products LP (“Tyco”) and Chemguard Inc. (“Chemguard”), each wholly-owned, indirect subsidiaries of Johnson Controls International plc (the “Company”), agreed to settle a previously disclosed class action lawsuit (Joan & Richard Campbell v. Tyco Fire Products LP and Chemguard Inc., et al) filed in 2018 regarding PFAS associated with Tyco’s Fire Technology Center (“FTC”) property in Marinette, Wisconsin. 
+
+The settlement provides that Tyco will pay up to $17.5 million to compensate Town of Peshtigo residents who live in the area affected by PFAS from the FTC. The $17.5 million settlement includes compensation for qualified property owners for the claimed loss of value to their real property caused by the presence of PFAS as well as compensation to individuals for claims related to PFAS exposure or personal injury. The Company does not expect the settlement to have an impact on its fiscal year 2021 earnings or cash flows.
+
+The settlement does not affect or change Tyco’s ongoing efforts to remediate PFAS associated with the FTC, including Tyco’s commitment to fund a permanent drinking water solution in the Town of Peshtigo and to build systems to permanently clean up ground/surface water and soil. 
+
+The settlement of this lawsuit represents resolution of a class action involving the only location in the country where Tyco and Chemguard blend and test firefighting foam, in contrast to the other cases in which Tyco and Chemguard are parties involving the use of fire-fighting foam products on military bases, airfields, and other locations where firefighting foam and PFAS-containing products made by many different manufacturers may have been used. In the large majority of these other cases, Tyco and Chemguard believe that they have a government contractor defense available to them which, if successful, would result in immunity from the claims related to such sites. For more information regarding the remaining litigation, please see note 22 to the Company’s consolidated financial statements contained in its Annual Report on Form 10-K for the year ended September 30, 2020.
+
+The settlement does not constitute an admission of wrongdoing by Tyco or Chemguard, and Tyco and Chemguard continue to believe that PFAS chemicals at the levels found in the community do not cause injuries to persons or property. The settlement is subject to approval by the federal court presiding over the lawsuit and other contingencies, and that process will take several months. 
+
+Johnson Controls International plc Cautionary Statement Regarding Forward-Looking Statements
+
+Johnson Controls International plc has made statements in this communication that are forward-looking and therefore are subject to risks and uncertainties. All statements in this document other than statements of historical fact are, or could be, “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. In this communication, statements regarding Johnson Controls’ and its subsidiaries outlook on the settlement and other outstanding litigation are forward-looking statements. Words such as “may,” “will,” “expect,” “intend,” “estimate,” “anticipate,” “believe,” “should,” “forecast,” “project” or “plan” and terms of similar meaning are also generally intended to identify forward-looking statements. However, the absence of these words does not mean that a statement is not forward-looking. Johnson Controls cautions that these statements are subject to numerous important risks, uncertainties, assumptions and other factors, some of which are beyond Johnson Controls’ control, that could cause Johnson Controls’ actual results to differ materially from those expressed or implied by such forward-looking statements, including, among others, risks related to: Johnson Controls’ ability to manage general economic, business, capital market and geopolitical conditions, changes or uncertainty in laws, regulations, rates, policies or interpretations that impact Johnson Controls’ business operations; the outcome of litigation and governmental proceedings; and significant transaction costs and/or unknown liabilities associated with recent portfolio transactions. A detailed discussion of risks related to Johnson Controls’ business is included in the section entitled “Risk Factors” in Johnson Controls’ Annual Report on Form 10-K for the 2020 fiscal year filed with the SEC on November 16, 2020, which is available at www.sec.gov and www.johnsoncontrols.com under the “Investors” tab. Shareholders, potential investors and others should consider these factors in evaluating the forward-looking statements and should not place undue reliance on such statements. The forward-looking statements included in this communication are made only as of the date of this document, unless otherwise specified, and, except as required by law, Johnson Controls assumes no obligation, and disclaims any obligation, to update such statements to reflect events or circumstances occurring after the date of this communication.
+
+The information contained in this Item 7.01 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing.
+
+SIGNATURE
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+ JOHNSON CONTROLS INTERNATIONAL PLC
+
+[DATA_TABLE_REMOVED]

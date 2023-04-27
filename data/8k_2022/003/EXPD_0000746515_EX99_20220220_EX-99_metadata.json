@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000746515",
+    "sec_company_name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220220",
+    "sec_filing_date": "20220222",
+    "sec_changed_date": "20220222",
+    "sec_accepted_date": "20220222120315",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/746515/000156459022005838/0001564590-22-005838-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/746515/000156459022005838/0001564590-22-005838.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\EXPD_0000746515_EX99_20220220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14202 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3243,
+    "endpoints": [
+        "expd-ex99_7.htm     ",
+        "Certain statements contained in this Current Report on Form 8-K constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are based on our current beliefs, understanding and expectations and may relate to, among other things, statements regarding our current beliefs and understanding regarding the cyber-attack and its impact on our operations. Forward-looking statements are based on currently available information and our current beliefs, expectations and understanding, which may change as our investigation and remediation efforts progress. These statements are subject to future events, risks and uncertainties. These risks and uncertainties include but are not limited to our ongoing investigation of the cyber-attack and the length of time that our global operations are not fully functional. Forward-looking statements speak only as of the date they are made, and while we intend to provide additional information regarding the cyber-attack, we do not undertake to update these statements other than as required by law and specifically disclaims any duty to do so."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EXPD",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\EXPD_0000746515_EX99_20220220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:30:26.080489"
+}

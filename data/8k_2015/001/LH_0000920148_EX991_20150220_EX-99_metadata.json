@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000920148",
+    "sec_company_name": "LABORATORY CORP OF AMERICA HOLDINGS (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150220",
+    "sec_filing_date": "20150220",
+    "sec_changed_date": "20150220",
+    "sec_accepted_date": "20150220071143",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014815000016/0000920148-15-000016-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/920148/000092014815000016/0000920148-15-000016.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LH_0000920148_EX991_20150220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "362818 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 19682,
+    "endpoints": [
+        "Exhibit 99.1 Q4 2014 Earnings PR   ",
+        "3)The Company continues to grow the business through acquisitions and uses Adjusted EPS (excluding restructuring, special items and amortization) as a measure of operational performance, growth and shareholder returns. The Company believes adjusting EPS for these items provides investors with better insight into the operating performance of the business. For the quarters ended December 31, 2014 and 2013, intangible amortization was $15.4 million and $21.4 million, respectively ($9.5 million and $13.2 million net of tax, respectively) and decreased EPS by $0.11 ($9.5 million divided by 86.2 million shares) and $0.15 ($13.2 million divided by 88.3 million shares), respectively. For the years ended December 31, 2014 and 2013, intangible amortization was $76.7 million and $81.7 million, respectively ($47.3 million and $50.3 million net of tax, respectively) and decreased EPS by $0.55 ($47.3 million divided by 86.4 million shares) and $0.55 ($50.3 million divided by 91.8 million shares), respectively."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LH",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\LH_0000920148_EX991_20150220_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:09.997987"
+}

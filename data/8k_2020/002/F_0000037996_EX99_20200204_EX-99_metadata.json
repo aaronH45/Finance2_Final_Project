@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200204",
+    "sec_filing_date": "20200204",
+    "sec_changed_date": "20200204",
+    "sec_accepted_date": "20200204161435",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799620000008/0000037996-20-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799620000008/0000037996-20-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\F_0000037996_EX99_20200204_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "96973 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 42684,
+    "endpoints": [
+        "exhibit99tofebruary2020e   ",
+        " FORD MOTOR CREDIT COMPANY LLC AND SUBSIDIARIES CONSOLIDATED STATEMENT OF CASH FLOWS (in millions) For the Years Ended December 31, 2017 2018 2019 (unaudited) Cash flows from operating activities Net income $ 3,007 $ 2,224 $ 2,228 Adjustments to reconcile net income to net cash provided by operations Provision for credit losses 469 426 296 Depreciation and amortization 5,047 4,841 4,427 Amortization of upfront interest supplements (1,686 ) (2,041 ) (2,147 ) Net change in finance receivables held-for-sale — — (78) Net change in wholesale receivables held-for-sale — — (222 ) Net change in deferred income taxes (923) 259 37 Net change in other assets (606 ) (276 ) 132 Net change in other liabilities 480 115 137 All other operating activities (123 ) 155 103 Net cash provided by / (used in) operating activities 5,665 5,703 4,913 Cash flows from investing activities Purchases of finance receivables (43,232 ) (44,384 ) (38,881 ) Principal collections of finance receivables 37,277 42,553 42,011 Purchases of operating lease vehicles (12,780 ) (14,306 ) (12,990 ) Proceeds from termination of operating lease vehicles 8,538 9,223 9,332 Net change in wholesale receivables and other short-duration receivables (874 ) (2,661 ) 1,752 Purchases of marketable securities (5,899) (3,632 ) (5,883) Proceeds from sales and maturities of marketable securities 6,316 5,171 3,931 Settlements of derivatives (117) 226 (221) All other investing activities (30 ) 102 (56 ) Net cash provided by / (used in) investing activities (10,801) (7,708 ) (1,005) Cash flows from financing activities Proceeds from issuances of long-term debt 44,994 49,954 44,522 Principal payments on long-term debt (39,372) (42,530 ) (44,665) Change in short-term debt, net 1,195 (2,263 ) (1,278 ) Cash distributions to parent (406) (2,723 ) (2,900) All other financing activities (105 ) (151 ) (116 ) Net cash provided by / (used in) financing activities 6,306 2,287 (4,437) Effect of exchange rate changes on cash, cash equivalents, and restricted cash 327 (217 ) 50 Net increase / (decrease) in cash, cash equivalents, and restricted cash $ 1,497 $ 65 $ (479 ) Cash, cash equivalents and restricted cash at beginning of period $ 8,185 $ 9,682 $ 9,747 Net increase / (decrease) in cash, cash equivalents and restricted cash 1,497 65 (479) Cash, cash equivalents and restricted cash at end of period $ 9,682 $ 9,747 $ 9,268 20"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\F_0000037996_EX99_20200204_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:39:18.226113"
+}

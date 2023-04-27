@@ -1,0 +1,133 @@
+Form 8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of report (Date of earliest event reported) January 21, 2015  
+
+AT&T INC.  
+
+(Exact Name of Registrant as Specified in Charter)  
+
+  [DATA_TABLE_REMOVED] 
+
+ 208 S. Akard St., Dallas, Texas   75202 
+
+ (Address of Principal Executive Offices)   (Zip Code)  
+
+Registrant’s telephone number, including area code (210) 821-4105  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Item 1.01 Entry into a Material Definitive Agreement.  
+
+The disclosure under Item 2.03 is incorporated by reference in this Item 1.01.  
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+On January 21, 2015, AT&T Inc. (“AT&T”) entered into a $9.155 billion credit agreement (the “Syndicated Credit Agreement”) containing a (i) $6.286 billion term loan facility (the “Tranche A Facility”) and a (ii) $2.869 billion term loan facility (the “Tranche B Facility”), with certain investment and commercial banks and Mizuho Bank, Ltd. (“Mizuho”), as administrative agent. AT&T also entered into a $2.0 billion 18-month credit agreement (the “18-Month Credit Agreement”) with Mizuho as initial lender and agent. In the event advances are made under either agreement, those advances would be used for general corporate purposes, including acquisition related payments. Amounts borrowed under the Tranche A Facility will be due and payable on the third anniversary of funding. Amounts borrowed under the Tranche B Facility will be subject to amortization from the third anniversary of funding, with twenty-five percent of the aggregate principal amount thereof being payable prior to the fifth anniversary thereof, and all remaining principal amount due and payable on such fifth anniversary. Amounts borrowed under the 18-Month Credit Agreement will be due and payable on the date that is 18 months after the funding.  
+
+The descriptions of the Syndicated Credit Agreement and the 18-Month Credit Agreement contained in this item 2.03 do not purport to be complete and are qualified in their entirety by reference to the Syndicated Credit Agreement and the 18-Month Credit Agreement, which are incorporated by reference as Exhibits 10-a and 10-b to this Current Report on Form 8-K and are incorporated herein by reference.  
+
+The Syndicated Credit Agreement  
+
+Subject to customary conditions, the obligations of the lenders under the Syndicated Credit Agreement to provide advances extend from the effective date of the agreement to a termination date of March 21, 2015, unless prior to that date either: (i) AT&T reduces to $0 the commitments of the lenders under the Syndicated Credit Agreement or (ii) certain events of default occur.  
+
+Advances would bear interest, at AT&T’s option, either:  
+
+  [DATA_TABLE_REMOVED] 
+
+   •   at a rate equal to: (i) the London interbank offered rate for deposits in dollars (adjusted upwards to reflect any bank reserve costs) for a period of three or six months, as applicable, plus (ii) the Applicable Margin (each such Advance, a “Eurodollar Rate Advance”).  
+
+The Applicable Margin for a Eurodollar Rate Advance under the Tranche A Facility will equal 1.000% if AT&T’s unsecured senior long-term debt is rated at least A- by Standard and Poor’s (“S&P”) or Fitch, Inc. (“Fitch”) or A3 by Moody’s Investors Service (“Moody’s”). The Applicable Margin for a Eurodollar Rate Advance under the Tranche A Facility will be 1.125% per annum if such ratings are BBB+ by S&P or Fitch or Baa1 by Moody’s and will be 1.250% per annum if such ratings are lower than BBB+ by S&P or Fitch or Baa1 by Moody’s. The Applicable Margin for a Base Rate Advance under the Tranche A Facility will be equal to the relevant Applicable Margin for a Eurodollar Rate Advance under the Tranche A Facility minus 1.00%.  
+
+The Applicable Margin for a Eurodollar Rate Advance under the Tranche B Facility will equal 1.125% if AT&T’s unsecured senior long-term debt is rated at least A- by S&P or Fitch or A3 by Moody’s. The Applicable Margin for a Eurodollar Rate Advance under the Tranche B Facility will be 1.250% per annum if such ratings are BBB+ by S&P or Fitch or Baa1 by Moody’s and will be 1.375% per annum if such ratings are lower than BBB+ by S&P or Fitch or Baa1 by Moody’s. The Applicable Margin for a Base Rate Advance under the Tranche B Facility will be equal to the relevant Applicable Margin for a Eurodollar Rate Advance under the Tranche B Facility minus 1.00%.  
+
+In the event that AT&T’s unsecured senior long-term debt ratings are split by S&P, Moody’s and Fitch, then the Applicable Margin will be determined by the highest rating, unless the lowest of such ratings is more than one level below the highest of such ratings, in which case the pricing will be the rating that is one level above the lowest of such ratings.  
+
+As of the date of this filing, AT&T’s unsecured senior long-term debt is rated A- (Negative Outlook) by S&P, A3 (Review for Downgrade) by Moody’s and A by Fitch (Rating Watch Negative). S&P, Moody’s and Fitch may change their ratings at any time and AT&T disclaims any obligation to provide notice of any changes to these ratings.  
+
+Advances under the Syndicated Credit Agreement after the effective date thereof are not conditioned on the absence of a material adverse change.  
+
+The Syndicated Credit Agreement contains customary affirmative and negative covenants, as well as a debt-to-EBITDA financial ratio covenant that AT&T will maintain, as of the last day of each fiscal quarter, a ratio of not more than 3.0 to 1 of:  
+
+(A) all items that would be treated under accounting principles generally accepted in the United States (GAAP) as specified in the Syndicated Credit Agreement as indebtedness on AT&T’s consolidated balance sheet, to  
+
+(B) the net income of AT&T and its consolidated subsidiaries, determined on a consolidated basis for the four quarters then ended in accordance with GAAP, adjusted to exclude the effects of (a) gains or losses from discontinued operations, (b) any extraordinary or other non-recurring non-cash gains or losses (including non-cash restructuring charges), (c) accounting changes including any changes to Accounting Standards Codification 715 (or any subsequently adopted standards relating to pension and postretirement benefits) adopted by the Financial Accounting Standards Board after the date of the Syndicated Credit Agreement, (d) interest expense, (e) income tax expense or benefit, (f) depreciation, amortization and other non-cash charges (including actuarial gains or losses from pension and postretirement plans), (g) interest income, (h) equity income and losses and (i) other non-operating income or expense. In the event AT&T makes a material acquisition or a material disposition (each as defined in the Syndicated Credit Agreement) during the relevant four quarter period, pro forma effect is given to such material acquisition or material disposition, as if such material acquisition or material disposition occurred on the first day of such period.  
+
+Events of default under the Syndicated Credit Agreement, which would result in the acceleration or permit the lenders to accelerate, as applicable, required payment and which would increase the Applicable Margin by 2.00% per annum, whether automatically or upon the request of the requisite lenders, as applicable, include the following:  
+
+   •   Failure to pay principal or interest, fees or other amounts under the Syndicated Credit Agreement beyond any applicable grace period,  
+
+   •   Material breaches of representations or warranties in the Syndicated Credit Agreement,  
+
+   •   Failure to comply with the preservation of corporate existence, visitation rights or reporting requirements specified under the Syndicated Credit Agreement,  
+
+   •   Failure to comply with the negative covenants or the debt-to-EBITDA ratio covenant described above,  
+
+   •   Failure to comply with other covenants under the Syndicated Credit Agreement for a specified period after notice,  
+
+   •   (1) Failure to pay when due other debt of $400 million (or, if higher, the cross default threshold then set forth in the Existing Credit Agreement (as defined below), but in no event exceeding $2 billion) after any applicable grace period, (2) the occurrence of any other event or condition under any agreement or instrument related to such other debt if the effect is to accelerate the maturity of such other debt or (3) the declaration of any such other debt to be due and payable prior to the stated maturity thereof or the requirement to prepay or redeem, purchased or defeased or an offer to prepay, redeem, purchase or defease is required to be made prior to the stated maturity thereof (clauses (2) and (3) are commonly referred to as “cross-acceleration”), except that no debt of a person that is merged into or consolidated with AT&T or any subsidiary of AT&T or that becomes a subsidiary of AT&T is covered by this cross-acceleration provision for a period of 90 days after the date that such other debt becomes debt of AT&T or any of its subsidiaries, and cross-acceleration does not apply to any prepayment or similar event resulting from a voluntary notice of prepayment or similar action,  
+
+   •   Commencement by a creditor of enforcement proceedings within a specified period after a money judgment of $400 million (or, if higher, the judgment threshold then set forth in the Existing Credit Agreement, but in no event exceeding $2 billion) or more has become final,  
+
+   •   Acquisition by any person or group of beneficial ownership of more than 50% of AT&T common shares or a change of more than a majority of AT&T’s directors in any 24-month period other than as elected by the remaining directors (commonly referred to as a “change in control”),  
+
+   •   Failure by AT&T or certain affiliates to make certain minimum funding payments under the Employee Retirement Income Security Act of 1974, and  
+
+   •   Specified events of bankruptcy or insolvency.  
+
+“Existing Credit Agreement” means the $5,000,000,000 Amended and Restated Credit Agreement dated as of December 11, 2013, among AT&T, the lenders parties thereto and Citibank, N.A., as administrative agent (as such credit agreement may be amended from time to time), or any credit agreement refinancing thereof. The Existing Credit Agreement was filed as Exhibit 10.1 to Form 8-K of AT&T Inc. (File Number 1-8610) which was filed with the U.S. Securities and Exchange Commission on December 11, 2013.  
+
+The 18-Month Credit Agreement  
+
+Subject to customary conditions, the obligations of the lender under the 18-Month Credit Agreement to provide advances extend from the effective date of the agreement to a termination date of March 21, 2015, unless prior to that date either: (i) AT&T reduces to $0 the commitment of the lender under the 18-Month Credit Agreement or (ii) certain events of default occur.  
+
+Advances would bear interest, at AT&T’s option, either:  
+
+  [DATA_TABLE_REMOVED] 
+
+   •   at a rate equal to: (i) the London interbank offered rate for deposits in dollars (adjusted upwards to reflect any bank reserve costs) for a period of one, two, three or six months, as applicable, plus (ii) the Applicable Margin (each such Advance, a “Eurodollar Rate Advance”).  
+
+The Applicable Margin for a Eurodollar Rate Advance under the 18-Month Credit Agreement will equal 0.800% if AT&T’s unsecured senior long-term debt is rated at least A- by S&P or Fitch or A3 by Moody’s. The Applicable Margin for a Eurodollar Rate Advance under the 18-Month Credit Agreement will be 0.900% per annum if such ratings are BBB+ by S&P or Fitch or Baa1 by Moody’s and will be 1.000% per annum if such ratings are lower than BBB+ by S&P and Fitch or Baa1 by Moody’s. The Applicable Margin for a Base Rate Advance under the 18-Month Credit Agreement will be 0%.  
+
+In the event that AT&T’s unsecured senior long-term debt ratings are split by S&P, Moody’s and Fitch, then the Applicable Margin will be determined by the highest rating, unless the lowest of such ratings is more than one level below the highest of such ratings, in which case the pricing will be the rating that is one level above the lowest of such ratings.  
+
+Advances under the 18-Month Credit Agreement after the effective date thereof are not conditioned on the absence of a material adverse change.  
+
+The 18-Month Credit Agreement contains affirmative and negative covenants and events of default equivalent to those contained in the Syndicated Credit Agreement.  
+
+Item 9.01 Financial Statements and Exhibits.  
+
+The following exhibits are filed as part of this report:  
+
+(d) Exhibits  
+
+ 10-a   $9,155,000,000 Term Loan Credit Agreement, dated January 21, 2015, among AT&T, certain lenders named therein and Mizuho Bank, Ltd., as administrative agent. 
+
+ 10-b   $2,000,000,000 Term Loan Credit Agreement, dated January 21, 2015, between AT&T and Mizuho Bank, Ltd., as initial lender and agent.  
+
+Signature  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

@@ -1,0 +1,97 @@
+Form 8-K   
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+Washington, D.C. 20549  
+
+FORM 8-K  
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d)  
+
+of the Securities Exchange Act of 1934  
+
+Date of report (Date of earliest event reported): February 10, 2016  
+
+CISCO SYSTEMS, INC.  
+
+(Exact name of registrant as specified in its charter)  
+
+California  
+
+(State or other jurisdiction of incorporation)  
+
+  [DATA_TABLE_REMOVED] 
+
+(408) 526-4000  
+
+(Registrant’s telephone number, including area code)  
+
+Not Applicable  
+
+(Former name or former address, if changed since last report)  
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+ ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+ ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+ ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+ ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+ Item 2.02. Results of Operations and Financial Condition.  
+
+On February 10, 2016, Cisco Systems, Inc. (the “Registrant”) reported its results of operations for its fiscal second quarter 2016 ended January 23, 2016. A copy of the press release issued by the Registrant concerning the foregoing results is furnished herewith as Exhibit 99.1.  
+
+The information contained herein and in the accompanying exhibit shall not be incorporated by reference into any filing of the Registrant, whether made before or after the date hereof, regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference to such filing. The information in this report, including the exhibit hereto, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended.  
+
+The attached exhibit includes non-GAAP net income, non-GAAP gross margins, non-GAAP operating expenses, non-GAAP operating income and margin, non-GAAP effective tax rates, non-GAAP net income per share data, non-GAAP inventory turns, and free cash flow for the periods presented. It also includes future estimated ranges for gross margin, operating margin, tax provision rate and EPS on a non-GAAP basis.  
+
+These non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with generally accepted accounting principles, and may be different from non-GAAP measures used by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. The Registrant believes that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with the Registrant’s results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate the Registrant’s results of operations in conjunction with the corresponding GAAP measures.  
+
+The Registrant believes that the presentation of non-GAAP measures when shown in conjunction with the corresponding GAAP measures, provides useful information to investors and management regarding financial and business trends relating to its financial condition and its historical and projected results of operations. In addition, the Registrant believes that the presentation of non-GAAP inventory turns provides useful information to investors and management regarding financial and business trends relating to inventory management based on the operating activities of the periods presented. The Registrant believes that the presentation of free cash flow, which it defines as the net cash provided by operating activities less cash used to acquire property and equipment, to be a liquidity measure that provides useful information to management and investors because of the Registrant’s intent to return a stated percentage of free cash flow to shareholders in the form of dividends and stock repurchases. The Registrant further regards free cash flow as a useful measure because it reflects cash that can be used to, among other things, invest in its business, make strategic acquisitions, repurchase common stock, and pay dividends on its common stock, after deducting capital investments.  
+
+For its internal budgeting process, the Registrant’s management uses financial statements that do not include, when applicable, share-based compensation expense, amortization of acquisition-related intangible assets, impact to cost of sales from purchase accounting adjustments to inventory, acquisition-related/divestiture costs, significant asset impairments and restructurings, significant litigation and other contingencies, the income tax effects of the foregoing, and significant tax matters. The Registrant’s management also uses the foregoing non-GAAP measures, in addition to the corresponding GAAP measures, in reviewing the financial results of the Registrant. In prior periods, the Registrant has excluded other items that it no longer excludes for purposes of its non-GAAP financial measures. From time to time in the future, there may be other items that the Registrant may exclude for purposes of its internal budgeting process and in reviewing its financial results.  
+
+The Registrant divested the Customer Premises Equipment portion of its Service Provider Video Connected Devices business (“SP Video CPE Business”) during the second quarter of fiscal 2016 on November 20, 2015. The attached exhibit includes, where indicated, financial measures that exclude the SP Video CPE Business. The Registrant believes that the presentation of these measures provides useful information to investors and management regarding financial and business trends relating to its financial condition and its historical and projected results of operations because the SP Video CPE Business will not be part of the Registrant on a go forward basis. The Registrant’s management also uses the financial measures excluding the SP Video CPE Business in reviewing the financial results of the Registrant.  
+
+As described above, the Registrant excludes the following items from one or more of its non-GAAP measures when applicable:  
+
+Share-based compensation expense. These expenses consist primarily of expenses for employee restricted stock and restricted stock units, employee stock options, and employee stock purchase rights, including such expenses associated with acquisitions. The Registrant excludes share-based compensation expense from its non-GAAP measures primarily because they are non-cash expenses and the Registrant believes that it is useful to investors to understand the impact of share-based compensation to its results of operations.  
+
+Amortization of acquisition-related intangible assets. The Registrant incurs amortization of intangible assets (which may include impairment charges from the write-downs of purchased intangible assets) in connection with acquisitions. The Registrant excludes these items because the Registrant does not believe these expenses are reflective of ongoing operating results in the period incurred. These amounts arise from the Registrant’s prior acquisitions and have no direct correlation to the operation of the Registrant’s business.  
+
+Impact to cost of sales from purchase accounting adjustments to inventory. This represents the amount of increase in inventory valuation resulting from the fair value adjustments required under purchase accounting for business combinations. These amounts arise from the Registrant’s prior acquisitions and have no direct correlation to the operation of the Registrant’s business.  
+
+Acquisition-related/divestiture costs. In connection with its business combinations, the Registrant incurs compensation expense, changes to the fair value of contingent consideration, as well as professional fees and other direct expenses such as restructuring activities related to the acquired company. In addition, from time to time the Registrant enters into foreign currency transactions related to pending acquisitions, and may incur gains or losses on such transactions. The Registrant may also from time to time incur gains or losses from divestitures of a business area as well as professional fees and other direct expenses associated with such transactions. The Registrant excludes such compensation expense, changes to the fair value of contingent consideration, fees, other direct expenses, and gains and losses, as they are related to acquisitions and divestitures and have no direct correlation to the operation of the Registrant’s business.  
+
+Significant asset impairments and restructurings. The Registrant from time to time incurs significant asset impairments, restructuring charges, and gains or losses on asset disposals. The Registrant excludes these items, when significant, because it does not believe they are reflective of ongoing business and operating results.  
+
+Significant litigation and other contingencies. The Registrant from time to time may incur charges or benefits related to significant litigation and other contingencies. The Registrant excludes these charges or benefits, when significant, because it does not believe they are reflective of ongoing business and operating results.  
+
+Income tax effects of the foregoing. This amount is used to present each of the amounts described above on an after-tax basis consistent with the presentation of non-GAAP net income.  
+
+Significant tax matters. The Registrant may incur tax charges or benefits in the current period that relate to one or more prior fiscal years as a result of events such as changes in tax legislation, court decisions, and/or tax settlements. The Registrant excludes these charges or benefits, when significant, because it does not believe they are reflective of ongoing business and operating results.  
+
+From time to time in the future, there may be other items that the Registrant may exclude if it believes that doing so is consistent with the goal of providing useful information to investors and management.  
+
+The Registrant will incur share-based compensation expense, amortization of acquisition-related intangible assets, impacts to cost of sales from purchase accounting adjustments to inventory, and acquisition-related costs, in future periods. Significant asset impairments, restructurings, significant litigation and other contingencies, and divestiture costs could occur in future periods. The Registrant could also be impacted by significant tax matters in future periods.  
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED] 
+
+EXHIBIT INDEX  
+
+  Exhibit
+
+Number    Description of Document 
+
+ 99.1   Press Release of Registrant, dated February 10, 2016, reporting the results of operations for the Registrant’s fiscal second quarter ended January 23, 2016.

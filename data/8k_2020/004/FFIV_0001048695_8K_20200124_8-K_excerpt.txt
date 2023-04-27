@@ -1,0 +1,119 @@
+false000104869500010486952020-01-242020-01-24 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (Date of Earliest Event Reported): 
+
+January 24, 2020
+
+F5 Networks, Inc.
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code (206) 272-5555 
+
+Not Applicable  
+
+Former name or former address, if changed since last report 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+  ☐
+
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)   
+
+  ☐
+
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)   
+
+  ☐
+
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+  ☐
+
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))    
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+   [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐  
+
+  Item 1.01   Entry into a Material Definitive Agreement.    
+
+On January 24, 2020, F5 Networks, Inc., a Washington corporation (“F5”), entered into a Term Credit Agreement (the “Term Credit Agreement”) with JPMorgan Chase Bank, N.A., as administrative agent, and the lenders party thereto. 
+
+The Term Credit Agreement provides for a senior unsecured term loan facility in an aggregate principal amount of $400 million (the “Term Loan Facility”). The proceeds from the Term Loan Facility were used to (i) finance, in part, the Merger (as defined below) and (ii) to pay fees and expenses incurred in connection with the Merger and the related transactions. 
+
+Borrowings under the Term Loan Facility bear interest at a rate per annum equal to, at F5’s option, either (i) LIBOR, adjusted for customary statutory reserves, plus a margin based on F5’s leverage ratio ranging from 1.125% to 1.750% or (ii) a base rate (determined in accordance with the Term Credit Agreement) plus a margin based on F5’s leverage ratio ranging from 0.125% to 0.750%. As of January 24, 2020, the margin for LIBOR-based loans was 1.125% and the margin for base rate loans was 0.125%. 
+
+The Term Loan Facility will amortize in equal quarterly installments (commencing with the first full fiscal quarter ended after January 24, 2020) in aggregate annual amounts equal to 5.00% of the original principal amount of the Term Loan Facility and will mature on January 24, 2023. 
+
+Borrowings under the Term Loan Facility may be voluntarily prepaid, in whole or in part, without penalty or premium. The Term Credit Agreement contains customary representations, warranties, affirmative and negative covenants, including a financial covenant, events of default and indemnification provisions in favor of the lenders. The negative covenants include restrictions regarding the incurrence of subsidiary indebtedness, the incurrence of liens and fundamental changes, including, the sale of all or substantially all of the assets of F5 and its subsidiaries, taken as a whole, in each case, subject to certain exceptions. The financial covenant requires F5 to meet a quarterly leverage ratio. 
+
+The foregoing summary of the Term Loan Facility in this Item 1.01 does not purport to be complete and is subject to and qualified in its entirety by reference to the full text of the Term Credit Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+  Item 2.01   Completion of Acquisition or Disposition of Assets.    
+
+As previously disclosed, on December 19, 2019, F5 entered into a Merger Agreement (the “Merger Agreement”) with Shape Security, Inc., a Delaware corporation (“Shape”), Silhouette Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of F5 (“Merger Sub”) and Shareholder Representative Services LLC, a Delaware limited liability company, as security holder representative. The transaction closed on January 24, 2020. Pursuant to the Merger Agreement, the transaction was structured as a merger of Merger Sub with and into Shape (the “Merger”), with Shape surviving the Merger and becoming a wholly-owned subsidiary of F5. 
+
+2 
+
+Pursuant to the Merger Agreement, at the effective time of the Merger, all of the shares of Shape (excluding shares (i) owned by Shape or any subsidiary of Shape and (ii) held by Shape shareholders who perfect their dissenters’ rights with respect to the Merger), all of the other outstanding equity securities of Shape and the vested and outstanding and unexercised stock options and restricted stock units held by continuing employees of Shape were cancelled and converted to the right to receive approximately $1,028,000,000 in cash, subject to certain adjustments set forth in the Merger Agreement, and the unvested and outstanding stock options and restricted stock units held by continuing employees of Shape were assumed by F5, on the terms and conditions set forth in the Merger Agreement. All outstanding shares of Shape restricted stock held by non-continuing employees of Shape will be repurchased by Shape at the cost such non-continuing employee paid for such share of Shape restricted stock. 
+
+The foregoing description of the Merger Agreement is qualified in its entirety by reference to the full text of the Merger Agreement, which was filed as Exhibit 2.1 in a Current Report on Form 8-K filed with the Securities and Exchange Commission (the “SEC”) on December 24, 2019 and is incorporated herein by reference. 
+
+  Item 2.03   Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.    
+
+The information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference. 
+
+  Item 7.01   Regulation FD Disclosure.    
+
+F5 issued a press release on January 24, 2020 announcing the closing. A copy of the press release is furnished herewith as Exhibit 99.1 and is incorporated herein by reference. 
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+This announcement contains “forward-looking statements” within the meaning of the federal securities laws, including Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934. This announcement contains forward-looking statements including, among other things, statements regarding the continuing strength and momentum of F5’s and Shape’s business, future financial performance, sequential growth, projected revenues including target revenue and earnings ranges, income, earnings per share, share amount and share price assumptions, share repurchases, demand for application delivery networking, application delivery services, security, and software products, expectations regarding future services and products, expectations regarding future customers, markets and the benefits of products, and other statements that are not historical facts and which are forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements as a result of certain risk factors. Such forward-looking statements involve risks and uncertainties, as well as assumptions and other factors that, if they do not fully materialize or prove correct, could cause the actual results, performance or achievements of the company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, but are not limited to: customer acceptance of Shape and F5 offerings; potential disruptions to F5’s business and distraction of management as F5 integrates Shape’s business and technology; F5’s ability to successfully integrate Shape’s products with F5 technologies; the ability of F5’s sales professionals and distribution partners to sell Shape’s product and service offerings; the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive factors, including but not limited to pricing pressures, industry consolidation, entry of new competitors into F5’s markets, and new product and marketing initiatives by F5’s competitors; increased sales discounts; the business impact of the acquisition of Shape and potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement or completion of the acquisition; uncertainties as to the timing of the transaction; uncertain global economic conditions which may result in reduced customer demand for F5’s products and services and changes in customer payment patterns; global economic conditions and uncertainties in the geopolitical environment; overall information technology spending; litigation involving patents, intellectual property, shareholder and other matters, and governmental investigations; natural catastrophic events; a pandemic or epidemic; F5’s ability to sustain, develop and effectively utilize distribution relationships; F5’s ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel; F5’s ability to expand in international markets; the unpredictability of F5’s sales cycle; F5’s share repurchase program; future prices of F5’s common stock; and other risks and uncertainties described more fully in F5’s documents filed with or furnished to the SEC, including F5’s most recent reports on Form 10-K and Form 10-Q and current reports on Form 8-K and other documents that we may file or furnish from time to time, which could cause actual results to vary from expectations.. The financial information contained in this release should be read in conjunction with the consolidated financial statements and notes thereto included in F5’s most recent reports on Forms 10-Q and 10-K as each may be amended from time to time. All forward-looking statements in this announcement are based on information available as of the date hereof and qualified in their entirety by this cautionary statement. F5 assumes no obligation to revise or update these forward-looking statements, except as otherwise required by law. 
+
+3 
+
+  Item 9.01   Financial Statements and Exhibits    
+
+(d) Exhibits: 
+
+  2.1*     Merger Agreement, dated December 19, 2019, by and among F5 Networks, Inc., Silhouette Merger Sub, Inc., Shape Security, Inc., and Shareholder Representative Services LLC (incorporated by reference to the registrant’s Form 8-K filed on December 24, 2019).   
+
+  10.1     Term Credit Agreement, dated as of January 24, 2020, among F5 Networks, Inc., the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative agent.   
+
+  99.1     Press Release, dated January 24, 2020 (regarding announcement of closing).   
+
+  104     Cover Page Interactive Data File – the cover page XBRL tags are embedded within the Inline XBRL document.    
+
+  *   Schedules and annexes have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule and/or annex will be furnished supplementally to the Securities and Exchange Commission upon request.    
+
+4 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+  [DATA_TABLE_REMOVED] 
+
+5

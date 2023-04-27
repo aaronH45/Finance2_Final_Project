@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000895421",
+    "sec_company_name": "MORGAN STANLEY (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200116",
+    "sec_filing_date": "20200116",
+    "sec_changed_date": "20200116",
+    "sec_accepted_date": "20200116081541",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/895421/000115752320000072/0001157523-20-000072-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/895421/000115752320000072/0001157523-20-000072.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MS_0000895421_8K_20200116_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "68904 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 6398,
+    "endpoints": [
+        "false0000895421Morgan Stanley Cushing MLP High Income Index ETNs due March 21, 203100008954212020-01-162020-01-160000895421ms:GlobalMediumTermNotesSeriesAFixedRateStepUpSeniorNotesDue2026Memberms:NewYorkStockExchangeMember2020-01-162020-01-160000895421ms:NewYorkStockExchangeMemberms:NonCumulativePreferredStockSeriesE001ParValueMember2020-01-162020-01-160000895421ms:NonCumulativePreferredStockSeriesI001ParValueMemberms:NewYorkStockExchangeMember2020-01-162020-01-160000895421ms:MarketVectorsETNsDueMarch312020TwoIssuancesMemberms:NYSEArcaIncMember2020-01-162020-01-160000895421ms:NewYorkStockExchangeMemberms:CommonStock001ParValueMember2020-01-162020-01-160000895421ms:MarketVectorsETNsDueApril302020TwoIssuancesMemberms:NYSEArcaIncMember2020-01-162020-01-160000895421ms:NewYorkStockExchangeMemberms:NonCumulativePreferredStockSeriesA001ParValueMember2020-01-162020-01-160000895421ms:NewYorkStockExchangeMemberms:NonCumulativePreferredStockSeriesL001ParValueMember2020-01-162020-01-160000895421ms:NonCumulativePreferredStockSeriesF001ParValueMemberms:NewYorkStockExchangeMember2020-01-162020-01-160000895421ms:MorganStanleyCushingMLPHighIncomeIndexETNsDueMarch212031Memberms:NYSEArcaIncMember2020-01-162020-01-160000895421ms:NonCumulativePreferredStockSeriesK001ParValueMemberms:NewYorkStockExchangeMember2020-01-162020-01-16 ",
+        "  [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\MS_0000895421_8K_20200116_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:34:15.157794"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000075488",
+    "sec_company_name": "PACIFIC GAS & ELECTRIC Co (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150220",
+    "sec_filing_date": "20150223",
+    "sec_changed_date": "20150220",
+    "sec_accepted_date": "20150220205651",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1004980/000114036115008265/0001140361-15-008265-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1004980/000114036115008265/0001140361-15-008265.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PCG_0000075488_EX99_20150220_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13627 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6851,
+    "endpoints": [
+        "CREDIT SUISSE ENERGY SUMMITTony EarleyChairman, President and CEO, PG&E CorporationFebruary 24, 2015 Exhibit 99    ",
+        " * Residential Rate Structure Reform Current Rates: $/kWh Tier 1 Tier 3 Tier 4 Tier 2 $0.15 $0.18 $0.26 $0.32 PG&E Proposed Changes PG&E Proposed Changes PG&E Proposed Changes PG&E Proposed Changes PG&E Proposed Changes Objectives 2015 2016 2017 2018 Fewer tiers Reduce from 4 to 3 tiers Retain 3 tiers Retain 3 tiers Reduce to 2 tiers with a 1.2:1 tier price ratio Monthly service charge $5 $10 $10 + inflation $10 + inflation CARE* discount ~44% ~41% ~38% ~35% * California Alternate Rates for Energy (“CARE”) for income-qualifying customers"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PCG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\PCG_0000075488_EX99_20150220_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:18:59.886392"
+}

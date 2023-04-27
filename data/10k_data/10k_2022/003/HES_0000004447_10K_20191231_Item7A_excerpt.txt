@@ -1,0 +1,37 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+In the normal course of our business, we are exposed to commodity risks related to changes in the prices of crude oil, NGL, and natural gas as well as changes in interest rates and foreign currency values. In the disclosures that follow, financial risk management activities refer to the mitigation of these risks through hedging activities. 
+
+Controls: We maintain a control environment under the direction of our Chief Risk Officer. Controls over instruments used in financial risk management activities include volumetric and term limits. Our Treasury department is responsible for administering and monitoring foreign exchange rate and interest rate hedging programs using similar controls and processes, where applicable. Hedging strategies are reviewed annually by the Audit Committee of the Board of Directors. 
+
+Instruments: We primarily use forward commodity contracts, foreign exchange forward contracts, futures, swaps, and options in our risk management activities. These contracts are generally widely traded instruments with standardized terms. The following describes these instruments and how we use them: 
+
+•  
+
+Swaps: We use financially settled swap contracts with third parties as part of our financial risk management activities. Cash flows from swap contracts are determined based on underlying commodity prices or interest rates and are typically settled over the life of the contract.  
+
+•  
+
+Forward Foreign Exchange Contracts: We enter into forward contracts, primarily for the British Pound and Danish Krone, which commit us to buy or sell a fixed amount of those currencies at a predetermined exchange rate on a future date.  
+
+•  
+
+Exchange-traded Contracts: We may use exchange-traded contracts, including futures, on a number of different underlying energy commodities. These contracts are settled daily with the relevant exchange and may be subject to exchange position limits.  
+
+•  
+
+Options: Options on various underlying energy commodities include exchange-traded and third-party contracts and have various exercise periods. As a seller of options, we receive a premium at the outset and bear the risk of unfavorable changes in the price of the commodity underlying the option. As a purchaser of options, we pay a premium at the outset and have the right to participate in the favorable price movements in the underlying commodities.  
+
+Financial Risk Management Activities 
+
+At December 31, 2019, outstanding total debt, which was substantially comprised of fixed rate debt instruments, had a carrying value of $7,142 million and a fair value of $8,242 million. A 15% increase or decrease in interest rates would decrease or increase the fair value of our fixed rate debt by approximately $450 million or $490 million, respectively. Any changes in interest rates do not impact our cash outflows associated with fixed rate interest payments or settlement of debt principal, unless a debt instrument is repurchased prior to maturity.  
+
+We have WTI put options for calendar year 2020 with an average monthly floor price of $55 per barrel for 130,000 bopd, and Brent put options for calendar year 2020 with an average monthly floor price of $60 per barrel for 20,000 bopd. As of December 31, 2019, an assumed 10% increase in the forward WTI and Brent crude oil prices used in determining the fair value of our put options would reduce the fair value of these derivatives instruments by approximately $60 million, while an assumed 10% decrease in the same crude oil prices would increase the fair value of these derivative instruments by approximately $110 million.   
+
+We have outstanding foreign exchange contracts with a total notional amount of $90 million at December 31, 2019 that are used to reduce our exposure to fluctuating foreign exchange rates for various currencies. The change in fair value of foreign exchange contracts from a 10% weakening of the U.S. Dollar exchange rate is estimated to be a loss of approximately $5 million at December 31, 2019. 
+
+See Note 19, Financial Risk Management Activities in the Notes to Consolidated Financial Statements for further details. 
+
+47 
+
+Item 8. Financial Statements and Supplementary Data

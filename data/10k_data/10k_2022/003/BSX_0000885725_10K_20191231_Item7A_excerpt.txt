@@ -1,0 +1,79 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We develop, manufacture and sell medical devices globally and our earnings and cash flows are exposed to market risk from changes in currency exchange rates and interest rates. We address these risks through a risk management program that includes the use of derivative financial instruments. We operate the program pursuant to documented corporate risk management policies. We do not enter derivative transactions for speculative purposes. Gains and losses on derivative financial instruments substantially offset losses and gains on underlying hedged exposures. Furthermore, we manage our exposure to counterparty risk on derivative instruments by entering into contracts with a diversified group of major financial institutions and by actively monitoring outstanding positions.
+
+Our currency risk consists primarily of foreign currency denominated firm commitments, forecasted foreign currency denominated intercompany and third-party transactions and net investments in certain subsidiaries. We use both nonderivative (primarily European manufacturing operations) and derivative instruments to manage our earnings and cash flow exposure to changes in currency exchange rates. We had currency derivative instruments outstanding in the contract amount of $9.221 billion as of December 31, 2019 and $11.326 billion as of December 31, 2018. A ten percent appreciation in the U.S. dollar’s value relative to the hedged currencies would increase the derivative instruments’ fair value by $337 million as of December 31, 2019 as compared to $181 million as of December 31, 2018. A ten percent depreciation in the U.S. dollar’s value relative to the hedged currencies would decrease the derivative instruments’ fair value by $412 million as of December 31, 2019 as compared to $222 million as of December 31, 2018. Any increase or decrease in the fair value of our currency exchange rate sensitive derivative instruments would be substantially offset by a corresponding decrease or increase in the fair value of the hedged underlying asset, liability or forecasted transaction, resulting in minimal impact on our consolidated statements of operations.
+
+Our interest rate risk relates primarily to U.S. dollar borrowings partially offset by U.S. dollar cash investments. We have historically used interest rate derivative instruments to manage our earnings and cash flow exposure to changes in interest rates. We had interest rate derivative instruments outstanding in the contract amount of $1.000 billion as of December 31, 2018 and none as of December 31, 2019. As of December 31, 2019, $7.661 billion of our outstanding debt obligations was at fixed interest rates, representing approximately 76 percent of our total debt. As of December 31, 2019, our outstanding debt obligations at fixed interest rates were comprised of senior notes.
+
+See Note D – Hedging Activities and Fair Value Measurements to our consolidated financial statements contained in Item 8. Financial Statements and Supplementary Data of this Annual Report for further information regarding our derivative financial instruments.
+
+ 61
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Stockholders and the Board of Directors of Boston Scientific Corporation 
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Boston Scientific Corporation (the Company) as of December 31, 2019 and 2018, the related consolidated statements of operations, comprehensive income (loss), stockholders' equity and cash flows for each of the three years in the period ended December 31, 2019, and the related notes and financial statement schedule listed in the Index at Item 15(a) (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2019 and 2018, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2019, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2019, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 25, 2020 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters  
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+ 62
+
+ Business Combinations 
+
+Description of the Matter
+
+As disclosed in Note B to the consolidated financial statements, during 2019, the Company completed three acquisitions for total aggregate consideration of $4.38 billion, net of cash acquired. The most significant of these was the acquisition of all outstanding equity of BTG, plc. for consideration of approximately $3.62 billion, net of cash acquired. The transactions were accounted for as business combinations. In certain acquisitions, the Company has recognized a liability for acquisition consideration that is contingent upon achieving either research and development and commercialization milestones, or sales-based milestones. The Company determines the fair value of these arrangements, both as part of the initial purchase price allocation, and on an ongoing basis each reporting period until the arrangements are settled. As of December 31, 2019, the amount accrued for future estimated contingent consideration is $354 million.
+
+Auditing the Company’s accounting for its acquisitions was complex due to the significant estimation required by management to determine the fair value of identified intangible assets, which totaled $2.2 billion and principally consisted of developed technology and assets related to currently marketed products, and to determine the fair value of contingent consideration arrangements. A significant emphasis is placed on the appropriateness of the estimate considerations used by management to determine the fair value of acquired intangible assets due to the sensitivity of the respective fair values to the underlying assumptions. The Company used an income approach to measure the technology-related intangible assets. The significant assumptions used to estimate the value of the intangible assets included discount rates and certain assumptions that form the basis of the forecasted results, including revenue growth rates, estimates of technological obsolescence, operating profit margin and market participant synergies. The significance of the estimations used by management to determine the fair value of contingent consideration was primarily due to the sensitivity of the respective fair values to the significant underlying assumptions. The significant assumptions include estimation of the probability and timing of payment, future sales forecasts, as well as the appropriate discount rate based on the estimated timing of payments. These significant assumptions are forward looking and could be affected by future economic and market conditions.
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating effectiveness of the controls over the Company’s accounting for acquisitions. For example, we tested controls over the identification and valuation of intangible assets, including the valuation models and underlying assumptions used to develop such estimates. We also tested controls over the valuation of the contingent consideration liability, including the valuation models and underlying assumptions used to develop such estimates.
+
+For each of the Company's acquisitions, we read the purchase agreements, evaluated the significant assumptions and methods used in developing the fair value estimates, and tested the recognition of (1) the tangible assets acquired and liabilities assumed at fair value; (2) the identifiable intangible assets acquired at fair value; and (3) goodwill measured as a residual.
+
+To test the estimated fair value of the intangible assets, we performed audit procedures that included, among others, evaluating the Company's use of the income approach and testing the significant assumptions used in the model, as described above. In testing the valuation of contingent consideration, we assessed, among other things, the terms of the arrangements and the conditions that must be met for the arrangements to become payable. We evaluated the completeness and accuracy of the underlying data used in the analyses. For example, we compared the significant assumptions to current industry, market and economic trends, to the assumptions used to value similar assets in other acquisitions, to the historical results of the acquired business and to other guideline companies within the same industry. We involved our valuation professionals to assist with our evaluation of the methodology used by the Company and significant assumptions included in the fair value estimates.
+
+.
+
+ 63
+
+ Income Taxes - Intra-entity transfer of a license for intellectual property 
+
+Description of the Matter
+
+As discussed in Note I - Income Taxes, the Company completed intra-entity transfers of certain intellectual property rights among various wholly-owned subsidiaries. The Company determined that some of these transactions created a step-up in the tax deductible basis in the transferred intellectual property rights in certain jurisdictions and recognized a deferred tax asset and related income tax benefit of $4.1 billion based upon the tax basis step-up to the intellectual property’s current fair value.
+
+Auditing management’s estimation of the intellectual property’s fair value was especially challenging because the estimates required significant and complex management judgments to establish assumptions about the intellectual property’s fair value, including revenue growth rates, projected profit margins, and discount rate. This also involved complex judgment to analyze, interpret and apply complex tax laws and regulations in the impacted jurisdictions.
+
+How We Addressed the Matter in Our Audit
+
+We tested the effectiveness of the Company’s controls over the accounting for the intra-entity transfers, including controls over the appropriateness of the valuation approach and method selected, assumptions and data used, and application of the technical tax guidance by management.
+
+To test the estimated fair value of the intellectual property, we performed audit procedures that included, among others, evaluating the assumptions used by management related to revenue growth rates, projected profit margins, and the discount rate. We involved our valuation professionals to assist with the evaluation of the appropriateness of the valuation model used by management and the methodology used in determining the valuation of significant assumptions included in the fair value estimates. We also involved tax professionals to assess the technical merits of the Company’s tax positions related to the intra-entity transfers. To evaluate the reasonableness of management’s assumptions about revenue growth rates and projected profit margins, we compared these assumptions to historical revenue and profit margins for the business and to industry benchmarks. We also compared these assumptions to those used in the Company’s annual budget and forecasting process to determine whether they were consistent, where relevant. We recalculated the recognized deferred tax assets and assessed the adequacy of the related disclosures included in Note I - Income Taxes to the consolidated financial statements.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1992.
+
+Boston, Massachusetts
+
+February 25, 2020 
+
+ 64
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

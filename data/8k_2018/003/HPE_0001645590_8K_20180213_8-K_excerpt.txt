@@ -1,0 +1,43 @@
+Document   
+
+[DATA_TABLE_REMOVED]
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+o Emerging growth company
+
+o If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 2.02Results of Operations and Financial Condition.
+
+The information contained in this Item 2.02 and in the accompanying Exhibit 99.1 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing.
+
+ Effective at the beginning of the first quarter of fiscal 2018, Hewlett Packard Enterprise Company (“HPE”) implemented organizational changes to align its segment financial reporting more closely with its current business structure. These organizational changes resulted in:
+
+•The creation of a new Hybrid IT segment consisting of the former Servers and Storage business units, the Pointnext and Communications and Media Solutions (“CMS”) businesses within the former Technology Services business unit, and the data center networking business within the former Networking business unit, all of which were previously reported within the former Enterprise Group (“EG”) segment. The Hybrid IT segment consists of the Hybrid IT Product and Pointnext business units. The Hybrid IT Product business unit consists of the Compute, Storage and DC Networking product families.
+
+•The creation of a new Intelligent Edge segment consisting of HPE’s wireless LAN, campus and branch switching and edge compute networking product businesses within the former Networking business unit and Aruba Services within the former Technology Services business unit, all of which were previously reported within the former EG segment. The Intelligent Edge segment consists of the HPE Aruba Product and HPE Aruba Services business units.
+
+To provide improved visibility and comparability, HPE has reflected these changes to its segment information retrospectively to the earliest date presented which has primarily resulted in: (i) the transfer of net revenue, related eliminations of intersegment revenues and operating profit from the former Servers and Storage business units, the Pointnext and CMS businesses within the former Technology Services business unit and the data center networking business within the former Networking business unit, all of which were previously reported within the former EG segment, to the Hybrid IT segment; (ii) the transfer of net revenue, related eliminations of intersegment revenues and operating profit from the remaining networking products businesses within the former Networking business unit, and Aruba services within the former Technology Services business units, all of which were previously reported within the former EG segment, to the Intelligent Edge segment; and (iii) the transfer of the operating loss from cloud-related activities previously reported within Corporate Investments to the Hybrid IT segment. 
+
+Additionally, effective at the beginning of the first quarter of fiscal 2018, HPE implemented certain changes to its allocation methodology for stock-based compensation expense and certain corporate costs, which align to its segment financial reporting and are consistent with the manner in which the operating segments will be evaluated for performance on a prospective basis. HPE reflected these changes retrospectively to the earliest period presented, which resulted in: (i) the transfer of a portion of stock-based compensation expense, which under the prior allocation methodology was not allocated to the segments, to the Hybrid IT, Intelligent Edge and Financial Services segments; and (ii) the transfer of certain corporate function costs previously allocated to the segments to unallocated corporate costs.
+
+ These changes had no impact on Hewlett Packard Enterprise’s previously reported consolidated net revenue, earnings from operations, net earnings or net earnings per share. As a result of these changes, HPE has released revised quarterly and full year segment results for fiscal 2017 and 2016 and a revised statement of business unit revenue for fiscal 2017, which are attached hereto as Exhibit 99.1 and are incorporated herein by reference.
+
+Item 9.01Financial Statements and Exhibits.
+
+Exhibit NumberDescription
+
+Exhibit 99.1Hewlett Packard Enterprise Company’s revised segment financial results for fiscal 2017 and 2016 and revised statement of business unit revenue for fiscal 2017 (furnished herewith).
+
+[DATA_TABLE_REMOVED]

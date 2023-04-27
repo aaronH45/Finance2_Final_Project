@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000874761",
+    "sec_company_name": "AES CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190226",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190226",
+    "sec_accepted_date": "20190226194517",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/874761/000087476119000014/0000874761-19-000014-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/874761/000087476119000014/0000874761-19-000014.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AES_0000874761_EX991_20190226_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "675142 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 25916,
+    "endpoints": [
+        "Document   ",
+        "(3) The cash held at QHCs represents cash sent to subsidiaries of the company domiciled outside of the US. Such subsidiaries had no contractual restrictions on their ability to send cash to AES, the Parent Company. Cash at those subsidiaries was used for investment and related activities outside of the US. These investments included equity investments and loans to other foreign subsidiaries as well as development and general costs and expenses incurred outside the US. Since the cash held by these QHCs is available to the Parent, AES uses the combined measure of subsidiary distributions to Parent and QHCs as a useful measure of cash available to the Parent to meet its international liquidity needs."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AES",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\AES_0000874761_EX991_20190226_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:45:42.468730"
+}

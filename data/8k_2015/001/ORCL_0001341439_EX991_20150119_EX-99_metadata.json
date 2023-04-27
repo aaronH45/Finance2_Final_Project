@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001341439",
+    "sec_company_name": "ORACLE CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150119",
+    "sec_filing_date": "20150123",
+    "sec_changed_date": "20150123",
+    "sec_accepted_date": "20150123170259",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1341439/000119312515018993/0001193125-15-018993-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1341439/000119312515018993/0001193125-15-018993.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\ORCL_0001341439_EX991_20150119_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10413 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 5511,
+    "endpoints": [
+        "EX-99.1   ",
+        " delays in delivery of new products or releases or a decline in our renewal rates for support contracts. (3) Our cloud computing strategy, including our Oracle Cloud Software-as-a-Service, Platform-as-a-Service, Infrastructure-as-a-Service and our new Database as a Service offerings, may not be successful. (4) We have an active acquisition program and our acquisitions may not be successful, may involve unanticipated costs or other integration issues or may disrupt our existing operations. (5) Our international sales and operations subject us to additional risks that can adversely affect our operating results, including risks relating to foreign currency gains and losses. (6) If the security measures for our software, hardware, services or Oracle Cloud offerings are compromised or if such offerings contain significant coding, manufacturing or configuration errors, we may experience reputational harm, legal claims and financial exposure. (7) If we are unable to develop new or sufficiently differentiated products and services, or to enhance and improve our products and support services in a timely manner or to position and/or price our products and services to meet market demand, customers may not buy new software licenses, cloud software subscriptions or hardware systems products or purchase or renew support contracts. A detailed discussion of these factors and other risks that affect our business is contained in our SEC filings, including our most recent reports on Form 10-K and Form 10-Q, particularly under the heading “Risk Factors.” Copies of these filings are available online from the SEC or by contacting Oracle Corporation’s Investor Relations Department at (650) 506-4073 or by clicking on SEC Filings on Oracle’s Investor Relations website at http://www.oracle.com/investor. All information set forth in this press release is current as of January 19, 2015. Oracle undertakes no duty to update any statement in light of new information or future events."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ORCL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\001\ORCL_0001341439_EX991_20150119_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:16:40.209893"
+}

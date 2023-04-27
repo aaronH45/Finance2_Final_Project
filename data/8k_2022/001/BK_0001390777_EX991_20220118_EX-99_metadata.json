@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001390777",
+    "sec_company_name": "Bank of New York Mellon Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220118",
+    "sec_filing_date": "20220118",
+    "sec_changed_date": "20220118",
+    "sec_accepted_date": "20220118063237",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077722000002/0001390777-22-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1390777/000139077722000002/0001390777-22-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\BK_0001390777_EX991_20220118_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "685213 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 27589,
+    "endpoints": [
+        "Document",
+        "Investors and analysts wishing to access the conference call and audio webcast may do so by dialing (800) 390-5696 (U.S.) or (720) 452-9082 (International), and using the passcode: 444308, or by logging onto www.bnymellon.com/investorrelations. Earnings materials will be available at www.bnymellon.com/investorrelations beginning at approximately 6:30 a.m. ET on Jan. 18, 2022. Replays of the conference call and audio webcast will be available beginning Jan. 18, 2022 at approximately 2:00 p.m. ET through Feb. 18, 2022 by dialing (888) 203-1112 (U.S.) or (719) 457-0820 (International), and using the passcode: 3619155. The archived version of the conference call and audio webcast will also be available at www.bnymellon.com/investorrelations for the same time period."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\BK_0001390777_EX991_20220118_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:20:33.947948"
+}

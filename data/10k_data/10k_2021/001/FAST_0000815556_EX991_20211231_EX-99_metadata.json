@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000815556",
+    "sec_company_name": "FASTENAL CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K/A",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220210",
+    "sec_changed_date": "20220210",
+    "sec_accepted_date": "20220210172243",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/815556/000081555622000011/0000815556-22-000011-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/815556/000081555622000011/0000815556-22-000011.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\FAST_0000815556_EX991_20211231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "44158 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 39228,
+    "endpoints": [
+        "glossywrap-printversion   ",
+        "2 0 2 1 A N N U A L R E P O R T 9706829 2021 Annual Report | JH 2.22 | Printed in the USA 2021 ANNUAL REPORT 1 A N N U A L R E P O R T 9706829 20 1 Annual Report | JH 2. 2 | Printed in the USA 2021 ANNUAL REPORT"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "FAST",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\001\FAST_0000815556_EX991_20211231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:33:33.920460"
+}

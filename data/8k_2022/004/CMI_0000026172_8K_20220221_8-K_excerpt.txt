@@ -1,0 +1,111 @@
+xml version="1.0" encoding="utf-8"?               
+
+   0000026172 false        0000026172   2022-02-21 2022-02-21    iso4217:USD   xbrli:shares     iso4217:USD   xbrli:shares       
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT  
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+Date of Report(Date of earliest event reported): February 24, 2022 (February 21, 2022) 
+
+CUMMINS INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+500 Jackson Street 
+
+P.O. Box 3005
+
+ Columbus, Indiana 47202-3005 
+
+(Principal Executive Office) (Zip Code) 
+
+Registrant's telephone number, including area code: (812) 377-5000 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): 
+
+   ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+   ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+   ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+   ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  
+
+Securities registered pursuant to Sections 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter) 
+
+Emerging growth Company ¨ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ 
+
+Item 1.01.Entry into a Material Definitive Agreement. 
+
+On February 21, 2022, Cummins Inc. (the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Meritor, Inc., an Indiana corporation (“Meritor”), and Rose NewCo Inc., an Indiana corporation (“Merger Sub”), pursuant to which the Company agreed to acquire Meritor through the merger of Merger Sub with and into Meritor (the “Merger”), with Meritor surviving the Merger as a wholly owned subsidiary of the Company (together with the other transactions contemplated thereby, the “Transaction”). 
+
+Pursuant to the terms and conditions in the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each share of common stock, par value $1.00 per share, of Meritor (“Common Stock”) issued and outstanding as of immediately prior to the Effective Time, other than shares of Common Stock held by Meritor as treasury stock or held by the Company or Merger Sub or held by a subsidiary of the Company (other than Merger Sub) or Meritor (other than shares held on behalf of third parties), will be automatically cancelled and converted into the right to receive $36.50 in cash, without interest (the “Merger Consideration”). The total Transaction value is approximately $3.7 billion, including assumed debt and net of acquired cash. 
+
+Pursuant to the terms and conditions in the Merger Agreement, at the effective time of the Merger, each outstanding share of restricted Common Stock will be fully vested and treated as outstanding shares of Common Stock, and performance share units (“PSUs”) that are scheduled to vest on or before September 30, 2024 will vest and be cancelled in exchange for the right to receive, on a per share basis, the Merger Consideration. Restricted stock units, and PSUs that are scheduled to vest after September 30, 2024, will be converted into the right to receive, on a per share basis, cash equal to the Merger Consideration, without interest, with awards continuing to vest over the remaining service-vesting schedule (subject to accelerated vesting on a qualifying termination of employment). If a performance period in respect of any PSU is incomplete or performance is not determinable as of the effective time, the number of shares subject to such PSU will be determined assuming applicable performance goals are satisfied at the target level of performance at the effective time of the Merger. 
+
+Conditions 
+
+The Transaction is subject to the satisfaction or waiver of customary closing conditions, including, among other things, (i) approval of the Merger Agreement by the affirmative vote of the holders of a majority of all the votes entitled to be cast to approve the Merger Agreement (the “Shareholder Approval”); (ii) the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (iii) the receipt of specified regulatory approvals; (iv) the absence of an enacted law, injunction or order prohibiting the Merger; (v) the accuracy of the representations and warranties contained in the Merger Agreement (subject to certain materiality and material adverse effect qualifiers); (vi) compliance in all material respects with the covenants and agreements in the Merger Agreement; (vii) absence of an effect or effects that have had a Company Material Adverse Effect (as defined in the Merger Agreement) that is continuing or that would reasonably be expected to have a Company Material Adverse Effect within a reasonable period following the closing of the Merger; and (viii) the absence of an enacted law, injunction or order in connection with specified regulatory approvals that would require the Company, Meritor or any of their respective subsidiaries to take or commit to take an action that constitutes or would reasonably be expected to result in a Burdensome Condition (as defined in the Merger Agreement). The Merger Agreement does not contain a financing condition. The Company intends to fund the Merger Consideration using a combination of cash on the Company’s balance sheet and debt. 
+
+Representations, Warranties and Covenants 
+
+The Merger Agreement contains representations and warranties customary for transactions of this type. Meritor has agreed to various customary covenants and agreements, including, among others; (i) a covenant providing for Meritor to convene and hold a meeting of its shareholders for the purpose of obtaining the Shareholder Approval; (ii) an agreement to use commercially reasonable efforts to conduct its business in all material respects in the ordinary course consistent with past practice during the period between the execution of the Merger Agreement and the closing of the Merger, subject to certain exceptions; (iii) an agreement not to engage in specified types of actions during this period, subject to certain exceptions; and (iv) subject to certain exceptions, not to solicit or negotiate alternative proposals or withdraw, modify or qualify in any manner adverse to the Company the recommendation of Meritor’s board of directors (the “Meritor Board”) that Meritor’s shareholders approve the Merger Agreement. 
+
+Termination and Termination Fees 
+
+The Merger Agreement contains certain termination rights, including that either party may terminate the Merger Agreement if, subject to certain exceptions and limitations, the Merger has not closed by December 21, 2022 (subject to an automatic extension to March 21, 2023 and an additional automatic extension to June 21, 2023, if, on such date, all of the closing conditions except those relating to regulatory approvals have been satisfied or waived) (the “End Date”). Additionally, Meritor may terminate the Merger Agreement under specified circumstances to accept an unsolicited superior proposal from a third party, and the Company may terminate the Merger Agreement if, (i) before the Shareholder Approval has been obtained, the Meritor Board changes its recommendation that Meritor’s shareholders approve the Merger Agreement or Meritor willfully breached its non-solicitation obligations or (ii) a governmental authority has enacted a law, injunction or order in connection with specified regulatory approvals that requires the Company, Meritor or any of their respective subsidiaries to take or commit to take an action that constitutes a Burdensome Condition. 
+
+The Merger Agreement provides that, upon termination of the Merger Agreement by Meritor or the Company under specified circumstances (including termination by Meritor to accept a superior proposal), a termination fee of $73.5 million will be payable by Meritor to the Company. 
+
+The Merger Agreement also provides that a reverse termination fee of $160 million will be payable by the Company to Meritor if the Merger Agreement is terminated by Meritor or the Company under certain specified circumstances (including as a result of failing to obtain regulatory approvals by the End Date). 
+
+The Merger Agreement also provides that either party may seek to compel the other party to specifically perform its obligations under the Merger Agreement. 
+
+The foregoing description of the Merger Agreement is not complete and is qualified in its entirety by reference to the Merger Agreement, which is attached hereto as Exhibit 2.1 and is incorporated by reference herein. 
+
+The Merger Agreement has been included to provide security holders with information regarding its terms. It is not intended to provide any other factual information about the Company or Meritor. The Merger Agreement contains representations and warranties that the Company, on one hand, and Meritor, on the other hand, made to and solely for the benefit of each other as of specific dates. The assertions embodied in those representations and warranties were made solely for purposes of the Merger Agreement and may be subject to important qualifications and limitations agreed to by the parties in connection with negotiating the terms of the Merger Agreement or contained in confidential disclosure schedules. Some of those representations and warranties (i) may not be accurate or complete as of any specified date and are modified, qualified and created in important part by the underlying disclosure schedules; (ii) may be subject to a contractual standard of materiality different from those generally applicable to security holders; or (iii) have been used for the purpose of allocating risk between the parties to the Merger Agreement rather than establishing matters as facts. For the foregoing reasons, the representations and warranties should not be relied upon as statements of factual information. Security holders are not third-party beneficiaries under the Merger Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or conditions of the Company or Meritor. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in the Company’s or Meritor’s public disclosures. 
+
+Cautionary Language Regarding Forward-Looking Statements 
+
+This Current Report on Form 8-K contains certain forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995 related to the proposed transaction between Cummins and Meritor, including statements regarding the benefits and the timing of the transaction as well as statements regarding the companies’ products and markets. Forward-looking statements are typically identified by words or phrases such as “expects,” “anticipates,” “believes,” “estimates,” “intends,” “plans to,” “ought,” “could,” “will,” “should,” “likely,” “appears,” “projects,” “seeks,” “forecasts,” “outlook,” “may” and similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions, which we refer to as “future factors,” which are difficult to predict. Actual outcomes and results may differ materially from those expressed or projected in such forward-looking statements. Such risks and uncertainties include, among others, the occurrence of any event, change or other circumstances that could give rise to the termination of the merger agreement between the parties to the proposed transaction; the failure to obtain the approval of Meritor’s shareholders; the failure to obtain certain required regulatory approvals or the failure to satisfy any of the other closing conditions to the completion of the proposed transaction within the expected timeframes or at all; risks related to disruption of management’s attention from ongoing business operations due to the transaction; the effect of the announcement of the transaction on Cummins’ and Meritor’s ability to retain and hire key personnel, to maintain relationships with customers, suppliers and others with whom Meritor and Cummins do business, or on the companies’ respective operating results and businesses generally; the ability to meet expectations regarding the timing and completion of the transaction; the duration and severity of the COVID-19 pandemic and its effects on public health, the global economy, and financial markets, as well as Meritor and Cummins’ industries, customers, operations, workforce, supply chains, distribution systems and demand for their respective products; reliance on major OEM customers and possible negative outcomes from contract negotiations with major customers, including failure to negotiate acceptable terms in contract renewal negotiations and the ability to obtain new customers; the outcome of actual and potential product liability, warranty and recall claims; technological changes in Meritor’s and Cummins’ industries as a result of the trends toward electrified drivetrains and the integration of advanced electronics and the impact on the demand for products and services; labor relations of the respective companies, suppliers and customers, including potential disruptions in supply of parts to facilities or demand for products due to work stoppages; possible adverse effects of any future suspension of normal trade credit terms by suppliers; potential impairment of long-lived assets, including goodwill; potential adjustment of the value of deferred tax assets; competitive product and pricing pressures; the amount of Meritor’s and Cummins’ debt; the ability to continue to comply with covenants in Meritor’s and Cummins’ financing agreements; the outcome of existing and any future legal proceedings, including any proceedings or related liabilities with respect to environmental, asbestos-related, or other matters; possible changes in accounting rules; and the other risks listed from time to time the Company’s filings with the SEC and other substantial costs, risks and uncertainties, including but not limited to those detailed in the Company’s Annual Report on Form 10-K for the year ended December 31, 2021 and from time to time in other filings of the Company with the SEC. These forward-looking statements are made only as of the date hereof, and the Company undertakes no obligation to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise, except as otherwise required by law. 
+
+ Item 9.01.Financial Statement and Exhibits. 
+
+(d) Exhibits. The exhibits below are filed herewith: 
+
+Exhibit Index 
+
+  [DATA_TABLE_REMOVED] 
+
+*The schedules and exhibits to the Agreement and Plan of Merger have been omitted from this filing pursuant to Item 601(b)(2) of Regulation S-K. The Company agrees to furnish to the Securities and Exchange Commission, upon request, a copy of any omitted schedule or exhibit; provided, however, that the Company may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any schedule or exhibit so furnished. 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Date: February 24, 2022 
+
+ CUMMINS INC. 
+
+ /s/ SHARON R. BARNER   
+
+Sharon R. Barner 
+
+Vice President - Chief Administrative Officer & Corporate Secretary

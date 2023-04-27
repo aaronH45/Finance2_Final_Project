@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000789019",
+    "sec_company_name": "MICROSOFT CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220118",
+    "sec_filing_date": "20220118",
+    "sec_changed_date": "20220118",
+    "sec_accepted_date": "20220118084905",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/789019/000119312522010667/0001193125-22-010667-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/789019/000119312522010667/0001193125-22-010667.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MSFT_0000789019_EX991_20220118_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "26604 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 14839,
+    "endpoints": [
+        "EX-99.1   ",
+        "time of publication, but may since have changed. Shareholder and financial information, as well as today’s 6:00 a.m. Pacific time conference call with investors and analysts, is available at http://www.microsoft.com/en-us/investor."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MSFT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\MSFT_0000789019_EX991_20220118_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:29:02.376702"
+}

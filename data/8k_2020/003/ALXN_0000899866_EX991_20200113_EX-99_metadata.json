@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000899866",
+    "sec_company_name": "ALEXION PHARMACEUTICALS, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200113",
+    "sec_filing_date": "20200113",
+    "sec_changed_date": "20200113",
+    "sec_accepted_date": "20200113061850",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/899866/000089986620000002/0000899866-20-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/899866/000089986620000002/0000899866-20-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALXN_0000899866_EX991_20200113_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "83858 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 28285,
+    "endpoints": [
+        "jpm2020deck11jan2020fbda   ",
+        " FOCUS ON RARE DISEASE ASSETS TO EXPAND ADDRESSABLE PATIENT POPULATION 34 | VISION TO 2020 & BEYOND RARE INSPIRATION. CHANGING LIVES. ~60-80,000 Mild/ Rare Moderate >50K ~10,000 ~10,000 ~35,000 Rare <6,000 <6,000 Refractory <6-50K / severe <6,000 Ultra-rare <6K PNH with Wilson’s AL Other C3G PNH WAIHA gMG clinical EVH disease Amyloidosis Indications FcRN: ACH-4471 ACH-5228 ALXN1840 CAEL-101 ALXN1830, ABY-039"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ALXN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\ALXN_0000899866_EX991_20200113_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:42:24.300099"
+}

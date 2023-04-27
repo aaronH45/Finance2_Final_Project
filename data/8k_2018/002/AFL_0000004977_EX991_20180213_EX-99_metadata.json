@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004977",
+    "sec_company_name": "AFLAC INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180213",
+    "sec_filing_date": "20180213",
+    "sec_changed_date": "20180213",
+    "sec_accepted_date": "20180213164354",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/4977/000000497718000021/0000004977-18-000021-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/4977/000000497718000021/0000004977-18-000021.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\AFL_0000004977_EX991_20180213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "11994 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6499,
+    "endpoints": [
+        "Exhibit   ",
+        "The company cautions readers that the following factors, in addition to other factors mentioned from time to time, could cause actual results to differ materially from those contemplated by the forward-looking statements: difficult conditions in global capital markets and the economy; exposure to significant interest rate risk; concentration of business in Japan; foreign currency fluctuations in the yen/dollar exchange rate; failure to execute or implement the conversion of the Japan branch to a legal subsidiary; limited availability of acceptable yen-denominated investments; deviations in actual experience from pricing and reserving assumptions; ability to continue to develop and implement improvements in information technology systems; governmental actions for the purpose of stabilizing the financial markets; interruption in telecommunication, information technology and other operational systems, or a failure to maintain the security, confidentiality or privacy of sensitive data residing on such systems; ongoing changes in the Company's industry; failure to comply with restrictions on patient privacy and information security; extensive regulation and changes in law or regulation by governmental authorities; defaults and credit downgrades of investments; ability to attract and retain qualified sales associates and employees; decline in creditworthiness of other financial institutions; subsidiaries' ability to pay dividends to Aflac Incorporated; decreases in the Company's financial strength or debt ratings; inherent limitations to risk management policies and procedures; concentration of the Company's investments in any particular single-issuer or sector; differing judgments applied to investment valuations; ability to effectively manage key executive succession; significant valuation judgments in determination of amount of impairments taken on the Company's investments; catastrophic events including, but not necessarily limited to, epidemics, pandemics, tornadoes, hurricanes, earthquakes, tsunamis, war or other military action, terrorism or other acts of violence, and damage incidental to such events; changes in U.S. and/or Japanese accounting standards; loss of consumer trust resulting from events external to the Company's operations; increased expenses and reduced profitability resulting from changes in assumptions for pension and other postretirement benefit plans; level and outcome of litigation; and failure of internal controls or corporate governance policies and procedures."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AFL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\AFL_0000004977_EX991_20180213_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:24:52.878771"
+}

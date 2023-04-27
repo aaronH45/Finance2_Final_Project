@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092230",
+    "sec_company_name": "BB&T CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190129",
+    "sec_filing_date": "20190129",
+    "sec_changed_date": "20190129",
+    "sec_accepted_date": "20190129164112",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92230/000009223019000013/0000092230-19-000013-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92230/000009223019000013/0000092230-19-000013.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\BBT_0000092230_8K_20190129_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "25988 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2707,
+    "endpoints": [
+        "Document   ",
+        "Date: January 29, 2019"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BBT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\BBT_0000092230_8K_20190129_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:37:31.010368"
+}

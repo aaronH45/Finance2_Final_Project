@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000029905",
+    "sec_company_name": "DOVER Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160126",
+    "sec_filing_date": "20160126",
+    "sec_changed_date": "20160126",
+    "sec_accepted_date": "20160126070005",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990516000057/0000029905-16-000057-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/29905/000002990516000057/0000029905-16-000057.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\DOV_0000029905_EX991_20160126_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "827719 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 15131,
+    "endpoints": [
+        "Exhibit   ",
+        "These Investor Supplement tables contain non-GAAP measures of adjusted earnings from continuing operations used in calculating adjusted diluted earnings per common share, as management believes this information is useful to investors to better understand the company’s ongoing profitability and facilitates easier comparisons of the company’s profitability to prior and future periods and to its peers. The company has also disclosed herein a number of non-GAAP measures related to free cash flow and the ratio of net debt to net capitalization. Management believes these metrics are important measures of the company's operating performance and liquidity. Free cash flow information provides both management and investors a measurement of cash generated from operations that is available to fund acquisitions, pay dividends, repay debt and repurchase common stock, while the net debt to net capitalization ratio is helpful in evaluating the company's capital structure and the amount of leverage employed."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DOV",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\DOV_0000029905_EX991_20160126_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:58:16.679209"
+}

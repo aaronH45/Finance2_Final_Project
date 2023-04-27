@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000093751",
+    "sec_company_name": "STATE STREET CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170208",
+    "sec_filing_date": "20170208",
+    "sec_changed_date": "20170208",
+    "sec_accepted_date": "20170208072337",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375117000075/0000093751-17-000075-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/93751/000009375117000075/0000093751-17-000075.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\STT_0000093751_EX991_20170208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "26897 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 20394,
+    "endpoints": [
+        "sttcs18thannualfsforumpr  ",
+        "9 Questions and Answers State Street Global Markets & Global Exchange: Creating Access and Developing Solutions Credit Suisse 18th Annual Financial Services Forum Louis D. Maiuri Executive Vice President and Head of State Street Global Markets & Global Exchange Wednesday, February 8, 2017"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "STT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\005\STT_0000093751_EX991_20170208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:17:19.475520"
+}

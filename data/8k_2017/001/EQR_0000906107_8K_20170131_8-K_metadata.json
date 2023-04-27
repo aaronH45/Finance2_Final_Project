@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000906107",
+    "sec_company_name": "EQUITY RESIDENTIAL (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170131",
+    "sec_filing_date": "20170131",
+    "sec_changed_date": "20170131",
+    "sec_accepted_date": "20170131164947",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/906107/000090610717000005/0000906107-17-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/906107/000090610717000005/0000906107-17-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\EQR_0000906107_8K_20170131_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "54349 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2417,
+    "endpoints": [
+        "Document   ",
+        "99.1 Press Release dated January 31, 2017, announcing the results of operations and financial condition of Equity Residential as of December 31, 2016 and for the year and quarter then ended."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EQR",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\EQR_0000906107_8K_20170131_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:02:13.602523"
+}

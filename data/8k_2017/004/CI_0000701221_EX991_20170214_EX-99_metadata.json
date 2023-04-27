@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000701221",
+    "sec_company_name": "CIGNA CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170214",
+    "sec_filing_date": "20170214",
+    "sec_changed_date": "20170214",
+    "sec_accepted_date": "20170214144815",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/701221/000095015917000051/0000950159-17-000051-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/701221/000095015917000051/0000950159-17-000051.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\CI_0000701221_EX991_20170214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "20772 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 11872,
+    "endpoints": [
+        "Exhibit 99.1",
+        "Forward-looking statements are subject to risks and uncertainties, both known and unknown, that could cause actual results to differ materially from those expressed or implied in forward-looking statements. Such risks and uncertainties include, but are not limited to: ongoing litigation with respect to the ruling, including Anthem's appeal of the ruling; potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement of the ruling; uncertainty as to litigation with respect to the termination of the merger agreement, the reverse termination fee, declaratory judgments with respect to the foregoing and/or contract and non-contract damages for claims filed against Anthem; the risk that a government entity or court of competent jurisdiction, in any litigation, arbitration or other forum, finds in any binding or non-binding decision that Cigna has not complied, in full or in part, with its obligations under the merger agreement or that Cigna is liable for any breach, willful or otherwise, of the merger agreement; uncertainty as to whether and, if so, when Anthem will pay the reverse termination fee; uncertainty as to litigation with respect to any suit initiated by Anthem against Cigna, including for damages with respect to the transactions contemplated in the merger agreement; competitive responses to the ruling; the inability to retain key personnel; our ability to achieve our financial, strategic and operational plans or initiatives; our ability to predict and manage medical costs and price effectively and develop and maintain good relationships with physicians, hospitals and other health care providers; the impact of modifications to our operations and processes, including those in our disability business; our ability to identify potential strategic acquisitions or transactions and realize the expected benefits of such transactions; the substantial level of government regulation over our business and the potential effects of new laws or regulations, or changes in existing laws or regulations; the outcome of litigation, regulatory audits, including the CMS review and sanctions, investigations and actions and/or guaranty fund assessments; uncertainties surrounding participation in government-sponsored programs such as Medicare; the effectiveness and security of our information technology and other business systems; and unfavorable industry, economic or political conditions, including foreign currency movements; any changes in general economic and/or industry specific conditions, as well as more specific risks and uncertainties discussed in our most recent report on Form 10-K and subsequent reports on Forms 10-Q and 8-K available on the Investor Relations section of www.cigna.com. You should not place undue reliance on forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance or results, and are subject to risks, uncertainties and assumptions that are difficult to predict or quantify. Cigna undertakes no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as may be required by law."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CI",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\CI_0000701221_EX991_20170214_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:12:33.245017"
+}

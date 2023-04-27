@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000006769",
+    "sec_company_name": "APACHE CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20201231",
+    "sec_filing_date": "20210226",
+    "sec_changed_date": "20210225",
+    "sec_accepted_date": "20210225202042",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6769/000167337921000007/0001673379-21-000007-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6769/000167337921000007/0001673379-21-000007.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\APA_0000006769_EX991_20201231_EX-99_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "62439 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 54537,
+    "endpoints": [
+        "apachecorporation-totala   ",
+        "PETROLEUM RESERVES STATUS DEFINITIONS AND GUIDELINES Page 2 RYDER SCOTT COMPANY PETROLEUM CONSULTANTS Improved recovery reserves are considered producing only after the improved recovery project is in operation. Developed Non-Producing Developed Non-Producing Reserves include shut-in and behind-pipe Reserves. Shut-In Shut-in Reserves are expected to be recovered from: (1) completion intervals that are open at the time of the estimate but which have not yet started producing; (2) wells which were shut-in for market conditions or pipeline connections; or (3) wells not capable of production for mechanical reasons. Behind-Pipe Behind-pipe Reserves are expected to be recovered from zones in existing wells that will require additional completion work or future re-completion before start of production with minor cost to access these reserves. In all cases, production can be initiated or restored with relatively low expenditure compared to the cost of drilling a new well. UNDEVELOPED RESERVES (SEC DEFINITIONS) Securities and Exchange Commission Regulation S-X §210.4-10(a)(31) defines undeveloped oil and gas reserves as follows: Undeveloped oil and gas reserves are reserves of any category that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. (i) Reserves on undrilled acreage shall be limited to those directly offsetting development spacing areas that are reasonably certain of production when drilled, unless evidence using reliable technology exists that establishes reasonable certainty of economic producibility at greater distances. (ii) Undrilled locations can be classified as having undeveloped reserves only if a development plan has been adopted indicating that they are scheduled to be drilled within five years, unless the specific circumstances, justify a longer time. (iii) Under no circumstances shall estimates for undeveloped reserves be attributable to any acreage for which an application of fluid injection or other improved recovery technique is contemplated, unless such techniques have been proved effective by actual projects in the same reservoir or an analogous reservoir, as defined in paragraph (a)(2) of this section, or by other evidence using reliable technology establishing reasonable certainty."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "APA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0012\003\APA_0000006769_EX991_20201231_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 12,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 16:50:45.547561",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:07:13.549354"
+}

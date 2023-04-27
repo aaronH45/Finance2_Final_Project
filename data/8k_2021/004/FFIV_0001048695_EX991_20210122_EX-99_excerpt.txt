@@ -1,0 +1,65 @@
+Exhibit 99.1
+
+Rob Gruening
+
+ Director, Corporate Communications
+
+ F5
+
+ (206) 272 6208
+
+ r.gruening@f5.com 
+
+Suzanne DuLong
+
+ VP, Investor Relations
+
+ F5
+
+ (206) 272-7049
+
+ s.dulong@f5.com 
+
+Holly Lancaster
+
+ WE Communications
+
+ (415) 547-7054
+
+ hluka@we-worldwide.com 
+
+F5 Completes Acquisition of Volterra 
+
+Combination to create the first Edge 2.0 platform for enterprises and service providers 
+
+SEATTLE, JANUARY 25, 2021 – F5 Networks (NASDAQ: FFIV), the leader in application security and delivery, today announced that it has completed the acquisition of Volterra, the first universal edge-as-a-service platform. With the addition of Volterra’s technology, F5 is creating an edge platform built for enterprises and service providers that will be security-first and app-driven with unlimited scale. 
+
+“I am incredibly excited to welcome Volterra to the F5 family and get to work bringing Edge 2.0—a key part of our Adaptive Applications vision—to customers,” said François Locoh-Donou, F5 President and CEO. “Joining forces, we will deliver the enterprise-grade features, including world-class security and scale, that have been missing from the edge until now.” 
+
+“Current edge approaches were not designed with enterprises in mind,” said Ankur Singla, founder of Volterra. “When Harshad and I started Volterra, we knew the edge would need to be delivered with the scale of the public clouds, but with management and security integrated with the data centers where so many enterprise apps still live. Given F5’s leadership in Adaptive Applications and their vast enterprise customer base, I could not imagine a better partner to empower customers’ business transformation through modern apps.” 
+
+Volterra’s unique multi-cloud technology solves key edge and security problems and has allowed it to quickly gain more than fifty enterprise customers, including three of the top fifteen global telcos. 
+
+“We are excited to work with Volterra to architect an unprecedented edge computing environment across our 5G network,” said Keiichi Makizono, SVP and CIO, SoftBank Corp. “Volterra has demonstrated that it solves critical operational challenges within existing telco cloud service offerings, increasing operator efficiency and revenue streams while delivering a cloud-native experience that will drive developer adoption.” 
+
+The F5+Volterra Edge 2.0 Platform  
+
+The modern edge has been evolving for more than twenty years. The F5+Volterra Edge 2.0 platform will be designed to address challenges found with current edge solutions that are built on CDNs and have limited security features. This new enterprise-focused edge is security-first and app-driven, with unlimited scale. 
+
+  •   Security-first. The sophistication of cybercriminals and nation states has increased to the point that commodity security is no longer capable of effectively protecting enterprises. F5+Volterra’s Edge 2.0 platform will deliver the full range of F5’s industry-leading security products in a SaaS model. F5’s AI technology for fraud and abuse protection—the primary line of cyberdefense for the majority of the largest banks, airlines, and federal agencies—will be made easily deployable by any enterprise.     
+
+  •   App-driven. The edge should meet the requirements of the app, not the other way around. The Volterra platform is based on industry-standard containers, enabling enterprises to “build once, deploy globally,” rather than rewriting code based on a closed edge provider’s constraints. F5 simplifies operations to accelerate time-to-market and lower cost of ownership, powering more than 70% of the world’s top 10,000 websites and 48 of the Fortune 50.     
+
+  •   Unlimited scale. Third-party CDNs cannot match the scale and capital investment of the public clouds of Amazon, Microsoft, and Google; nor can a single public cloud match the scale of all clouds combined. The F5+Volterra Edge 2.0 platform represents the first open edge architecture, enabling DevOps and developer teams to seamlessly shift workloads across clouds and even to data centers, without reimplementation or retooling, enabling the largest scale and best performance possible.     
+
+Additional Information  
+
+Extending Adaptive Applications to the Edge – Blog from Kara Sprague, EVP and GM of BIG-IP at F5 
+
+About F5 
+
+F5 (NASDAQ: FFIV) is a multi-cloud application security and delivery company that enables our customers—which include the world’s largest enterprises, financial institutions, service providers, and governments—to bring extraordinary digital experiences to life. For more information, go to f5.com. You can also follow @F5 on Twitter or visit us on LinkedIn and Facebook for more information about F5, its partners, and technologies. 
+
+# # # 
+
+Source: F5 Networks

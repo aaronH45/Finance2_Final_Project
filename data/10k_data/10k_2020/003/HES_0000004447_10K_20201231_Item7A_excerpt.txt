@@ -1,0 +1,31 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+In the normal course of our business, we are exposed to commodity risks related to changes in the prices of crude oil, NGL, and natural gas as well as changes in interest rates and foreign currency values. In the disclosures that follow, financial risk management activities refer to the mitigation of these risks through hedging activities.
+
+Controls: We maintain a control environment under the direction of our Chief Risk Officer. Controls over instruments used in financial risk management activities include volumetric and term limits. Our Treasury department is responsible for administering and monitoring foreign exchange rate and interest rate hedging programs using similar controls and processes, where applicable. Hedging strategies are reviewed annually by the Audit Committee of the Board of Directors.
+
+Instruments: We primarily use forward commodity contracts, foreign exchange forward contracts, futures, swaps, and options in our risk management activities. These contracts are generally widely traded instruments with standardized terms. The following describes these instruments and how we use them:
+
+•Swaps: We use financially settled swap contracts with third parties as part of our financial risk management activities. Cash flows from swap contracts are determined based on underlying commodity prices or interest rates and are typically settled over the life of the contract.
+
+•Forward Foreign Exchange Contracts: We enter into forward contracts, primarily for the British Pound, Danish Krone, Canadian Dollar and Malaysian Ringgit, which commit us to buy or sell a fixed amount of those currencies at a predetermined exchange rate on a future date.
+
+•Exchange-traded Contracts: We may use exchange-traded contracts, including futures, on a number of different underlying energy commodities. These contracts are settled daily with the relevant exchange and may be subject to exchange position limits.
+
+•Options: Options on various underlying energy commodities include exchange-traded and third-party contracts and have various exercise periods. As a seller of options, we receive a premium at the outset and bear the risk of unfavorable changes in the price of the commodity underlying the option. As a purchaser of options, we pay a premium at the outset and have the right to participate in the favorable price movements in the underlying commodities.
+
+Financial Risk Management Activities
+
+We have outstanding foreign exchange contracts with notional amounts totaling $163 million at December 31, 2020 that are used to reduce our exposure to fluctuating foreign exchange rates for various currencies. The change in fair value of foreign exchange contracts from a 10% strengthening or weakening in the U.S. Dollar exchange rate is estimated to be a gain or loss of less than $5 million, respectively, at December 31, 2020.
+
+At December 31, 2020, our total long-term debt, which was substantially comprised of fixed-rate instruments, had a carrying value of $8,296 million and a fair value of $9,647 million. A 15% increase or decrease in interest rates would decrease or increase the fair value of debt by approximately $400 million or $430 million, respectively. Any changes in interest rates do not impact our cash outflows associated with fixed-rate interest payments or settlement of debt principal, unless a debt instrument is repurchased prior to maturity.
+
+At December 31, 2020, we had WTI put options with an average monthly floor price of approximately $45 per barrel for 75,000 bopd for 2021. As of December 31, 2020, an assumed 10% increase in the forward WTI crude oil prices used in determining the fair value of our WTI put options would reduce the fair value of these derivative instruments by approximately $20 million, while an assumed 10% decrease in the same crude oil prices would increase the fair value of these derivative instruments by approximately $30 million. In the first quarter of 2021, we increased the average monthly floor price of 75,000 bopd of WTI put option contracts from approximately $45 per barrel to $50 per barrel for the remainder of 2021. We also purchased additional WTI put options with an average monthly floor price of $50 per barrel for 45,000 bopd and Brent put options with an average monthly floor price of $55 per barrel for 30,000 bopd. As a result, we now have total purchased WTI put options of 120,000 bopd with an average monthly floor price of $50 per barrel and total purchased Brent put options of 30,000 bopd with an average monthly floor price of $55 per barrel for the remainder of 2021.
+
+We have outstanding Brent crude oil swap contracts associated with the 4.2 million barrels stored on two VLCCs at year-end. As of December 31, 2020, an assumed 10% increase in the forward Brent crude oil prices used in determining the fair value of our Brent swaps would reduce the fair value of these derivative instruments by approximately $20 million, while an assumed 10% decrease in the same crude oil prices would increase the fair value of these derivative instruments by approximately $20 million.
+
+See Note 20, Financial Risk Management Activities in the Notes to Consolidated Financial Statements for further details.
+
+49
+
+Item 8. Financial Statements and Supplementary Data

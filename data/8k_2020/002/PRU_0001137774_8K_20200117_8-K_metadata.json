@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001137774",
+    "sec_company_name": "PRUDENTIAL FINANCIAL INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200117",
+    "sec_filing_date": "20200117",
+    "sec_changed_date": "20200117",
+    "sec_accepted_date": "20200117161744",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1137774/000113777420000003/0001137774-20-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1137774/000113777420000003/0001137774-20-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PRU_0001137774_8K_20200117_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "43241 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3057,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "Title: Senior Vice President and Principal Accounting Officer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "PRU",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\PRU_0001137774_8K_20200117_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:38:46.473278"
+}

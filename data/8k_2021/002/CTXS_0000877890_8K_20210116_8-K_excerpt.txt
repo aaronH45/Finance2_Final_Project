@@ -1,0 +1,139 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+   CITRIX SYSTEMS INC false 0000877890        0000877890   2021-01-16 2021-01-16      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+PURSUANT TO SECTION 13 OR 15(d) 
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Date of Report (Date of Earliest Event Reported): January 16, 2021 
+
+ CITRIX SYSTEMS, INC.  
+
+(Exact name of Registrant as specified in its Charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+851 West Cypress Creek Road 
+
+Fort Lauderdale, Florida 33309 
+
+(Address of Principal Executive Offices) (Zip Code) 
+
+Telephone: (954) 267-3000 
+
+(Registrant’s Telephone Number, Including Area Code) 
+
+Not Applicable 
+
+(Former Name or Former Address, If Changed Since Last Report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (seeGeneral Instruction A.2. below): 
+
+   ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+   ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+  [DATA_TABLE_REMOVED] 
+
+  [DATA_TABLE_REMOVED] 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934. 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+ Item 1.01.  
+
+Entry into a Material Definitive Agreement.  
+
+On January 16, 2021, Citrix Systems, Inc., a Delaware corporation (“Citrix”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among Citrix, Wrangler Topco, LLC, a Delaware limited liability company (“Wrangler”), Wallaby Merger Sub, LLC, a Delaware limited liability company and a wholly-owned subsidiary of Citrix (“Merger Sub”), and Vista Equity Partners Management, LLC (“Vista”), solely in its capacity as the representative of the equityholders of Wrangler, pursuant to which Merger Sub will merge with and into Wrangler (the “Merger”), with Wrangler surviving the Merger and becoming a wholly-owned subsidiary of Citrix. Wrangler is the parent entity of Wrike, Inc., a company offering a market-leading born-in-the-cloud Collaborative Work Management platform.  
+
+Subject to the terms and conditions of the Merger Agreement, upon the consummation of the Merger, Citrix will acquire all of the equity interests of Wrangler for $2.25 billion in cash, subject to certain adjustments as set forth in the Merger Agreement (the “Merger Consideration”). Pursuant to the terms of the Merger Agreement, at the effective time of the Merger, (i) each outstanding equity unit of Wrangler, each outstanding and vested option to acquire equity units of Wrangler and each outstanding and unvested restricted stock unit of Wrangler will be cancelled and converted into the right to receive a portion of the Merger Consideration; and (ii) each unvested option to acquire equity units of Wrangler will be cancelled and converted into an option to acquire shares of common stock of Citrix, in each case in accordance with the terms of the Merger Agreement.  
+
+Citrix, Wrangler and Merger Sub each made customary representations, warranties and covenants in the Merger Agreement, including covenants from Wrangler to conduct the Wrangler business in the ordinary course and not to take certain actions during the period between signing and closing of the Merger. Additionally, upon consummation of the Merger, $35.0 million of the Merger Consideration will be held in a third party escrow for up to one year following the consummation of the Merger to fund (1) potential payment obligations of the former equityholders of Wrangler with respect to post-closing adjustments to the Merger Consideration and (2) potential post-closing indemnification obligations of the former equityholders of Wrangler, in each case in accordance with the terms of the Merger Agreement.  
+
+Completion of the Merger is subject to various closing conditions, including, among other things, the expiration or termination of required waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. The Merger Agreement contains certain customary termination rights for Citrix and Wrangler, including the right to terminate if the Merger is not consummated on or before June 30, 2021.  
+
+The Merger Agreement and the transactions contemplated thereby, including the Merger, have been approved by the Board of Directors of Citrix and the Board of Managers of Wrangler, and subsequent to the execution of the Merger Agreement, by the requisite approval of Wrangler’s equityholders.  
+
+The representations, warranties and covenants contained in the Merger Agreement have been made solely for the benefit of the parties thereto. In addition, such representations, warranties and covenants (1) have been made only for purposes of the Merger Agreement, (2) have been qualified by confidential disclosures made in confidential disclosure schedules delivered in connection with the Merger Agreement, (3) are subject to materiality qualifications contained in the Merger Agreement which may differ from what may be viewed as material by investors, (4) were made only as of the date of the Merger Agreement, the closing date of the Merger or such other date as is specified in the Merger Agreement, and (5) have been included in the Merger Agreement for the purpose of allocating risk between the contracting parties rather than establishing matters as fact. Accordingly, the Merger Agreement and the related description are included with this filing only to provide investors with information regarding the terms of the Merger Agreement, and not to provide investors with any other factual information regarding the parties thereto or their respective businesses or to modify or supplement any factual disclosures about Citrix in its reports filed with the U.S. Securities and Exchange Commission. Investors should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties to the Merger Agreement or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in Citrix’s public disclosures.  
+
+The foregoing description of the Merger and the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement. A copy of the Merger Agreement is attached hereto as Exhibit 2.1 and incorporated into this Item 1.01 by reference.  
+
+2   
+
+Bridge Facility and Take-Out Facility Commitment Letter  
+
+On January 16, 2021, Citrix entered into a bridge facility and take-out facility commitment letter (the “Commitment Letter”) pursuant to which JPMorgan Chase Bank, N.A., has (1) committed to provide a senior unsecured 364-day term loan facility in an aggregate principal amount of $1.45 billion to finance the cash consideration for the Merger in the event that the permanent debt financing is not available on or prior to the Closing and (2) agreed to use commercially reasonably efforts to assemble a syndicate of lenders to provide the necessary commitments for the senior term loan facility. Citrix currently expects to replace the bridge facility prior to the closing of the Merger with permanent financing, which may include the issuance of debt securities and a senior term loan facility. The commitment is subject to customary terms and conditions precedent for such borrowing as set forth in the Commitment Letter, including, among others, the execution and delivery by Citrix of definitive documentation consistent with the Commitment Letter. The foregoing description of the Commitment Letter does not purport to be complete and is qualified in its entirety by reference to the full text of the Commitment Letter, which is filed hereto as Exhibit 10.1 and is incorporated into this Item 1.01 by reference.  
+
+ Item 2.02.  
+
+Results of Operations and Financial Condition.  
+
+On January 19, 2021, Citrix announced its financial results for the quarter and fiscal year each ended December 31, 2020 by issuing an earnings letter. A copy of the earnings letter is attached hereto as Exhibit 99.1 and is incorporated into this Item 2.02 by reference.  
+
+The information under this Item 2.02, including the earnings letter attached hereto as Exhibit 99.1, is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.  
+
+ Item 7.01  
+
+Regulation FD.  
+
+On January 19, 2021, Citrix issued a press release in connection with the entry into the Merger Agreement. A copy of the press release is attached hereto as Exhibit 99.2.  
+
+The information under this Item 7.01, including the press release attached hereto as Exhibit 99.2, is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.  
+
+ Item 8.01.  
+
+Other Events.  
+
+On January 19, 2021, Citrix announced that its Board of Directors declared a quarterly cash dividend of $0.37 per share. This dividend is payable on March 26, 2021 to all shareholders of record at the close of business on March 12, 2021. Future dividends will be subject to approval by the Citrix’s Board of Directors.  
+
+3   
+
+Item 9.01 Financial Statements and Exhibits.  
+
+  [DATA_TABLE_REMOVED] 
+
+ †  
+
+Schedules (or similar attachments) have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant hereby undertakes to furnish supplementally copies of any of the omitted schedules (or similar attachments) upon request by the SEC.  
+
+ +  
+
+Furnished herewith  
+
+ *  
+
+Filed herewith  
+
+Forward-Looking Statements  
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. The forward-looking statements do not constitute guarantees of future performance. Those statements, which are not strictly historical statements, including, without limitation, statements regarding the proposed business combination; expectations regarding new debt; and the expected timing of the proposed transactions, constitute forward-looking statements. Such forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from those anticipated by the forward-looking statements, including, without limitation, the ability of Citrix and Wrangler to close the announced transaction; the possibility that the closing of the transaction may be delayed; potential disruptions to Citrix’s and Wrangler’s operations, distraction of management and other risks related to Citrix’s integration of Wrangler’s business, team, and technology; risks related to the debt financing of the acquisition consideration; the impact of the global economy, political environment, and uncertainty in IT spending; and other risks described in Citrix’s filings with the SEC, including under the caption “Risk Factors” in Citrix’s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Citrix assumes no obligation to update any forward-looking information contained in this Current Report on Form 8-K.  
+
+4   
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

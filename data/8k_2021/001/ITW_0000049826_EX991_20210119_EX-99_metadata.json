@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000049826",
+    "sec_company_name": "ILLINOIS TOOL WORKS INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210119",
+    "sec_filing_date": "20210119",
+    "sec_changed_date": "20210119",
+    "sec_accepted_date": "20210119084337",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/49826/000004982621000002/0000049826-21-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/49826/000004982621000002/0000049826-21-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\ITW_0000049826_EX991_20210119_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "16291 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 6182,
+    "endpoints": [
+        "Document",
+        "This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such forward-looking statements may contain words and terms such as: “anticipate,” “could,” “believe,” “continue,” “expect,” “estimate,” “forecast,” “ongoing,” “project,” “seek,” “predict,” “target,” “will,” “intend,” “plan,” “look ahead,” “optimistic,” “potential,” “guidance,” “may,” “should,” or “would” and other words and terms of similar meaning. These statements are only predictions, and such forward-looking statements are based on current expectations and involve inherent risks and uncertainties, including factors that could delay, divert or change any of them, and could cause actual outcomes and results to differ materially from current expectations. No forward-looking statement can be guaranteed. Risks and uncertainties include, but are not limited to: (i) the risk that the proposed merger between Amphenol and MTS, or the proposed subsequent sale of the MTS Test & Simulation business to ITW, may not be completed in a timely manner or at all, and (ii) unanticipated difficulties or expenditures relating to the proposed transaction, the response of business partners and competitors to the announcement of the proposed transaction, potential disruptions to current plans and operations and/or potential difficulties in employee retention as a result of the announcement and pendency of the proposed transaction. The foregoing list of risk factors is not exhaustive. Forward-looking statements in this press release should be evaluated together with the many uncertainties that affect Amphenol’s and ITW’s respective businesses, particularly those identified in the risk factor discussion in Amphenol’s Annual Report on Form 10-K for the year ended December 31, 2019, and its subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K and in ITW’s most recent Annual Report on Form 10-K for the year ended December 31, 2019 and its subsequent Quarterly Reports filed on Form 10-Q with the SEC, as well as other documents that may be filed by Amphenol and/or ITW from time to time with the SEC. Neither Amphenol nor ITW undertakes any obligation to publicly update any forward-looking statement, whether as a result of new information, future events or otherwise. The forward-looking statements made in this communication relate only to events as of the date on which the statements are made."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ITW",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\ITW_0000049826_EX991_20210119_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:54:06.700024"
+}

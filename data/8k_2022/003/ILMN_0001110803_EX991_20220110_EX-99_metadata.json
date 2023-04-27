@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001110803",
+    "sec_company_name": "ILLUMINA, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220110",
+    "sec_filing_date": "20220111",
+    "sec_changed_date": "20220111",
+    "sec_accepted_date": "20220111172344",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1110803/000111080322000003/0001110803-22-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1110803/000111080322000003/0001110803-22-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\ILMN_0001110803_EX991_20220110_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "43699 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 39887,
+    "endpoints": [
+        "exhibit991transcript2022   ",
+        "JANUARY 10, 2022 / 8:45PM, ILMN.OQ - Illumina Inc at JPMorgan Healthcare Conference Joshua J. Ofman - GRAIL, Inc. - Chief Medical Officer & Head of External Affairs Sure. Well, PATHFINDER 2 is another prospective interventional study that is separate and very distinct from the original PATHFINDER study that we did that the interim results were shared at ASCO in 2021. It's a large study, and it is a return of result study. It's going to be 10,000 individuals. So it will be larger than PATHFINDER 1. It was granted an IDE, which is the investigational device exemption by the FDA. So they are fully approved in the study. And we're enrolling a much more diverse and representative population in this study. It's largely a safety study as well as the effectiveness under real-world conditions. So we've already begun enrollment, and it's also going to have longer follow-up than the original PATHFINDER study. We'll have 3 years of follow-up rather than 1. And so that's where we are today with PATHFINDER 2. Tycho W. Peterson - JPMorgan Chase & Co, Research Division - Senior Analyst And maybe one final one before we run out of time here. Just on the initial launch on Galleri, you've talked about going after self-insured employers' IDNs. Have you had any CMS or commercial payer conversations around coverage at this point? Joshua J. Ofman - GRAIL, Inc. - Chief Medical Officer & Head of External Affairs Sure. We have. We've been very encouraged by the positive reception to the value proposition of Galleri, particularly by payers. As you know, CMS does not cover preventive services or screening tests, which is why there's been a big push by stakeholders in Washington, D.C., working with Congress to introduce new legislation. So there's been an enormous amount of work that's been done. We've met with CMS multiple times about this, but they need to be granted the authority by Congress to cover a multi-cancer early-detection test like that. And now there's broad bipartisan support about modernizing Medicare with the Medicare Coverage Act for multi-cancer early detection. And this would be, once tested or approved by the FDA, it would give CMS the authority to provide coverage. We have over 175 members of Congress now who've co-sponsored the legislation. It's bipartisan, and there's well over 300 important stakeholder groups also supporting the legislation. So that's a big part of this. We've also been pleasantly encouraged by the reception by commercial payers and large self-insured employers who, as you know, are also payers. And I think Francis mentioned some of the partnerships, and there will be more to come over the coming months. Tycho W. Peterson - JPMorgan Chase & Co, Research Division - Senior Analyst Great. Well, I think we're going to leave it at that. We ran a minute over. So thank you for taking the time. This is a great overview and... Francis A. deSouza - Illumina, Inc. - CEO & Director Thank you, Tycho. Tycho W. Peterson - JPMorgan Chase & Co, Research Division - Senior Analyst Thank you all. Francis A. deSouza - Illumina, Inc. - CEO & Director Thank you. Tycho W. Peterson - JPMorgan Chase & Co, Research Division - Senior Analyst Thanks. 5080735-2022-01-11T20:25:59.257 JANUARY 10, 2022 / 8:45PM, ILMN.OQ - Illumina Inc at JPMorgan Healthcare Conference 5080735-2022-01-11T20:25:59.257"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "ILMN",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\003\ILMN_0001110803_EX991_20220110_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:28:14.409390"
+}

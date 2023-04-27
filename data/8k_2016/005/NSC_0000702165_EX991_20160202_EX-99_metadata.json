@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000702165",
+    "sec_company_name": "NORFOLK SOUTHERN CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160202",
+    "sec_filing_date": "20160202",
+    "sec_changed_date": "20160202",
+    "sec_accepted_date": "20160202102853",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/702165/000070216516000155/0000702165-16-000155-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/702165/000070216516000155/0000702165-16-000155.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\NSC_0000702165_EX991_20160202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "13185 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9654,
+    "endpoints": [
+        "nsbrochure_020216  ",
+        "Forward-Looking Statements Certain statements in this communication are “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, as amended. These statements relate to future events or the Company’s future ﬁ nancial performance and involve known and unknown risks, uncertainties and other factors that may cause the actual results, levels of activity, performance or achievements of the Company or its industry to be materially different from those expressed or implied by any forward-looking statements. In some cases, forward-looking statements can be identiﬁ ed by terminology such as “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “project,” “consider,” “predict,” “potential” or other comparable terminology. The Company has based these forward- looking statements on management’s current expectations, assumptions, estimates, beliefs and projections. While the Company believes these expectations, assumptions, estimates and projections are reasonable, such forward-looking statements are only predictions and involve known and unknown risks and uncertainties, many of which involve factors or circumstances that are beyond the Company’s control. These and other important factors, including those discussed under “Risk Factors” in the Company’s Form 10-K for the year ended December 31, 2014, as well as the Company’s subsequent ﬁ lings with the Securities and Exchange Commission, may cause actual results, performance or achievements to differ materially from those expressed or implied by these forward-looking statements. The forward-looking statements in this communication are made only as of the date they were ﬁ rst issued, and unless otherwise required by applicable securities laws, the Company disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Copies of Norfolk Southern Corporation’s communication and additional information about the Company are available at www.norfolksouthern.com or you can contact the Norfolk Southern Corporation Investor Relations Department by calling 757-629-2861. Important Additional Information and Where to Find It Norfolk Southern Corporation (the “Company”), its directors and certain of its executive ofﬁ cers and employees may be deemed to be participants in the solicitation of proxies from shareholders in connection with the Company’s 2016 Annual Meeting of Shareholders (the “2016 Annual Meeting”). The Company plans to ﬁ le a proxy statement with the Securities and Exchange Commission (the “SEC”) in connection with the solicitation of proxies for the 2016 Annual Meeting (the “2016 Proxy Statement”). Additional information regarding the identity of these potential participants, none of whom owns in excess of 1 percent of the Company’s shares of Common Stock, and their direct or indirect interests, by security holdings or otherwise, will be set forth in the 2016 Proxy Statement and other materials to be ﬁ led with the SEC in connection with the 2016 Annual Meeting. This information can also be found in the Company’s deﬁ nitive proxy statement for its 2015 Annual Meeting of Shareholders (the “2015 Proxy Statement”), ﬁ led with the SEC on March 25, 2015, or the Annual Report on Form 10-K for the year ended December 31, 2014, ﬁ led with the SEC on February 11, 2015 (the “Form 10-K”). To the extent holdings of the Company’s securities by such potential participants have changed since the amounts printed in the 2015 Proxy Statement, such changes have been or will be reﬂ ected on Statements of Ownership and Change in Ownership on Forms 3 and 4 ﬁ led with the SEC. SHAREHOLDERS ARE URGED TO READ THE 2016 PROXY STATEMENT (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO), THE ACCOMPANYING WHITE PROXY CARD AND ANY OTHER RELEVANT DOCUMENTS THAT THE COMPANY HAS FILED OR WILL FILE WITH THE SEC CAREFULLY IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Shareholders will be able to obtain, free of charge, copies of the 2016 Proxy Statement (when ﬁ led), and any other documents (including the WHITE proxy card) ﬁ led or to be ﬁ led by the Company with the SEC in connection with the 2016 Annual Meeting at the SEC’s website (http://www.sec.gov) or at the Company’s website (http://www.norfolksouthern.com) or by writing to Denise Hutson, Corporate Secretary, Norfolk Southern Corporation, Three Commercial Place, Norfolk, Virginia 23510. www.norfolksouthern.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NSC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\005\NSC_0000702165_EX991_20160202_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:58:50.559456"
+}

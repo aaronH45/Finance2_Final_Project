@@ -1,0 +1,313 @@
+Exhibit   
+
+TME: JANUARY 08, 2018 / 11:30PM GMT
+
+C O R P O R A T E P A R T I C I P A N T S
+
+Francis A. deSouza Illumina, Inc. - CEO, President & Director
+
+Sam Samad Illumina, Inc. - Chief Financial Officer
+
+C O N F E R E N C E C A L L P A R T I C I P A N T S
+
+Tycho W. Peterson JP Morgan Chase & Co, Research Division - Senior Analyst
+
+P R E S E N T A T I O N
+
+Tycho W. Peterson - JP Morgan Chase & Co, Research Division - Senior Analyst
+
+Okay, good afternoon. We're going to go ahead and get started. I'm Tycho Peterson from the Life Science Tools team at J.P. Morgan. It's my pleasure to introduce our next company this afternoon, Illumina. Two quick things before I turn it over to Francis. The breakout will be in the Georgian Room across the hall. And then Francis has graciously offered to chair a panel today at 5:00 p.m. up in the California West Room. So that should be very interesting as well.
+
+And with that, let me turn it over to Francis.
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Good afternoon, everyone. And thank you, Tycho and the J.P. Morgan team, for hosting this event.
+
+Before I start, I'd like to remind you that our presentation today contains forward-looking statements. You should refer to our SEC filings for a discussion of the risks and uncertainties that could cause results to be materially different from our current expectations. The financial results I'm about to share represent unaudited numbers that are currently our best estimates. And I will refer to non-GAAP measures that are reconciled to GAAP measures on our website.
+
+Finally, the information discussed today is qualified in its entirety by the proxy statement that Pacific Biosciences has filed with the SEC.
+
+Illumina delivered its 20th year of sequential revenue growth in 2018, with revenue of approximately $3.3 billion, up 21% from 2017. Sequencing consumables grew about 23%. Sequencing systems grew about 10% and microarrays grew about 22%. Our fourth quarter revenue grew 11%year-over-year to approximately $865 million. It was our strongest sequencing system revenue quarter ever, including record NovaSeq shipments.
+
+Looking to 2019, we're expecting revenue growth in the range of 13% to 14%. We expect our sequencing business to grow in the mid-teens, with sequencing consumables expected to grow above 20%, reflecting the strength of our product portfolio and expanding market opportunities.
+
+We're forecasting low single-digit growth in our arrays business in 2019. Our outlook reflects a cautious view of the consumer opportunity as we start the year, although we expect this business to reaccelerate as consumer health and international opportunities ramp up. Overall, we expect2019 revenue of between $3.76 billion and $3.8 billion, representing an increase of approximately $450 million at the midpoint.
+
+Following record system revenue in the fourth quarter and reflecting expected seasonality, we expect total revenue to be more back-end loaded in 2019 than it was in 2018. We expect GAAP EPS in the range of $6.07 and $6.17 and non-GAAP EPS in the range of $6.50 and $6.60. This excludes the expected impact of our acquisition of Pacific Biosciences, which we continue to expect to close in the middle of the year.
+
+Building on 2 decades of innovation, researchers and clinicians are continuing to leverage Illumina's technology to imagine a new possible: to advance science, transform medicine and profoundly impact lives. Researchers are leveraging Illumina's technologies to make foundational biological discoveries, which to date has led to more than 220,000 peer-reviewed publications. Clinicians are embracing next-generation sequencing or NGS for new and expanding suite of applications from noninvasive prenatal screening to liquid biopsy.
+
+These NGS-based tests allow comprehensive, accurate and cost-effective detection and treatment of disease. These advances profoundly impact lives, ending multiyear diagnostic odysseys for some and offering personalized and actionable insights for others. This explosion of sequencing across a broad range of applications has been enabled by the dramatic decrease in the cost of sequencing brought about in large part by Illumina's innovations.
+
+Yet we are just at the start of the NGS story. Less than 0.01% of all species have ever had their DNA sequenced. Less than 0.02% of humans have had their genome sequenced. And we haven't yet deciphered the function of 99% of the variants discovered in the human genome. As researchers and clinicians understand and apply more of the genome, the ubiquity and impact of genomics will dwarf everything we have seen to date.
+
+Our customers, representing an active installed base of more than 13,000 sequencers at 6,300 organizations in 90 countries, will drive the next chapters of NGS. And they'll do this together. Over 5,000 Illumina systems are connected to our BaseSpace cloud, creating a global community of more than 28,000 active users and 3,700 developers who have built over 8,600 custom sequencing workflows on BaseSpace.
+
+Our customers are generating sequencing data at an unprecedented rate and scale. In 2018, over 100 petabytes of data were generated across our systems, a record for sequencing data generated in a single year. For reference, this is approximately 25x the size of the entire Netflix catalog.About half of the data generated in 2018 was on NovaSeq, the world's most powerful sequencer, which delivers genomic data faster and more cost-effectively than previously possible.
+
+Customers are embracing this power to sequence larger cohorts more broadly and deeply. Since its launch 2 years ago, NovaSeq users have sequenced more than 600,000 whole-genome equivalents. That's 3 times as many as were sequenced on the HiSeq X in its first 2 years of launch.As a result, NovaSeq revenue has ramped faster than any other platform in Illumina's history. And we are on track to exceed $1 billion in total shipments in just over half the time it took HiSeq X. And we're still at the early stages of adoption.
+
+We placed more NovaSeqs in 2018 than we did in 2017, including more than 100 units in the fourth quarter alone, a record. To date, new to Illumina or benchtop conversions represent approximately 30% of our NovaSeq installed base. And 3/4 of our HiSeq customers have yet to purchase a NovaSeq System. This group represents approximately 630 HiSeq customers, supporting our confidence in a steady, multiyear transition.
+
+NovaSeq's diverse and flexible flow cell menu, with outputs ranging from 500 gigabases to 6 terabases, once again enabled record NovaSeqpull-through in the fourth quarter. The range of flow cells allows customers to optimally match combinations of output, runtime and economics to their applications. Ginkgo Bioworks, for example, uses S1 for their synthetic biology work. Invitae uses the S2 for exome sequencing, and the Sanger Institute uses S4 for its large-scale whole-genome sequencing for the UK Biobank.
+
+Our newest flow cell, S Prime, ships next month and will provide the fastest runtime, lowest run cost and longest reads on the NovaSeq platform.S Prime's combination of functionality and economics exceeds that of our HiSeq 2500 and will enable customers to transition from their legacy systems without sacrificing any capability. Additionally, we expect the S Prime flow cell to increase utilization among existing customers. For example, HudsonAlpha Institute, one of our early access customers, is using this flow cell for immune repertoire profiling.
+
+Looking ahead, we have a myriad of opportunities for innovation in flow cell design and output. NovaSeq's architecture allows for diverse combinations of flow cell parameters, including density, form factor and lane configurations, which provides an open-ended technology road map.
+
+With approximately 3,000 systems in over 70 countries, NextSeq powers a broadening range of research and clinical applications, including NIPT,CRISPR, microbiome and liquid biopsy. The utility of the NextSeq platform is fueling system adoption and increasing utilization rates.
+
+Total NextSeq platform shipments grew more than 25% year-over-year. This included consumable shipment growth of more than 30% with average pull-through consistently at the high end of our $100,000 to $150,000 guided range. In total, the NextSeq family has delivered more than $1.5 billion of shipments since launch and has significant ongoing market potential, especially with an increasing menu of clinical applications and an expanding suite of partners.
+
+Similarly, our benchtop portfolio continues to show strength across a diverse set of customers. We are particularly pleased to note that more than half of our 2018 benchtop shipments were delivered to new-to-Illumina customers. With an active installed base of more than 5,000 unique customers, MiSeq, MiniSeq and iSeq combined delivered 20% year-over-year consumable growth.
+
+We have established several key partnerships to broaden clinical utility of MiSeq and MiniSeq systems. In late August, MiSeqDx received regulatory approval in China, and we're working with 9 additional partners to deliver clinical applications that can be used to inform patient management.We're also working on expanding our Chinese OEM relationships for MiniSeq with several carefully selected partners, including KingMed for oncology and NKY for genetic diseases.
+
+Our newest benchtop system, iSeq, shipped approximately 350 units to more than 40 countries in the first 2 quarters of launch. About half of these were new-to-Illumina customers. The growing list of iSeq applications range from library quality control to metagenomics, targeted resequencing and in-field disease and outbreak monitoring. For example, the University of Nebraska is using iSeq as part of its effort to monitor Ebola outbreaks in the Democratic Republic of Congo.
+
+iSeq's unique combination of accuracy, footprint and portability enables this research to be conducted locally. We continue to be impressed by the range of innovative applications that our customers are identifying for the newest member of our sequencing family. And we expect the application suite of iSeq to expand in 2019, driven in part by new capabilities, including a new kit that we will ship this quarter.
+
+This will enable customers to leverage the ease of use and low capital cost of iSeq for applications that require longer reads. This might include,for example, metagenomics, microbial genome sequencing, food authentication and environmental DNA profiling. The new 2x250 base pair flowcell delivers output of 2 gigabases with greater than 99% raw read accuracy at 20% lower cost per gigabase than current iSeq kits. We expect this combination of features to drive incremental utilization and iSeq placements. As a point of comparison, more than 1/3 of the consumables kit demand for MiSeq is for similar longer read configurations.
+
+Our customers are using Illumina's platforms for a range of vast, growing and emerging applications. And I'd like to take a moment to discuss some of our most exciting opportunities and how they will contribute to combined growth over the next few years.
+
+In NIPT, our VeriSeq CE-IVD customers ordered over 300,000 tests in 2018, up more than 70% from the previous year, highlighting the rapidly growing clinical NIPT opportunity. We will deliver version 2 of our VeriSeq NIPT test in the first half of 2019, adding karyotype resolution across the genome and increasing the number of genetic diseases that can be detected. Standard NIPT tests detect trisomies 13, 18 and 21 as well as sex chromosome abnormalities. Combined, these abnormalities represent a birth incidence of about 0.6%. With a genome-wide screen, VeriSeq NIPT version 2 almost doubles the detection of chromosomal abnormalities, which represents a unique competitive differentiation and expands the value of our test.
+
+Additionally, we will offer smaller kit sizes to meet the needs of lower throughput labs. We are committed to innovation in NIPT and delivering the fastest and easiest to use end-to-end solution.
+
+Building on the success of NIPT, whole-genome sequencing has begun to play a transformative role in diagnosing patients with rare geneticdiseases or RUGD. Rare conditions individually affect a small number of patients, but there are more than 7,000 conditions that, combined, impactover 3% of births or an estimated 4 million babies each year.
+
+In this emerging market, genomic testing is poised to become the standard of care for RUGD patients, although utilization today is still nascent.Reimbursement has made rapid progress in the last 2 years, with more than 147 million patient lives in the U.S. now covered for RUGD whole-exome sequencing. Last week, CMS's final CPT code came into effect, pricing whole-genome sequencing at more than $5,000 for a single genome forRUGD patients. This is a critical benchmark for whole-genome sequencing in the Medicare and Medicaid populations.
+
+As we work to end the diagnostic odyssey of RUGD patients, we're excited to announce a collaboration with Mayo Clinic to develop whole-genome sequencing products that will enable comprehensive genome-wide analysis. Illumina's customers worldwide will be able to rapidly identify disease-causing variants and provide true precision medicine to RUGD patients.
+
+In addition to RUGD, next-generation sequencing is a revolutionary tool for the management of oncology patients. There are an estimated 17million new cancer cases worldwide each year. And today, only a small fraction, likely a low single-digit percentage, of patient tumors are sequenced.In 2018, we saw significant progress in oncology research to support basic discovery and therapy development as well as regulatory approvals and reimbursement of oncology NGS tests that will drive increasing adoption of sequencing as a standard of care in cancer treatment.
+
+Pharma companies are using sequencing to understand therapy response and to stratify patients for clinical trials. For example, NGS is included in many of the 2,250 active clinical trials in immuno-oncology registered in the U.S., driven by the emergence of genomic biomarkers like tumormutational burden or TMB.
+
+In 2018, 5 large gene panels received breakthrough designations or approvals for therapy selection and minimal residual disease assessment, up from 1 in 2017. NCCN and ESMO guidelines now include NGS testing for several types of cancer, including TMB assessment in lung cancer.
+
+We're seeing significant progress in reimbursement. In 2018, 50 million additional U.S. lives gained coverage for NGS panels, bringing the total to over 200 million lives.
+
+Looking forward, the availability of therapies that treat cancers based on molecular profile rather than the cancer's tissue of origin will drive more sequencing of tumors. The FDA's recent approval of Loxo Oncology's larotrectinib as a pan-cancer therapy based on genomic biomarkers is likely the first of more pan-cancer precision oncology therapies to come.
+
+Building on this progress, we believe that a broadly available, standardized oncology testing platform will further increase clinical adoption. With this goal in mind, I'm pleased to announce the availability of TruSight Oncology 500 research-use-only assay. TSO 500 is a pan-cancer RUO assay kit that enables comprehensive tumor profiling. The assay includes biomarkers relevant to immuno and targeted therapies, including the detection of novel fusions such as NTRK and ALK.
+
+We are working with our pharma partners to develop a regulated version of the assay for clinical testing. We're also developing a blood-based version of TSO 500 that can measure TMB, an emerging driver for liquid biopsies.
+
+After a rigorous review of several assays, the Frederick National Laboratory has chosen TSO 500 to support several NCI-sponsored clinical studies.Over the course of a 5-year collaboration with Illumina, liquid biopsies will be assessed for up to 7,000 patient samples. One study will investigate the concordance between results obtained from matched tissue and circulating tumor DNA. This study has the potential to produce one of the largest tissue and ctDNA concordance data sets ever analyzed.
+
+Moving to population genomics. GeL completed sequencing of its 100,000 genomes at the end of last year. In 2019, the U.K. will begin to offer whole-genome sequencing for cancer and genetic disease patients. The world is watching as this national health service becomes the first to offer whole-genome sequencing as standard of care.
+
+Beyond the U.K., we're tracking about 50 population genomic initiatives around the world, many in the early stages of development. In the U.S.,All of Us will begin its multiyear program to genotype and sequence 1 million participants using our NovaSeq System. Additionally, Illumina has developed a custom global diversity array and is making a scientific contribution by supplying this array to the 3 selected genome centers.
+
+Looking abroad, France will launch a pilot program this year for whole-genome and exome sequencing as well as RNA-Seq, ramping up to 235,000samples a year over time. In 2019, we expect several additional countries to develop their programs and begin to scale, including Turkey, 
+
+Israel, Saudi Arabia, Qatar and Singapore. All these initiatives represent exciting opportunities for countries, health systems and even individuals to use genomic information to improve health.
+
+In fact, we believe that consumers all over the world will play a key role in the management of their own health and that consumer genomics will be viewed as an empowering tool to inform health and lifestyle choices. In 2018, nearly 12 million consumer tests were processed on Illumina technology. This is more than the cumulative volume in the previous 3 years. To date, most of these tests have been associated with genealogy.But we saw growing evidence of an emerging consumer health market in 2018.
+
+23andMe, for example, received FDA authorization to include pharmacogenetics information in its reports to consumers. And Mayo Clinic launched a new GeneGuide DNA test on the Helix platform that assesses health and disease risk.
+
+While consumer genomics has been predominantly a U.S. phenomenon, we're seeing an emerging consumer business outside the U.S. In 2018, we saw strong interest in China, South Korea and Japan, with the number of accounts almost doubling in some geographies.
+
+Looking to 2019, we are excited to welcome the PacBio team to Illumina. Combining PacBio's highly accurate long reads and Illumina's highly accurate and scalable short reads will provide researchers and clinicians with a more perfect view of the genome, enhancing their ability to make novel discoveries and broaden clinical utility across a range of applications.
+
+For example, in population sequencing, we expect researchers to leverage PacBio technology to create population-specific reference genomes and Illumina's NovaSeq platforms to apply these insights at scale to the remainder of the population. Combining these complementary strengths, researchers will be able to create comprehensive, accurate databases without compromising economics, scale or speed.
+
+After the deal closes, we will expand the distribution of PacBio's products through our global commercial channel. We will also develop workflows that enable users to simply and economically prepare samples for dual platform use, combine management of the analysis of both data types and integrate their data into a single repository. And we'll bring together the expertise of both development teams and the strengths of each technology to create unique, new products and platforms that set the pace for innovation in our industry.
+
+By adding complementary long read technology to the Illumina portfolio, we are once again pushing the boundaries of what customers can achieve with next-generation sequencing. We will continue to support their efforts to advance science, transform medicine and impact lives.
+
+As we look beyond 2019, we see a multitude of substantial emerging opportunities where next-generation sequencing could play a transformative role: in the early detection of cancer; in the management of cardiovascular disease; across a myriad of infectious diseases; or the microbiome; or neurology, for example. In fact, in the coming years, we expect sequencing to become ubiquitous in research and medicine. The insights we will gain from sequencing, not just thousands but millions of species and not just a million human genomes but hundreds of millions, will lay the foundation for a world in which nearly all diseases will be better understood and the lives of patients much improved. As proud as we are of the role we have played in enabling the advances of the past decade, we are even more excited and energized by the future.
+
+To end, we are at the very beginning.
+
+Q U E S T I O N S A N D A N S W E R S
+
+Unidentified Analyst
+
+Can we maybe start with guidance? You kind of called out a couple of things. You said it would be a back-end loaded year, and you're seeing consumer genomics opportunity. Just touch on those 2 dynamics?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Sure. Sure. So the things -- in case you didn't hear it, the question was can we touch a little bit on guidance and call out some of the dynamics that I talked about during the presentation. So as we talked about 2019, I talked about a few things; that we expect our sequencing business as a whole to grow in the mid-teens, sequencing consumables to grow above 20%. We're seeing real strength in the core sequencing business, and we expect that to continue into 2019. In terms of arrays, we are looking to -- arrays to grow this year in the single digits. And so we said we're taking a cautious view of the consumer market, which is a significant component of the overall array business. It's not the whole array business, but it's a significant component of the array business. And so we said, look, while long term we're very bullish on the consumer genomics opportunity and not only do we expect the U.S. demand to be augmented by the consumer health demand, but we expect over time, a growing international opportunity as well. And we're certainly seeing interest from countries in the Far East like China and Korea and Japan. So we expect it to rebound, but going into this year, we're taking a conservative view of the consumer genomics business. And then in terms of cadence, we said that we expect -- we know from our business, our business is typically back-end loaded. And then especially given the strong sequencing system revenue quarter we had in Q4, we expect this year to be slightly more back-end loaded than '18 was.
+
+Unidentified Analyst
+
+Did the (inaudible) comments that (inaudible) at all on consumer or when you think of all that consumer thing we've been talking (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes, I'm not sure what drove their comment specifically, but it's certainly related to an overall view -- a more conservative view into the consumer business this year.
+
+Unidentified Analyst
+
+And then just one last one. That is the GeL transition to NHS. How do we think about that impacting kind of the (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+There will be a transition that happens in GeL. So as they have wound down their 100,000 genomes projects, they are winding -- they're ramping up the work that they're doing as part of the National Health System. And so there will be a transition period in there. Overall, though, this year,we will start to see other population sequencing initiatives come into play. And so we'll see revenue associated with France ramping up, for example,as well as some of the other initiatives that I talked about. So this year, the story of population sequencing won't just be the U.K., which if you playback a few years ago, it certainly was that population sequencing was GeL. And I think this year, you'll start to see a number of other initiatives layer in. 
+
+Unidentified Analyst
+
+About the NovaSeq selling cycle, I mean, you talked about 25% of HiSeq customers at this point have upgraded. How do you kind of think about pushing into those (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So the question is about the NovaSeq selling cycle. And overall, what we are continuing to see is that NovaSeq will have a multiyear steady upgrade path. That is by design. And we did a number of things around the cadence of how we released flow cells and in sort of only releasing S Prime, for example, this quarter. So we came out with S2 and sort of layered in other flow cells so that we could activate different parts of that HiSeq customer base over time. And it's playing out that way. And so what you should expect to see this year is a continued steady upgrade of those remaining3/4 of HiSeq customers that haven't yet upgraded. So about 630 customers that haven't yet bought a single NovaSeq, those will be in play. And actually, I think it will be a combination. It will be the smaller onesie-twosies that will buy. But frankly, there are still large customers that haven't done the entire fleet re-platforming on to NovaSeq. So you'll see some of those happen over the course of this year and next year as well.
+
+Unidentified Analyst
+
+Does consumer base sequencing have a lower profit margin?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So the consumer genomics market today is based on arrays primarily. So if you look at the large providers in the genealogy market, they're on arrays. And arrays as a whole have -- they are very profitable. They're not as profitable as our sequencing business. Now as you see consumers move to whole genome, whole exome, then obviously, it has the same profitability profile.
+
+Unidentified Analyst
+
+How about the legacy kind of X customers in terms of utilization and in terms of working down some of that legacy Human Genome Project? Is there a headwind at all from that?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+We don't expect a headwind. I mean, the dynamic we'll see there, and I touched on this a little bit earlier, is we -- I think it's still in front of us to see those fleets be entirely re-platformed onto NovaSeq. And so we're still seeing customers run HiSeq Xs and then bring up a fleet of NovaSeqs. And so sometime, it could be over the course of this year, next year or the year after, you will see a complete cutover, we believe. But that's going to happen in a measured base and not a hard cutoff, and so that's still in front of us right now.
+
+Sam Samad - Illumina, Inc. - Chief Financial Officer
+
+And if I can add just a couple of comments to that. In terms of overall consumables, again, I'll point you back to the expected growth this year which exceeds 20% in terms of sequencing consumables. So we do expect to see that. And in terms of Q4, we mentioned we had also a record pull-through on NovaSeq as well itself.
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+And on a previous call, we talked about the fact that we did the analysis around customers who had HiSeqs and then customers who had HiSeqs and NovaSeqs. And at that time, we talked about the fact that the analysis has showed that once they bought NovaSeqs, their overall utilization on average had gone up. And so we can replay that analysis, but that's consistent with what we're hearing from our customers.
+
+Unidentified Analyst
+
+To what degree will blockchain technology be used in the future to protect the privacy of this genetic information? We all know that it can be used by life insurance companies to deny coverage to an otherwise healthy 36-year-old woman who has (inaudible), for instance. Are there other risk factors for insurability that will only be discernible through the genetic testing?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Sure. So the question is around to what extent will blockchain technology be leveraged to protect genomic information. And then there was another question around the use of genomic information around providing things like life insurance. Blockchain is very exciting. It has a potential to really help give control in some cases back to users of their own genomic information. And you're starting to see a lot of interest and certainly a lot of startups and venture money already going into enabling that world. And the vision there is to say, look, using blockchain, a consumer can control their genome and they can selectively give access to their genome to whoever they want to. And in some cases, they can use that to monetize their genomes and say, "Look, if you're going to get access to my genome for research purposes, then I expect to participate economically."And so you're seeing companies that are evaluating creating startups around creating that marketplace for people to make their genomes available and then participate economically in the use of that genome. And I think that represents a really exciting idea in terms of giving control to end users and also frankly, sharing in the economics. I think that separately to the point you brought up around how genomic information is used in terms of life insurance and health insurance, I think that that's something that as an industry we need to continually watch to see what is it appropriate to use life -- to use genomic information for. So for example, GINA in the U.S. prohibits vendors from using genomic information to deny health insurance. And there's an ongoing discussion around do we need to think about extending GINA not just to health insurance but to other realms as well. And I think that's sort of an ongoing discussion, I think. So I think it will be a combination of a technology answer where you have things like blockchain that empower users to control access to their genomic information but then also maybe a regulatory framework or actual laws around that.
+
+Unidentified Analyst 
+
+With the acquisition of PacBio, which other companies do you have in mind will be competitors?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So you said with the acquisition of PacBio, who else do we see as competitors. So we didn't really compete with PacBio. Obviously, they're in the long read sequencing space and we're in the short read space. So there are a set of players in the long read space and then there are a set of players in the short read space that we've been competing with historically. It's a vigorous market. And it's the same players that we've seen for a number of years now. We've also seen though active VC interest. Because of the size of the markets in front of us in genomics, there has been a lot of venture interest in investing in this space. And so we continue to see that, too. And there's startups that keep popping up with new views on how they could do this better, either sequencing itself or more commonly around the sequencing ecosystem.
+
+Unidentified Analyst
+
+So with the -- BGI announced that they installed 1,000 sequencer...
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+I'm sorry, I didn't hear you, sir?
+
+Unidentified Analyst
+
+With the BGI from China announced just yesterday they installed 1,000 sequencer. What do you think are your competitive strengths in the China market?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So obviously, you'll have talk to BGI about their installed base. We talked about our installed base is 13,000 sequencers. And where we compete,we win on the strength of our technology in terms of accuracy. We have market-leading accuracy across our entire portfolio of sequencers. And so whether you're talking about the iSeq at the smallest end of the spectrum to NovaSeq, we -- SBS technology delivers the world's most accurate sequencing and it does it at the best price. And so that combination has enabled us to be very, very competitive in the market. And what we do is we set the competitive pace by driving that price down without sacrificing accuracy. And that has been a core element of our playbook, frankly, for many, many years. And so -- and our belief is if we continue to stay deeply focused on the customer and driving the best value to our customer,we set a pace that's frankly going to be hard for other people to follow, and that's not going to change. You'll see us continue to drive that forward.I talked last year about the fact that we're on a march to a $100 genome. And so what that means, as you can expect, there's just a whole lot of innovation that we're working on. And then, [Jason], you had a question?
+
+Unidentified Analyst
+
+Yes. How do you think about the population sequencing (inaudible)? How do you segment them in terms of (inaudible), whether it's passed on to pharma or to kind of lower (inaudible) countries that would not be getting that, the use of what's (inaudible) at the end of the road, call it, POPSEQefforts?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes. That's sort of an interesting question. And the way we do it internally is we have sort of at least a 2-dimensional view of them. One view is we've laid out the number of stages it takes we believe in developing a population sequencing initiative from interest all the way to it's now integrated into the national health system or the health system. And so that's a -- it's got many, many stages in that process, and we're very methodical about how we cultivate opportunities from one stage to the next, how we leverage the fact that we are working with population sequencing initiatives around the world and bringing people together to move initiatives along that multistage pipeline. Separately then, we also segment them based on what they're trying to do. Some of the population sequencing efforts were primarily initially driven as a research effort.And certainly, it's interesting to see how -- all of this, I think, starts out that way. GeL started out that way but very quickly was tied into the NHS.And now if you look at initiatives like France, for example, it's starting in the health system. And so you're seeing that flavors of starting as research,a blended model like GeL. And then whether it's France or Australia, we're seeing a lot of the ones that are emerging now are starting in the health system. And the prevailing philosophy, I think, and frankly, it makes a lot of sense, is that if you focus on health, you get the research for free. And that seems to be the wisdom. The other thing that we're seeing is I think in the earlier days of the population sequencing initiatives, there was an idea that you need to focus the effort on genetic disease or oncology where you would -- you'd get the biggest juice from the squeeze, as you said.What we're seeing now is different in the sense that people are converging around the point of view that you really do focus population-wide. And if you focus population-wide, the diseases will come, if you like. And so that seems to be an emerging theme now among the population sequencing efforts we're talking to now where it truly is go population-wide and you'll be able to select cohorts of the conditions that you're interested in.
+
+Unidentified Analyst 
+
+Francis, I think your guidance on NovaSeq for last year was 330 to 350, right? You said you did 318. Does that just reflect the basing on flow cell reductions? Or can you maybe just help us there?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes. So our intent with NovaSeq is to have this multiyear sort of steady upgrade cycle. And so what we didn't want to do when we planned NovaSeq was we didn't want to have sort of this big bolus and then sort of quick dropoff. And so we've done a lot of things to drive this sort of steady adoption over multiple years. And that's what I said in terms of what you can expect from '19 compared to '18. You should see more of steady upgrades that happen over the course of the year similar to what you saw in '18. And one of the big levers we had in doing that, as you point out,is the cadence by which we release the flow cells, right? And so the intent was to activate different parts of that HiSeq base at different times. Imean, updating the HiSeq base is probably the biggest upgrade cycle that's ever happened in sequencing, right? So we have the 850 customers that represent a very diverse set of customers. You have the large service providers, the large genome centers, and then you have some smaller core labs in your universities. And so as we looked at that base, we segmented that base in terms of their needs for output, for price points. And so we targeted each of those segments with a different flow cell. And so the S4, for example, is perfect for the large service providers. The S Prime is targeting more of the smaller core labs. And so S Prime comes out now, and it's really aimed at those core labs. But that was our primary 
+
+mechanism in terms of activating different segments of the customer base and trying to get this steady multiyear upgrade cycle going. A question over here?
+
+Unidentified Analyst
+
+China has been hugely committed to sequencing. What are you seeing now in tariffs? There was a pull forward, I think, in Q3 (inaudible) Q4.
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director 
+
+We saw in Q3 and actually Q2 as well a little stocking ahead of potential tariffs. That seems to have abated in Q4. And there was -- obviously,everybody is following what's happening with the tariffs. There's a little pause happening right now in terms of tariff activity. Well, I guess our governments are trying to work out how to move forward. And so we didn't see as much of that in Q4 at all, and we'll see how the measures play out. What has been talked about is a 5% tariff on the hardware, which wouldn't be big. There had been the possibility that there would a larger tariff on the consumables, but that hasn't played out yet.
+
+Sam Samad - Illumina, Inc. - Chief Financial Officer
+
+I would say Q4 -- just to add also, Q4 largely played out as we expected. And from a demand standpoint in China, which I think is the more important indicator, it's -- we don't see an impact tariff-wise. Tariff-wise, it's really been more of accelerating some orders from Q4 into Q3 and Q2, as Francis mentioned earlier.
+
+Unidentified Analyst 
+
+What percentage of that is coming from the China market?
+
+Sam Samad - Illumina, Inc. - Chief Financial Officer
+
+Approximately 10% of our shipments, just north of that actually come from China.
+
+Unidentified Analyst 
+
+For a $100 genome, what's your time line to get there?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So we've talked about the fact that it's a multiyear process, and there are 2 parts to it. One is the engineering work, which our team is doing. And then two, we have to make sure the market is ready. And so we're spending a lot of time, as you can imagine, talking to our customers so that they can think about what they would do with a $100 genome. And if you remember how this industry played out, we, as an industry, had a decade plus to think about a $1,000 genome. And that was sort of the dream when the Human Genome Project was launched. And so we -- at that point,when we launched the $1,000 genome with HiSeq X in 2014, we knew the demand was there. People had written business plans over the years.And so what we wanted to do with the $100 genome announcement was spark that same level of thinking around what you would do with a $100genome. And so from our perspective, we will be -- as you've seen us, drive that price down, we will be watching for when we think the time is right in the market to enable that so that it leans into the elasticity of the market and expands the overall market.
+
+Unidentified Analyst
+
+You talked a little the process for PacBio as to how to -- it seems like it's got maybe a little bit more [rest] in traditional yields depending on how the SEC looks at it. So can you maybe just talk to the degree you've had discussions with them? And then how do you think about the long read market a few years down the road? And will you take up R&D with them when they get there?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes, sure. So I'll start by saying that we are very excited about the PacBio deal. The market opportunity that the long read technology addresses is very complementary to the markets we are in, and so it represents an expansion of the market that we are going after, right. So it now gives us access to this whole other set of markets that frankly, we didn't play in today. So we're excited about it getting us into markets that we aren't in today. We believe that long reads will be very complementary to what we offer with short reads and that the combination will be very powerful for customers and that the combination, as I've talked about, gives you this more perfect view of the genome where you can see structural variance better with long read technology. You can do de novo sequencing on a species, and that naturally then feeds into demand into the short read technology because once you do a reference genome and now you want to do at-scale sequencing efforts, that feeds demand into -- whether it's NovaSeqs or the NextSeqs, into our short read technology. So in the near term, we see a terrific opportunity to bring the technologies together,give a better view of the genome, accelerate PacBio's opportunity by bringing back technology into our commercial cycle. And then, as you can imagine, we have really good ideas and interesting ideas on what integrating those 2 data flows would look like and what it would enable for our customers. In terms of the process, it's playing out as we expected. We will go -- we will have to go through regulatory approvals. It's a short list of countries that we have to do that. Obviously, the U.S. is one of them. Given this acquisition, we expected to do a -- to have to go through a second round of 
+
+HSR, which we are. And that's why we talked about the fact that the close will happen in the middle of the year. And we're still tracking towards that time frame.
+
+Unidentified Analyst
+
+Do you think the nanopore-based second-generation technology will become a real competitor to yours?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+The nanopore technology primarily competes in the long read space. And so you think about that space, you'll see whether it's sort of nanopore players or PacBio or some of the other players. And the nanopore today has its place where you don't need highly accurate reads. And so from our perspective, as we look at that long read market and we think that the clinical opportunity in long read, which we think there is one, is really going to need something much more accurate. And so that's why we're excited about what PacBio has. Okay. A question over here?
+
+Unidentified Analyst
+
+From the perspective of plan B, we've seen microarrays becoming obsolete once we go on our $100 genome or as biology progresses, we may not need whole-genome and we'll move towards (inaudible).
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+So the question is, in terms of the future, do we see microarrays becoming obsolete as we get to a $100 genome? Or will there be a place for microarrays? And I think what we're finding is there will be a place for microarrays. Now a number of things will move. So for example, in the consumer genomics space, I deeply believe, over time, that market will move to genomes, right? As we understand the utility of the genome better and I think as the price of doing whole-genome sequencing drops, I believe that, that market primarily will move to sequencing. However, there are some markets, and if you think about certain ag markets, for example, where you look like -- the cattle markets and you -- or other species,where you want to do -- you just want to look at specific traits, for example, and you want to do it at price points that are sub $10. Those are the kind of markets where microarrays is actually a really good fit. And so I think as far out as we can see, we think there are going to be those markets where arrays are a good fit. Some of the markets that arrays address today will migrate to sequencing, and I think, again, human consumers is one of those markets. But I think there'll always be a place for microarrays. I think you had a question over there?
+
+Unidentified Analyst
+
+Yes. In terms of BaseSpace informatics, (inaudible)?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes, I think I talked about the fact that we are continuing to see a huge amount of data being generated by our customers. Last year alone, it was of 100 petabytes of data. And our vision with BaseSpace was to help make it as easy as possible for our customers to manage that huge amount of data. And what that means is we want to give them an easy way to store that data. We want to give them an easy way to have access, control of that data. We want to give them an easy way to share that data. But there's a whole lot of other things that they want to do depending on the segment they're in, the market they're in. And so for that, what we want to do is create an incredibly rich ecosystem of software partners that create value-added applications on top of that data and BaseSpace. And so I talked about the fact that we have 8,600 applications that have been created by 3,700 developers that are active developers on BaseSpace. And so that's a market we want to continue to catalyze and say, look, there's no shortage of ideas in our customers on what they want to do with genomic data. And so what we want to do with BaseSpace would be the data infrastructure that says we're going to make it easy for you to store, to manage, to share. And then all the application -- the domain-specific applications, by and large, we want to, again, cultivate the IQ and the ecosystem and help create a market for these terrifically talented developers that know a lot about specific domains. And then we want to make it easy by giving them this really rich set of genomic APIs that they can write their applications on. Okay. A question over here?
+
+Unidentified Analyst
+
+How would you see the strategic relationships with your existing partners like Foundation Medicine, [Guardant Health] with the launching of TSO500?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+I'm sorry, the question is how do you see your partnerships with...
+
+Unidentified Analyst
+
+Partnership relation -- partner relationship with existing partners like Foundation Medicine or [Guardant Health] with the launch of TSO 500?
+
+Francis A. deSouza - Illumina, Inc. - CEO, President & Director
+
+Yes. So the question is how do we see our relationships in oncology evolving, especially when you think about TSO 500. And they're very complementary. And I think what we're excited about is customers like Foundation Medicine that are already pushing the -- and have been, frankly,the whole time, pushing the envelope around what value you can get from genomic data in the treatment of oncology. And so customers like Foundation Medicine, I think will always continue to push the edge on how much of the genome you want to see. They were very early on out with bigger panels when a lot of the market was at smaller panels. And so we partner very deeply with them to enable them to push the envelope around innovation. What we want to do with TSO 500 is give them either a kit that enables them to do that more easily or frankly, as importantly,enables the rest of the market and says, look, they may not have the expertise in-house to do what Foundation does and what they want is a more standardized platform that they can just take off the shelf and then create the reports that they want for their customers. And so I think as we think about the market, the real need in the market is to catalyze the rest of the market and like really getting down to community hospitals where they just don't have the expertise to create their own panels and to create their own contents. And so they're the ones that are pushing, saying, look,the way this market moves forward is if you have a standardized platform in the market. And that's where we think we can be helpful to the market. Okay? Okay, that's great. Thank you.
+
+1-09T21:41:41.407

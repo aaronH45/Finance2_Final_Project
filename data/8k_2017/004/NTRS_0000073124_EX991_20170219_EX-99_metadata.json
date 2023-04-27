@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000073124",
+    "sec_company_name": "NORTHERN TRUST CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170219",
+    "sec_filing_date": "20170221",
+    "sec_changed_date": "20170221",
+    "sec_accepted_date": "20170221071441",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/73124/000007312417000077/0000073124-17-000077-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/73124/000007312417000077/0000073124-17-000077.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\NTRS_0000073124_EX991_20170219_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "23370 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 8109,
+    "endpoints": [
+        "Exhibit   ",
+        "This release includes forward-looking statements (as that term is defined in the Private Securities Litigation Reform Act of 1995) concerning an agreement entered into by Northern Trust to acquire UBS Asset Management’s fund administration servicing business in Luxembourg and Switzerland, including certain statements related to future results and intentions, and expectations regarding the impact of such acquisition on Northern Trust and UBS. The statements are based on assumptions about many important factors, including the following, which could cause actual results to differ materially from those in the forward- looking statements: the ability of Northern Trust and UBS to obtain required regulatory and fund board approvals and satisfy closing conditions; applicable market and industry conditions; Northern Trust’s ability to integrate the acquired business successfully and realize the benefits of the acquisition; actions of regulatory bodies and other governmental authorities; changes in laws and regulations; and other risks identified in Northern Trust’s most recent filing on Form 10-K and other SEC filings, or UBS's most recent filings on Form 6-K or Form 20-F, all of which are available on Northern Trust's and UBS's websites. Northern Trust and UBS do not undertake to update their forward-looking statements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NTRS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\004\NTRS_0000073124_EX991_20170219_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:15:02.799278"
+}

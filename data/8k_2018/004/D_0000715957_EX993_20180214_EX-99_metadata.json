@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000715957",
+    "sec_company_name": "DOMINION ENERGY INC /VA/ (Filer)",
+    "document_type": "EX993",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180214",
+    "sec_filing_date": "20180214",
+    "sec_changed_date": "20180214",
+    "sec_accepted_date": "20180214171004",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/715957/000119312518045855/0001193125-18-045855-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/715957/000119312518045855/0001193125-18-045855.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\D_0000715957_EX993_20180214_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "201111 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18161,
+    "endpoints": [
+        "Exhibit 99.3   ",
+        "10"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "D",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\D_0000715957_EX993_20180214_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:20.724173"
+}

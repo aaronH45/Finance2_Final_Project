@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000010795",
+    "sec_company_name": "BECTON DICKINSON & CO (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210211",
+    "sec_filing_date": "20210211",
+    "sec_changed_date": "20210211",
+    "sec_accepted_date": "20210211170029",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/10795/000114036121004377/0001140361-21-004377-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/10795/000114036121004377/0001140361-21-004377.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\BDX_0000010795_8K_20210211_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "47688 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 6957,
+    "endpoints": [
+        "false000001079500000107952021-02-112021-02-110000010795bdx:One208NotesDueJune42026Member2021-02-112021-02-110000010795bdx:One000NotesDueDecember152022Member2021-02-112021-02-110000010795bdx:Three020NotesDueMay242025Member2021-02-112021-02-110000010795bdx:Zero174NotesDueJune42021Member2021-02-112021-02-110000010795bdx:One401NotesDueMay242023Member2021-02-112021-02-110000010795us-gaap:CommonStockMember2021-02-112021-02-110000010795bdx:Zero632NotesDueJune42023Member2021-02-112021-02-110000010795bdx:DepositarySharesEachRepresentingA120thInterestInAShareOf600MandatoryConvertiblePreferredStockSeriesBMember2021-02-112021-02-110000010795bdx:One900NotesDueDecember152026Member2021-02-112021-02-11 ",
+        "Date: February 11, 2021"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "BDX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\004\BDX_0000010795_8K_20210211_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:12:45.052517"
+}

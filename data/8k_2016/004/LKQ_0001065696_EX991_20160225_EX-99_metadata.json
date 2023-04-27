@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065696",
+    "sec_company_name": "LKQ CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160225",
+    "sec_filing_date": "20160225",
+    "sec_changed_date": "20160225",
+    "sec_accepted_date": "20160225071534",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569616000074/0001065696-16-000074-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065696/000106569616000074/0001065696-16-000074.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LKQ_0001065696_EX991_20160225_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "661679 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 18725,
+    "endpoints": [
+        "Exhibit   ",
+        "We evaluate growth in our operations on both an as reported and a constant currency basis. The constant currency presentation, which is a non-GAAP measure, excludes the impact of fluctuations in foreign currency exchange rates. We believe providing constant currency information provides valuable supplemental information regarding our growth, consistent with how we evaluate our performance. Constant currency revenue results are calculated by translating prior year revenue in local currency using the current year's currency conversion rate. This non-GAAP measure has limitations as an analytical tool and should not be considered in isolation or as a substitute for an analysis of our results as reported under GAAP. Our use of this term may vary from the use of similarly-titled measures by other issuers due to the potential inconsistencies in the method of calculation and differences due to items subject to interpretation."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LKQ",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LKQ_0001065696_EX991_20160225_EX-99_excerpt.txt",
+    "time_elapsed": 0.2,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:56:52.331130"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001065280",
+    "sec_company_name": "NETFLIX INC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150202",
+    "sec_filing_date": "20150205",
+    "sec_changed_date": "20150205",
+    "sec_accepted_date": "20150205160210",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065280/000119312515035386/0001193125-15-035386-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065280/000119312515035386/0001193125-15-035386.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\NFLX_0001065280_EX991_20150202_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "2144 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 1438,
+    "endpoints": [
+        "EX-99.1   ",
+        "This announcement does not constitute an offer to sell or a solicitation of an offer to buy the Notes, nor shall there be any offer, solicitation or sale in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful. The Notes have not been registered under the Securities Act or any state securities laws and may not be offered or sold in the United States absent registration or an applicable exemption from such registration requirements."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NFLX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\003\NFLX_0001065280_EX991_20150202_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:24:13.833931"
+}

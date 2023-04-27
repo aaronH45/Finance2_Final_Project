@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000075488",
+    "sec_company_name": "PACIFIC GAS & ELECTRIC Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170216",
+    "sec_filing_date": "20170216",
+    "sec_changed_date": "20170216",
+    "sec_accepted_date": "20170216083037",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1004980/000119312517045959/0001193125-17-045959-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1004980/000119312517045959/0001193125-17-045959.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\PCG_0000075488_EX991_20170216_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "171560 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22167,
+    "endpoints": [
+        "EX-99.1   ",
+        "Earnings from operations are not a substitute or alternative for GAAP measures such as consolidated income available for common shareholders and may not be comparable to similarly titled measures used by other companies."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PCG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\PCG_0000075488_EX991_20170216_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:03.646338"
+}

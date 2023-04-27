@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001467858",
+    "sec_company_name": "General Motors Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200205",
+    "sec_filing_date": "20200205",
+    "sec_changed_date": "20200205",
+    "sec_accepted_date": "20200205092538",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785820000023/0001467858-20-000023-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1467858/000146785820000023/0001467858-20-000023.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\GM_0001467858_EX991_20200205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "14941 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9524,
+    "endpoints": [
+        "q42019earnings020520   ",
+        "MEDIA CONTACT INVESTOR CONTACT Tom Henderson Michael Heifler GM Finance Communications GM Investor Relations Media Investors 313-410-2704 313-418-0220 tom.e.henderson@gm.com michael.heifler@gm.com General Motors (NYSE:GM) is committed to delivering safer, better and more sustainable ways for people to get around. General Motors, its subsidiaries and its joint venture entities sell vehicles under the Cadillac, Chevrolet, Baojun, Buick, GMC, Holden, and Wuling brands. More information on the company and its subsidiaries, including OnStar, a global leader in vehicle safety and security services, Maven, its personal mobility brand, and Cruise, its autonomous vehicle ridesharing company, can be found at gm.com. Cautionary Note on Forward-Looking Statements: This press release may include “forward-looking statements” within the meaning of the U.S. federal securities laws. We caution readers not to place undue reliance on forward-looking statements. Statements including words such as “anticipate,” “appears,” “approximately,” “believe,” “continue,” “could,” “designed,” “efect,” “estimate,” “evaluate,” “expect,” “forecast,” “goal,” “initiative,” “intend,” “may,” “objective,” “outlook,” “plan,” “potential,” “priorities,” “project,” “pursue,” “seek,” “should,” “target,” “when,” “will,” “would,” or the negative of any of those words or similar expressions to identify forward-looking statements represent our current judgment about possible future events. In making these statements we rely upon assumptions and analysis based on our experience and perception of historical trends, current conditions and expected future developments, as well as other factors we consider appropriate under the circumstances. These statements are not guarantees of future performance; they involve risks and uncertainties and actual events or results may difer materially from these statements. Factors that might cause such diferences include, but are not limited to, a variety of economic, competitive and regulatory factors, many of which are beyond our control. Many of these factors are described in our Annual Report on Form 10-K and our other flings with the U.S. Securities and Exchange Commission. We undertake no obligation to update publicly or otherwise revise any forward-looking statements, whether as a result of new information, future events or other factors that afect the subject of these statements, except where we are expressly required to do so by law. Basis of Presentation: The fnancial and operational information included in this press release relate to our continuing operations and not our discontinued operations, which consist of the Opel and Vauxhall businesses and certain other assets in Europe and the European fnancing subsidiaries and branches that were sold in 2017."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "GM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\002\GM_0001467858_EX991_20200205_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:40:39.439560"
+}

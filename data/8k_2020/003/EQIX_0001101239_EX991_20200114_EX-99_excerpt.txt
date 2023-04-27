@@ -1,0 +1,105 @@
+EX-99.1   
+
+Exhibit 99.1  
+
+Equinix to Acquire Bare Metal Leader Packet  
+
+Acquisition to Accelerate Equinix Strategy to Help Enterprises Seamlessly Deploy Hybrid Multicloud Infrastructures  
+
+REDWOOD CITY, Calif., Jan. 14, 2020 /PRNewswire/ — Equinix, Inc. (Nasdaq: EQIX), the global interconnection and data center company, today announced it has signed a definitive agreement to acquire Packet, the leading bare metal automation platform. The acquisition will accelerate Equinix’s strategy to help enterprises more seamlessly deploy hybrid multicloud architectures on Platform Equinix® and extract greater value from the platform’s rich ecosystems and global interconnection fabric. By leveraging bare metal services at Equinix to deploy digital infrastructure on demand, customers will be better equipped to reach everywhere, interconnect everyone and integrate everything that matters to their business.  
+
+Equinix intends to leverage the Packet offering to accelerate the development and delivery of its interconnected edge services. By combining Packet’s innovative and developer-oriented bare metal service offering with Equinix’s interconnection capabilities and organic bare metal efforts, Equinix intends to create a world class, enterprise-grade bare metal offering across Platform Equinix that allows customers to rapidly deploy digital infrastructure, within minutes, at global scale.  
+
+Equinix anticipates the Packet acquisition to close during the first quarter of fiscal year 2020.  
+
+Highlights/Key Facts  
+
+   •    
+
+With the pace of digital transformation creating a seismic shift in the enterprise today, businesses are embracing hybrid multicloud and edge architectures as the modern digital infrastructure of choice.  
+
+  [DATA_TABLE_REMOVED] 
+
+   •    
+
+Bare metal is a key foundational element allowing customers to deploy distributed, hybrid multicloud infrastructure on demand. A proven leader in bare metal automation, Packet’s proprietary technology automates physical servers and networks without the use of virtualization or multitenancy.  
+
+   •    
+
+By acquiring Packet, Equinix will add important new on-demand deployment alternatives that meet the market’s full range of use cases. With a combined Equinix and Packet solution, enterprises and service providers will be able to build and deploy low-latency services at the edge either through their choice of owned physical deployments, or by utilizing the combined offering, which leverages as-a-service consumption to reduce CAPEX and resource requirements.   
+
+   •    
+
+Packet’s developer-friendly product, expert talent pool, vibrant ecosystem of management-layer software providers and customer base using the product for live workloads today, will also add important new skills and assets to Equinix’s own product development and management capabilities.  
+
+   •    
+
+Equinix expects to disclose additional details of the deal upon completion of the acquisition.  
+
+   •    
+
+According to Gartner, “Enterprises are evolving to become digital businesses, and edge computing will be a necessary enabler. Digital business is about the creation of new business designs by blurring the digital and physical worlds, creating new business moments and value through dynamic and transient interactions between people, businesses and things. Cloud computing has enabled scale, innovation, connection and agility at the back end, but edge computing will complement cloud computing by providing more real-time value, more immersive interactions, more data production and more intelligence at the front end — closer to where people and things exist.”i  
+
+Quotes  
+
+   •    
+
+Kevin Ichhpurani, Corporate Vice President, Global Ecosystem, Google Cloud  
+
+“We believe in customer choice and strongly support customers selecting the right computing environment that meet their enterprise needs. The addition of Packet bare metal will enable Equinix to deliver even more customer choice, accelerating their digital transformations while connecting workloads seamlessly from on-prem to cloud using technologies such as Google Anthos.”  
+
+   •    
+
+Dan Kohn, Executive Director, Cloud Native Computing Foundation  
+
+“Packet has been a critical supporter of CNCF since the very early days, long before the projects we host – including Kubernetes – had become the industry standard. They have contributed substantial free server resources over the last two years to CNCF’s Community Infrastructure Lab, which has been used to meaningfully increase development velocity for both CNCF-hosted projects and also other cloud native, open source projects. At KubeCon + CloudNativeCon San Diego in November 2019, Equinix joined CNCF as a gold member to demonstrate their support for the adoption of the cloud native technologies.”  
+
+   •    
+
+Susan Nash, Senior Vice President, Strategic Alliances, VMware  
+
+“To successfully achieve digital transformation, organizations must focus on delivering availability, performance, security and reliability to a massive set of applications while operating in a cost-effective and scalable manner. The best way to achieve this is through a comprehensive hybrid cloud strategy. Equinix and VMware have partnered for nearly a decade to enable hybrid cloud infrastructures, helping Global 2000 enterprises address the increasing volume and complexity of application workloads and data. The continued expansion of Platform Equinix will further enable our mutual customers to easily and more securely power their applications from the edge to the cloud.”  
+
+   •    
+
+Zachary Smith, CEO, Packet  
+
+“We started Packet in 2014 with a vision to redefine the next wave of cloud with a focus on the distribution and automation of fundamental infrastructure. This dovetails perfectly with Equinix’s strategy for helping enterprises implement new digital architectures in a growing number of edge locations. The incorporation of Packet into Equinix will accelerate the delivery of enhanced edge services to Equinix’s growing customer base, while continuing to serve the developer community that has come to rely on Packet’s unique offering.”   
+
+   •    
+
+Sara Baack, Chief Product Officer, Equinix  
+
+“By acquiring Packet we are making it easier for enterprises to seamlessly deploy multicloud solutions at Equinix and extract greater value from our rich ecosystems and global interconnection platform. Packet’s innovative and agile bare metal service, and neutral approach to software stacks, fit our own cloud-neutral model and match our strategy for helping enterprises flexibly deploy digital infrastructure, within minutes, at global scale. Our combined strengths will further empower companies to be everywhere they need to be, to interconnect everyone and integrate everything that matters to their business.”  
+
+Additional Resources  
+
+   •    
+
+Learn more about Platform Equinix [website]  
+
+   •    
+
+Learn more about Packet [website]  
+
+   •    
+
+Global Interconnection Index Vol. 3 – [report] 
+
+   •    
+
+Gartner – Exploring the Edge: 12 Frontiers of Edge Computing – [analyst report]  
+
+About Equinix  
+
+Equinix, Inc. (Nasdaq: EQIX) connects the world’s leading businesses to their customers, employees and partners inside the most-interconnected data centers. On this global platform for digital business, companies come together across more than 50 markets on five continents to reach everywhere, interconnect everyone and integrate everything they need to create their digital futures. www.equinix.com.  
+
+Forward-Looking Statements  
+
+This press release contains forward-looking statements which are based on current expectations, forecasts and assumptions that involve risks and uncertainties that could cause actual results to differ materially from expectations discussed in such forward-looking statements, including statements related to the acquisition of Packet, the expected benefits from the acquisition and the expected timing for closing the acquisition. When used in this document, the words “anticipates,” “can,” “will,” “look forward to,” “expected,” and similar expressions and any other statements that are not historical facts are intended to identify those assertions as forward-looking statements. Factors that might cause such differences include, but are not limited to, the failure of one or more conditions to the acquisition of Packet to be satisfied; the occurrence of any event, change or other circumstance that would compromise our ability to complete the acquisition of Packet within the expected timeframe or at all; the possibility that the anticipated benefits from the proposed acquisition cannot be fully realized or may take longer to realize than expected; unanticipated costs or difficulties relating to the integration of data centers or companies we have acquired or will acquire into Equinix, including Packet; the challenges of acquiring, operating and constructing IBX centers and developing, deploying and delivering Equinix products and solutions; a failure to receive significant revenue from customers in recently built out or acquired data centers; failure to complete any financing arrangements contemplated from time to time; competition from existing and new competitors; the ability to generate sufficient cash flow or otherwise obtain funds to repay new or outstanding indebtedness; the loss or decline in business from our key customers; risks related to our taxation as a REIT; and other risks described from time to time in Equinix filings with the   
+
+ Securities and Exchange Commission. In particular, see recent Equinix quarterly and annual reports filed with the Securities and Exchange Commission, copies of which are available upon request from Equinix. Equinix does not assume any obligation to update the forward-looking information contained in this press release.  
+
+i Exploring the Edge: 12 Frontiers of Edge Computing, Thomas Bittman, Distinguished VP Analyst, 6 May 2019  
+
+CONTACT: Media (Global), David Fonkalsrud, +1 (650) 598-6240, dfonkaslrud@equinix.com; Investor Relations, Katrina Rymill, +1 650-598-6583, krymill@equinix.com; or Chip Newcom, +1 650-598-6262, cnewcom@equinix.com

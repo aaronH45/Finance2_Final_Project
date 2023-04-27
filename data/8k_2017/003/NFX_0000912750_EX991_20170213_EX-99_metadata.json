@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000912750",
+    "sec_company_name": "NEWFIELD EXPLORATION CO /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170213",
+    "sec_filing_date": "20170213",
+    "sec_changed_date": "20170213",
+    "sec_accepted_date": "20170213161042",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/912750/000110465917008600/0001104659-17-008600-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/912750/000110465917008600/0001104659-17-008600.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\NFX_0000912750_EX991_20170213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "22676 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 10412,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Non-GAAP reconciliation of Adjusted EBITDA Twelve Months Ended December 31, September 30, ($ in millions) 2014 2015 2016 Net Income $900 ($3,362) ($1,906) Adjustments to derive EBITDA: Interest expense, net of capitalized interest $147 $131 $108 Income tax provision (benefit) 526 (1,585) (55) Depreciation, depletion and amortization 903 917 653 EBITDA $2,476 ($3,899) ($1,200) Adjustments to EBITDA: Ceiling test and other impairment $ - $4,904 $1,730 Gain on sale of Malaysia business (373) - - Non-cash stock-based compensation 28 25 20 Unrealized (gain) loss on commodity derivatives (649) 246 408 Other permitted adjustments1 9 19 60 Adjusted EBITDA per credit agreement2 $1,491 $1,295 $1,018 1 Other permitted adjustments per amended credit agreement include but are not limited to inventory write-downs, office-lease abandonment, severance and relocation costs 2 Adjusted EBITDA calculated per credit agreement definition; September 30, 2016 reflects 5th amendment executed 3/18/2016 13"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "NFX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\003\NFX_0000912750_EX991_20170213_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:11:10.139385"
+}

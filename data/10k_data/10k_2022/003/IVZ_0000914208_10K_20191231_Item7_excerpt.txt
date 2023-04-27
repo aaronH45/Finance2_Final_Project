@@ -1,0 +1,899 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Management has elected to apply the FAST Act Modernization and Simplification of Regulation S-K, which provides the option to limit the discussion to the two most recent calendar years. The discussion and analysis disclosed herein apply to material changes in the consolidated financial statements for 2019 and 2018. For the comparison of 2018 and 2017, see the Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of the company’s 2018 Annual Report on Form 10-K, filed with the Securities and Exchange Commission on February 22, 2019.
+
+Executive Overview 
+
+The following executive overview summarizes the significant trends affecting our results of operations and financial condition for the periods presented. This overview and the remainder of this management's discussion and analysis supplements and should be read in conjunction with the Consolidated Financial Statements of Invesco Ltd. and its subsidiaries (collectively, the “company” or “Invesco”) and the notes thereto contained elsewhere in this Annual Report on Form 10-K.
+
+31
+
+Table of Contents 
+
+Global financial markets in 2019 were strong, despite periods of volatility throughout the year. The year saw global policy uncertainty and rising trade barriers. Uncertainty in the economic environment and weaker industry production metrics at times in the year led the US Fed and many other central banks to lower interest rates to support global growth. Despite this uncertainty, the global economy grew at a modest pace. The U.S. economy grew in 2019, while the European economy slowed during the year. Japan’s economy expanded slightly; while China’s economy grew at slightly lower levels than the prior year. Global inflation fell slightly in the year. 
+
+2019 was almost entirely positive for U.S. equities, despite the uncertainty throughout the year over future Fed policy and concerns about trade tensions between the U.S. and China. The central bank cut rates three times in 2019 to counter concerns about inflation growth. The S&P 500 posted multiple all-time high closing price levels and finished the year up 28.9%.
+
+European markets were volatile in 2019, reacting to signs of weakening growth and tense trade talks, but were similarly assisted by continued accommodative monetary policies from central banks. The Brexit debate continued within the UK weighing on UK equities; the UK election in December brought political clarity. Also boosted by eased monetary policy, the FTSE 100 ended the year up 12.1%. 
+
+Japanese equities advanced in the year despite overall sentiment of a weakening economy and a difficult global trade environment. The Bank of Japan maintained its accommodative monetary policy. The Nikkei 225 finished the period up 18.2%.
+
+Emerging market stocks also gained during the period, overcoming uncertainties over the US-China trade negotiations, general easing of growth in China and a strong US dollar. 
+
+Investors sought the relative safety of bonds amidst global growth concerns and geopolitical uncertainties. The U.S. Aggregate Bond Index was higher by 8.7% for the year.
+
+The table below summarizes the year ended December 31 returns based on price appreciation/(depreciation) of several major market indices for 2019 and 2018:
+
+[DATA_TABLE_REMOVED]
+
+The company's financial results are impacted by the fluctuations in exchange rates against the U.S. Dollar, as discussed in the "Foreign Exchange Impact on Balance Sheet, Assets Under Management and Results of Operations" section and the "Results of Operations for the Years Ended December 31, 2019 compared to December 31, 2018" section below.
+
+Our revenues are directly influenced by the level and composition of our AUM. Therefore, movements in global capital market levels, net new business inflows (or outflows) and changes in the mix of investment products between asset classes and geographies may materially affect our revenues from period to period. As fee rates differ across geographic locations, changes to exchange rates have an impact on the net revenue yields.
+
+Invesco benefits from our long-term efforts to ensure a diversified base of AUM. One of Invesco's core strengths, and a key differentiator for the company within the industry, is our broad diversification across client domiciles, asset classes and distribution channels. Our geographic diversification recognizes growth opportunities in different parts of the world. This broad diversification mitigates the impact on Invesco of different market cycles and enables the company to take advantage of growth opportunities in various markets and channels. 
+
+On May 24, 2019, the company completed the acquisition of OppenheimerFunds, an investment management subsidiary of MassMutual, for $5.6 billion. The strategic acquisition brings Invesco’s total assets under management to approximately $1.2 
+
+32
+
+Table of Contents 
+
+trillion, further enhancing the company’s ability to meet client needs through its comprehensive range of high-conviction active, passive and alternative capabilities.
+
+The highly complementary investment and distribution capabilities of Invesco and OppenheimerFunds strengthen the combined organization’s ability to provide more relevant investment outcomes to an expanded number of institutional and retail clients in the US and around the globe. Both Invesco’s and OppenheimerFunds’ clients benefit from the acquisition, which incorporates OppenheimerFunds’ high-performing investment capabilities and its powerful U.S. third-party distribution platform with Invesco’s strong and diversified product lineup, global presence, and solutions-driven client outreach. We view this as a multi-year growth story that expands the capabilities we can offer globally while further scaling our business for the benefit of clients.
+
+Invesco has made significant progress toward the integration of the two firms through the combination of middle- and back- office, location strategy and leveraging the scale of the global operating platform. To date, Invesco has achieved $501 million in annualized net expense synergies related to integration of the OppenheimerFunds business, which is in excess of our $475 million target and ahead of schedule. Transaction, integration, and restructuring costs related to the acquisition are expected to increase from the original projection as a result of expenses related to fund mergers that were not contemplated at close, as well as incremental severance costs related to achieving increased net expense synergies. The company also will continue to incur incremental non-cash transaction, integration, and restructuring charges related to accelerated vesting of common share-based awards for terminated employees and acceleration of depreciation for software and leasehold improvement assets, as well as $120 million related to compensation payments to certain OppenheimerFunds employees, which were funded by MassMutual under the terms of the acquisition.
+
+During the year, the company purchased $669.8 million of its common shares. This amount reflects $500 million (25.8 common shares) through forward contracts, $110.8 million of common shares repurchased in the market at cost (5.6 million common shares) and $59.0 million (3.3 million common shares) relating to purchases of common shares from employees to satisfy tax withholding requirements at the time of common share vesting. At December 31, 2019, a balance of $732.2 million remains available under the common share repurchase authorization approved by the Board on July 22, 2016. Since announcing the $1.2 billion stock repurchase plan in October 2018, the company has repurchased $973 million of its common shares to date and is on target to repurchase the remaining $227 million by the first quarter of 2021.
+
+Invesco continues to demonstrate its commitment to supporting financial advisors with industry leading tools and resources, such as Jemstep, our advisor-powered digital advice capability, and Intelliflo, our advisor-focused digital platform. The range of investment capabilities available through Jemstep are broad across the firm's active, alternative and ETF offerings. Additionally, Jemstep offers open architecture to help advisors provide customized solutions for clients. As a market-leading provider of digital solutions, Jemstep continues to expand its capabilities and market presence, and is an integral part of Invesco's growth strategy. 
+
+Presentation of Management's Discussion and Analysis of Financial Condition and Results of Operations -- Impact of Consolidated Investment Products
+
+The company provides investment management services to, and has transactions with, various retail mutual funds and similar entities, private equity, real estate, fund-of-funds, collateralized loan obligation products (CLOs), and other investment entities sponsored by the company for the investment of client assets in the normal course of business. The company serves as the investment manager, making day-to-day investment decisions concerning the assets of the products. The company is required to consolidate certain of these managed funds from time-to-time, as discussed more fully in Item 8, Financial Statements and Supplementary Data, Note 1 -- "Accounting Policies -- Basis of Accounting and Consolidation." Investment products that are consolidated are referred to in this Form 10-K (Report) as consolidated investments products (CIP). The company's economic risk with respect to each investment in CIP is limited to its equity ownership and any uncollected management and performance fees. 
+
+The majority of the company's CIP balances are CLO-related. The collateral assets of the CLOs are held solely to satisfy the obligations of the CLOs. The company has no right to the benefits from, nor does it bear the risks associated with, the collateral assets held by the CLOs, beyond the company's direct investments in, and management and performance fees generated from, the CLOs. If the company were to liquidate, the collateral assets would not be available to the general creditors of the company, and as a result, the company does not consider them to be company assets. Likewise, the investors in the CLOs have no recourse to the general credit of the company for the notes issued by the CLOs. The company therefore does not consider this debt to be a company liability. 
+
+33
+
+Table of Contents 
+
+The impact of CIP is so significant to the presentation of the company’s Consolidated Financial Statements that the company has elected to deconsolidate these products in its non-GAAP disclosures. The following discussion therefore combines the results presented under U.S. generally accepted accounting principles (U.S. GAAP) with the company’s non-GAAP presentation. This Management’s Discussion and Analysis of Financial Condition and Results of Operations contains four distinct sections, which follow after the Assets Under Management discussion:
+
+[DATA_TABLE_REMOVED]
+
+•Schedule of Non-GAAP Information; 
+
+•Balance Sheet Discussion; and 
+
+•Liquidity and Capital Resources. 
+
+To assess the impact of CIP on the company's Results of Operations and Balance Sheet Discussion, refer to Part II, Item 8, Financial Statements, Note 20, "Consolidated Investment Products." The impact on the company's results of operations is illustrated by a column which shows the dollar-value change in the consolidated figures, as caused by the consolidation of CIP. For example, the impact of CIP on operating revenues for the year ended December 31, 2019 was a reduction of $33.5 million. This indicates that their consolidation reduced consolidated revenues by this amount, reflecting the elimination upon their consolidation of the operating revenues earned by Invesco for managing these investment products.
+
+Wherever a non-GAAP measure is referenced, a disclosure will follow in the narrative or in the note referring the reader to the Schedule of Non-GAAP Information, where additional details regarding the use of the non-GAAP measure by the company are disclosed, along with reconciliations of the most directly comparable U.S. GAAP measures to the non-GAAP measures. To further enhance the readability of the Results of Operations section, separate tables for each of the revenue, expense, and other income and expenses (non-operating income/expense) sections of the income statement introduce the narrative that follows, providing a section-by-section review of the company’s income statements for the periods presented. 
+
+Summary Operating Information
+
+Summary operating information for 2019, 2018 and 2017 is presented in the table below. 
+
+[DATA_TABLE_REMOVED]
+
+_________
+
+(1)Net revenues is a non-GAAP financial measure. Net revenues are operating revenues plus the net revenues of our Great Wall joint venture; less pass-through revenue adjustments to investment management fees, service and distribution fees and other; plus management and performance fees earned from CIP. See "Schedule of Non-GAAP Information" for the reconciliation of operating revenues to net revenues. 
+
+(2)Adjusted operating income and adjusted operating margin are non-GAAP financial measures. Adjusted operating margin is adjusted operating income divided by net revenues. Adjusted operating income includes operating income plus the net 
+
+34
+
+Table of Contents 
+
+operating income of our joint venture investments, the operating income impact of the consolidation of investment products, transaction, integration and restructuring adjustments, compensation expense related to market valuation changes in deferred compensation plans and other reconciling items. See "Schedule of Non-GAAP Information," for the reconciliation of operating income to adjusted operating income. 
+
+(3)Adjusted net income attributable to Invesco Ltd. and adjusted diluted EPS are non-GAAP financial measures. Adjusted net income attributable to Invesco Ltd. is net income attributable to Invesco Ltd. adjusted to exclude the net income of CIP, transaction, integration and restructuring adjustments, the net income impact of deferred compensation plans and other reconciling items. Adjustments made to net income attributable to Invesco Ltd. are tax-affected in arriving at adjusted net income attributable to Invesco Ltd. By calculation, adjusted diluted EPS is adjusted net income attributable to Invesco Ltd. divided by the weighted average number of common shares outstanding (for diluted EPS). See "Schedule of Non-GAAP Information," for the reconciliation of net income attributable to Invesco Ltd. to adjusted net income attributable to Invesco Ltd..
+
+Investment Capabilities Performance Overview
+
+Invesco's first strategic objective is to achieve strong investment performance over the long-term for our clients. As of December 31, 2019, 64%, 53%, 54%, and 82% of measured ranked actively managed assets performed in the top half of peer groups on a one-, three-, five- and ten-year basis, respectively. The table below presents the one-, three-, five- and ten-year performance of our measured ranked actively managed investment products measured by the percentage of AUM ahead of benchmark and AUM in the top half of peer group. (1) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+Note:
+
+ (1)  Excludes passive products, closed-end funds, private equity limited partnerships, non-discretionary funds, unit investment trusts, fund of funds with component funds managed by Invesco, stable value building block funds and CDOs. Certain funds and products were excluded from the analysis because of limited benchmark or peer group data. Had these been available, results may have been different. These results are preliminary and subject to revision. AUM measured in the one, three, five and ten-year quartile rankings represents 58%, 57%, 57% and 51% of total Invesco AUM, respectively, and AUM measured versus benchmark on a one, three, five and ten year basis represents 68%, 67%, 65% and 57% of total Invesco AUM as of 12/31/19. Peer group rankings are sourced from a widely-used third party ranking agency in each fund’s market (Lipper, Morningstar, IA, Russell, Mercer, eVestment Alliance, SITCA, Value Research) and asset-weighted in USD. Rankings are as of prior quarter-end for most institutional products and prior month-end for 
+
+35
+
+Table of Contents 
+
+Australian retail funds due to their late release by third parties. Rankings are calculated against all funds in each peer group. Rankings for the primary share class of the most representative fund in each composite are applied to all products within each composite. Performance assumes the reinvestment of dividends. Past performance is not indicative of future results and may not reflect an investor’s experience.  
+
+(2) Numbers in parenthesis reflect percentage of Total Ranked AUM. Total Ranked AUM is $696.5 billion for the fourth quarter.
+
+Foreign Exchange Impact on Balance Sheet, Assets Under Management and Results of Operations 
+
+A significant portion of our business is based outside of the U.S. The strengthening or weakening of the U.S. Dollar against other currencies, primarily the Pound Sterling, Euro and Japanese Yen, will impact our assets, liabilities, AUM and reported revenues and expenses from period to period. The assets, liabilities and AUM of foreign subsidiaries are translated at period end spot foreign currency exchange rates. The income statements of foreign currency subsidiaries are translated into U.S. Dollars, the reporting currency of the company, using average foreign exchange rates for the relevant period. 
+
+The table below sets forth the spot foreign exchange rates used for translation of non-U.S. Dollar denominated asset, liabilities and AUM into U.S. Dollars:
+
+[DATA_TABLE_REMOVED]
+
+The table below sets forth the average foreign exchange rates used for translation of non-U.S. Dollar denominated income, including revenues and expenses, into U.S. Dollars:
+
+[DATA_TABLE_REMOVED]
+
+A comparison of period end spot rates between December 31, 2019 and December 31, 2018 shows a strengthening of the Pound Sterling and the Japanese Yen relative to the U.S. Dollar, while the Euro weakened, which is reflected in the translation of our Pound Sterling-based, Japanese Yen-based and Euro-based assets, liabilities and AUM into U.S. Dollars, respectively. 
+
+ A comparison of the average foreign exchange rates used for the year ended December 31, 2019 when compared to the year ended December 31, 2018 shows a weakening of the Pound Sterling and the Euro relative to the U.S. Dollar, while the Japanese Yen strengthened, which is reflected in the translation of our Pound Sterling-based, Euro-based and Japanese Yen- based revenue and expenses into U.S. Dollars, respectively. 
+
+ Assets Under Management 
+
+The following presentation and discussion of AUM includes Passive and Active AUM. Passive AUM include index-based ETFs, unit investment trusts (UITs), non-management fee earning AUM and other passive mandates. Active AUM is total AUM less Passive AUM.
+
+Non-management fee earning AUM includes non-management fee earning ETFs, UIT and product leverage. The net flows in non-management fee earning AUM can be relatively short-term in nature and, due to the relatively low revenue yield, these can have a significant impact on overall net revenue yield.
+
+The AUM tables and the discussion below refer to certain AUM as long-term. Long-term inflows and the underlying reasons for the movements in this line item include investments from new clients, existing clients adding new accounts/funds or contributions/subscriptions into existing accounts/funds. Long-term outflows reflect client redemptions from accounts/funds and include the return of invested capital on the maturity. We present net flows into money market funds separately because shareholders of those funds typically use them as short-term funding vehicles and because their flows are particularly sensitive to short-term interest rate movements.
+
+36
+
+Table of Contents 
+
+In the second quarter of 2019, the company changed the presentation of its AUM. The new presentation reflects the combination of the U.S and Canada to form Americas and Continental Europe to now be EMEA ex UK. As part of the change in the presentation of AUM, the company made certain reclassifications between geographies, asset classes and active and passive classifications to better reflect the underlying AUM. In the AUM tables below, all periods have been reclassified to conform to the new presentation and reclassifications. 
+
+Changes in AUM were as follows: 
+
+[DATA_TABLE_REMOVED]
+
+(1) The acquisition of OppenheimerFunds business on May 24, 2019 added $224.4 billion in AUM at that date. The acquisition of Guggenheim Investments' ETF business on April 6, 2018 added $38.1 billion in AUM at that date. As of July 1, 2018, we began including 100% of Invesco Great Wall, which added $9.5 billion in AUM during the third quarter of 2018. The acquisition of the European ETF business added $26.0 billion in AUM in 2017.
+
+(2) Gross revenue yield on AUM is equal to annualized total operating revenues divided by average AUM, excluding Invesco Great Wall AUM. Prior to the third quarter 2018, management reflected its interests in Invesco Great Wall on a proportional consolidation basis, which was consistent with the presentation of our share of the AUM from these investments. Given the company's influence on Invesco Great Wall, a change in regulation allowing increased foreign ownership and reaching oral agreement in principle to obtain majority stake of the joint venture, the company began reporting 100% of the flows and AUM for Invesco Great Wall beginning in the third quarter of 2018. Our share of the average AUM in 2019 for our JVs in China was $35.6 billion (2018: $16.2 billion, 2017: $8.5 billion). It is appropriate to exclude the average AUM of our JVs for purposes of computing gross revenue yield on AUM, because the revenues resulting from these AUM are not presented in our operating revenues. Under U.S. GAAP, our share of the net income of the JVs is recorded as equity in earnings of unconsolidated affiliates on our Consolidated Statements of Income. Additionally, the numerator of the gross revenue yield measure, operating revenues, excludes the management fees earned from CIP and our JVs in China; however, the denominator of the measure includes the AUM of these investment products. Therefore, the gross revenue yield measure is not considered representative of the company's true effective fee rate from AUM. 
+
+(3)Net revenue yield on AUM is equal to annualized net revenues divided by average AUM. See “Schedule of Non-GAAP Information” for a reconciliation of operating revenues to net revenues.
+
+37
+
+Table of Contents 
+
+Flows
+
+There are numerous drivers of AUM inflows and outflows, including individual investor decisions to change investment preferences, fiduciaries and other gatekeepers making broad asset allocation decisions on behalf of their clients and reallocation of investments within portfolios. We are not a party to these asset allocation decisions, as the company does not generally have access to the underlying investor's decision-making process, including their risk appetite or liquidity needs. Therefore, the company is not in a position to provide meaningful information regarding the drivers of inflows and outflows.
+
+Average AUM during the year ended December 31, 2019, were $1,094.4 billion, compared to $958.7 billion for the year ended December 31, 2018. 
+
+Market Returns and Reinvested Distributions
+
+Market gains and losses include the net change in AUM resulting from changes in market values of the underlying securities from period to period. As discussed in the “Executive Overview” section of this Management’s Discussion and Analysis, during 2019, global financial markets were strong, despite periods of volatility throughout the year.
+
+Foreign Exchange Rates
+
+During the year ended December 31, 2019, we experienced increases in AUM of $2.5 billion due to changes in foreign exchange rates (December 31, 2018: AUM decreased by $12.5 billion). See the company's disclosures regarding the changes in foreign exchange rates during the year ended December 31, 2019 in the “Foreign Exchange Impact on Balance Sheet, Assets Under Management and Results of Operations” section above for additional information regarding the movement of foreign exchange rates.
+
+Acquisitions
+
+During the year ended December 31, 2019, we completed the acquisition of OppenheimerFunds which added $224.4 billion in AUM during the year. For the year ended December 31, 2018, we completed the acquisition of Guggenheim Investments' ETF business, which added $38.1 billion in AUM, and we began including 100% of Invesco Great Wall Fund Management Company, which added $9.5 billion in AUM during the year. 
+
+Revenue Yield
+
+Changes in our AUM mix significantly impact our net revenue yield. Passive AUM generally earn a lower effective fee rate than active asset classes, and changes in the mix of products therefore have an impact on our net revenue yield. Additionally, as a significant proportion of our AUM is based outside of the U.S., changes in foreign exchange rates result in a change to the mix of U.S. Dollar denominated AUM with AUM denominated in other currencies. As fee rates differ across geographic locations, changes to exchange rates have an impact on the net revenue yields. See the company's disclosures regarding the changes in foreign exchange rates in the "Foreign Exchange Impact on Balance Sheet, Assets Under Management and Results of Operations" section for additional information regarding the movement of foreign exchange rates.
+
+In the year ended December 31, 2019, the net revenue yield was 40.3 basis points compared to 39.8 basis points in the year ended December 31, 2018, an increase of 0.5 basis points. As a result of the acquisition of OppenheimerFunds, AUM increased $224.4 billion during the second quarter of 2019, which was comprised of $219.9 billion of active and $4.5 billion of passive AUM, increasing the proportion of active AUM and positively impacting net revenue yield. 
+
+At December 31, 2019, active AUM were $929.2 billion, representing 75.8% of total AUM at that date; whereas at December 31, 2018, active AUM were $667.2 billion, representing 75.1% of our total AUM at that date. In the year ended December 31, 2019, the net revenue yield on active AUM was 48.6 basis points compared to 47.5 basis points in the year ended December 31, 2018, an increase of 1.1 basis points. 
+
+ At December 31, 2019, passive AUM were $297.0 billion, representing 24.2% of total AUM at that date; whereas at December 31, 2018, passive AUM were $221.0 billion, representing 24.9% of our total AUM at that date. In the year ended December 31, 2019, the net revenue yield on passive AUM was 14.6 basis points compared to 15.9 basis points in the year ended December 31, 2018, a decrease of 1.3 basis points. 
+
+38
+
+Table of Contents 
+
+Changes in our AUM by channel, asset class, and client domicile, and average AUM by asset class, are presented below:
+
+Total AUM by Channel (1) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+See accompanying notes immediately following these AUM tables.
+
+39
+
+Table of Contents 
+
+Passive AUM by Channel (1) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+See accompanying notes immediately following these AUM tables.
+
+40
+
+Table of Contents 
+
+Total AUM by Asset Class(2) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+See accompanying notes immediately following these AUM tables.
+
+41
+
+Table of Contents 
+
+Passive AUM by Asset Class (2) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+See accompanying notes immediately following these AUM tables.
+
+42
+
+Table of Contents 
+
+Total AUM by Client Domicile (3) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+See accompanying notes immediately following these AUM tables.
+
+43
+
+Table of Contents 
+
+Passive AUM by Client Domicile (4) 
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1)Channel refers to the internal distribution channel from which the AUM originated. Retail AUM represents AUM distributed by the company's retail sales team. Institutional AUM represents AUM distributed by our institutional sales team. This aggregation is viewed as a proxy for presenting AUM in the retail and institutional markets in which the company operates. 
+
+During 2018, $29.8 billion of AUM were transferred from retail into institutional to better reflect the activities of institutional sales teams and the clients they support. The AUM presented in 2018 and 2017 has been adjusted to depict the AUM as though it were historically classified as institutional.
+
+(2)Asset classes are descriptive groupings of AUM by common type of underlying investments. 
+
+(3)Client domicile disclosure groups AUM by the domicile of the underlying clients.
+
+(4)The acquisition of OppenheimerFunds business on May 24, 2019 added $224.4 billion in AUM at that date. The acquisition of Guggenheim Investments' ETF business on April 6, 2018 added $38.1 billion in AUM during the second quarter. As of July 1, 2018, we 
+
+44
+
+Table of Contents 
+
+began including 100% of Invesco Great Wall, which added $9.5 billion in AUM during the third quarter. The acquisition of the European ETF business added $26.0 billion in AUM in 2017.
+
+Results of Operations for the Years Ended December 31, 2019 compared to December 31, 2018
+
+The discussion below includes the use of non-GAAP financial measures. See “Schedule of Non-GAAP Information” for additional details and reconciliations of the most directly comparable U.S. GAAP measures to the non-GAAP measures. The company has changed its presentation of the reconciliation between operating revenues and net revenues. All periods have been conformed to the new presentation. Neither operating revenue nor net revenue totals have changed for any historic periods. 
+
+The results of the OppenheimerFunds acquisition are included from May 24, 2019 (date of acquisition), the results of Guggenheim Investments' ETF business are included from April 6, 2018 (date of acquisition), and the results of Intelliflo are included from June 4, 2018 (date of acquisition). 
+
+Operating Revenues and Net Revenues
+
+The main categories of revenues, and the dollar and percentage change between the periods, are as follows:
+
+[DATA_TABLE_REMOVED]
+
+_________
+
+(1)Total revenue adjustments includes passed through investment management, service and distribution, and other revenues and equal the same amount as the third party distribution, service and advisory expenses.
+
+(2)Net revenues are operating revenues less revenue adjustments, plus net revenues from Invesco Great Wall, plus management and performance fees earned from CIP. See “Schedule of Non-GAAP Information” for additional important disclosures regarding the use of net revenues. 
+
+The impact of foreign exchange rate movements decreased operating revenues by $63.9 million, equivalent to 1.0% of total operating revenues, during the year ended December 31, 2019 when compared to the year ended December 31, 2018 ($45.7 million increase in 2018 or 0.9% of 2018 total operating revenues). 
+
+Additionally, our revenues are directly influenced by the level and composition of our AUM. Therefore, movements in global capital market levels, net business inflows (or outflows) and changes in the mix of investment products between asset classes and geographies may materially affect our revenues from period to period. As discussed in the Executive Overview, financial global markets were strong, and returns from capital markets were up in the year ended December 31, 2019.
+
+45
+
+Table of Contents 
+
+Investment Management Fees
+
+Investment management fees increased by $424.0 million (10.4%) in the year ended December 31, 2019, to $4,506.3 million (year ended December 31, 2018: $4,082.3 million). This compares to a 14.2% increase in average AUM. The impact of foreign exchange rate movements decreased investment management fees by $60.2 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. After allowing for foreign exchange movements, investment management fees increased by $484.2 million (11.9%). The increase is primarily a result of revenues earned from the acquired OppenheimerFunds business (acquired May 24, 2019). The acquisition added $219.9 billion in active AUM at acquisition date.
+
+See the company's disclosures regarding the changes in AUM and revenue yields during the years ended December 31, 2019 and December 31, 2018 in the “Assets Under Management” section above for additional information regarding the impact of changes in AUM on management fee yields. 
+
+Service and Distribution Fees
+
+In the year ended December 31, 2019, service and distribution fees increased by $308.0 million (31.8%) to $1,276.5 million (year ended December 31, 2018: $968.5 million). The total increase is made up of higher distribution fees of $180.3 million, transfer agency fees of $111.0 million, and administrative fees of $7.1 million. The increase is primarily a result of revenues earned from the acquired OppenheimerFunds business (acquired May 24, 2019).
+
+Performance Fees
+
+Of our $1,226.2 billion in AUM at December 31, 2019, approximately $48.5 billion or 4.0%, could potentially earn performance fees, including carried interests and performance fees related to partnership investments and separate accounts. Of our $888.2 billion in AUM at December 31, 2018, approximately $46.0 billion or 5.2%, could potentially earn performance fees, including carried interests and performance fees related to partnership investments and separate accounts.
+
+In the year ended December 31, 2019, performance fees increased by $45.3 million (79.6%) to $102.2 million (year ended December 31, 2018: $56.9 million). Performance fees in 2019 were primarily generated by $59.2 million from real estate, $20.1 million from fixed income, $11.4 million from private equity funds, $7.1 million from UK closed end funds, and $4.4 million from institutional funds. Performance fees in 2018 were primarily generated by $38.7 million from real estate, $6.5 million from private equity partnerships, $5.7 million from UK close end funds and $1.2 million bank loan products. 
+
+Other Revenues
+
+In the year ended December 31, 2019, other revenues increased by $26.0 million (12.6%) to $232.4 million (year ended December 31, 2018: $206.4 million). The increase in other revenues was primarily driven by an increase in commissions of $35.5 million as a result of the acquired OppenheimerFunds business (acquired May 24, 2019), partially offset by decreases in UIT revenues of $7.1 million and real estate transaction fees of $4.3 million.
+
+Invesco Great Wall
+
+The company’s most significant joint venture arrangement is our 49% investment in Invesco Great Wall Fund Management Company Limited (the “Invesco Great Wall” joint venture). Management believes that the net revenues from Invesco Great Wall should be added to total operating revenues to arrive at net revenues, as it is important to evaluate the contribution to the business that Invesco Great Wall is making. See “Schedule of Non-GAAP Information” for additional disclosures regarding the use of net revenues.
+
+ Prior to the third quarter 2018, management reflected its interests in Invesco Great Wall on a proportional consolidation basis, which was consistent with the presentation of our share of the AUM from Invesco Great Wall. Given the company’s influence on the Invesco Great Wall joint venture, a change in regulation allowing increased foreign ownership, and reaching agreement in principle to obtain a majority stake of the joint venture, the company began reporting 100% of the flows and AUM for Invesco Great Wall beginning in the third quarter 2018. As a result of this change, the company’s non-GAAP operating results reflect the economics of these holdings on a basis consistent with the underlying AUM and flows. Adjusted net income is reduced by the amount of earnings attributable to non-controlling interests.
+
+46
+
+Table of Contents 
+
+Net revenues from Invesco Great Wall were $157.2 million and average AUM was $35.6 billion for the year ended December 31, 2019, reflecting 100% of the flows and AUM for the year. The AUM increases are a result of significant growth in the China Money Market funds and therefore resulted in higher revenues.
+
+Net revenues from Invesco Great Wall were $83.6 million and average AUM was $16.2 billion, for the year ended December 31, 2018, reflecting 100% of the flows and AUM for the six months ended December 31, 2018 and 49% of the flows and AUM for the six months ended June 30, 2018. 
+
+Management, performance and other fees earned from CIP
+
+Management believes that the consolidation of investment products may impact a reader's analysis of our underlying results of operations and could result in investor confusion or the production of information about the company by analysts or external credit rating agencies that is not reflective of the underlying results of operations and financial condition of the company. Accordingly, management believes that it is appropriate to adjust operating revenues for the impact of CIP in calculating net revenues. As management and performance fees earned by Invesco from the consolidated products are eliminated upon consolidation of the investment products, management believes that it is appropriate to add these operating revenues back in the calculation of net revenues. See “Schedule of Non-GAAP Information” for additional disclosures regarding the use of net revenues. 
+
+The elimination of management and performance fees earned from CIP increased by $4.9 million to $33.5 million in the year ended December 31, 2019 (year ended December 31, 2018: $28.6 million). The increase is primarily due to the increase in management fees earned from CLOs. 
+
+Operating Expenses
+
+The main categories of operating expenses, and the dollar and percentage changes between periods, are as follows: 
+
+[DATA_TABLE_REMOVED]
+
+47
+
+Table of Contents 
+
+The table below sets forth these expense categories as a percentage of total operating expenses and operating revenues, which we believe provides useful information as to the relative significance of each type of expense.
+
+[DATA_TABLE_REMOVED]
+
+During the year ended December 31, 2019, operating expenses increased by $1,200 million (29.2%) to $5,309.2 million (year ended December 31, 2018: $4,109.2 million). The impact of foreign exchange rate movements decreased operating expenses by $48.9 million, or 0.9% of total operating expenses, during the year ended December 31, 2019 as compared to the year ended December 31, 2018. For the period ending December 31, 2019, the acquisition of OppenheimerFunds had a significant impact on operating expenses, including a significant increase in transaction, integration, and restructuring expense during the period. The remaining variances are from the activities of the business and are addressed below on a line-item
+
+by line-item basis.
+
+Third-Party Distribution, Service and Advisory 
+
+Third-party distribution, service and advisory expenses include periodic “renewal” commissions paid to brokers and independent financial advisors for the continuing oversight of their clients' assets over the time they are invested and are payments for the servicing of client accounts. Renewal commissions are calculated based upon a percentage of the AUM value and apply to much of the company's non-U.S. retail operations. As discussed above, the revenues from the company’s U.S. retail operations include 12b-1 distribution fees, which are largely passed through to brokers who sell the funds as third-party distribution expenses along with additional marketing support distribution costs. Both the revenues and the costs are dependent on the underlying AUM of the brokers' clients. Third-party distribution expenses also include the amortization of upfront commissions paid to broker-dealers for sales of fund shares with a contingent deferred sales charge (a charge levied to the investor for client redemption of AUM within a certain contracted period of time). The upfront distribution commissions are amortized over the redemption period. Also included in third-party distribution, service and advisory expenses are sub-transfer agency fees that are paid to third parties for processing client common share purchases and redemptions, call center support and client reporting. These costs are reimbursed by the related funds.
+
+Third party distribution service and advisory expenses increased by $284.8 million (17.7%) in the year ended December 31, 2019 to $1,893.0 million (year ended December 31, 2018: $1,608.2 million). The impact of foreign exchange rate movements decreased third party costs by $9.0 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. After allowing for foreign exchange rate changes, the increase in costs was $293.8 million. Included is an increase of $231.5 million in service fees (primarily 12b-1 fees), $39.7 million in asset and sales based fees, $28.4 million in transaction fees, $26.7 million in fund expenses, partially offset by a decrease of $41.7 million in renewal commissions and $7.0 million in unitary fees. The increase is primarily a result of costs from the acquired OppenheimerFunds business (acquired May 24, 2019). See "Schedule of Non-GAAP Information" for additional disclosures.
+
+Employee Compensation
+
+Employee compensation includes salary, cash bonuses and common share-based payment plans designed to attract and retain the highest caliber employees. Employee staff benefit plan costs and payroll taxes are also included in employee compensation. 
+
+48
+
+Table of Contents 
+
+Employee compensation increased $214.9 million (14.4%) to $1,709.3 million in the year ended December 31, 2019 (year ended December 31, 2018: $1,494.4 million). The impact of foreign exchange rate movements decreased employee compensation by $23.5 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. After allowing for foreign exchange rate changes, the increase in employee compensation was $238.4 million. 
+
+Compensation in 2019 increased $238.4 million due to increases in base salaries of $95.3 million, share-based compensation of $69.4 million, $51.3 million of commissions and bonuses, and $13.6 million in staff benefits. These increases were driven by increased headcount as a result of the OppenheimerFunds acquisition (acquired May 24, 2019).
+
+Headcount at December 31, 2019 was 8,821 (December 31, 2018; 7,459). 
+
+Marketing
+
+Marketing expenses include the cost of direct advertising of our products through trade publications, television and other media, and public relations costs, such as the marketing of the company's products through conferences or other sponsorships, and the cost of marketing-related employee travel.
+
+Marketing expenses increased by $0.8 million (0.6%) in the year ended December 31, 2019 to $135.6 million (year ended December 31, 2018: $134.8 million). The impact of foreign exchange rate movements decreased marketing expenses by $2.2 million. After allowing for foreign exchange rate movements, marketing expenses increased $3.0 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. 
+
+Property, Office and Technology
+
+Property, office and technology expenses include rent and utilities for our various leased facilities, depreciation of company-owned property, capitalized software and computer equipment costs, minor non-capitalized computer equipment and software purchases and related maintenance payments, and costs related to externally provided operations, technology, middle office, and back office management services.
+
+Property, office and technology expenses increased by $83.6 million (20.4%) to $494.1 million in the year ended December 31, 2019 (year ended December 31, 2018: $410.5 million). The impact of foreign exchange rate movements decreased property, office and technology expenses by $5.8 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. After allowing for foreign exchange rate movements, expenses increased $89.4 million. This increase was comprised of lease expenses of $23.7 million, software maintenance of $23.3 million, outsourced administration costs of $20.1 million and depreciation of $16.5 million. The increase is primarily a result of the acquired OppenheimerFunds business (acquired May 24, 2019).
+
+General and Administrative 
+
+General and administrative expenses include professional services costs, such as information service subscriptions, irrecoverable taxes, non-marketing related employee travel expenditures, consulting fees, audit, tax and legal fees, professional insurance costs and recruitment and training costs.
+
+General and administrative expenses increased by $79.8 million (24.6%) to $404.2 million in the year ended December 31, 2019 (year ended December 31, 2018: $324.4 million). The impact of foreign exchange rate movements decreased general and administrative expenses by $8.4 million during the year ended December 31, 2019 as compared to the year ended December 31, 2018. After allowing for foreign exchange rate movements, the increase was $88.2 million. 
+
+General and administrative expenses for the year ended December 31, 2019 included increases of $27.9 million in market data services costs, $16.7 million in professional services and regulatory costs, $15.0 million in operational costs incurred by CIP and $10.3 million on foreign currency revaluation costs. 2019 reflects a net increase of $19.4 million in VAT, as 2018 included a credit of $26.7 million related to a one-time VAT recovery related to additional regulatory guidance. 
+
+Transaction, Integration, and Restructuring
+
+The transaction, integration and restructuring charges reflect legal, regulatory, advisory, valuation and other professional services or consulting fees, and travel costs related to a business combination transaction or restructuring initiatives related to changes in business strategy. Also included in these charges are severance-related expenses and any contract termination costs associated with these efforts. Additionally, these charges reflect the costs of temporary staff involved in executing the 
+
+49
+
+Table of Contents 
+
+transaction or initiative, and the post-closing costs of amortizing acquired intangible assets and integrating an acquired business into the company’s existing operations, including incremental costs associated with achieving expense savings following a business combination or restructuring initiative.
+
+Transaction, integration, and restructuring charges were $673.0 million in the year ended December 31, 2019 (year ended December 31, 2018: $136.9 million). Within the transaction, integration, and restructuring related costs, $625.0 million resulted from the OppenheimerFunds acquisition, which included severance and other personnel-related charges of $319.4 million, share-based compensation expenses of $33.0 million, legal, consulting and other professional fees of $205.7 million, property and equipment expenses of $21.5 million, marketing expenses of $22.5 million, and amortization of intangible assets of $22.9 million. Transaction, integration, and restructuring costs from other acquisitions included amortization of management contracts and other intangible assets of $24.7 million.
+
+Operating Income, Adjusted Operating Income, Operating Margin and Adjusted Operating Margin
+
+Operating income decreased by $396.7 million (32.9%) to $808.2 million in the year ended December 31, 2019 (year ended December 31, 2018: $1,204.9 million). Operating margin (operating income divided by operating revenues), decreased to 13.2% in the year ended December 31, 2019 from 22.7% in the year ended December 31, 2018. Adjusted operating income, increase by $264.1 million (19.0%) to $1,655.8 million in the year ended December 31, 2019 from $1,391.7 million in the year ended December 31, 2018. Adjusted operating margin increased to 37.5% in the year ended December 31, 2019 from 36.5% in the year ended December 31, 2018. See “Schedule of Non-GAAP Information” for a reconciliation of operating revenues to net revenues, a reconciliation of operating income to adjusted operating income and additional important disclosures regarding net revenues, adjusted operating income and adjusted operating margin.
+
+Other Income and Expenses
+
+The main categories of other income and expenses, and the dollar and percentage changes between periods are as follows: 
+
+[DATA_TABLE_REMOVED]
+
+Equity in earnings of unconsolidated affiliates
+
+Equity in earnings of unconsolidated affiliates increased by $22.6 million (66.9%) to $56.4 million in the year ended December 31, 2019 (year ended December 31, 2018: $33.8 million). The increase in is primarily driven by our joint venture investments in China, real estate and other investments.
+
+Interest expense 
+
+Interest expense increased by $24.2 million (21.7%) to $135.7 million in the year ended December 31, 2019 (year ended December 31, 2018: $111.5 million) The increase is primarily driven by the interest on the forward contracts which amounted to $27.2 million in interest.
+
+50
+
+Table of Contents 
+
+Other gains and losses, net 
+
+Other gains and losses, net were a net gain of $65.7 million in the year ended December 31, 2019 as compared to a net loss of $40.0 million in the year ended December 31, 2018. Included in the gain were $47.5 million of net gains related to the mark-to-market on seed money investments, $35.0 million of gains on the appreciation of investments and instruments held for our deferred compensation plans, and $5.2 million of gains related to our defined benefit pension plans. These gains were partially offset by losses during the period of $8.9 million of net foreign exchange losses on intercompany loans, $7.8 million of contingent consideration liability and $4.8 million related to market valuation adjustments on foreign put option contracts. See Item 8, Financial Statements and Supplementary Data, - Note 15, "Other Gains and Losses, Net" for additional information. 
+
+Other income/(expense) of CIP 
+
+In the year ended December 31, 2019, interest and dividend income of CIP increased by $70.0 million (25.4%) to $345.4 million (year ended December 31, 2018: $275.4 million). Interest expense of CIP increased by $37.8 million (19.8%) to $228.5 million (year ended December 31, 2018: $190.7 million). 
+
+The increase in interest income and interest expense of CIP in 2019 is primarily due to the impact of newly consolidated CLOs and other funds during 2019, partially offset by the impact of funds deconsolidated during the year.
+
+Included in other gains/(losses) of CIP, net, are realized and unrealized gains and losses on the underlying investments and debt of CIP. In the year ended December 31, 2019, other gains and losses of CIP were a net gain of $32.9 million, as compared to a net loss of $55.1 million in the year ended December 31, 2018. The net gain during 2019 were attributable to market-driven gains of investments held by consolidated funds. 
+
+Net impact of CIP and related noncontrolling interests in consolidated entities
+
+ The net impact to net income attributable to Invesco Ltd. in each period primarily represents the changes in the value of the
+
+company's holding in its consolidated CLOs, which is reclassified into other gains/(losses) from accumulated other comprehensive income upon consolidation. The consolidation of investment products during the year ended December 31, 2019 resulted in a net decrease to net income attributable to Invesco Ltd. of $1.6 million (year ended December 31, 2018: $8.8 million net increase). 
+
+Noncontrolling interests in consolidated entities represent the profit or loss amounts attributed to third party investors in CIP. The impact of any gains or losses resulting from valuation changes in the investments of non-CLO CIP attributable to the interests of third parties are offset by resulting changes in gains and losses attributable to noncontrolling interests in consolidated entities and therefore do not have a material effect on the financial condition, operating results (including earnings per common share), liquidity or capital resources of the company's common shareholders. Similarly, any gains or losses resulting from valuation changes in the investments of CLOs attributable to the interests of third parties are offset by the calculated value of the notes issued by the CLOs (offsetting in other gains/(losses) of CIP) and therefore also do not have a material effect on the financial condition, operating results (including earnings per common share), liquidity or capital resources of the company's common shareholders.
+
+Additionally, CIP represent less than 1% of the company's AUM. Therefore, the net gains or losses of CIP are not indicative of the performance of the company's aggregate AUM.
+
+Income Before Taxes
+
+Total income before taxes includes income/losses of CIP; however, the company's operating revenues earned from CIP are not included in operating revenues under U.S. GAAP, as such operating revenues are eliminated upon consolidation. Therefore, total U.S. and Foreign income before taxes in Item 8. Financial Statements and Supplementary Data, Note 16, "Taxation,", which includes income/losses from CIP, and U.S. and Foreign operating revenues in Item 8. Financial Statements and Supplementary Data, Note 18, "Geographic Information," in which CIP has been eliminated, may not correlate. The table included in the taxation footnote is formatted such that the income of CIP is separately stated so that the impact of CIP is evident. 
+
+Total U.S. income before taxes increased $19.3 million during the year ended December 31, 2019 to $511.1 million from $491.8 million for the year ended December 31, 2018 and includes U.S. income of CIP of $24.2 million (December 31, 2018: $18.9 million). U.S. income from CIP increased $5.3 million (28.0%) from 2018 primarily due to the impact of gains on 
+
+51
+
+Table of Contents 
+
+consolidated retail products. Excluding CIP, U.S. income before taxes in 2019 increased $14.0 million (3.0%) from December 31, 2018 due to a larger increase in U.S. operating revenues than operating expenses. 
+
+Total Foreign income before taxes decreased $184.5 million during the year ended December 31, 2019 to $461.8 million from $646.3 million during the year ended December 31, 2018 and includes foreign income of CIP of $23.7 million (December 31, 2018: foreign loss of CIP of $9.8 million). Foreign income from CIP increased $33.5 million due primarily to the impact of gains on consolidated retail products. Excluding CIP, foreign income decreased by $218.0 million (33.2%) from 2018 due to a larger decrease in foreign operating revenues and other income than operating expenses. 
+
+Income Tax Expense 
+
+Our effective tax rate for the year ended December 31, 2019 increased to 24.2% (year ended December 31, 2018: 22.4%). 2019 includes a 1.1% rate increase related to vestings of our annual common share-based compensation awards, a net 1.5% rate increase from business acquisitions including the impact from non-tax deductible transaction, integration, and restructuring costs partially offset by a 0.7% rate decrease related to the favorable resolution of a state tax audit. The inclusion of income from non-controlling interests decreased our rate period-over-period by 1.3% (1.3% decrease to the effective tax rate in 2019 and no change to the effective tax rate in 2018). The remainder of the rate movement for 2019 was primarily due to changes in the mix of pre-tax income.
+
+Schedule of Non-GAAP Information
+
+We utilize the following non-GAAP performance measures: net revenue (and by calculation, net revenue yield on AUM), adjusted operating income, adjusted operating margin, adjusted net income attributable to Invesco Ltd. and adjusted diluted earnings per common share (EPS). The company believes the adjusted measures provide valuable insight into the company’s ongoing operational performance and assist in comparisons to its competitors. These measures also assist the company’s management with the establishment of operational budgets and forecasts and assist the Board of Directors and management of the company in determining incentive compensation decisions. The most directly comparable U.S. GAAP measures are operating revenues (and by calculation, gross revenue yield on AUM), operating income, operating margin, net income attributable to Invesco Ltd. and diluted EPS. Each of these measures is discussed more fully below.
+
+The following are reconciliations of operating revenues, operating income (and by calculation, operating margin), and net income attributable to Invesco Ltd. (and by calculation, diluted EPS) on a U.S. GAAP basis to a non-GAAP basis of net revenues, adjusted operating income (and by calculation, adjusted operating margin), and adjusted net income attributable to Invesco Ltd. (and by calculation, adjusted diluted EPS). These non-GAAP measures should not be considered as substitutes for any U.S. GAAP measures and may not be comparable to other similarly titled measures of other companies. Additional reconciling items may be added in the future to these non-GAAP measures if deemed appropriate. The tax effects related to the reconciling items have been calculated based on the tax rate attributable to the jurisdiction to which the transaction relates. Notes to the reconciliations follow the tables. 
+
+Reconciliation of Operating revenues to Net revenues:
+
+[DATA_TABLE_REMOVED]
+
+52
+
+Table of Contents 
+
+Reconciliation of Operating income to Adjusted operating income:
+
+[DATA_TABLE_REMOVED]
+
+Reconciliation of Net income attributable to Invesco Ltd. to Adjusted net income attributable to Invesco Ltd.:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+*Operating margin is equal to operating income divided by operating revenues.
+
+**Adjusted operating margin is equal to adjusted operating income divided by net revenues.
+
+*** Adjusted diluted EPS is equal to adjusted net income attributable to Invesco Ltd. divided by the weighted average number of common and restricted common shares outstanding. There is no difference between the calculated earnings per common share amounts presented above and the calculated earnings per common share amounts under the two class method.
+
+(1)Invesco Great Wall
+
+Prior to the third quarter 2018, management reflected its interests in Invesco Great Wall on a proportional consolidation basis, which was consistent with the presentation of our share of the AUM from these investments. Given the company's influence on Invesco Great Wall, a change in regulation allowing increased foreign ownership, and reaching oral agreement in principle in the third quarter of 2018 to obtain a majority stake of the joint venture, the company began reporting 100% of the flows and AUM for Invesco Great Wall. Also beginning in the third quarter of 2018, the company's non-GAAP operating results reflect the economics of these holdings on a basis consistent with the underlying AUM and flows. Adjusted net income is reduced by the amount of earnings attributable to non-controlling interests. 
+
+53
+
+Table of Contents 
+
+(2)Revenue Adjustments
+
+The company has changed its presentation of the reconciliation between operating revenues and net revenues. All periods have been conformed to the new presentation. Neither operating revenues nor net revenues have changed for any historic periods.
+
+Management believes that adjustments to investment management fees, service and distribution fees and other revenues from operating revenues appropriately reflect these revenues as being passed through to external parties who perform functions on behalf of, and distribute, the company’s managed funds. Further, these adjustments vary extensively by geography due to the differences in distribution channels. The net revenue presentation assists in identifying the revenue contribution generated by the business, removing distortions caused by the differing distribution channel fees and allowing for a fair comparison with U.S. peer investment managers and within Invesco’s own investment units. Additionally, management evaluates net revenue yield on AUM, which is equal to net revenues divided by average AUM during the reporting period. This financial measure is an indicator of the basis point net revenues we receive for each dollar of AUM we manage and is useful when evaluating the company’s performance relative to industry competitors and within the company for capital allocation purposes.
+
+Investment management fees are adjusted by renewal commissions and certain administrative fees. Service and distribution fees are primarily adjusted by distribution fees passed through to broker dealers for certain share classes and pass through fund-related costs. Other is primarily adjusted by transaction fees passed through to third parties. While the terms used for these types of adjustments vary by geography, they are all costs that are closely linked to the value of AUM and the revenue earned by Invesco from AUM. Since the company has been deemed to be the principal in the third-party arrangements, the company must reflect these revenues and expenses gross under U.S. GAAP on the consolidated statements of income.
+
+(3)CIP
+
+See Item 8, Financial Statements and Supplementary Data, Note 20 - “Consolidated Investment Products” for a detailed analysis of the impact to the company’s Consolidated Financial Statements from the consolidation of CIP. The reconciling items add back the management and performance fees earned by Invesco from the consolidated products and remove the revenues and expenses recorded by the consolidated products that have been included in the U.S. GAAP Consolidated Statements of Income.
+
+Management believes that the consolidation of investment products may impact a reader's analysis of our underlying results of operations and could result in investor confusion or the production of information about the company by analysts or external credit rating agencies that is not reflective of the underlying results of operations and financial condition of the company. Accordingly, management believes that it is appropriate to adjust operating revenues, operating income and net income for the impact of CIP in calculating the respective net revenues, adjusted operating income and adjusted net income. 
+
+CIP Revenue:
+
+[DATA_TABLE_REMOVED]
+
+(4)Transaction, integration and restructuring related adjustments
+
+The transaction, integration and restructuring charges reflect legal, regulatory, advisory, valuation and other professional services or consulting fees, and travel costs related to a business combination transaction or restructuring initiatives related to changes in business strategy. Also included in these charges are severance-related expenses and any contract termination costs associated with these efforts. Additionally, these charges reflect the costs of temporary staff involved in executing the transaction or initiative, and the post-closing costs of amortizing acquired intangible assets and integrating an acquired business into the company’s existing operations, including incremental costs associated with achieving synergy savings following a business combination or restructuring initiative.
+
+54
+
+Table of Contents 
+
+Management believes it is useful to investors and other users of our Consolidated Financial Statements to adjust for the transaction, integration and restructuring charges in arriving at adjusted operating income, adjusted operating margin and adjusted diluted EPS, as this will aid comparability of our results period to period, and aid comparability with peer companies that may not have similar acquisition and restructuring related charges. See "Results of Operations for the Years Ended December 31, 2019 compared to December 31, 2018 -- Transaction, Integration and Restructuring" for additional details. 
+
+(5) Market movement on deferred compensation plan liabilities
+
+Certain deferred compensation plan awards are linked to the appreciation (depreciation) of specified investments, typically managed by the company. Invesco hedges economically the exposure to market movements by holding these investments on its balance sheet and through total return swap financial instruments. U.S. GAAP requires the appreciation (depreciation) in the compensation liability to be expensed over the award vesting period in proportion to the vested amount of the award as part of compensation expense. The full value of the investment and financial instrument appreciation (depreciation) are immediately recorded below operating income in other gains and losses. This creates a timing difference between the recognition of the compensation expense and the investment gain or loss impacting net income attributable to Invesco Ltd. and diluted EPS which will reverse over the life of the award and net to zero at the end of the multi-year vesting period. During periods of high market volatility these timing differences impact compensation expense, operating income and operating margin in a manner which, over the life of the award, will ultimately be offset by gains and losses recorded below operating income on the Consolidated Statements of Income. The non-GAAP measures exclude the mismatch created by differing U.S. GAAP treatments of the market movement on the liability and the investments.
+
+Since these plans are hedged economically, management believes it is useful to reflect the offset ultimately achieved from hedging the investment market exposure in the calculation of adjusted operating income (and by calculation, adjusted operating margin) and adjusted net income (and by calculation, adjusted diluted EPS), to produce results that will be more comparable period to period. The related fund shares or swaps will have been purchased on or around the date of grant, eliminating any ultimate cash impact from market movements that occur over the vesting period. 
+
+Additionally, dividend income from investments held to hedge economically deferred compensation plans is recorded as dividend income and as compensation expense on the company’s Consolidated Statements of Income on the record dates. This dividend income is passed through to the employee participants in the plan and is not retained by the company. The non-GAAP measures exclude this dividend income and related compensation expense.
+
+See below for a reconciliation of deferred compensation related items:
+
+[DATA_TABLE_REMOVED]
+
+55
+
+Table of Contents 
+
+(6) Other reconciling items
+
+Each of these other reconciling items has been adjusted from U.S. GAAP to arrive at the company's non-GAAP financial measures for the reasons either outlined in the paragraphs above, due to the unique character and magnitude of the reconciling item, or because the item represents a continuation of a reconciling item adjusted from U.S. GAAP in a prior period.
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+[DATA_TABLE_REMOVED]
+
+(b)As a result of an increase in our recoverable VAT from applying additional regulatory guidance, a credit was recorded in the third quarter of 2018. The portion of the cumulative adjustment representing 2015 through 2017 has been removed for non-GAAP purposes.[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+(e)Included within other gains and losses, net is the mark-to-market of foreign exchange put option contracts intended to provide protection against the impact of a significant decline in the Pound Sterling/U.S. Dollar and the Euro/U.S. 
+
+56
+
+Table of Contents 
+
+Dollar foreign exchange rates. The Pound Sterling contracts provide coverage through June 30, 2020 and the Euro contracts provided coverage through December 27, 2017. The adjustment from U.S. GAAP to non-GAAP earnings removes the impact of market volatility; therefore, the company's non-GAAP results include only the amortization of the cost of the contracts during the contract period. [DATA_TABLE_REMOVED]
+
+(g)During 2015, the company acquired investment management contracts from Deutsche Bank and the purchase price was solely comprised of contingent consideration payable in future periods. Adjustment represents the change in the fair value of contingent consideration liability.
+
+(h)Other gains and losses for 2017 includes a realized gain of $12.1 million related to revaluation of Euros held in the UK in anticipation of payment for the European ETF business acquisition.
+
+(i)Other-than-temporary impairment includes an impairment charge of $17.8 million in 2016 that is related to the acquisition of Invesco Asset Management (India) Private Limited.
+
+(j)The income tax provision for 2017 includes a retroactive state tax expense of $12.2 million related to 2016 and prior open tax years caused by changes in state tax regulations. 2017 also included a $130.7 million tax benefit as a result of the revaluation of deferred tax assets and liabilities following the 2017 Tax Act enacted in the United States.
+
+57
+
+Table of Contents 
+
+Balance Sheet Discussion(1) 
+
+The following table represents a reconciliation of the balance sheet information presented on a U.S. GAAP basis to the balance sheet information excluding the impact of CIP and policyholder balances for the reasons outlined in footnote 1 to the table:
+
+[DATA_TABLE_REMOVED]
+
+ ____________
+
+(1) These tables include non-GAAP presentations. Assets of CIP are not available for use by Invesco. Additionally, there is no recourse to Invesco for CIP debt. Policyholder assets and liabilities are equal and offsetting and have no impact on Invesco’s shareholder’s equity. 
+
+(2)Amounts include accounts receivable, prepaid assets, property, equipment and software, right-of-use assets and other assets.
+
+(3)Amounts include accrued compensation and benefits, accounts payable and accrued expenses, lease liability and deferred tax liabilities.
+
+(4)Amounts include redeemable noncontrolling interests in consolidated entities and equity attributable to nonredeemable noncontrolling interests in consolidated entities.
+
+58
+
+Table of Contents 
+
+Cash and cash equivalents
+
+Cash and cash equivalents decreased by $98.7 million from $1,147.7 million at December 31, 2018 to $1,049.0 million at December 31, 2019. See “Cash Flows Discussion” in the following section within this Management's Discussion and Analysis for additional discussion regarding the movements in cash flows during the periods. See Item 8, Financial Statements and Supplementary Data - Note 1, “Accounting Policies - Cash and Cash Equivalents,” regarding requirements to retain liquid resources in certain jurisdictions.
+
+Investments
+
+As of December 31, 2019 we had $829.5 million in investments (December 31, 2018: $613.5 million). Included in investments are $235.5 million of seed money investments in affiliated funds used to seed funds as we launch new products, and $192.4 million of investments related to assets held for deferred compensation plans, which are also held primarily in affiliated funds. Seed investments increased by $32.7 million during the year ended December 31, 2019. The increase in the period reflects purchases of $72.6 million, a non-cash increase of $10.7 million due to the OppenheimerFunds acquisition, a non-cash increase of $45.5 million due to the deconsolidation of certain CIP in the period (restoring the company’s formerly eliminated investment balances), and $38.6 million driven by market valuation changes and foreign exchange movements. The increases in the period were partially offset by redemptions of $134.7 million. Investments related to deferred compensation awards increased by a net $113.8 million during the period due to the OppenheimerFunds acquisition of $165.9 million, net purchases of $25.0 million and $18.4 million driven by market valuation changes and foreign exchange movements. These increases were partially offset by dispositions of $95.5 million. 
+
+Included in investments are $350.8 million in equity method investments in Invesco Great Wall and in certain of the company’s private equity partnerships, real estate partnerships and other co-investments (December 31, 2018: $296.3 million). The increase of $54.5 million in equity method investments was driven by an increase from partnership contributions of $92.7 million and $56.3 million in current period earnings. This increase was partially offset by a decrease of $94.6 million due to distributions from partnership investments. Also included in investments are foreign time deposits of $32.0 million, an increase of $3.9 million from the December 31, 2018 balance of $28.1 million.
+
+Assets held for policyholders and policyholder payables
+
+One of our subsidiaries, Invesco Pensions Limited, is an insurance company that was established to facilitate retirement savings plans in the UK. The entity holds assets that are managed for its clients on its balance sheet with an equal and offsetting liability. The decrease in the balance of these accounts from $11,384.8 million at December 31, 2018, to $10,835.6 million at December 31, 2019, was the result of negative market movements of $572.7 million and net business outflows of $356.3 million, partially offset by positive foreign exchange rate movements of $379.8 million.
+
+Intangible assets, net
+
+Intangible assets reflect a net increase of $5,182.2 million from $2,176.1 million at December 31, 2018 to $7,358.3 million at December 31, 2019. The increase includes an additional $5,189.0 million primarily related to the preliminary purchase price allocation to intangible assets from the OppenheimerFunds acquisition, offset by amortization of $52.7 million. See Item 8, Financial Statements and Supplementary Data - Note 6, "Intangible Assets," for an analysis of the change in intangible balances between periods. The 2019 and 2018 annual impairment reviews of indefinite-lived intangible assets determined that no impairment existed at the respective review dates. 
+
+Goodwill
+
+Goodwill increased from $7,157.1 million at December 31, 2018 to $8,509.4 million at December 31, 2019. The increase
+
+includes $1,229.1 million primarily related to the preliminary purchase price allocation to goodwill from the OppenheimerFunds acquisition and foreign exchange movements of $123.2 million. See Item 8, Financial Statements and Supplementary Data - Note 7, "Goodwill," for an analysis of the change in goodwill balances between periods. The company's annual goodwill impairment review is performed as of October 1 of each year. As a result of that analysis, the company determined that no impairment existed at that date. See “Critical Accounting Policies - Goodwill” for additional details of the company's goodwill impairment analysis process.
+
+See Item 8, Notes to the Consolidated Financial Statements - Note 2, "Business Combinations" for additional information regarding Intangible Assets, net and Goodwill.
+
+59
+
+Table of Contents 
+
+Other assets
+
+Other assets increased from $1,325.9 million at December 31, 2018 to $2,042.7 million at December 31, 2019. The increase includes the right-of-use asset of $325.0 million, which resulted from the adoption of the accounting lease standard in the current year. The accounting lease standard requires the company to recognize all leases with a lease term greater than 12 months on the balance sheet as a right-of-use asset. See Item 8, Notes to the Consolidated Financial Statements - Note 14, "Operating Leases" for additional information regarding the increase due to the right of use asset. Additional increases include an increase of $251.6 million in Accounts receivable and $114.8 million in Property, equipment and software which has resulted primarily from the Oppenheimer acquisition. 
+
+Long-term debt
+
+Long-term debt decreased from $2,408.8 million at December 31, 2018, to $2,080.3 million at December 31, 2019, a decrease of $328.5 million. As of December 31, 2019, there was no balance outstanding on the credit facility (at December 31, 2018: $330.8 million).
+
+Other liabilities
+
+Other liabilities increased from $2,060.1 million at December 31, 2018 to $4,464.2 million at December 31, 2019. The 
+
+increase includes $1,181.2 million resulting from the preliminary purchase price allocation to deferred tax liabilities from the OppenheimerFunds acquisition. See Item 8, Notes to the Consolidated Financial Statements - Note 2, "Business Combinations" for additional information regarding the deferred tax liabilities. 
+
+The increase also includes the lease liability of $364.8 million, which resulted from the adoption of the accounting lease 
+
+standard in the current year. The accounting lease standard requires the company to recognize all leases with a lease term greater than 12 months on the balance sheet as a lease liability. See Item 8, Notes to the Consolidated Financial Statements - Note 14, "Operating Leases" for additional information regarding the increase due to the lease liability. 
+
+Accrued bonus and deferred compensation increased by $292.3 million primarily as a result of increases in our deferred compensation liability, severance accruals and retention awards in connection with the OppenheimerFunds acquisition and the overall bonus accrual driven by the larger headcount post-acquisition. Additional increases resulted from forward contracts that the company entered into to purchase its common shares. During the year ended December 31, 2019, the company entered into three new forward contracts and settled one forward contract. The net effect resulted in an increase in Other liabilities of $199.4 million. See Item 8, Notes to the Consolidated Financial Statements - Note 10, "Share Capital" for additional information regarding the forward contracts. 
+
+Liquidity and Capital Resources
+
+Our capital structure, together with available cash balances, cash flows generated from operations, existing capacity under our credit facility and further capital market activities, if necessary, should provide us with sufficient resources to meet present and future cash needs, including operating, debt and other obligations as they come due and anticipated future capital requirements. Material changes in the company's capital structure over the last two years include:
+
+2019: As discussed in Note 2, “Business Combinations,” the company completed its acquisition of OppenheimerFunds on May 24, 2019. Consideration for the acquisition included 81.9 million shares, which were composed of 75.7 million newly issued common shares and 6.2 million employee restricted common stock awards. The company also issued $4.0 billion in perpetual, non-cumulative preferred shares with a 21-year non-call period and a fixed rate of 5.9%.
+
+The preferred stock dividend is payable quarterly on a non-cumulative basis when, if and as declared by our board of directors. However, if we have not declared and paid or set aside for payment full quarterly dividends on the preferred stock for a particular dividend period, we may not declare or pay dividends on, or redeem, purchase or acquire, our common stock or other junior securities in the next succeeding dividend period. Shares of preferred stock cannot be redeemed prior to the 21st anniversary of their original issue date. The preferred stock has no put feature to accelerate redemption and will not be convertible into any other class of capital stock of the company.
+
+See “Dividends” section below for a discussion of the preferred and common dividends.
+
+60
+
+Table of Contents 
+
+ The company repurchased 5.6 million common shares in open market transactions utilizing $110.8 million in cash and entered into three forward contracts during 2019, whereby the counterparty purchased $500.0 million (25.8 million shares) of the company’s common shares. See Note 10, “Share Capital” for details of these forward contracts and the related treasury shares recorded as of December 31, 2019. Additionally, during the year, 3.3 million common shares were withheld on vesting events in the amount of $59.0 million relating to purchases of common shares from employees to satisfy tax withholding requirements at the time of common share vesting. Since the common stock buyback program announcement in 2018, the company has purchased $973 million of its common shares. 
+
+The forward contract completed in the fourth quarter of 2018 for $300 million of common shares settled on July 1, 2019.
+
+During 2019, the company paid $330.8 million towards the outstanding balance on the credit facility. As of December 31, 2019 the remaining balance on the credit facility was zero. 
+
+2018: On October 18, 2018, the company announced a common stock buyback program of $1.2 billion to be completed by the first quarter of 2021, which will be financed through the strong operating cash flows of the combined Invesco and OppenheimerFunds organization. For the purpose of repurchasing its common shares, the company entered into a forward contract during the fourth quarter of 2018. Under this contract, the counterparty purchased $300 million (14.4 million shares) of the company's common shares in the fourth quarter. The common shares were included as treasury shares in the company's balance sheet and reduced outstanding common shares as of December 3, 2018. 
+
+On April 6, 2018, the company completed the acquisition of Guggenheim Investments' ETF business for a purchase price of $1.2 billion. To fund the purchase, the company borrowed approximately $835 million on its credit facility in early April 2018. In addition, the company also borrowed on the credit facility to fund part of the Intelliflo acquisition. As of December 31, 2018, the remaining balance on the credit facility was $330.8 million. 
+
+Our capital management priorities have evolved with the growth and success of our business and include:
+
+•reinvestment in the business;
+
+•moderate annual growth of dividends (as further discussed in the "Dividends" section below);
+
+•share repurchase; and
+
+•target an approximate $1 billion cash buffer in excess of European regulatory and liquidity requirements.
+
+These priorities are executed in a manner consistent with our desire to maintain a strong, investment-grade credit rating. As of the filing of this Report, Invesco held credit ratings of A2/Stable, BBB+/Stable and A-/Positive from Moody's, S&P, and Fitch Ratings, respectively. Our ability to continue to access the capital markets in a timely manner depends on a number of factors, including our credit ratings, the condition of the global economy, investors’ willingness to purchase our securities, interest rates, credit spreads and the valuation levels of equity markets. If we are unable to access capital markets in a timely manner, our business could be adversely impacted. See also Item 1A - "Risk Factors," for more detailed discussion on reliance on credit ratings.
+
+Certain of our subsidiaries are required to maintain minimum levels of capital. Such requirements may change from time-to-time as additional guidance is released based on a variety of factors, including balance sheet composition, assessment of risk exposures and governance, and review from regulators. These and other similar provisions of applicable laws and regulations may have the effect of limiting withdrawals of capital, repayment of intercompany loans and payment of dividends by such entities. All of our regulated EU and UK subsidiaries are subject to consolidated capital requirements under applicable EU and UK requirements, including those arising from the EU's Capital Requirements Directive and the UK's Internal Capital Adequacy Assessment Process (ICAAP), and capital is maintained within this European sub-group to satisfy these regulations. We meet these requirements in part by holding cash and cash equivalents. This retained cash can be used for general business purposes in the European sub-group in the countries where it is located. Due to the capital restrictions, the ability to transfer cash between certain jurisdictions may be limited. In addition, transfers of cash between international jurisdictions may have adverse tax consequences. We are in compliance with all regulatory minimum net capital requirements. As of December 31, 2019, the company's minimum regulatory capital requirement was $753.6 million (December 31, 2018: $720.2 million); the increase was primarily driven by the strengthening of the Pound Sterling against the U.S. Dollar. The total amount of non-U.S. cash and cash equivalents was $847.0 million at December 31, 2019 (December 31, 2018: $996.7 million). 
+
+61
+
+Table of Contents 
+
+The consolidation of $8,633.1 million and $6,234.6 million of total assets and long-term debt of CIP as of December 31, 2019, respectively, did not impact the company’s liquidity and capital resources. The majority of CIP balances related to consolidated CLOs. The collateral assets of the CLOs are held solely to satisfy the obligations of the CLOs. The company has no right to the benefits from, nor does it bear the risks associated with, the collateral assets held by the CLOs, beyond the company’s direct investments in, and management and performance fees generated from, these products, which are eliminated upon consolidation. If the company were to liquidate, the collateral assets would not be available to the general creditors of the company, and as a result, the company does not consider them to be company assets. Likewise, if the CLOs were to liquidate, their investors would have no recourse to the general credit of the company. The company therefore does not consider this debt to be an obligation of the company. See Item 8, Financial Statements and Supplementary Data - Note 20, “Consolidated Investment Products,” for additional details.
+
+62
+
+Table of Contents 
+
+Cash Flow Discussion
+
+The ability to consistently generate cash flow from operations in excess of dividend payments, common share repurchases, capital expenditures, and ongoing operating expenses is one of our company's fundamental financial strengths. Operations continue to be financed from current earnings and borrowings. Our principal uses of cash, other than for operating expenses, include dividend payments, capital expenditures, acquisitions, purchase of our common shares in the open market and investments in certain new investment products.
+
+The following table represents a reconciliation of the cash flow information presented on a U.S. GAAP basis to the cash flow information, excluding the impact of the cash flows of Consolidated Investment Products for the reasons outlined in footnote 1 to the table:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1)These tables include non-GAAP presentations. Cash held by CIP is not available for use by Invesco. Additionally, there is no recourse to Invesco for CIP debt. The cash flows of CIP do not form part of the company’s cash flow management processes, nor do they form part of the company’s significant liquidity evaluations and decisions. 
+
+As discussed in Note 2, “Business Combination,” the OppenheimerFunds acquisition purchase price was allocated to the
+
+assets acquired and liabilities assumed based upon their estimated fair values as of the date of the transaction. The issuance of
+
+common stock and preferred stock consideration represents a non-cash financing activity related to the statement of cash flows.
+
+Operating Activities
+
+Operating cash flows include the receipt of investment management and other fees generated from AUM, offset by operating expenses and changes in operating assets and liabilities. Although some receipts and payments are seasonal, particularly bonus payments which are paid out during the first quarter, in general, after allowing for the change in cash held by CIP, and investment activities, our operating cash flows move in the same direction as our operating income.
+
+During 2019, cash provided by operating activities was $1,116.6 million compared to $828.8 million provided during 2018 (an increase of $287.8 million). As shown in the tables above, the impact of CIP to operating activities was $158.3 million of cash used during 2019 compared to $234.2 million of cash used during 2018. Excluding the impact of CIP, cash provided by operations was $1,274.9 million during 2019 compared to $1,063.0 million of cash provided by operations during 2018. Cash inflows for the year ended December 31, 2019, excluding the impact of CIP, included net investment redemptions of $156.4 
+
+63
+
+Table of Contents 
+
+million, including seed money and deferred compensation investments (year ended December 31, 2018: net purchases $144.2 million) as well as net inflows from the changes in payables and receivables due to the timing of payments and receipts, primarily related to the growth in business that resulted from OppenheimerFunds acquisition in 2019 compared to net outflows in the year ended December 31, 2018. Inflows were partially offset by lower net income in the year ended December 31, 2019 compared to year ended December 31, 2018 driven by transaction and integration expenses of $673.0 million compared to $136.9 million in the prior period due to the acquisition in 2019. 
+
+Investing Activities
+
+Net cash used in investing activities totaled $1,425.4 million for the year ended December 31, 2019 (2018: net cash used in $2,898.7 million). As shown in the tables above, the impact of CIP on investing activities, including investment purchases, sales and returns of capital, was $1,507.4 million used (2018: $1,248 million used). Excluding the impact of CIP cash flows, net cash provided by investing activities was $82.0 million (2018: net cash used of $1,650.7 million). 
+
+Cash inflows for the year ended December 31, 2019, excluding the impact of CIP, included net cash acquired of $290.5 million primarily related to the OppenheimerFunds acquisition (year ended December 31, 2018: outflows of $1,469.3 million). See Note 2, "Business Combination," for additional information regarding cash acquired as a result of the acquisition. Also included in cash inflows for the year ended December 31, 2019, were net collateral received of $26.0 million on the forward contracts (year ended December 31, 2018: net collateral paid of $63.8 million) and collected proceeds of $215.5 million from sales and returns of capital of investments (year ended December 31, 2018: $197.9 million). These inflows were partially offset by purchases of investments of $325.7 million (year ended December 31, 2018: $213.0 million). 
+
+During the year ended December 31, 2019, the company had capital expenditures of $124.3 million (2018: $102.5 million). Our capital expenditures related principally in each period to technology initiatives, including enhancements to platforms from which we maintain our portfolio management systems and fund accounting systems, improvements in computer hardware and software desktop products for employees, new telecommunications products to enhance our internal information flow, and back-up disaster recovery systems. Also, in each period, a portion of these costs related to leasehold improvements made to the various buildings and workspaces used in our offices. These projects have been funded with proceeds from our operating cash flows. In 2019, our capital expenditures also included technology integrations related to the OppenheimerFunds acquisition. 
+
+Financing Activities 
+
+Net cash provided by financing activities totaled $201.3 million for the year ended December 31, 2019 (2018: cash provided of $1,540.0 million). As shown in the tables above, the impact of CIP on financing activities provided cash of $1,674.6 million during the year (2018: cash provided of $1,767.2 million). Excluding the impact of CIP, financing activities used cash of $1,473.3 million in the year ended December 31, 2019 (2018: cash used of $227.2 million). 
+
+Financing cash outflows during the year ended December 31, 2019 included $529.1 million of dividend payments for the dividends declared in January, April, July and November 2019 (year ended December 31, 2018: dividends paid of $490.6 million), $123.6 million of preferred dividend payments for dividends declared in the in July and November 2019 (year ended December 31, 2018: none), net repayment on the credit facility of $330.8 million ( year ended December 31, 2018: net borrowing of $330.8 million), $300 million settlement of the forward contract completed in the fourth quarter of 2018 (year ended December 31, 2018: none), purchase of common shares through open market transactions totaling $110.8 million (year ended December 31, 2018: none), the payment of $59.0 million to meet employees' withholding tax obligations on common share vestings (year ended December 31, 2018: $51.8 million), and a payment of $20.0 million of contingent consideration (year ended December 31, 2018: $15.6 million).
+
+Dividends
+
+When declared, Invesco pays dividends on a quarterly basis in arrears. Holders of our preferred shares are eligible to receive dividends at an annual rate of 5.9% of the liquidation preference of $1,000 per share, or $59 per share per annum. The preferred stock dividend is payable quarterly on a non-cumulative basis when, if and as declared by our board of directors. However, if we have not declared and paid or set aside for payment full quarterly dividends on the preferred stock for a particular dividend period, we may not declare or pay dividends on, or redeem, purchase or acquire, our common stock or other junior securities in the next succeeding dividend period. In addition, if we have not declared and paid or set aside for payment quarterly dividends on the preferred stock for six quarterly periods, whether or not consecutive, the number of directors of the company will be increased by two and the holders of the preferred shares shall have the right to elect such two additional members of the Board of Directors. 
+
+64
+
+Table of Contents 
+
+On January 29, 2020, the company announced a preferred dividend of $14.75 per preferred share to the holders of preferred shares, representing the period from December 1, 2019 through February 29, 2020, payable on March 2, 2020, to shareholders of record at the close of business on February 14, 2020. 
+
+On January 29, 2020, the company declared a fourth quarter 2019 dividend of $0.31 per common share, payable on March 2, 2020, to shareholders of record at the close of business on February 13, 2020 with an ex-dividend date of February 12, 2020.
+
+The declaration, payment and amount of any future dividends will be declared by our Board of Directors and will depend upon, among other factors, our earnings, financial condition and capital requirements at the time such declaration and payment are considered. The Board has a policy of managing dividends in a prudent fashion, with due consideration given to profit levels, overall debt levels, and historical dividend payouts. 
+
+Common Share Repurchase Plan 
+
+ During the year ended December 31, 2019, the company repurchased 5.6 million common shares in the open market at a cost of $110.8 million (December 31, 2018: none) Separately, an aggregate of 3.3 million common shares were withheld on vesting events during the year ended December 31, 2019 to meet employees' withholding tax obligations (December 31, 2018: 1.6 million). The fair value of these shares withheld at the respective withholding dates was $59.0 million (December 31, 2018: $48.9 million). 
+
+Additionally, during the year ended December 31, 2019, the company entered into three forward contracts to repurchase $500.0 million of shares as part of its announced $1.2 billion common stock buyback program. Under these contracts, the counterparty purchased 25.8 million shares during the year ended December 31, 2019 (December 31, 2018: $300.0 million; 14.4 million shares). See Note 10, “Share Capital” for details of these forward contracts and the related treasury shares recorded as of December 31, 2019. At December 31, 2019, approximately $732.2 million remained authorized under the company's common share repurchase authorization approved by the Board on July 22, 2016 (December 31, 2018: $1,343.0 million). 
+
+The forward contract completed in the fourth quarter of 2018 for $300 million of common shares settled on July 1, 2019.
+
+Long-term debt
+
+The carrying value of our long-term debt at December 31, 2019 was $2,080.3 million (December 31, 2018: $2,408.8 million) and was comprised of the following:
+
+[DATA_TABLE_REMOVED]
+
+For the year ended December 31, 2019, the company's weighted average cost of debt was 3.93% (year ended December 31, 2018: 3.83%). 
+
+Financial covenants under the credit agreement include: (i) the quarterly maintenance of a debt/EBITDA leverage ratio, as defined in the credit agreement, of not greater than 3.25:1.00, (ii) an interest coverage ratio (EBITDA, as defined in the credit agreement/interest payable for the four consecutive fiscal quarters ended before the date of determination) of not less than 4.00:1.00. As of December 31, 2019, we were in compliance with our financial covenants. At December 31, 2019, our leverage ratio was 1.31:1.00 (December 31, 2018: 1.51:1.00), and our interest coverage ratio was 11.76:1.00 (December 31, 2018: 14.37:1.00).
+
+65
+
+Table of Contents 
+
+The December 31, 2019 and 2018 coverage ratio calculations are as follows:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+(1)Adjustments for unrealized gains and losses from investments, as defined in our credit facility, may also include non-cash gains and losses on investments to the extent that they do not represent anticipated future cash receipts or expenditures.[DATA_TABLE_REMOVED]
+
+The discussion that follows identifies risks associated with the company's liquidity and capital resources. The Item 1. Business -- Risk Management section contains a broader discussion of the company's overall approach to risk management. 
+
+Credit and Liquidity Risk 
+
+Capital management involves the management of the company's liquidity and cash flows. The company manages its capital by reviewing annual and projected cash flow forecasts and by monitoring credit, liquidity and market risks, such as interest rate and foreign currency risks (as discussed in Item 7A, “Quantitative and Qualitative Disclosures About Market Risk”), through measurement and analysis. The company is primarily exposed to credit risk through its cash and cash equivalent deposits, which are held by external firms. The company invests its cash balances in its own institutional money market products, as well as with external high credit-quality financial institutions. These arrangements create exposure to concentrations of credit risk.
+
+Credit Risk
+
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing to meet an obligation. All cash and cash equivalent balances are subject to credit risk, as they represent deposits made by the company with external banks and other institutions. As of December 31, 2019, our maximum exposure to credit risk related to our cash and cash equivalent balances is $1,049.0 million. See Item 8, Financial Statements and Supplementary Data - Note 21, “Related Parties,” for information regarding cash and cash equivalents invested in affiliated money market funds.
+
+The company does not utilize credit derivatives or similar instruments to mitigate the maximum exposure to credit risk. The company does not expect any counterparties to its financial instruments to fail to meet their obligations.
+
+66
+
+Table of Contents 
+
+Liquidity Risk
+
+Liquidity risk is the risk that the company will encounter difficulty in meeting obligations associated with its financial liabilities as the same become due. The company is exposed to liquidity risk through its $2,080.3 million in total debt. The company actively manages liquidity risk by preparing cash flow forecasts for future periods, reviewing them regularly with senior management, maintaining a committed credit facility, scheduling significant gaps between major debt maturities and engaging external financing sources in regular dialogue.
+
+Effects of Inflation
+
+Inflation can impact our organization primarily in two ways. First, inflationary pressures can result in increases in our cost structure, especially to the extent that large expense components such as compensation are impacted. To the degree that these expense increases are not recoverable or cannot be counterbalanced through pricing increases due to the competitive environment, our profitability could be negatively impacted. Secondly, the value of the assets that we manage may be negatively impacted when inflationary expectations result in a rising interest rate environment. Declines in the values of these AUM could lead to reduced revenues as management fees are generally calculated based upon the size of AUM.
+
+Off Balance Sheet Commitments
+
+See Item 8, Financial Statements and Supplementary Data - Note 19, “Commitments and Contingencies - Off Balance Sheet Commitments,” for more information regarding undrawn capital commitments. 
+
+Contractual Obligations
+
+We have various financial obligations that require future cash payments. The following table outlines the timing of payment requirements related to our commitments as of December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+____________
+
+[DATA_TABLE_REMOVED]
+
+(2)Operating leases reflect obligations for leased building space and other assets. 
+
+Included in the table above is an additional operating lease the company entered into during the third quarter of 2019, but has not yet commenced. The expected lease obligations are approximately $232.5 million which will be paid over an expected lease term of 15 years. This operating lease will commence in fiscal year 2022. See Item 8, Financial Statements and Supplementary Data - Note 14, “Operating Leases” for sublease information. 
+
+(3)In the ordinary course of business, Invesco enters into contracts or purchase obligations with third parties whereby the third parties provide services to or on behalf of Invesco. Purchase obligations included in the contractual obligations table above represent fixed-price contracts, which are either non-cancelable or cancelable with a penalty. At December 31, 2019, the company's obligations primarily reflect standard service contracts for portfolio, market data, office-related services and third-party marketing and promotional services. In addition, the company is a party to certain variable-price contractual arrangements (e.g. contingent future payments based on AUM levels, number of accounts, transaction volume, etc.) for which the company is reimbursed by affiliated funds and as such are not included in the table above. Purchase obligations are recorded as liabilities in the company's Consolidated Financial Statements when services are provided. Purchase obligations also include contingent consideration liabilities. 
+
+67
+
+Table of Contents 
+
+During the year ended December 31, 2019, the company entered into three forward contracts to repurchase $500.0 million of shares as part of its announced $1.2 billion common stock buyback program. At December 31, 2019 the payable was $496.5 million and is included in other liabilities. See Item 8, Financial Statements and Supplementary Data - Note 10, “Share Capital” for additional details. 
+
+(4)The company has capital commitments into co-invested funds that are to be drawn down over the life of the partnership as investment opportunities are identified. At December 31, 2019, the company's undrawn capital and purchase commitments were $357.0 million. These are not included in the above table. See Item 8, Financial Statements and Supplementary Data - Note 19, “Commitments and Contingencies” for additional details. 
+
+(5)Due to the uncertainty with respect to the timing of future cash flows associated with unrecognized tax benefits at December 31, 2019, the company is unable to make reasonably reliable estimates of the period of cash settlement with the respective taxing authorities. Therefore, $69.9 million of gross unrecognized tax benefits have been excluded from the contractual obligations table above. See Item 8, Financial Statements and Supplementary Data, Note 16 - “Taxation” for a discussion regarding income taxes.
+
+[DATA_TABLE_REMOVED]
+
+(7) In addition to the contractual obligations in the table above, and pursuant to an agreement entered into at the consummation of the acquisition of OppenheimerFunds, MassMutual, as the holder of seed capital investments in certain funds and accounts included in the acquisition, has the right to redeem its seed capital investments in accordance with an agreed upon schedule. In the event MassMutual exercises its redemption rights and the applicable fund or account is unable to meet such redemption (for example, due to illiquid investments or the need to maintain a level of investment in the fund), the company would be required to fund such redemption to MassMutual and seek reimbursement from the applicable fund or account at a later time when the fund or account is able to fulfill a redemption request. At December 31, 2019, the total amount of seed capital subject to this agreement is approximately $625 million. Since December 31, 2019, MassMutual exercised its redemption rights and redeemed a portion of the seed capital per the agreed upon schedule. As of the date of this report, the company was not required to fund these redemptions nor does the company anticipate having to fund any of the seed capital subject to this agreement. 
+
+Critical Accounting Policies and Estimates
+
+Our significant accounting policies are disclosed in Item 8, Financial Statements and Supplementary Data - Note 1, “Accounting Policies." The accounting policies and estimates that we believe are the most critical to an understanding of our results of operations and financial condition are those that require complex management judgment regarding matters that are highly uncertain at the time policies were applied and estimates were made. These accounting policies and estimates are discussed below; however, the additional accounting policy detail in the footnote previously referenced is important to the discussion of each of the topics. Different estimates reasonably could have been used in the current period that would have had a material effect on these Consolidated Financial Statements, and changes in these estimates are likely to occur from period-to-period in the future.
+
+Goodwill
+
+Our goodwill impairment testing conducted during 2019 and 2018 indicated that the fair value of the reporting unit more likely than not exceeded its carrying value. During 2019, the optional qualitative approach indicated that a quantitative assessment of the goodwill impairment test was not necessary; whereas, during 2018 management elected to proceed directly to a quantitative goodwill impairment test. The company cannot predict the occurrence of future events that might adversely affect the reported value of goodwill that totaled $8,509.4 million and $7,157.1 million at December 31, 2019 and December 31, 2018, respectively. Such events include, but are not limited to, strategic decisions made in response to economic and competitive conditions, the impact of the economic environment on the company's AUM, or any other material negative change in AUM and related effective fee rates. 
+
+68
+
+Table of Contents 
+
+When management utilizes the option to first assess goodwill impairment on a qualitative basis, the totality of certain events and circumstances are assessed to determine if it is not more likely than not that the fair value of the reporting unit is less than its carrying amount. Such events and circumstances include macroeconomic conditions, industry and market considerations, overall financial performance of the company, and or significant changes in share price. If the qualitative assessment indicates that an impairment may be likely or management elected to not perform the qualitative assessment, management performs a quantitative test to determine the fair value of the reporting unit. The fair value of the reporting unit is generally determined using an income approach where estimated future cash flows are discounted to arrive at a single present value amount. The income approach includes inputs that require significant management judgment, including AUM growth rates, projected effective fee rates, pre-tax profit margins, effective tax rates and discount rates. 
+
+The quantitative test includes assumptions updated for current market conditions, including the company's updated forecasts for changes in AUM due to market gains or losses and long-term net flows and the corresponding changes in revenue and expenses. Market gains are based upon historical returns of the S&P 500 index, treasury bond returns and treasury bill returns, as applicable to the company's AUM mix on the testing date. The most sensitive of these assumptions are the estimated cash flows and the use of a weighted average cost of capital as the discount rate to determine present value. The discount rates used are estimates of the weighted average cost of capital for the investment management sector reflecting the overall industry risks associated with future cash flows and have been calculated consistently from period to period. While the company believes all assumptions utilized in our assessment are reasonable and appropriate, changes in these estimates could produce different fair value amounts and therefore different goodwill impairment assessments.
+
+Intangible Assets
+
+Where evidence exists that the underlying arrangements have a high likelihood of continued renewal at little or no cost to the company, the intangible asset is assigned an indefinite life and reviewed for impairment on an annual basis. Similar to Goodwill, management has the option to first assess indefinite-lived intangible assets for qualitative factors to determine whether it is necessary to perform a quantitative impairment test. Definite-lived intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that their carrying amount may not be recoverable (i.e. the carrying amount exceeds the fair value of the intangible asset). In addition, management's judgment is required to estimate the period over which definite-lived intangible assets will contribute to the company's cash flows and the pattern in which these assets will be consumed. A change in the remaining useful life of any of these assets, or the reclassification of an indefinite-lived intangible asset to a definite-lived intangible asset, could have a significant impact on the company's amortization expense, which was $52.7 million, $29.7 million and $17.4 million for the years ended December 31, 2019, 2018 and 2017, respectively. 
+
+Intangible assets not subject to amortization are tested for impairment annually as of October 1 or more frequently if events or changes in circumstances indicate that the asset might be impaired. If a quantitative assessment is required, the impairment test consists of a comparison of the fair value of an intangible asset with its carrying amount. If the carrying amount of the intangible asset exceeds its fair value, an impairment loss is recognized in an amount equal to that excess. If required, fair value is generally determined using an income approach where estimated future cash flows are discounted to arrive at a single present value amount. The income approach includes inputs that require significant management judgment, including AUM growth rates, product mix, projected effective fee rates, pre-tax profit margins, effective tax rates and discount rates. The most relevant of these assumptions to the determination of the estimated fair value are the AUM growth rate and discount rate, which is a weighted average cost of capital including consideration of company size premiums. Changes in these estimates could produce different fair value amounts and therefore different impairment conclusions. During 2019 and 2018, our annual impairment reviews of indefinite-lived intangible assets determined that no impairment existed at the respective review dates, the classifications of indefinite-lived and definite-lived remain appropriate, and no changes to the expected lives of the definite-lived intangible assets were required. 
+
+In May 2019, the company acquired MassMutual's asset management affiliate, OppenheimerFunds, for total consideration of approximately $5.6 billion comprised of cash and stock. The resulting synergy further enhances the company’s ability to meet client needs through its comprehensive range of high-conviction active, passive and alternative capabilities.
+
+Management applied a significant amount of judgment when developing the fair value measurement of the management fee contracts intangible assets. Fair value was determined using an income approach where estimated future cash flows were discounted to arrive at present value amounts. See Note 1, “Accounting Policies” and Note 2, “Business Combination” to the consolidated financial statements for further information surrounding the estimates of identified assets acquired, liabilities assumed, and consideration transferred. Also see Note 1 to the consolidated financial statements for the company’s Acquisition policy.
+
+The income approach includes inputs that require significant management judgment including, but not limited to, (i) the future AUM growth rates for different product categories and their related net flows and market appreciation; (ii) projected effective fee rates; (iii) pre-tax profit margins; (iv) the useful lives of finite-lived intangible assets; and (v) discount rate.
+
+69
+
+Table of Contents 
+
+CIP
+
+Assessing if an entity is a variable interest entity (VIE) or voting interest entity (VOE) involves judgment and analysis on a structure-by-structure basis. Factors included in this assessment include the legal organization of the entity, the company's contractual involvement with the entity and any related party or de facto agent implications of the company's involvement with the entity. A VIE, in the context of the company and its managed funds, is a fund that does not have sufficient equity to finance its operations without additional subordinated financial support, or a fund for which the risks and rewards of ownership are not directly linked to voting interests. If the company is deemed to have the power to direct the activities of the fund that most significantly impact the fund's economic performance, and the obligation to absorb losses/right to receive benefits from the fund that could potentially be significant to the fund, then the company is deemed to be the fund's primary beneficiary and is required to consolidate the fund. 
+
+Determining if the company is the primary beneficiary of a VIE also requires significant judgment involved to assess if the company has the power to direct the activities that most significantly affect the fund's economic results and to assess if the company's interests could be deemed significant. If current financial statements are not available for consolidated VIEs or VOEs, estimation of investment valuation is required, which includes assessing available quantitative and qualitative data. Significant changes in these estimates could impact the reported value of the investments held by CIP and the related offsetting equity attributable to noncontrolling interests in consolidated entities on the Consolidated Balance Sheets and the other gains and losses of CIP, net, and related offsetting gains and losses attributable to noncontrolling interests in consolidated entities, net, amounts on the Consolidated Statements of Income. 
+
+As of December 31, 2019, the company consolidated CIP that held investments of $7,808.0 million (December 31, 2018: $6,213.5 million). 
+
+Contingencies
+
+Contingencies arise when we have a present obligation as a result of a past event that is both probable and reasonably estimable. We must from time to time make material estimates with respect to legal and other contingencies. The nature of our business requires compliance with various laws and regulations, as well as various contractual obligations, and exposes us to a variety of legal proceedings and matters in the ordinary course of business. While the outcomes of matters such as these are inherently uncertain and difficult to predict, we maintain reserves reflected in accounts payable and accrued expenses, as appropriate, for identified losses that are, in our judgment, probable and reasonably estimable. We expense any related legal fees as they are incurred. Management's judgment is based on the advice of legal counsel, ruling on various motions by the applicable court, review of the outcome of similar matters, if applicable, and review of guidance from governmental and other regulatory authorities, if applicable. Contingent consideration payable in relation to a business acquisition is recorded as of the acquisition date as part of the fair value transferred in exchange for the acquired business.
+
+Recent Accounting Standards
+
+See Item 8, Financial Statements and Supplementary Data - Note 1, “Accounting Policies - Accounting Pronouncements Recently Adopted and Pending Accounting Pronouncements.”
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk

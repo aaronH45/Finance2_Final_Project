@@ -1,0 +1,54 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are subject to certain risks that may affect our results of operations, cash flow and fair values of assets and liabilities, including volatility in foreign currency exchange rates, interest rate movements and equity price exposure as well as changes in economic conditions in the markets in which we operate as a result of the COVID-19 pandemic. We manage the impact of foreign currency exchange rates and interest rates through various financial instruments, including derivative instruments such as foreign currency forward contracts, interest rate lock contracts and interest rate swap contracts. We do not enter into financial instruments for trading or speculative purposes. The counterparties to these contracts are major financial institutions, and there is no significant concentration of exposure with any one counterparty.
+
+Foreign Currency Exchange Risk
+
+Our results of operations are subject to foreign currency exchange rate fluctuations due to the global nature of our operations. As a result, our consolidated financial position, results of operations and cash flow can be affected by market fluctuations in foreign currency exchange rates, primarily with respect to the Euro, British pound sterling, Canadian dollar, Swiss franc, Japanese yen and South Korean won.
+
+While the financial results of our global activities are reported in U.S. dollars, the functional currency for most of our foreign subsidiaries is their respective local currency. Fluctuations in the foreign currency exchange rates of the countries in which we do business will affect our operating results, often in ways that are difficult to predict. In particular, as the U.S. dollar strengthens versus other currencies, the value of the non-U.S. revenue will decline when reported in U.S. dollars. The impact to net income as a result of a strengthening U.S. dollar will be partially mitigated by the value of non-U.S. expense, which will also decline when reported in U.S. dollars. As the U.S. dollar weakens versus other currencies, the value of the non-U.S. revenue and expense will increase when reported in U.S. dollars.
+
+We have established revenue and operating expense hedging and balance sheet risk management programs to protect against volatility of future foreign currency cash flows and changes in fair value caused by volatility in foreign currency exchange rates.
+
+During the second quarter of 2018 the International Practices Task Force of the Center for Audit Quality categorized Argentina as a country with a projected three-year cumulative inflation rate greater than 100.0%, which indicated that Argentina’s economy is highly inflationary. This categorization did not have a material impact on our results of operations or financial position as of December 31, 2021, and is not expected to have a material impact on our results of operations or financial position in the future.
+
+Revenue and Operating Expense Hedging Program
+
+Our foreign currency hedging program is designed to mitigate, over time, a portion of the impact resulting from volatility in exchange rate changes on revenue and operating expense. We use foreign currency forward contracts to manage foreign currency risk, with the majority of our forward contracts used to hedge certain forecasted revenue and operating expense transactions denominated in foreign currencies in the next 15 months. We do not engage in currency speculation. For a more detailed disclosure of our revenue and operating expense hedging program, please read Note 9, Derivative Instruments, to our consolidated financial statements included in this report. 
+
+Our ability to mitigate the impact of foreign currency exchange rate changes on revenue and net income diminishes as significant foreign currency exchange rate fluctuations are sustained over extended periods of time. In particular, devaluation or significant deterioration of foreign currency exchange rates are difficult to mitigate and likely to negatively impact earnings. The cash flow from these contracts are reported as operating activities in our consolidated statements of cash flow.
+
+Balance Sheet Risk Management Hedging Program
+
+We also use forward contracts to mitigate the foreign currency exposure related to certain balance sheet items. The primary objective of our balance sheet risk management program is to mitigate the exposure of foreign currency denominated net monetary assets and liabilities of foreign affiliates. In these instances, we principally utilize currency forward contracts. We have not elected hedge accounting for the balance sheet related items. The cash flow from these contracts are reported as operating activities in our consolidated statements of cash flow.
+
+The following quantitative information includes the impact of currency movements on forward contracts used in our revenue, operating expense and balance sheet hedging programs. As of December 31, 2021 and 2020, a hypothetical adverse 10.0% movement in foreign currency exchange rates compared to the U.S. dollar across all maturities 
+
+87
+would result in a hypothetical decrease in the fair value of forward contracts of approximately $333.1 million and $458.2 million, respectively. The estimated fair value change was determined by measuring the impact of the hypothetical exchange rate movement on outstanding forward contracts. Our use of this methodology to quantify the market risk of such instruments is subject to assumptions and actual impact could be significantly different. The quantitative information about market risk is limited because it does not take into account all foreign currency operating transactions.
+
+Net Investment Hedge Program
+
+Our net investment hedging program is designed to mitigate currency fluctuations between the U.S. dollar and the South Korean won as a result of our approximately 49.9% ownership interest in Samsung Bioepis. We entered into foreign currency forward contracts to hedge changes in the spot rate over the next 10 months. As of December 31, 2021 and 2020, a hypothetical adverse 10.0% movement would result in a hypothetical decrease in fair value of approximately $58.7 million and $56.9 million, respectively. The estimated fair value was determined by measuring the impact of the hypothetical spot rate movement on outstanding forward contracts. We plan to unwind our foreign currency forward contracts in conjunction with the closing of our proposed sale of our ownership interest in Samsung Bioepis to Samsung Biologics. Closing of the transaction is currently anticipated in mid-2022, contingent on the effectiveness of a securities registration statement filed by Samsung Biologics and satisfaction of certain regulatory and other customary closing conditions. 
+
+Interest Rate Risk
+
+Our investment portfolio includes cash equivalents and short-term investments. The fair value of our marketable securities is subject to change as a result of potential changes in market interest rates. The potential change in fair value for interest rate sensitive instruments has been assessed on a hypothetical 100 basis point adverse movement across all maturities. As of December 31, 2021 and 2020, we estimate that such hypothetical 100 basis point adverse movement would result in a hypothetical loss in fair value of approximately $14.3 million and $13.2 million, respectively, to our interest rate sensitive instruments. The fair values of our investments were determined using third-party pricing services or other market observable data.
+
+Credit Risk
+
+Financial instruments that potentially subject us to concentrations of credit risk include cash and cash equivalents, investments, derivatives and accounts receivable. We attempt to minimize the risks related 
+
+to cash and cash equivalents and investments by investing in a broad and diverse range of financial instruments. We have established guidelines related to credit ratings and maturities intended to safeguard principal balances and maintain liquidity. Our investment portfolio is maintained in accordance with our investment policy, which defines allowable investments, specifies credit quality standards and limits the credit exposure of any single issuer. We minimize credit risk resulting from derivative instruments by choosing only highly rated financial institutions as counterparties.
+
+We operate in certain countries where weakness in economic conditions, including as a result of the COVID-19 pandemic, can result in extended collection periods. We continue to monitor these conditions, including the volatility associated with international economies and the relevant financial markets, and assess their possible impact on our business. To date, we have not experienced any significant losses with respect to the collection of our accounts receivable.
+
+We believe that our allowance for doubtful accounts was adequate as of December 31, 2021 and 2020.
+
+Equity Price Risk
+
+Our strategic investment portfolio includes investments in equity securities of certain biotechnology companies. While we are holding such securities, we are subject to equity price risk, and this may increase the volatility of our income in future periods due to changes in the fair value of equity investments. We may sell such equity securities based on our business considerations, which may include limiting our price risk.
+
+Changes in the fair value of these equity securities are impacted by the volatility of the stock market and changes in general economic conditions, among other factors. The potential change in fair value for equity price sensitive instruments has been assessed on a hypothetical 10.0% adverse movement. As of December 31, 2021 and 2020, a hypothetical adverse 10.0% movement would result in a hypothetical decrease in fair value of approximately $104.8 million and $188.8 million, respectively.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

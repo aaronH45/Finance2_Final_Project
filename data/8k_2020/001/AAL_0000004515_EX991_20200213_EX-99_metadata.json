@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000004515",
+    "sec_company_name": "AMERICAN AIRLINES, INC. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200213",
+    "sec_filing_date": "20200213",
+    "sec_changed_date": "20200213",
+    "sec_accepted_date": "20200213103712",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620120000018/0000006201-20-000018-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/6201/000000620120000018/0000006201-20-000018.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\AAL_0000004515_EX991_20200213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "20929 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 9160,
+    "endpoints": [
+        "Exhibit  ",
+        "American Airlines offers customers 6,800 daily flights to more than 365 destinations in 61 countries from its hubs in Charlotte, Chicago, Dallas-Fort Worth, Los Angeles, Miami, New York, Philadelphia, Phoenix and Washington, D.C. With a shared purpose of caring for people on life's journey, American's 130,000 global team members serve more than 200 million customers annually. Since 2013, American has invested more than $28 billion in its product and people and now flies the youngest fleet among U.S. network carriers, equipped with industry-leading high-speed Wi-Fi, lie-flat seats, and more inflight entertainment and access to power. American also has enhanced food and beverage options in the air and on the ground in its world-class Admirals Club and Flagship lounges. American was recently named a Five Star Global Airline by the Airline Passenger Experience Association and Airline of the Year by Air Transport World. American is a founding member of oneworld®, whose members serve 1,100 destinations in 180 countries and territories. Shares of American Airlines Group Inc. trade on Nasdaq under the ticker symbol AAL and the company's stock is included in the S&P 500. Learn more about what's happening at American by visiting news.aa.com and connect with American on Twitter @AmericanAir and at Facebook.com/AmericanAirlines."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "AAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\001\AAL_0000004515_EX991_20200213_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:36:20.796773"
+}

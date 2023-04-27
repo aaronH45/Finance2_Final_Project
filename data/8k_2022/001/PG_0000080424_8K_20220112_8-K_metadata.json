@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220112",
+    "sec_filing_date": "20220112",
+    "sec_changed_date": "20220112",
+    "sec_accepted_date": "20220112161911",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042422000004/0000080424-22-000004-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042422000004/0000080424-22-000004.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PG_0000080424_8K_20220112_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "64818 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4945,
+    "endpoints": [
+        "false000008042400000804242022-01-122022-01-120000080424pg:Two000NotesDue2022Member2022-01-122022-01-120000080424pg:One800NotesDue2029Member2022-01-122022-01-120000080424pg:Five250GBPNotesDueJanuary2033Member2022-01-122022-01-120000080424pg:One250NotesDue2029Member2022-01-122022-01-120000080424pg:One125NotesDue2023Member2022-01-122022-01-120000080424pg:Six250GBPNotesDueJanuary2030Member2022-01-122022-01-120000080424pg:Four875EURNotesDueMay2027Member2022-01-122022-01-120000080424pg:Zero230NotesDue2031Member2022-01-122022-01-120000080424pg:Zero900NotesDue2041Member2022-01-122022-01-120000080424pg:Zero110NotesDue2026Member2022-01-122022-01-120000080424pg:Zero500NotesDue2024Member2022-01-122022-01-120000080424pg:Zero350NotesDue2030Member2022-01-122022-01-120000080424pg:Zero625NotesDue2024Member2022-01-122022-01-120000080424pg:One375NotesDue2025Member2022-01-122022-01-120000080424pg:One875NotesDue2038Member2022-01-122022-01-120000080424pg:One200NotesDue2028Member2022-01-122022-01-12 ",
+        "   January 12, 2022"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\001\PG_0000080424_8K_20220112_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:21:47.879351"
+}

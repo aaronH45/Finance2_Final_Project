@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001166691",
+    "sec_company_name": "COMCAST CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180227",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180227",
+    "sec_accepted_date": "20180227115712",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1166691/000095010318002465/0000950103-18-002465-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1166691/000095010318002465/0000950103-18-002465.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\CMCSA_0001166691_EX991_20180227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "37833 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 13159,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "Details of the offeree and offeror companies in respect of whose relevant securities Opening Position Disclosures and Dealing Disclosures must be made can be found in the Disclosure Table on the Takeover Panel's website at www.thetakeoverpanel.org.uk, including details of the number of relevant securities in issue, when the offer period commenced and when any offeror was first identified. You should contact the Panel's Market Surveillance Unit on +44 (0) 20 7638 0129 if you are in any doubt as to whether you are required to make an Opening Position Disclosure or a Dealing Disclosure."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "CMCSA",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\CMCSA_0001166691_EX991_20180227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:29:19.281938"
+}

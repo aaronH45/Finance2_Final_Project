@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001413329",
+    "sec_company_name": "Philip Morris International Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180221",
+    "sec_filing_date": "20180221",
+    "sec_changed_date": "20180221",
+    "sec_accepted_date": "20180221091347",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1413329/000141332918000012/0001413329-18-000012-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1413329/000141332918000012/0001413329-18-000012.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\PM_0001413329_EX991_20180221_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10789 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4770,
+    "endpoints": [
+        "Exhibit   ",
+        "We are a leading international tobacco company engaged in the manufacture and sale of cigarettes and other nicotine-containing products in markets outside the United States of America. We’re building our future on smoke-free products that are a much better consumer choice than continuing to smoke cigarettes. Through multidisciplinary capabilities in product development, state-of-the-art facilities and scientific substantiation, we aim to ensure that our smoke-free products meet adult consumer preferences and rigorous regulatory requirements. Our vision is that these products ultimately replace cigarettes to the benefit of adult smokers, society, our company and our shareholders. For more information, see www.pmi.com and www.pmiscience.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\004\PM_0001413329_EX991_20180221_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:32:02.915701"
+}

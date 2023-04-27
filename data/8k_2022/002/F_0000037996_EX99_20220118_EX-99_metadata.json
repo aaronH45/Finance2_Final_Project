@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20220118",
+    "sec_filing_date": "20220118",
+    "sec_changed_date": "20220118",
+    "sec_accepted_date": "20220118160637",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799622000005/0000037996-22-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799622000005/0000037996-22-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\F_0000037996_EX99_20220118_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "4890 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 3907,
+    "endpoints": [
+        "exhibit99jan182022   ",
+        "2 About Ford Motor Company Ford Motor Company (NYSE: F) is a global company based in Dearborn, Michigan, that is committed to helping build a better world, where every person is free to move and pursue their dreams. The company’s Ford+ plan for growth and value creation combines existing strengths, new capabilities and always-on relationships with customers to enrich experiences for and deepen the loyalty of those customers. Ford designs, manufactures, markets and services a full line of connected, increasingly electrified passenger and commercial vehicles: Ford trucks, utility vehicles, vans and cars, and Lincoln luxury vehicles. The company is pursuing leadership positions in electrification, connected vehicle services and mobility solutions, including self-driving technology, and provides financial services through Ford Motor Credit Company. Ford employs about 184,000 people worldwide. More information about the company, its products and Ford Motor Credit Company is available at corporate.ford.com. Contacts: Fixed Income Media T.R. Reid Equity Investment Community Lynn Antipas Tyson Investment Community Karen Rocoff Shareholder Inquiries 1.800.555.5259 or 1.313.319.6683 1.914.485.1150 1.313.621.0965 1.313.845.8540 treid22@ford.com ltyson4@ford.com krocoff@ford.com stockinf@ford.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0011\002\F_0000037996_EX99_20220118_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 11,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-17 00:20:00.439699",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:24:29.245374"
+}

@@ -1,0 +1,117 @@
+xml version='1.0' encoding='UTF-8'?      U
+
+0000831001false00008310012020-02-232020-02-230000831001us-gaap:CommonStockMember2020-02-232020-02-230000831001c:VelocitySharesShortLIBORETNsDueAugust162032OfCGMHIMember2020-02-232020-02-230000831001c:VelocitySharesLongLIBORETNsDueAugust162032OfCGMHIMember2020-02-232020-02-230000831001c:VelocityShares3xLongCrudeOilETNsLinkedToTheSPGSCICrudeOilIndexERDueDecember152031OfCGMHIMember2020-02-232020-02-230000831001c:VelocityShares3xInverseCrudeOilETNsLinkedToTheSPGSCICrudeOilIndexERDueDecember152031OfCGMHIMember2020-02-232020-02-230000831001c:SixPointEightTwoNinePercentFixedRateFloatingRateEnhancedTrustPreferredSecuritiesOfCitigroupCapitalXVIIIMember2020-02-232020-02-230000831001c:SevenPointSixTwoFivePercentTrustPreferredSecuritiesOfCitigroupCapitalIIIMember2020-02-232020-02-230000831001c:SevenPointEightSevenFivePercentFixedRateFloatingRateTrustPreferredSecuritiesOfCitigroupCapitalXIIIMember2020-02-232020-02-230000831001c:MediumTermSeniorNotesSeriesNCallableStepUpCouponNotesDueMarch312036OfCGMHIMember2020-02-232020-02-230000831001c:MediumTermSeniorNotesSeriesGCallableFixedRateNotesDueJanuary132027Member2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.JPYIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.GBPIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.EURIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.CHFIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongUSDVs.AUDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongJPYVs.USDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongGBPVs.USDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongEURVs.USDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongCHFVs.USDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:ExchangeTradedNotesBasedOnThePerformanceOfTheVelocitySharesDaily4XLongAUDVs.USDIndexDueDecember152032OfCGMHIMember2020-02-232020-02-230000831001c:DepositorySharesRepresenting11000thInterestInShareOf7.125NoncumulativePreferredStockSeriesJMember2020-02-232020-02-230000831001c:DepositorySharesRepresenting11000thInterestInAShareOf6.875NoncumulativePreferredStockSeriesKMember2020-02-232020-02-230000831001c:DepositorySharesRepresenting11000thInterestInAShareOf6.300NoncumulativePreferredStockSeriesSMember2020-02-232020-02-230000831001c:CTracksExchangeTradedNotesOnTheMillerHowardMLPFundamentalIndexSeriesBDueJuly132026Member2020-02-232020-02-230000831001c:CTracksExchangeTradedNotesMillerHowardStrategicDividendReinvestorDueSeptember162024Member2020-02-232020-02-230000831001c:CTracksExchangeTradedNotesBasedOnThePerformanceOfTheMillerHowardMLPFundamentalIndexDueSeptember282023Member2020-02-232020-02-23
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+​
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+​
+
+Date of Report (Date of earliest event reported) February 23, 2020
+
+Citigroup Inc.
+
+(Exact name of registrant as specified in its charter)
+
+​[DATA_TABLE_REMOVED]
+
+​
+
+(212) 559-1000
+
+(Registrant's telephone number,
+
+including area code)
+
+​
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+​
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+​
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+​
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934 formatted in Inline XBRL: See Exhibit 99.01
+
+​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). 
+
+​
+
+Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+
+​
+
+​ 
+
+CITIGROUP INC.
+
+Current Report on Form 8-K
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+On February 23, 2020, Raja Akram informed Citigroup Inc. (Citi) that he would resign from his position as Controller and Chief Accounting Officer to pursue another opportunity, effective February 23, 2020. 
+
+Effective February 25, 2020, Citi appointed Jeff Walsh as interim Controller and Chief Accounting Officer while a search for a permanent replacement is conducted. Mr. Walsh, 62, had previously served as Controller and Chief Accounting Officer of Citi for eight years from 2009-2017, and Head of Transformation for the Independent Risk Management group from the end of 2017 to early 2019, before retiring from Citi in 2019.
+
+Mr. Walsh will be paid a base salary at the rate of $475,000 per year and will be eligible for discretionary incentive compensation and benefits in accordance with Citi’s plans and policies.
+
+​
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits[DATA_TABLE_REMOVED]
+
+​
+
+​
+
+​
+
+​ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.[DATA_TABLE_REMOVED]
+
+​
+
+​
+
+​
+
+​
+
+​

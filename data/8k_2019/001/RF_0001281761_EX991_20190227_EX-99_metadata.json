@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001281761",
+    "sec_company_name": "REGIONS FINANCIAL CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190227",
+    "sec_filing_date": "20190227",
+    "sec_changed_date": "20190227",
+    "sec_accepted_date": "20190227094026",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1281761/000128176119000029/0001281761-19-000029-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1281761/000128176119000029/0001281761-19-000029.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\RF_0001281761_EX991_20190227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "89303 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 36318,
+    "endpoints": [
+        "a01overviewexh991   ",
+        " Forward looking statements disclosure (continued) • Our ability to identify and address cyber‐security risks such as data security breaches, malware, “denial of service” attacks, “hacking” and identity theft, a failure of which could disrupt our business and result in the disclosure of and/or misuse or misappropriation of confidential or proprietary information, disruption or damage to our systems, increased costs, losses, or adverse effects to our reputation. • Our ability to realize our adjusted efficiency ratio target as part of our expense management initiatives. • Possible cessation or market replacement of LIBOR and the related effect on our LIBOR‐based financial products and contracts, including, but not limited to, hedging products, debt obligations, investments, and loans. • Possible downgrades in our credit ratings or outlook could increase the costs of funding from capital markets. • The effects of a possible downgrade in the U.S. government’s sovereign credit rating or outlook, which could result in risks to us and general economic conditions that we are not able to predict. • The effects of problems encountered by other financial institutions that adversely affect us or the banking industry generally could require us to change certain business practices, reduce our revenue, impose additional costs on us, or otherwise negatively affect our businesses. • The effects of the failure of any component of our business infrastructure provided by a third party could disrupt our businesses, result in the disclosure of and/or misuse of confidential information or proprietary information, increase our costs, negatively affect our reputation, and cause losses. • Our ability to receive dividends from our subsidiaries could affect our liquidity and ability to pay dividends to stockholders. • Changes in accounting policies or procedures as may be required by the FASB or other regulatory agencies could materially affect our financial statements and how we report those results, and expectations and preliminary analyses relating to how such changes will affect our financial results could prove incorrect. • Other risks identified from time to time in reports that we file with the SEC. • Fluctuations in the price of our common stock and inability to complete stock repurchases in the time frame and/or on the terms anticipated. • The effects of any damage to our reputation resulting from developments related to any of the items identified above. The foregoing list of factors is not exhaustive. For discussion of these and other factors that may cause actual results to differ from expectations, look under the captions “Forward‐Looking Statements” and “Risk Factors” of Regions’ Annual Report on Form 10‐K for the year ended December 31, 2018 as filed with the SEC. The words 'future,' “anticipates,” 'assumes,' “intends,” “plans,” “seeks,” “believes,” 'predicts,' 'potential,' 'objectives,' “estimates,” “expects,” “targets,” “projects,” “outlook,” “forecast,” 'would,' “will,” “may,” “might,” “could,” “should,” “can,” and similar terms and expressions often signify forward‐looking statements. You should not place undue reliance on any forward‐looking statements, which speak only as of the date made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them. We assume no obligation and do not intend to update or revise any forward‐looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law. Regions’ Investor Relations contact is Dana Nolan at (205) 264‐7040; Regions’ Media contact is Evelyn Mitchell at (205) 264‐4551. INVESTOR DAY 2019 | Overview | 30"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "RF",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\001\RF_0001281761_EX991_20190227_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:36:24.050915"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001510295",
+    "sec_company_name": "Marathon Petroleum Corp (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170103",
+    "sec_filing_date": "20170103",
+    "sec_changed_date": "20170103",
+    "sec_accepted_date": "20170103061610",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029517000002/0001510295-17-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1510295/000151029517000002/0001510295-17-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\MPC_0001510295_EX991_20170103_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "27082 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 19783,
+    "endpoints": [
+        "mpcupdateonstrategicacti  ",
+        "MPC Has an Extensive Suite of MLP-Qualifying Assets ~$1.4 Billion of Estimated Annual EBITDA  Equity in 50/50 blue water JV with Crowley  61 light product; ~20 MMBBL storage; 187 loading lanes  18 asphalt; ~4 MMBBL storage; 68 loading lanes  Utica investments (crude & condensate trucking and truck/barge terminals)  21 owned and 2,189 leased  793 general service; 1,102 high pressure; 315 open-top hoppers  59 MMBBL storage (tanks and caverns)  25 rail loading racks and 26 truck loading racks; 7 owned and 11 non-owned docks  2 condensate splitter investments  20 B gallons of fuels distribution volume at MPC/Speedway  Superior fuels distribution business model with no fuel inventory risk or working capital cost  Receives fixed service fee per gallon of fuel sold; not exposed to daily margin volatility  Captures entire margin from refinery gate to terminal  ~5,400 miles of additional pipelines (owns, leases or has an ownership interest) 13"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MPC",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\002\MPC_0001510295_EX991_20170103_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:05:14.663085"
+}

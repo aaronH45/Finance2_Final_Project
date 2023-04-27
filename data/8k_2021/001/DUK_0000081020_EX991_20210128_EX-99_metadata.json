@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000081020",
+    "sec_company_name": "Duke Energy Indiana, LLC (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210128",
+    "sec_filing_date": "20210128",
+    "sec_changed_date": "20210128",
+    "sec_accepted_date": "20210128171919",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1326160/000110465921008865/0001104659-21-008865-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1326160/000110465921008865/0001104659-21-008865.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\DUK_0000081020_EX991_20210128_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "9666 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 7085,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "4 | Cautionary Note Regarding Forward - Looking Information This document includes forward - looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21 E of the Securities Exchange Act of 1934. Forward - looking statements are based on management’s beliefs and assumptions and can often be i dentified by terms and phrases that include “anticipate,” “believe,” “intend,” “estimate,” “expect,” “continue,” “should,” “could,” “may,” “p lan,” “project,” “predict,” “will,” “potential,” “forecast,” “target,” “guidance,” “outlook” or other similar terminology. Various factors may cause actu al results to be materially different than the suggested outcomes within forward - looking statements; accordingly, there is no assurance that such results wi ll be realized. For details on the uncertainties that may cause our actual future results to be materially different than those expressed in our for ward - looking statements, see our 2019 Form 10 - K and Quarterly Reports on Form 10 - Q filed with the SEC and available at the SEC’s website at sec.gov. In l ight of these risks, uncertainties and assumptions, the events described in the forward - looking statements might not occur or might occur to a different extent or at a different time than described. Forward - looking statements speak only as of the date they are made. Duke Energy expressly discl aims an obligation to publicly update or revise any forward - looking statements, whether as a result of new information, future events, or otherwise . Duke Energy Corporation Non - GAAP Reconciliation GIC Investment in Duke Energy Indiana Adjusted Earnings per Share (EPS) Guidance Duke Energy Corporation’s (Duke Energy) materials for the GIC Investment in Duke Energy Indiana include a reference to the fo rec asted 2021 adjusted EPS guidance range of $5.00 to $5.30 per share, with a midpoint of approximately $5.15 per share. The materials also re ference the long - term range of annual growth of 5% - 7% off the midpoint of the 2021 adjusted EPS guidance range, revised up from 4% - 6%. T he forecasted adjusted EPS is a non - GAAP financial measure as it represents basic EPS available to Duke Energy Corporation common stockholders , adjusted for the per share impact of special items. Special items represent certain charges and credits, which management believes are no t indicative of Duke Energy’s ongoing performance. Management believes the presentation of adjusted EPS provides useful information to investors, as it provides them with an ad dit ional relevant comparison of Duke Energy’s performance across periods. Management uses this non - GAAP financial measure for planning and forecas ting and for reporting financial results to the Duke Energy Board of Directors, employees, stockholders, analysts and investors. Adjus ted EPS is also used as a basis for employee incentive bonuses. The most directly comparable GAAP measure for adjusted EPS is reported basic EPS available to Duke Energy Corporation common stockholders. Due to the forward - looking nature of this non - GAAP financial measure for future periods, information to reconcile it to the most directly comparable GAAP financial measure is not available at this time, as management is unable to project all special item s f or future periods, such as legal settlements, the impact of regulatory orders or asset impairments."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DUK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\001\DUK_0000081020_EX991_20210128_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:52:25.795147"
+}

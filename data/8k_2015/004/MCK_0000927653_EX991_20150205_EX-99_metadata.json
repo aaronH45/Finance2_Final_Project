@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000927653",
+    "sec_company_name": "MCKESSON CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150205",
+    "sec_filing_date": "20150205",
+    "sec_changed_date": "20150205",
+    "sec_accepted_date": "20150205162707",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312515035499/0001193125-15-035499-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927653/000119312515035499/0001193125-15-035499.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\MCK_0000927653_EX991_20150205_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "513857 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22884,
+    "endpoints": [
+        "EX-99.1   ",
+        "The Company internally uses non-GAAP financial measures such as Adjusted Earnings in connection with its own financial planning and reporting processes. Specifically, Adjusted Earnings serves as one of the measures management utilizes when allocating resources, deploying capital and assessing business performance and employee incentive compensation. Nonetheless, non-GAAP financial results and related measures disclosed by the Company should not be considered a substitute for, nor superior to, financial results and measures as determined or calculated in accordance with GAAP."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "MCK",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\004\MCK_0000927653_EX991_20150205_EX-99_excerpt.txt",
+    "time_elapsed": 0.4,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:37:20.018821"
+}

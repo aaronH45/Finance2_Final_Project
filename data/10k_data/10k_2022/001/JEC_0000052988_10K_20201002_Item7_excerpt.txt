@@ -1,0 +1,347 @@
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Critical Accounting Policies and Estimates
+
+In order to better understand the changes that occur to key elements of our financial condition, results of operations and cash flows, a reader of this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) should be aware of the critical accounting policies we apply in preparing our consolidated financial statements.
+
+The consolidated financial statements contained in this report were prepared in accordance with U.S. GAAP. The preparation of our consolidated financial statements and the financial statements of any business performing long-term professional services, engineering and construction-type contracts requires management to make certain estimates and judgments that affect both the entity’s results of operations and the carrying values of its assets and liabilities. Although our significant accounting policies are described in Note 2- Significant Accounting Policies of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K, the following discussion is intended to highlight and describe those accounting policies that are especially critical to the preparation of our consolidated financial statements.
+
+Revenue Accounting for Contracts
+
+Engineering, Procurement & Construction Contracts and Service Contracts
+
+On September 29, 2018, the Company adopted ASC Topic 606, Revenue from Contracts with Customers, including the subsequent ASUs that amended and clarified the related guidance. The Company recognizes engineering, procurement, and construction contract revenue over time, as performance obligations are satisfied, due to the continuous transfer of control to the customer. Upon adoption of ASC Topic 606, contracts which include engineering, procurement and construction services are generally accounted for as a single deliverable (a single performance obligation) and are no longer segmented between types of services. In some instances, the Company’s services associated with a construction activity are limited only to specific tasks such as customer support, consulting or supervisory services. In these instances, the services are typically identified as separate performance obligations.
+
+The Company recognizes revenue using the percentage-of-completion method, based primarily on contract costs incurred to date compared to total estimated contract costs. Estimated contract costs include the Company’s latest estimates using judgments with respect to labor hours and costs, materials, and subcontractor costs. The percentage-of-completion method (an input method) is the most representative depiction of the Company’s performance because it directly measures the value of the services transferred to the customer. Subcontractor materials, labor and equipment and, in certain cases, customer-furnished materials and labor and equipment are included in revenue and cost of revenue when management believes that the company is acting as a principal rather than as an agent (e.g., the company integrates the materials, labor and equipment into the deliverables promised to the customer or is otherwise primarily responsible for fulfillment and acceptability of the materials, labor and/or equipment). The Company recognizes revenue, but not profit, on certain uninstalled materials that are not specifically produced, fabricated, or constructed for a project. Revenue on these uninstalled materials is recognized when control is transferred. Changes to total estimated contract cost or losses, if any, are recognized in the period in which they are determined as assessed at the contract level. Pre-contract costs are expensed as incurred unless they are expected to be recovered from the client. Project mobilization costs are generally charged to project costs as incurred when they are an integrated part of the performance obligation being transferred to the client. Under the typical payment terms of our engineering, procurement and construction contracts, amounts are billed as work progresses in accordance with agreed-upon contractual terms at periodic intervals (e.g., biweekly or monthly) and customer payments on are typically due within 30 to 60 days of billing, depending on the contract.
+
+Page 56
+
+For service contracts, the Company recognizes revenue over time using the cost-to-cost percentage-of-completion method. Service contracts that include multiple performance obligations are segmented between types of services. For contracts with multiple performance obligations, the Company allocates the transaction price to each performance obligation using an estimate of the stand-alone selling price of each distinct service in the contract. In some instances where the Company is standing ready to provide services, the Company recognizes revenue ratably over the service period. Under the typical payment terms of our service contracts, amounts are billed as work progresses in accordance with agreed-upon contractual terms, and customer payments are typically due within 30 to 60 days of billing, depending on the contract.
+
+Direct costs of contracts include all costs incurred in connection with and directly for the benefit of client contracts, including depreciation and amortization relating to assets used in providing the services required by the related projects. The level of direct costs of contracts may fluctuate between reporting periods due to a variety of factors, including the amount of pass-through costs we incur during a period. On those projects where we are acting as principal for subcontract labor or third-party materials and equipment, we reflect the amounts of such items in both revenues and costs (and we refer to such costs as “pass-through costs”).
+
+Variable Consideration
+
+The nature of the Company’s contracts gives rise to several types of variable consideration, including claims and unpriced change orders; awards and incentive fees; and liquidated damages and penalties. The Company recognizes revenue for variable consideration when it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur. The Company estimates the amount of revenue to be recognized on variable consideration using the expected value (i.e., the sum of a probability-weighted amount) or the most likely amount method, whichever is expected to better predict the amount. Factors considered in determining whether revenue associated with claims (including change orders in dispute and unapproved change orders in regard to both scope and price) should be recognized include the following: (a) the contract or other evidence provides a legal basis for the claim, (b) additional costs were caused by circumstances that were unforeseen at the contract date and not the result of deficiencies in the company’s performance, (c) claim-related costs are identifiable and considered reasonable in view of the work performed, and (d) evidence supporting the claim is objective and verifiable. If the requirements for recognizing revenue for claims or unapproved change orders are met, revenue is recorded only when the costs associated with the claims or unapproved change orders have been incurred and only up to the amount of cost incurred. Back charges to suppliers or subcontractors are recognized as a reduction of cost when it is determined that recovery of such cost is probable and the amounts can be reliably estimated. Disputed back charges are recognized when the same requirements described above for claims accounting have been satisfied.
+
+The Company generally provides limited warranties for work performed under its engineering and construction contracts. The warranty periods typically extend for a limited duration following substantial completion of the Company’s work on the project. Historically, warranty claims have not resulted in material costs incurred for which the Company was not compensated for by the customer.
+
+Practical Expedient
+
+ If the Company has a right to consideration from a customer in an amount that corresponds directly with the value of the Company’s performance completed to date (a service contract in which the company bills a fixed amount for each hour of service provided), the Company recognizes revenue in the amount to which it has a right to invoice for services performed.
+
+The Company does not adjust the contract price for the effects of a significant financing component if the Company expects, at contract inception, that the period between when the Company transfers a service to a customer and when the customer pays for that service will be one year or less.
+
+Page 57
+
+ Joint Ventures and VIEs
+
+As is common to the industry, we execute certain contracts jointly with third parties through various forms of joint ventures. Although the joint ventures own and hold the contracts with the clients, the services required by the contracts are typically performed by us and our joint venture partners, or by other subcontractors under subcontracting agreements with the joint ventures. Many of these joint ventures are formed for a specific project. The assets of our joint ventures generally consist almost entirely of cash and receivables (representing amounts due from clients), and the liabilities of our joint ventures generally consist almost entirely of amounts due to the joint venture partners (for services provided by the partners to the joint ventures under their individual subcontracts) and other subcontractors. In general, at any given time, the equity of our joint ventures represents the undistributed profits earned on contracts the joint ventures hold with clients. Very few of our joint ventures have employees or third-party debt or credit facilities. The debt held by the joint ventures is non-recourse to the general credit of Jacobs. 
+
+The assets of a joint venture are restricted for use to the obligations of the particular joint venture and are not available for general operations of the Company. Our risk of loss on these arrangements is usually shared with our partners. The liability of each partner is usually joint and several, which means that each partner may become liable for the entire risk of loss on the project. Furthermore, on some of our projects, the Company has granted guarantees which may encumber both our contracting subsidiary company and the Company for the entire risk of loss on the project. The Company is unable to estimate the maximum potential amount of future payments that we could be required to make under outstanding performance guarantees related to joint venture projects due to a number of factors, including but not limited to, the nature and extent of any contractual defaults by our joint venture partners, resource availability, potential performance delays caused by the defaults, the location of the projects, and the terms of the related contracts. See Note 18- Contractual Guarantees, Litigation, Investigations and Insurance for further discussion.
+
+Our unconsolidated joint ventures (including equity method investments) are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the investment might not be recoverable, and impairment losses are recognized for such investments if there is a decline in fair value below carrying value that is considered to be other-than-temporary.
+
+Many of the joint ventures are deemed to be variable interest entities (“VIE”) because they lack sufficient equity to finance the activities of the joint venture. The Company uses a qualitative approach to determine if the Company is the primary beneficiary of the VIE, which considers factors that indicate a party has the power to direct the activities that most significantly impact the joint venture’s economic performance. These factors include the composition of the governing board, how board decisions are approved, the powers granted to the operational manager(s) and partner that holds that position(s), and to a certain extent, the partner’s economic interest in the joint venture. The Company analyzes each joint venture initially to determine if it should be consolidated or unconsolidated. 
+
+•Consolidated if the Company is the primary beneficiary of a VIE, or holds the majority of voting interests of a non-VIE (and no significant participative rights are available to the other partners).
+
+•Unconsolidated if the Company is not the primary beneficiary of a VIE, or does not hold the majority of voting interest of a non-VIE. 
+
+Share-Based Payments
+
+We measure the value of services received from employees and directors in exchange for an award of an equity instrument based on the grant-date fair value of the award. The computed value is recognized as a non-cash cost on a straight-line basis over the period the individual provides services, which is typically the vesting period of the award with the exception of the value of awards containing an internal performance measure, such as EPS growth and ROIC, which is recognized on a straight-line basis over the vesting period subject to the probability of meeting the performance requirements and adjusted for the number of shares expected to be earned. 
+
+Accounting for Pension Plans
+
+The accounting for pension plans requires the use of assumptions and estimates in order to calculate periodic pension cost and the value of the plans’ assets and liabilities. These assumptions include discount rates, investment returns and projected salary increases, among others. The actuarial assumptions used in determining the funded statuses of the plans are provided in Note 13 - Pension and Other Postretirement Benefit Plans of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+
+Page 58
+
+The expected rates of return on plan assets range from 2.3% to 7.5% for fiscal 2020 and 1.8% to 7% fiscal 2021. We believe the range of rates selected for fiscal 2020 reflects the long-term returns expected on the plans’ assets, considering recent market conditions, projected rates of inflation, the diversification of the plans’ assets, and the expected real rates of market returns. The discount rates used to compute plan liabilities decreased year over year with a range of 1.3% to 8.1% in fiscal 2019 and a range of 0.2% to 7.1% 2020. These assumptions represent the Company’s best estimate of the rates at which its pension obligations could be effectively settled.
+
+Changes in the actuarial assumptions often have a material effect on the values assigned to plan assets and liabilities, and the associated pension expense. For example, if the discount rate used to value the net pension benefit obligation (“PBO”) at October 2, 2020 was higher by 0.5%, the PBO would have been lower at that date by approximately $212.4 million for non-U.S. plans, and by approximately $19.8 million for U.S. plans. If the expected return on plan assets was higher by 1.0%, the net periodic pension cost for fiscal 2020 would be lower by approximately $20.3 million for non-U.S. plans, and by approximately $3.4 million for U.S. plans. Differences between actuarial assumptions and actual performance (i.e., actuarial gains and losses) that are not recognized as a component of net periodic pension cost in the period in which such differences arise are recorded to accumulated other comprehensive income (loss) and are recognized as part of net periodic pension cost in future periods in accordance with U.S. GAAP. Management monitors trends in the marketplace within which our pension plans operate in an effort to assure the fairness of the actuarial assumptions used.
+
+ Contractual Guarantees, Litigation, Investigations, and Insurance
+
+In the normal course of business, we make contractual commitments, some of which are supported by separate guarantees; and on occasion we are a party in a litigation or arbitration proceeding. The litigation in which we are involved primarily includes personal injury claims, professional liability claims, and breach of contract claims. Where we provide a separate guarantee, it is strictly in support of the underlying contractual commitment. Guarantees take various forms including surety bonds required by law, or standby letters of credit ("LOC") (also referred to as “bank guarantees”) or corporate guarantees given to induce a party to enter into a contract with a subsidiary. Standby LOCs are also used as security for advance payments or in various other transactions. The guarantees have various expiration dates ranging from an arbitrary date to completion of our work (e.g., engineering only) to completion of the overall project. We record in the Consolidated Balance Sheets amounts representing our estimated liability relating to such guarantees, litigation and insurance claims. Guarantees are accounted for in accordance with ASC 460-10, Guarantees, at fair value at the inception of the guarantee.
+
+We maintain insurance coverage for most insurable aspects of our business and operations. Our insurance programs have varying coverage limits depending upon the type of insurance, and include certain conditions and exclusions which insurance companies may raise in response to any claim that the Company brings. We have also elected to retain a portion of losses and liabilities that occur through the use of various deductibles, limits, and retentions under our insurance programs. As a result, we may be subject to a future liability for which we are only partially insured or completely uninsured. We intend to mitigate any such future liability by continuing to exercise prudent business judgment in negotiating the terms and conditions of the contracts which the Company enters with its clients. Our insurers are also subject to business risk and, as a result, one or more of them may be unable to fulfill their insurance obligations due to insolvency or otherwise.
+
+Additionally, as a contractor providing services to the U.S. federal government we are subject to many types of audits, investigations, and claims by, or on behalf of, the government including with respect to contract performance, pricing, cost allocations, procurement practices, labor practices, and socioeconomic obligations. Furthermore, our income, franchise, and similar tax returns and filings are also subject to audit and investigation by the Internal Revenue Service, most states within the United States, as well as by various government agencies representing jurisdictions outside the United States. 
+
+Our Consolidated Balance Sheets include amounts representing our probable estimated liability relating to such claims, guarantees, litigation, audits, and investigations. Our estimates of probable liabilities require us to make assumptions related to potential losses regarding our determination of amounts considered probable and estimable. We perform an analysis to determine the level of reserves to establish for insurance-related claims that are known and have been asserted against us, as well as for insurance-related claims that are believed to have been incurred based on actuarial analysis, but have not yet been reported to our claims administrators as of the respective balance sheet dates. We include any adjustments to such insurance reserves in our consolidated results of operations. Insurance recoveries are recorded as assets if recovery is probable and estimated liabilities are not reduced by expected insurance recoveries.
+
+Page 59
+
+The Company believes, after consultation with counsel, that such guarantees, litigation, U.S. government contract-related audits, investigations and claims, and income tax audits and investigations should not have a material adverse effect on our consolidated financial statements, beyond amounts currently accrued.
+
+Testing Goodwill for Possible Impairment
+
+The goodwill carried on our Consolidated Balance Sheets is tested annually for possible impairment, and on an interim basis if indicators of possible impairment exist. For purposes of impairment testing, goodwill is assigned to the applicable reporting units based on the current reporting structure. In performing the annual impairment test, we evaluate our goodwill at the reporting unit level. The Company performs the annual goodwill impairment test for the reporting units at the beginning of the fourth quarter of its fiscal year.
+
+U.S. GAAP does not prescribe a specific valuation method for estimating the fair value of reporting units. Any valuation technique used to estimate the fair value of a reporting unit requires the use of significant estimates and assumptions, including revenue growth rates, operating margins, discount rates and future market conditions, among others.
+
+We used income and market approaches to test our goodwill for possible impairment which requires us to make estimates and judgments. Under the income approach, fair value is determined by using the discounted cash flows of our reporting units. The Company’s discount rate reflects a weighted average cost of capital (“WACC”) for a peer group of companies representative of the Company’s respective reporting units. Under the market approach, the fair values of our reporting units are determined by reference to guideline companies that are reasonably comparable to our reporting units; the fair values are estimated based on the valuation multiples of the invested capital associated with the guideline companies. In assessing whether there is an indication that the carrying value of goodwill has been impaired, we utilize the results of both valuation techniques and consider the range of fair values indicated.
+
+It is possible that changes in market conditions, economy, facts and circumstances, judgments and assumptions used in estimating the fair value could change, resulting in possible impairment of goodwill in the future. The fair values resulting from the valuation techniques used are not necessarily representative of the values we might obtain in a sale of the reporting units to willing third parties.
+
+We have determined that the fair value of our reporting units substantially exceeded their respective carrying values for the Consolidated Balance Sheets presented.
+
+Impairment of Long-Lived Assets
+
+Our long-lived assets other than goodwill principally consist of right-of-use lease assets, property, equipment and improvements, and finite-lived intangible assets. These long-lived assets are evaluated for impairment for each of our asset groups in accordance with ASC 360 by first identifying whether indicators of impairment exist. If such indicators are present, we assess long-lived asset groups for recoverability based on estimated future undiscounted cash flows. For asset groups where the recoverability test fails, the fair value of each asset group is then estimated and compared to its carrying amount. An impairment loss is recognized for the amount by which an asset group’s carrying value exceeds its fair value.
+
+Page 60
+
+JACOBS ENGINEERING GROUP INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+For the Fiscal Years Ended October 2, 2020, September 27, 2019 and September 28, 2018 
+
+(In thousands, except per share information)
+
+[DATA_TABLE_REMOVED]
+
+Page 61
+
+2020 Overview
+
+ COVID-19 Pandemic. There are many risks and uncertainties regarding the COVID-19 pandemic, including the anticipated duration of the pandemic and the extent of local and worldwide social, political, and economic disruption it may cause. The Company’s operations for the last three quarters of fiscal 2020 were adversely impacted by COVID-19. While certain business units of both Critical Mission Solutions and People & Places Solutions have experienced, and may continue to experience, an increase in demand for certain of their services regarding new projects that may arise in response to the COVID-19 pandemic, it is still expected that COVID-19 is likely to continue to have an adverse impact on each of Critical Missions Solutions and People & Places Solutions in fiscal 2021, although to a lesser degree than what was seen in 2020. 
+
+Please refer to Item 1A - Risk Factors, for a discussion of risks and uncertainties related to COVID-19, including the potential impacts on the Company’s business, financial condition and results of operations. 
+
+Net earnings attributable to the Company from continuing operations for fiscal 2020 were $353.9 million (or $2.67 per diluted share), an increase of $62.9 million, or 21.6%, from $291.0 million (or $2.09 per diluted share) for the prior year. Included in the Company’s operating results for the current year were $56.9 million (or $0.43 per share) in after tax fair value losses recorded in miscellaneous income (expense), net, associated with our investment in Worley stock (net of Worley stock dividend) and certain foreign currency revaluations relating to the ECR sale and $248.2 million in after-tax Restructuring and other charges and transaction costs associated in part with the Company's fourth quarter fiscal 2020 transformation initiatives relating to real estate and other staffing programs which are discussed in Note 16- Restructuring and Other Charges. Also, fiscal 2020 results were impacted by charges associated with the Company's acquisition of John Wood Groups' nuclear consulting, remediation and program management business along with charges relating to the integration of the KeyW and CH2M acquisitions and the sale of ECR. Our fiscal 2019 results included $259.8 million (or $1.86 per share) in after-tax Restructuring and other charges and transactions costs associated with the Company's KeyW and CH2M acquisitions and the ECR sale. Also included in the fiscal 2019 net earnings from continuing operations are $48.1 million in after-tax fair value losses associated with our investment in Worley stock (net of Worley stock dividend) and certain foreign currency revaluations relating to ECR sale proceeds. Income tax expense for continuing operations for fiscal 2020 was $55.3 million, an increase of $18.4 million, or 49.7%, from $37.0 million in the prior year. Key drivers for this year-over-year increase in the effective tax rate include a reduction in valuation allowance releases in fiscal year 2020, as well as an increase in tax on foreign earnings in the U.S. 
+
+ Net earnings attributable to Jacobs from discontinued operations for fiscal 2020 were $138.0 million (or $1.04 per diluted share), a decrease of $419.0 million, or 75.2%, from $557.0 million (or $4.00 per diluted share) for the prior year. Included in net earnings attributable to the Company from discontinued operations for the current year was an expense reduction for the settlement of the Nui Phao ("NPMC") legal matter described in Note 17- Commitments and Contingencies and Derivative Financial Instruments that was reimbursed by insurance, the recognition of the deferred gain for the delayed conveyance of the international entities and for the delivery of the ECR IT assets, as discussed in Note 15- Sale of Energy, Chemicals and Resources ("ECR") Business and adjustments for working capital and certain other items in connection with the ECR sale. Additionally, the year-over-year change was also driven by the gain on sale recognized in the fiscal 2019 period and the absence of normal operating results of the ECR business as reported in the prior year. Included in the current year results from discontinued operations is the pre-tax gain on sale of the ECR business of $110.2 million. Included in prior year results from discontinued operations is the pre-tax gain on the sale of the ECR business of $935.1 million, see Note 15- Sale of Energy, Chemicals and Resources ("ECR") Business. 
+
+ On March 6, 2020, a subsidiary of Jacobs completed the acquisition of the nuclear consulting, remediation and program management business of John Wood Group for an enterprise value of £246 million, or approximately $317.9 million, less cash acquired of $24.3 million. On June 12, 2019, we acquired KeyW, a U.S. based national security solutions provider to the intelligence, cyber, and counterterrorism communities. On December 15, 2017, we acquired CH2M, a provider of international engineering, construction and technical services.
+
+Backlog at October 2, 2020 was $23.8 billion, up $1.2 billion, from $22.6 billion for the prior year. New prospects and new sales remain strong and the Company continues to have a positive outlook for many of the industry groups and sectors in which our clients operate.
+
+Results of Operations
+
+Page 62
+
+Fiscal 2020 Compared to Fiscal 2019 
+
+Revenues for the year ended October 2, 2020 were $13.57 billion, an increase of $829.1 million, or 6.5%, from $12.74 billion for the prior year. The increase in revenues was due primarily to the a full year of revenues in fiscal 2020 from the KeyW acquisition completed in June 2019, impacts from the March 2020 John Wood Group nuclear business acquisition and growth in our legacy People & Places Solutions businesses, offset in part by impacts from the COVID 19 pandemic. Also, our revenues were impacted by an extra week of activity in fiscal 2020, see Note 1- Description of Business and Basis of Presentation in the notes to the consolidated financial statements.
+
+Pass-through costs included in revenues for the year ended October 2, 2020 were $2.61 billion in comparison to $2.54 billion in the prior year. In general, pass-through costs are more significant on projects that have a higher content of field services activities. Pass-through costs are generally incurred at specific points during the life cycle of a project and are highly dependent on the needs of our individual clients and the nature of the clients’ projects. However, because we have hundreds of projects which start at various times within a fiscal year, the effect of pass-through costs on the level of direct costs of contracts can vary between fiscal years without there being a fundamental or significant change to the underlying business.
+
+Gross profit for the year ended October 2, 2020 was $2.59 billion, up $109.6 million, or 4.4%, from $2.48 billion for the prior year. Our gross profit margins were 19.1% and 19.4% for the years ended October 2, 2020 and September 27, 2019, respectively. The increase in our gross profit was attributable to favorable impacts from the KeyW and John Wood Group nuclear business acquisitions, also impacted by the extra week of activity in fiscal 2020. The slight differences in year over year gross margin trends were attributable mainly to legacy portfolio mix and lower overhead rate impacts on revenue, with partial offsets from favorable margin trends from our recent KeyW and John Wood Group nuclear business acquisitions and as well as year over year impacts from lower overhead reimbursement rates resulting from our ongoing cost reduction programs partially offset by COVID-19 cost mitigation efforts.
+
+See Segment Financial Information discussion for further information on the Company’s results of operations at the operating segment level.
+
+Selling, general & administrative expenses for the year ended October 2, 2020 were $2.05 billion, a decrease of $21.5 million, or 1.0%, from $2.07 billion for the prior year. The decrease in SG&A expenses as compared to the prior year was due primarily to less expense relating to the Transition Services Agreement (the "TSA") with Worley, which expired in April 2020, although the parties agreed to extend certain of the services beyond the initial term, and reductions in personnel related and other overhead costs resulting from our ongoing cost reduction programs as well as COVID-19 cost mitigation efforts, partially offset by incremental SG&A expenses from the KeyW and John Wood Group nuclear business acquisitions and the extra week of activity in fiscal 2020. Also, included in the current year results were $325.1 million of restructuring and other charges and transaction costs associated in part with the Company's fourth quarter fiscal 2020 transformation initiatives relating to real estate and other staffing programs, and the Company's acquisition of John Wood Groups' nuclear business. In comparison, the prior year included $350.3 million of restructuring and other charges and transaction costs. Favorable impacts on SG&A expenses from foreign exchange were $3.2 million for the current year.
+
+Net interest expense for the year ended October 2, 2020 was $57.5 million, a decrease of $16.9 million from $74.4 million for the prior year. The decrease in net interest expense year over year is primarily due to the paydown of debt subsequent to the ECR sale in the prior year third quarter. 
+
+Miscellaneous income (expense), net for the year ended October 2, 2020 was $(37.3) million, a decrease of $57.8 million as compared to $20.5 million in income for the prior year. The decrease from the prior year was due primarily to $74.5 million in pre-tax unrealized losses associated with changes in the fair value of our investment in Worley stock (net of Worley stock dividend) and certain foreign currency revaluations relating to the ECR sale in the current year, compared to $64.8 million in the prior year. Also included in miscellaneous (expense) income during the current year is $15.8 million in TSA-related income associated with the ECR sale compared to $35.4 million in the prior year, as discussed in Note 15- Sale of Energy, Chemicals and Resources ("ECR") Business. Further, miscellaneous income (expense), net for the year ended September 27, 2019 included a one-time gain on the settlement of the CH2M retiree medical plan of $35.0 million. 
+
+Net earnings attributable to Jacobs from discontinued operations for fiscal 2020 were $138.0 million (or $1.04 per diluted share), a decrease of $419.0 million, or 75.2%, from $557.0 million (or $4.00 per diluted share) for the prior year. Included in net earnings attributable to the Company from discontinued operations for the current year was an expense reduction for the settlement of the Nui Phao ("NPMC") legal matter described in Note 17- Commitments and Contingencies and Derivative Financial Instruments that was reimbursed by insurance, the recognition of the deferred gain 
+
+Page 63
+
+for the delayed conveyance of the international entities and for the delivery of the ECR IT assets, as discussed in Note 15- Sale of Energy, Chemicals and Resources ("ECR") Business and adjustments for working capital and certain other items in connection with the ECR sale. Additionally, the year-over-year change was also driven by the gain on sale recognized in the fiscal 2019 period and the absence of normal operating results of the ECR business as reported in the prior year. Included in the current year results from discontinued operations is the pre-tax gain on sale of the ECR business of $110.2 million. Included in prior year results from discontinued operations is the pre-tax gain on the sale of the ECR business of $935.1 million, see Note 15- Sale of Energy, Chemicals and Resources ("ECR") Business. 
+
+The Company’s consolidated effective income tax rate of 12.5% is lower than the U.S. statutory rate primarily due to a $16.9 million benefit from foreign valuation allowance releases, $26.5 million of foreign tax generated in the current year, a benefit of $7.3 million from the application of the Internal Revenue Code Section 179D, a reduction in uncertain tax positions of $11.3 million and benefits from tax rate changes and stock compensation. These decreases in tax expense were offset by $43.0 million of U.S. foreign inclusions within U.S. tax costs of foreign operations. 
+
+The following table reconciles total income tax expense on continuing operations using the statutory U.S. federal income tax rate to the consolidated income tax expense on continuing operations shown in the accompanying Consolidated Statements of Earnings for the years ended October 2, 2020 and September 27, 2019 (dollars in thousands):
+
+[DATA_TABLE_REMOVED]
+
+The Company’s consolidated effective income tax rate for the year ended October 2, 2020 increased to 12.5% from 10.5% for fiscal 2019. Key drivers for this year over year increase in the effective tax rate include a reduction in valuation allowance releases in fiscal 2020, as well as an increase in tax on foreign earnings in the U.S.
+
+Fiscal 2019 Compared to Fiscal 2018 
+
+Revenues for the year ended September 27, 2019, were $12.74 billion, an increase of $2.16 billion, or 20.4%, from $10.58 billion for the corresponding period in 2018. The increase in revenues was due primarily to the CH2M acquisition in December fiscal 2018 included in fiscal 2019 for the full year, impacts from the KeyW acquisition included in the fiscal 2019 results since closing in mid-June and growth in our legacy CMS and P&PS businesses. 
+
+Page 64
+
+Pass-through costs included in revenues for the year ended September 27, 2019 were $2.54 billion in comparison to $2.25 billion in the prior year. These year-over-year increases are due primarily to impacts from the CH2M acquisition included for the full year of fiscal 2019. 
+
+Gross profit for the year ended September 27, 2019 was $2.48 billion, an increase of $318.5 million, or 14.8% from $2.16 billion for the corresponding period in 2018. Our gross profit margins were 19.4% and 20.4% for the years ended September 27, 2019 and September 28, 2018, respectively. Revenue mix primarily drove the lower gross profit and margin for the year over year periods.
+
+Selling, general & administrative expenses for the year ended September 27, 2019 were $2.07 billion, an increase of $0.30 billion, or 17.0%, from $1.77 billion for the corresponding period in 2018. The increase in SG&A expenses is due mainly to incremental SG&A expense from the CH2M and KeyW businesses acquired. Also, included in the 2019 results were $350.3 million of restructuring and other charges and transaction costs, as well as higher personnel related costs year over year due in part to costs to service the TSA with Worley. In comparison, the prior year included $230.5 million of restructuring and other charges and transaction costs.
+
+Net interest expense for the year ended September 27, 2019 was $74.4 million, an increase of $6.6 million from $67.8 million for the corresponding period in 2018. The increase in net interest expense as compared to the corresponding period in 2018 was due primarily to higher levels of debt outstanding and our fixed rate notes having been outstanding for the full year of fiscal 2019 and only five months in fiscal 2018.
+
+Miscellaneous income (expense), net for the year ended September 27, 2019 was $20.5 million, an increase of $9.2 million, as compared to $11.3 million for the corresponding period in 2018. The increase was due primarily to the gain on the settlement of the CH2M retiree medical plan of $35.0 million and income from the TSA with Worley of $35.4 million, offset by $64.8 million, net, relating to ECR related fair value adjustments (unrealized losses) and dividend income related to our investment in Worley stock and certain foreign currency revaluations relating to ECR sale proceeds.
+
+Net earnings of the group from discontinued operations was $559.2 million for the year ended September 27, 2019, an increase of $391.4 million from $167.8 million for the corresponding period in 2018. Included in 2019 was the pre-tax gain on the sale of the ECR business of $935.1 million, offset in part by a charge for the final settlement of the Nui Phao legal matter. The 2018 fiscal year included a $21.0 million loss associated with the disposal of the Company's equity investment in its Guimar joint venture.
+
+Page 65
+
+The Company’s consolidated effective income tax rate was lower than the U.S. statutory rate of 21.0% primarily due to a $29.1 million benefit from foreign valuation allowance releases in fiscal 2019, $15.7 million of foreign tax and other credits generated in fiscal 2019 and a reduction in the tax contingency reserves of $6.9 million. The decreases in tax expense were offset by a $36.7 million charge from the remeasurement of net deferred tax assets and other miscellaneous U.S. tax reform changes. The following table reconciles total income tax expense on continuing operations using the statutory U.S. federal income tax rate to the consolidated income tax expense on continuing operations shown in the accompanying Consolidated Statements of Earnings for the years ended September 27, 2019 and September 28, 2018 (dollars in thousands):
+
+[DATA_TABLE_REMOVED]
+
+ The Company’s consolidated effective income tax rate for the year ended September 27, 2019 decreased to 10.5% from 98.4% for fiscal 2018. Key drivers for this year over year decrease in the effective tax rate include a reduction of $119.1 million associated with remeasurement of U.S. deferred tax items due to tax reform and a decrease in the amount charged for valuation allowance related to foreign tax credits of $104.4 million.
+
+Page 66
+
+Segment Financial Information
+
+The following tables present total revenues and segment operating profit for each reportable segment (in thousands) and includes a reconciliation of segment operating profit to total U.S. GAAP operating profit by including certain corporate-level expenses and Restructuring, transaction and other charges (in thousands). Prior period information has been recast to reflect the current period presentation.
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+(1)Includes $15.0 million in charges during the year ended September 28, 2018 associated with a legal matter.
+
+(2)Includes $25.0 million in charges associated with a certain project for the year ended September 27, 2019. 
+
+(3)Other corporate expenses include costs that were previously allocated to the ECR segment prior to discontinued operations presentation in connection with the ECR sale in the approximate amount of $— million, $14.8 million and $25.6 million for the years ended October 2, 2020, September 27, 2019 and September 28, 2018, respectively. Also includes intangibles amortization of $90.6 million, $79.1 million and $68.1 million for the years ended October 2, 2020, September 27, 2019 and September 28, 2018, respectively.
+
+(4)For the years ended October 2, 2020 and September 27, 2019, other expenses includes revenues under the Company's TSA with Worley of $15.8 million and $35.4 million, respectively, $74.3 million and $64.8 million in fair value adjustments related to our investment in Worley stock (net of Worley Stock dividends) and certain foreign currency revaluations relating to ECR sale proceeds, respectively. Also included for the years ended October 2, 2020, September 27, 2019 and September 28, 2018 is amortization of deferred financing fees related to the CH2M acquisition of $0.7 million, $3.2 million and $1.8 million respectively. Lastly, includes loss on settlement of U.S. pension plan of $2.7 million for the year ended October 2, 2020 and includes gain on settlement of the CH2M retiree medical plans of $35.0 million for the year ended September 27, 2019.
+
+In evaluating the Company’s performance by operating segment, the CODM reviews various metrics and statistical data for each Line Of Business ("LOB") but focuses primarily on revenues and operating profit. As discussed above, segment operating profit includes not only local SG&A expenses but the SG&A expenses of the Company’s support groups that have been allocated to the segments. In addition, the Company attributes each LOB’s specific incentive compensation plan costs to the LOBs. The revenues of the People & Places Solutions LOB are more affected by pass-through revenues than the Critical Mission Solutions LOB. The methods for recognizing revenue, incentive fees, project losses and change orders are consistent among the LOBs. 
+
+Page 67
+
+ Critical Mission Solutions
+
+[DATA_TABLE_REMOVED]
+
+Fiscal 2020 vs. 2019
+
+Critical Mission Solutions (CMS) segment revenues for the year ended October 2, 2020 were $4.97 billion, up $414.8 million, or 9.1%, from $4.55 billion for the prior year. Our increase in revenue was primarily attributable to incremental revenue from the KeyW and John Wood Group nuclear business acquisitions, along with the extra week of activity in fiscal 2020. These favorable impacts more than offset unfavorable COVID-19 related revenue impacts mainly due to challenges from physical distancing requirements, client scheduling changes and other related factors. Impacts on revenues from unfavorable foreign currency translation were approximately $4.5 million for the year ended October 2, 2020.
+
+Operating profit for the segment was $372.1 million for the year ended October 2, 2020, up $62.0 million, or 20.0%, from $310.0 million for the prior year. The increases from the prior year were primarily attributable to incremental operating profit from the KeyW and John Wood Group nuclear business acquisitions, the extra week of activity in fiscal 2020 and the favorable close out of a large program management contract in the first fiscal quarter of 2020. Impacts on operating profit from unfavorable foreign currency translation were approximately $0.4 million for the year ended October 2, 2020. Unfavorable revenue impacts from COVID-19 mentioned above were largely offset by the Company’s mitigating actions in discretionary operating spend and benefits costs, government assistance programs and other areas of improved operating performance.
+
+Fiscal 2019 vs. 2018
+
+CMS segment revenues for the year ended September 27, 2019 were $4.55 billion, up $825.8 million, or 22.2%, from $3.73 billion for the corresponding period in 2018. The increase in revenues was due in large part to nuclear services sector revenue resulting from the CH2M acquisition included for the full year of fiscal 2019 and also incremental revenues from the KeyW acquisition. Also, our CMS revenues were positively impacted by year-over-year revenue volume growth across the legacy portfolio, highlighted by increased spending by customers in the U.S. government business. Impacts on revenues from unfavorable foreign currency were approximately $29.7 million for fiscal year 2019. 
+
+Operating profit for the CMS segment was $310.0 million for the year ended September 27, 2019, up $54.3 million, or 21.2%, from $255.7 million for the corresponding period in 2018. In addition to incremental operating profit benefits from the CH2M and KeyW acquisitions, the increase from the prior year was primarily attributable to continued growth in profits from our U.S. governmental business. SG&A for the CMS segment increased for fiscal 2019 attributable mainly to incremental SG&A associated with the CH2M and KeyW acquisitions. Fiscal 2018 included charges of $15.0 million associated with a legal matter. 
+
+ People & Places Solutions
+
+[DATA_TABLE_REMOVED]
+
+Page 68
+
+Fiscal 2020 vs. 2019
+
+Revenues for the People & Places Solutions (P&PS) segment for the year ended October 2, 2020 were $8.60 billion, up $414.3 million, or 5.1%, from $8.19 billion for the prior year. The increases in revenue were due in part to portfolio growth across our businesses, highlighted by strong investment in advanced facilities, water and transport infrastructure and project management/construction management ("PMCM") sectors, along with the extra week of activity in fiscal 2020. These favorable performance trends more than offset unfavorable COVID-19 related revenue impacts mainly due to challenges from physical distancing requirements, client scheduling changes and other related factors. Impacts on revenues from unfavorable foreign currency translation were approximately $26.2 million for fiscal 2020. 
+
+Operating profit for the segment for the year ended October 2, 2020 was $740.7 million, an increase of $26.3 million, or 3.7%, from $714.4 million for the comparative period in 2019. The year-over-year increase in operating profit was due primarily to positive impacts from the higher year-over-year revenues for the segment, along with the extra week of activity in fiscal 2020 and reductions in costs related to COVID-19 impacts and mitigation efforts. Impacts on operating profit from unfavorable foreign currency translation were approximately $6.1 million for fiscal 2020. Unfavorable revenue impacts from COVID-19 mentioned above were largely offset by the Company’s mitigating actions in discretionary operating spend and benefits costs, government assistance programs and other areas of improved operating performance.
+
+Fiscal 2019 vs. 2018
+
+Revenues for the P&PS segment for the year ended September 27, 2019 were $8.19 billion, an increase of $1.34 billion, or 19.6%, from $6.85 billion for the corresponding period in 2018. The increase in revenues was due in part to favorable impacts resulting from the CH2M acquisition included for the full year of fiscal 2019 together with revenue increases across all our businesses given the strong investment by customers in Life Sciences, Electronics, Water and Transport Infrastructure sectors. Impacts on revenues from unfavorable foreign currency were approximately $57.8 million for fiscal 2019. 
+
+Operating profit for the segment for the year ended September 27, 2019 was $714.4 million, up $186.5 million, or 35.3%, compared to $527.9 million for the corresponding period in 2018. The increase in operating profit was in part due to favorable impacts from the CH2M acquisition, together with positive impacts from the higher year over year revenues for the segment. Included in fiscal 2019 results was a $25.0 million charge associated with a project. SG&A for the P&PS segment increased for fiscal 2019, with this increase being attributable mainly to incremental SG&A
+
+associated with the CH2M acquisition in December of fiscal 2018.
+
+Other Corporate Expenses 
+
+Other corporate expenses were $249.4 million, $264.4 million and $161.8 million for the years ended October 2, 2020, September 27, 2019 and September 28, 2018, respectively. The decrease from fiscal 2019 to fiscal 2020 was due primarily to cost-reduction programs implemented through prior restructuring initiatives and the current year COVID-19 pandemic response. The increase from fiscal 2018 to fiscal 2019 was due primarily to higher intangible amortization expense from the KeyW and John Wood Group nuclear business acquisitions, as well as impacts from company benefit program enhancements. These increases were partly offset by employee related and other cost reductions across the Company's corporate functions. Fiscal 2019 also included approximately $70.2 million of year-to-date other current year cost allocation realignments that occurred in the first quarter of fiscal 2019 in conjunction with the CH2M acquisition. Prior periods were not restated for the cost allocation realignments.
+
+Included in other corporate expenses in the above table are costs and expenses that relate to general corporate activities as well as corporate-managed benefit and insurance programs. Such costs and expenses include: (i) those elements of SG&A expenses relating to the business as a whole; (ii) those elements of our incentive compensation plans relating to corporate personnel whose other compensation costs are not allocated to the LOBs; (iii) the amortization of intangible assets acquired as part of business combinations; (iv) the quarterly variances between the Company’s actual costs of certain of its self-insured integrated risk and employee benefit programs and amounts charged to the LOBs; and (v) certain adjustments relating to costs associated with the Company’s international defined benefit pension plans. In addition, other corporate expenses may also include from time to time certain adjustments to contract margins (both positive and negative) associated with projects, as well as other items, where it has been determined that such adjustments are not indicative of the performance of the related LOB.
+
+Page 69
+
+The Company currently holds a 24.5% interest in AWE Management Ltd (AWE ML) that is accounted for under the equity method, and the carrying value of the Company’s investment as of October 2, 2020 was approximately $38 million. As of October 2, 2020, AWE ML was under a contractual operating arrangement with the UK Ministry of Defence (MoD) with multiple years remaining under the arrangement. Subsequent to year end, on November 2, 2020, the MoD unexpectedly announced plans to change its current operating agreements with AWE ML that would result in the early termination of the current contract in 2021. The Company is currently evaluating this subsequent development, including the potential impact on our accounting for this equity method investment in future quarters. 
+
+Restructuring and Other Charges
+
+ For discussion regarding restructuring and other charges, see Note 16- Restructuring and Other Charges to the Consolidated Financial Statements.
+
+Page 70
+
+Backlog Information
+
+We include in backlog the total dollar amount of revenues we expect to record in the future as a result of performing work under contracts that have been awarded to us. Our policy with respect to Operations & Maintenance ("O&M") contracts, however, is to include in backlog the amount of revenues we expect to receive for one succeeding year, regardless of the remaining life of the contract. For national government programs (other than national government O&M contracts, which are subject to the same policy applicable to all other O&M contracts), our policy is to include in backlog the full contract award, whether funded or unfunded, excluding option periods. Because of variations in the nature, size, expected duration, funding commitments and the scope of services required by our contracts, the timing of when backlog will be recognized as revenues can vary greatly between individual contracts. 
+
+Consistent with industry practice, substantially all of our contracts are subject to cancellation or termination at the option of the client, including our U.S. government work. While management uses all information available to it to determine backlog, at any given time our backlog is subject to changes in the scope of services to be provided as well as increases or decreases in costs relating to the contracts included therein. Backlog is not necessarily an indicator of future revenues.
+
+Because certain contracts (e.g., contracts relating to large Engineering, Procurement & Construction ("EPC") projects as well as national government programs) can cause large increases to backlog in the fiscal period in which we recognize the award, and because many of our contracts require us to provide services that span over several fiscal quarters (and sometimes over fiscal years), we evaluate our backlog generally on a year-over-year basis, but also on a sequential, quarter-over-quarter basis, where appropriate.
+
+Please refer to Item 1A- Risk Factors, above, for a discussion of other factors that may cause backlog to ultimately convert into revenues at different amounts.
+
+The following table summarizes our backlog for the years ended October 2, 2020, September 27, 2019 and September 28, 2018 (in millions):
+
+[DATA_TABLE_REMOVED]
+
+The increase in backlog in Critical Mission Solutions for the years presented was primarily the result of new awards from the U.S. federal government and the acquisition of John Wood Group's nuclear consulting, remediation and program management business in fiscal 2020.
+
+The increase in backlog in People & Places Solutions for the years presented was primarily the result of new awards in the U.K. and U.S. markets. 
+
+Backlog relating to work to be performed either directly or indirectly for the U.S. federal government and its agencies totaled approximately $8.5 billion (or 35.7% of total backlog), $8.8 billion (or 39.1% of total backlog) and $6.8 billion (or 34.1% of total backlog) at October 2, 2020, September 27, 2019 and September 28, 2018, respectively. Most of our federal government contracts require that services be provided beyond one year. In general, these contracts must be funded annually (i.e., the amounts to be spent under the contract must be appropriated by the U.S. Congress to the procuring agency, and then the agency must allot these sums to the specific contracts).
+
+We estimate that approximately $7.48 billion, or 31.4%, of total backlog at October 2, 2020 will be realized as revenues within the next fiscal year.
+
+Consolidated backlog differs from the Company’s remaining performance obligations as defined by ASC 606 primarily because of our national government contracts (other than national government O&M contracts). Our policy is to include in backlog the full contract award, whether funded or unfunded excluding the option periods while our remaining performance obligations represent a measure of the total dollar value of work to be performed on contracts awarded and in progress. Additionally, the Company includes our proportionate share of backlog related to unconsolidated joint ventures which is not included in our remaining performance obligations.
+
+Page 71
+
+Liquidity and Capital Resources
+
+At October 2, 2020, our principal sources of liquidity consisted of $862.4 million in cash and cash equivalents and $2.09 billion of available borrowing capacity under our $2.25 billion revolving credit agreement (the "Revolving Credit Facility"). We finance much of our operations and growth through cash generated by our operations.
+
+The amount of cash and cash equivalents at October 2, 2020 represented an increase of $231.4 million from $631.1 million at September 27, 2019, the reasons for which are described below. 
+
+Our cash flow provided by operations of $806.8 million during fiscal 2020 was comparatively higher than the $366.4 million in cash flow used for operations for the prior year. This improvement was due primarily to favorable net cash earnings driven in part by improved operating profit performance and mitigating actions from the Company in response to the COVID-19 pandemic. Additionally, this favorable trend in cash from operations benefited from lower working capital levels, due mainly to higher levels of cash used in the prior year for income taxes payable largely attributable to taxes paid on the gain from the ECR sale and favorable cash flow impacts in accrued liabilities, including the deferral of certain payments associated mainly with COVID-19 government assistance programs in the U.S. and Europe, offset mainly by higher cash used in accounts payable. 
+
+Our cash used for investing activities for fiscal 2020 of $429.1 million was comparatively lower than the $2.2 billion cash provided by investing activities for the prior year. The change was due primarily to the impact in 2019 of $2.80 billion in cash proceeds associated with the ECR sale and cash paid for the KeyW acquisition of $575.1 million, net of cash acquired. On a comparative basis, cash used in investing activities included approximately $293.6 million in cash paid for the John Wood Group's nuclear business, net of cash acquired in the second quarter of fiscal 2020. 
+
+Our cash used for financing activities of $208.3 million in fiscal 2020 resulted mainly from share repurchases of $337.3 million and dividend payments to both shareholders and non-controlling interests totaling $144.0 million, offset by net proceeds from borrowings of $265.3 million. Cash used for financing activities was $2.0 billion in fiscal 2019 resulted mainly from net repayments of borrowings of $1.0 billion primarily related to repayments with cash received from the ECR sale, common stock repurchases of $853.7 million and dividend payments to both shareholders and non-controlling interests of $106.4 million.
+
+At October 2, 2020, the Company had approximately $153.0 million in cash and cash equivalents held in the U.S. and $709.4 million held outside of the U.S. (primarily in the U.K., the Eurozone, Australia, India and the United Arab Emirates), which is used primarily for funding operations in those regions. Other than the tax cost of repatriating funds to the U.S. (see Note 7- Income Taxes of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K), there are no material impediments to repatriating these funds to the U.S. 
+
+In March 2020, the Company entered into a new unsecured term loan facility (the “2020 Term Loan Facility”) with a syndicate of financial institutions as lenders. The principal balance of the 2020 Term Loan Facility was $1.0 billion as of October 2, 2020. The terms and other important details are summarized in Note 9- Borrowings. The 2020 Term Loan Facility was entered into as part of our strategy to increase the portion of our long-term debt that is represented by term loan facilities. During fiscal 2020, the Company used proceeds of the 2020 Term Loan Facility to repay $200.0 million in short-term debt and all but $152.8 million in outstanding amounts under the Revolving Credit Facility.
+
+The Company had $263.0 million in letters of credit outstanding at October 2, 2020. Of this amount, $2.3 million was issued under the Revolving Credit Facility and $260.7 million was issued under separate, committed and uncommitted letter-of-credit facilities.
+
+On March 6, 2020, a subsidiary of Jacobs completed the acquisition of John Wood Group's nuclear consulting, remediation and program management business for an enterprise value of £246 million, or approximately $317.9 million, less cash acquired of $24.3 million. The Company has recorded its preliminary purchase accounting processes associated with the acquisitions, which are summarized in Note 14- Business Combinations.
+
+On June 12, 2019, Jacobs completed the acquisition of KeyW by acquiring 100% of the outstanding shares of KeyW common stock. The Company paid total consideration of $902.6 million which was comprised of approximately $604.2 million in cash to the former stockholders and certain equity award holders of KeyW and the assumption of KeyW’s debt of $298.4 million. The Company repaid KeyW's outstanding debt by the end of the fourth fiscal quarter of 2019. The Company has recorded its final purchase accounting associated with the acquisition, which is summarized in Note 14- Business Combinations.
+
+Page 72
+
+On April 26, 2019, Jacobs completed the sale of its ECR business to Worley for a purchase price of $3.4 billion consisting of (i) $2.8 billion in cash plus (ii) 58.2 million ordinary shares of Worley, subject to adjustments for changes in working capital and certain other items. 
+
+We believe we have adequate liquidity and capital resources to fund our projected cash requirements for the next twelve months based on the liquidity provided by our cash and cash equivalents on hand, our borrowing capacity and our continuing cash from operations. We further believe that our financial resources and discretionary spend controls, as well as near term benefits from government assistance programs, will allow us to continue managing the negative impacts of the COVID-19 pandemic on our business operations for the foreseeable future, which is expected to include reduced revenue from operating activities, based on current assumptions and expectations regarding the pandemic. We have taken actions to reduce spending more broadly across the Company, only proceeding with operating and capital spending that is critical. We have also ceased all non-essential hiring and reduced discretionary expenses, including certain employee benefits and compensation. In addition, as a precautionary measure, we temporarily suspended purchases under the share repurchase plan in March 2020 with such suspension remaining in effect through the third fiscal quarter of 2020. Looking ahead, we have developed contingency plans to reduce costs further if the situation deteriorates beyond or lasts longer than current assumptions and expectations.
+
+We were in compliance with all of our debt covenants at October 2, 2020.
+
+Page 73
+
+Contractual Obligations
+
+The following table sets forth certain information about our contractual obligations as of October 2, 2020 (in thousands):
+
+[DATA_TABLE_REMOVED]
+
+(1)Determined based on borrowings outstanding at the end of fiscal 2020 using the interest rates in effect at that time, considering the effects of interest rate swap agreements, and for our outstanding long-term debt, concluding with the expiration date of the debt facilities as defined below.
+
+(2)Assumes that future contributions will be consistent with amounts contributed in fiscal 2020, allowing for certain growth based on rates of inflation and salary increases, but limited to the amount recorded as of October 2, 2020. Actual contributions will depend on a variety of factors, including amounts required by local laws and regulations, and other funding requirements.
+
+(3)Assumes that future payments will be consistent with amounts paid in fiscal 2020. Due to the non-qualified nature of the plans, and the fact that benefits are based in part on years of service, the payments included in the schedule were limited to the amount recorded as of October 2, 2020.
+
+(4)Represents those liabilities estimated to be under firm contractual commitments as of October 2, 2020; primarily accounts payable, accrued payroll and accrued dividends.
+
+Effects of Inflation and Changing Prices
+
+The effects of inflation and changing prices on our business is discussed in Item 1A- Risk Factors, and is incorporated herein by reference.
+
+Off-Balance Sheet Arrangements
+
+We are party to financial instruments with off-balance sheet risk in the form of guarantees not reflected in our balance sheet that arise in the normal course of business. However, such off-balance sheet arrangements are not reasonably likely to have a material adverse effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or resources. See Note 17- Commitments and Contingencies and Derivative Financial Instruments of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+
+Page 74
+
+New Accounting Pronouncements
+
+ ASU 2017-04, Simplifying the Test for Goodwill Impairment, is effective for fiscal years beginning after December 15, 2019 with early adoption permitted. ASU 2017-04 removes the second step of the goodwill impairment test, which requires a hypothetical purchase price allocation. An entity will now recognize a goodwill impairment charge for the amount by which a reporting unit's carrying value exceeds its fair value, not to exceed the amount of goodwill allocated to the reporting unit. Management does not expect the adoption of ASU 2017-04 to have any impact on the Company's financial position, results of operations or cash flows.
+
+ASU No. 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments requires entities to use a current lifetime expected credit loss methodology to measure impairments of certain financial assets. Using this methodology will result in earlier recognition of losses than under the current incurred loss approach, which requires waiting to recognize a loss until it is probable of having been incurred. There are other provisions within the standard that affect how impairments of other financial assets may be recorded and presented, and that expand disclosures. This standard will be effective for our interim and annual periods beginning with the first quarter of fiscal 2021, and must be applied on a modified retrospective basis. Management does not expect the adoption of ASU 326 to have a material impact on the Company's financial position, results of operations or cash flows.
+
+Page 75
+
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

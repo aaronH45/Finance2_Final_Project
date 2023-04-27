@@ -1,0 +1,51 @@
+ITEM 7A.Quantitative and Qualitative Disclosures About Market Risk
+
+The primary objective of the following information is to provide forward-looking quantitative and qualitative information about our exposure to market risk. The term market risk relates to our risk of loss arising from adverse changes in oil, natural gas, and NGL prices and interest rates. These disclosures are not meant to be precise indicators of expected future losses, but rather indicators of reasonably possible losses. The forward-looking information provides indicators of how we view and manage our ongoing market risk exposures.
+
+Commodity Price Risk
+
+Our results of operations and cash flows are impacted by changes in market prices for oil, natural gas and NGL, which have historically been volatile. To mitigate a portion of our exposure to adverse price changes, we enter into various derivative instruments. Our oil, natural gas and NGL derivative activities, when combined with our sales of oil, natural gas and NGL, allow us to predict with greater certainty the revenue we will receive. We believe our derivative instruments continue to be highly effective in achieving our risk management objectives.
+
+We determine the fair value of our derivative instruments utilizing established index prices, volatility curves and discount factors. These estimates are compared to counterparty valuations for reasonableness. Derivative transactions are also subject to the risk that counterparties will be unable to meet their obligations. This non-performance risk is considered in the valuation of our derivative instruments, but to date has not had a material impact on the values of our derivatives. Future risk related to counterparties not being able to meet their obligations has been partially mitigated under our commodity hedging arrangements that require counterparties to post collateral if their obligations to us are in excess of defined thresholds. The values we report in our financial statements are as of a point in time and subsequently change as these estimates are revised to reflect actual results, changes in market conditions and other factors. See Note 14 of the notes to our consolidated financial statements included in Item 8 of this report for further discussion of the fair value measurements associated with our derivatives.
+
+For the year ended December 31, 2019, oil, natural gas, and NGL revenue, excluding any effect of our derivative instruments, were $2.543 billion, $1.782 billion, and $192 million, respectively. Based on 2019 production, oil, natural gas, and NGL revenue for the year ended December 31, 2019 would have increased or decreased by approximately $254 million, $178 million, and $19 million, respectively, for each 10% increase or decrease in prices. As of December 31, 2019, the fair values of our oil and gas derivatives were net assets of $5 million and $125 million, respectively. A 10% increase in forward oil prices would decrease the valuation of oil derivatives by $147 million while a 10% decrease would increase the valuation by $150 million. A 10% increase in forward gas prices would decrease the valuation of gas derivatives by approximately $58 million while a 10% decrease would increase the valuation by $57 million. This fair value change assumes volatility based on prevailing market parameters at December 31, 2019. See Note 14 of the notes to our consolidated financial statements included in Item 8 of this report for further information on our open derivative positions. 
+
+Beginning with this report, we have revised our commodity price risk disclosure alternative from the tabular format to a sensitivity analysis, which we believe is a more commonly used and easily understood disclosure alternative. We have presented below the tabular analysis as of December 31, 2019 and 2018 for comparative purposes.
+
+56
+Oil, Natural Gas and NGL Derivatives
+
+As of December 31, 2019, and 2018, our oil, natural gas and NGL derivative instruments consisted of the following types of instruments:
+
+•Swaps: We receive a fixed price and pay a floating market price to the counterparty for the hedged commodity. In exchange for higher fixed prices on certain of our swap trades, we may sell call options and call swaptions.
+
+•Options: We sell, and occasionally buy, call options in exchange for a premium. At the time of settlement, if the market price exceeds the fixed price of the call option, we pay the counterparty the excess on sold call options and we receive the excess on bought call options. If the market price settles below the fixed price of the call option, no payment is due from either party. 
+
+•Call Swaptions: We sell call swaptions to counterparties in exchange for a premium. Swaptions allow the counterparty, on a specific date, to extend an existing fixed-price swap for a certain period of time or to increase the notional volumes of an existing fixed-price swap. 
+
+•Collars: These instruments contain a fixed floor price (put) and ceiling price (call). If the market price exceeds the call strike price or falls below the put strike price, we receive the fixed price and pay the market price. If the market price is between the put and the call strike prices, no payments are due from either party. Three-way collars include the sale by us of an additional put option in exchange for a more favorable strike price on the call option. This eliminates the counterparty’s downside exposure below the second put option strike price.
+
+•Basis Protection Swaps: These instruments are arrangements that guarantee a fixed price differential to NYMEX from a specified delivery point. We receive the fixed price differential and pay the floating market price differential to the counterparty for the hedged commodity.
+
+As of December 31, 2019, we had the following open oil and natural gas derivative instruments:
+
+[DATA_TABLE_REMOVED]
+
+57
+As of December 31, 2018, we had the following open oil and natural gas derivative instruments:
+
+[DATA_TABLE_REMOVED]
+
+58
+Interest Rate Risk
+
+The table below presents principal cash flows and related weighted average interest rates by expected maturity dates, using the earliest demand repurchase date for contingent convertible senior notes.
+
+[DATA_TABLE_REMOVED]
+
+Changes in interest rates affect the amount of interest we earn on our cash, cash equivalents and short-term investments and the interest rate we pay on borrowings under our revolving credit facility and our term loan facility. All of our other indebtedness is fixed rate and, therefore, does not expose us to the risk of fluctuations in earnings or cash flow due to changes in market interest rates. However, changes in interest rates do affect the fair value of our fixed-rate debt.
+
+During the year ended December 31, 2019, $5 million of net gains related to settled interest rate derivative contracts were transferred from our senior note liability or unrealized gains or losses and recorded within interest expense as realized gains or losses. As of December 31, 2019, there were no remaining open or settled interest rate derivative contracts.
+
+59
+ITEM 8. Financial Statements and Supplementary Data

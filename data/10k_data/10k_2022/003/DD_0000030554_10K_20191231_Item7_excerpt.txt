@@ -1,0 +1,1063 @@
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+CAUTIONARY STATEMENTS ABOUT FORWARD-LOOKING STATEMENTS 
+
+This report contains certain estimates and forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended, which are intended to be covered by the safe harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and may be identified by their use of words like “plans,” “expects,” “will,” “anticipates,” “believes,” “intends,” “projects,” “estimates” or other words of similar meaning. All statements that address expectations or projections about the future, including statements about Corteva’s strategy for growth, product development, regulatory approval, market position, anticipated benefits of recent acquisitions, timing of anticipated benefits from restructuring actions, outcome of contingencies, such as litigation and environmental matters, expenditures, and financial results, as well as expected benefits from, the separation of Corteva from DuPont, are forward-looking statements.
+
+Forward-looking statements and other estimates are based on certain assumptions and expectations of future events which may not be accurate or realized. Forward-looking statements and other estimates also involve risks and uncertainties, many of which are beyond Corteva’s control. While the list of factors presented below is considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on Corteva’s business, results of operations and financial condition. Some of the important factors that could cause Corteva’s actual results to differ materially from those projected in any such forward-looking statements include: (i) failure to successfully develop and commercialize Corteva’s pipeline; (ii) effect of competition and consolidation in Corteva’s industry; (iii) failure to obtain or maintain the necessary regulatory approvals for some Corteva’s products; (iv) failure to enforce Corteva’s intellectual property rights or defend against intellectual property claims asserted by others; (v) effect of competition from manufacturers of generic products; (vi) impact of Corteva’s dependence on third parties with respect to certain of its raw materials or licenses and commercialization; (vii) costs of complying with evolving regulatory requirements and the effect of actual or alleged violations of environmental laws or permit requirements; (viii) effect of the degree of public understanding and acceptance or perceived public acceptance of Corteva’s biotechnology and other agricultural products; (ix) effect of changes in agricultural and related policies of governments and international organizations; (x) effect of industrial espionage and other disruptions to Corteva’s supply chain, information technology or network systems; (xi) competitor’s establishment of an intermediary platform for distribution of Corteva's products; (xii) effect of volatility in Corteva’s input costs; (xiii) failure to raise capital through the capital markets or short-term borrowings on terms acceptable to Corteva; (xiv) failure of Corteva’s customers to pay their debts to Corteva, including customer financing programs; (xv) failure to realize the anticipated benefits of the internal reorganizations taken by DowDuPont in connection with the spin-off of Corteva, including failure to benefit from significant cost synergies; (xvi) risks related to the indemnification obligations of legacy EID liabilities in connection with the separation of Corteva; (xvii) increases in pension and other post-employment benefit plan funding obligations; (xviii) effect of compliance with laws and requirements and adverse judgments on litigation; (xix) risks related to Corteva’s global operations; (xx) effect of climate change and unpredictable seasonal and weather factors; (xxi) effect of counterfeit products; (xxii) failure to effectively manage acquisitions, divestitures, alliances and other portfolio actions; (xxiii) risks related to non-cash charges from impairment of goodwill or intangible assets; and (xxiv) other risks related to the Separation from DowDuPont.
+
+Additionally, there may be other risks and uncertainties that Corteva is unable to currently identify or that Corteva does not currently expect to have a material impact on its business. Where, in any forward-looking statement or other estimate, an expectation or belief as to future results or events is expressed, such expectation or belief is based on the current plans and expectations of Corteva’s management and expressed in good faith and believed to have a reasonable basis, but there can be no assurance that the expectation or belief will result or be achieved or accomplished. Corteva disclaims and does not undertake any obligation to update or revise any forward-looking statement, except as required by applicable law. A detailed discussion of some of the significant risks and uncertainties which may cause results and events to differ materially from such forward-looking statements is included in the section titled “Risk Factors” (Part I, Item 1A of this Form 10-K).
+
+31
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Overview
+
+Refer to pages 3 - 4 for a discussion of the DowDuPont Merger of Equals, the Internal Reorganizations, and the Business Separations.
+
+Basis of Presentation
+
+Dow AgroSciences ("DAS") Common Control Combination 
+
+The transfer or conveyance of DAS to Corteva was treated as a transfer of entities under common control. As such, the company recorded the assets, liabilities, and equity of DAS on its balance sheet at their historical basis. Transfers of businesses between entities under common control requires the financial statements to be presented as if the transaction had occurred at the point at which common control first existed (the Merger Effectiveness Time). As a result, the accompanying Consolidated Financial Statements and Notes thereto include the results of DAS as of the Merger Effectiveness Time. See Note 4 - Common Control Business Combination, to the Consolidated Financial Statements for additional information.
+
+Divestiture of EID ECP
+
+The transfer of EID ECP meets the criteria for discontinued operations and as such, results of operations are presented as discontinued operations and have been excluded from continuing operations for all periods presented. The comprehensive (loss) income, stockholder's equity and cash flows related to EID ECP have not been segregated and are included in the Consolidated Statements of Comprehensive (Loss) Income, Consolidated Statements of Equity and Consolidated Statements of Cash Flows, respectively, for all periods presented. Amounts related to EID ECP are consistently included or excluded from the Notes to the Consolidated Financial Statements based on the respective financial statement line item. See Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information.
+
+Divestiture of EID Specialty Products Entities
+
+The transfer of the EID Specialty Products Entities meets the criteria for discontinued operations and as such, results of operations are presented as discontinued operations and have been excluded from continuing operations for all periods presented. The comprehensive (loss) income, stockholder's equity and cash flows related to the EID Specialty Products Entities have not been segregated and are included in the Consolidated Statements of Comprehensive (Loss) Income, Consolidated Statements of Equity and Consolidated Statements of Cash Flows, respectively, for all periods presented. Amounts related to the EID Special Products Entities are consistently included or excluded from the Notes to the Consolidated Financial Statements based on the respective financial statement line item. See Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information. 
+
+Predecessor / Successor Reporting
+
+For purposes of DowDuPont's financial statement presentation, Historical Dow was determined to be the accounting acquirer in the Merger and Historical DuPont's assets and liabilities are reflected at fair value as of the close of the Merger in the financial statements of DowDuPont. In connection with the Merger and the related accounting determination, Historical DuPont elected to apply push-down accounting and reflect in its financial statements, the fair value of its assets and liabilities. For purposes of Corteva’s financial statement presentation, periods following the close of the Merger are labeled “Successor” and reflect DowDuPont’s basis in the fair values of the assets and liabilities of Corteva/EID. All periods prior to the closing of the Merger reflect the historical accounting basis in EID 's assets and liabilities and are labeled “Predecessor.” The Consolidated Financial Statements and Footnotes include a black line division between the columns titled "Predecessor" and "Successor" to signify that the amounts shown for the periods prior to and following the Merger are not comparable. In addition, the company elected to make certain changes in presentation to harmonize its accounting and reporting with that of DowDuPont in the Successor periods. See Note 2 - Summary of Significant Accounting Policies, to the Consolidated Financial Statements for further discussion of these changes.
+
+32
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Items Affecting Comparability of Financial Results 
+
+In addition to the Analysis of Operations discussion based on the GAAP as reported results, the following includes a supplemental Analysis of Operations discussion reflecting unaudited pro forma financial information, prepared in accordance with Article 11 of Regulation S-X. This unaudited pro forma financial information, for the years ended December 31, 2019 and 2018 assumes the Merger, the debt retirement transactions related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and the separation and distribution to DowDuPont stockholders of all the outstanding shares of Corteva common stock as if they had been consummated on January 1, 2016. The unaudited pro forma financial information for the year ended December 31, 2017 gives effect to the above noted transactions in addition to the common control business combination with DAS, as if it had been consummated on January 1, 2016. For additional information, see the Supplemental Unaudited Pro Forma Combined Financial Information in this section.
+
+33
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Overview 
+
+The following is a summary of results from continuing operations for the year ended December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+•The company realized cost synergies of approximately $350 million for the year ended December 31, 2019, on track to deliver $1.2 billion through 2021.
+
+[DATA_TABLE_REMOVED]
+
+In addition to the financial highlights above, the following events occurred during or subsequent to the year ended December 31, 2019:
+
+•The company launched a new pure play agriculture company with the new Corteva brand, new values, and a new purpose.
+
+•The company returned approximately $220 million to shareholders since the Separation through its previously announced share repurchase program and common stock dividends.
+
+[DATA_TABLE_REMOVED]
+
+•The company agreed to sell Chlorpyrifos assets in India; Bensulfuron-Methyl assets in Asia Pacific (excluding China); Quinoxyfen business assets; and a selection of U.S. herbicide brands during the fourth quarter. These actions are aligned with the company’s commitment to driving an active portfolio management approach focused on margin expansion and shareholder value creation.
+
+Priorities 
+
+Corteva is committed to making an impact for its customers, while focusing on five priorities for shareholder value creation: (1) instilling a strong culture, (2) driving disciplined capital allocation, (3) developing innovative solutions, (4) attaining best-in-class cost structure and (5) delivering above market growth. 
+
+The company believes the following key pillars will enable it to create significant value for its customers while delivering strong financial returns to its shareholders: 
+
+•Developing and launching new offerings that address market needs by continuing to leverage its robust pipeline to introduce new proprietary seed traits and crop protection formulations that anticipate and meet evolving customer needs. 
+
+•Utilizing its multi-channel and multi-brand capabilities to drive profitable growth by strategically aligning its brands and capabilities across different sales channels and creating a comprehensive multi-channel, multi-brand strategy. 
+
+34
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+•Continuing to develop and maintain close connections with customers by working closely with farmers throughout the entire growing season to ensure all their seed and crop protection needs are anticipated and satisfied. 
+
+•Focusing on operational excellence by integrating its operations and continuing to drive operating efficiencies, enabling a streamlined, efficient and focused organization while working to achieve a best-in-class cost structure and creating a strong culture based on productivity. 
+
+•Furthering its commitment to sustainable and responsible agriculture by focusing on integrating sustainability criteria early in the product discovery and development phases as well as promoting the development of responsible solutions focused on reducing the environmental impact of agriculture over time. 
+
+35
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Analysis of Operations 
+
+Debt Redemptions/Repayments
+
+On March 22, 2019, EID issued notices of redemption in full of all of its outstanding notes (the “Make Whole Notes”) listed in the table below:
+
+[DATA_TABLE_REMOVED]
+
+The Make Whole Notes were redeemed on April 22, 2019 at the make-whole redemption prices set forth in the respective Make Whole Notes. On and after the date of redemption, the Make Whole Notes were no longer deemed outstanding, interest on the Make Whole Notes ceased to accrue and all rights of the holders of the Make Whole Notes were terminated.
+
+In March 2016, EID entered into a credit agreement that provides for a three-year, senior unsecured term loan facility in the aggregate principal amount of $4.5 billion (as amended, from time to time, the "Term Loan Facility") under which EID could make up to seven term loan borrowings and amounts repaid or prepaid were not available for subsequent borrowings. On May 2, 2019, EID terminated its Term Loan Facility and repaid the aggregate outstanding principal amount of $3 billion plus accrued and unpaid interest through and including May 1, 2019.
+
+In connection with the repayment of the Make Whole Notes and the Term Loan Facility, Corteva paid a total of $4.6 billion in the second quarter 2019, which included breakage fees and accrued and unpaid interest on the Make Whole Notes and Term Loan Facility. The repayment of the Make Whole Notes and Term Loan Facility was funded with cash from operations and a contribution from DowDuPont.
+
+On May 7, 2019, DowDuPont publicly announced the record date in connection with the Corteva Distribution. In connection with such announcement, EID was required to redeem $1.25 billion aggregate principal amount of 2.200% Notes due 2020 and $750 million aggregate principal amount of Floating Rate Notes due 2020 (collectively, the Special Mandatory Redemption, or “SMR Notes”) setting forth the date of redemption of the SMR Notes. On May 17, 2019 EID redeemed and paid a total of $2.0 billion, which included accrued and unpaid interest on the SMR Notes. EID funded the payment with a contribution from DowDuPont. Following the redemption, the SMR Notes are no longer outstanding and no longer bear interest, and all rights of the holders of the SMR Notes have terminated.
+
+EID recorded a loss on the early extinguishment of debt of $13 million related to the difference between the redemption price and the par value of the Make Whole Notes, the Term Loan Facility, and the SMR Notes, partially offset by the write-off of unamortized step-up related to the fair value step-up of EID’s debt.
+
+36
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Impact From Previously Enacted Tariffs
+
+In 2018, certain countries where the company’s products are manufactured, distributed or sold previously enacted tariffs on certain products. The tariffs contributed to an expected shift to soybeans from corn in Latin America and pressured North American farmer margins. These expectations were reflected in the revised long-term cash flow projections for the company's agriculture reporting unit in 2018, as discussed in Note 15 - Goodwill and Other Intangible Assets, to the Consolidated Financial Statements. In January, 2020 the United States and China signed "phase one" of a trade agreement ("China Trade Agreement") and the United States ("U.S.") and Mexico ratified the United States-Mexico-Canada Agreement ("USMCA"). The China Trade Agreement commits China to purchase at least $40 billion worth of U.S. farm goods annually and for China to reduce non-tariff barriers to agriculture products such as poultry and feed additives, as well as approval of biotechnology products. Additionally, the China Trade Agreement includes stronger intellectual property protections and the elimination of any pressure for foreign companies to transfer technology to Chinese firms as a condition of market access. While the USMCA will replace the North America Free Trade Agreement, it is not a one-for-one replacement. It is designed to modernize trade rules in North America, ensure open markets, protect innovations for a majority of U.S. goods, and enhance sanitary/phytosanitary standards. The company expects the impacts of these agreements to overall be positive for demand for U.S. agriculture products.
+
+Tax Reform
+
+On December 22, 2017, the Tax Cuts and Jobs Act (“The Act”) was enacted. The Act reduces the U.S. federal corporate income tax rate from 35 percent to 21 percent, requires companies to pay a one-time transition tax (“transition tax”) on earnings of foreign subsidiaries that were previously tax deferred, creates new provisions related to foreign sourced earnings, eliminates the domestic manufacturing deduction and moves to a territorial system. As of December 31, 2018, the company had completed its accounting for the tax effects of The Act. As a result of The Act, the company remeasured its U.S. federal deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future, which is generally 21 percent. The company recorded a cumulative benefit of $2,847 million ($2,813 million benefit in the period September 1 through December 31, 2017 and $34 million benefit during 2018) to provision for (benefit from) income taxes on continuing operations in the company's Consolidated Statement of Operations with respect to the remeasurement of the company's deferred tax balances. Additionally, the company recorded a cumulative charge of $928 million ($746 million charge in the period September 1 through December 31, 2017 and $182 million charge during 2018) to provision for (benefit from) income taxes on continuing operations with respect to the one-time transition tax. For tax years beginning after December 31, 2017, The Act introduced new provisions for U.S. taxation of certain global intangible low-taxed income (“GILTI”). The Company has made the policy election to record any liability associated with GILTI in the period in which it is incurred. Additional details related to The Act can be found in Note 10 - Income Taxes, to the Consolidated Financial Statements.
+
+DowDuPont Agriculture Division Restructuring Program 
+
+During the fourth quarter of 2018 and in connection with the ongoing integration activities, DowDuPont approved restructuring actions to simplify and optimize certain organizational structures in preparation for the Business Separations. The company recorded a pre-tax charge of $84 million, recognized in restructuring and asset related charges - net in the company's Consolidated Statement of Operations comprised of $78 million of severance and related benefit costs and $6 million related to asset related charges. 
+
+For the year ended December 31, 2019, the company recorded a net pre-tax benefit of $14 million, recognized in restructuring and asset related charges - net in the company's Consolidated Statement of Operations comprised of $17 million of severance and related benefit credits and $3 million related to asset related charges. The company's actions related to this program are complete.
+
+DowDuPont Cost Synergy Program
+
+In September and November 2017, DowDuPont and EID approved post-merger restructuring actions under the DowDuPont Cost Synergy Program (the “Synergy Program”), adopted at the time by the DowDuPont Board of Directors. The Synergy Program was designed to integrate and optimize the organization following the Merger and in preparation for the Business Separations. The company recorded pre-tax restructuring charges of $845 million inception-to-date under the Synergy Program, consisting of severance and related benefit costs of $319 million, contract termination costs of $193 million, and asset-related charges of $333 million. Actions associated with the Synergy Program, including employee separations, are substantially complete.
+
+Future cash payments related to this program are anticipated to be approximately $69 million, related to the payment of severance and related benefits and contract termination costs. The company anticipates including cumulative savings associated with these actions within its cost synergy commitment of $1.2 billion through 2021. Additional details related to this plan can be found in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, on page 44 of this report and Note 7 - Restructuring and Asset Related Charges - Net, to the Consolidated Financial Statements.
+
+37
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+FMC Transactions
+
+On March 31, 2017, EID and FMC Corporation ("FMC") entered into a definitive agreement (the "FMC Transaction Agreement"). Under the FMC Transaction Agreement, and effective upon the closing of the transaction on November 1, 2017, FMC acquired the crop protection business and R&D assets that EID was required to divest in order to obtain European Commission approval of the Merger Transaction, (the "Divested Ag Business") and EID agreed to acquire certain assets relating to FMC’s Health and Nutrition segment, excluding its Omega-3 products (the "H&N Business") (collectively, the "FMC Transactions"). The sale of the Divested Ag Business meets the criteria for discontinued operations and as such, earnings are included within (loss) income from discontinued operations after income taxes in the Consolidated Statements of Operations for all periods presented.
+
+On November 1, 2017, EID completed the FMC Transactions through the disposition of the Divested Ag Business and the acquisition of the H&N Business. The fair value, as determined by the company, of the H&N Business was $1,970 million. The FMC Transactions included a cash consideration payment to EID of approximately $1,200 million, which reflects the difference in value between the Divested Ag Business and the H&N Business, as well as favorable contracts with FMC of $495 million. The carrying value of the Divested Ag Business approximated the fair value of the consideration received, thus no resulting gain or loss was recognized on the sale. The H&N Business was transferred to DowDuPont as part of the EID Specialty Products Entities. Refer to Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for further information.
+
+Separation of Performance Chemicals 
+
+On July 1, 2015, EID completed the separation of its Performance Chemicals segment through the spin-off of all of the issued and outstanding stock of The Chemours Company ("Chemours"). In connection with the separation, EID and Chemours entered into a Separation Agreement and a Tax Matters Agreement as well as certain ancillary agreements. In accordance with generally accepted accounting principles in the U.S. ("GAAP"), the results of operations of its former Performance Chemicals segment are presented as discontinued operations and, as such, are included within (loss) income from discontinued operations after income taxes in the Consolidated Statements of Operations for all periods presented. Additional details regarding the separation and other related agreements can be found in Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements.
+
+Settlement of PFOA MDL
+
+As previously reported, approximately 3,550 lawsuits were consolidated in multi-district litigation (“MDL”); these lawsuits alleged personal injury from exposure to perfluorooctanoic acid and its salts, including the ammonium salt ("PFOA"), in drinking water as a result of the historical manufacture or use of PFOA. The plant operating units involved in the allegations are owned and operated by Chemours. The MDL was settled in early 2017 for $670.7 million in cash, with Chemours and EID (without indemnification from Chemours) each paying half. See Note 18 - Commitments and Contingent Liabilities, to the Consolidated Financial Statements for additional information
+
+Net Sales
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+38
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2019 versus 2018
+
+Net sales were $13,846 million for the year ended December 31, 2019, compared to $14,287 million for the year ended December 31, 2018. The decrease was primarily driven by a 3 percent decline in currency. Unfavorable currency impacts were primarily driven by the Brazilian Real and the Euro. Volume was flat as strong demand for new product and gains in corn in EMEA were offset by significant weather-related planting delays in North America, resulting in lost spring applications of crop protection products and a reduction in planted area for soybeans. Pricing gains from new product launches and favorable mix in Latin America were offset by competitive pricing pressure, increases in replant, and increased grower incentive program discounts in North America. 
+
+2018 versus 2017 
+
+Net sales were $14,287 million for the year ended December 31, 2018 compared to $3,790 million for the period September 1 through December 31, 2017 and $6,894 million for the period January 1 through August 31, 2017. The increase was primarily driven by the inclusion of DAS for the full year in 2018 versus only four months in 2017 ($3,432 million increase). 
+
+Pro forma net sales were $14,287 million for the year ended December 31, 2018 compared to pro forma net sales of $14,241 million for the year ended December 31, 2017. The increase was primarily driven by a 2 percent increase in local price, partially offset by a 2 percent decline in currency. The increase in local price was driven by a favorable mix in North America as well as increases in crop protection pricing in Latin America to offset currency pressure. Volume was flat as gains in crop protection due to new product launches, including VESSARYATM in Latin America, ENLISTTM products in North America and Latin America, and PYRAXALTTM in Asia Pacific, were offset by lower planted area in North America and Latin America and lower demand for nitrogen stabilizers in North America. 
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED]
+
+39
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED] 
+
+[DATA_TABLE_REMOVED]
+
+COGS
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018 
+
+COGS was $8,575 million for the year ended December 31, 2019 compared to $9,948 million for the year ended December 31, 2018. The decrease was primarily driven by lower amortization of remaining inventory step up compared to the prior year ($272 million in 2019 compared to $1,554 million in 2018). The remaining COGS decrease was primarily driven by lower volumes as a result of weather-related planting delays in North America, cost synergies and a currency benefit, partially offset by higher input costs for both seed and crop protection. COGS as a percentage of net sales was 62 percent and 70 percent for the year ended December 31, 2019 and 2018, respectively. The amortization of inventory step-up was 2 percent and 11 percent of net sales for the year ended December 31, 2019 and 2018, respectively. 
+
+On a pro forma basis, COGS was $8,386 million for the year ended December 31, 2019 and $8,449 million for the year ended December 31, 2018. The decrease was primarily driven by lower volumes as a result of weather-related planting delays in North America, cost synergies and a currency benefit, partially offset by higher input costs for both seed and crop protection. Pro forma COGS as a percentage of pro forma net sales was 61 percent and 59 percent for the year ended December 31, 2019 and 2018, respectively. The increase was due to higher input costs for both seed and crop protection, partially offset by cost synergies.
+
+40
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2018 versus 2017
+
+COGS was $9,948 million for the year ended December 31, 2018 compared to $2,915 million for the period September 1 through December 31, 2017 and $3,409 million for the period January 1 through August 31, 2017. The increase was primarily driven by the inclusion of DAS for the full year in 2018 versus only four months in 2017 ($2,383 million increase), the amortization of the inventory step-up of $1,554 million for the year ended December 31, 2018 (compared to $425 million period September 1 through December 31, 2017), increased expenses due to the elimination of the other operating charges financial statement line item subsequent to the Merger, and higher depreciation related to the fair value step up of property, plant and equipment. 
+
+COGS as a percentage of net sales was 70 percent, 77 percent, and 49 percent for the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017, respectively. The amortization of the inventory step-up was 11 percent of net sales for the year ended December 31, 2018 and the period September 1 through December 31, 2017, respectively. The elimination of the other operating charges financial statement line item would have increased COGS as a percentage of net sales by 3 percent for the period January 1 through August 31, 2017. The remaining COGS change as a percentage of net sales between the Predecessor and Successor periods of 2017 and 2018 was primarily due to higher raw material costs, partially offset by synergies. 
+
+Pro forma COGS for the year ended December 31, 2018 was $8,449 million compared to $8,338 million for the year ended December 31, 2017. The increase was primarily driven by higher raw material costs and royalty expense, partially offset by synergies and a currency benefit. Pro forma COGS as a percentage of pro forma net sales was 59 percent for both the year ended December 31, 2018 and the year ended December 31, 2017. 
+
+Other Operating Charges
+
+[DATA_TABLE_REMOVED]
+
+2018 versus 2017
+
+Other operating charges were $195 million for the period January 1 through August 31, 2017. In the Successor periods, other operating charges are included primarily in COGS, as well as selling, general and administrative expenses and amortization of intangibles. See Note 2 - Summary of Significant Accounting Policies, to the Consolidated Financial Statements for further discussion of the changes in presentation.
+
+Research and Development Expense ("R&D")
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018
+
+R&D expense was $1,147 million (8 percent of net sales) for the year ended December 31, 2019 and $1,355 million (9 percent of net sales) for the year ended December 31, 2018. The decrease was primarily driven by cost synergies and additional actions taken to curtail spending.
+
+41
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Pro forma R&D expense was $1,147 million (8 percent of pro forma net sales) for the year ended December 31, 2019 and $1,352 million (9 percent of pro forma net sales) for the year ended December 31, 2018. The decrease was primarily driven by the factors described above. 
+
+2018 versus 2017
+
+R&D expense was $1,355 million (9 percent of net sales) for the year ended December 31, 2018, $484 million (13 percent of net sales) for the period September 1 through December 31, 2017, and $591 million (9 percent of net sales) for the period January 1 through August 31, 2017. The increase was primarily driven by the inclusion of DAS for the full year in 2018 versus only four months in 2017 ($281 million increase). 
+
+Pro forma R&D expense for the year ended December 31, 2018 was $1,352 million (9 percent of pro forma net sales) compared to $1,439 million (10 percent of pro forma net sales) for the year ended December 31, 2017. The decrease was primarily driven by cost synergies, partially offset by investments to support new product launches.
+
+Selling, General and Administrative Expenses ("SG&A")
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018
+
+SG&A was $3,065 million for the year ended December 31, 2019 and $3,041 million for the year ended December 31, 2018. The increase was primarily driven by an increase in performance-based compensation, an increase in sales commissions resulting from commission rate increases and route to market changes in select markets, and settlement of a legal matter, partially offset by cost synergies.  SG&A as a percentage of net sales was 22 percent and 21 percent for the year ended December 31, 2019 and December 31, 2018, respectively. 
+
+Pro forma SG&A expense for the year ended December 31, 2019 was $3,068 million (22 percent of pro forma net sales) compared to $3,042 million (21 percent of pro forma net sales) for the year ended December 31, 2018. The increase was primarily driven by the factors described above. 
+
+2018 versus 2017
+
+SG&A was $3,041 million for the year ended December 31, 2018, $920 million for the period September 1 through December 31, 2017, and $1,969 million for the period January 1 through August 31, 2017. The increase was primarily driven by the inclusion of DAS for the full year in 2018 versus only four months in 2017 ($472 million increase), partially offset by the inclusion of integration and separation costs and amortization of intangibles within SG&A in the Predecessor period. 
+
+SG&A as a percentage of net sales was 21 percent, 24 percent, and 29 percent for the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017, respectively. Integration and separation costs were 5 percent of net sales for the period January 1 through August 31, 2017. 
+
+Pro forma SG&A expense for the year ended December 31, 2018 was $3,042 million compared to $3,109 million for the year ended December 31, 2017. The decrease was primarily driven by synergies and lower variable compensation, partially offset by increased commissions due to a change in the route to market. 
+
+Pro forma SG&A as a percentage of pro forma net sales was 21 percent and 22 percent for the year ended December 31, 2018 and 2017, respectively. The decrease was primarily due to the reasons discussed above.
+
+42
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Amortization of Intangibles
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018
+
+Intangible asset amortization was $475 million for the year ended December 31, 2019 and $391 million for the year ended December 31, 2018. The increase was primarily driven by amortization of germplasm assets, which changed from an indefinite lived intangible asset to definite lived with a useful life of 25 years in fourth quarter of 2019. Beginning in 2020, the company expects annual amortization expense to increase by approximately $250 million. The remaining increase in amortization expense is primarily due to the reclassification of amounts from indefinite-lived in-process research and development ("IPR&D") to developed technology as a result of the company's launch of its Qrome® corn hybrids following the receipt of regulatory approval from China. See Note 15 - Goodwill and Other Intangible Assets, to the Consolidated Financial Statements, for additional information for above items. 
+
+2018 versus 2017
+
+Intangible asset amortization was $391 million for the year ended December 31, 2018 and $97 million for the period September 1 through December 31, 2017. In the Predecessor period, amortization of intangibles was included within SG&A, other operating charges, R&D, and COGS. Pro forma intangible asset amortization for the year ended December 31, 2018 was $391 million compared to $270 million for the year ended December 31, 2017. The increase was primarily driven by the inclusion of a full year of amortization expense in 2018 related to the favorable supply contracts entered into with FMC, upon closing of the FMC Transactions in November of 2017 (see page 38 for further information) and a full year of amortization expense for the intangible assets acquired related to Granular, Inc. in August of 2017.
+
+Restructuring and Asset Related Charges - Net 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+43
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2019 versus 2018
+
+Restructuring and asset related charges - net were $222 million for the year ended December 31, 2019 and $694 million for the year ended December 31, 2018. The activity for the year ended December 31, 2019 was comprised of $144 million of asset related charges (discussed in the "Asset Impairment" section, below) and a $92 million net charge related to the Synergy Program, offset by a net benefit of $14 million related to the DowDuPont Agriculture Division Restructuring Program. The $92 million net charge associated with the Synergy Program was comprised of $69 million of contract termination charges and $30 million of asset related charges, partially offset by a $7 million benefit on the reduction of severance and related benefit costs. The $14 million net benefit associated with the DowDuPont Agriculture Division Restructuring Program included a $17 million benefit on the reduction of severance and related benefit costs, partially offset by $3 million of asset related charges.
+
+2018 versus 2017
+
+Restructuring and asset related charges - net were $694 million for the year ended December 31, 2018, $270 million for the period September 1 through December 31, 2017, and $12 million for the period January 1 through August 31, 2017. The activity for the year ended December 31, 2018 was comprised of a $484 million charge related to the Synergy Program, a $126 million of asset related charges (discussed in the "Asset Impairment" section, below), and a $84 million charge related to the DowDuPont Agriculture Division Restructuring Program. The $270 million charge for the period September 1 through December 31, 2017 was primarily related to $135 million of severance and related benefit costs, $94 million of asset related charges and $40 million of contract termination charges as part of the Synergy Program. The $12 million charge for the period January 1 through August 31, 2017 was primarily comprised of severance and related benefit costs associated with previous restructuring programs.
+
+Pro forma restructuring and asset related charges - net for the year ended December 31, 2018 were $694 million compared to $271 million for the year ended December 31, 2017. The charge for the year ended December 31, 2017 was primarily related to the Synergy Program.
+
+Asset Impairment
+
+For the year ended December 31, 2019, the company recognized a $144 million pre-tax ($110 million after-tax) non-cash impairment charge in restructuring and asset related charges - net in the company's Consolidated Statements of Operations related to certain IPR&D assets within the seed segment. See Note 7 - Restructuring and Asset Related Charges - Net, and Note 23 - Fair Value Measurements, to the Consolidated Financial Statements for additional information. 
+
+For the year ended December 31, 2018, the company recognized an $85 million pre-tax ($66 million after-tax) non-cash impairment charge in restructuring and asset related charges - net in the company's Consolidated Statements of Operations related to certain IPR&D assets within the seed segment. See Note 7 - Restructuring and Asset Related Charges - Net, and Note 23 - Fair Value Measurements, to the Consolidated Financial Statements for additional information.
+
+For the year ended December 31, 2018, management determined the fair values of investments in nonconsolidated affiliates in China were below the carrying values and had no expectation the fair values would recover. As a result, management concluded the impairment was other than temporary and recorded a non-cash impairment charge of $41 million in restructuring and asset related charges - net in the company's Consolidated Statements of Operations, none of which is tax-deductible, for the year ended December 31, 2018. See Note 7 - Restructuring and Asset Related Charges - Net, and Note 23 - Fair Value Measurements, to the Consolidated Financial Statements for additional information.
+
+Integration and Separation Costs
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+1.Beginning in the second quarter of 2019, this includes both integration and separation costs. 
+
+44
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2019 versus 2018
+
+Integration and separation costs were $744 million for the year ended December 31, 2019 and $992 million for the year ended December 31, 2018. These costs primarily have consisted of financial advisory, information technology, legal, accounting, consulting, and other professional advisory fees associated with the preparation and execution of activities related to the Business Separations and the integration of EID’s Pioneer and Crop Protection businesses with DAS. Pro forma integration and separation costs were $632 million and $571 million for the year ended December 31, 2019 and 2018, respectively. The increase was primarily driven by an increase in financial advisory, information technology, legal, accounting, consulting, and other professional advisory fees associated with the preparation and execution of activities related to the Business Separations and the integration of EID’s Pioneer and Crop Protection businesses with DAS. 
+
+2018 versus 2017
+
+Integration and separation costs were $992 million for the year ended December 31, 2018 and $255 million for the period September 1 through December 31, 2017. In the Predecessor period, integration and separation costs were included within SG&A. See Note 2 - Summary of Significant Accounting Policies, to the Consolidated Financial Statements for further discussion of the changes in presentation. Pro forma integration costs for the year ended December 31, 2018 were $571 million compared to $217 million for the year ended December 31, 2017. The increase was primarily driven by an increase in financial advisory, information technology, legal, accounting, consulting, and other professional advisory fees associated with the preparation and execution of activities related to the integration of EID’s Pioneer and Crop Protection businesses with DAS.
+
+Goodwill Impairment Charge
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The company recorded a non-cash goodwill impairment charge of $4,503 million in the year ended December 31, 2018 related to a goodwill impairment test for its agriculture reporting unit. See Note 15 - Goodwill and Other Intangible Assets, to the Consolidated Financial Statements for additional information regarding the company’s goodwill impairment charge.
+
+Other Income (Expense) - Net
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+45
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2019 versus 2018
+
+Other income (expense) - net was income of $215 million for the year ended December 31, 2019 and income of $249 million for the year ended December 31, 2018. The decrease was primarily due to a reduction in non-operating pension and other post employment credits and interest income, partially offset by a change in miscellaneous income and lower net exchange losses. Additionally, other income (expense) - net for the year ended December 31, 2019 included gains on divestitures in the crop protection segment of approximately $70 million partially offset by a loss on a divestiture in the seed segment of $(24) million. See Note 9 - Supplementary Information, to the Consolidated Financial Statements for additional information.
+
+2018 versus 2017
+
+Other income (expense) - net was income of $249 million for the year ended December 31, 2018, income of $805 million for the period September 1 through December 31, 2017 and an expense of $(501) million for the period January 1 through August 31, 2017. Other income (expense) - net for the period September 1 through December 31, 2017was primarily driven by a gain on the sale of the DAS Divested Ag Business of $671 million (See Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information) and non-operating pension and other post employment benefit credits, partially offset by net exchange losses. Other income (expense) - net for the period January 1 through August 31, 2017 is primarily driven by net exchange losses and non-operating pension and other post employment benefit costs, partially offset by royalty and interest income. In the Successor periods, royalty income is included in net sales.
+
+Pro forma other income (expense) - net for the year ended December 31, 2018 was income of $249 million compared to expense of $(899) million for the year ended December 31, 2017. The expense for the year ended December 31, 2017 was primarily comprised of a $(469) million loss associated with an arbitration proceeding (included within the DAS combined financial statements for the period January 1 through August 31, 2017), net exchange losses of $(373) million, and a non-operating pension and other post employment benefit cost of $(189) million, partially offset by interest income of $109 million.
+
+See Note 9 - Supplementary Information, to the Consolidated Financial Statements for additional information.
+
+Loss on Early Extinguishment of Debt
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+The company recorded a loss from early extinguishment of debt of $13 million and $81 million for the years ended December 31, 2019 and 2018, respectively. The loss for 2019 related to the difference between the redemption price and the par value of the Make Whole Notes, the Term Loan Facility, and the SMR Notes, partially offset by the write-off of unamortized step-up related to the fair value step-up of EID’s debt. The loss for 2018 was primarily related to the difference between the redemption price and the aggregate amount of the Tender Notes purchased in the Tender Offer, mostly offset by the write-off of unamortized step-up related to the fair value step-up of EID’s debt. Additional information regarding the company’s Tender Offer can be found on page 62 of this report and Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements.
+
+46
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Interest Expense
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018 
+
+Interest expense was $136 million for the year ended December 31, 2019 and $337 million for the year ended December 31, 2018. The change was primarily driven by lower average long-term debt balances during 2019 due to debt redemption/repayment transactions. Pro forma interest expense for the year ended December 31, 2019 was $91 million compared to $76 million for the year ended December 31, 2018. The increase was primarily driven by interest expense incurred subsequent to March 31, 2019 related to the Make Whole Notes, the Term Loan Facility and SMR Notes which were repaid and/or redeemed in the second quarter of 2019.
+
+2018 versus 2017
+
+Interest expense was $337 million for the year ended December 31, 2018, $115 million for the period September 1 through December 31, 2017, and $254 million for the period January 1 through August 31, 2017. The change was primarily driven by amortization of the step-up of debt as a result of push-down accounting, partially offset by higher borrowing rates. Pro forma interest expense for the year ended December 31, 2018 was $76 million compared to $87 million for the year ended December 31, 2017. The decrease was primarily driven by lower debt balances.
+
+Provision for Income Taxes on Continuing Operations 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+47
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+2019
+
+For the year ended December 31, 2019, the company’s effective tax rate of 14.6 percent on pre-tax loss from continuing operations of $(316) million was unfavorably impacted by a tax charge of $146 million related to the U.S. state blended tax rate changes associated with the Business Separations and a tax charge of $35 million related to application of The Act’s foreign tax provisions. Other net unfavorable effective tax rate impacts included those related to the Argentine peso devaluation, integration and separation costs, non-tax-deductible amortization of the fair value step-up in inventories as a result of the Merger, the tax impact of certain net exchange losses recognized on the re-measurement of the net monetary asset positions which were not deductible in their local jurisdictions, as well as geographic mix of earnings. Those unfavorable impacts were partially offset by a tax benefit of $102 million related to an internal legal entity restructuring associated with the Business Separations, tax benefits of $38 million associated with the enactment of the Federal Act on Tax Reform and AHV Financing (“Swiss Tax Reform”), a $34 million tax benefit associated with the release of a valuation allowance recorded against the net deferred tax asset position of a legal entity in Switzerland, as well as $19 million of tax benefits associated with changes in accruals for certain prior year tax positions and reductions in the company’s unrecognized tax benefits due to the closure of various tax statutes of limitations.
+
+For the year ended December 31, 2019, the company’s effective tax rate was 3.7 percent on pro forma pre-tax income from continuing operations of $27 million. The pro forma pre-tax income from continuing operations excludes pre-tax charges of $205 million, $45 million and $93 million primarily related to the removal of amortization of the fair value-step-up of inventories as a result of the Merger, removal of interest expense related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and removal of expenses directly attributable to the Separation, respectively. The pro forma provision for income taxes on continuing operations excludes net tax benefits of $36 million, $10 million and $1 million related to the above items, respectively. 
+
+2018
+
+For the year ended December 31, 2018, the company’s effective tax rate of 0.5 percent on pre-tax loss from continuing operations of $(6,806) million was unfavorably impacted by the non-tax-deductible impairment charge for the agriculture reporting unit and corresponding $75 million tax charge associated with a valuation allowance recorded against the net deferred tax asset position of a legal entity in Brazil, costs associated with the Merger with Dow (including a $50 million net tax charge on repatriation activities to facilitate the Business Separations), a $164 million net tax charge related to completing its accounting for the tax effects of the Act (see Note 10 - Income Taxes, of the Consolidated Financial Statements for additional detail), and the jurisdictional impacts related to the non-tax-deductible amortization of the fair value step-up in inventories as a result of the Merger.
+
+For the year ended December 31, 2018, the company’s effective tax rate was (8.7) percent on pro forma pre-tax loss from continuing operations of $(4,542) million. The pro forma pre-tax loss excludes pre-tax charges of $1,554 million, $342 million, and $368 million, primarily related to the removal of amortization of the fair value-step-up of inventories as a result of the Merger, removal of interest expense and the related loss on early extinguishment of debt related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and removal of expenses directly attributable to the Separation, respectively. The pro forma provision for income taxes on continuing operations excludes net tax benefits of $295 million, $78 million and $53 million related to the above items, respectively. 
+
+2017
+
+For the period September 1 through December 31, 2017, the company’s effective tax rate of 481.8 percent on pre-tax loss from continuing operations of $(461) million was favorably impacted by a provisional net benefit of $(2,067) million that the company recognized due to the enactment of The Act, a net benefit of $261 million related to an internal legal entity restructuring associated with the Business Separations, as well as the geographic mix of earnings. Those impacts were partially offset by the non-tax deductible amortization of the fair value step-up in inventories as a result of the Merger, certain net exchange losses recognized on the remeasurement of the net monetary asset positions which were not tax deductible in their local jurisdictions, as well as the tax impact of costs associated with the Merger with Historical Dow and restructuring and asset related charges.
+
+48
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+For the period January 1 through August 31, 2017, the company’s effective tax rate of 1,067.6 percent on pre-tax loss from continuing operations of $(37) million was favorably impacted by the geographic mix of earnings, certain net exchange gains recognized on the remeasurement of the net monetary asset positions which were not taxable in their local jurisdictions, net favorable tax consequences of the adoption of Financial Accounting Standards Board ("FASB") Accounting Standards Update ("ASU") No. 2016-09, Compensation - Stock Compensation (Topic 718), Improvements to Employee Share-Based Payment Accounting, tax benefits related to a reduction in the company’s unrecognized tax benefits due to the closure of various tax statutes of limitations, as well as tax benefits on costs associated with the Merger with Historical Dow and restructuring and asset related charges. 
+
+The company's effective tax rate was 748.1 percent on pre-tax pro forma loss from continuing operations of $(389) million for the year ended December 31, 2017. The pro forma pre-tax loss excludes pre-tax charges of $482 million, $204 million, and $195 million, primarily related to the removal expenses directly attributable to the Merger, removal of interest expense related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and removal of expenses directly attributable to the Separation, respectively. The pro forma benefit from income taxes on continuing operations excludes net tax (benefits) charges of $(175) million, $(74) million and $(71) million related to the above items, respectively. Additionally, the pro forma benefit from income taxes on continuing operations reflects a $378 million reduction to the benefit as if Historical DuPont and DAS were consolidated affiliates for the Predecessor period. In addition, the pro forma pre-tax loss includes a pre-tax loss of $(772) million for DAS for the period January 1 through August 31, 2017, and a tax benefit of $236 million related to the loss.
+
+(Loss) Income from Discontinued Operations After Tax
+
+[DATA_TABLE_REMOVED]
+
+2019 versus 2018 
+
+(Loss) income from discontinued operations after tax was $(671) million for the year ended December 31, 2019 and $1,748 million for the year ended December 31, 2018. The change was primarily driven by a non-cash goodwill impairment charge of $1,102 million and adjustments of certain unrecognized tax benefits for positions taken on items from prior years from previously divested businesses. 
+
+2018 versus 2017
+
+(Loss) income from discontinued operations after tax was $1,748 million for the year ended December 31, 2018, $(568) million for the period September 1 through December 31, 2017, and $1,403 million for the period January 1 through August 31, 2017. The amounts are primarily driven by the divestitures of EID ECP, the EID Specialty Products Entities, the Divested Ag Business, and Performance Chemicals. Refer to Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information.
+
+EID Analysis of Operations
+
+As discussed in Note 1 - Basis of Presentation, to the EID Consolidated Financial Statements, EID is a subsidiary of Corteva, Inc. and continues to be a reporting company, subject to the requirements of the Exchange Act. The below relates to EID only and is presented to provide an Analysis of Operations, only for the differences between EID and Corteva, Inc.
+
+Interest Expense
+
+2019 versus 2018 
+
+EID’s interest expense was $242 million for the year ended December 31, 2019 and $337 million for the year ended December 31, 2018, driven by the items noted on page 47, under the header “Interest Expense - 2019 versus 2018”, partially offset by interest expense incurred on the related party loan between EID and Corteva, Inc. See Note 2 - Related Party Transactions, to the EID Consolidated Financial Statements for further information. 
+
+49
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Provision for Income Taxes
+
+2019
+
+For the year ended December 31, 2019, EID had an effective tax rate of 16.8 percent on pre-tax loss from continuing operations of $(422) million, driven by the items noted on page 48, under the header “Provision for Income Taxes - 2019” and a tax benefit related to the interest expense incurred on the related party loan between EID and Corteva, Inc. See Note 3 - Income Taxes, to the EID Consolidated Financial Statements for further information.
+
+Corporate Outlook 
+
+Global demand for agriculture products continues to be strong, but growth is slow. Slower growth in China and other key emerging markets is impacting the outlook for demand for commodity grains and oilseeds. Additionally, the recent U.S. - China Phase 1 trade agreement and the United States-Mexico-Canada Agreement are expected to have a positive impact on demand for U.S. agriculture products. It is expected that corn and soybean area and production will be higher in 2020 and the United States Department of Agriculture (“USDA”) estimates that farm prices will increase modestly. 
+
+The company expects a 4 - 5 percent increase in net sales, driven by a return to more normalized conditions in North America and continued penetration of new product sales. Additionally, the company expects year over year currency impacts to be minimal. 
+
+The company expects Operating EBITDA to increase approximately 12 percent and Operating Earnings Per Share to increase approximately 5 percent, driven by the above increase in sales, synergies and productivity actions. Refer to further discussion of Non-GAAP metrics on pages 58 - 60.
+
+Corteva is not able to reconcile its forward-looking non-GAAP financial measures to its most comparable U.S. GAAP financial measures, as it is unable to predict with reasonable certainty items outside of the company’s control, such as Significant Items, without unreasonable effort (refer to page 59 for Significant Items recorded in the years ended December 31, 2019, 2018 and 2017). However, the company expects non-operating benefits - net, to be slightly higher, as a result of an increase in long-term employee benefit credits, and expects an increase in amortization expense in 2020. Refer to Note 15 - Goodwill and Other Intangible Assets, to the Consolidated Financial Statements and to the company's discussion on Long-term Employee Benefits on page 72. Additionally, beginning January 1, 2020, the company expects to recognize non-cash accelerated prepaid royalty amortization expense as a restructuring and asset related charge. For further discussion of accelerated prepaid royalty amortization refer to the Company's Critical Accounting Estimates for Prepaid Royalties on page 70.
+
+50
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Supplemental Unaudited Pro Forma Financial Information
+
+The supplemental unaudited pro forma statements of operations (the "unaudited pro forma statements of operations") for Corteva for the years ended December 31, 2019 and 2018 give effect to the Merger, the debt retirement transactions related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and the separation and distribution to DowDuPont stockholders of all the outstanding shares of Corteva common stock as if they had been consummated on January 1, 2016. The unaudited pro forma statement of operations for the year ended December 31, 2017 gives effect to the above noted transactions in addition to the common control business combination with DAS, as if it had been consummated on January 1, 2016, which the Company believes provides meaningful information to investors as a useful comparison of year over year results.
+
+For the periods presented below, Corteva’s results for all periods prior to the Business Realignment and Internal Reorganization consist of the combined results of operations for Historical EID and DAS, and Corteva’s results for all periods after the Business Realignment and Internal Reorganization represent the consolidated balances of the company. The unaudited pro forma statements of operations below were prepared in accordance with Article 11 of Regulation S-X, and events that are not expected to have a continuing impact on the combined results (e.g., amortization of inventory step-up costs) are excluded. One-time transaction-related costs incurred prior to, or concurrent with, the closing of the Merger, the debt redemptions/repayments, and the Corteva Distribution are not included in the unaudited pro forma combined statements of operations through March 31, 2019. The unaudited pro forma combined statements of operations do not reflect restructuring or integration activities or other costs following the separation and distribution transactions that may be incurred to achieve cost or growth synergies of Corteva. As no assurance can be made that these costs will be incurred or the growth synergies will be achieved, no adjustment has been made.
+
+The unaudited pro forma statements of operations have been presented for informational purposes only and are not necessarily indicative of what Corteva’s results of operations actually would have been had the above transactions been completed on January 1, 2016. In addition, the unaudited pro forma statements of operations do not purport to project the future operating results of the company. The unaudited pro forma statements of operations were based on and should be read in conjunction with the audited Consolidated Financial Statements and Notes contained within this Annual Report on Form 10-K. 
+
+51
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+1.Represents the removal of amortization of EID’s agriculture business’ inventory step-up recognized in connection with the Merger, as the incremental amortization is directly attributable to the Merger and will not have a continuing impact.
+
+2.Represents removal of interest expense related to the debt redemptions/repayments.[DATA_TABLE_REMOVED]
+
+52
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+1.Represents the removal of amortization of EID’s agriculture business’ inventory step-up recognized in connection with the Merger, as the incremental amortization is directly attributable to the Merger and will not have a continuing impact.
+
+2.Represents removal of interest expense and loss on early extinguishment of debt related to the debt redemptions/repayments.
+
+3.Adjustments directly attributable to the separations and distributions of Corteva, Inc. includes the following: removal of Telone®; impact from the distribution agreement entered into between Corteva and Dow that allows for Corteva to become the exclusive distributor of Telone® products for Dow; elimination of one-time transaction costs directly attributable to the Corteva Distribution; the impact of certain manufacturing, leasing and supply agreements entered into in connection with the Corteva Distribution; and the related tax impacts of these items.
+
+53
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+1.Represents DAS results for the period January 1 through August 31, 2017; the removal of the results of the DAS Brazil corn seed business which was sold to CITIC Agri Fund in the fourth quarter of 2017 as a condition of regulatory approval of the Merger between Historical Dow and Historical DuPont; and certain reclassification adjustments to align the financial statement presentation of DAS to that of Corteva. 
+
+2.Adjustments directly attributable to the Merger include the following: elimination of intercompany transactions between DAS and EID; reclassification of the Predecessor period financial statement presentation to align with Successor presentation; additional depreciation expense related to the fair value step-up of EID's agriculture business' property, plant and equipment; additional amortization expense related to the fair value step-up of EID's agriculture business' intangible assets; elimination of one time transaction costs directly attributable to the Merger; reduction in interest expense related to the amortization of the fair value adjustment to EID's long-term debt; the removal of amortization of EID’s agriculture business’ inventory step-up recognized in connection with the Merger; the reclassification of interest associated with uncertain tax positions; and the related tax impacts of these items. 
+
+3.Represents removal of interest expense related to the debt redemptions/repayments.
+
+4.Adjustments directly attributable to the separations and distributions of Corteva, Inc. includes the following: removal of Telone®; impact from the distribution agreement entered into between Corteva and Dow that allows for Corteva to become the exclusive distributor of Telone® products for Dow; elimination of one-time transaction costs directly attributable to the Corteva Distribution; the impact of certain manufacturing, leasing and supply agreements entered into in connection with the Corteva Distribution; and the related tax impacts of these items.
+
+54
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Recent Accounting Pronouncements
+
+See Note 3 - Recent Accounting Guidance, to the Consolidated Financial Statements for a description of recent accounting pronouncements. 
+
+Segment Reviews 
+
+The company operates in two reportable segments: seed and crop protection. The company’s seed segment is a global leader in developing and supplying advanced germplasm and traits that produce optimum yield for farms around the world. The segment offers trait technologies that improve resistance to weather, disease, insects and weeds, and trait technologies that enhance food and nutritional characteristics, and also provides digital solutions that assist farmer decision-making with a view to optimize product selection and, ultimately, maximize yield and profitability. The segment competes in a wide variety of agricultural markets. The crop protection segment serves the global agricultural input industry with products that protect against weeds, insects and other pests, and disease, and that improve overall crop health both above and below ground via nitrogen management and seed-applied technologies. The segment is a leader in global herbicides, insecticides, below-ground nitrogen stabilizers and pasture and range management herbicides.
+
+Summarized below are comments on individual segment net sales and segment operating EBITDA for the years ended December 31, 2019, December 31, 2018 and December 31, 2017. For all periods presented, segment operating EBITDA is calculated on a pro forma basis, as this is the manner in which the chief operating decision maker ("CODM") assesses performance and allocates resources. Additionally, segment sales for the year ended December 31, 2017 are calculated on a pro forma basis. Pro forma adjustments used in the calculation of pro forma segment operating EBITDA were determined in accordance with Article 11 of Regulation S-X. For the years ended December 31, 2019 and 2018, these adjustments give effect to the Merger, the debt retirement transactions related to paying off or retiring portions of EID’s existing debt liabilities (as discussed in Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements), and the separation and distribution to DowDuPont stockholders of all the outstanding shares of Corteva common stock as if they had been consummated on January 1, 2016. For the year ended December 31, 2017, in addition to the above, the adjustments give effect to the common control business combination with DAS, as if it had been consummated on January 1, 2016 (refer to supplemental unaudited pro forma financial statements on page 51). The company defines segment operating EBITDA as earnings (i.e., income from continuing operations before income taxes) before interest, depreciation, amortization, corporate expenses, non-operating costs-net and foreign exchange gains (losses), excluding the impact of significant items (including goodwill impairment charges). Non-operating costs-net consists of non-operating pension and OPEB costs, tax indemnification adjustments, environmental remediation and legal costs associated with legacy EID businesses and sites. Tax indemnification adjustments relate to changes in indemnification balances, as a result of the application of the terms of the Tax Matters Agreement, between Corteva and Dow and/or DuPont that are recorded by the company as pre-tax income or expense. See Note 25 - Segment Information, to the Consolidated Financial Statements for details related to significant pre-tax benefits (charges) excluded from segment operating EBITDA. All references to prices are based on local price unless otherwise specified.
+
+A reconciliation of pro forma segment operating EBITDA to income from continuing operations before income taxes for the years ended December 31, 2019 and 2018 is included in Note 25 - Segment Information, to the Consolidated Financial Statements. As previously noted, the Predecessor period reflects the results of operations and assets and liabilities of Historical DuPont and excludes the DAS business. As a result, the company's segment results for the Predecessor and Successor periods of 2017 do not reflect the manner in which the company's CODM assesses performance and allocates resources, therefore the company determined that presenting segment results for each standalone period in 2017 would not be meaningful to the reader. Therefore, segment metrics are not presented for the Successor and Predecessor periods of 2017, and instead are presented for the full year of 2017 on a pro forma basis. Refer to page 60 for reconciliation of pro forma income from continuing operations after income taxes to pro forma segment operating EBITDA, for the year ended December 31, 2017.
+
+55
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Seed
+
+Seed net sales were $7,590 million in 2019, down from $7,842 million in 2018. The decrease was primarily due to a 2 percent decline in currency and a 1 percent decline in volume. Local price was flat.
+
+Unfavorable currency impacts were primarily due to the Brazilian Real, Eastern European currencies, and the Euro. Volume gains in corn in EMEA were more than offset by significant weather-related planting delays in North America, leading to a reduction in planted area for soybeans, and multi-channel and multi-brand rationalization impacts in North America. Competitive pricing pressure in soybeans in the U.S. and increased soybean and corn replant in North America were offset by favorable mix and continued penetration of PowerCore Ultra® in Latin America. 
+
+Seed pro forma operating EBITDA was $1,040 million in 2019, down 9 percent from $1,139 million in 2018. Competitive pricing pressure, the unfavorable impact of currency, increased commissions and input costs, and volume declines more than offset cost synergies and ongoing productivity.
+
+Seed net sales were $7,842 million in 2018, $1,520 million for the period September 1 through December 31, 2017 and $5,865 million for the period January 1 through August 31, 2017. Pro forma net sales for the year ended December 31, 2017 were $8,056 million. The decrease in pro forma net sales was primarily due to a 3 percent decline in volume and a 1 percent decline in currency, partially offset by a 1 percent increase in local price. Volume declines represented lower planted area in North America and Latin America. Increases in local price and product mix were driven by continued penetration of new corn hybrids and A-Series soybeans. 
+
+Seed pro forma operating EBITDA was $1,139 million in 2018, down 3 percent from $1,170 million in 2017. Cost synergies were more than offset by lower volume, higher raw material costs and royalty expense, and investments to support new product launches and digital platforms.
+
+56
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Crop Protection 
+
+Crop protection net sales were $6,256 million in 2019, down from $6,445 million in 2018. The decrease was primarily due to a 3 percent decline in currency and a 1 percent decline in portfolio, partially offset by a 1 percent increase in volume. Local price was flat.
+
+Unfavorable currency impacts were primarily due to Brazilian Real and the Euro. Volume gains driven by new product launches - including EnlistTM and ArylexTM herbicides and IsoclastTM insecticide - were partially offset by the unfavorable weather in North America, which resulted in lost spring applications. Pricing gains from new products launches were offset by increased grower incentive program discounts in North America. The portfolio impact was driven by divestitures in North America and Asia Pacific.
+
+Crop Protection pro forma operating EBITDA was $1,066 million in 2019, down 1 percent from $1,074 million in 2018. Volume declines in North America, the unfavorable impact of currency, and higher input costs more than offset cost synergies, sales from new products, and ongoing productivity. 
+
+Crop protection net sales were $6,445 million in 2018, $2,270 million for the period September 1 through December 31, 2017 and $1,029 million for the period January 1 through August 31, 2017. Pro forma net sales for the year ended December 31, 2017 were $6,185 million. The increase in pro forma net sales was primarily due to a 3 percent increase in volume and a 3 percent increase in local price, partially offset by a 2 percent decline in currency. Volume gains were driven by new product launches such as VessaryaTM fungicides, EnlistTM products, and IsoclastTM, Pyraxalt™ and Spinosyn™ insecticides and were partly offset by lower demand for nitrogen stabilizers in North America and currency pressures in Latin America. Increases in local prices were driven by continuing efforts to capture value in established brands across the crop protection portfolio globally. 
+
+Crop Protection pro forma operating EBITDA was $1,074 million in 2018, up 15 percent from $936 million in 2017. Cost synergies and sales gains from new product launches were partially offset by growth investments, including for new product launches, higher raw material costs and the unfavorable impact of currency.
+
+57
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Non-GAAP Financial Measures
+
+The company presents certain financial measures that do not conform to U.S. GAAP and are considered non-GAAP measures. These measures include pro forma operating EBITDA and pro forma operating earnings per share. Management believes that these non-GAAP measures best reflect the ongoing performance of the company during the periods presented and provide more relevant and meaningful information to investors as they provide insight with respect to ongoing operating results of the company and a more useful comparison of year over year results. These non-GAAP measures supplement the company's U.S. GAAP disclosures and should not be viewed as an alternative to U.S. GAAP measures of performance. Furthermore, such non-GAAP measures may not be consistent with similar measures provided or used by other companies. Reconciliations for these non-GAAP measures to U.S. GAAP are provided below. For all periods presented, these non-GAAP measures are being reconciled to a pro forma GAAP financial measure prepared and presented in accordance with Article 11 of Regulation S-X, which are reconciled to the GAAP reported figures. See Article 11 Pro Forma Combined Statements of Operations on page 51.
+
+Pro Forma Operating EBITDA is defined as earnings (i.e., income from continuing operations before income taxes) before interest, depreciation, amortization, non-operating benefits, net and foreign exchange gains (losses), excluding the impact of significant items (including goodwill impairment charges). Non-operating benefits, net consists of non-operating pension and OPEB credits, tax indemnification adjustments, environmental remediation and legal costs associated with legacy businesses and sites of Historical DuPont. Tax indemnification adjustments relate to changes in indemnification balances, as a result of the application of the terms of the Tax Matters Agreement, between Corteva and Dow and/or DuPont that are recorded by the company as pre-tax income or expense. Pro forma operating earnings per share is defined as "Earnings per common share from continuing operations - diluted" excluding the after-tax impact of significant items (including goodwill impairment charges), the after-tax impact of non-operating benefits, net, and the after-tax impact of amortization expense associated with intangible assets existing as of the Separation from DowDuPont. Although amortization of the Company's intangible assets is excluded from these non-GAAP measures, management believes it is important for investors to understand that such intangible assets contribute to revenue generation. Amortization of intangible assets that relate to past acquisitions will recur in future periods until such intangible assets have been fully amortized. Any future acquisitions may result in amortization of additional intangible assets. 
+
+Reconciliation of Pro Forma Income from Continuing Operations after Income Taxes to Pro Forma Operating EBITDA
+
+[DATA_TABLE_REMOVED]
+
+58
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+As discussed in Note 25 - Segment Information, the Predecessor period reflects the results of operations and assets and liabilities of Historical DuPont and excludes the DAS business. As a result, the company's segment results for the Predecessor and Successor periods of 2017 do not reflect the manner in which the company's chief operating decision maker assesses performance and allocates resources, therefore the company determined that presenting segment results for each standalone period in 2017 would not be meaningful to the reader. Below is a reconciliation of pro forma income from continuing operations after income taxes to pro forma segment operating EBITDA for the year ended December 31, 2017.
+
+[DATA_TABLE_REMOVED]
+
+Significant Items 
+
+[DATA_TABLE_REMOVED]
+
+1. The tax benefit impact of significant items for the year ended December 31, 2019 includes a net tax charge of $35 million related to application of the U.S. Tax Reform’s foreign tax provisions, a net tax charge of $146 million related to U.S. state blended tax rate changes associated with the Business Separations, and a net tax benefit of $(102) million related to an internal legal entity restructuring associated with the Business Separations. Unless specifically addressed above, the income tax effect on significant items was calculated based upon the enacted tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment.
+
+2. The tax only significant item (benefits) charges are primarily related to effects of U.S. and Swiss Tax Reform, the Internal Reorganizations and Business Separations, and the release of a tax valuation allowance recorded against the net deferred tax asset position of a Swiss legal entity.
+
+59
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Reconciliation of Pro Forma Income (Loss) from Continuing Operations Attributable to Corteva and Pro Forma Earnings (Loss) Per Share of Common Stock from Continuing Operations - Diluted to Pro Forma Operating Earnings and Pro Forma Operating Earnings Per Share
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Liquidity & Capital Resources 
+
+The company continually reviews its sources of liquidity and debt portfolio and occasionally may make adjustments to one or both to ensure adequate liquidity.
+
+[DATA_TABLE_REMOVED]
+
+The company's cash, cash equivalents and marketable securities at December 31, 2019 and December 31, 2018 were $1.8 billion, and $2.3 billion respectively. Total debt at December 31, 2019 and December 31, 2018 was $122 million and $7,938 million, respectively. The decrease in cash and debt balances was primarily due to debt redemption/repayment transactions. See further information under Note 17 - Short-term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements.
+
+The company's credit ratings impact its access to the debt capital markets and cost of capital. The company remains committed to a strong financial position and strong investment-grade rating. The company's long-term and short-term credit ratings assigned to EID are as follows:
+
+[DATA_TABLE_REMOVED]
+
+1.In addition, Standard & Poor’s has assigned to Corteva, Inc. a long-term issuer rating of A- with Stable outlook.
+
+60
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The company believes its ability to generate cash from operations and access to capital markets and commercial paper markets will be adequate to meet anticipated cash requirements to fund its operations, including seasonal working capital, capital spending, dividend payments, share repurchases and pension contributions. Corteva's strong financial position, liquidity and credit ratings will provide access as needed to capital markets and commercial paper markets to fund seasonal working capital needs. The company's liquidity needs can be met through a variety of sources, including cash provided by operating activities, commercial paper, syndicated credit lines, bilateral credit lines, long-term debt markets, bank financing and committed receivable repurchase facilities. 
+
+The company has access to approximately $6.4 billion in committed and uncommitted unused credit lines at December 31, 2019. These unused credit lines provide support to meet the company’s short-term liquidity needs and for general corporate purposes which may include funding of pension contributions, severance payments, working capital, capital expenditures, and funding Corteva's expenses.
+
+In November 2018, EID entered into a $3.0 billion five-year revolving credit facility and a $3.0 billion three-year revolving credit facility (the “2018 Revolving Credit Facilities”). The 2018 Revolving Credit Facilities became effective May 2019 in connection with the termination of the EID $4.5 billion Term Loan Facility and the $3.0 billion Revolving Credit Facility dated May 2014. Corteva, Inc. became a party to the 2018 Revolving Credit Facilities upon the Corteva Distribution. The 2018 Revolving Credit Facilities contain customary representations and warranties, affirmative and negative covenants and events of default that are typical for companies with similar credit ratings. The 2018 Revolving Credit Facilities also contain a financial covenant requiring that the ratio of total indebtedness to total capitalization for Corteva and its consolidated subsidiaries not exceed 0.60. At December 31, 2019, the company was in compliance with these covenants.
+
+The company's indenture covenants include customary limitations on liens, sale and leaseback transactions, and mergers and consolidations affecting manufacturing plants, mineral producing properties or research facilities located in the U.S. and the consolidated subsidiaries owning such plants, properties and facilities subject to certain limitations. The outstanding long-term debt also contains customary default provisions.
+
+The company has meaningful seasonal working capital needs based in part on providing financing to its customers. Working capital is funded through multiple methods including commercial paper, a receivable repurchase facility, factoring and cash from operations.
+
+In February 2019, in line with seasonal working capital requirements, the company entered into a committed receivable repurchase agreement of up to $1.3 billion (the "2019 Repurchase Facility") which expired in December 2019. Under the 2019 Repurchase Facility, the company sold a portfolio of available and eligible outstanding customer notes receivables to participating institutions and simultaneously agreed to repurchase at a future date. 
+
+In February 2020, the company entered into a new committed receivable repurchase facility of up to $1.3 billion (the "2020 Repurchase Facility") which expires in December 2020. See further discussion of the 2020 Repurchase Facility in Note 27 - Subsequent Events, to the Consolidated Financial Statements.
+
+The company has factoring agreements with third-party financial institutions primarily in Latin America to sell its trade receivables under both recourse and non-recourse agreements in exchange for cash proceeds in an effort to reduce its receivables risk. For arrangements that include an element of recourse, the company provides a guarantee of the trade receivables in the event of customer default. Refer to Note 12 - Accounts and Notes Receivable - Net, to the Consolidated Financial Statements for more information.
+
+The company also organizes agreements with third-party financial institutions who directly provide financing for select customers of its seed and crop protection products in each region. Terms of the third-party loans are less than a year and programs are renewed on an annual basis. In some cases, the company guarantees a portion of the extension of such credit to such customers. Refer to Note 18 - Commitments and Contingent Liabilities, to the Consolidated Financial Statements for more information on the company’s guarantees.
+
+Capacity Expansion
+
+The company's Board of Directors authorized an investment of approximately $145 million to increase Spinosyns fermentation capacity by 30% to address global market growth in insecticides that handle chewing insects in specialty and row crops. The additional capacity will be staged to come online over the next few years.
+
+61
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Debt Redemptions/Repayments
+
+In the fourth quarter of 2018, the company offered to purchase for cash approximately $6.2 billion of outstanding debt securities from each registered holder of the applicable series of debt securities (the “Tender Offers”). The company retired $4.4 billion aggregate principal amount of such debt securities in connection with the Tender Offers, which expired on December 11, 2018. The retirement of these debt securities was funded with cash contributions from DowDuPont.
+
+On March 22, 2019, EID issued notices of redemption in full of all of its outstanding notes (the “Make Whole Notes”) listed in the table below:
+
+[DATA_TABLE_REMOVED]
+
+The Make Whole Notes were redeemed on April 22, 2019 at the make-whole redemption prices set forth in the respective Make Whole Notes. On and after the date of redemption, the Make Whole Notes were no longer deemed outstanding, interest on the Make Whole Notes ceased to accrue and all rights of the holders of the Make Whole Notes were terminated. For further information on the Make Whole Notes, see Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements and Recent Developments.
+
+In March 2016, the company entered into a credit agreement that provides for a three-year, senior unsecured term loan facility in the aggregate principal amount of $4.5 billion (as amended, from time to time, the "Term Loan Facility") under which EID could make up to seven term loan borrowings and amounts repaid or prepaid were not available for subsequent borrowings. On May 2, 2019, EID terminated its Term Loan Facility and repaid the aggregate outstanding principal amount of $3 billion plus accrued and unpaid interest through and including May 1, 2019. For further information on the termination of the Term Loan Facility, see Note 17 - Short-Term Borrowings, Long-Term Debt and Available Credit Facilities, to the Consolidated Financial Statements and Recent Developments.
+
+In connection with the repayment of the Make Whole Notes and the Term Loan Facility, EID paid a total of $4.6 billion in the second quarter 2019, which included breakage fees and accrued and unpaid interest on the Make Whole Notes and Term Loan Facility. The repayment of the Make Whole Notes and Term Loan Facility was funded with cash from operations and a contribution from DowDuPont. 
+
+On May 7, 2019, DowDuPont publicly announced the record date in connection with the Corteva Distribution. In connection with such announcement, EID was required to redeem $1.25 billion aggregate principal amount of 2.200% Notes due 2020 and $750 million aggregate principal amount of Floating Rate Notes due 2020 (collectively, the Special Mandatory Redemption or “SMR Notes”) setting forth the date of redemption of the SMR Notes. The date of redemption was May 17, 2019 and the company paid a total of $2.0 billion, which included accrued and unpaid interest on the SMR Notes. The company funded the payment with a contribution from DowDuPont. Following the redemption, the SMR Notes are no longer outstanding and no longer bear interest and all rights of the holders of the SMR Notes have terminated.
+
+The company's cash, cash equivalents and marketable securities at December 31, 2019 and December 31, 2018 are $1.8 billion and $2.3 billion, respectively, of which $1.5 billion at December 31, 2019 and $1.7 billion at December 31, 2018, was held by subsidiaries in foreign countries, including United States territories. 
+
+62
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The Act required companies to pay a one-time transition tax on the untaxed earnings of foreign subsidiaries (see Note 10 - Income Taxes, to the Consolidated Financial Statements for further details of The Act). Upon actual repatriation, such earnings could be subject to withholding taxes, foreign and / or U.S. state income taxes, and taxes resulting from the impact of foreign currency movements. The Act also introduced a 100 percent dividends received deduction regarding earnings of foreign subsidiaries. The cash held by foreign subsidiaries is generally used to finance the subsidiaries' operational activities and future foreign investments. At December 31, 2019, management believed that sufficient liquidity is available in the U.S. 
+
+[DATA_TABLE_REMOVED]
+
+Cash provided by operating activities for the year ended December 31, 2019 was $1,070 million compared to $483 million for the year ended December 31, 2018. The increase in cash provided by operating activities was primarily driven by lower pension contributions in 2019, as a result of the company’s 2018 discretionary pension contribution, and a decrease in integration and separation costs, partially offset by the net impact of lower net income and working capital changes as a result of the Internal Reorganizations and Business Realignments in 2019.
+
+Cash provided by operating activities was $3,674 million for the period September 1 through December 31, 2017, primarily driven by Corteva's seasonal cash flows and a tax refund related to voluntary pension contributions made in the Predecessor period, partially offset by transaction costs and the PFOA multi-district litigation settlement, which was primarily paid in September.
+
+Cash used for operating activities was $(3,949) million for the period January 1 through August 31, 2017, primarily driven by pension contributions of $3,024 million, Corteva's seasonal cash flows, transaction costs and tax payments, partially offset by earnings.
+
+[DATA_TABLE_REMOVED]
+
+Cash used for investing activities was $(904) million for the year ended December 31, 2019 compared to $(505) million for the year ended December 31, 2018, primarily due to a decrease in net proceeds from sales and maturities of investments, partially offset by a reduction in capital expenditures as a result of the Internal Reorganizations and Business Realignments in 2019 and an increase in proceeds from sales of property, businesses and consolidated companies. 
+
+Cash provided by investing activities was $3,678 million for the period September 1 through December 31, 2017, primarily driven by approximately $1,200 million of cash received for the FMC Transactions, approximately $1,100 million of cash received for the DAS Divested Ag Business (see Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information) and net proceeds from investments, partially offset by capital expenditures.
+
+Cash used for investing activities was $(2,382) million for the period January 1 through August 31, 2017, primarily driven by net purchases of investments, capital expenditures, payments for the acquisition of Granular and net payments from foreign currency contracts, partially offset by proceeds from the sale of property and businesses.
+
+Capital expenditures totaled $1,163 million for the year ended December 31, 2019, $1,501 million for the year ended December 31, 2018, $499 million for the period September 1 through December 31, 2017, and $687 million for the period January 1 through August 31, 2017. The company expects 2020 capital expenditures to be between $500 million and $600 million.
+
+63
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+[DATA_TABLE_REMOVED]
+
+Cash used for financing activities was $(2,929) million for the year ended December 31, 2019 compared to $(2,624) million for the year ended December 31, 2018. The change was due to repayments of commercial paper and long-term debt and transfers of cash to DowDuPont in connection with the Internal Reorganization and Business Realignments in 2019, partially offset by a net increase in contributions from Dow and DowDuPont, primarily for repayment of long-term debt, and a decrease in distributions to Dow and DowDuPont which were used to fund a portion of DowDuPont’s dividend payments, and in 2018 to fund a portion of DowDuPont’s share repurchases.
+
+Cash used for financing activities was $(3,607) million for the period September 1 through December 31, 2017, primarily driven by repayments of commercial paper, distributions to Dow and DowDuPont and dividends paid to Historical DuPont shareholders, partially offset by borrowings under the Term Loan. Dividend payments to shareholders of Historical DuPont common stock included a third quarter 2017 dividend declared for common stockholders of record July 31, 2017 and paid in September 2017. 
+
+Cash provided by financing activities was $5,632 million for the period January 1 through August 31, 2017, primarily driven by a debt offering in May of 2017 as well as borrowings from commercial paper, the Repurchase Facility, and the Term Loan Facility, partially offset by dividends paid to stockholders.
+
+In June 2019, the company's Board of Directors authorized a common stock dividend of $0.13 per share, payable on September 13, 2019, to shareholders of record on July 31, 2019. In October 2019, the company's Board of Directors authorized a common
+
+stock dividend of $0.13 per share, payable on December 18, 2019, to shareholders of record on November 29, 2019.
+
+On June 26, 2019, the company announced that the Board of Directors authorized a $1 billion share repurchase program to purchase Corteva, Inc.'s common stock, par value $0.01 per share, without an expiration date. The program is expected to be completed in three years. During 2019, the company purchased and retired 824,000 shares for a total cost of $25 million. See Note 19 - Stockholders' Equity, to the Consolidated Financial Statements for additional information related to the share buyback plan.
+
+EID Liquidity Discussion
+
+As discussed in Note 1 - Basis of Presentation, to the EID Consolidated Financial Statements, EID is a subsidiary of Corteva, Inc. and continues to be a reporting company, subject to the requirements of the Exchange Act. The below relates to EID only and is presented to provide a Liquidity discussion, only for the differences between EID and Corteva, Inc.
+
+Cash provided by operating activities
+
+EID’s cash provided by operating activities for the year ended December 31, 2019 was $996 million compared to $483 million for the year ended December 31, 2018. The increase was primarily driven by the items noted on page 63, under the header “Cash provided by (used for) operating activities,” partially offset by interest incurred on the related party loan between EID and Corteva, Inc. 
+
+64
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Cash used for financing activities
+
+EID’s cash used for financing activities was $(2,855) million for the year ended December 31, 2019 compared to $(2,624) million for the year ended December 31, 2018. The change was due to repayments of commercial paper and long-term debt, transfers of cash to DowDuPont in connection with the Internal Reorganization and Business Realignments in 2019, and a net decrease in contributions from Dow and DuPont, primarily for repayment of long-term debt, partially offset by proceeds received from the related party loan between EID and Corteva, Inc., and a decrease in distributions to Dow and DowDuPont which were used to fund a portion of DowDuPont’s dividend payments, and in 2018 to fund a portion of DowDuPont’s share repurchases. 
+
+See Note 2 - Related Party Transactions, to the EID Consolidated Financial Statements for further information on the related party loan between EID and Corteva, Inc.
+
+Critical Accounting Estimates
+
+The company's significant accounting policies are more fully described in Note 2 - Summary of Significant Accounting Policies, to the Consolidated Financial Statements. Management believes that the application of these policies on a consistent basis enables the company to provide the users of the financial statements with useful and reliable information about the company's operating results and financial condition.
+
+The preparation of the Consolidated Financial Statements in conformity with generally accepted accounting principles ("GAAP") in the United States of America requires management to make estimates and assumptions that affect the reported amounts, including, but not limited to, receivable and inventory valuations, impairment of tangible and intangible assets, long-term employee benefit obligations, income taxes, environmental matters and litigation. Management's estimates are based on historical experience, facts and circumstances available at the time and various other assumptions that are believed to be reasonable. The company reviews these matters and reflects changes in estimates as appropriate. Management believes that the following represent some of the more critical judgment areas in the application of the company's accounting policies which could have a material effect on the company's financial position, liquidity or results of operations.
+
+Pension Plans and Other Post Employment Benefits
+
+Accounting for employee benefit plans involves numerous assumptions and estimates. Discount rate and expected return on plan assets are two critical assumptions in measuring the cost and benefit obligation of the company's pension and OPEB plans. Management reviews these two key assumptions when plans are re-measured. These and other assumptions are updated periodically to reflect the actual experience and expectations on a plan specific basis as appropriate. As permitted by GAAP, actual results that differ from the assumptions are accumulated on a plan by plan basis and to the extent that such differences exceed 10 percent of the greater of the plan's benefit obligation or the applicable plan assets, the excess is amortized over the average remaining service period of active employees or the average remaining life expectancy of the inactive participants if all or almost all of a plan’s participants are inactive.
+
+Substantially all of the company's benefit obligation for pensions and OPEB are attributable to the benefit plans in the U.S. In the U.S., the single equivalent discount rate is developed by matching the expected cash flow of the benefit plans to a yield curve constructed from a portfolio of high quality fixed-income instruments provided by the plans' actuaries as of the measurement date. The company measures the service and interest cost components utilizing a full yield curve approach by applying the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows. For non-U.S. benefit plans, historically the company utilized prevailing long-term high quality corporate bond indices to determine the discount rate, applicable to each country, at the measurement date. 
+
+65
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Within the U.S., the company establishes strategic asset allocation percentage targets and appropriate benchmarks for significant asset classes with the aim of achieving a prudent balance between return and risk. Strategic asset allocations in other countries are selected in accordance with the laws and practices of those countries. Where appropriate, asset-liability studies are also taken into consideration. The long-term expected return on plan assets in the U.S. is based upon historical real returns (net of inflation) for the asset classes covered by the investment policy, expected performance, and projections of inflation and interest rates over the long-term period during which benefits are payable to plan participants. Consistent with prior years, the long-term expected return on plan assets in the U.S. reflects the asset allocation of the plan and the effect of the company's active management of the plan's assets. In connection with pension contributions of $2,900 million to its principal U.S. pension plan for the period of January 1, 2017 through August 31, 2017, an investment policy study was completed for the principal U.S. pension plan. The study resulted in new target asset allocations for the U.S. pension plan with resulting changes to the expected return on plan assets. The long-term rate of return on assets decreased from 8.00 percent for the Predecessor period to 6.25 percent for the Successor period in 2017.
+
+In determining annual expense for the principal U.S. pension plan, the company uses a market-related value of assets rather than its fair value. Accordingly, there may be a lag in recognition of changes in market valuation. As a result, changes in the fair value of assets are not immediately reflected in the company's calculation of net periodic pension cost. Generally, the market-related value of assets is calculated by averaging market returns over 36 months, however, as a result of the Merger, for the Successor periods, the market-related value of assets was calculated by averaging market returns from September 1, 2017 through the respective year ends.
+
+The following table shows the market-related value and fair value of plan assets for the principal U.S. pension plan:
+
+[DATA_TABLE_REMOVED]
+
+For plans other than the principal U.S. pension plan, pension expense is determined using the fair value of assets. 
+
+The following table highlights the potential impact on the company's pre-tax earnings due to changes in certain key assumptions with respect to the company's pension and OPEB plans, based on assets and liabilities at December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+Additional information with respect to pension and OPEB expenses, liabilities and assumptions is discussed under "Long-term Employee Benefits" beginning on page 72 and in Note 20 - Pension Plans and Other Post Employment Benefits, to the Consolidated Financial Statements.
+
+66
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Environmental Matters
+
+Accruals for environmental matters are recorded when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated. At December 31, 2019, the company had accrued obligations of $336 million for probable environmental remediation and restoration costs, including $51 million for the remediation of Superfund sites. As remediation activities vary substantially in duration and cost from site to site, it is difficult to develop precise estimates of future site remediation costs. The company's estimates are based on a number of factors, including the complexity of the geology, the nature and extent of contamination, the type of remedy, the outcome of discussions with regulatory agencies and other Potentially Responsible Parties ("PRPs") at multi-party sites and the number of and financial viability of other PRPs. Therefore, considerable uncertainty exists with respect to environmental remediation and costs, and, under adverse changes in circumstances, it is reasonably possible that the ultimate cost with respect to these particular matters could range up to $620 million above that amount. Consequently, it is reasonably possible that environmental remediation and restoration costs in excess of amounts accrued could have a material impact on the company’s results of operations, financial condition and cash flows. It is the opinion of the company’s management, however, that the possibility is remote that costs in excess of the range disclosed will have a material impact on the company’s results of operations, financial condition or cash flows. For further discussion, see Environmental Matters in Management’s Discussion and Analysis of Financial Condition and Results of Operations and Note 3 - Recent Accounting Guidance, and Note 18 - Commitments and Contingent Liabilities, to the Consolidated Financial Statements.
+
+Legal Contingencies
+
+The company's results of operations could be affected by significant litigation adverse to the company, including product liability claims, patent infringement and antitrust claims, and claims for third party property damage or personal injury stemming from alleged environmental torts. The company records accruals for legal matters when the information available indicates that it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. Management makes adjustments to these accruals to reflect the impact and status of negotiations, settlements, rulings, advice of counsel and other information and events that may pertain to a particular matter. Predicting the outcome of claims and lawsuits and estimating related costs and exposure involves substantial uncertainties that could cause actual costs to vary materially from estimates. In making determinations of likely outcomes of litigation matters, management considers many factors. These factors include, but are not limited to, the nature of specific claims including unasserted claims, the company's experience with similar types of claims, the jurisdiction in which the matter is filed, input from outside legal counsel, the likelihood of resolving the matter through alternative dispute resolution mechanisms, and the matter's current status. Considerable judgment is required in determining whether to establish a litigation accrual when an adverse judgment is rendered against the company in a court proceeding. In such situations, the company will not recognize a loss if, based upon a thorough review of all relevant facts and information, management believes that it is probable that the pending judgment will be successfully overturned on appeal. A detailed discussion of significant litigation matters is contained in Note 18 - Commitments and Contingent Liabilities, to the Consolidated Financial Statements.
+
+Indemnification Assets 
+
+The company has entered into various agreements where the company is indemnified for certain liabilities by DuPont, Dow, and Chemours. The term of this indemnification is generally indefinite and includes defense costs and expenses, as well as monetary and non-monetary settlements and judgments. In connection with the recognition of liabilities related to these matters, the company records an indemnification asset when recovery is deemed probable. In assessing the probability of recovery, the company considers the contractual rights under the separation agreements and any potential credit risk. Future events, such as potential disputes related to recovery as well as the solvency of DuPont, Dow, and / or Chemours, could cause the indemnification assets to have a lower value than anticipated and recorded. The company evaluates the recovery of the indemnification assets recorded when events or changes in circumstances indicate the carrying values may not be fully recoverable. See Note 5 - Divestitures and Other Transactions, to the Consolidated Financial Statements for additional information related to indemnifications.
+
+Income Taxes 
+
+The breadth of the company's operations and the global complexity of tax regulations require assessments of uncertainties and judgments in estimating taxes the company will ultimately pay. The final taxes paid are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions, outcomes of tax litigation and resolution of disputes arising from federal, state and international tax audits in the normal course of business. The resolution of these uncertainties may result in adjustments to the company's tax assets and tax liabilities. It is reasonably possible that changes to the company’s global unrecognized tax benefits could be significant; however, due to the uncertainty regarding the timing of completion of audits and possible outcomes, a current estimate of the range of increases or decreases that may occur within the next twelve months cannot be made.
+
+67
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Deferred income taxes result from differences between the financial and tax basis of the company's assets and liabilities and are adjusted for changes in tax rates and tax laws when changes are enacted. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Significant judgment is required in evaluating the need for and magnitude of appropriate valuation allowances against deferred tax assets. The realization of these assets is dependent on generating future taxable income, as well as successful implementation of various tax planning strategies. For example, changes in facts and circumstances that alter the probability that the company will realize deferred tax assets could result in recording a valuation allowance, thereby reducing the deferred tax asset and generating a deferred tax expense in the relevant period. In some situations, these changes could be material. See Note 10 - Income Taxes, to the Consolidated Financial Statements for additional information.
+
+At December 31, 2019, the company had a net deferred tax liability balance of $633 million, inclusive of a valuation allowance of $457 million. Realization of deferred tax assets is expected to occur over an extended period of time. As a result, changes in tax laws, assumptions with respect to future taxable income, and tax planning strategies could result in adjustments to deferred tax assets. See Note 10 - Income Taxes, to the Consolidated Financial Statements for additional details related to the deferred tax liability balance.
+
+Valuation of Assets and Impairment Considerations
+
+The assets and liabilities of acquired businesses are measured at their estimated fair values at the dates of acquisition. The excess of the purchase price over the estimated fair value of the net assets acquired, including identified intangibles, is recorded as goodwill. The determination and allocation of fair value to the assets acquired and liabilities assumed is based on various assumptions and valuation methodologies requiring considerable management judgment, including estimates based on historical information, current market data and future expectations. The principal assumptions utilized in the company's valuation methodologies include revenue growth rates, operating margin estimates, royalty rates, and discount rates. Although the estimates are deemed reasonable by management based on information available at the dates of acquisition, those estimates are inherently uncertain.
+
+Assessment of the potential impairment of goodwill, other intangible assets, property, plant and equipment, investments in nonconsolidated affiliates, and other assets is an integral part of the company's normal ongoing review of operations. Testing for potential impairment of these assets is significantly dependent on numerous assumptions and reflects management's best estimates at a particular point in time. The dynamic economic environment in which the company's segments operate, and key economic and business assumptions with respect to projected selling prices, market growth and inflation rates, can significantly affect the outcome of impairment tests. Estimates based on these assumptions may differ significantly from actual results. Changes in factors and assumptions used in assessing potential impairments can have a significant impact on the existence and magnitude of impairments, as well as the time in which such impairments are recognized. In addition, the company continually reviews its portfolio of assets to ensure they are achieving their greatest potential and are aligned with the company's growth strategy. Strategic decisions involving a particular group of assets may trigger an assessment of the recoverability of the related assets. Such an assessment could result in impairment losses.
+
+The company performs its annual goodwill impairment assessment during the fourth quarter at the reporting unit level which is defined as the operating segment or one level below the operating segment. One level below the operating segment, or component, is a business in which discrete financial information is available and regularly reviewed by segment management. The company aggregates certain components into reporting units based on economic similarities. As a result of the Internal Reorganizations and Realignments, the company changed its reportable segments to seed and crop protection to reflect the manner in which the company's chief operating decision maker assesses performance and allocates resources. The change in reportable segments resulted in changes to the company's reporting units for goodwill impairment testing to align with the level at which discrete financial information is available for review by management. The company’s reporting units include seed, crop protection and digital. In connection with the change in reportable segments and reporting units, goodwill was reassigned from the former agriculture reporting unit to the seed, crop protection and digital reporting units using a relative fair value allocation approach. 
+
+68
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+For purposes of the annual goodwill impairment test, the company has the option to first perform qualitative testing to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. Qualitative factors assessed at the company level include, but are not limited to, GDP growth rates, long-term commodity prices, equity and credit market activity, discount rates, foreign exchange rates, and overall financial performance. Qualitative factors assessed at the reporting unit level include, but are not limited to, changes in industry and market structure, competitive environments, planned capacity and new product launches, cost factors such as raw material prices, and financial performance of the reporting unit. If the company chooses not to complete a qualitative assessment for a given reporting unit or if the initial assessment indicates that it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value, additional quantitative testing is required.
+
+If additional quantitative testing is required, the reporting unit’s fair value is compared with its carrying amount, and an impairment charge, if any, is recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value. The company determined fair values for each of the reporting units using the income approach or market approach. 
+
+Under the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an appropriate risk-adjusted rate. The company uses its internal forecasts to estimate future cash flows and includes an estimate of long-term future growth rates based on its most recent views of the long-term outlook for each reporting unit. Actual results may differ from those assumed in the company’s forecasts. The company derives its discount rates using a capital asset pricing model and analyzing published rates for industries relevant to its reporting units to estimate the cost of equity financing. The company uses discount rates that are commensurate with the risks and uncertainty inherent in the respective reporting units and in its internally developed forecasts. Discount rates used in the company’s reporting unit valuations ranged from 9.5% to 10.5%. Under the market approach, the company uses metrics of publicly traded companies or historically completed transactions for comparable companies.
+
+Estimating the fair value of reporting units requires the use of estimates and significant judgments that are based on a number of factors including actual operating results. It is reasonably possible that the judgments and estimates described above could change in future periods. The company’s assets and liabilities were measured at fair value as of the date of the Merger, and as a result, any declines in projected cash flows or increases in discount rates could have a material, negative impact on the fair value of the company's reporting units and assets and therefore result in an impairment. 
+
+As discussed above, in connection with the change in reportable segments and reporting units, the company performed a goodwill impairment analysis for the former agriculture reporting unit immediately prior to the realignment and the newly created reporting units immediately after the realignment. The impairment analysis was performed using a discounted cash flow model (a form of the income approach), utilizing Level 3 unobservable inputs or a market approach. The company’s significant estimates in this analysis include, but are not limited to, future cash flow projections, the weighted average cost of capital, the terminal growth rate, and the tax rate. The company’s estimates of future cash flows are based on current regulatory and economic climates, recent operating results, and planned business strategy. The company believes the current assumptions and estimates utilized are both reasonable and appropriate. Based on the goodwill impairment analysis performed both immediately prior to and immediately subsequent to the realignment, the company concluded the fair value of the former agriculture reporting unit and the newly created reporting units exceeded their carrying value, and no goodwill impairment charge was necessary. 
+
+In the third quarter of 2019, and in connection with strategic product and portfolio reviews, the company determined that the fair value of certain intangible assets classified as developed technology, other intangible assets and IPR&D within the seed segment that primarily relate to heritage DAS intangibles previously acquired from Cooperativa Central de Pesquisa Agrícola's ("Coodetec") was less than the carrying value due to the company’s focus on advancing more competitive products and eliminating redundancy and complexity across the breeding programs. As a result, the company recorded a pre-tax, non-cash intangible asset impairment charge of $54 million ($41 million after-tax). The key assumptions used in determining the fair value of these intangibles involve management judgment and estimates relating to future operating performance and economic conditions that may differ from actual cash flows. Refer to Note 7 - Restructuring and Asset Related Charges - Net, Note 15 - Goodwill and Other Intangible Assets, and Note 23 - Fair Value Measurements, to the Consolidated Financial Statements for more information.
+
+69
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+In the fourth quarter of 2019, quantitative testing was performed on all of the company’s reporting units. Based on the results of the quantitative testing, the estimated fair value of each of the reporting units exceeded their carrying values. For the seed reporting unit, the excess fair value over carrying value is approximately 12%, and therefore carries a higher risk of impairment charges in future periods. The dynamic economic environments in which the company's diversified product lines operate, and key economic and product line assumptions with respect to projected selling prices, product mix, market growth and inflation rates, can significantly affect the outcome of impairment tests. Estimates based on these assumptions may differ significantly from actual results. Changes in factors, circumstances and assumptions used in assessing potential impairments can have a significant impact on the existence and magnitude of impairments, as well as the time in which such impairments are recognized. 
+
+In the fourth quarter of 2019, the company also performed an impairment test on indefinite-lived intangibles and determined that the fair value of certain IPR&D assets had declined as a result of the company’s decision to accelerate the ramp up of the Enlist E3TM trait platform in the company’s soybean portfolio mix across all brands over the next five years with minimal use of the Roundup Ready 2 Yield® and Roundup Ready 2 Xtend® traits thereafter for the remaining term of the non-exclusive license with the Monsanto Company. This resulted in the company concluding that the recoverability of certain IPR&D projects associated with Roundup Ready 2 Xtend® were impaired, resulting in a pre-tax, non-cash impairment charge of $90 million ($69 million after-tax). Refer to Note 7 - Restructuring and Asset Related Charges - Net, Note 15 - Goodwill and Other Intangible Assets, and Note 23 - Fair Value Measurements, to the Consolidated Financial Statements for more information.
+
+The company’s goodwill and indefinite-lived intangibles for the seed reporting unit at December 31, 2019 is shown below (in millions):
+
+[DATA_TABLE_REMOVED]
+
+Prepaid Royalties
+
+The company’s seed segment currently has certain third-party biotechnology trait license agreements, which require up-front and variable payments subject to the licensor meeting certain conditions. These payments are reflected as other current assets and other assets and are amortized to cost of goods sold as seeds containing the respective trait technology are utilized over the term of the license. The rate of royalty amortization expense recognized is based on the company’s strategic plans which include various assumptions and estimates including product portfolio, market dynamics, farmer preferences, growth rates and projected planted acres. Changes in factors and assumptions included in the strategic plans, including potential changes to the product portfolio in favor of internally developed biotechnology, could impact the rate of recognition of the relevant prepaid royalty. 
+
+At December 31, 2019, the balance of prepaid royalties reflected in other current assets and other assets was $440 million and $794 million, respectively. The majority of the balance of prepaid royalties relates to the company’s wholly owned subsidiary, Pioneer Hi-Bred International, Inc.’s (“Pioneer”) non-exclusive license in the United States and Canada for the Monsanto Company's Genuity® Roundup Ready 2 Yield® glyphosate tolerance trait and Roundup Ready 2 Xtend® glyphosate and dicamba tolerance trait for soybeans (“Roundup Ready 2 License Agreement”). The prepaid royalty asset relates to a series of up-front, fixed and variable royalty payments to utilize the traits in Pioneer’s soybean product mix. The company’s historical expectation has been that the technology licensed under the Roundup Ready 2 License Agreement would be used as the primary herbicide tolerance trait platform in the Pioneer® brand soybean through the term of the agreement. DAS and MS Technologies, L.L.C. jointly developed and own the Enlist E3TM herbicide tolerance trait for soybeans which provides tolerance to 2, 4-D choline in Enlist Duo® and Enlist One® herbicides, as well as glyphosate and glufosinate herbicides. In connection with the validation of breeding plans and large-scale product development timelines, during the fourth quarter of 2019, the company is accelerating the ramp up of the Enlist E3TM trait platform in the company’s soybean portfolio mix across all brands, including Pioneer® brands, over the next five years. During the ramp-up period, the company is expected to significantly reduce the volume of products with the Roundup Ready 2 Yield® and Roundup Ready 2 Xtend® herbicide tolerance traits beginning in 2021, with expected minimal use of the trait platform thereafter for the remainder of the Roundup Ready 2 License Agreement (the “Transition Plan”). The rate of royalty expense is therefore expected to significantly increase through higher amortization of the prepaid royalty as fewer seeds containing the respective trait are expected to be utilized.
+
+70
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+In connection with the departure from these traits in the company's product portfolio, beginning January 1, 2020 the company will present and disclose the accelerated prepaid royalty amortization expense as a component of restructuring and asset related charges - net in the Consolidated Statement of Operations. The accelerated prepaid royalty amortization expense will represent the difference between the rate of amortization based on the revised number of units expected to contain the Roundup Ready 2 Yield® and Roundup Ready 2 Xtend® trait technology and the per unit cash rate per the Roundup Ready 2 License Agreement. The non-cash accelerated prepaid royalty amortization expense estimated for 2020 is approximately $160 million, aggregating to approximately $500 million over the next five years. 
+
+Further changes in factors and assumptions associated with usage of the trait platform licensed under the Roundup Ready 2 License Agreement, including the Transition Plan, could further impact the rate of recognition of the prepaid royalty and statement of operations presentation of the accelerated prepaid royalty amortization expense. 
+
+Off-Balance Sheet Arrangements 
+
+Certain Guarantee Contracts
+
+Information with respect to the company's guarantees is included in Note 18 - Commitments and Contingent Liabilities, to the Consolidated Financial Statements. Historically, the company has not had to make significant payments to satisfy guarantee obligations; however, the company believes it has the financial resources to satisfy these guarantees.
+
+Contractual Obligations
+
+Information related to the company's significant contractual obligations is summarized in the following table:
+
+[DATA_TABLE_REMOVED]
+
+1. Included in the Consolidated Financial Statements. 
+
+2. Represents enforceable and legally binding agreements in excess of $1 million to purchase goods or services that specify fixed or minimum quantities; fixed, minimum or variable price provisions; and the approximate timing of the agreement.[DATA_TABLE_REMOVED]
+
+4. Represents undiscounted remaining payments under Pioneer license agreements ($643 million on a discounted basis). 
+
+5. Primarily represents employee-related benefits other than pensions and other post employment benefits and asset retirement obligations.
+
+6. Due to uncertainty regarding the completion of tax audits and possible outcomes, the timing of certain payments of obligations related to unrecognized tax benefits cannot be made and have been excluded from the table above. See Note 10 - Income Taxes, to the Consolidated Financial Statements for additional detail.
+
+71
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The company expects to meet its contractual obligations through its normal sources of liquidity and believes it has the financial resources to satisfy the contractual obligations that arise in the ordinary course of business. 
+
+Long-term Employee Benefits 
+
+The company has various obligations to its employees and retirees. The company maintains retirement-related programs in many countries that have a long-term impact on the company's earnings and cash flows. These plans are typically defined benefit pension plans, as well as medical, dental and life insurance benefits for pensioners and survivors and disability benefits for employees (other post employment benefits or OPEB plans). Substantially all of the company's worldwide benefit obligation for pensions and essentially all of the company's worldwide OPEB obligations are attributable to the U.S. benefit plans. 
+
+Pension coverage for employees of the company's non-U.S. consolidated subsidiaries is provided, to the extent deemed appropriate, through separate plans. The company regularly explores alternative solutions to meet its global pension obligations in the most cost effective manner possible as demographics, life expectancy and country-specific pension funding rules change. Where permitted by applicable law, the company reserves the right to change, modify or discontinue its plans that provide pension, medical, dental, life insurance and disability benefits.
+
+Benefits under defined benefit pension plans are based primarily on years of service and employees' pay near retirement. In November 2016, the company announced changes to the U.S. pension and OPEB plans. The company froze the pay and service amounts used to calculate pension benefits for active employees who participate in the U.S. pension plans on November 30, 2018. Therefore, as of November 30, 2018, active employees participating in the U.S. pension plans will not accrue additional benefits for future service and eligible compensation received. In addition to the changes to the U.S. pension plans, OPEB eligible employees who will be under the age of 50 as of November 30, 2018 will not receive post-retirement medical, dental and life insurance benefits. The majority of employees hired in the U.S. on or after January 1, 2007 are not eligible to participate in the pension and post-retirement medical, dental and life insurance plans, but receive benefits in the defined contribution plans.
+
+Pension benefits are paid primarily from trust funds established to comply with applicable laws and regulations. The actuarial assumptions and procedures utilized are reviewed periodically by the plans' actuaries to provide reasonable assurance that there will be adequate funds for the payment of benefits. The company did not make contributions to the principal U.S. pension plan for the year ended December 31, 2019. 
+
+Funding for each pension plan other than the principal U.S. pension plan is governed by the rules of the sovereign country in which it operates. Thus, there is not necessarily a direct correlation between pension funding and pension expense. In general, however, improvements in plans' funded status tends to moderate subsequent funding needs. The company contributed $39 million, $103 million, $34 million and $67 million to its funded pension plans other than the principal U.S. pension plan for the year ended December 31, 2019, the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017, respectively.
+
+U.S. pension benefits that exceed federal limitations are covered by separate unfunded plans and these benefits are paid to pensioners and survivors from operating cash flows. The company's remaining pension plans with no plan assets are paid from operating cash flows. The company made benefit payments of $82 million, $111 million, $35 million and $57 million to its unfunded plans for the year ended December 31, 2019, the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017, respectively.
+
+The company's OPEB plans are unfunded and the cost of the approved claims is paid from operating cash flows. Pre-tax cash requirements to cover actual net claims costs and related administrative expenses were $202 million, $216 million, $59 million and $166 million for the year ended December 31, 2019, the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017, respectively. Changes in cash requirements reflect the net impact of higher per capita health care costs, demographic changes, plan amendments and changes in participant premiums, co-pays and deductibles.
+
+In 2020, the company expects to contribute approximately $60 million to its pension plans other than the principal U.S. pension plan, and about $240 million for its OPEB plans. The company is evaluating potential discretionary contributions in 2020 to the principal U.S. pension plan, that could reduce a portion of the underfunded benefit obligation. Any discretionary contributions depend on various factors including market conditions and tax deductible limits.
+
+72
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+The company's income can be significantly affected by pension and defined contribution benefits as well as OPEB costs. The following table summarizes the extent to which the company's loss from continuing operations before income taxes for the year ended December 31, 2019, the year ended December 31, 2018, the period September 1 through December 31, 2017, and the period January 1 through August 31, 2017 was affected by pre-tax charges related to long-term employee benefits:
+
+[DATA_TABLE_REMOVED]
+
+The above (credit) charges for pension and OPEB are determined as of the beginning of each period. Long-term employee credits were $(48) million for the year ended December 31, 2019 and $(69) million for the year ended December 31, 2018. The change is due to decrease in expected return on plan assets.
+
+Activities for the period ended December 31, 2018 and for the period September 1 through December 31, 2017 benefited from the absence of the amortization of net losses from accumulated other comprehensive loss. See "Pension Plans and Other Post Employment Benefits" under the Critical Accounting Estimates section beginning on page 65 of this report for additional information on determining annual expense.
+
+For 2020, long-term employee benefits credit from continuing operations is expected to increase by about $180 million. The increase is mainly due to lower interest cost.
+
+Environmental Matters
+
+The company operates global manufacturing, product handling and distribution facilities that are subject to a broad array of environmental laws and regulations. Such rules are subject to change by the implementing governmental agency, and the company monitors these changes closely. Company policy requires that all operations fully meet or exceed legal and regulatory requirements. In addition, the company implements voluntary programs to reduce air emissions, minimize the generation of hazardous waste, decrease the volume of water use and discharges, increase the efficiency of energy use and reduce the generation of persistent, bioaccumulative and toxic materials. Management has noted a global upward trend in the amount and complexity of proposed chemicals regulation. The costs to comply with complex environmental laws and regulations, as well as internal voluntary programs and goals, are significant and will continue to be significant for the foreseeable future.
+
+Pre-tax environmental expenses charged to income from continuing operations before income taxes are summarized below: 
+
+[DATA_TABLE_REMOVED]
+
+About 85 percent of total pre-tax environmental operating costs charged to income from continuing operations for the year ended December 31, 2019 resulted from operations in the U.S. Based on existing facts and circumstances, management does not believe that year-over-year changes, if any, in environmental operating costs charged to current operations will have a material impact on the company's financial position, liquidity or results of operations. Annual expenditures in the near term are not expected to vary significantly from the range of such expenditures experienced in the past few years. Longer term, expenditures are subject to considerable uncertainty and may fluctuate significantly. 
+
+73
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+Environmental Operating Costs 
+
+As a result of its operations, the company incurs costs for pollution abatement activities including waste collection and disposal, installation and maintenance of air pollution controls and wastewater treatment, emissions testing and monitoring, and obtaining permits. The company also incurs costs related to environmental related research and development activities including environmental field and treatment studies as well as toxicity and degradation testing to evaluate the environmental impact of products and raw materials. 
+
+Remediation Accrual 
+
+Changes in the remediation accrual balance are summarized below:
+
+[DATA_TABLE_REMOVED]
+
+1.Excludes indemnified remediation obligations.[DATA_TABLE_REMOVED]
+
+Considerable uncertainty exists with respect to environmental remediation costs, and, under adverse changes in circumstances, the potential liability may range up to $620 million above the amount accrued as of December 31, 2019. However, based on existing facts and circumstances, management does not believe that any loss, in excess of amounts accrued, related to remediation activities at any individual site will have a material impact on the financial position, liquidity or results of operations of the company. 
+
+The above noted $336 million accrued obligations includes the following:
+
+[DATA_TABLE_REMOVED]
+
+1. Represents liabilities that are subject the $200 million thresholds and sharing arrangements as discussed on page F-61, under Corteva Separation Agreement.
+
+2. The company has recorded an indemnification asset related to these accruals, including $30 million related to the Superfund sites.
+
+3. Accrual balance represents management’s best estimate of the costs of remediation and restoration, although it is reasonably possible that the potential exposure, as indicated, could range above the amounts accrued, as there are inherent uncertainties in these estimates.
+
+74
+
+Part II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, continued 
+
+As of December 31, 2019, the company has been notified of potential liability under the Comprehensive Environmental Response, Compensation and Liability Act ("Superfund") or similar state laws at about 500 sites around the U.S., including approximately 140 sites for which the company does not believe it has liability based on current information. Active remediation is under way at 70 of the 500 sites. In addition, the company has resolved its liability at approximately 210 sites, either by completing remedial actions with other PRPs or by participating in "de minimis buyouts" with other PRPs whose waste, like the company's, represented only a small fraction of the total waste present at a site. The company received notice of potential liability at 2 new sites during 2018 compared with 3 notices in 2017. There were no new notices in 2019.
+
+Environmental Capital Expenditures 
+
+Capital expenditures for environmental projects, either required by law or necessary to meet the company’s internal environmental goals, were approximately $13 million for the year ended December 31, 2019. The company currently estimates expenditures for environmental-related capital projects to be approximately $8 million in 2020.
+
+Climate Change
+
+The company believes that climate change is an important global environmental concern that presents risks and opportunities. The Board of Directors maintains oversight of these risks and opportunities. Management regularly assesses and manages climate-related issues. 
+
+The company completed a non-financial materiality assessment and identified short-, medium- and long-term climate-related risks and opportunities. The results of this assessment are integrated into the company’s businesses, strategy and financial planning. 
+
+Continuing political and social attention to climate change and its impacts has resulted in regulatory and market-based approaches to limit greenhouse gas emissions. The company believes there is a way forward for sustainable climate change mitigation that both enables farmers to meet the demands of a growing population and secures the economic future for the vast majority of the world’s population who depend on agriculture for their livelihoods. 
+
+Extreme and volatile weather due to climate change may have an adverse impact on customers’ ability to use its products, potentially reducing sales volumes, revenues and margins. The company continuously evaluates opportunities for existing and new product and service offerings to meet the anticipated demands of climate-smart agriculture and mitigate the impact of extreme and volatile weather. 
+
+Corteva is working to shrink its role in the emission of greenhouse gasses. The company is seeking ways to reduce its impact and providing tools and incentives for customers to do the same. Corteva champions climate positive agriculture, utilizing carbon storage and other means to remove more carbon from the atmosphere than it emits without sacrificing farmer productivity or ongoing profitability. The company is developing metrics and targets that will be used to assess and manage material and relevant climate-related risks and opportunities. 
+
+The company is committed to engaging with multiple stakeholders and partners around the globe who have innovative and actionable ideas to help safeguard the health and well-being of the planet and its people. The company integrates processes for identifying, assessing and managing climate-related risk into its overall risk management. By doing more to address climate change today, the company is fortifying its ability to grow food, grow progress and build a sustainable industry that will help humanity thrive for generations to come.
+
+75
+
+Part II
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

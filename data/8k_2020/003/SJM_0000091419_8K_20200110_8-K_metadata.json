@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000091419",
+    "sec_company_name": "J M SMUCKER Co (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200110",
+    "sec_filing_date": "20200114",
+    "sec_changed_date": "20200114",
+    "sec_accepted_date": "20200114162058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/91419/000009141920000002/0000091419-20-000002-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/91419/000009141920000002/0000091419-20-000002.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SJM_0000091419_8K_20200110_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "50828 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4924,
+    "endpoints": [
+        "xml version='1.0' encoding='UTF-8'?        Document  ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "SJM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\SJM_0000091419_8K_20200110_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:55.828608"
+}

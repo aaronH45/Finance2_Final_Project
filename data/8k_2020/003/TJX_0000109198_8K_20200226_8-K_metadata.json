@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000109198",
+    "sec_company_name": "TJX COMPANIES INC /DE/ (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200226",
+    "sec_filing_date": "20200226",
+    "sec_changed_date": "20200226",
+    "sec_accepted_date": "20200226082904",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/109198/000115752320000267/0001157523-20-000267-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/109198/000115752320000267/0001157523-20-000267.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\TJX_0000109198_8K_20200226_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "21924 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3235,
+    "endpoints": [
+        "false000010919800001091982020-02-262020-02-26  ",
+        "3"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "TJX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\TJX_0000109198_8K_20200226_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:45:24.256401"
+}

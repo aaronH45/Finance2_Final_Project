@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000019617",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180227",
+    "sec_filing_date": "20180227",
+    "sec_changed_date": "20180227",
+    "sec_accepted_date": "20180227170938",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000061/0000019617-18-000061-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000061/0000019617-18-000061.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\JPM_0000019617_EX99_20180227_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "209366 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 111279,
+    "endpoints": [
+        "jpmorganchase2018id  ",
+        "J P M C I N T E R N A L U S E O N L Y Forward-looking statements N O T E S This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase & Co.’s management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorgan Chase & Co.’s actual results to differ materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.’s Annual Report on Form 10-K for the year ended December 31, 2017, filed with the Securities and Exchange Commission and available on JPMorgan Chase & Co.’s website https://www.jpmorganchase.com/corporate/investor- relations/investor-relations and on the Securities and Exchange Commission’s website (www.sec.gov). JPMorgan Chase & Co. does not undertake to update the forward-looking statements to reflect the impact of circumstances or events that may arise after the date of the forward-looking statements. 109"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "JPM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\JPM_0000019617_EX99_20180227_EX-99_excerpt.txt",
+    "time_elapsed": 0.1,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:27:44.678991"
+}

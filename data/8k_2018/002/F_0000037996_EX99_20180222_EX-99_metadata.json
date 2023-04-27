@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000037996",
+    "sec_company_name": "FORD MOTOR CO (Filer)",
+    "document_type": "EX99",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180222",
+    "sec_filing_date": "20180222",
+    "sec_changed_date": "20180222",
+    "sec_accepted_date": "20180222100111",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799618000021/0000037996-18-000021-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/37996/000003799618000021/0000037996-18-000021.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\F_0000037996_EX99_20180222_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "3538 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2315,
+    "endpoints": [
+        "a02212018newsrelease  ",
+        " NEWS For news releases, related materials and high-resolution photos and video, visit www.media.ford.com. www.facebook.com/ford www.medium.com/@ford www.twitter.com/ford www.instagram.com/ford Raj Nair, Ford’s President of North America, Exits Company DEARBORN, Mich., Feb. 21, 2018 – Ford Motor Company today announced that Raj Nair, executive vice president and president, North America, is departing from Ford effective immediately. The decision follows a recent internal investigation into reports of inappropriate behavior. The review determined certain behavior by Nair was inconsistent with the company’s code of conduct. “We made this decision after a thorough review and careful consideration,” said Ford President and CEO Jim Hackett. “Ford is deeply committed to providing and nurturing a safe and respectful culture and we expect our leaders to fully uphold these values.” Said Nair: “I sincerely regret that there have been instances where I have not exhibited leadership behaviors consistent with the principles that the Company and I have always espoused. I continue to have the utmost faith in the people of Ford Motor Company and wish them continued success in the future.” Nair has been president of Ford North America since June 1, 2017. Prior to that, he served as Ford’s head of global product development and chief technical officer. Nair’s replacement will be subject to an announcement in the near future. # # # About Ford Motor Company Ford Motor Company is a global company based in Dearborn, Michigan. The company designs, manufactures, markets and services a full line of Ford cars, trucks, SUVs, electrified vehicles and Lincoln luxury vehicles, provides financial services through Ford Motor Credit Company and is pursuing leadership positions in electrification, autonomous vehicles and mobility solutions. Ford employs approximately 202,000 people worldwide. For more information regarding Ford, its products and Ford Motor Credit Company, please visit www.corporate.ford.com Contact(s): Media: Equity Investment Fixed Income Shareholder Brad Carroll Community: Lynn Tyson Investment Community: Karen Rocoff Inquiries: 1.800.555.5259 or 313.390.5565 914.485.1150 313.621.0965 313.845.8540 bcarro37@ford.com fordir@ford.com fixedinc@ford.com stockinf@ford.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "F",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\002\F_0000037996_EX99_20180222_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:23:23.512926"
+}

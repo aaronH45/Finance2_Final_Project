@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000916076",
+    "sec_company_name": "MARTIN MARIETTA MATERIALS INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20200211",
+    "sec_filing_date": "20200211",
+    "sec_changed_date": "20200211",
+    "sec_accepted_date": "20200211160552",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/916076/000156459020004209/0001564590-20-004209-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/916076/000156459020004209/0001564590-20-004209.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\MLM_0000916076_8K_20200211_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "37961 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 4306,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8'?          mlm-8k_20200211.htm    ",
+        "Sr. Vice President and Chief Financial Officer"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "MLM",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\003\MLM_0000916076_8K_20200211_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:44:19.672740"
+}

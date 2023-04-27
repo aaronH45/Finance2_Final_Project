@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092103",
+    "sec_company_name": "SOUTHERN CALIFORNIA EDISON CO (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170222",
+    "sec_filing_date": "20170222",
+    "sec_changed_date": "20170222",
+    "sec_accepted_date": "20170222171002",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/827052/000082705217000035/0000827052-17-000035-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/827052/000082705217000035/0000827052-17-000035.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\EIX_0000092103_EX991_20170222_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "86873 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 52179,
+    "endpoints": [
+        "eixfebruary2017businessu  ",
+        "February 22, 2017 46 Use of Non-GAAP Financial Measures Edison International's earnings are prepared in accordance with generally accepted accounting principles used in the United States. Management uses core earnings internally for financial planning and for analysis of performance. Core earnings are also used when communicating with investors and analysts regarding Edison International's earnings results to facilitate comparisons of the Company's performance from period to period. Core earnings are a non-GAAP financial measure and may not be comparable to those of other companies. Core earnings (or losses) are defined as earnings or losses attributable to Edison International shareholders less income or loss from discontinued operations and income or loss from significant discrete items that management does not consider representative of ongoing earnings, such as: exit activities, including sale of certain assets, and other activities that are no longer continuing; asset impairments and certain tax, regulatory or legal settlements or proceedings. A reconciliation of Non-GAAP information to GAAP information is included either on the slide where the information appears or on another slide referenced in this presentation. EIX Investor Relations Contact Scott Cunningham, Vice President (626) 302-2540 scott.cunningham@edisonintl.com Allison Bahen, Senior Manager (626) 302-5493 allison.bahen@edisonintl.com"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "EIX",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\EIX_0000092103_EX991_20170222_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:03:00.540577"
+}

@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000092230",
+    "sec_company_name": "BB&T CORP (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160224",
+    "sec_filing_date": "20160226",
+    "sec_changed_date": "20160226",
+    "sec_accepted_date": "20160226084058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/92230/000009223016000127/0000092230-16-000127-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/92230/000009223016000127/0000092230-16-000127.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\BBT_0000092230_EX991_20160224_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "10179 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 4516,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "BB&T is one of the largest financial services holding companies in the U.S. with approximately $209.9 billion in assets and market capitalization of approximately $29.5 billion as of Dec. 31, 2015. Based in Winston-Salem, N.C., the company operates 2,139 financial centers in 15 states and Washington, D.C., and offers a full range of consumer and commercial banking, securities brokerage, asset management, mortgage and insurance products and services. A Fortune 500 company, BB&T is consistently recognized for outstanding client satisfaction by the U.S. Small Business Administration, Greenwich Associates and others. BB&T has also been named one of the World's Strongest Banks by Bloomberg Markets Magazine, one of the top three in the U.S. and in the top 15 globally. More information about BB&T and its full line of products and services is available at BBT.com."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "BBT",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\001\BBT_0000092230_EX991_20160224_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:42:55.884848"
+}

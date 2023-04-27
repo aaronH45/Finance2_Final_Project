@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000030625",
+    "sec_company_name": "FLOWSERVE CORP (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20210223",
+    "sec_filing_date": "20210223",
+    "sec_changed_date": "20210223",
+    "sec_accepted_date": "20210223160728",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/30625/000115752321000238/0001157523-21-000238-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/30625/000115752321000238/0001157523-21-000238.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\FLS_0000030625_8K_20210223_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "29054 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3891,
+    "endpoints": [
+        "false000003062500000306252021-02-232021-02-230000030625dei:FormerAddressMember2021-02-232021-02-230000030625fls:CommonStock125ParValueMember2021-02-232021-02-230000030625fls:One25SeniorNotesDue2022Member2021-02-232021-02-23 ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "FLS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0010\002\FLS_0000030625_8K_20210223_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 10,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:51:33.991322",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-17 00:00:01.036434"
+}

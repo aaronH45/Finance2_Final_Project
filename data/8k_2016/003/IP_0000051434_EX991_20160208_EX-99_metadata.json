@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000051434",
+    "sec_company_name": "INTERNATIONAL PAPER CO /NEW/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160208",
+    "sec_filing_date": "20160210",
+    "sec_changed_date": "20160210",
+    "sec_accepted_date": "20160210093058",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/51434/000119312516456636/0001193125-16-456636-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/51434/000119312516456636/0001193125-16-456636.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IP_0000051434_EX991_20160208_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "94339 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 22954,
+    "endpoints": [
+        "EX-99.1   ",
+        "12"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "IP",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\003\IP_0000051434_EX991_20160208_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:48:58.647273"
+}

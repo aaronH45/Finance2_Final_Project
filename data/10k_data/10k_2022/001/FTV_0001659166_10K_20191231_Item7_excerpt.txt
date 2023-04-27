@@ -1,0 +1,462 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of Fortive’s (the “Company,” “we,” “our,” and “us”) financial condition and results of operations for the fiscal years ended December 31, 2019 and December 31, 2018 should be read in conjunction with Selected Consolidated Financial Data and our audited consolidated financial statements and the notes to those statements. Discussion and analysis of our financial condition and results of operations for the year ended December 31, 2018 compared to December 31, 2017 is included under the heading “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K filed for the fiscal year ended December 31, 2018 with the Securities and Exchange Commission on February 28, 2019.
+
+23
+Fortive is a diversified industrial technology growth company comprised of Professional Instrumentation and Industrial Technologies segments and encompassing businesses that are recognized leaders in attractive markets. Our well-known brands hold leading positions in field solutions, product realization, sensing technologies, health, transportation technologies, and franchise distribution. Our businesses design, develop, service, manufacture and market professional and engineered products, software and services for a variety of end markets, building upon leading brand names, innovative technology and significant market positions. Our research and development, manufacturing, sales, distribution, service and administrative facilities are located in more than 50 countries across North America, Asia Pacific, Europe and Latin America.
+
+This MD&A is designed to provide a reader of our financial statements with a narrative from the perspective of management. Our MD&A is divided into seven sections:
+
+•Basis of Presentation 
+
+•Overview
+
+•Results of Operations
+
+•Financial Instruments and Risk Management
+
+•Liquidity and Capital Resources
+
+•Critical Accounting Estimates
+
+•New Accounting Standards
+
+BASIS OF PRESENTATION
+
+On September 4, 2019, we announced our intention to separate into two independent, publicly traded companies subject to the satisfaction of certain conditions, including obtaining final approval from our Board of Directors. The separation will create (i) an industrial technology company, retaining the Fortive name, with a differentiated portfolio of growth-oriented businesses focused on connected workflow solutions that incorporate advanced sensors, instrumentation, software, data, and analytics and (ii) a global industrial company (“Vontier”) consisting of our Transportation Technologies and Franchise Distribution platforms with a focus on growth opportunities in the rapidly evolving transportation and mobility markets. The separation is expected to be structured in a tax-efficient manner and completed in the second half of 2020. All assets, liabilities, revenues and expenses of the businesses comprising Vontier are included in continuing operations in the accompanying consolidated financial statements.
+
+On March 7, 2018, we entered into a definitive agreement to combine four of our operating companies from our Automation & Specialty platform (the “A&S Business”) with Altra Industrial Motion Corp. (“Altra”) in a tax-efficient Reverse Morris Trust transaction. On October 1, 2018, we completed the split-off of the A&S Business and have presented the results of operations of the A&S Business in our Consolidated Statements of Earnings, and the related assets and liabilities in the Consolidated Balance Sheets as discontinued operations. These changes have been applied to all periods presented. Unless otherwise noted, amounts, percentages and discussion for all periods included in Management’s Discussion and Analysis reflect the results of operations and financial condition from our continuing operations. Refer to Note 4 to our consolidated financial statements for additional information on discontinued operations.
+
+OVERVIEW
+
+General
+
+Fortive is a multinational business with global operations. Please see “Item 1. Business – General” included in this Annual Report for a discussion of the Company’s strategies for delivering long-term shareholder value. During 2019, approximately 43% of our sales were derived from customers outside the United States. As a diversified industrial technology growth company with global operations, our businesses are affected by worldwide, regional and industry-specific economic and political factors. Our geographic and industry diversity, as well as the range of our products, software, and services, typically help limit the impact of any one industry or the economy of any single country (except for the United States) on our operating results. Given the broad range of products manufactured, software and services provided, and geographies served, we do not use any indices other than general economic trends to predict the overall outlook for the Company. Our individual businesses monitor key competitors and customers, including their sales, to the extent possible, to gauge relative performance and the outlook for the future.
+
+24
+As a result of our geographic and industry diversity, we face a variety of opportunities and challenges, including technological development in most of the markets we serve, the expansion and evolution of opportunities in high-growth markets, trends and costs associated with a global labor force, and consolidation of our competitors. We define high-growth markets as developing markets of the world experiencing extended periods of accelerated growth in gross domestic product and infrastructure which include Eastern Europe, the Middle East, Africa, Latin America, and Asia with the exception of Japan and Australia. We operate in a highly competitive business environment in most markets, and our long-term growth and profitability will depend in particular on our ability to expand our business across geographies and market segments, identify, consummate, and integrate appropriate acquisitions, develop innovative and differentiated new products, services, and software, expand and improve the effectiveness of our sales force, continue to reduce costs and improve operating efficiency and quality, and effectively address the demands of an increasingly regulated environment. We are making significant investments, organically and through acquisitions, to address technological change in the markets we serve and to improve our manufacturing, research and development and customer-facing resources in order to be responsive to our customers throughout the world.
+
+In this report, references to sales from existing businesses refers to sales from operations calculated according to generally accepted accounting principles in the United States (“GAAP”) but excluding (1) the impact from acquired businesses and (2) the impact of currency translation. References to sales attributable to acquisitions or acquired businesses refer to GAAP sales from acquired businesses recorded prior to the first anniversary of the acquisition less the amount of sales attributable to certain divested businesses or product lines not considered discontinued operations prior to the first anniversary of the divestiture. The portion of sales attributable to the impact of currency translation is calculated as the difference between (a) the period-to-period change in sales (excluding sales impact from acquired businesses) and (b) the period-to-period change in sales (excluding sales impact from acquired businesses) after applying the current period foreign exchange rates to the prior year period. Sales from existing businesses should be considered in addition to, and not as a replacement for or superior to, sales, and may not be comparable to similarly titled measures reported by other companies.
+
+Management believes that reporting the non-GAAP financial measure of sales from existing businesses provides useful information to investors by helping identify underlying growth trends in our business and facilitating comparisons of our sales performance with our performance in prior and future periods and to our peers. We exclude the effect of acquisitions and divestiture related items because the nature, size, and number of such transactions can vary dramatically from period to period and between us and our peers. We exclude the effect of currency translation from sales from existing businesses because the impact of currency translation is not under management’s control and is subject to volatility. Management believes the exclusion of the effect of acquisitions and divestitures and currency translation may facilitate the assessment of underlying business trends and may assist in comparisons of long-term performance. References to sales volume refer to the impact of both price and unit sales.
+
+Business Performance and Outlook
+
+While differences exist among our businesses, on an overall basis, demand for our hardware and software products, and services increased during 2019 as compared to 2018 resulting in aggregate year-over-year sales growth of 13.4% and sales growth from existing businesses of 2.0%. Our continued application and deployment of the Fortive Business System including investments in sales growth initiatives and new product introductions, as well as increased demand in developed markets and other business-specific factors discussed below contributed to overall sales growth from existing businesses. 
+
+On a year-over-year basis, our Industrial Technologies segment reported sales growth from existing businesses of 5.2%, while sales from existing businesses in our Professional Instrumentation segment declined slightly. In our Industrial Technologies segment, the liability shift related to enhanced credit card security requirements for outdoor payment systems that is expected to occur in October 2020 in the United States based on the Europay, Mastercard, and Visa (“EMV”) global standards is continuing to drive demand within our transportation technologies platform. The decline in our Professional Instrumentation segment reflects slowing macroeconomic conditions across most major markets in 2019.
+
+Geographically, sales from existing businesses grew at a low-single digit rate in developed markets and were relatively flat in high growth markets during 2019 as compared to 2018. Year-over-year sales from existing businesses grew at a high-single digit rate in Latin America and grew at mid-single digit rate in North America, while sales from existing businesses declined at a low-double digit rate in India and at a low-single digit rate in Western Europe. Sales from existing businesses in China increased slightly year-over-year.
+
+We expect overall sales from existing businesses to continue to grow on a year-over-year basis during 2020; however, we continue to monitor developments from macro-economic and geopolitical uncertainties, including global uncertainties related to governmental policies toward international trade, monetary and fiscal policies, including the current uncertainty about the future trade relationship between the United States and China, and the impacts of the coronavirus, as well as other factors identified in “Item 1A. Risk Factors.”
+
+25
+Completed Acquisitions and Business Combinations
+
+2019
+
+Advanced Sterilization Products
+
+On April 1, 2019 (the “Principal Closing Date”), we acquired the Advanced Sterilization Products business (“ASP”) of Johnson & Johnson, a New Jersey corporation (“Johnson & Johnson”) for an aggregate purchase price of $2.7 billion (the “Transaction”), subject to certain post-closing adjustments set forth in a Stock and Asset Purchase Agreement, dated effective as of June 6, 2018, between the Company and Ethicon, Inc., a New Jersey corporation (“Ethicon”) and a wholly owned subsidiary of Johnson & Johnson. ASP engages in the research, development, manufacture, marketing, distribution and sale of low-temperature terminal sterilization and high-level disinfection products.
+
+On the Principal Closing Date, we paid $2.7 billion in cash and obtained the transferred assets and assumed liabilities in 20 countries (“Principal Countries”), general patent and trademark assignments, and all transferred equity interests in ASP. ASP has operations in an additional 39 countries (“Non-Principal Countries”). The transferred assets and liabilities associated with these operations close when requirements of country-specific agreements or regulatory approvals are satisfied.
+
+The $2.7 billion purchase price was paid in exchange for ASP’s businesses in both Principal and Non-Principal Countries. As of December 31, 2019, we have closed 20 Principal Countries and four Non-Principal Countries that, in aggregate, accounted for approximately 98% of the preliminary valuation of ASP. The remaining Non-Principal Countries represent approximately 2% of the preliminary valuation of ASP, or $50 million, which is included as a prepaid asset in Other assets in the Consolidated Balance Sheet. As each Non-Principal Country closes, we will reduce the prepaid asset and record the fair value of the assets acquired and liabilities assumed.
+
+In addition, the Company entered into a transition services agreement with Johnson & Johnson for certain administrative and operational services, and distribution agreements in the Non-Principal Countries that have not been closed. Under the distribution agreements, ASP will sell finished goods to Ethicon at prices agreed by the parties. ASP will recognize these sales as revenue when the conditions for revenue recognition are met. Following the sale of finished goods by ASP, Ethicon obtains title of the finished goods, has full authority to sell and market the finished goods to end customers as it sees fit, and retains any revenue and profit from sale. 
+
+Other Acquisitions and Investments
+
+In addition to the acquisition of ASP, during 2019, we acquired four businesses including Intelex Technologies, Pruftechnik, and Censis Technologies for total consideration of $1.2 billion in cash, net of cash acquired. Additionally, we made an additional equity investment of $4 million. The businesses acquired complement existing units of our Professional Instrumentation segment. We preliminarily recorded an aggregate of $773 million of goodwill related to these acquisitions.
+
+Combination of the Tektronix Video Business with Telestream
+
+On July 20, 2019, we completed the combination of the Tektronix Video test and monitoring equipment business (“Tektronix Video Business”) with Telestream, LLC (the “Combined Business”), a portfolio company of Genstar Capital LLC. We recognized a pretax gain of $41 million upon the combination, and hold a 33% equity stake in the Combined Business. This transaction did not meet the criteria for discontinued operations reporting, and therefore the operating results of the Tektronix Video Business prior to the combination with Telestream are included in continuing operations for all periods presented. Additionally, the loss from our equity investment in the Combined Business is included in Other non-operating expenses, net in the accompanying Consolidated Statement of Earnings. Refer to Note 4 to our consolidated financial statements for additional information.
+
+2018
+
+Gordian
+
+On July 27, 2018, we acquired TGG Ultimate Holdings, Inc. and its subsidiaries, including The Gordian Group, Inc. (“Gordian”), a privately-held, leading provider of construction cost data, software and service, for a total purchase price of $778 million net of cash acquired (the “Gordian Acquisition”). Gordian’s comprehensive offerings serve the entire building lifecycle and provide workflow solutions designed to optimize every stage of an asset owner’s construction and maintenance needs, including connecting the owner and contractors in the same exchange and providing access to cost and facility metrics databases via a subscription-based model. We recorded $435 million of goodwill related to the Gordian Acquisition.
+
+26
+Accruent
+
+On September 6, 2018, we acquired Athena SuperHoldCo, Inc., including Accruent, LLC (“Accruent”), a privately-held, leading provider of facilities asset management software, for a total purchase price of approximately $2.0 billion net of acquired cash (the “Accruent Acquisition”). Accruent is a recognized leader in the facilities asset management industry, combining deep domain and industry capabilities with an integrated, cloud-based framework that provides insights spanning the full lifecycle of real estate, facilities and asset management. Accruent serves over 10,000 global customers, and helps assure clients fulfill the mission of their organization by extending the lifecycle of assets, monitoring full compliance and reducing safety risks. We recorded $1.2 billion of goodwill related to the Accruent Acquisition.
+
+Other Acquisitions
+
+In addition to the acquisitions of Accruent and Gordian, during 2018, we acquired two businesses for total consideration of $44 million in cash, net of cash acquired. The businesses acquired complement existing units of both our segments. We recorded $31 million of goodwill related to these acquisitions.
+
+Divestiture of A&S Business
+
+On March 7, 2018, we entered into a definitive agreement to combine four of our operating companies from our Automation & Specialty platform (the “A&S Business”) with Altra Industrial Motion Corp. (“Altra”) in a tax-efficient Reverse Morris Trust transaction. The A&S Business includes the market-leading brands of Kollmorgen, Thomson, Portescap and Jacobs Vehicle Systems, and generated approximately $900 million in revenue for the year ended December 31, 2017. On October 1, 2018, we completed the split-off of the A&S Business. The total consideration received was $2.7 billion and consisted of (i) $1.3 billion through a fully-subscribed exchange offer, in which we accepted and subsequently retired 15,824,931 shares of our own common stock from our stockholders in exchange for 35,000,000 shares of common stock of Stevens Holding Company, Inc.; (ii) $1.0 billion in cash paid to us for the direct sales of certain assets and liabilities of the A&S Business; (iii) $250 million as part of a non-cash debt-for-debt exchange that reduced outstanding indebtedness of Fortive, which is inclusive of accrued interest and fees; and (iv) $150 million in cash paid to us by Stevens Holding Company, Inc. as a dividend. The results of the A&S Business are reported as discontinued operations for all periods presented, which includes the after-tax gain on the transaction of $1.9 billion.
+
+RESULTS OF OPERATIONS
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+Refer to Professional Instrumentation and Industrial Technologies sections below for further discussion of year-over-year sales growth.
+
+Operating Profit Margins
+
+Operating profit margins were 13.7% for the year ended December 31, 2019, a decrease of 460 basis points as compared to 18.3% in 2018. 
+
+Year-over-year operating profit margin comparisons were favorably impacted by:
+
+•Higher 2019 sales volumes from existing businesses, price increases, and incremental year-over-year cost savings associated with productivity improvement initiatives, which were partially offset by an unfavorable sales mix, increased material costs associated primarily with inflationary pressures and recently enacted tariffs, and changes in currency exchange rates — favorable 30 basis points
+
+Year-over-year operating profit margin comparisons were unfavorably impacted by:
+
+•The incremental year-over-year net dilutive effect of acquired businesses, including amortization and acquisition-related fair value adjustments to deferred revenue and inventory — unfavorable 310 basis points
+
+27
+•The incremental year-over-year net dilutive effect of restructuring actions — unfavorable 60 basis points
+
+•The incremental year-over-year net dilutive effect of acquisition-related transaction costs and transaction costs related to the planned separation of Fortive into two independent, publicly traded companies — unfavorable 120 basis points
+
+Business Segments and Geographic Area Results
+
+Sales by business segment and geographic area for the year ended December 31 are as follows ($ in millions):
+
+[DATA_TABLE_REMOVED]
+
+PROFESSIONAL INSTRUMENTATION
+
+Our Professional Instrumentation segment consists of our Advanced Instrumentation & Solutions, Sensing Technologies, and Advanced Sterilization Products and Censis businesses. 
+
+Our Advanced Instrumentation & Solutions businesses provide product realization and field solutions services and products. Our field solutions products include a variety of compact professional test tools, thermal imaging and calibration equipment for electrical, industrial, electronic and calibration applications, online condition-based monitoring equipment; portable gas detection equipment, consumables, and software as a service (SaaS) offerings including safety/user behavior, asset management, environmental, health and safety (EHS) quality management and compliance monitoring; subscription-based technical, analytical, and compliance services to determine occupational and environmental radiation exposure; and software, data analytics and services for critical infrastructure in utility, industrial, energy, construction, facilities management, public safety, mining, EHS, and healthcare applications. Our product realization services and products help developers and engineers across the end-to-end product creation cycle from concepts to finished products. Our test, measurement and monitoring products are used in the design, manufacturing and development of electronics, industrial, and other advanced technologies. 
+
+Our Sensing Technologies business offers devices that sense, monitor and control operational or manufacturing variables, such as temperature, pressure, level, flow, turbidity, and conductivity. Users of these products span a wide variety of industrial and manufacturing markets, including medical equipment, food and beverage, marine, industrial, off-highway vehicles, building automation, and semiconductors.
+
+Our Advanced Sterilization Products (“ASP”) business provides critical sterilization and disinfection solutions, including low-temperature hydrogen peroxide sterilization solutions for temperature-sensitive equipment, to advance infection prevention and patient safety in healthcare facilities. Our Censis business provides subscription-based surgical inventory management systems to healthcare facilities to facilitate inventory management and regulatory compliance.
+
+28
+Professional Instrumentation Selected Financial Data
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2019 COMPARED TO 2018
+
+Sales from existing businesses in the segment’s Advanced Instrumentation & Solutions businesses declined slightly during 2019 as compared to 2018. Year-over-year sales from existing businesses of field solutions products and services were relatively flat during 2019 as compared to 2018, as growth in demand for portable gas detection and facilities maintenance offerings was mostly offset by declines in demand for electrical grid condition-based monitoring equipment and slowing demand from our industrial end markets in North America. 
+
+Year-over-year sales from existing businesses of product realization solutions declined at a low-single digit rate during 2019, as increased demand in our energetic materials business was more than offset by declines in demand for high-performance oscilloscopes and Keithley products. 
+
+Geographically, demand from existing businesses in Advanced Instrumentation & Solutions increased in North America and Japan, which was more than offset by declines in Europe. 
+
+Sales from existing businesses in the segment’s Sensing Technologies businesses declined at a low-single digit rate during 2019 as compared to 2018, as increased year-over-year demand in the medical end market was more than offset by declines in the industrial end market. Geographically, increased year-over-year demand from existing businesses in China was more than offset by declines in Western Europe, Japan, and North America.
+
+Sales from recently acquired businesses in our Professional Instrumentation segment, including ASP, contributed 23.0% to overall sales growth in 2019. ASP sales for the year, as compared to the comparable period prior to Fortive ownership, increased low-single digits which was attributable to growth in China and Japan. 
+
+Price increases are reflected as a component of the change in sales from existing businesses, and year-over-year price increases in the segment contributed 1.3% to sales growth during 2019 as compared to 2018.
+
+Operating profit margin decreased 800 basis points during 2019 as compared to 2018. Year-over-year operating profit margin comparisons were unfavorably impacted by:
+
+•Price increases and incremental year-over-year cost savings associated with productivity improvement initiatives, which were more than offset by an unfavorable sales mix and lower sales volumes from existing businesses, increased material costs associated primarily with inflationary pressures and recently enacted tariffs, and changes in currency exchange rates — unfavorable 85 basis points
+
+•The incremental year-over-year net dilutive effect of acquired businesses, including amortization and acquisition-related fair value adjustments to deferred revenue and inventory — unfavorable 505 basis points
+
+•The incremental year-over-year net dilutive effect of restructuring actions — unfavorable 85 basis points
+
+29
+•Acquisition-related transaction costs, as the costs related to our acquisition and integration of ASP in 2019 were greater than the costs associated with the ASP, Gordian, and Accruent acquisitions in 2018 — unfavorable 125 basis points
+
+INDUSTRIAL TECHNOLOGIES
+
+Our Industrial Technologies segment consists of our Transportation Technologies and Franchise Distribution businesses. Our Transportation Technologies business is a leading worldwide provider of solutions and services focused on fuel dispensing, remote fuel management, point-of-sale and payment systems, environmental compliance, vehicle tracking and fleet management, and traffic management. Our Franchise Distribution business manufactures and distributes professional tools and a full-line of wheel service equipment.
+
+Industrial Technologies Selected Financial Data
+
+[DATA_TABLE_REMOVED]
+
+Components of Sales Growth
+
+[DATA_TABLE_REMOVED]
+
+2019 COMPARED TO 2018
+
+Sales from existing businesses in the segment’s Transportation Technologies businesses grew at a high-single digit rate during 2019 as compared to 2018, due primarily to broad-based demand for fuel management systems, specifically in North America and Western Europe, as well as increased demand for payment solutions. Results in North America were favorably impacted by the approaching deadline for the liability shift related to outdoor EMV global standards that is expected to occur in October 2020. Geographically, sales from existing businesses increased on a year-over-year basis in North America, Europe, and Latin America, which were partially offset by declines in India.
+
+Sales from existing businesses in the segment’s Franchise Distribution businesses grew at a low-single digit rate during 2019 as compared to 2018, largely driven by increased year-over-year demand for hardline and diagnostic tools and shop equipment, which was partially offset by a decline in demand for wheel service equipment.
+
+Price increases are reflected as a component of the change in sales from existing businesses, and year-over-year price increases contributed 1.6% to sales growth in the segment during 2019 as compared to 2018. 
+
+Operating profit margin increased 40 basis points during 2019 as compared to 2018. Year-over-year operating profit margin comparisons were favorably impacted by:
+
+•Higher 2019 sales volumes from existing businesses, price increases, and incremental year-over-year cost savings associated with productivity improvement initiatives, which were partially offset by increased material costs associated primarily with inflationary pressures and recently enacted tariffs and changes in currency exchange rates — favorable 195 basis points
+
+Year-over-year operating profit margin comparisons were unfavorably impacted by:
+
+30
+•Transaction costs related to the planned separation of Fortive into two independent, publicly traded companies — unfavorable 120 basis points
+
+•The incremental year-over-year net dilutive effect of restructuring actions — unfavorable 30 basis points
+
+•The incremental year-over-year net dilutive effect of acquired businesses — unfavorable 5 basis points
+
+COST OF SALES AND GROSS PROFIT
+
+[DATA_TABLE_REMOVED]
+
+The year-over-year increase in cost of sales during 2019 as compared to 2018 is due primarily to the incremental cost of sales from our recently acquired businesses, higher year-over-year sales volumes from existing businesses, increased material costs associated primarily with inflationary pressures and recently enacted tariffs, and restructuring charges, which were partially offset by incremental year-over-year cost savings associated with productivity improvement initiatives and material cost and supply chain improvement actions. Changes in currency exchange rates decreased costs of sales in 2019.
+
+The year-over-year increase in gross profit during 2019 as compared to 2018 is due primarily to the favorable impact of pricing improvements from existing businesses, higher year-over-year sales volumes, including sales volumes from our recently acquired businesses, year-over-year cost savings associated with productivity improvement initiatives, and material cost and supply chain improvement actions.
+
+The 120 basis point decrease in gross profit margin year-over-year is due primarily to unfavorable sales mix, acquisition-related fair value adjustments to deferred revenue and inventory, and increased material costs associated primarily with inflationary pressures and recently enacted tariffs, which more than offset the favorable impact of pricing improvements from existing businesses and year-over-year cost savings associated with productivity improvement initiatives and material cost and supply chain improvement actions.
+
+OPERATING EXPENSES
+
+[DATA_TABLE_REMOVED]
+
+SG&A expenses increased during 2019 as compared to 2018 due primarily to higher amortization and incremental expenses from our recently acquired businesses, costs associated with the ASP acquisition and the planned separation of Fortive into two independent, publicly traded companies, restructuring actions, and sales and marketing growth initiatives, partially offset by cost savings associated with productivity improvement initiatives and changes in foreign currency exchange rates. SG&A expenses as a percentage of sales increased 350 basis points in 2019 as compared to 2018.
+
+R&D expenses (consisting principally of internal and contract engineering personnel costs) increased during 2019 as compared to 2018 due to incremental year-over-year investments in our product development initiatives and incremental expenses from recently acquired businesses. On a year-over-year basis, R&D expenses as a percentage of sales were relatively flat as the investments in our product development initiatives grew at rate largely consistent with sales. 
+
+INTEREST COSTS
+
+For a discussion of our outstanding indebtedness, refer to Note 11 to the consolidated financial statements.
+
+31
+Interest expense, net of $164 million was recorded during 2019 compared to $97 million during 2018. Interest expense increased in 2019 due to higher average debt balances during the year. In the event that additional liquidity is required, particularly in connection with acquisitions, we may enter into additional borrowings under our commercial paper programs or credit facilities, and/or access the capital markets. If we enter into such additional financing transactions, the amount of annual interest expense will increase.
+
+INCOME TAXES
+
+General
+
+Income tax expense and deferred tax assets and liabilities reflect management’s assessment of future taxes expected to be paid on items reflected in our financial statements. We record the tax effect of discrete items and items that are reported net of their tax effects in the period in which they occur.
+
+On December 22, 2017, the U.S. enacted comprehensive tax reform commonly referred to as the Tax Cuts and Jobs Act (the “TCJA”). The U.S. Government continues to issue significant amounts of TCJA guidance and we expect that to continue for the foreseeable future. The Company is actively monitoring the impact of new Treasury Regulations. Any future adjustments resulting from retrospective guidance issued after December 31, 2019 will be considered as discrete income tax expense or benefit in the interim period the guidance is issued.
+
+Our effective tax rate can be affected by, among others, changes in the mix of earnings in countries with differing statutory tax rates (including as a result of business acquisitions and dispositions), changes in the valuation of deferred tax assets and liabilities, accruals related to contingent tax liabilities and period-to-period changes in such accruals, the results of audits and examinations of previously filed tax returns (as discussed below), the expiration of statutes of limitations, the implementation of tax planning strategies, tax rulings, court decisions, settlements with tax authorities and changes in tax laws, including legislative policy changes that may result from the Organization for Economic Co-operation and Development’s (“OECD”) initiative on Base Erosion and Profit Shifting.
+
+In 2019, the OECD issued significant global tax policy changes that include both expanded reporting as well as technical global tax policy changes. Many countries in which we operate have implemented tax law and administrative changes that align with many aspects of the OECD policy guidelines. We have taken comprehensive measures to address the requirements of these changes in global tax policy. In addition, the OECD has announced additional guidance that will be forthcoming in 2020 that could materially impact the law for transfer pricing and permanent establishment taxation. The Company will continue to monitor and evaluate the impact of these new OECD developments.
+
+We conduct business globally, and, as part of our global business, we file numerous income tax returns in the U.S. federal, state and foreign jurisdictions. After the TCJA, our ability to obtain a tax benefit in certain countries that continue to have lower statutory tax rates than the United States is dependent on our levels of taxable income in such foreign countries. We believe that a change in the statutory tax rate of any individual foreign country would not have a material effect on our financial statements given the geographic dispersion of our taxable income.
+
+The amount of income taxes we pay is subject to audit by federal, state and foreign tax authorities, which may result in proposed assessments. The Company is subject to examination in the United States, various states and foreign jurisdiction for the tax years 2010 to 2019. We review our global tax positions on a quarterly basis. Based on these reviews, the results of discussions and resolutions of matters with certain tax authorities, tax rulings and court decisions and the expiration of statutes of limitations reserves for contingent tax liabilities are accrued or adjusted as necessary. For a discussion of risks related to these and other tax matters, please refer to “Item 1A. Risk Factors.” 
+
+We are routinely examined by various domestic and international taxing authorities. In connection with the Separation of Fortive from Danaher on July 1, 2016 (the “Separation”), we entered into the Agreements with Danaher, including a tax matters agreement. The tax matters agreement distinguishes between the treatment of tax matters for “Joint” filings compared to “separate” filings prior to the Separation. “Joint” filings involve legal entities, such as those in the United States, that include operations from both Danaher and the Company. By contrast, “separate” filings involve certain entities (primarily outside of the United States), that exclusively include either Danaher’s or the Company’s operations, respectively. In accordance with the tax matters agreement, the Company is liable for and has indemnified Danaher against all income tax liabilities involving “separate” filings for the periods prior to the Separation. 
+
+During 2018, the Company entered into a Tax Matters Agreement in connection with the split-off of the A&S Business. The Company remains liable for pre-disposition income tax liabilities related to the A&S Business.
+
+32
+Comparison of the Years Ended December 31, 2019 and 2018
+
+Our effective tax rate for the years ended December 31, 2019 and 2018 was 17.0% and 14.8%, respectively.
+
+Our effective tax rate for 2019 differs from the U.S. federal statutory rate of 21% due primarily to the effect of the TCJA U.S. federal permanent differences, the impact of credits and deductions provided by law, and earnings outside the United States that are indefinitely reinvested and taxed at rates lower than the U.S. federal statutory rate, offset by tax costs related to transactions completed in 2019 in anticipation of the separation into two independent, publicly traded companies. 
+
+Our effective tax rate for 2018 differs from the U.S. federal statutory rate of 21% due primarily to the effect of the TCJA U.S. federal permanent differences, the impact of credits and deductions provided by law, earnings outside the United States that are taxed at rates lower than the U.S. federal statutory rate, and the effect of adjustments to the provision estimates recorded in 2017 related to the TCJA as permitted under SAB 118.
+
+COMPREHENSIVE INCOME
+
+Comprehensive income decreased by $2.0 billion in 2019 as compared to 2018, due to net earnings, including both continuing and discontinued operations, that were lower by $2.2 billion which were partially offset by favorable changes in foreign currency translation adjustments of $178 million. The decrease in net earnings from 2018 to 2019 was due to the recognition of a $1.9 billion gain in 2018 related to the divestiture of the A&S Business. Unfavorable pension benefit adjustments in 2019 were $20 million compared to favorable adjustments of $4 million in 2018.
+
+INFLATION
+
+The effect of inflation on our revenues and net earnings was not significant in the years ended December 31, 2019 or 2018.
+
+FINANCIAL INSTRUMENTS AND RISK MANAGEMENT
+
+We are exposed to market risk from changes in interest rates, foreign currency exchange rates, credit risk and commodity prices, each of which could impact our financial statements. We generally address our exposure to these risks through our normal operating and financing activities. In addition, our broad-based business activities help to reduce the impact that volatility in any particular area or related areas may have on our operating profit as a whole.
+
+Interest Rate Risk
+
+We manage interest cost using a mixture of fixed-rate and variable-rate debt. A change in interest rates on long-term debt impacts the fair value of our fixed-rate long-term debt but not our earnings or cash flows because the interest on such debt is fixed. Generally, the fair market value of fixed-rate debt will increase as interest rates fall and decrease as interest rates rise. As of December 31, 2019, an increase of 100 basis points in interest rates would have decreased the fair value of our fixed-rate long-term debt by approximately $146 million. 
+
+As of December 31, 2019, our variable-rate debt obligations consisted primarily of U.S. dollar and Euro-denominated commercial paper and term loan borrowings (refer to Note 11 to the accompanying consolidated financial statements for information regarding our outstanding indebtedness as of December 31, 2019). As a result, our primary interest rate exposure results from changes in short-term interest rates. As these shorter duration obligations mature, we anticipate issuing additional short-term commercial paper obligations and term loans to refinance all or part of these borrowings. The annual effective rate associated with our outstanding U.S. dollar and Euro-denominated commercial paper, 2020 Term Loan, Delayed-draw Term Loan due 2020, and Yen term loan for the year ended December 31, 2019 was approximately 2.47%, (0.10)%, 2.51%, 2.95%, and 0.50%, respectively, and we recorded interest expense of $48 million on these variable-rate obligations. A hypothetical 10 basis points increase in market interest rates as of December 31, 2019 on our variable-rate debt obligations as of December 31, 2019 would have increased our interest expense by $3 million in 2019.
+
+33
+Foreign Currency Exchange Rate Risk
+
+We face transactional exchange rate risk from transactions with customers in countries outside of the United States and from intercompany transactions between affiliates. Transactional exchange rate risk arises from the purchase and sale of goods and services in currencies other than our functional currency or the functional currency of an applicable subsidiary. We also face translational exchange rate risk related to the translation of financial statements of our foreign operations into U.S. dollars, our functional currency. Costs incurred and sales recorded by subsidiaries operating outside of the United States are translated into U.S. dollars using exchange rates effective during the respective period. As a result, we are exposed to movements in the exchange rates of various currencies against the U.S. dollar. The effect of a change in currency exchange rates on our net investment in international subsidiaries is reflected in the accumulated other comprehensive income (loss) component of equity. A 10% depreciation in major currencies relative to the U.S. dollar as of December 31, 2019 would have resulted in a reduction of stockholders’ equity of approximately $300 million.
+
+Currency exchange rates negatively impacted 2019 reported sales by 1.8% as compared to 2018, as the U.S. dollar was, on average, stronger against most major currencies during 2019 as compared to exchange rate levels during 2018. If the exchange rates in effect as of December 31, 2019 were to prevail throughout 2020, currency exchange rates would positively impact 2020 estimated sales by approximately 0.2% relative to our performance in 2019. In general, additional weakening of the U.S. dollar against other major currencies would further positively impact our sales and results of operations on an overall basis and any strengthening of the U.S. dollar against other major currencies would adversely impact our sales and results of operations.
+
+We have generally accepted the exposure to exchange rate movements without using derivative financial instruments to manage this risk. Both positive and negative movements in currency exchange rates against the U.S. dollar will therefore continue to affect the reported amount of sales, profit, and assets and liabilities in our consolidated financial statements.
+
+Credit Risk
+
+We are exposed to potential credit losses in the event of nonperformance by counterparties to our financial instruments. Financial instruments that potentially subject us to credit risk consist of cash and highly-liquid investment grade cash equivalents, and receivables from customers. We place cash and cash equivalents with various high-quality financial institutions throughout the world and exposure is limited at any one institution. Although we typically do not obtain collateral or other security to secure these obligations, we regularly monitor the third party depository institutions that hold our cash and cash equivalents. We emphasize safety and liquidity of principal over yield on those funds. In addition, concentrations of credit risk arising from receivables from customers are limited due to the diversity of our customers. Our businesses perform credit evaluations of their customers’ financial conditions as appropriate and also obtain collateral or other security when appropriate.
+
+Commodity Price Risk
+
+For a discussion of risks relating to commodity prices, refer to “Item 1A. Risk Factors.”
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We assess our liquidity in terms of our ability to generate cash to fund our operating, investing and financing activities. We generate substantial cash from operating activities and believe that our operating cash flow and other sources of liquidity will be sufficient to allow us to continue to invest in existing businesses, consummate strategic acquisitions, make interest payments on our outstanding indebtedness, and manage our capital structure on a short and long-term basis. Refer also to Note 11 to our consolidated financial statements for additional information.
+
+2019 Financing and Capital Transactions
+
+During 2019, we completed the following financing and capital transactions:
+
+•On February 22, 2019, we issued $1.4 billion in aggregate principal amount of our 0.875% Convertible Senior Notes due 2022 (the “Convertible Notes”), including $187.5 million in aggregate principal amount resulting from an exercise in full of an over-allotment option. The Convertible Notes were sold in a private placement to certain initial purchasers for resale to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933. 
+
+The Convertible Notes bear interest at a rate of 0.875% per year, payable semiannually in arrears on February 15 and August 15 of each year, beginning on August 15, 2019. The Convertible Notes mature on February 15, 2022, unless earlier repurchased or converted in accordance with their terms prior to such date. The Convertible Notes are convertible into shares of our common stock at an initial conversion rate of 9.3777 shares per $1,000 principal amount of Convertible Notes (which is equivalent to an initial conversion price of $106.64 per share), subject to adjustment upon the occurrence of certain events. The initial conversion price represents a premium of approximately 32.5% to 
+
+34
+the $80.48 per share closing price of our common stock on February 19, 2019. Upon conversion of the Convertible Notes, holders will receive cash, shares of our common stock, or a combination thereof, at Fortive’s election. Our current intention is to settle such conversions through cash up to the principal amount of the converted Convertible Notes and, if applicable, through shares of our common stock for conversion value, if any, in excess of the principal amount of the converted Convertible Notes. 
+
+Of the $1.4 billion in proceeds received from the issuance of the Convertible Notes, $1.3 billion was classified as debt and $102.2 million was classified as equity, using an assumed effective interest rate of 3.38%. Debt issuance costs of $24.3 million were proportionately allocated to debt and equity. We recognized $45.4 million in interest expense during the year ended December 31, 2019, of which $10.8 million related to the contractual coupon rate of 0.875% and $6.6 million was attributable to the amortization of debt issuance costs. The discount at issuance was $102.2 million and is being amortized over a three-year period. The unamortized discount at December 31, 2019 was $74.2 million.
+
+•On February 28, 2019, we prepaid the remaining $400.0 million outstanding principal and accrued interest under the Delayed-Draw Term Loan due 2019. The prepayment fees associated with this payment were immaterial.
+
+•On March 1, 2019, we entered into a credit facility agreement that provides for a 364-day delayed-draw term loan facility (“2020 Delayed-Draw Term Loan”) in an aggregate principal amount of $1.0 billion. On March 20, 2019, we drew down the full $1.0 billion available under the 2020 Delayed-Draw Term Loan in order to fund, in part, the ASP acquisition. The 2020 Delayed-Draw Term Loan bears interest at a variable rate equal to the London inter-bank offered rate (“LIBOR”) plus a ratings-based margin currently at 75 basis points. As of December 31, 2019, borrowings under this facility bore an interest rate of 2.49% per annum. The original maturity date of the 2020 Delayed-Draw Term Loan was February 28, 2020; however on February 25, 2020, we extended the maturity date to August 28, 2020. The 2020 Delayed-Draw Term Loan remains prepayable at our option. We are not permitted to re-borrow once the term loan is repaid. The terms and conditions, including covenants, applicable to the 2020 Delayed-Draw Term Loan are substantially similar to those applicable to the Revolving Credit Facility.
+
+•On June 15, 2019 we repaid the remaining outstanding principal of $55.3 million of our 1.80% senior unsecured notes.
+
+•On October 25, 2019, we entered into a credit facility agreement that provides for a 364-day term loan facility (“2020 Term Loan”) in an aggregate principal amount of $300 million. On October 25, 2019, we drew down the full $300 million available under the 2020 Term Loan in order to fund, in part, the Censis acquisition. We subsequently increased the size of this facility by $200 million on November 8, 2019 and drew the additional amount on the same day resulting in an outstanding amount of $500 million. The 2020 Term Loan bears interest at a variable rate equal to the LIBOR plus a ratings-based margin currently at 75 basis points. As of December 31, 2019, borrowings under this facility bore an interest rate of 2.49% per annum. The 2020 Term Loan is due on October 23, 2020 and prepayable at our option. We are not permitted to re-borrow once the term loan is repaid. The terms and conditions, including covenants, applicable to the 2020 Term Loan are substantially similar to those applicable to the Revolving Credit Facility. On February 26, 2020, we prepaid $250 million of the 2020 Term Loan. The prepayment fees associated with this payment are expected to be immaterial.
+
+35
+2018 Financing and Capital Transactions
+
+During 2018, we completed the following financing and capital transactions:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+36
+Overview of Cash Flows and Liquidity
+
+Following is an overview of our cash flows and liquidity:
+
+[DATA_TABLE_REMOVED]
+
+Operating Activities
+
+Continuing operations cash flows from operating activities can fluctuate significantly from period-to-period as working capital needs and the timing of payments for income taxes, restructuring activities, pension funding and other items impact reported cash flows.
+
+Operating cash flows from continuing operations were approximately $1.3 billion in 2019, an increase of $84 million, or approximately 7%, as compared to 2018. This year-over-year change in operating cash flows from continuing operations was primarily attributable to the following factors:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+37
+Investing Activities
+
+Cash flows relating to investing activities consist primarily of cash used for acquisitions and capital expenditures. Net cash used in investing activities from continuing operations was approximately $4.1 billion during 2019 compared to approximately $3.0 billion of net cash used in 2018. For a discussion of our acquisitions refer to “—Overview.”
+
+Capital expenditures are made primarily for increasing capacity, replacing equipment, supporting product development initiatives, improving information technology systems, and purchase of equipment that is used in revenue arrangements with customers. Capital expenditures totaled $113 million in 2019 and $112 million in 2018. Excluding the impact of our pending disposition, we expect capital spending to be between approximately $160 million and $170 million in 2020, though actual expenditures will ultimately depend on business conditions. 
+
+Financing Activities and Indebtedness
+
+Cash flows from financing activities consist primarily of cash flows associated with the issuance of equity, the issuance and repayments of debt and commercial paper, and payments of quarterly cash dividends to shareholders. Financing activities from continuing operations generated cash of $2.8 billion in 2019 compared to generating $879 million of cash in 2018. In 2019, we received proceeds from the issuance of our Convertible Notes of $1.4 billion and received proceeds from the issuance of our 2020 Delayed-Draw Term Loan of $1.0 billion, and our 2020 Term Loan of $500 million, which was partially offset by the repayment of $400 million of our 2019 Delayed-Draw Term Loan and $55 million of our 1.80% senior unsecured notes. During the year ended December 31, 2019, we paid $163 million of cash dividends to common shareholders and holders of our MCPS.
+
+Refer to “—Liquidity and Capital Resources” section above for a description of our financing activities in 2019 and 2018.
+
+We generally expect to satisfy any short-term liquidity needs that are not met through operating cash flows and available cash primarily through issuances of commercial paper under the Commercial Paper Programs. Credit support for the Commercial Paper Programs is provided by the Revolving Credit Facility. We classified our borrowings outstanding under the Commercial Paper Programs as long-term debt in the accompanying Consolidated Balance Sheet as of December 31, 2019, as we have the intent and ability, as supported by availability under the Revolving Credit Facility, to refinance these borrowings for at least one year from the balance sheet date. As commercial paper obligations mature, we may issue additional short-term commercial paper obligations to refinance all or part of these borrowings.
+
+The carrying value of total debt outstanding as of December 31, 2019 was approximately $6.3 billion. We had $2.0 billion available under the Revolving Credit Facility as of December 31, 2019. Of this amount, approximately $1.1 billion was being used to backstop outstanding U.S. and Euro commercial paper balances. Accordingly, we had the ability to incur an additional $851 million of indebtedness under the Revolving Credit Facility as of December 31, 2019. Refer to Note 11 to the consolidated financial statements for information regarding our financing activities and indebtedness.
+
+The availability of the Revolving Credit Facility as a standby liquidity facility to repay maturing commercial paper is an important factor in maintaining the existing credit ratings of the Commercial Paper Programs. We expect to limit any borrowings under the Revolving Credit Facility to amounts that would leave sufficient credit available under the facility to allow us to borrow, if needed, to repay all of the outstanding commercial paper as it matures.
+
+As of December 31, 2019, commercial paper outstanding under the U.S. dollar-denominated commercial paper program had an annual effective rate of 2.14% and a weighted average remaining maturity of approximately 13 days. As of December 31, 2019, commercial paper outstanding under the Euro-denominated commercial paper program had an annual effective rate of (0.10)% and a weighted average remaining maturity of approximately 33 days. 
+
+In 2018, we received net proceeds from the issuance of commercial paper under the Commercial Paper Programs of $266 million, received proceeds from borrowings of $1.75 billion, repaid $1.85 billion of borrowings, received proceeds from the issuance of convertible equity of $1.3 billion, and paid $132 million of cash dividends to shareholders. 
+
+Dividends
+
+On November 7, 2019, we declared a regular quarterly dividend of $0.07 per common share paid on December 27, 2019 to holders of record on November 29, 2019. In addition, Fortive announced that its Board of Directors declared a regular quarterly cash dividend of $12.50 per share of its 5.00% Mandatory Convertible Preferred Stock, Series A, payable on January 2, 2020 to preferred stockholders of record on December 15, 2019. The dividend to preferred shareholders was paid on December 31, 2019.
+
+38
+Aggregate cash payments for the dividends paid to shareholders during the year ended December 31, 2019 were $163 million and were recorded as dividends to shareholders in the Consolidated Statements of Changes in Equity and the Consolidated Statements of Cash Flows.
+
+On January 28, 2020 we declared a regular quarterly cash dividend of $0.07 per share payable on March 27, 2020 to common stockholders of record on February 28, 2020 and a regular quarterly cash dividend of $12.50 per share on our MCPS payable on April 1, 2020 to preferred stockholders of record on March 15, 2020.
+
+Cash and Cash Requirements
+
+As of December 31, 2019, we held approximately $1.2 billion of cash and cash equivalents that were invested in highly liquid investment-grade instruments with a maturity of 90 days or less with an annual effective rate of approximately 1.0%. Substantially all of the cash was held outside of the U.S. 
+
+We have cash requirements to support working capital needs, capital expenditures and acquisitions, pay interest and service debt, pay taxes and any related interest or penalties, fund our restructuring activities and pension plans as required, pay dividends to shareholders and support other business needs or objectives. With respect to our cash requirements, we generally intend to use available cash and internally generated funds to meet these cash requirements, but in the event that additional liquidity is required, particularly in connection with acquisitions, we may also borrow under our commercial paper programs or credit facilities or enter into new credit facilities and either borrow directly thereunder or use such credit facilities to backstop additional borrowing capacity under our commercial paper programs. We also may from time to time access the capital markets, including to take advantage of favorable interest rate environments or other market conditions.
+
+Conversely, we have made an assertion regarding the amount of earnings that we do not intend to repatriate due to local working capital needs, local law restrictions, high foreign remittance costs, previous investments in physical assets and acquisitions, or future growth needs. The TCJA eliminated the U.S. tax cost for qualified repatriation beginning in 2018. Foreign cumulative earnings remain subject to foreign remittance taxes. As a result of the TCJA, during 2018, we repatriated an estimated $275 million subject to no foreign remittance taxes. This excludes foreign earnings: 1) required as working capital for local operating needs, 2) subject to local law restrictions, 3) subject to high foreign remittance tax costs, 4) previously invested in physical assets or acquisitions, or 5) intended for future acquisitions/growth. For most of our foreign operations, we make an assertion regarding the amount of earnings in excess of intended repatriation that are expected to be held for indefinite reinvestment. No provisions for foreign remittance taxes have been made with respect to earnings that are planned to be reinvested indefinitely. The amount of foreign remittance taxes that may be applicable to such earnings is not readily determinable given local law restrictions that may apply to a portion of such earnings, unknown changes in foreign tax law that may occur during the applicable restriction periods caused by applicable local corporate law for cash repatriation, and the various tax planning alternatives we could employ if we repatriated these earnings.
+
+As of December 31, 2019, we believe that we have sufficient liquidity to satisfy our cash needs, including our cash needs in the United States. 
+
+During 2019, we contributed $11 million to our non-U.S. defined benefit pension plans. During 2020, our cash contribution requirements for our U.S. and non-U.S. defined benefit pension plans are expected to be approximately $1 million and $10 million, respectively. The ultimate amounts to be contributed depend upon, among other things, legal requirements, underlying asset returns, the plan’s funded status, the anticipated tax deductibility of the contribution, local practices, market conditions, interest rates and other factors.
+
+39
+Contractual Obligations
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of our contractual obligations as of December 31, 2019 under (1) long-term debt obligations, (2) leases, (3) purchase obligations and (4) other long-term liabilities reflected on our balance sheet under GAAP. Certain of our acquisitions may involve the potential payment of contingent consideration. The table below does not reflect any such obligations, as the timing and amounts of any such payments are uncertain. Refer to “—Off-Balance Sheet Arrangements” for a discussion of other contractual obligations that are not reflected in the table below. 
+
+[DATA_TABLE_REMOVED] 
+
+Off-Balance Sheet Arrangements
+
+The following table sets forth, by period due or year of expected expiration, as applicable, a summary of our off-balance sheet commitments as of December 31, 2019:
+
+[DATA_TABLE_REMOVED]
+
+Guarantees consist primarily of outstanding standby letters of credit, bank guarantees and performance and bid bonds. These guarantees have been provided in connection with certain arrangements with vendors, customers, financing counterparties and governmental entities to secure our obligations and/or performance requirements related to specific transactions.
+
+40
+Other Off-Balance Sheet Arrangements
+
+We have, from time to time, divested certain of our businesses and assets. In connection with these divestitures, we often provide representations, warranties and/or indemnities to cover various risks and unknown liabilities, such as claims for damages arising out of the use of products or relating to intellectual property matters, commercial disputes, environmental matters or tax matters. We have not included any such items in the contractual obligations table above because they relate to unknown conditions and we cannot reasonably estimate the potential liabilities from such matters, but we do not believe it is reasonably possible that any such liability will have a material effect on our financial statements. In addition, as a result of these divestitures, as well as restructuring activities, certain properties leased by us have been sublet to third parties. In the event any of these third parties vacate any of these premises, we would be legally obligated under master lease arrangements. We believe the financial risk of default by such sub-lessors is individually and in the aggregate not material to our financial statements.
+
+In the normal course of business, we periodically enter into agreements that require us to indemnify customers, suppliers or other business partners for specific risks, such as claims for injury or property damage arising out of our products or services or claims alleging that our products, services or software infringe third party intellectual property. We have not included any such indemnification provisions in the contractual obligations table above. Historically, we have not experienced significant losses on these types of indemnification obligations.
+
+Our Restated Certificate of Incorporation requires us to indemnify to the full extent authorized or permitted by law any person made, or threatened to be made a party to any action or proceeding by reason of his or her service as a director or officer of the Company, or by reason of serving at the request of the Company as a director or officer of any other entity, subject to limited exceptions. Our Amended and Restated Bylaws provide for similar indemnification rights. In addition, we have executed with each of our directors and executive officers an indemnification agreement which provides for substantially similar indemnification rights and under which we have agreed to pay expenses in advance of the final disposition of any such indemnifiable proceeding. While we maintain insurance for this type of liability, a significant deductible applies to this coverage and any such liability could exceed the amount of the insurance coverage.
+
+Legal Proceedings
+
+Please refer to Note 16 to the consolidated financial statements for information regarding legal proceedings and contingencies, and for a discussion of risks related to legal proceedings and contingencies, refer to “Item 1A. Risk Factors.”
+
+CRITICAL ACCOUNTING ESTIMATES
+
+Management’s discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base these estimates and judgments on historical experience, the current economic environment and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ materially from these estimates and judgments.
+
+We believe the following accounting estimates are most critical to an understanding of our financial statements. Estimates are considered to be critical if they meet both of the following criteria: (1) the estimate requires assumptions about material matters that are uncertain at the time the estimate is made, and (2) material changes in the estimate are reasonably likely from period to period. For a detailed discussion on the application of these and other accounting estimates, refer to Note 2 to the consolidated financial statements.
+
+Accounts Receivable: We maintain allowances for doubtful accounts to reflect probable credit losses inherent in our portfolio of receivables. Determination of the allowances requires us to exercise judgment about the timing, frequency and severity of credit losses that could materially affect the allowances for doubtful accounts and, therefore, net earnings. The allowances for doubtful accounts represent management’s best estimate of the credit losses expected from our trade accounts, contract and financing receivable portfolios. The level of the allowances is based on many quantitative and qualitative factors including historical loss experience by receivable type, portfolio duration, delinquency trends, economic conditions and credit risk quality. We regularly perform detailed reviews of our accounts receivable portfolio to determine if an impairment has occurred and to assess the adequacy of the allowances. If the financial condition of our customers were to deteriorate with a severity, frequency and/or timing different from our assumptions, additional allowances would be required and our financial statements would be adversely impacted.
+
+Inventories: We record inventory at the lower of cost or net realizable value, which is the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal and transportation. We estimate the net realizable 
+
+41
+value of our inventory based on assumptions of future demand and related pricing. Estimating the net realizable value of inventory is inherently uncertain because levels of demand, technological advances and pricing competition in many of our markets can fluctuate significantly from period to period due to circumstances beyond our control. If actual market conditions are less favorable than those we projected, we could be required to reduce the value of our inventory, which would adversely impact our financial statements. Refer to Note 5 to the consolidated financial statements.
+
+Acquired Intangibles: Our business acquisitions typically result in the recognition of goodwill, in-process R&D and other intangible assets, which affect the amount of future period amortization expense and possible impairment charges that we may incur. Refer to Notes 2, 3 and 7 to the consolidated financial statements for a description of our policies relating to goodwill, acquired intangibles and acquisitions.
+
+In performing our goodwill impairment testing, we estimate the fair value of our reporting units primarily using a market based approach. We estimate fair value based on multiples of earnings before interest, taxes, depreciation and amortization (“EBITDA”) determined by current trading market multiples of earnings for companies operating in businesses similar to each of our reporting units, in addition to recent market available sale transactions of comparable businesses. In evaluating the estimates derived by the market based approach, we make judgments about the relevance and reliability of the multiples by considering factors unique to our reporting units, including operating results, business plans, economic projections, anticipated future cash flows, and transactions and marketplace data as well as judgments about the comparability of the market proxies selected. In certain circumstances we also evaluate other factors including results of the estimated fair value utilizing a discounted cash flow analysis (i.e., an income approach), market positions of the businesses, comparability of market sales transactions, and financial and operating performance in order to validate the results of the market approach. The discounted cash flow model requires judgmental assumptions about projected revenue growth, future operating margins, discount rates and terminal values. There are inherent uncertainties related to these assumptions and management’s judgment in applying them to the analysis of goodwill impairment.
+
+In 2019, we had twelve reporting units for goodwill impairment testing. Reporting units resulting from recent acquisitions generally present the highest risk of impairment. We believe the impairment risk associated with these reporting units generally decreases as we integrate these businesses and better position them for potential future earnings growth. The carrying value of the goodwill included in each individual reporting unit ranged from $15 million to $3.8 billion. Our annual goodwill impairment analysis in 2019 indicated that in all instances, the fair values of our reporting units exceeded their carrying values and consequently did not result in an impairment charge. 
+
+The excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of our reporting units as of the annual testing date ranged from approximately 5% to approximately 1,300%. In order to evaluate the sensitivity of the fair value calculations used in the goodwill impairment test, we applied a hypothetical 10% decrease to the fair values of each reporting unit and compared those hypothetical values to the reporting unit carrying values. Based on this hypothetical 10% decrease, the excess of the estimated fair value over carrying value (expressed as a percentage of carrying value for the respective reporting unit) for each of our reporting units ranged from approximately -5% to approximately 1,200%. We evaluated other factors relating to the fair value of the reporting units, including, as applicable, results of the estimated fair value using an income approach, market positions of the businesses, comparability of market sales transactions and financial and operating performance, and concluded no impairment charges were required. 
+
+We review identified intangible assets for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable. Determining whether an impairment loss occurred requires a comparison of the carrying amount to the sum of undiscounted cash flows expected to be generated by the asset. We also test intangible assets with indefinite lives at least annually for impairment. These analyses require management to make judgments and estimates about future revenues, expenses, market conditions and discount rates related to these assets.
+
+If actual results are not consistent with management’s estimates and assumptions, goodwill and other intangible assets may be overstated and a charge would need to be taken against net earnings which would adversely affect our financial statements.
+
+Contingent Liabilities: As discussed in Note 16 to the accompanying consolidated financial statements, we are, from time to time, subject to a variety of litigation and similar contingent liabilities incidental to our business (or the business operations of previously owned entities). We recognize a liability for any contingency that is known or probable of occurrence and reasonably estimable. These assessments require judgments concerning matters such as litigation developments and outcomes, the anticipated outcome of negotiations, the number of future claims and the cost of both pending and future claims. In addition, because most contingencies are resolved over long periods of time, liabilities may change in the future due to various factors, including those discussed in Note 16 to the accompanying consolidated financial statements. If the reserves we established with respect to these contingent liabilities are inadequate, we would be required to incur an expense equal to the amount of the loss incurred in excess of the reserves, which would adversely affect our financial statements.
+
+42
+Revenue Recognition: We derive revenues from the sale of products and services. On January 1, 2018, we adopted Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606), which superseded nearly all existing revenue recognition guidance. Refer to Note 13 to the consolidated financial statements for additional information on our adoption of this ASU.
+
+If our judgments regarding revenue recognition prove incorrect, our reported revenues in particular periods may be adversely affected. Historically, our estimates of revenue have been materially correct.
+
+Stock-Based Compensation: For a description of our stock-based compensation accounting practices, refer to Note 17 to our consolidated financial statements. Determining the appropriate fair value model and calculating the fair value of certain stock-based payment awards require subjective assumptions, including the expected life of the awards, stock price volatility and expected forfeiture rate. Given our limited trading history following the Separation, stock price volatility used to calculate the fair value of stock options in the post-Separation period was estimated based on an average historical stock price volatility of a group of peer companies. The assumptions used in calculating the fair value of stock-based payment awards represent our best estimates, but these estimates involve inherent uncertainties and the application of judgment. If actual results are not consistent with our assumptions and estimates, our equity-based compensation expense could be materially different in the future.
+
+Pension and Other Post Employment Benefits: For a description of our pension accounting practices, refer to Note 12 to the accompanying consolidated financial statements. Certain of our U.S. and non-U.S. employees participate in noncontributory defined benefit pension plans. Calculations of the amount of pension costs and obligations depend on the assumptions used in the actuarial valuations, including assumptions regarding discount rates, expected return on plan assets, rates of salary increases, health care cost trend rates, mortality rates, and other factors. If the assumptions used in calculating pension and other post-retirement benefits costs and obligations are incorrect or if the factors underlying the assumptions change (as a result of differences in actual experience, changes in key economic indicators or other factors), our financial statements could be materially affected. A 50 basis point reduction in the discount rates used for the plans during 2019 would have increased the net obligation by $30 million ($25 million on an after-tax basis) from the amounts recorded in the financial statements as of December 31, 2019.
+
+Our plan assets consist of various insurance contracts, equity and debt securities as determined by the administrator of each plan. The estimated long-term rate of return for the plans was determined on a plan by plan basis based on the nature of the plan assets and ranged from 1.50% to 6.0%. If the expected long-term rate of return on plan assets during 2019 was reduced by 50 basis points, pension expense in 2019 would have increased by $1 million ($1 million on an after-tax basis).
+
+Income Taxes: For a description of our income tax accounting policies, refer to Note 2 and Note 14 to the consolidated financial statements. 
+
+In accordance with GAAP, deferred tax assets and liabilities are determined based on the difference between the financial statement and tax basis of assets and liabilities using enacted rates expected to be in effect during the year in which the differences reverse. Deferred tax assets generally represent items that can be used as a tax deduction or credit in our tax return in future years for which the tax benefit has already been reflected on our Consolidated Statements of Earnings. Deferred tax liabilities generally represent items that have already been taken as a deduction on our tax return but have not yet been recognized as an expense in our Consolidated Statements of Earnings. The effect on deferred tax assets and liabilities due to a change in tax rates is recognized in income tax expense in the period that includes the enactment date. 
+
+Our deferred tax assets are reduced by a valuation allowance if, based on the weight of available evidence, it is more likely than not (a likelihood of more than 50 percent) that some portion or all of the deferred tax assets will not be realized. We evaluate the realizability of deferred income tax assets for each of the jurisdictions in which we operate. If we experience cumulative pretax income in a particular jurisdiction in the three-year period including the current and prior two years, we normally conclude that the deferred income tax assets will more likely than not be realizable and no valuation allowance is recognized, unless known or planned operating developments would lead management to conclude otherwise. However, if we experience cumulative pretax losses in a particular jurisdiction in the three-year period including the current and prior two years, we then consider a series of factors in the determination of whether the deferred income tax assets can be realized. These factors include historical operating results, known or planned operating developments, the period of time over which certain temporary differences will reverse, consideration of the utilization of certain deferred income tax liabilities, tax law carryback capability in the particular country, and prudent and feasible tax planning strategies. After evaluation of these factors, if the deferred income tax assets are expected to be realized within the tax carryforward period allowed for that specific country, we would conclude that no valuation allowance would be required. To the extent that the deferred income tax assets exceed the amount that is expected to be realized within the tax carryforward period for a particular jurisdiction, we establish a valuation allowance.
+
+43
+We recognize tax benefits from uncertain tax positions only if, in our assessment, it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. Judgment is required in evaluating tax positions and determining income tax provisions. We re-evaluate the technical merits of our tax positions and may recognize an uncertain tax benefit in certain circumstances, including when: (i) a tax audit is completed; (ii) applicable tax laws change, including a tax case ruling or legislative guidance; or (iii) the applicable statute of limitations expires. We recognize potential accrued interest and penalties with unrecognized tax positions in income tax expense.
+
+In addition, we are routinely examined by various domestic and international taxing authorities. The amount of income taxes we pay is subject to audit by federal, state and foreign tax authorities, which may result in proposed assessments (see “-Results of Operations - Income Taxes” and Note 14 to the accompanying consolidated financial statements). We review our global tax positions on a quarterly basis. Based on these reviews, the results of discussions and resolutions of matters with certain tax authorities, tax rulings and court decisions and the expiration of statutes of limitations reserves for contingent tax liabilities are accrued or adjusted as necessary.
+
+An increase in our 2019 effective tax rate of 1.0% would have resulted in an additional income tax provision for the fiscal year ended December 31, 2019 of $9 million.
+
+NEW ACCOUNTING STANDARDS
+
+For a discussion of new accounting standards relevant to our businesses, refer to Note 2 to the accompanying consolidated financial statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

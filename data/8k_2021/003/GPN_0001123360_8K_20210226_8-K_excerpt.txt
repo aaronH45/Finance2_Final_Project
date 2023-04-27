@@ -1,0 +1,95 @@
+xml version="1.0" encoding="utf-8" ?   8-K    
+
+   GLOBAL PAYMENTS INC false 0001123360        0001123360   2021-02-26 2021-02-26      
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K 
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): February 26, 2021 
+
+Commission file number 001-16111 
+
+ Global Payments Inc.  
+
+(Exact name of registrant as specified in charter) 
+
+  [DATA_TABLE_REMOVED] 
+
+Registrant’s telephone number, including area code: (770) 829-8000 
+
+None 
+
+(Former name, former address and former fiscal year, if changed since last report) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+  [DATA_TABLE_REMOVED] 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+   ☐  
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+   ☐  
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+   ☐  
+
+Pre-commencement communications pursuant to Rule 14d-2b under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+   ☐  
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Item 1.01. Entry into a Material Definitive Agreement.  
+
+On February 26, 2021, Global Payments Inc. (the “Company”) completed the previously announced offering (the “Offering”) of $1,100,000,000 aggregate principal amount of its 1.200% Senior Notes due 2026 (the “Notes”). The Company intends to use the net proceeds from the Offering to fund the redemption in full of its 3.800% Senior Notes due 2021 and to use remaining net proceeds, if any, to reduce near term indebtedness under the Company’s unsecured revolving credit agreement and for general corporate purposes.  
+
+In connection with the issuance of the Notes, the Company entered into Supplemental Indenture No. 3, dated February 26, 2021 (the “Third Supplemental Indenture”), between the Company, as issuer, and U.S. Bank National Association, as trustee (the “Trustee”), which supplemented the Indenture, dated August 14, 2019 (the “Base Indenture” and, together with the Third Supplemental Indenture, the “Indenture”), between the Company and the Trustee.  
+
+The Notes bear interest at a rate of 1.200% per annum accruing from February 26, 2021. Interest on the Notes is payable semi-annually in arrears on March 1 and September 1 of each year, commencing September 1, 2021, to holders of the Notes at the close of business on February 15 and August 15, as the case may be, immediately preceding such payment date. The Notes will mature on March 1, 2026. The Notes are the Company’s unsecured and unsubordinated indebtedness and will rank equally in right of payment with all of the Company’s future unsecured and unsubordinated indebtedness from time to time outstanding.  
+
+At any time prior to February 1, 2026 (the “Par Call Date”), the Company may, at its option, redeem the Notes, in whole or in part, at any time and from time to time, upon not less than 15 nor more than 60 days’ notice, at a redemption price equal to the greater of (a) 100% of the principal amount of the Notes to be redeemed and (b) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the treasury rate plus 10 basis points, plus accrued and unpaid interest thereon to, but excluding, the redemption date. If the Notes are redeemed by the Company at its option, in whole or in part, on or after the Par Call Date, the redemption price will be equal to 100% of the principal amount of the Notes so redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date.  
+
+If a Change of Control Repurchase Event (as defined in the Indenture) occurs, unless the Company has exercised its right to redeem all of the Notes on or prior to the date that is 30 days following such Change of Control Repurchase Event, each holder will have the right to require the Company to repurchase all or any part (equal to $2,000 and integral multiples of $1,000 in excess thereof) of such holder’s Notes at a purchase price in cash equal to 101% of the principal amount of the Notes plus accrued and unpaid interest, if any, to, but excluding, the date of repurchase (subject to the right of holders of record on the relevant interest record date to receive interest due on the relevant interest payment date); provided, that after giving effect to the repurchase, any Notes that remain outstanding will have a denomination of $2,000 or integral multiples of $1,000 in excess thereof.  
+
+The Indenture provides for customary events of default which, if any of them occurs, would permit or require the principal of and accrued interest on the Notes to become or to be declared immediately due and payable, as well as certain covenants, which are subject to a number of important exceptions and qualifications. Solely with respect to the Notes, the Indenture includes a covenant that limits the Company’s ability to, subject to exceptions, incur, issue, permit to exist, assume or guarantee any indebtedness for borrowed money if such indebtedness or any guarantee is or becomes secured by a lien on any of the Company’s principal properties, whether now owned or acquired in the future, without effectively providing that the Notes will be secured equally and ratably with (or prior to) such indebtedness. However, as of the date of this Current Report on Form 8-K (this “Report”), neither the Company nor any of its subsidiaries has any property that constitutes a principal property under the Indenture.  
+
+The foregoing description is a summary of terms of the Indenture and the Notes and does not purport to be a complete statement of the parties’ rights and obligations thereunder. The foregoing description is qualified in its entirety by reference to the full text of the Base Indenture and the Third Supplemental Indenture, which are included as Exhibits 4.1 and 4.2, respectively, to this Report and incorporated by reference herein.  
+
+The Notes were registered with the Securities and Exchange Commission (the “SEC”) pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-232933) (as the same may be amended or supplemented, the “Registration Statement”), which automatically became effective upon filing with the SEC on August 1, 2019, under the Securities Act of 1933, as amended (the “Securities Act”). The material terms of the Notes are described in the Company’s final prospectus supplement, dated February 19, 2021, and filed with the SEC on February 22, 2021, pursuant to Rule 424(b)(5) of the Securities Act, which relates to the offer and sale of the Notes and supplements the Company’s prospectus, dated August 1, 2019, contained in the Registration Statement.   
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.  
+
+The information set forth in Item 1.01 of this Report is incorporated by reference into this Item 2.03 insofar as it relates to the creation of a direct financial obligation.  
+
+Item 9.01. Financial Statements and Exhibits.  
+
+(d) Exhibits.  
+
+  [DATA_TABLE_REMOVED]  
+
+Signatures  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.  
+
+  [DATA_TABLE_REMOVED]

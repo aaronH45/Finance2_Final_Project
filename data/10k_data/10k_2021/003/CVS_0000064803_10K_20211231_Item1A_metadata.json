@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000064803",
+    "sec_company_name": "CVS HEALTH Corp (Filer)",
+    "document_type": "10K",
+    "sec_form_header": "Form 10-K",
+    "sec_period_of_report": "20211231",
+    "sec_filing_date": "20220209",
+    "sec_changed_date": "20220209",
+    "sec_accepted_date": "20220209063735",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/64803/000006480322000008/0000064803-22-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/64803/000006480322000008/0000064803-22-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\CVS_0000064803_10K_20211231_Item1A_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "5796326 chars",
+    "document_group": "10-K",
+    "section_name": "Item1A",
+    "section_n_characters": 154991,
+    "endpoints": [
+        "Item 1A. Risk Factors.",
+        "Item 2. Properties."
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "CVS",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0013\003\CVS_0000064803_10K_20211231_Item1A_excerpt.txt",
+    "time_elapsed": 1.1,
+    "batch_number": 13,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-27 17:30:01.551160",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-27 17:53:38.351656"
+}

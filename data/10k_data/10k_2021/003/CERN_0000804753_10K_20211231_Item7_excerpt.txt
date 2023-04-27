@@ -1,0 +1,357 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following Management Discussion and Analysis ("MD&A") is intended to help the reader understand our results of operations and financial condition. This MD&A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying Notes.
+
+All references to years in this MD&A represent fiscal years unless otherwise noted. Refer to Note (1) of the Notes for information regarding our fiscal year end.
+
+25
+
+Table of Content
+
+Information regarding our 2019 results of operations, including a year-to-year comparison against 2020, may be found in Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our annual report on Form 10-K for the period ended December 31, 2020, which was filed with the Securities and Exchange Commission on February 19, 2021.
+
+Management Overview
+
+Our revenues are primarily derived by selling, implementing, operating and supporting software solutions, clinical content, hardware, devices and services that give healthcare providers and other stakeholders secure access to clinical, administrative and financial data in real or near-real time, helping them to improve quality, safety and efficiency in the delivery of healthcare.
+
+Our core strategy is to create organic growth by investing in research and development to create solutions and tech-enabled services for the healthcare industry. We expect to also supplement organic growth with acquisitions or strategic investments and collaborations.
+
+Cerner's long history of growth has created an important strategic footprint in healthcare, with Cerner holding approximately 25 percent market share in the U.S. acute care electronic health record ("EHR") market and a leading market share in several non-U.S. regions. Foundational to our growth going forward is delivering value to this core client base, including executing effectively on our large U.S. federal contracts and cross-selling key solutions and services in areas such as revenue cycle. We are also investing in platform modernization, with a focus on delivering a software as a service platform that we expect to lower total cost of ownership, improve clinician experience and patient outcomes, and enable clients to accelerate adoption of new functionality and better leverage third-party innovations.
+
+We also expect to continue driving growth by leveraging our HealtheIntent platform, which is the foundation for established and new offerings for both provider and non-provider markets. The EHR-agnostic HealtheIntent platform enables Cerner to become a strategic partner with healthcare stakeholders and help them improve performance under both fee-for-service and value-based contracting. The platform, along with our CareAware platform, also supports offerings in areas such as long-term care, home care and hospice, rehabilitation, behavioral health, community care, care team communications, health systems operations, consumer and employer, and data-as-a-service.
+
+Beyond our strategy for driving revenue growth, we are also focused on earnings growth. After several years of margin compression related to slowing revenue growth, increased mix of low-margin services, and lower software demand due to the end of direct government incentives for EHR adoption, Cerner implemented a new operating structure and introduced other initiatives focused on cost optimization and process improvement. We have made good progress since we kicked off our transformation in 2019 and expect this progress to be reflected in improved profitability going forward. We are focused on ongoing identification of opportunities to operate more efficiently and on achieving the efficiencies without impacting the quality of our solutions and services and commitments to our clients.
+
+We are also focused on delivering strong levels of cash flow which we expect to accomplish by continuing to grow earnings and prudently managing capital expenditures.
+
+Oracle Merger Agreement
+
+On December 20, 2021, we entered into the Merger Agreement with Oracle and certain of its wholly owned subsidiaries. Pursuant to the Merger Agreement, on January 19, 2022, Oracle commenced a cash tender offer to acquire all of the issued and outstanding shares of our common stock for a purchase price of $95.00 per share, net to the holders thereof in cash, without interest and subject to any required tax withholding. If the Offer is completed, Merger Subsidiary will merge with and into Cerner and we will become a wholly owned indirect subsidiary of Oracle. As a result of the Merger, the shares of our common stock will cease to be publicly held. We have agreed to various customary covenants and agreements in the Merger Agreement, including with respect to the operation of our business prior to the closing of the transaction, such as restrictions on making certain acquisitions and divestitures, entering into certain contracts, incurring certain indebtedness and making certain capital expenditures, paying dividends in excess of our regular quarterly dividend, issuing or repurchasing stock and taking other specified actions. We do not believe these restrictions will prevent us from meeting our debt service obligations, ongoing costs of operations, working capital needs, or capital expenditure requirements. If the Merger Agreement is terminated under certain specified circumstances, we will be required to pay Parent a termination fee of $950 million. The completion of the Merger remains subject to customary closing conditions, 
+
+26
+
+Table of Content
+
+including receipt of certain regulatory approvals and other customary closing conditions. The Merger is currently expected to close in calendar year 2022.
+
+For additional information related to the Merger Agreement, please refer to the Schedule 14D-9 previously filed with the SEC and other relevant materials in connection with the transaction that we will file with the SEC and that will contain important information about the Merger.
+
+COVID-19
+
+Our business and results of operations in both 2021 and 2020 were impacted by the ongoing COVID-19 pandemic. It has caused us to modify certain of our business practices, including prolonging the requirement that most of our associates work remotely; restricting associate travel; mandating vaccines for associates; developing social distancing plans for our associates; and canceling or postponing in person participation in certain meetings, events and conferences. It is not possible to quantify the full financial impact that the COVID-19 pandemic has had on our results of operations, cash flows, or financial condition, due to the uncertainty surrounding the pandemic, the difficulty inherent in identifying and measuring the various impacts that have or may stem from such an event and the fact that there are no comparable recent events that provide guidance as to how to measure or predict the ongoing effect the COVID-19 pandemic may have on our business. However, we believe COVID-19 has impacted, and could continue in the near-term to impact, our business results, primarily, but not limited to, in the following areas:
+
+•Bookings, backlog and revenues – A decline in new business bookings as certain client purchasing decisions and projects are delayed to focus on treating patients, procuring necessary medical supplies, administering vaccines, and managing their own organizations through this crisis. A sustained decline in bookings could reduce backlog and lower subsequent revenues.
+
+•Associate productivity – A decline in associate productivity, primarily for our services personnel, as a large amount of work is typically done at client sites, which is being impacted by travel restrictions, vaccine mandates and our clients' focus on the pandemic. Our clients' focus on the pandemic has also led to pauses on existing projects and postponed start dates for others, which translates into lower professional services revenues and a lower operating margin percentage. We are mitigating this by doing more work remotely than we have in the past, but we cannot fully offset the negative impact.
+
+•Travel – Associate travel restrictions reduce client-related travel, which reduces reimbursed travel revenues and lowers our costs of revenue as a percent of revenues. Such restrictions also reduce non-reimbursable travel, which lowers operating expenses.
+
+•Cash collections – A delay in client cash collections due to COVID-19's impact on national reimbursement processes, and client focus on managing their own organizations' liquidity during this time. This translates to lower cash flows from operating activities, and a higher days sales outstanding metric. Lower cash flows from operating activities may impact how we execute under our capital allocation strategy.
+
+•Capital expenditures – A decline in capital spending as certain capital projects are delayed or strategies evolve.
+
+We believe the impact of COVID-19 on our results of operations for the first quarter of 2020 was limited, due to the mid-March 2020 timing of when we implemented changes to our business practices in response to COVID-19, and the nature of the industry in which we operate. We believe the most significant impact of COVID-19 on our business was in the second quarter of 2020, with the impact beginning to moderate in subsequent periods but still persisting into 2021 due to some ongoing restrictive measures and certain regions dealing with resurgences of cases.
+
+While we expect a negative financial impact to continue into 2022, we do not expect it to be as significant as either 2020 or 2021. The impact will continue to be difficult to quantify as there are many factors that continue to be outside of our control, so any forward looking statements that we make regarding our projections of future financial performance; new solutions and services; capital allocation plans; cost optimization and operational improvement initiatives; and the expected benefits of our acquisitions, divestitures or other collaborations are all subject to increased risks.
+
+27
+
+Table of Content
+
+Operational Improvement Initiatives
+
+The Company has continued to focus on leveraging the impact of our operating structure, that was implemented in the first quarter of 2019, and identifying additional efficiencies in our business. We are continuing our portfolio management, which includes ongoing evaluation of our offerings, exiting certain low-margin businesses, and being more selective as we consider new business opportunities. As part of our portfolio management, we closed on the sale of certain of our business operations, primarily conducted in Germany and Spain, in July 2020, and the sale of certain of our revenue cycle outsourcing business operations in August 2020. We have also made the decision to sell certain of our owned real estate. We expect to continue to evaluate and potentially complete divestiture transactions that are strategic to our operational improvement initiatives. We continue to be focused on reducing operating expenses and identifying opportunities that are expected to provide longer-term operating margin expansion and on achieving the efficiencies without impacting the quality of our solutions and services and commitments to our clients.
+
+In the near term, we expect to incur expenses in connection with these efforts. Such expenses may include, but are not limited to, consultant and other professional services fees, employee separation costs, contract termination costs, asset impairment charges, and other such related expenses. Expenses recognized in 2021, 2020, and 2019 primarily related to professional services fees, employee separation costs, and asset impairment charges which are included in operating expenses in our consolidated statements of operations. We expect to incur additional expenses in connection with these initiatives in future periods, which may be material.
+
+Results Overview
+
+Bookings, which reflect the value of executed contracts for software, hardware, professional services and managed services, was $5.83 billion in 2021, which is an increase of 4% compared to $5.58 billion in 2020.
+
+Revenues for 2021 increased 5% to $5.76 billion, compared to $5.51 billion in 2020.
+
+Net earnings for 2021 decreased 29% to $556 million, compared to $780 million in 2020. Diluted earnings per share decreased 27% to $1.84 in 2021, compared to $2.52 in 2020.
+
+We had cash collections of receivables of $6.13 billion in 2021, compared to $5.70 billion in 2020. Days sales outstanding was 73 days in the fourth quarter of 2021, compared to 76 days for both the third quarter of 2021 and fourth quarter of 2020. Operating cash flows for 2021 were $1.77 billion, compared to $1.44 billion in 2020.
+
+Healthcare Information Technology Market Outlook
+
+We have provided an assessment of the healthcare information technology market under "Healthcare and Healthcare IT Industry" in Part I, Item 1 "Business," which is incorporated herein by reference.
+
+28
+
+Table of Content
+
+Results of Operations
+
+Fiscal Year 2021 Compared to Fiscal Year 2020
+
+[DATA_TABLE_REMOVED]
+
+Revenues & Backlog
+
+Revenues increased 5% to $5.76 billion in 2021, as compared to $5.51 billion in 2020. The following factors impacted the year-over-year change in revenues:
+
+•Increased implementation activity during 2021 within our federal business, inclusive of ongoing projects with the U.S. Department of Defense and the U.S. Department of Veterans Affairs. In 2021, 20% of our total revenues were attributable to our relationships (as the prime contractor or a subcontractor) with U.S. government agencies, compared to 18% in 2020.
+
+•The 2021 period includes a $148 million increase in revenues due to contributions from our April 1, 2021 acquisition of the Kantar Health business. Refer to Note (8) of the Notes for further information regarding the Kantar Health acquisition.
+
+•The 2021 period includes a $47 million reduction in revenues due to the sale of certain of our revenue cycle outsourcing business operations, as further discussed in Note (9) of the Notes.
+
+•The 2021 period includes a $40 million reduction in revenues due to the sale of certain of our business operations primarily conducted in Germany and Spain, as further discussed in Note (9) of the Notes.
+
+Refer to Note (2) of the Notes for further information regarding revenues disaggregated by our business models.
+
+Backlog, which reflects contracted revenue that has not yet been recognized as revenue, was $13.26 billion at the end of 2021, compared to $13.04 billion at the end of 2020. We expect to recognize 31% of our backlog as revenue over the next 12 months.
+
+We believe that backlog may not necessarily be a comprehensive indicator of future revenue as certain of our arrangements may be canceled (or conversely renewed) at our clients' option; thus contract consideration related to such cancellable periods has been excluded from our calculation of backlog. However, historically our experience has been that such cancellation provisions are rarely exercised. We expect to recognize approximately $1.22 billion of revenue over the 
+
+29
+
+Table of Content
+
+next 12 months under currently executed contracts related to such cancellable periods, which is not included in our calculation of backlog.
+
+Costs of Revenue
+
+Costs of revenue as a percent of revenues were 17% in both 2021 and 2020.
+
+Costs of revenue include the cost of reimbursed travel expense, sales commissions, third-party consulting services and subscription content and computer hardware, devices and sublicensed software purchased from manufacturers for delivery to clients. It also includes the cost of hardware maintenance and sublicensed software support subcontracted to the manufacturers. Such costs, as a percent of revenues, typically have varied as the mix of revenue (software, hardware, devices, maintenance, support, and services) carrying different margin rates changes from period to period. Costs of revenue does not include the costs of our client service personnel who are responsible for delivering our service offerings. Such costs are included in sales and client service expense.
+
+Operating Expenses
+
+Total operating expenses increased 5% to $4.06 billion in 2021, compared to $3.88 billion in 2020.
+
+•Sales and client service expenses as a percent of revenues were 46% in 2021, compared to 47% in 2020. These expenses increased 2% to $2.64 billion in 2021, from $2.58 billion in 2020. Sales and client service expenses include salaries and benefits of sales, marketing, support, and services personnel, depreciation and other expenses associated with our managed services business, communications expenses, unreimbursed travel expenses, expense for share-based payments, and trade show and advertising costs. The following factors impacted the year-over-year change in sales and client service expenses:
+
+◦The 2021 period includes $78 million of pre-tax charges recorded in connection with the designation of certain real estate assets as held for sale, as further discussed in Note (5) of the Notes.
+
+◦The 2021 period includes expense contributions from the Kantar Health business, which was acquired on April 1, 2021, as further discussed in Note (8) of the Notes.
+
+◦The 2020 period includes $29 million of pre-tax charges incurred in connection with the termination of certain revenue cycle outsourcing contracts, as further discussed in Note (1) of the Notes.
+
+◦The 2020 period includes a $21 million pre-tax charge to provide an allowance against certain non-current receivables from a former client. Refer to Note (3) of the Notes for further information regarding our provision for expected credit losses.
+
+◦The 2020 period includes expense contributions from divested businesses, until their respective sale dates, as further discussed in Note (9) of the Notes.
+
+30
+
+Table of Content
+
+•Software development expenses as a percent of revenues were 15% in 2021, compared to 14% in 2020. Expenditures for software development include ongoing development and enhancement of the Cerner Millennium and HealtheIntent platforms, as well as other key initiatives such as platform modernization, with a focus on development of a software as a service platform. A summary of our total software development expense in 2021 and 2020 is as follows:
+
+[DATA_TABLE_REMOVED]
+
+•General and administrative expenses as a percent of revenues were 9% in both 2021 and 2020. These expenses increased 6% to $521 million in 2021, from $492 million in 2020. General and administrative expenses include salaries and benefits for corporate, financial and administrative staffs, utilities, communications expenses, professional fees, depreciation and amortization, transaction gains or losses on foreign currency, expense for share-based payments, certain organizational restructuring and other expense. The increase in general and administrative expenses is primarily due to increased expense associated with share-based payment awards in connection with the departure, or planned departure, of certain executives. In 2021, general and administrative expenses include $139 million of expenses incurred in connection with our operational improvement initiatives, discussed above, compared to $137 million in 2020. We expect to incur additional expenses in connection with these efforts in future periods, which may be material.
+
+•Amortization of acquisition-related intangibles as a percent of revenues was 1% in both 2021 and 2020. These expenses increased 13% to $63 million in 2021, from $56 million in 2020. Amortization of acquisition-related intangibles includes the amortization of customer relationships, acquired technology, trade names, and non-compete agreements recorded in connection with our business acquisitions. The increase in amortization of acquisition-related intangibles is primarily due to amortization of intangibles acquired in our April 1, 2021 acquisition of the Kantar Health business. Refer to Note (8) of the Notes for further information regarding the Kantar Health acquisition.
+
+Gain on Sale of Businesses
+
+In 2020, we recognized a $221 million gain on sale of businesses. Refer to Note (9) of the Notes for further information regarding divestiture transactions that closed during the third quarter of 2020. We expect to continue to evaluate and complete divestiture transactions that are strategic to our operational improvement initiatives discussed above.
+
+Non-Operating Items
+
+•Other income (loss), net was a net loss of $9 million in 2021, compared to $77 million of income in 2020. The 2020 period includes a $76 million gain recognized on the disposition of one of our equity investments. The remaining difference is primarily attributable to increased interest expense in 2021 from the $300 million of Series 2020-A Notes we issued in March 2020 and the $500 million of Series 2021 Senior Notes we issued in March 2021. Refer to Note (13) of the Notes for further information regarding the components of Other income (loss), net.
+
+•Our effective tax rate was 21% in both 2021 and 2020. Refer to Note (14) of the Notes for further discussion regarding our effective tax rate. We do not expect significant changes to our overall effective tax rate in 2022, from what is reported for 2021.
+
+31
+
+Table of Content
+
+Operations by Segment
+
+We have two operating segments: Domestic and International. The Domestic segment includes revenue contributions and expenditures associated with business activity in the United States. The International segment includes revenue contributions and expenditures linked to business activity outside the United States, primarily from Australia, Canada, Europe, and the Middle East. Refer to Note (20) of the Notes for further information regarding our reportable segments.
+
+The following table presents a summary of our operating segment information for 2021 and 2020:
+
+ [DATA_TABLE_REMOVED]
+
+Domestic Segment
+
+•Revenues increased 3% to $5.04 billion in 2021, from $4.88 billion in 2020. The following factors impacted the year-over-year change in Domestic revenues:
+
+◦Increased implementation activity during 2021 within our federal business, inclusive of ongoing projects with the U.S. Department of Defense and the U.S. Department of Veterans Affairs.
+
+◦The 2021 period includes a $68 million increase in revenues due to contributions from our April 1, 2021 acquisition of the Kantar Health business.
+
+◦The 2021 period includes a $47 million reduction in revenues due to the sale of certain of our revenue cycle outsourcing business operations.
+
+Refer to Note (2) of the Notes for further information regarding revenues disaggregated by our business models.
+
+•Costs of revenue as a percent of revenues were 18% in both 2021 and 2020.
+
+•Operating expenses as a percent of revenues were 47% in 2021, compared to 48% in 2020. These expenses increased 1% to $2.36 billion in 2021, from $2.34 billion in 2020. The following factors impacted the year-over-year change in Domestic operating expenses:
+
+◦The 2021 period includes $78 million of pre-tax charges recorded in connection with the designation of certain real estate assets as held for sale.
+
+32
+
+Table of Content
+
+◦The 2021 period includes expense contributions from the Kantar Health business, which was acquired on April 1, 2021.
+
+◦The 2020 period includes $29 million of pre-tax charges incurred in connection with the termination of certain revenue cycle outsourcing contracts.
+
+◦The 2020 period includes a $21 million pre-tax charge to provide an allowance against certain non-current receivables from a former client.
+
+International Segment
+
+•Revenues increased 15% to $720 million in 2021, from $626 million in 2020. The following factors impacted the year-over-year change in International revenues:
+
+◦The 2021 period includes an $80 million increase in revenues due to contributions from our April 1, 2021 acquisition of the Kantar Health business.
+
+◦The 2021 period includes a $40 million reduction in revenues due to the sale of certain of our business operations primarily conducted in Germany and Spain.
+
+◦The remaining difference is attributable to 2021 revenue growth across the majority of our remaining International Segment operations.
+
+Refer to Note (2) of the Notes for further information regarding revenues disaggregated by our business models.
+
+•Costs of revenue as a percent of revenues were 16% in 2021, compared to 13% in 2020. The higher costs of revenue as a percent of revenues was primarily driven by the impact of the Kantar Health business acquired on April 1, 2021.
+
+•Operating expenses as a percent of revenues were 39% in both 2021 and 2020. These expenses increased 14% to $277 million in 2021, from $243 million in 2020. The increase in operating expenses is primarily due to the April 1, 2021 acquisition of the Kantar Health business.
+
+Other Costs and Expenses, Net
+
+Operating costs and expenses not attributed to an operating segment include expenses such as software development, general and administrative expenses, share-based compensation expense, certain amortization and depreciation, certain organizational restructuring and other expense. These expenses increased 10% to $1.42 billion in 2021, from $1.30 billion in 2020. This increase includes the impacts of $54 million of pre-tax charges recorded in 2021 to reduce the carrying amount of certain capitalized software development costs to estimated net realizable value; and increased expense associated with share-based payment awards in connection with the departure, or planned departure, of certain executives.
+
+The effects of inflation on our business during 2021 and 2020 were not significant.
+
+33
+
+Table of Content
+
+Liquidity and Capital Resources
+
+Our liquidity is influenced by many factors, including the amount and timing of our revenues, our cash collections from our clients and the amount we invest in software development, acquisitions, collaborations, capital expenditures, and our share repurchase and dividend programs. We have agreed to various customary covenants and agreements in the Merger Agreement, including with respect to the operation of our business prior to the closing of the transaction, such as restrictions on making certain acquisitions and divestitures, entering into certain contracts, incurring certain indebtedness and making certain capital expenditures, paying dividends in excess of our regular quarterly dividend, issuing or repurchasing stock and taking other specified actions. We do not believe these restrictions will prevent us from meeting our debt service obligations, ongoing costs of operations, working capital needs, or capital expenditure requirements.
+
+Our principal sources of liquidity are our cash, cash equivalents (which primarily consist of money market funds, time deposits and commercial paper with original maturities of less than 90 days), short-term investments, borrowings under our Credit Agreement and other sources of debt financing. At the end of 2021, we had cash and cash equivalents of $590 million and short-term investments of $253 million, as compared to cash and cash equivalents of $616 million and short-term investments of $442 million at the end of 2020.
+
+We have entered into a Credit Agreement with a syndicate of lenders that provides for an unsecured $1.225 billion revolving credit loan facility, along with a letter of credit facility up to $200 million (which is a sub-facility of the $1.225 billion revolving credit loan facility). We have the ability to increase the maximum capacity to $1.725 billion at any time during the Credit Agreement's term, subject to lender participation and the satisfaction of specified conditions. The Credit Agreement expires in December 2026, with two one-year extension options that are subject to lender approval. At the end of 2021, we had outstanding revolving credit loans and letters of credit of $600 million and $18 million, respectively; which reduced our available borrowing capacity to $607 million under the Credit Agreement. 
+
+We have also entered into note purchase agreements pursuant to which we may issue and sell unsecured senior promissory notes to those purchasers electing to purchase. See Note (11) of the Notes for further information.
+
+We believe that our present cash position, together with cash generated from operations, short-term investments and, as appropriate, remaining availability under our Credit Agreement and other sources of debt financing, will be sufficient to meet anticipated cash requirements for the next 12 months.
+
+The following table summarizes our cash flows in 2021 and 2020:
+
+[DATA_TABLE_REMOVED]
+
+34
+
+Table of Content
+
+Cash from Operating Activities
+
+[DATA_TABLE_REMOVED]
+
+Cash flows from operations increased $335 million in 2021 compared to 2020, due primarily to increased collections of client receivables. Days sales outstanding was 73 days in the fourth quarter of 2021, compared to 76 days for both the third quarter of 2021 and fourth quarter of 2020. Cash flows from operations in 2021 and 2020 include the impact of certain federal payroll taxes related to pay cycles in the second through fourth quarters of 2020, for which we deferred remittance to the taxing authority as permitted under the Coronavirus Aid, Relief, and Economic Security Act (the "CARES Act"). We remitted $38 million of such amounts to the taxing authority in December 2021 and expect to remit $38 million of remaining deferrals in December 2022, as permitted by the CARES Act.
+
+Cash from Investing Activities
+
+[DATA_TABLE_REMOVED]
+
+Cash flows from investing activities consist primarily of capital spending, investment, acquisition, and divestiture activities.
+
+Our capital spending in 2021 was driven by capitalized equipment purchases primarily to support growth in our managed services business and capitalized spending to support our ongoing software development initiatives. In 2022, we expect the aggregate of capital purchases and capitalized software development costs to approximate $686 million.
+
+Short-term investment activity historically consists of the investment of cash generated by our business in excess of what is necessary to fund operations. Both the 2021 and 2020 activity is impacted by excess cash primarily being used to execute on our capital allocation strategy, including the acquisition of businesses, share repurchases and cash dividends, as discussed below. The 2020 activity includes the investment of proceeds from the sale of certain business operations in the third quarter of 2020, as discussed below.
+
+Investment activity also includes the sale of one of our equity investments in August 2020 for cash proceeds of $90 million. Refer to Note (4) of the Notes for further information regarding this investment.
+
+In 2021, we paid $371 million of purchase price consideration in connection with our acquisition of Kantar Health. In 2020, we completed certain business acquisitions of entities providing solutions to clients in the healthcare industry. Refer to Note (8) of the Notes for further information regarding our business acquisitions. We expect to continue seeking and completing strategic business acquisitions, investments, and relationships that are complementary to our business.
+
+On July 1, 2020, we sold certain of our business operations, primarily conducted in Germany and Spain, for cash proceeds of $224 million. We also sold certain of our revenue cycle outsourcing business operations on August 3, 2020. 
+
+35
+
+Table of Content
+
+Refer to Note (9) of the Notes for further information regarding these sales. We expect to continue to evaluate and complete divestiture transactions that are strategic to our operational improvement initiatives discussed above.
+
+We received proceeds of $9 million in connection with the sale of our Oaks Campus in 2021. We expect future proceeds from the disposition of real estate held for sale; however, the amount and timing of such proceeds are dependent upon economic and market conditions which are not within our control. Refer to Note (5) of the Notes for further information regarding real estate held for sale. 
+
+Cash from Financing Activities
+
+[DATA_TABLE_REMOVED]
+
+In March 2021, we issued $100 million aggregate principal amount of Series 2021-A Notes and $400 million aggregate principal amount of Series 2021-B Notes. In March 2020, we issued $300 million aggregate principal amount of Series 2020-A notes. Refer to Note (11) of the Notes for further information regarding these, as well as our other debt obligations. We do not expect to incur additional indebtedness in the near-term.
+
+On February 15, 2022, we repaid our $225 million of Series 2015-A Notes due February 15, 2022, using cash on hand.
+
+Cash inflows from stock option exercises are dependent on a number of factors, including the price of our common stock, grant activity under our stock option and equity plans, and overall market volatility. We expect net cash inflows from stock option exercises to continue in 2022 based on the number of exercisable options at the end of 2021 and our current stock price. Refer to Note (16) of the Notes for additional information regarding our stock option and equity plans.
+
+During 2021 and 2020, we repurchased 20.0 million and 10.6 million shares of our common stock for total consideration of $1.50 billion and $757 million, respectively. As of December 31, 2021, $3.18 billion remains available for repurchase under our share repurchase program. We do not expect to repurchase additional shares in the near-term as the Merger Agreement prohibits us from repurchasing additional shares without Parent's consent. Refer to Note (16) of the Notes for further information regarding our share repurchase programs.
+
+Refer to Note (16) of the Notes for a summary of cash dividend activity in 2021 and 2020. Subject to declaration by our Board of Directors, we expect to continue paying quarterly cash dividends as a part of our current capital allocation strategy. Future dividends will be subject to the determination, declaration and discretion of our Board of Directors and compliance with covenants under our outstanding debt agreements. The source of funds for such dividends may include cash generated from operations, liquidation of investment holdings and other dispositions of assets.
+
+Free Cash Flow (Non-GAAP)
+
+[DATA_TABLE_REMOVED]
+
+36
+
+Table of Content
+
+Free cash flow increased $317 million in 2021, compared to 2020, primarily due to increased cash from operations. Free cash flow is a non-GAAP financial measure used by management, along with GAAP results, to analyze our earnings quality and overall cash generation of the business, and for management compensation purposes. We define free cash flow as cash flows from operating activities reduced by capital purchases and capitalized software development costs. The table above sets forth a reconciliation of free cash flow to cash flows from operating activities, which we believe is the GAAP financial measure most directly comparable to free cash flow. The presentation of free cash flow is not meant to be considered in isolation, nor as a substitute for, or superior to, GAAP results, and investors should be aware that non-GAAP measures have inherent limitations and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP. Free cash flow may also be different from similar non-GAAP financial measures used by other companies and may not be comparable to similarly titled captions of other companies due to potential inconsistencies in the method of calculation. We believe free cash flow is important to enable investors to better understand and evaluate our ongoing operating results and allows for greater transparency in the review and understanding of our overall financial, operational and economic performance, because free cash flow takes into account certain capital expenditures necessary to operate our business.
+
+Contractual Obligations, Commitments and Off Balance Sheet Arrangements
+
+The following table represents a summary of our contractual obligations and commercial commitments at the end of 2021, except short-term purchase order commitments arising in the ordinary course of business.
+
+[DATA_TABLE_REMOVED]
+
+(a) At the end of 2021, liabilities for unrecognized tax benefits were $34 million.
+
+If the Merger Agreement is terminated under certain specified circumstances, we will be required to pay to Parent a termination fee of $950 million.
+
+Off-Balance Sheet Arrangements
+
+Refer to Note (11) of the Notes for information regarding our interest rate swap agreement, which is accounted for as a cash flow hedge in accordance with ASC Topic 815, Derivatives and Hedging. LIBOR is scheduled to be phased out beginning in 2022. When LIBOR ceases to exist, references to LIBOR in our Credit Agreement and interest rate swap agreement will be replaced with a different benchmark rate and a spread adjustment in accordance with the terms of those agreements. The new benchmark rate together with the spread adjustment may not be as favorable to us as those in effect prior to any LIBOR phase-out. If the replacement benchmark rates and spread adjustment in the interest rate swap and the Credit Agreement are not identical, our hedge could be less effective.
+
+Recent Accounting Pronouncements
+
+Refer to Note (1) of the Notes for information regarding recently issued accounting pronouncements.
+
+Critical Accounting Estimates
+
+We believe that there are several accounting policies that are critical to understanding our historical and future performance, as these policies affect the reported amount of revenue and other significant areas involving our judgments and estimates. These significant accounting policies relate to revenue recognition, software development, and income taxes. These accounting policies and our procedures related to these accounting policies are described in detail below 
+
+37
+
+Table of Content
+
+and under specific areas within this MD&A. In addition, Note (2), Note (7), and Note (14) of the Notes expands upon discussion of our accounting policies for these areas.
+
+Revenue Recognition
+
+We recognize revenue in accordance with the guidance in ASU 2014-09, Revenue from Contracts with Customers (Topic 606), which requires an entity to recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. The standard contains a five-step process to be followed in determining the amount and timing of revenue recognition. Refer to Note (2) of the Notes for further discussion regarding significant judgments involved in our application of ASU 2014-09.
+
+Software Development Costs
+
+Costs incurred internally in creating computer software solutions and enhancements to those solutions are expensed until completion of a detailed program design, which is when we determine that technological feasibility has been established. Thereafter, all software development costs are capitalized until such time as the software solutions and enhancements are available for general release, and the capitalized costs subsequently are reported at the lower of amortized cost or net realizable value.
+
+Net realizable value is computed as the estimated gross future revenues from each software solution less the amount of estimated future costs of completing and disposing of that product. Because the development of projected net future revenues related to our software solutions used in our net realizable value computation is based on estimates, a significant reduction in our future revenues could impact the recovery of our capitalized software development costs. If we missed our estimates of net future revenues by 10%, the amount of our capitalized software development costs would not be impaired.
+
+Capitalized costs are amortized based on current and expected net future revenue for each software solution with minimum annual amortization equal to the straight-line amortization over the estimated economic life of the software solution. We are amortizing capitalized costs over five years. The five-year period over which capitalized software development costs are amortized is an estimate based upon our forecast of a reasonable useful life for the capitalized costs. Historically, use of our software programs by our clients has exceeded five years and is capable of being used a decade or more.
+
+We expect that major software information systems companies, large information technology consulting service providers and systems integrators and others specializing in the healthcare industry may offer competitive products or services. The pace of change in the HCIT market is rapid and there are frequent new product introductions, product enhancements and evolving industry standards and requirements. As a result, the capitalized software solutions may become less valuable or obsolete and could be subject to impairment.
+
+Income Taxes
+
+We make a number of assumptions and estimates in determining the appropriate amount of expense to record for income taxes. These assumptions and estimates consider the taxing jurisdictions in which we operate as well as current tax regulations. Accruals are established for estimates of tax effects for certain transactions, business structures and future projected profitability of our businesses based on our interpretation of existing facts and circumstances. If these assumptions and estimates were to change as a result of new evidence or changes in circumstances, the change in estimate could result in a material adjustment to the consolidated financial statements.
+
+We have discussed the development and selection of these critical accounting estimates with the Audit Committee of our Board of Directors and the Audit Committee has reviewed our disclosure contained herein.
+
+Forward-Looking Statements
+
+Statements made in this report, the annual report to shareholders of which this report is made a part, other reports and proxy statements filed with the SEC, communications to shareholders, press releases and oral statements made by representatives of the Company that are not historical in nature, or that state the Company's or management's intentions, hopes, beliefs, expectations, plans, goals or predictions of future events or performance, may constitute "forward-looking statements" within the meaning of Private Securities Litigation Reform Act of 1995. Forward-looking statements can often be identified by the use of forward-looking terminology, such as "could," "can," "should," "will," "intended," "continue," "believe," "may," "expect," "hope," "anticipate," "goal," "positioned", "forecast," "plan," "guidance," "opportunity," 
+
+38
+
+Table of Content
+
+"prospects" or "estimate" or the negative of these words, variations thereof or similar expressions. Forward-looking statements are not guarantees of future performance or results. They involve risks, uncertainties and assumptions. It is important to note that any such performance and actual results, financial condition or business, could differ materially from those expressed in such forward-looking statements. Significant factors that could cause or contribute to such differences include, but are not limited to, those discussed in this Item 1A. Risk Factors and elsewhere herein or in other reports filed with the SEC. Other unforeseen factors not identified herein could also have such an effect. Any forward-looking statements made in this report speak only as of the date of this report. Except as required by law, we undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes in our business, results of operations, financial condition or business over time.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.

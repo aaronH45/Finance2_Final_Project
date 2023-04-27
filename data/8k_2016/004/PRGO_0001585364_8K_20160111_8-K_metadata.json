@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001585364",
+    "sec_company_name": "PERRIGO Co plc (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160111",
+    "sec_filing_date": "20160111",
+    "sec_changed_date": "20160111",
+    "sec_accepted_date": "20160111105157",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1585364/000158536416000231/0001585364-16-000231-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1585364/000158536416000231/0001585364-16-000231.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\PRGO_0001585364_8K_20160111_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "23036 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2438,
+    "endpoints": [
+        "8-K   ",
+        "[DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PRGO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\PRGO_0001585364_8K_20160111_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:01.569288"
+}

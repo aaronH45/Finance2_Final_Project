@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000058492",
+    "sec_company_name": "LEGGETT & PLATT INC (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20150225",
+    "sec_filing_date": "20150227",
+    "sec_changed_date": "20150227",
+    "sec_accepted_date": "20150227155800",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/58492/000119312515069624/0001193125-15-069624-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/58492/000119312515069624/0001193125-15-069624.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\LEG_0000058492_8K_20150225_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "19269 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 3544,
+    "endpoints": [
+        "Form 8-K   ",
+        " 10.1   The Company’s 2014 Key Officers Incentive Plan, effective January 1, 2014, filed March 25, 2014 as Appendix A to the Company’s Proxy Statement, is incorporated by reference. (SEC File No. 001-07845)"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LEG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0004\005\LEG_0000058492_8K_20150225_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 4,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:15:41.037609",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:39:24.374631"
+}

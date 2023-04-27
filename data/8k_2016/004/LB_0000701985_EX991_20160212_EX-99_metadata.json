@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000701985",
+    "sec_company_name": "L Brands, Inc. (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20160212",
+    "sec_filing_date": "20160217",
+    "sec_changed_date": "20160217",
+    "sec_accepted_date": "20160217141221",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/701985/000095010316011176/0000950103-16-011176-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/701985/000095010316011176/0000950103-16-011176.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LB_0000701985_EX991_20160212_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "8343 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 2664,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        " [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "LB",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0005\004\LB_0000701985_EX991_20160212_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 5,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 21:41:24.213091",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 21:55:57.372519"
+}

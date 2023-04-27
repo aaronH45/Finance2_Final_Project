@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000080424",
+    "sec_company_name": "PROCTER & GAMBLE Co (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170120",
+    "sec_filing_date": "20170120",
+    "sec_changed_date": "20170120",
+    "sec_accepted_date": "20170120070228",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042417000008/0000080424-17-000008-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/80424/000008042417000008/0000080424-17-000008.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\PG_0000080424_8K_20170120_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "20492 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 1653,
+    "endpoints": [
+        "Document   ",
+        "99. News Release by The Procter & Gamble Company dated January 20, 2017."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "PG",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\PG_0000080424_8K_20170120_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:03:07.433385"
+}

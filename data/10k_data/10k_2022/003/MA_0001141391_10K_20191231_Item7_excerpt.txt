@@ -1,0 +1,451 @@
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Item 7. Management’s discussion and analysis of financial condition and results of operations
+
+The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (“Mastercard International”) (together, “Mastercard” or the “Company”), included elsewhere in this Report. Percentage changes provided throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” were calculated on amounts rounded to the nearest thousand. For discussion related to the results of operations for the year ended December 31, 2018 compared to the year ended December 31, 2017, please see Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2018. 
+
+Business Overview 
+
+Mastercard is a technology company in the global payments industry that connects consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide, enabling them to use electronic forms of payment instead of cash and checks. We make payments easier and more efficient by providing a wide range of payment solutions and services using our family of well-known brands, including Mastercard®, Maestro® and Cirrus®. We are a multi-rail network that offers customers one partner to turn to for their domestic and cross-border payment needs. Through our unique and proprietary global payments network, which we refer to as our core network, we switch (authorize, clear and settle) payment transactions and deliver related products and services. We have additional payment capabilities that include automated clearing house (“ACH”) transactions (both batch and real-time account-based payments). We also provide integrated value-added offerings such as cyber and intelligence products, information and analytics services, consulting, loyalty and reward programs and processing. Our payment solutions offer customers choice and flexibility and are designed to ensure safety and security for the global payments system.
+
+A typical transaction on our core network involves four participants in addition to us: account holder (a person or entity who holds a card or uses another device enabled for payment), issuer (the account holder’s financial institution), merchant and acquirer (the merchant’s financial institution). We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our products. In most cases, account holder relationships belong to, and are managed by, our financial institution customers.
+
+Financial Results Overview
+
+The following table provides a summary of our key GAAP operating results, as reported: 
+
+[DATA_TABLE_REMOVED]
+
+MASTERCARD 2019 FORM 10-K 39
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following table provides a summary of key non-GAAP operating results1, 2, adjusted to exclude the impact of gains and losses on our equity investments, special items (which represent litigation judgments and settlements and certain one-time items) and the related tax impacts on our non-GAAP adjustments. In addition, we have presented growth rates, adjusted for the impact of currency:
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+1  See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.  
+
+2 For 2019 we updated our non-GAAP methodology to exclude the impact of gains and losses on our equity investments. Prior year periods were not restated as the impact of the change was immaterial in relation to our non-GAAP results.
+
+Key highlights for 2019 as compared to 2018 were as follows:
+
+Net revenue 
+
+GAAP Non-GAAP (currency-neutral)Net revenue increased 16% on a currency-neutral basis, which included growth of approximately 1 percentage point from acquisitions. The primary drivers of our
+
+up 13% up 16%net revenue growth were 1:
+
+  - Gross dollar volume growth of 13% on a local currency basis
+
+    - Cross-border growth of 16% on a local currency basis
+
+    - Switched transaction growth of 19%
+
+    - Other revenues growth of 23%, or 24% on a currency-neutral basis. This
+
+    includes 2 percentage points of growth due to acquisitions. The remaining
+
+    growth was primarily driven by our Cyber & Intelligence and Data & Services
+
+    solutions.
+
+    - These increases were partially offset by higher rebates and incentives, which
+
+    increased 18%, or 20% on a currency-neutral basis, primarily due to the
+
+    impact from new and renewed agreements and increased volumes. 
+
+1 The cross-border volume and switched transactions growth rates have been normalized to eliminate the effects of differing switching and carryover days between periods. Carryover days are those where transactions and volumes from days where the company does not clear and settle are processed.
+
+40 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Other 2019 financial highlights were as follows:
+
+•We generated net cash flows from operations of $8.2 billion.
+
+•We completed the acquisitions of businesses for total consideration of $1.5 billion. [DATA_TABLE_REMOVED]
+
+•We completed debt offerings for an aggregate principal amount of $2.8 billion and separately repaid $500 million of principal that matured related to our 2014 USD Notes. 
+
+Non-GAAP Financial Information
+
+Non-GAAP financial information is defined as a numerical measure of a company’s performance that excludes or includes amounts so as to be different than the most comparable measure calculated and presented in accordance with accounting principles generally accepted in the United States (“GAAP”). Our non-GAAP financial measures exclude the impact of special items, where applicable, which represent litigation judgments and settlements and certain one-time items, as well as the related tax impacts (“Special Items”). For 2019, our non-GAAP financial measures also exclude the impact of gains and losses on our equity investments which includes mark-to-market fair value adjustments, impairments and gains and losses upon disposition and the related tax impacts. Prior year periods were not restated as the impact of the change was immaterial in relation to our non-GAAP results. Our non-GAAP financial measures for the comparable periods exclude the impact of the following:
+
+Gains and Losses on Equity Investments[DATA_TABLE_REMOVED]
+
+Special Items
+
+Tax act[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Litigation provisions [DATA_TABLE_REMOVED]
+
+◦$654 million related to a fine issued by the European Commission
+
+MASTERCARD 2019 FORM 10-K 41
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+◦$237 million related to both the U.S. merchant class litigation and the filed and anticipated opt-out U.S. merchant cases
+
+◦$237 million related to litigation settlements with U.K. and Pan-European merchants.[DATA_TABLE_REMOVED]
+
+Venezuela charge [DATA_TABLE_REMOVED]
+
+See Note 1 (Summary of Significant Accounting Policies), Note 7 (Investments), Note 20 (Income Taxes) and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion. We excluded these items because management evaluates the underlying operations and performance of the Company separately from these recurring and nonrecurring items.
+
+We believe that the non-GAAP financial measures presented facilitate an understanding of our operating performance and provide a meaningful comparison of our results between periods. We use non-GAAP financial measures to, among other things, evaluate our ongoing operations in relation to historical results, for internal planning and forecasting purposes and in the calculation of performance-based compensation.
+
+In addition, we present growth rates adjusted for the impact of currency, which is a non-GAAP financial measure. Currency-neutral growth rates are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results. The impact of currency translation represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. The impact of the transactional currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency. We believe the presentation of currency-neutral growth rates provides relevant information to facilitate an understanding of our operating results.
+
+Net revenue, operating expenses, operating margin, other income (expense), effective income tax rate, net income and diluted earnings per share adjusted for the impact of gains and losses on our equity investments, Special Items and/or the impact of currency, are non-GAAP financial measures and should not be relied upon as substitutes for measures calculated in accordance with GAAP.
+
+42 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following tables reconcile our reported financial measures calculated in accordance with GAAP to the respective non-GAAP adjusted financial measures:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+** Not applicable
+
+MASTERCARD 2019 FORM 10-K 43
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following tables represent the reconciliation of our growth rates reported under GAAP to our non-GAAP growth rates:
+
+[DATA_TABLE_REMOVED]
+
+[DATA_TABLE_REMOVED]
+
+Note: Tables may not sum due to rounding.
+
+** Not applicable
+
+1  For 2019 we updated our non-GAAP methodology to exclude the impact of gains and losses on our equity investments. Prior year periods were not restated as the impact of the change was immaterial in relation to our non-GAAP results.
+
+2 Represents the currency translational and transactional impact.
+
+44 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Foreign Currency
+
+Currency Impact (Translation and Transactional)
+
+Our primary revenue functional currencies are the U.S. dollar, euro, Brazilian real and the British pound. Our overall operating results are impacted by currency translation, which represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. 
+
+Our operating results can also be impacted by transactional currency. The impact of the transactional currency represents the effect of converting revenue and expense transactions occurring in a currency other than the functional currency. Changes in currency exchange rates directly impact the calculation of gross dollar volume (“GDV”) and gross euro volume (“GEV”), which are used in the calculation of our domestic assessments, cross-border volume fees and volume-related rebates and incentives. In most non-European regions, GDV is calculated based on local currency spending volume converted to U.S. dollars using average exchange rates for the period. In Europe, GEV is calculated based on local currency spending volume converted to euros using average exchange rates for the period. As a result, our domestic assessments, cross-border volume fees and volume-related rebates and incentives are impacted by the strengthening or weakening of the U.S. dollar versus non-European local currencies and the strengthening or weakening of the euro versus other European local currencies. For example, our billing in Australia is in the U.S. dollar, however, consumer spend in Australia is in the Australian dollar. The currency transactional impact of converting Australian dollars to our U.S. dollar billing currency will have an impact on the revenue generated. The strengthening or weakening of the U.S. dollar is evident when GDV growth on a U.S. dollar-converted basis is compared to GDV growth on a local currency basis. In 2019, GDV on a U.S. dollar-converted basis increased 9.6%, while GDV on a local currency basis increased 13.0% versus 2018. In 2018, GDV on a U.S. dollar-converted basis increased 12.8%, while GDV on a local currency basis increased 13.8% versus 2017. Further, the impact from transactional currency occurs in transaction processing revenue, other revenue and operating expenses when the local currency of these items are different than the functional currency.
+
+The translational and transactional impact of currency (“Currency impact”) has been identified in our growth impact tables and has been excluded from our currency neutral growth rates, which are non-GAAP financial measures. See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments.
+
+Foreign Exchange Activity
+
+We incur foreign currency gains and losses from remeasuring monetary assets and liabilities that are in a currency other than the functional currency and from remeasuring foreign exchange derivative contracts (“Foreign Exchange Activity”). The impact of Foreign Exchange Activity has not been eliminated in our currency-neutral results (see “Non-GAAP Financial Information”) and is recorded in general and administrative expenses on the consolidated statement of operations. We manage foreign currency balance sheet remeasurement and transactional currency exposure through our foreign exchange risk management activities, which are discussed further in Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8. Since we do not designate foreign exchange derivatives as hedging instruments pursuant to the accounting standards for derivative instruments and hedging activities, we record gains and losses on foreign exchange derivatives immediately in current-period earnings, with the related hedged item being recognized as the exposures materialize.
+
+Risk of Currency Devaluation
+
+We are exposed to currency devaluation in certain countries. In addition, we are subject to exchange control regulations that restrict the conversion of financial assets into U.S. dollars. While these revenues and assets are not material to us on a consolidated basis, we can be negatively impacted should there be a continued and sustained devaluation of local currencies relative to the U.S. dollar and/or a continued and sustained deterioration of economic conditions in these countries. Specifically, in 2017, due to foreign exchange regulations which were restricting access to U.S. dollars in Venezuela, an other-than-temporary lack of exchangeability between the Venezuela bolivar and the U.S. dollar impacted our ability to manage risk, process cross-border transactions and satisfy U.S. dollar denominated liabilities related to our Venezuelan operations. As a result of these factors, we concluded that, effective December 31, 2017, we did not meet the accounting criteria for consolidation of these subsidiaries, and therefore we transitioned to the cost method of accounting. This accounting change resulted in a pre-tax charge of $167 million ($108 million after tax, or $0.10 per diluted share) in 2017. We continue to operate and serve our Venezuelan issuers, acquirers, merchants and account holders with our products and services. See Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+MASTERCARD 2019 FORM 10-K 45
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Financial Results
+
+Revenue
+
+Gross revenue increased 14%, or 17% on a currency-neutral basis in 2019 versus the prior year, primarily due to an increase in transactions, dollar volume of activity on cards carrying our brands for both domestic and cross-border transactions and other payment-related products and services. 
+
+Rebates and incentives increased 18%, or 20% on a currency-neutral basis in 2019 versus the prior year, primarily due to the impact from new and renewed agreements and increased volumes. 
+
+Our net revenue increased 13%, or 16% on a currency-neutral basis in 2019 versus the prior year, including growth of 1 percentage point from our acquisitions. 
+
+See Note 3 (Revenue) to the consolidated financial statements included in Part II, Item 8 for a further discussion of how we recognize revenue.
+
+The components of net revenue were as follows:
+
+[DATA_TABLE_REMOVED]
+
+The following table summarizes the drivers of net revenue growth:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding
+
+** Not applicable
+
+1 Represents the impact of our adoption of the revenue guidance in 2018. For a more detailed discussion on the impact of the revenue guidance, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8.
+
+2 Represents the currency translational and transactional impact.
+
+3 Includes impact from pricing and other non-volume based fees.
+
+4 Includes impact of the allocation of revenue to service deliverables, which are primarily recorded in other revenue when services are performed.
+
+5 Includes impacts from cyber and intelligence fees, data analytics and consulting fees and other payment-related products and services.
+
+6 Includes the impact of new, renewed and expired agreements.
+
+46 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following tables provide a summary of the trend in volume and transaction growth. The cross-border volume and switched transactions growth rates have been normalized to eliminate the effects of differing switching and carryover days between periods. Carryover days are those where transactions and volumes from days where the company does not clear and settle are processed. Additionally, we adjusted the switched transactions growth rate in the prior period for the deconsolidation of our Venezuelan subsidiaries in 2017. For a more detailed discussion of the deconsolidation of our Venezuelan subsidiaries, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8.
+
+[DATA_TABLE_REMOVED]
+
+1 Excludes volume generated by Maestro and Cirrus cards.
+
+[DATA_TABLE_REMOVED]
+
+No individual country, other than the United States, generated more than 10% of net revenue in any such period. A significant portion of our net revenue is concentrated among our five largest customers. In 2019, the net revenue from these customers was approximately $3.5 billion, or 21%, of total net revenue. The loss of any of these customers or their significant card programs could adversely impact our revenue. 
+
+Operating Expenses
+
+Operating expenses decreased 6% in 2019 versus the prior year. Adjusted operating expenses increased 10%, or 12% on a currency-neutral basis in 2019 versus the prior year. Current year results include growth of approximately 2 percentage points from acquisitions and 1 percentage point primarily from foreign exchange derivative contracts.
+
+The components of operating expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+MASTERCARD 2019 FORM 10-K 47
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following table summarizes the drivers of changes in operating expenses:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 Includes a 2 percentage point impact to general and administrative and total operating expenses growth due to contributions made in 2018 to support inclusive growth efforts. Contributions made in 2019 were comparable to the prior year.
+
+2 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+3 Represents the impact of our adoption of the revenue guidance in 2018. For a more detailed discussion on the impact of the revenue guidance, refer to Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8. 
+
+4 Represents the currency translational and transactional impact.
+
+General and Administrative
+
+General and administrative expenses increased 11%, or 13% on a currency-neutral basis in 2019 versus the prior year. Current year results include growth of approximately 2 percentage points from acquisitions and 1 percentage point primarily from foreign exchange derivative contracts. The remaining increase was primarily driven by an increase in personnel to support our continued investment in our strategic initiatives.
+
+The components of general and administrative expenses were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+1 Foreign exchange activity includes gains and losses on foreign exchange derivative contracts and the impact of remeasurement of assets and liabilities denominated in foreign currencies. See Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+2 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+Advertising and Marketing
+
+Advertising and marketing expenses increased 3%, or 5% on a currency-neutral basis in 2019 versus the prior year, primarily due to higher spending on certain sponsorship initiatives. 
+
+48 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Depreciation and Amortization
+
+Depreciation and amortization expenses increased 14% , or 15% on a currency-neutral basis in 2019 versus the prior year. Current year results include growth of approximately 7 percentage points from acquisitions with the remaining increase primarily driven by amortization of certain intangible assets and depreciation on data center assets. 
+
+Provision for Litigation
+
+Provision for litigation decreased in 2019 versus the prior year as there were no litigation charges in the current year. See Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Other Income (Expense)
+
+Other income (expense) increased in 2019 versus the prior year primarily due to net gains of $167 million which were related to unrealized fair market value adjustments on marketable and non-marketable equity securities in the current period.
+
+The components of other income (expense) were as follows:
+
+[DATA_TABLE_REMOVED]
+
+Note: Table may not sum due to rounding.
+
+** Not meaningful
+
+Income Taxes 
+
+The effective income tax rates for the years ended December 31, 2019 and 2018 were 16.6% and 18.7%, respectively. The effective income tax rate for 2019 was lower than the effective income tax rate for 2018, primarily due to the nondeductible nature of the fine issued by the European Commission in 2018 and a discrete tax benefit related to a favorable court ruling in 2019. These 2019 benefits were partially offset by discrete tax benefits in 2018 primarily related to foreign tax credits generated in 2018 as a result of U.S. tax reform, which can be carried back and utilized in 2017 under transition rules issued by the Department of the Treasury and the Internal Revenue Service.
+
+The adjusted effective income tax rates for the years ended December 31, 2019 and 2018 were 17.0% and 18.5%, respectively. The adjusted effective income tax rate was lower than the prior year primarily due to a more favorable geographic mix of earnings and discrete tax benefits including a favorable court ruling in 2019.
+
+See Note 20 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Liquidity and Capital Resources
+
+We rely on existing liquidity, cash generated from operations and access to capital to fund our global operations, credit and settlement exposure, capital expenditures, investments in our business and current and potential obligations. The following table summarizes the cash, cash equivalents, investments and credit available to us at December 31:
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+MASTERCARD 2019 FORM 10-K 49
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+We believe that our existing cash, cash equivalents and investment securities balances, our cash flow generating capabilities, and our access to capital resources are sufficient to satisfy our future operating cash needs, capital asset purchases, outstanding commitments and other liquidity requirements associated with our existing operations and potential obligations.
+
+Our liquidity and access to capital could be negatively impacted by global credit market conditions. We guarantee the settlement of many of the transactions between our customers. Historically, payments under these guarantees have not been significant; however, historical trends may not be an indication of potential future losses. The risk of loss on these guarantees is specific to individual customers, but may also be driven by regional or global economic conditions, including, but not limited to the health of the financial institutions in a country or region. See Note 22 (Settlement and Other Risk Management) to the consolidated financial statements in Part II, Item 8 for a description of these guarantees.
+
+Our liquidity and access to capital could also be negatively impacted by the outcome of any of the legal or regulatory proceedings to which we are a party. For additional discussion of these and other risks facing our business, see Part I, Item 1A - Risk Factors - Legal and Regulatory Risks and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8; and Part II, Item 7 (Business Environment).
+
+Cash Flow
+
+The table below shows a summary of the cash flows from operating, investing and financing activities for the years ended December 31:
+
+[DATA_TABLE_REMOVED]
+
+Net cash provided by operating activities increased $2.0 billion in 2019 versus the prior year, primarily due to higher net income as adjusted for non-cash items.
+
+Net cash used in investing activities increased $1.1 billion in 2019 versus the prior year, primarily due to acquisitions and purchases of equity investments, partially offset by higher net proceeds from our investments in available-for-sale and held-to-maturity securities. 
+
+Net cash used in financing activities increased $901 million in 2019 versus the prior year, primarily due to higher repurchases of our Class A common stock, higher dividends paid and the settlement of the contingent consideration attributable to our 2017 acquisitions, partially offset by higher net debt proceeds in the current period.
+
+Debt and Credit Availability
+
+In May 2019, we issued $1.0 billion principal amount of notes due June 2029 and $1.0 billion principal amount of notes due June 2049 and in December 2019, we issued $750 million principal amount of notes due March 2025. Additionally, during 2019, $500 million of principal related to the 2014 USD Notes matured and was paid. Our total debt outstanding was $8.5 billion at December 31, 2019, with the earliest maturity of $650 million of principal occurring in November 2021.
+
+As of December 31, 2019, we have a commercial paper program (the “Commercial Paper Program”), under which we are authorized to issue up to $6 billion in outstanding notes, with maturities up to 397 days from the date of issuance. In conjunction with the Commercial Paper Program, we have a committed unsecured $6 billion revolving credit facility (the “Credit Facility”) which expires in November 2024. 
+
+Borrowings under the Commercial Paper Program and the Credit Facility are to provide liquidity for general corporate purposes, including providing liquidity in the event of one or more settlement failures by our customers. In addition, we may borrow and repay amounts under these facilities for business continuity purposes. We had no borrowings outstanding under the Commercial Paper Program or the Credit Facility at December 31, 2019.
+
+See Note 15 (Debt) to the consolidated financial statements included in Part II, Item 8 for further discussion on our debt, the Commercial Paper Program and the Credit Facility.
+
+Dividends and Share Repurchases
+
+We have historically paid quarterly dividends on our outstanding Class A common stock and Class B common stock. Subject to legally available funds, we intend to continue to pay a quarterly cash dividend. However, the declaration and payment of future dividends is at the sole discretion of our Board of Directors after taking into account various factors, including our financial condition, operating 
+
+50 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+results, available cash and current and anticipated cash needs. The following table summarizes the annual, per share dividends paid in the years reflected:
+
+[DATA_TABLE_REMOVED]
+
+On December 4, 2019, our Board of Directors declared a quarterly cash dividend of $0.40 per share paid on February 7, 2020 to holders of record on January 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $403 million.
+
+On February 4, 2020, our Board of Directors declared a quarterly cash dividend of $0.40 per share payable on May 8, 2020 to holders of record on April 9, 2020 of our Class A common stock and Class B common stock. The aggregate amount of this dividend is estimated to be $402 million.
+
+Repurchased shares of our common stock are considered treasury stock. The timing and actual number of additional shares repurchased will depend on a variety of factors, including the operating needs of the business, legal requirements, price and economic and market conditions. In December 2019, 2018 and 2017, our Board of Directors approved share repurchase programs authorizing us to repurchase up to $8.0 billion, $6.5 billion and $4.0 billion, respectively, of our Class A common stock. The program approved in 2019 became effective in January 2020 after completion of the share repurchase program authorized in 2018. The following table summarizes our share repurchase authorizations of our Class A common stock through December 31, 2019, under the plans approved in 2018 and 2017:
+
+[DATA_TABLE_REMOVED]
+
+See Note 16 (Stockholders' Equity) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet debt, other than the commitments presented in the Future Obligations table that follows.
+
+MASTERCARD 2019 FORM 10-K 51
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Future Obligations 
+
+The following table summarizes our obligations as of December 31, 2019 that are expected to impact liquidity and cash flow in future periods. We believe we will be able to fund these obligations through cash generated from operations and our cash balances.
+
+[DATA_TABLE_REMOVED]
+
+1 Amounts relate to the maturity of our operating lease liabilities. See Note 10 (Property, Equipment and Right-of-Use Assets) to the consolidated financial statements included in Part II, Item 8 for further discussion.   
+
+2 Amounts relate to severance along with expected funding requirements for defined benefit pension and postretirement plans.
+
+3 Amounts relate to the U.S. tax liability on the Transition Tax on accumulated non-U.S. earnings of U.S entities. See Note 20 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+4 Amount relates to the fixed-price put option for the Vocalink remaining shareholders to sell their ownership interest to Mastercard on the third and fifth anniversaries of the transaction and quarterly thereafter. See Note 2 (Acquisitions) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+5 The table does not include the following:[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+Critical Accounting Estimates
+
+The application of GAAP requires us to make estimates and assumptions about certain items and future events that directly affect our reported financial condition. Our significant accounting policies, including recent accounting pronouncements, are described in Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8. 
+
+Revenue Recognition - Rebates and Incentives
+
+We enter into business agreements with certain customers that provide for rebates or support when customers meet certain volume thresholds as well as other support incentives, which are tied to customer performance. We consider various factors in estimating customer performance, including forecasted transactions, card issuance and card conversion volumes, expected payments and historical experience with that customer. Rebates and incentives are recorded as a reduction to gross revenue based on these estimates primarily when volume- and transaction - based revenues are recognized over the contractual term. Differences between actual results and our estimates are adjusted in the period the customer reports actual performance. If our customers’ actual performance is not consistent with our estimates of their performance, net revenue may be materially different.
+
+52 MASTERCARD 2019 FORM 10-K
+
+PART II
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Loss Contingencies
+
+We are currently involved in various claims and legal proceedings. We regularly review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and whether an exposure is reasonably estimable. Our judgments are subjective based on the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. Because of uncertainties related to these matters, accruals are based only on the best information available at the time. As additional information becomes available, we reassess the potential liability related to pending claims and litigation and may revise our estimates. Due to the inherent uncertainties of the legal and regulatory process in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes. See Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Income Taxes
+
+In calculating our effective income tax rate, we need to make estimates regarding the timing and amount of taxable and deductible items which will adjust the pretax income earned in various tax jurisdictions. Through our interpretation of local tax regulations, adjustments to pretax income for income earned in various tax jurisdictions are reflected within various tax filings. Although we believe that our estimates and judgments discussed herein are reasonable, actual results may be materially different than the estimated amounts.
+
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. Significant judgment is required in determining the valuation allowance. We consider projected future taxable income and ongoing tax planning strategies in assessing the need for the valuation allowance. If it is determined that we are able to realize deferred tax assets in excess of the net carrying value or to the extent we are unable to realize a deferred tax asset, we would adjust the valuation allowance in the period in which such a determination is made, with a corresponding increase or decrease to earnings.
+
+We record tax liabilities for uncertain tax positions taken, or expected to be taken, which may not be sustained or may only be partially sustained, upon examination by the relevant taxing authorities. We consider all relevant facts and current authorities in the tax law in assessing whether any benefit resulting from an uncertain tax position is more likely than not to be sustained and, if so, how current law impacts the amount reflected within these financial statements. If upon examination, we realize a tax benefit which is not fully sustained or is more favorably sustained, this would decrease or increase earnings in the period. In certain situations, we will have offsetting tax credits or taxes in other jurisdictions.
+
+Deferred taxes are established on the estimated foreign exchange gains or losses for foreign earnings that are not considered permanently reinvested, which will be recognized through cumulative translation adjustments as incurred. Ultimately, the working capital requirements of foreign affiliates will determine the amount of cash to be remitted from respective jurisdictions.
+
+Business Combinations
+
+We account for our business combinations using the acquisition method of accounting. The acquisition purchase price is allocated to the underlying identified, tangible and intangible assets, liabilities assumed and any non-controlling interest in the acquiree, based on their respective estimated fair values on the acquisition date. Any excess of purchase price over the fair value of net assets acquired, including identifiable intangible assets, is recorded as goodwill. The amounts and useful lives assigned to acquisition-related tangible and intangible assets impact the amount and timing of future amortization expense. We use various valuation techniques to determine fair value, primarily discounted cash flows analysis, relief-from-royalty and multi-period excess earnings for estimating the value of intangible assets. These valuation techniques included comparable company multiples, discount rates, growth projections and other assumptions of future business conditions. Determining the fair value of assets acquired, liabilities assumed, any non-controlling interest in the acquiree and the expected useful lives, requires management’s judgment. The significance of management’s estimates and assumptions is relative to the size of the acquisition. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. 
+
+Item 7A. Quantitative and qualitative disclosures about market risk

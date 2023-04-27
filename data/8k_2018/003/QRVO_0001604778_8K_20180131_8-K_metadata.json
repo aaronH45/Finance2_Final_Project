@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001604778",
+    "sec_company_name": "Qorvo, Inc. (Filer)",
+    "document_type": "8K",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20180131",
+    "sec_filing_date": "20180131",
+    "sec_changed_date": "20180131",
+    "sec_accepted_date": "20180131160453",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477818000003/0001604778-18-000003-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1604778/000160477818000003/0001604778-18-000003.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\QRVO_0001604778_8K_20180131_8-K_metadata.json",
+    "original_file_name": "file was not saved locally",
+    "original_file_size": "30773 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 2586,
+    "endpoints": [
+        "Document   ",
+        " 99.1Press release, dated January 31, 2018 announcing financial results for Qorvo's fiscal 2018 third quarter ended December 30, 2017."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "QRVO",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0007\003\QRVO_0001604778_8K_20180131_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 7,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:17:42.947739",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:28:19.878211"
+}

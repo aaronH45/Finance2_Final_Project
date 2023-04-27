@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0001645590",
+    "sec_company_name": "Hewlett Packard Enterprise Co (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20190213",
+    "sec_filing_date": "20190213",
+    "sec_changed_date": "20190213",
+    "sec_accepted_date": "20190213163005",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1645590/000164559019000006/0001645590-19-000006-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1645590/000164559019000006/0001645590-19-000006.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\HPE_0001645590_EX991_20190213_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "1864345 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 42296,
+    "endpoints": [
+        "Exhibit   ",
+        "Hewlett Packard Enterprise believes that providing revenue on a constant currency basis, non-GAAP operating expenses, non-GAAP operating profit, non-GAAP operating margin, non-GAAP income tax rate, non-GAAP net earnings from continuing operations, non-GAAP net earnings from discontinued operations, non-GAAP diluted net earnings per share from continuing operations, adjusted non-GAAP diluted net earnings per share and non-GAAP diluted net earnings per share from discontinued operations, gross cash, free cash flow, net capital expenditures, net debt, net cash, operating company net debt and operating company net cash financial measures to investors in addition to the related GAAP measures provides investors with greater transparency to the information used by Hewlett Packard Enterprise’s management in its financial and operational decision making and allows investors to see Hewlett Packard Enterprise’s results “through the eyes” of management. Hewlett Packard Enterprise further believes that providing this information better enables Hewlett Packard Enterprise’s investors to understand Hewlett Packard Enterprise’s operating performance and to evaluate the efficacy of the methodology and information used by Hewlett Packard Enterprise’s management to evaluate and measure such performance. Disclosure of these non-GAAP financial measures also facilitates comparisons of Hewlett Packard Enterprise’s operating performance with the performance of other companies in Hewlett Packard Enterprise’s industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner."
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "HPE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0008\002\HPE_0001645590_EX991_20190213_EX-99_excerpt.txt",
+    "time_elapsed": 0.6,
+    "batch_number": 8,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:35:47.811513",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:46:22.772074"
+}

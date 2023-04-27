@@ -1,0 +1,60 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to financial market risks, including changes in foreign currency exchange rates, interest rates and equity investment risks. This exposure has increased due to recent financial market movements and changes to our expectations of near-term possible movements caused by the impact of COVID-19 as discussed in more detail below.
+
+Foreign Currency Exchange Risk
+
+We primarily conduct our business in the following locations: the United States, Europe, Canada, Latin America, Asia Pacific and Japan. The expanding global scope of our business exposes us to the risk of fluctuations in foreign currency markets, including emerging markets. This exposure is the result of selling in multiple currencies, growth in our international investments, including data center expansion, costs associated with third-party infrastructure providers, additional headcount in foreign countries, and operating in countries where the functional currency is the local currency. Specifically, our results of operations and cash flows are subject to fluctuations in the following currencies: the Euro, British Pound Sterling, Japanese Yen, Canadian Dollar, Australian Dollar and Brazilian Real against the United States Dollar (“USD”). These exposures may change over time as business practices evolve and economic conditions change, including market impacts associated with COVID-19. Changes in foreign currency exchange rates could have an adverse impact on our financial results and cash flows. 
+
+Foreign Currency Transaction Risk
+
+Our foreign currency exposures typically arise from selling annual and multi-year subscriptions in multiple currencies, customer accounts receivable, intercompany transfer pricing arrangements and other intercompany transactions. Our foreign currency management objective is to minimize the effect of fluctuations in foreign exchange rates on selected assets or liabilities without exposing us to additional risk associated with transactions that could be regarded as speculative. 
+
+We pursue our objective by utilizing foreign currency forward contracts to offset foreign exchange risk. Our foreign currency forward contracts are generally short-term in duration. We neither use these foreign currency forward contracts for trading purposes nor do we currently designate these forward contracts as hedging instruments pursuant to Accounting Standards Codification 815, Derivatives and Hedging. Accordingly, we record the fair values of these contracts as of the end of our reporting period to our consolidated balance sheets with changes in fair values recorded to our consolidated statements of operations. Given the short duration of the forward contracts, the amount recorded is not significant. Our ultimate realized gain or loss with respect to foreign currency exposures will generally depend on the size and type of cross-currency transactions that we enter into, the currency exchange rates associated with these exposures and changes in those rates, the net realized gain or loss on our foreign currency forward contracts and other factors. 
+
+Foreign Currency Translation Risk
+
+Fluctuations in foreign currencies impact the amount of total assets, liabilities, revenues, operating expenses and cash flows that we report for our foreign subsidiaries upon the translation of these amounts into USD. The amount of revenue that was reported in USD for foreign subsidiaries that transact in international currencies during the fiscal year ended January 31, 2022 benefited by approximately one percent compared to the fiscal year ended January 31, 2021. In addition, fluctuations in USD against international currencies negatively impacted our remaining performance obligation by approximately two percent as of January 31, 2022 compared to what we would have reported as of January 31, 2021 using constant currency rates. 
+
+Interest Rate Sensitivity
+
+We had cash, cash equivalents and marketable securities totaling $10.5 billion as of January 31, 2022. This amount was invested primarily in money market funds, time deposits, corporate notes and bonds, government securities and other debt securities with credit ratings of at least BBB or better. The cash, cash equivalents and marketable securities are held for general corporate purposes, including acquisitions of, or investments in, complementary businesses, services or technologies, working capital and capital expenditures. Our investments are made for capital preservation purposes. We do not enter into investments for trading or speculative purposes.
+
+Our cash equivalents and our portfolio of marketable securities are subject to market risk due to changes in interest rates. Fixed-rate securities may have their market value adversely impacted due to a rise in interest rates, while floating rate securities may produce less income than expected if interest rates fall. Due in part to these factors, our future investment income may fall short of expectations due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. However, because we classify our debt securities as “available for sale,” no gains or losses are recognized due to changes in interest rates unless such securities are sold prior to maturity or due to expected credit losses. 
+
+Our fixed-income portfolio is also subject to interest rate risk. An immediate increase or decrease in interest rates of 100 basis points at January 31, 2022 could result in a $58 million market value reduction or increase of the same amount. This estimate is based on a sensitivity model that measures market value changes when changes in interest rates occur. Fluctuations in the value of our investment securities caused by a change in interest rates (gains or losses on the carrying value) are recorded in other comprehensive loss, and are realized only if we sell the underlying securities.
+
+52
+At January 31, 2021, we had cash, cash equivalents and marketable securities totaling $12.0 billion. Changes in interest rates of 100 basis points would have resulted in market value changes of $63 million.
+
+Market Risk and Market Interest Risk
+
+We deposit our cash with multiple financial institutions. 
+
+Debt
+
+We maintain debt obligations that are subject to market interest risk, as follows (in millions): [DATA_TABLE_REMOVED]
+
+The borrowings under our Credit Facility bear interest, at our option, at a base rate plus a spread of 0.00% to 0.125% or an adjusted LIBOR rate plus a spread of 0.50% to 1.125%, in each case with such spread being determined based on our credit rating. Our Credit Facility allows for the LIBOR rate to be phased out and replaced with the Secured Overnight Financing Rate and therefore we do not anticipate a material impact by the expected upcoming LIBOR transition. We are also obligated to pay an ongoing commitment fee on undrawn amounts. As of January 31, 2022, there was no outstanding borrowing amount under the Credit Facility.
+
+The bank counterparties to our derivative contracts potentially expose us to credit-related losses in the event of their nonperformance. To mitigate that risk, we only contract with counterparties who meet the minimum requirements under our counterparty risk assessment process. We monitor ratings, credit spreads and potential downgrades on at least a quarterly basis. Based on our ongoing assessment of counterparty risk, we adjust our exposure to various counterparties. We generally enter into master netting arrangements, which reduce credit risk by permitting net settlement of transactions with the same counterparty. However, we do not have any master netting arrangements in place with collateral features.
+
+Strategic Investments
+
+As of January 31, 2022, our strategic investment portfolio consisted of investments in nearly 400 companies with a combined carrying value of $4.8 billion, including two privately held investments with carrying values that were individually greater than five percent of the total strategic investments portfolio and represented 21 percent of the portfolio in aggregate. 
+
+The following table sets forth additional information regarding active equity investments within our strategic investment portfolio as of January 31, 2022 and excludes exited investments (in millions):[DATA_TABLE_REMOVED]
+
+We anticipate additional volatility to our consolidated statements of operations due to changes in market prices, observable price changes and impairments to our investments. These changes could be material based on market conditions and events. While historically our strategic investment portfolio has had a positive impact on our financial results, that may not be true for future periods, particularly in periods of significant market fluctuations that affect our equity securities within our strategic investments portfolio. Volatility in the global market conditions, including recent economic disruptions, inflation and ongoing volatility in the public equity markets, may impact our strategic investment portfolio and our financial results may fluctuate from historical results and expectations.
+
+Our investments in privately held securities are in various classes of equity which may have different rights and 
+
+53
+preferences. The particular securities we hold, and their rights and preferences relative to those of other securities within the capital structure, may impact the magnitude by which our investment value moves in relation to movement of the total enterprise value of the company. As a result, our investment value in a specific company may move by more or less than any change in value of that overall company. An immediate decrease of ten percent in the enterprise values of our largest privately held equity securities, representing 41 percent of our total strategic investments as of January 31, 2022 could result in a $165 million reduction in the value of our investment portfolio. Fluctuations in the value of our privately held equity investments are only recorded when there is an observable transaction for a same or similar investment of the same issuer or in the event of impairment.
+
+We continually evaluate our investments in privately held and publicly traded companies. In certain cases, our ability to sell these investments may be impacted by contractual obligations to hold the securities for a set period of time after a public offering.
+
+In addition, the financial success of our investment in any company is typically dependent on a liquidity event, such as a public offering, acquisition or other favorable market event reflecting appreciation to the cost of our initial investment. All of our investments, particularly those in privately held companies, are therefore subject to a risk of partial or total loss of invested capital.
+
+54
+ITEM 8. FINANCIAL STATEMENTS

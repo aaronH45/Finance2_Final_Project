@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000027904",
+    "sec_company_name": "DELTA AIR LINES INC /DE/ (Filer)",
+    "document_type": "EX991",
+    "sec_form_header": "Form 8-K",
+    "sec_period_of_report": "20170104",
+    "sec_filing_date": "20170104",
+    "sec_changed_date": "20170104",
+    "sec_accepted_date": "20170104090011",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316817000005/0001683168-17-000005-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/27904/000168316817000005/0001683168-17-000005.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DAL_0000027904_EX991_20170104_EX-99_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "15121 chars",
+    "document_group": "EX-99",
+    "section_name": "EX-99",
+    "section_n_characters": 11748,
+    "endpoints": [
+        "Exhibit 99.1 ",
+        "mile, we adjust for the costs related to these sales to provide a more meaningful comparison of the costs of our airli ne operations to the rest of the airline industry. Pilot contract impact . Delta’s new pilot contract was ratified on December 1, and the contract is retroactive to January 1, 2016. As a result, Delta will recognize $475 million in retroactive wages and other benefits in the December quarter. We believe t his adjustment allows investors to better understand and analyze the company's core operational performance on a year - over - year basis. Pilot contract impact, normalized . We have included the portion of the contract expense related to the December quarter to allow investors to better understand and analyze the company's core operational performance on a year - over - year basis as if the pilot contract had been in effect as of January 1, 2016. Average Fuel Price Per Gallon, Adjusted We adjust for MTM adjustments and settlements to determine average fuel price per gallon, adjusted, for the reason described below: MTM adjustments and settlements . MTM adjustments are defined as fair value changes recorded in periods other than the settlement period. Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract settlement period. Settlements represent cash received or paid on hedge contracts settled during the period. These items adjust fuel expense to show the economic impact of hedging, including cash received or paid on hedge contracts during the period. Adjusting for these items allows investors to better understand and analyze our core operational performance in the period shown. (Projected) Three Months Ended December 31, 2016 Average fuel price per gallon $1.55 - $1.60 MTM adjustments and settlements 0.00 - 0.02 Average fuel price per gallon, adjusted $1.57 - $1.62 4 (Projected) Three Months Ended Three Months Ended Pilot Contract December 31, 2016 December 31, 2015 Change Impact 14.61 13.38 (2.79) (2.84) (0.58) (0.37) 11.24 10.17 ~ 10% (0.81) - 10.43 10.17 ~ 2% ~ 8 pts 0.16 - CASM-EX, adjusted for pilot contract impact, normalized 10.59 10.17 ~ 4% Pilot contract impact, normalized Adjusted for: Pilot contract impact CASM-Ex, adjusted for pilot contract impact CASM (cents) Adjusted for: Aircraft fuel and related taxes Other expenses CASM-Ex"
+    ],
+    "extraction_method": "html",
+    "warnings": [],
+    "company_description": "DAL",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0006\001\DAL_0000027904_EX991_20170104_EX-99_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 6,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 22:00:52.115412",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 22:04:24.892099"
+}

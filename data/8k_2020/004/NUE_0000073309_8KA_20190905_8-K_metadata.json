@@ -1,0 +1,32 @@
+{
+    "sec_cik": "0000073309",
+    "sec_company_name": "NUCOR CORP (Filer)",
+    "document_type": "8KA",
+    "sec_form_header": "Form 8-K/A",
+    "sec_period_of_report": "20190905",
+    "sec_filing_date": "20200103",
+    "sec_changed_date": "20200103",
+    "sec_accepted_date": "20200103143311",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/73309/000119312520001292/0001193125-20-001292-index.htm",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/73309/000119312520001292/0001193125-20-001292.txt",
+    "metadata_file_name": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\NUE_0000073309_8KA_20190905_8-K_metadata.json",
+    "original_file_name": "",
+    "original_file_size": "33100 chars",
+    "document_group": "8-K",
+    "section_name": "8-K",
+    "section_n_characters": 5588,
+    "endpoints": [
+        "xml version='1.0' encoding='utf-8' ?   8-K/A    ",
+        "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. [DATA_TABLE_REMOVED]"
+    ],
+    "extraction_method": "xbrl",
+    "warnings": [],
+    "company_description": "NUE",
+    "output_file": "C:\Users\aaron\OneDrive\Desktop\homework\finance2\SEC-EDGAR-text\output_files_examples\batch_0009\004\NUE_0000073309_8KA_20190905_8-K_excerpt.txt",
+    "time_elapsed": 0.0,
+    "batch_number": 9,
+    "batch_signature": "",
+    "batch_start_time": "2023-04-16 23:34:09.101264",
+    "batch_machine_id": "DESKTOP-BTCJU5K",
+    "section_end_time": "2023-04-16 23:47:16.276655"
+}
